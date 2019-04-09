@@ -1,0 +1,117 @@
+{
+  "id": 85883837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":516735.88475,
+    "geom:bbox":"-99.1543579102,19.4406943944,-99.1451452644,19.4484641847",
+    "geom:latitude":19.444159,
+    "geom:longitude":-99.150073,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.444452,
+    "lbl:longitude":-99.150474,
+    "mps:latitude":19.443284,
+    "mps:longitude":-99.151454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Buenavista"
+    ],
+    "name:unk_x_variant":[
+        "Buenavista"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Buenavista",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Buenavista",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuauhtemoc",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":27,
+    "qs:photo_sum":65,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599939,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535757,
+        102073737,
+        85686515,
+        101991151,
+        102073739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898478,
+        "qs:id":1341956
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"21665a87680417ef304454f150c10d71",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883837,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073739,
+            "locality_id":101991151,
+            "neighbourhood_id":85883837,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883837,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1507659908,
+    "wof:name":"Buenavista",
+    "wof:parent_id":890535757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.15435791018601,
+    19.44069439441687,
+    -99.14514526437188,
+    19.44846418470003
+],
+  "geometry": {"coordinates":[[[-99.14514526437188,19.44484253318063],[-99.14563503919595,19.44328436007534],[-99.14611816409993,19.44328436386662],[-99.1488647461,19.44328436394717],[-99.1488647461,19.4406943948471],[-99.15161132811656,19.44069439441687],[-99.15435791018601,19.44069439556412],[-99.15435791018601,19.44328436466411],[-99.15435791018422,19.44587429174713],[-99.15225991882332,19.44587429389813],[-99.15161132809996,19.44587429820001],[-99.1488647461,19.44587429820001],[-99.1488647461,19.44846418470003],[-99.14821616345577,19.44846418092314],[-99.14611816408421,19.44846417823143],[-99.14611816409015,19.44587429418492],[-99.14514526437188,19.44484253318063]]],"type":"Polygon"}
+}

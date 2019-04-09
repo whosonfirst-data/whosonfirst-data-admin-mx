@@ -1,0 +1,89 @@
+{
+  "id": 1126093693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.62212,20.14973,-102.62212,20.14973",
+    "geom:latitude":20.14973,
+    "geom:longitude":-102.62212,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.14973,
+    "lbl:longitude":-102.62212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Cumuatillo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4012139,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Morelos",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Michoacan de Ocampo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1028664,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55920640,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Michoacan de Ocampo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101997519,
+        102075101,
+        85686595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4012139,
+        "gp:id":55920640,
+        "qs_pg:id":1028664
+    },
+    "wof:country":"MX",
+    "wof:created":1497314660,
+    "wof:geomhash":"09a341b7378f99af4b3a7dde7a1539f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075101,
+            "locality_id":101997519,
+            "neighbourhood_id":1126093693,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1126093693,
+    "wof:lastmodified":1509411780,
+    "wof:name":"Morelos",
+    "wof:parent_id":101997519,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.62212,
+    20.14973,
+    -102.62212,
+    20.14973
+],
+  "geometry": {"coordinates":[-102.62212,20.14973],"type":"Point"}
+}

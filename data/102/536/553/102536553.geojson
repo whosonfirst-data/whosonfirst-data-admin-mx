@@ -1,0 +1,69 @@
+{
+  "id": 102536553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.5705555556,27.4438888889,-99.5705555556,27.4438888889",
+    "geom:latitude":27.443889,
+    "geom:longitude":-99.570556,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"484",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601658,
+        "planet_id":1,
+        "state_id":2346291
+    },
+    "wof:belongsto":[
+        85633293,
+        102000965,
+        85686695,
+        102078877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514945,
+        "iata:code":"NLD",
+        "icao:code":"MMNL",
+        "oa:id":"4735",
+        "wd:id":"Q2231559"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"33242a2f998d94cef31b04902056097c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536553,
+            "country_id":85633293,
+            "county_id":102078877,
+            "locality_id":102000965,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":102536553,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Quetzalcoatl International Airport",
+    "wof:parent_id":102000965,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -99.570555555556,
+    27.443888888889,
+    -99.570555555556,
+    27.443888888889
+],
+  "geometry": {"coordinates":[-99.570555555556,27.443888888889],"type":"Point"}
+}

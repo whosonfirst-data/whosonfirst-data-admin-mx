@@ -1,0 +1,91 @@
+{
+  "id": 1125899027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.13757,30.54783,-111.13757,30.54783",
+    "geom:latitude":30.54783,
+    "geom:longitude":-111.13757,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":30.54783,
+    "lbl:longitude":-111.13757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Santa Ana Vieja"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3984687,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Santa Ana Viejo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sonora",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1120428,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":145701,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sonora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3984687,
+        "gp:id":145701,
+        "qs_pg:id":1120428
+    },
+    "wof:country":"MX",
+    "wof:created":1497295725,
+    "wof:geomhash":"9d40afa04bfd0b271a42d3c1c825970a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074483,
+            "locality_id":1125899027,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1125899027,
+    "wof:lastmodified":1509399290,
+    "wof:name":"Santa Ana Viejo",
+    "wof:parent_id":102074483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.13757,
+    30.54783,
+    -111.13757,
+    30.54783
+],
+  "geometry": {"coordinates":[-111.13757,30.54783],"type":"Point"}
+}

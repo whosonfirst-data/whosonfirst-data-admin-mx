@@ -1,0 +1,87 @@
+{
+  "id": 1126005451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.38529,24.3972,-98.38529,24.3972",
+    "geom:latitude":24.3972,
+    "geom:longitude":-98.38529,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":24.3972,
+    "lbl:longitude":-98.38529,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Encinal"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3528993,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Encinal",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tamaulipas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":244212,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":120194,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tamaulipas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3528993,
+        "gp:id":120194,
+        "qs_pg:id":244212
+    },
+    "wof:country":"MX",
+    "wof:created":1497299912,
+    "wof:geomhash":"1efe09a88470c4017d0b8f7e7eee9612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078903,
+            "locality_id":1126005451,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1126005451,
+    "wof:lastmodified":1509406388,
+    "wof:name":"El Encinal",
+    "wof:parent_id":102078903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.38529,
+    24.3972,
+    -98.38529,
+    24.3972
+],
+  "geometry": {"coordinates":[-98.38529,24.3972],"type":"Point"}
+}

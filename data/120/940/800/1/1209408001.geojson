@@ -1,0 +1,65 @@
+{
+  "id": 1209408001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.40006,15.30676,-92.40006,15.30676",
+    "geom:latitude":15.30676,
+    "geom:longitude":-92.40006,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Santa Catalina",
+    "gn:country_code":"MX",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633813,
+    "gn:latitude":15.30676,
+    "gn:longitude":-92.40006,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Santa Catalina",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Catalina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633813
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c4161a72a20167b775348333e924ad30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209408001
+        }
+    ],
+    "wof:id":1209408001,
+    "wof:lastmodified":1537672488,
+    "wof:name":"Santa Catalina",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.40006,
+    15.30676,
+    -92.40006,
+    15.30676
+],
+  "geometry": {"coordinates":[-92.40006,15.30676],"type":"Point"}
+}

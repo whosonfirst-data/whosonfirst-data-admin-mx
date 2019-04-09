@@ -1,0 +1,72 @@
+{
+  "id": 102000337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":48070.130133,
+    "geom:bbox":"-98.7636939716,20.0534651597,-98.7613133778,20.0560296201",
+    "geom:latitude":20.054733,
+    "geom:longitude":-98.762467,
+    "iso:country":"MX",
+    "lbl:latitude":20.054753,
+    "lbl:longitude":-98.762465,
+    "mps:latitude":20.054753,
+    "mps:longitude":-98.762465,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Mexico",
+    "qs:a1":"*Hidalgo",
+    "qs:a1_lc":"13",
+    "qs:a1r":"*",
+    "qs:a2":"Mineral de la Reforma",
+    "qs:a2_lc":"13051",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Privadas del Parque",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56068678
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f2f42e2173a523c5537e7b5b96393776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078543,
+            "locality_id":102000337,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":102000337,
+    "wof:lastmodified":1479907616,
+    "wof:name":"Privadas del Parque",
+    "wof:parent_id":102078543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.76369397156375,
+    20.0534651596612,
+    -98.76131337778197,
+    20.05602962005032
+],
+  "geometry": {"coordinates":[[[-98.7618486380081,20.0534651596612],[-98.76263527971675,20.05361385329428],[-98.76369397156375,20.05381396166332],[-98.76354900235833,20.05429136596764],[-98.76353958014907,20.05432240130291],[-98.7634320007557,20.05465423889357],[-98.76331349945345,20.05501976769166],[-98.76319049078118,20.05539920532219],[-98.76306839543321,20.05577581325412],[-98.76298611263898,20.05602962005032],[-98.76213514586041,20.05585652611029],[-98.76131337778197,20.05568936814702],[-98.76138843357118,20.05533598426003],[-98.76139614822648,20.05530735554839],[-98.76147581636484,20.0549830122543],[-98.76156279385665,20.05462891084559],[-98.76164894827647,20.05427815080778],[-98.7617354188352,20.05392610990864],[-98.7618486380081,20.0534651596612]]],"type":"Polygon"}
+}

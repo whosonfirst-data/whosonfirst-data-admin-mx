@@ -1,0 +1,125 @@
+{
+  "id": 85883693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000366,
+    "geom:area_square_m":4268797.233869,
+    "geom:bbox":"-99.2092895508,19.4483995538,-99.1833493252,19.4720462139",
+    "geom:latitude":19.459069,
+    "geom:longitude":-99.195733,
+    "iso:country":"MX",
+    "lbl:latitude":19.458057,
+    "lbl:longitude":-99.189288,
+    "mps:latitude":19.459598,
+    "mps:longitude":-99.19549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "San Diego Ocoyoacac"
+    ],
+    "name:spa_x_variant":[
+        "Xocoyucan",
+        "San Diego"
+    ],
+    "name:unk_x_variant":[
+        "San Diego Xocoyucan",
+        "San Diego Ocoyoacac"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"29",
+    "qs:gn_name":"San Diego Xocoyucan",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"San Diego Ocoyoacac",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":318,
+    "qs:photo_sum":451,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991171,
+        890535785,
+        102073749,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815442,
+        "gp:id":55897854,
+        "qs:id":73288,
+        "qs_pg:id":73288
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"94244075bcd0b13f8a12d5687cbd8e57",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073749,
+            "locality_id":101991171,
+            "neighbourhood_id":85883693,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883693,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883693,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"San Diego Ocoyoacac",
+    "wof:parent_id":890535785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.20928955079998,
+    19.44839955380668,
+    -99.18334932517948,
+    19.47204621389503
+],
+  "geometry": {"coordinates":[[[-99.20379638671238,19.47204621389503],[-99.195556640625,19.4668026129843],[-99.19168478156647,19.4676239361727],[-99.19103624319928,19.46831180084129],[-99.19006347660002,19.46796788298941],[-99.187316894525,19.46699683956747],[-99.18731689451468,19.46659223220004],[-99.18731689451451,19.46400262916261],[-99.18594360352478,19.46254609464117],[-99.18594360352478,19.4614129864753],[-99.18558745092813,19.4606575184373],[-99.18457031249997,19.46011813627536],[-99.18447886006928,19.46006963962199],[-99.18359748884438,19.45726532559344],[-99.18457031249997,19.4562335899773],[-99.18457031249997,19.45364382756264],[-99.18334932517948,19.45234891102527],[-99.18457031249997,19.45105402463764],[-99.18731689451451,19.45105402377727],[-99.18975892760616,19.44846417435026],[-99.18988079339863,19.44839955380668],[-99.19196350469034,19.44913580012117],[-99.19281005859997,19.4490075451031],[-99.19731875400313,19.44969062364447],[-99.19767447179248,19.44991697019789],[-99.19781976665956,19.45002855090931],[-99.19952419048369,19.45364373020035],[-99.20654296877495,19.45364373020035],[-99.2085771102299,19.45472237967427],[-99.20928955079998,19.45623355465054],[-99.20928955079998,19.45849994154585],[-99.20654296880002,19.46141295542378],[-99.20654296880002,19.46141299680002],[-99.20654292978776,19.46141299680002],[-99.203796386725,19.46432596938121],[-99.20379638671238,19.47204621389503]]],"type":"Polygon"}
+}

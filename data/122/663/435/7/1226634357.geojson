@@ -1,0 +1,71 @@
+{
+  "id": 1226634357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.43264,24.43243,-103.43264,24.43243",
+    "geom:latitude":24.43243,
+    "geom:longitude":-103.43264,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Ponce",
+    "gn:country_code":"MX",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3992218,
+    "gn:latitude":24.43243,
+    "gn:longitude":-103.43264,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Ponce",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "Ponce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3992218
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"31844d9a215362c94158a22bbd317c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075149,
+            "locality_id":1226634357,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1226634357,
+    "wof:lastmodified":1537667477,
+    "wof:name":"Ponce",
+    "wof:parent_id":102075149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.43264,
+    24.43243,
+    -103.43264,
+    24.43243
+],
+  "geometry": {"coordinates":[-103.43264000000001,24.43243],"type":"Point"}
+}

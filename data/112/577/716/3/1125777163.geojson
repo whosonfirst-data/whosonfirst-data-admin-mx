@@ -1,0 +1,84 @@
+{
+  "id": 1125777163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.56671,19.47996,-99.56671,19.47996",
+    "geom:latitude":19.47996,
+    "geom:longitude":-99.56671,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5581,
+    "gn:population":5581,
+    "iso:country":"MX",
+    "lbl:latitude":19.47996,
+    "lbl:longitude":-99.56671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Pedro Abajo"
+    ],
+    "name:spa_x_variant":[
+        "San Pedro de Abajo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3827229,
+    "qs_pg:gn_pop":5581,
+    "qs_pg:name":"San Pedro de Abajo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1046714,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827229,
+        "qs_pg:id":1046714
+    },
+    "wof:country":"MX",
+    "wof:created":1497290313,
+    "wof:geomhash":"dcf395eb3e32b2fa0aa82f6fcf55bd92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074047,
+            "locality_id":1125777163,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1125777163,
+    "wof:lastmodified":1509391354,
+    "wof:name":"San Pedro de Abajo",
+    "wof:parent_id":102074047,
+    "wof:placetype":"locality",
+    "wof:population":5581,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.56671,
+    19.47996,
+    -99.56671,
+    19.47996
+],
+  "geometry": {"coordinates":[-99.56671,19.47996],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1126066711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.88551,19.27781,-98.88551,19.27781",
+    "geom:latitude":19.27781,
+    "geom:longitude":-98.88551,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.27781,
+    "lbl:longitude":-98.88551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Emiliano Zapata"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3817645,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Emiliano Zapata",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":230,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":230,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1199687,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898756,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85686527,
+        102191575,
+        85633293,
+        101992795,
+        102074173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817645,
+        "gp:id":55898756,
+        "qs_pg:id":1199687
+    },
+    "wof:country":"MX",
+    "wof:created":1497308983,
+    "wof:geomhash":"04aa2503b3059a32b0c89b88ceed86ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074173,
+            "locality_id":101992795,
+            "neighbourhood_id":1126066711,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126066711,
+    "wof:lastmodified":1534379381,
+    "wof:name":"Emiliano Zapata",
+    "wof:parent_id":101992795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[
+        1126102909
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.88551,
+    19.27781,
+    -98.88551,
+    19.27781
+],
+  "geometry": {"coordinates":[-98.88551,19.27781],"type":"Point"}
+}

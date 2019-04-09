@@ -1,0 +1,73 @@
+{
+  "id": 1343953403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.55301,28.39658,-105.55301,28.39658",
+    "geom:latitude":28.39658,
+    "geom:longitude":-105.55301,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"MX",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11360752,
+    "gn:latitude":28.39658,
+    "gn:longitude":-105.55301,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio"
+    ],
+    "name:spa_x_variant":[
+        "Las Lilas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11360752
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6b556e6124256046d8923f1fbd69d0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075277,
+            "locality_id":1343953403,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1343953403,
+    "wof:lastmodified":1537673469,
+    "wof:name":"San Antonio",
+    "wof:parent_id":102075277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.55301,
+    28.39658,
+    -105.55301,
+    28.39658
+],
+  "geometry": {"coordinates":[-105.55301,28.39658],"type":"Point"}
+}

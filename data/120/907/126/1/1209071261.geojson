@@ -1,0 +1,65 @@
+{
+  "id": 1209071261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.47556,25.22869,-99.47556,25.22869",
+    "geom:latitude":25.22869,
+    "geom:longitude":-99.47556,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Rancho Nuevo",
+    "gn:country_code":"MX",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3520509,
+    "gn:latitude":25.22869,
+    "gn:longitude":-99.47556,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Rancho Nuevo",
+    "gn:population":9,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3520509
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0149733dcb8cb3dbc6a7b2462f55dc3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209071261
+        }
+    ],
+    "wof:id":1209071261,
+    "wof:lastmodified":1536298640,
+    "wof:name":"Rancho Nuevo",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.47556,
+    25.22869,
+    -99.47556,
+    25.22869
+],
+  "geometry": {"coordinates":[-99.47556,25.22869],"type":"Point"}
+}

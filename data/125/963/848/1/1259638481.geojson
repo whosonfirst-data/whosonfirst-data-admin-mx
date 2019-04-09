@@ -1,0 +1,76 @@
+{
+  "id": 1259638481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.7,26.33694,-108.7,26.33694",
+    "geom:latitude":26.33694,
+    "geom:longitude":-108.7,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"La Bajada del Monte",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4017695,
+    "gn:latitude":26.33694,
+    "gn:longitude":-108.7,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"La Bajada del Monte",
+    "gn:population":712,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baja del Monte",
+        "Bajada del Monte"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4017695
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4324a7e47c5ab68d5ce09a2ac593ad2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074323,
+            "locality_id":1259638481,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1259638481,
+    "wof:lastmodified":1537668156,
+    "wof:name":"La Bajada del Monte",
+    "wof:parent_id":102074323,
+    "wof:placetype":"locality",
+    "wof:population":712,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.7,
+    26.33694,
+    -108.7,
+    26.33694
+],
+  "geometry": {"coordinates":[-108.7,26.33694],"type":"Point"}
+}

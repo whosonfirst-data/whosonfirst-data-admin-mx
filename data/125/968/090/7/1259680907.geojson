@@ -1,0 +1,75 @@
+{
+  "id": 1259680907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.49513,26.53337,-105.49513,26.53337",
+    "geom:latitude":26.53337,
+    "geom:longitude":-105.49513,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"44.0",
+    "gn:asciiname":"Los Amarraderos",
+    "gn:country_code":"MX",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3989727,
+    "gn:latitude":26.53337,
+    "gn:longitude":-105.49513,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Los Amarraderos",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Amarraderos"
+    ],
+    "name:und_x_variant":[
+        "Rancho Los Amarraderes",
+        "Los Amarraderes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3989727
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b8b58be3c465d54b7712e679ec8a4f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075341,
+            "locality_id":1259680907,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1259680907,
+    "wof:lastmodified":1537667410,
+    "wof:name":"Los Amarraderos",
+    "wof:parent_id":102075341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.49513,
+    26.53337,
+    -105.49513,
+    26.53337
+],
+  "geometry": {"coordinates":[-105.49513,26.53337],"type":"Point"}
+}

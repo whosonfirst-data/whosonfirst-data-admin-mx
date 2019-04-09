@@ -1,0 +1,71 @@
+{
+  "id": 1293174979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.85972,18.01778,-95.85972,18.01778",
+    "geom:latitude":18.01778,
+    "geom:longitude":-95.85972,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"44.0",
+    "gn:asciiname":"Aeropuerto",
+    "gn:country_code":"MX",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8883744,
+    "gn:latitude":18.01778,
+    "gn:longitude":-95.85972,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Aeropuerto",
+    "gn:population":82,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102077081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8883744
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1fdad6f890e4d7e690db3d54e24d5fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077081,
+            "locality_id":1293174979,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1293174979,
+    "wof:lastmodified":1536740566,
+    "wof:name":"Aeropuerto",
+    "wof:parent_id":102077081,
+    "wof:placetype":"locality",
+    "wof:population":82,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.85972,
+    18.01778,
+    -95.85972,
+    18.01778
+],
+  "geometry": {"coordinates":[-95.85972,18.01778],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1125879753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.63739,21.18883,-104.63739,21.18883",
+    "geom:latitude":21.18883,
+    "geom:longitude":-104.63739,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":21.18883,
+    "lbl:longitude":-104.63739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Chapalilla"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4014544,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Chapalilla",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Nayarit",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":347242,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":115651,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Nayarit",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4014544,
+        "gp:id":115651,
+        "qs_pg:id":347242
+    },
+    "wof:country":"MX",
+    "wof:created":1497294738,
+    "wof:geomhash":"e515e4b06c1d981ac70f1b8061b78b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074573,
+            "locality_id":1125879753,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1125879753,
+    "wof:lastmodified":1509398046,
+    "wof:name":"Chapalilla",
+    "wof:parent_id":102074573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.63739,
+    21.18883,
+    -104.63739,
+    21.18883
+],
+  "geometry": {"coordinates":[-104.63739,21.18883],"type":"Point"}
+}

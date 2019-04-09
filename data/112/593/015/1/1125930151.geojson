@@ -1,0 +1,91 @@
+{
+  "id": 1125930151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.12881,20.32982,-103.12881,20.32982",
+    "geom:latitude":20.32982,
+    "geom:longitude":-103.12881,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.32982,
+    "lbl:longitude":-103.12881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ibarra"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3985247,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Nicol\u00e1s de Ibarra",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":22884,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":144790,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985247,
+        "gp:id":144790,
+        "qs_pg:id":22884
+    },
+    "wof:country":"MX",
+    "wof:created":1497296777,
+    "wof:geomhash":"14e1b10a2696567d22c54fd807b69561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074825,
+            "locality_id":1125930151,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1125930151,
+    "wof:lastmodified":1509401354,
+    "wof:name":"San Nicol\u00e1s de Ibarra",
+    "wof:parent_id":102074825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.12881,
+    20.32982,
+    -103.12881,
+    20.32982
+],
+  "geometry": {"coordinates":[-103.12881,20.32982],"type":"Point"}
+}

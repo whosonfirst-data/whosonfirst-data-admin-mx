@@ -1,0 +1,117 @@
+{
+  "id": 85884335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000233,
+    "geom:area_square_m":2720471.186806,
+    "geom:bbox":"-99.2669677734,19.3448364301,-99.2486347946,19.3616804888",
+    "geom:latitude":19.353376,
+    "geom:longitude":-99.258243,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.357581,
+    "lbl:longitude":-99.260127,
+    "mps:latitude":19.353258,
+    "mps:longitude":-99.257326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Tlayacapa"
+    ],
+    "name:unk_x_variant":[
+        "Tlayacapa"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"Tlayacapan",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Tlayacapa",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuajimalpa de Morelos",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":29,
+    "qs:photo_sum":77,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599938,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902771,
+        "qs:id":249374
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c61ee850cd09d36a1871d93b84c67418",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884335,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85884335,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884335,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1507659911,
+    "wof:name":"Tlayacapa",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.26696777342494,
+    19.34483643005042,
+    -99.24863479464045,
+    19.36168048875
+],
+  "geometry": {"coordinates":[[[-99.25078977596166,19.35261085322517],[-99.25394948255413,19.34591320391019],[-99.25598144529994,19.34483643005042],[-99.26147460937483,19.34483643005042],[-99.2663647839974,19.34742782212521],[-99.26696777342494,19.34742782212521],[-99.26696777341385,19.35261089440006],[-99.26696777341803,19.35641795926696],[-99.2669677734103,19.35779359620004],[-99.26147460938327,19.35779359620004],[-99.26147460938424,19.36038487894709],[-99.25872802731456,19.36038487937732],[-99.25750567790743,19.36168048875],[-99.24863479464045,19.36168048875],[-99.25048828125,19.35447720242036],[-99.25048828125,19.35293039838963],[-99.25078977596166,19.35261085322517]]],"type":"Polygon"}
+}

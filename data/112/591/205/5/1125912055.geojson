@@ -1,0 +1,91 @@
+{
+  "id": 1125912055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.74512,26.29581,-108.74512,26.29581",
+    "geom:latitude":26.29581,
+    "geom:longitude":-108.74512,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":859,
+    "iso:country":"MX",
+    "lbl:latitude":26.29581,
+    "lbl:longitude":-108.74512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Tehueco"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3982142,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tehueco",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sinaloa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":180426,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":148582,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sinaloa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3982142,
+        "gp:id":148582,
+        "qs_pg:id":180426
+    },
+    "wof:country":"MX",
+    "wof:created":1497296170,
+    "wof:geomhash":"24b21c7419f39b5e528a445fdf9892bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074323,
+            "locality_id":1125912055,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1125912055,
+    "wof:lastmodified":1509400246,
+    "wof:name":"Tehueco",
+    "wof:parent_id":102074323,
+    "wof:placetype":"locality",
+    "wof:population":859,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.74512,
+    26.29581,
+    -108.74512,
+    26.29581
+],
+  "geometry": {"coordinates":[-108.74512,26.29581],"type":"Point"}
+}

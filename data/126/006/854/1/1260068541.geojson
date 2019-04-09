@@ -1,0 +1,76 @@
+{
+  "id": 1260068541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.48469,24.49261,-104.48469,24.49261",
+    "geom:latitude":24.49261,
+    "geom:longitude":-104.48469,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Francisco Javier Mina",
+    "gn:country_code":"MX",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4006197,
+    "gn:latitude":24.49261,
+    "gn:longitude":-104.48469,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Francisco Jav\u00eder Mina",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Francisco Jav\u00eder Mina"
+    ],
+    "name:und_x_variant":[
+        "Corralejo",
+        "Javier Mina",
+        "Francisco Javier Mina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4006197
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a3abd7ac504c3fba7e35e0e7eaddac50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075181,
+            "locality_id":1260068541,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1260068541,
+    "wof:lastmodified":1537667851,
+    "wof:name":"Francisco Javier Mina",
+    "wof:parent_id":102075181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.48469,
+    24.49261,
+    -104.48469,
+    24.49261
+],
+  "geometry": {"coordinates":[-104.48469,24.49261],"type":"Point"}
+}

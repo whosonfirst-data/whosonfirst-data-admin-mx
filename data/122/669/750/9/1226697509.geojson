@@ -1,0 +1,75 @@
+{
+  "id": 1226697509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.30943,17.83476,-92.30943,17.83476",
+    "geom:latitude":17.83476,
+    "geom:longitude":-92.30943,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Castro y Guiro",
+    "gn:country_code":"MX",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3802814,
+    "gn:latitude":17.83476,
+    "gn:longitude":-92.30943,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Castro y G\u00fciro",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Castro"
+    ],
+    "name:spa_x_variant":[
+        "Castro y G\u00fciro",
+        "Castrog\u00fciro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686617,
+        102075801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3802814
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"201a6dee4e5dab928abf1d527abc3985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075801,
+            "locality_id":1226697509,
+            "region_id":85686617
+        }
+    ],
+    "wof:id":1226697509,
+    "wof:lastmodified":1537666593,
+    "wof:name":"Castro y Guiro",
+    "wof:parent_id":102075801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.30943,
+    17.83476,
+    -92.30943,
+    17.83476
+],
+  "geometry": {"coordinates":[-92.30943000000001,17.83476],"type":"Point"}
+}

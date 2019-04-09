@@ -1,0 +1,75 @@
+{
+  "id": 1226638025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.68371,26.70956,-105.68371,26.70956",
+    "geom:latitude":26.70956,
+    "geom:longitude":-105.68371,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"44.0",
+    "gn:asciiname":"La Mecatona",
+    "gn:country_code":"MX",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":4001424,
+    "gn:latitude":26.70956,
+    "gn:longitude":-105.68371,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"La Mecatona",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "La Mecatona"
+    ],
+    "name:und_x_variant":[
+        "Rancho La Mecatena",
+        "La Mecatena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001424
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3bd4e17ada261bb2ecec354f7b3da000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075341,
+            "locality_id":1226638025,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1226638025,
+    "wof:lastmodified":1537667720,
+    "wof:name":"La Mecatona",
+    "wof:parent_id":102075341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.68371,
+    26.70956,
+    -105.68371,
+    26.70956
+],
+  "geometry": {"coordinates":[-105.68371,26.70956],"type":"Point"}
+}

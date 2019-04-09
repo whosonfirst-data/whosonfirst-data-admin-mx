@@ -1,0 +1,84 @@
+{
+  "id": 1276930679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.26904,17.25319,-91.26904,17.25319",
+    "geom:latitude":17.25319,
+    "geom:longitude":-91.26904,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Nuevo Progreso",
+    "gn:country_code":"MX",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3528379,
+    "gn:latitude":17.25319,
+    "gn:longitude":-91.26904,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Nuevo Progreso",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:spa_x_variant":[
+        "El Progresso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695377,
+        85633293,
+        85686617,
+        102075787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3528379
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5f7cac4bb4d6c428f4ead0bd1af3fa34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695377,
+            "locality_id":1276930679,
+            "region_id":85671647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075787,
+            "locality_id":1276930679,
+            "region_id":85686617
+        }
+    ],
+    "wof:id":1276930679,
+    "wof:lastmodified":1537666303,
+    "wof:name":"Nuevo Progreso",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.26904,
+    17.25319,
+    -91.26904,
+    17.25319
+],
+  "geometry": {"coordinates":[-91.26904,17.25319],"type":"Point"}
+}

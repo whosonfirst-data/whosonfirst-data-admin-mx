@@ -1,0 +1,65 @@
+{
+  "id": 1209118879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.52918,32.56029,-116.52918,32.56029",
+    "geom:latitude":32.56029,
+    "geom:longitude":-116.52918,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"MX",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8577259,
+    "gn:latitude":32.56029,
+    "gn:longitude":-116.52918,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8577259
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e91b9807c3b1675b5ae7472c048c959b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209118879
+        }
+    ],
+    "wof:id":1209118879,
+    "wof:lastmodified":1537668537,
+    "wof:name":"San Pablo",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.52918,
+    32.56029,
+    -116.52918,
+    32.56029
+],
+  "geometry": {"coordinates":[-116.52918,32.56029],"type":"Point"}
+}

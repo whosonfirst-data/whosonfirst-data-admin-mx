@@ -1,0 +1,105 @@
+{
+  "id": 102076023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000205,
+    "geom:area_square_m":2421750.672905,
+    "geom:bbox":"-96.7658864113,16.7974702879,-96.751262627,16.8152017989",
+    "geom:latitude":16.805821,
+    "geom:longitude":-96.758942,
+    "iso:country":"MX",
+    "lbl:latitude":16.805485,
+    "lbl:longitude":-96.758942,
+    "mps:latitude":16.805485,
+    "mps:longitude":-96.758942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Santa In\u00e9s Yatzeche"
+    ],
+    "name:epo_x_preferred":[
+        "Ayoquezco de Aldama"
+    ],
+    "name:eus_x_preferred":[
+        "Santa In\u00e9s Yatzeche"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Santa In\u00e9s Yatzeche"
+    ],
+    "name:sco_x_preferred":[
+        "Santa In\u00e9s Yatzeche"
+    ],
+    "name:vie_x_preferred":[
+        "Santa In\u00e9s Yatzeche"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a2":"Santa In\u00c3\u00a9s Yatzeche",
+    "qs:a2_lc":"20389",
+    "qs:adm0":"Mexico",
+    "qs:adm0_a3":"MEX",
+    "qs:level":"adm2",
+    "qs:source":"Mexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-10-17",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2005-10-17",
+    "statoids:capital":"Santa In\u00e9s Yatzeche",
+    "statoids:country":"MX",
+    "statoids:hasc":"MX.OA",
+    "statoids:inegi":"20389",
+    "statoids:name":"Santa In\u00e9s Yatzeche",
+    "statoids:population":"975",
+    "statoids:statoid":"MX.OA.RC",
+    "statoids:timezone":"-6~",
+    "statoids:type":"municipality",
+    "wd:wordcount":241,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MX.OA.RC",
+        "inegi:id":"20389",
+        "wd:id":"Q14516968"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e6b092883ffda730e8d76c5ba47b66e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076023,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":102076023,
+    "wof:lastmodified":1536614255,
+    "wof:name":"Santa In\u00e9s Yatzeche",
+    "wof:parent_id":85686623,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":975,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:shortcode":"RC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.76588641125909,
+    16.79747028788531,
+    -96.75126262699351,
+    16.81520179893111
+],
+  "geometry": {"coordinates":[[[-96.76090787280708,16.81208807766982],[-96.76032330675257,16.81380691526524],[-96.76033346469343,16.81394573639668],[-96.75989480456711,16.81520179893111],[-96.75881439100758,16.81483353156472],[-96.7578100891869,16.81442718390857],[-96.75694861730511,16.81432277543993],[-96.75638496899465,16.81416135251195],[-96.75598187384774,16.81400165426806],[-96.75557810336961,16.81378429928187],[-96.75513891401664,16.8134670897779],[-96.754838168962,16.81325121050914],[-96.75467584339864,16.81318789967364],[-96.75463955220494,16.81315884148085],[-96.75453273267446,16.81319442944529],[-96.75416018028186,16.81303659837316],[-96.75352453432325,16.81294054721234],[-96.75311183864581,16.81297649981297],[-96.75288531584565,16.81230468490785],[-96.75276844094371,16.81157458294265],[-96.75126262699351,16.81146826847778],[-96.75246322936249,16.80370650541364],[-96.75279928348007,16.80197862605316],[-96.75435223838946,16.79747028788531],[-96.76377645451946,16.79807142013437],[-96.76562080029431,16.79854376563398],[-96.76588641125909,16.81241035423148],[-96.76436166976299,16.81231219610692],[-96.76090787280708,16.81208807766982]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125850103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.86667,20.06667,-97.86667,20.06667",
+    "geom:latitude":20.06667,
+    "geom:longitude":-97.86667,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8716,
+    "gn:population":2554,
+    "iso:country":"MX",
+    "lbl:latitude":20.06667,
+    "lbl:longitude":-97.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3515473,
+    "qs_pg:gn_pop":8716,
+    "qs_pg:name":"Tlacotepec",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1244300,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686657,
+        102078005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3515473,
+        "qs_pg:id":1244300
+    },
+    "wof:country":"MX",
+    "wof:created":1497293359,
+    "wof:geomhash":"2348df4581a9e11f60498b284adfc90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078005,
+            "locality_id":1125850103,
+            "region_id":85686657
+        }
+    ],
+    "wof:id":1125850103,
+    "wof:lastmodified":1509395870,
+    "wof:name":"Tlacotepec",
+    "wof:parent_id":102078005,
+    "wof:placetype":"locality",
+    "wof:population":2554,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.86667,
+    20.06667,
+    -97.86667,
+    20.06667
+],
+  "geometry": {"coordinates":[-97.86667,20.06667],"type":"Point"}
+}

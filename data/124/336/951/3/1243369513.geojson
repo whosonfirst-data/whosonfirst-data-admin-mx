@@ -1,0 +1,74 @@
+{
+  "id": 1243369513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.72462,18.67773,-91.72462,18.67773",
+    "geom:latitude":18.67773,
+    "geom:longitude":-91.72462,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Isla Pajaros",
+    "gn:country_code":"MX",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9877782,
+    "gn:latitude":18.67773,
+    "gn:longitude":-91.72462,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Isla P\u00e1jaros",
+    "gn:population":0,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Isla de P\u00e1jaros"
+    ],
+    "name:spa_x_variant":[
+        "Isla P\u00e1jaros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686707,
+        102079211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9877782
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"718947d2868e9adec8a412f2451e3ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079211,
+            "locality_id":1243369513,
+            "region_id":85686707
+        }
+    ],
+    "wof:id":1243369513,
+    "wof:lastmodified":1537672793,
+    "wof:name":"Isla Pajaros",
+    "wof:parent_id":102079211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.72462,
+    18.67773,
+    -91.72462,
+    18.67773
+],
+  "geometry": {"coordinates":[-91.72462,18.67773],"type":"Point"}
+}

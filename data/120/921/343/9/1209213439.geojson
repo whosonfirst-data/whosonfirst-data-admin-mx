@@ -1,0 +1,65 @@
+{
+  "id": 1209213439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.23214,16.39242,-93.23214,16.39242",
+    "geom:latitude":16.39242,
+    "geom:longitude":-93.23214,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"108.0",
+    "gn:asciiname":"San Ricardo",
+    "gn:country_code":"MX",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9624282,
+    "gn:latitude":16.39242,
+    "gn:longitude":-93.23214,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Ricardo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ricardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9624282
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e60ffb784da16b20ecde6904a5ada0bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209213439
+        }
+    ],
+    "wof:id":1209213439,
+    "wof:lastmodified":1537672424,
+    "wof:name":"San Ricardo",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.23214,
+    16.39242,
+    -93.23214,
+    16.39242
+],
+  "geometry": {"coordinates":[-93.23214,16.39242],"type":"Point"}
+}

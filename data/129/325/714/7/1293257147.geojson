@@ -1,0 +1,75 @@
+{
+  "id": 1293257147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.33045,25.4699,-99.33045,25.4699",
+    "geom:latitude":25.4699,
+    "geom:longitude":-99.33045,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"San Antonio de Mohinos",
+    "gn:country_code":"MX",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3519777,
+    "gn:latitude":25.4699,
+    "gn:longitude":-99.33045,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Antonio de Moh\u00ednos",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio de Moh\u00ednos"
+    ],
+    "name:und_x_variant":[
+        "San Antonio Viejo",
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3519777
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ded0f95ee09981f939792c090515f8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078709,
+            "locality_id":1293257147,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1293257147,
+    "wof:lastmodified":1537666050,
+    "wof:name":"San Antonio de Mohinos",
+    "wof:parent_id":102078709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.33045,
+    25.4699,
+    -99.33045,
+    25.4699
+],
+  "geometry": {"coordinates":[-99.33045,25.4699],"type":"Point"}
+}

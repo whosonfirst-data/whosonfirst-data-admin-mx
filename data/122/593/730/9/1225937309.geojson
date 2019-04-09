@@ -1,0 +1,74 @@
+{
+  "id": 1225937309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.55364,25.33699,-100.55364,25.33699",
+    "geom:latitude":25.33699,
+    "geom:longitude":-100.55364,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Los Angeles",
+    "gn:country_code":"MX",
+    "gn:dem":2514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8939076,
+    "gn:latitude":25.33699,
+    "gn:longitude":-100.55364,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Los \u00c1ngeles",
+    "gn:population":5,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los \u00c1ngeles"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8939076
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"005c35c1805ae972accbcb982b559081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078865,
+            "locality_id":1225937309,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1225937309,
+    "wof:lastmodified":1537671228,
+    "wof:name":"Los Angeles",
+    "wof:parent_id":102078865,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.55364,
+    25.33699,
+    -100.55364,
+    25.33699
+],
+  "geometry": {"coordinates":[-100.55364,25.33699],"type":"Point"}
+}

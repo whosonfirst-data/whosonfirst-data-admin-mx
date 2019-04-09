@@ -1,0 +1,72 @@
+{
+  "id": 102000797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":227471.482728,
+    "geom:bbox":"-100.24767131,25.8222879742,-100.243701568,25.8308939911",
+    "geom:latitude":25.826872,
+    "geom:longitude":-100.245739,
+    "iso:country":"MX",
+    "lbl:latitude":25.82687,
+    "lbl:longitude":-100.245739,
+    "mps:latitude":25.82687,
+    "mps:longitude":-100.245739,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Mexico",
+    "qs:a1":"*Nuevo Le\u00f3n",
+    "qs:a1_lc":"19",
+    "qs:a1r":"*",
+    "qs:a2":"Apodaca",
+    "qs:a2_lc":"19006",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fraccionamiento Cosm\u00f3polis Octavo Sector",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":112266
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9fe907efe79fb1c8d52153a467ef59be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078701,
+            "locality_id":102000797,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":102000797,
+    "wof:lastmodified":1479908195,
+    "wof:name":"Fraccionamiento Cosm\u00f3polis Octavo Sector",
+    "wof:parent_id":102078701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.2476713100218,
+    25.82228797417637,
+    -100.24370156758062,
+    25.83089399109731
+],
+  "geometry": {"coordinates":[[[-100.24438542991399,25.82289338918896],[-100.24371822916972,25.82266566620043],[-100.24370156758062,25.82228797417637],[-100.24453112833505,25.82254976067069],[-100.24643485875366,25.82318728045422],[-100.24648196695121,25.82356926120774],[-100.24677794896866,25.82540117983659],[-100.24707283763485,25.82709006659119],[-100.24735842822578,25.82889004547937],[-100.2474219856863,25.82929061324106],[-100.24754922078014,25.83009250961578],[-100.2476713100218,25.83089399109731],[-100.24514550009191,25.83075163942183],[-100.24499224412583,25.83074300049576],[-100.24407295302254,25.82395388843584],[-100.24411911126124,25.82352640164493],[-100.24427935926681,25.82314366409091],[-100.24438542991399,25.82289338918896]]],"type":"Polygon"}
+}

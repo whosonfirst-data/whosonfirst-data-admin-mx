@@ -1,0 +1,84 @@
+{
+  "id": 1125873163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.20488,19.01477,-102.20488,19.01477",
+    "geom:latitude":19.01477,
+    "geom:longitude":-102.20488,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8591,
+    "gn:population":8591,
+    "iso:country":"MX",
+    "lbl:latitude":19.01477,
+    "lbl:longitude":-102.20488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Morelos"
+    ],
+    "name:unk_x_variant":[
+        "Ant\u00fanez"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4018430,
+    "qs_pg:gn_pop":8591,
+    "qs_pg:name":"Antunes",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":585983,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686595,
+        102074919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4018430,
+        "qs_pg:id":585983
+    },
+    "wof:country":"MX",
+    "wof:created":1497294402,
+    "wof:geomhash":"4daa88ec709f257895d7edc3bbc3a3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074919,
+            "locality_id":1125873163,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1125873163,
+    "wof:lastmodified":1509397489,
+    "wof:name":"Antunes",
+    "wof:parent_id":102074919,
+    "wof:placetype":"locality",
+    "wof:population":8591,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.20488,
+    19.01477,
+    -102.20488,
+    19.01477
+],
+  "geometry": {"coordinates":[-102.20488,19.01477],"type":"Point"}
+}

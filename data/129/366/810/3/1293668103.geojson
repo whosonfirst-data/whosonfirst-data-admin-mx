@@ -1,0 +1,76 @@
+{
+  "id": 1293668103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.84305,20.71304,-98.84305,20.71304",
+    "geom:latitude":20.71304,
+    "geom:longitude":-98.84305,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"El Puerto de Jiliapa (El Puerto de Hualula)",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3526509,
+    "gn:latitude":20.71304,
+    "gn:longitude":-98.84305,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"El Puerto de Jiliapa (El Puerto de Hualula)",
+    "gn:population":27,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiliapan",
+        "Jiliapa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3526509
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3fb2ec84a01a40a92a2c80b8a0eeeb3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078589,
+            "locality_id":1293668103,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1293668103,
+    "wof:lastmodified":1537666249,
+    "wof:name":"El Puerto de Jiliapa (El Puerto de Hualula)",
+    "wof:parent_id":102078589,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.84305,
+    20.71304,
+    -98.84305,
+    20.71304
+],
+  "geometry": {"coordinates":[-98.84305000000001,20.71304],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126089391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.16192,19.12516,-98.16192,19.12516",
+    "geom:latitude":19.12516,
+    "geom:longitude":-98.16192,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":52591,
+    "gn:population":52591,
+    "iso:country":"MX",
+    "lbl:latitude":19.12516,
+    "lbl:longitude":-98.16192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "San Pablo del Monte"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3815453,
+    "qs_pg:gn_pop":52591,
+    "qs_pg:name":"Vicente Guerrero",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Puebla",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":355434,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55889494,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Puebla",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101999087,
+        102077927,
+        85686653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815453,
+        "gp:id":55889494,
+        "qs_pg:id":355434
+    },
+    "wof:country":"MX",
+    "wof:created":1497313430,
+    "wof:geomhash":"4cdad912594b1673ab2dea00d44c16a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077927,
+            "locality_id":101999087,
+            "neighbourhood_id":1126089391,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1126089391,
+    "wof:lastmodified":1509411568,
+    "wof:name":"Vicente Guerrero",
+    "wof:parent_id":101999087,
+    "wof:placetype":"neighbourhood",
+    "wof:population":52591,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.16192,
+    19.12516,
+    -98.16192,
+    19.12516
+],
+  "geometry": {"coordinates":[-98.16191999999999,19.12516],"type":"Point"}
+}

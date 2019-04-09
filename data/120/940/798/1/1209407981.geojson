@@ -1,0 +1,64 @@
+{
+  "id": 1209407981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.4036,16.7148,-93.4036,16.7148",
+    "geom:latitude":16.7148,
+    "geom:longitude":-93.4036,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"La Palma",
+    "gn:country_code":"MX",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602912,
+    "gn:latitude":16.7148,
+    "gn:longitude":-93.4036,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"La Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602912
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"bb2656732191808d0b74209b36b0a4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209407981
+        }
+    ],
+    "wof:id":1209407981,
+    "wof:lastmodified":1537673660,
+    "wof:name":"La Palma",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.4036,
+    16.7148,
+    -93.4036,
+    16.7148
+],
+  "geometry": {"coordinates":[-93.4036,16.7148],"type":"Point"}
+}

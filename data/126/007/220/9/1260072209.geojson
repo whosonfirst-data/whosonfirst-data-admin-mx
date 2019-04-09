@@ -1,0 +1,75 @@
+{
+  "id": 1260072209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.51926,26.9911,-106.51926,26.9911",
+    "geom:latitude":26.9911,
+    "geom:longitude":-106.51926,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"La Yerbabuena",
+    "gn:country_code":"MX",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3979913,
+    "gn:latitude":26.9911,
+    "gn:longitude":-106.51926,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"La Yerbabuena",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Yerbabuena"
+    ],
+    "name:und_x_variant":[
+        "Rancho Yerbabuena",
+        "Yerbabuena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3979913
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6cdd04a145f36b85478399e6958c2eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075303,
+            "locality_id":1260072209,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1260072209,
+    "wof:lastmodified":1537667177,
+    "wof:name":"La Yerbabuena",
+    "wof:parent_id":102075303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.51926,
+    26.9911,
+    -106.51926,
+    26.9911
+],
+  "geometry": {"coordinates":[-106.51926,26.9911],"type":"Point"}
+}

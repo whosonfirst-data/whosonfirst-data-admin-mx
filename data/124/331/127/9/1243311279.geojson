@@ -1,0 +1,74 @@
+{
+  "id": 1243311279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.43487,31.06809,-109.43487,31.06809",
+    "geom:latitude":31.06809,
+    "geom:longitude":-109.43487,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Cerro Prieto Uno",
+    "gn:country_code":"MX",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4014685,
+    "gn:latitude":31.06809,
+    "gn:longitude":-109.43487,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Cerro Prieto Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Prieto Uno"
+    ],
+    "name:und_x_variant":[
+        "Rancho Cerro Prieto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4014685
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4287900143f78039bb841b86a9c106aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074399,
+            "locality_id":1243311279,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1243311279,
+    "wof:lastmodified":1537668098,
+    "wof:name":"Cerro Prieto Uno",
+    "wof:parent_id":102074399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.43487,
+    31.06809,
+    -109.43487,
+    31.06809
+],
+  "geometry": {"coordinates":[-109.43487,31.06809],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310481257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.70167,18.38306,-100.70167,18.38306",
+    "geom:latitude":18.38306,
+    "geom:longitude":-100.70167,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Rio Florido (Las Animas)",
+    "gn:country_code":"MX",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8861396,
+    "gn:latitude":18.38306,
+    "gn:longitude":-100.70167,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"R\u00edo Florido (Las \u00c1nimas)",
+    "gn:population":689,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Florido (Las \u00c1nimas)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686517,
+        102073919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8861396
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"bc60a0f4b6c882dac9d1ec102233716e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073919,
+            "locality_id":1310481257,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":1310481257,
+    "wof:lastmodified":1537669309,
+    "wof:name":"Rio Florido (Las Animas)",
+    "wof:parent_id":102073919,
+    "wof:placetype":"locality",
+    "wof:population":689,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.70167,
+    18.38306,
+    -100.70167,
+    18.38306
+],
+  "geometry": {"coordinates":[-100.70166999999999,18.38306],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125844591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.3373,24.83026,-105.3373,24.83026",
+    "geom:latitude":24.83026,
+    "geom:longitude":-105.3373,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":22750,
+    "gn:population":22750,
+    "iso:country":"MX",
+    "lbl:latitude":24.83026,
+    "lbl:longitude":-105.3373,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Papasquiaro"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3985327,
+    "qs_pg:gn_pop":22750,
+    "qs_pg:name":"San Miguel de Papasquiaro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Durango",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":904801,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":144634,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Durango",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985327,
+        "gp:id":144634,
+        "qs_pg:id":904801
+    },
+    "wof:country":"MX",
+    "wof:created":1497293092,
+    "wof:geomhash":"c00c731010d406b7acca0fe24b34157c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075205,
+            "locality_id":1125844591,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1125844591,
+    "wof:lastmodified":1509395535,
+    "wof:name":"San Miguel de Papasquiaro",
+    "wof:parent_id":102075205,
+    "wof:placetype":"locality",
+    "wof:population":22750,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.3373,
+    24.83026,
+    -105.3373,
+    24.83026
+],
+  "geometry": {"coordinates":[-105.3373,24.83026],"type":"Point"}
+}

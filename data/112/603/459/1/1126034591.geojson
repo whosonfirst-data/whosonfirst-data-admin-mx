@@ -1,0 +1,97 @@
+{
+  "id": 1126034591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.56763,19.35501,-96.56763,19.35501",
+    "geom:latitude":19.35501,
+    "geom:longitude":-96.56763,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6687,
+    "gn:population":6687,
+    "iso:country":"MX",
+    "lbl:latitude":19.35501,
+    "lbl:longitude":-96.56763,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Rinconada"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3520319,
+    "qs_pg:gn_pop":6687,
+    "qs_pg:name":"Rinconada",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":148717,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":140753,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3520319,
+        "gp:id":140753,
+        "qs_pg:id":148717
+    },
+    "wof:country":"MX",
+    "wof:created":1497301704,
+    "wof:geomhash":"63ef90086bcce957120c9fc2d09acf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077521,
+            "locality_id":1126034591,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126034591,
+    "wof:lastmodified":1534379381,
+    "wof:name":"Rinconada",
+    "wof:parent_id":102077521,
+    "wof:placetype":"locality",
+    "wof:population":6687,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[
+        101998353
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.56763,
+    19.35501,
+    -96.56763,
+    19.35501
+],
+  "geometry": {"coordinates":[-96.56762999999999,19.35501],"type":"Point"}
+}

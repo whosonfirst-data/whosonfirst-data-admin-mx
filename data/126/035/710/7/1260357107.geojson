@@ -1,0 +1,75 @@
+{
+  "id": 1260357107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.14167,25.83889,-108.14167,25.83889",
+    "geom:latitude":25.83889,
+    "geom:longitude":-108.14167,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"El Pueblito (El Realito)",
+    "gn:country_code":"MX",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3976855,
+    "gn:latitude":25.83889,
+    "gn:longitude":-108.14167,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"El Pueblito (El Realito)",
+    "gn:population":715,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pueblito",
+        "El Realito"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3976855
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"34cdee4a3b17a659c82e886c5e10ca9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074305,
+            "locality_id":1260357107,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1260357107,
+    "wof:lastmodified":1537667087,
+    "wof:name":"El Pueblito (El Realito)",
+    "wof:parent_id":102074305,
+    "wof:placetype":"locality",
+    "wof:population":715,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.14167,
+    25.83889,
+    -108.14167,
+    25.83889
+],
+  "geometry": {"coordinates":[-108.14167,25.83889],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1126067353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.2094,16.87198,-93.2094,16.87198",
+    "geom:latitude":16.87198,
+    "geom:longitude":-93.2094,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9024,
+    "gn:population":9024,
+    "iso:country":"MX",
+    "lbl:latitude":16.87198,
+    "lbl:longitude":-93.2094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d - \u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Villa Allende"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3519396,
+    "qs_pg:gn_pop":9024,
+    "qs_pg:name":"San Fernando",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chiapas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":207784,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903857,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chiapas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101994409,
+        102075537,
+        85686611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3519396,
+        "gp:id":55903857,
+        "qs_pg:id":207784
+    },
+    "wof:country":"MX",
+    "wof:created":1497309097,
+    "wof:geomhash":"6cbd37d8eaa87dd6345d6f4c410b7402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075537,
+            "locality_id":101994409,
+            "neighbourhood_id":1126067353,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1126067353,
+    "wof:lastmodified":1509410494,
+    "wof:name":"San Fernando",
+    "wof:parent_id":101994409,
+    "wof:placetype":"neighbourhood",
+    "wof:population":9024,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.2094,
+    16.87198,
+    -93.2094,
+    16.87198
+],
+  "geometry": {"coordinates":[-93.2094,16.87198],"type":"Point"}
+}

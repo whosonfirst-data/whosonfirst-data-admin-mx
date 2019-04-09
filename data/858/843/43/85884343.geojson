@@ -1,0 +1,116 @@
+{
+  "id": 85884343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":1190747.141349,
+    "geom:bbox":"-99.2147827148,19.326694875,-99.2010498047,19.3396533167",
+    "geom:latitude":19.333909,
+    "geom:longitude":-99.20776,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.333672,
+    "lbl:longitude":-99.206425,
+    "mps:latitude":19.335455,
+    "mps:longitude":-99.208228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Puente Sierra"
+    ],
+    "name:unk_x_variant":[
+        "Puente Sierra"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Puente Sierra",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"La Magdalena Contreras",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":35,
+    "qs:photo_sum":59,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599943,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902796,
+        "qs:id":238040
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5dacb796b6458504864df05fb0271e7e",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884343,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85884343,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884343,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527269997,
+    "wof:name":"Puente Sierra",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.21478271484983,
+    19.32669487495005,
+    -99.20104980469998,
+    19.33965331665044
+],
+  "geometry": {"coordinates":[[[-99.20379638671665,19.3344701346503],[-99.20379638671486,19.33187844080003],[-99.20104980469998,19.33187844080003],[-99.20104980469998,19.33050281653388],[-99.20104980469998,19.32669491610007],[-99.20104980469998,19.32669487495005],[-99.20524489617293,19.32669487495005],[-99.20524490911626,19.32669491610007],[-99.20654296880002,19.32669491610007],[-99.20654297029188,19.33187843426809],[-99.21203613279994,19.33187844080003],[-99.21203613279994,19.33325402519574],[-99.21398323577205,19.33394184612804],[-99.21478271484983,19.33478909575584],[-99.21478271484983,19.33965331665044],[-99.20898832789868,19.33965331665044],[-99.20849001354367,19.33912521020848],[-99.20654296880002,19.33843738801258],[-99.203796386725,19.33746711749345],[-99.20379638671486,19.33706180110002],[-99.20379638671665,19.3344701346503]]],"type":"Polygon"}
+}

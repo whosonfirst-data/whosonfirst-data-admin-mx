@@ -1,0 +1,65 @@
+{
+  "id": 1209336193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.37553,28.09203,-105.37553,28.09203",
+    "geom:latitude":28.09203,
+    "geom:longitude":-105.37553,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"San Antonio (Santa Teresa)",
+    "gn:country_code":"MX",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8947945,
+    "gn:latitude":28.09203,
+    "gn:longitude":-105.37553,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"San Antonio (Santa Teresa)",
+    "gn:population":4,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8947945
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f2e18844962ca5e7cb92188e2d83236d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209336193
+        }
+    ],
+    "wof:id":1209336193,
+    "wof:lastmodified":1536290213,
+    "wof:name":"San Antonio (Santa Teresa)",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.37553,
+    28.09203,
+    -105.37553,
+    28.09203
+],
+  "geometry": {"coordinates":[-105.37553,28.09203],"type":"Point"}
+}

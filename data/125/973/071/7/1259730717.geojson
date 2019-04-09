@@ -1,0 +1,74 @@
+{
+  "id": 1259730717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.63,25.245,-98.63,25.245",
+    "geom:latitude":25.245,
+    "geom:longitude":-98.63,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Hugo Pedro Gonzalez",
+    "gn:country_code":"MX",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8885031,
+    "gn:latitude":25.245,
+    "gn:longitude":-98.63,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Hugo Pedro Gonz\u00e1lez",
+    "gn:population":75,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hugo Pedro Gonz\u00e1lez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8885031
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"68711e9d6b3d535ee006f8f7d0fa3dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078889,
+            "locality_id":1259730717,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1259730717,
+    "wof:lastmodified":1537669892,
+    "wof:name":"Hugo Pedro Gonzalez",
+    "wof:parent_id":102078889,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.63,
+    25.245,
+    -98.63,
+    25.245
+],
+  "geometry": {"coordinates":[-98.63,25.245],"type":"Point"}
+}

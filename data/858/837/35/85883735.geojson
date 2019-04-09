@@ -1,0 +1,121 @@
+{
+  "id": 85883735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000293,
+    "geom:area_square_m":3422704.808381,
+    "geom:bbox":"-99.228515625,19.2981824882,-99.2072671621,19.3167508492",
+    "geom:latitude":19.307585,
+    "geom:longitude":-99.218742,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.310756,
+    "lbl:longitude":-99.213401,
+    "mps:latitude":19.306646,
+    "mps:longitude":-99.21854,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Jardines en la Monta\u00f1a"
+    ],
+    "name:spa_x_variant":[
+        "Jardines en la Montana"
+    ],
+    "name:unk_x_variant":[
+        "Jardines en la Monta\u00f1a"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Jardines en la Monta\u00f1a",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Tlalpan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":49,
+    "qs:photo_sum":137,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599947,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898038,
+        "qs:id":1155326,
+        "wd:id":"Q6159851"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"582504f9a125567e565756be695d47fb",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883735,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85883735,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883735,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"Jardines en la Monta\u00f1a",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.22851562499986,
+    19.29818248820013,
+    -99.20726716211448,
+    19.31675084916857
+],
+  "geometry": {"coordinates":[[[-99.21792897285098,19.31675084916857],[-99.21752933563735,19.31632737310005],[-99.21752929689998,19.31632737310005],[-99.21203613279994,19.31632737310005],[-99.2120361328187,19.31632733202544],[-99.21178671721123,19.31606303846134],[-99.20762477209007,19.31518099780153],[-99.20726716211448,19.31328630350204],[-99.20928955079998,19.31114334910642],[-99.20928955079998,19.30855127755009],[-99.20928955079998,19.30595917260003],[-99.20928955079998,19.30555363149035],[-99.21203613281452,19.30458356102062],[-99.21203613280829,19.30077482590001],[-99.21203613282083,19.30077478480025],[-99.21228569386483,19.30051036228446],[-99.22327090782642,19.29818248820013],[-99.22329581684562,19.29818248820013],[-99.22362668004433,19.29880148970679],[-99.22365792264839,19.29879201236646],[-99.22381813972976,19.29874341104616],[-99.22576904294999,19.29855126385004],[-99.22771994617011,19.29874341104616],[-99.22851562499977,19.2989847775802],[-99.22851562499986,19.30595917260003],[-99.22851562499986,19.31114335510003],[-99.22851562499977,19.31135477165806],[-99.22576904297503,19.31193683794585],[-99.22327191149867,19.31140763620245],[-99.22302246089993,19.31220060924514],[-99.22302246090001,19.31632737310005],[-99.21912789400366,19.31632737310005],[-99.21792897285098,19.31675084916857]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226330555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.61444,22.70361,-104.61444,22.70361",
+    "geom:latitude":22.70361,
+    "geom:longitude":-104.61444,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"San Pedro de Xicora",
+    "gn:country_code":"MX",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8868113,
+    "gn:latitude":22.70361,
+    "gn:longitude":-104.61444,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Pedro de X\u00edcora",
+    "gn:population":285,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro de X\u00edcora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8868113
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5076229058a78bb23fbe9edb09da6e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075171,
+            "locality_id":1226330555,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1226330555,
+    "wof:lastmodified":1537669477,
+    "wof:name":"San Pedro de Xicora",
+    "wof:parent_id":102075171,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.61444,
+    22.70361,
+    -104.61444,
+    22.70361
+],
+  "geometry": {"coordinates":[-104.61444,22.70361],"type":"Point"}
+}

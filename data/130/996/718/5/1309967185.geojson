@@ -1,0 +1,75 @@
+{
+  "id": 1309967185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.46942,25.07027,-98.46942,25.07027",
+    "geom:latitude":25.07027,
+    "geom:longitude":-98.46942,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Pedro Jose Mendez (San Pedro de los Gutierrez)",
+    "gn:country_code":"MX",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3518007,
+    "gn:latitude":25.07027,
+    "gn:longitude":-98.46942,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Pedro Jos\u00e9 M\u00e9ndez (San Pedro de los Guti\u00e9rrez)",
+    "gn:population":98,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro de los Gutierrez",
+        "San Pedro de Guti\u00e9rrez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3518007
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0fd3932a10152992a1e091e9dbe368c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078889,
+            "locality_id":1309967185,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1309967185,
+    "wof:lastmodified":1537665998,
+    "wof:name":"Pedro Jose Mendez (San Pedro de los Gutierrez)",
+    "wof:parent_id":102078889,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.46942,
+    25.07027,
+    -98.46942,
+    25.07027
+],
+  "geometry": {"coordinates":[-98.46942,25.07027],"type":"Point"}
+}

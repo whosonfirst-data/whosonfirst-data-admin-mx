@@ -1,0 +1,77 @@
+{
+  "id": 1310101285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.46103,27.83852,-100.46103,27.83852",
+    "geom:latitude":27.83852,
+    "geom:longitude":-100.46103,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Los Ajos",
+    "gn:country_code":"MX",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3977764,
+    "gn:latitude":27.83852,
+    "gn:longitude":-100.46103,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Los Ajos",
+    "gn:population":1,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Ajos"
+    ],
+    "name:und_x_variant":[
+        "Rancho Los Ajos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3977764
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6540afc3532a0e920b083864063130b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078847,
+            "locality_id":1310101285,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1310101285,
+    "wof:lastmodified":1537667116,
+    "wof:name":"Los Ajos",
+    "wof:parent_id":102078847,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.46103,
+    27.83852000000001,
+    -100.46103,
+    27.83852000000001
+],
+  "geometry": {"coordinates":[-100.46102999999999,27.83852000000001],"type":"Point"}
+}

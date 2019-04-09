@@ -1,0 +1,74 @@
+{
+  "id": 1360283969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.37056,17.21139,-92.37056,17.21139",
+    "geom:latitude":17.21139,
+    "geom:longitude":-92.37056,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"109",
+    "gn:asciiname":"San Jose de la Ceiba",
+    "gn:country_code":"MX",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8919414,
+    "gn:latitude":17.21139,
+    "gn:longitude":-92.37056,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Jos\u00e9 de la Ceiba",
+    "gn:population":10,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 de la Ceiba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8919414
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6b3327f070623a2cfa0411fb195469dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075649,
+            "locality_id":1360283969,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1360283969,
+    "wof:lastmodified":1537670747,
+    "wof:name":"San Jose de la Ceiba",
+    "wof:parent_id":102075649,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.37056,
+    17.21139,
+    -92.37056,
+    17.21139
+],
+  "geometry": {"coordinates":[-92.37056,17.21139],"type":"Point"}
+}

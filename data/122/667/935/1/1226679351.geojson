@@ -1,0 +1,75 @@
+{
+  "id": 1226679351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.86552,20.71699,-87.86552,20.71699",
+    "geom:latitude":20.71699,
+    "geom:longitude":-87.86552,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"X-Catzin",
+    "gn:country_code":"MX",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3531410,
+    "gn:latitude":20.71699,
+    "gn:longitude":-87.86552,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"X-Catzin",
+    "gn:population":0,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "X-Catzin"
+    ],
+    "name:und_x_variant":[
+        "Cutsin",
+        "Catz\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686701,
+        102079079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3531410
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"26ca24ff11e3e041d4826a99abac4c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079079,
+            "locality_id":1226679351,
+            "region_id":85686701
+        }
+    ],
+    "wof:id":1226679351,
+    "wof:lastmodified":1537666404,
+    "wof:name":"X-Catzin",
+    "wof:parent_id":102079079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.86551999999998,
+    20.71699,
+    -87.86551999999998,
+    20.71699
+],
+  "geometry": {"coordinates":[-87.86551999999998,20.71699],"type":"Point"}
+}

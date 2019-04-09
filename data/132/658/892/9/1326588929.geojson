@@ -1,0 +1,76 @@
+{
+  "id": 1326588929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.20472,17.77667,-98.20472,17.77667",
+    "geom:latitude":17.77667,
+    "geom:longitude":-98.20472,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"San Pedro Salinas",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3520061,
+    "gn:latitude":17.77667,
+    "gn:longitude":-98.20472,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"San Pedro Salinas",
+    "gn:population":48,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Mar\u00eda",
+        "Salinas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3520061
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d08dc8bea2be33e85a203b482ed1af60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076275,
+            "locality_id":1326588929,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1326588929,
+    "wof:lastmodified":1537666057,
+    "wof:name":"San Pedro Salinas",
+    "wof:parent_id":102076275,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.20472,
+    17.77667000000001,
+    -98.20472,
+    17.77667000000001
+],
+  "geometry": {"coordinates":[-98.20471999999999,17.77667000000001],"type":"Point"}
+}

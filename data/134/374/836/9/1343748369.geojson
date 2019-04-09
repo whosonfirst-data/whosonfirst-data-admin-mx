@@ -1,0 +1,74 @@
+{
+  "id": 1343748369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.8153,17.70445,-98.8153,17.70445",
+    "geom:latitude":17.70445,
+    "geom:longitude":-98.8153,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Mazatlan (San Jose)",
+    "gn:country_code":"MX",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8888045,
+    "gn:latitude":17.70445,
+    "gn:longitude":-98.8153,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Mazatl\u00e1n (San Jos\u00e9)",
+    "gn:population":60,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazatl\u00e1n (San Jos\u00e9)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686517,
+        102073893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8888045
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"97f3dffa7432989b8eb2966217d20eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073893,
+            "locality_id":1343748369,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":1343748369,
+    "wof:lastmodified":1537669964,
+    "wof:name":"Mazatlan (San Jose)",
+    "wof:parent_id":102073893,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.8153,
+    17.70445,
+    -98.8153,
+    17.70445
+],
+  "geometry": {"coordinates":[-98.81529999999999,17.70445],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 85884501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000491,
+    "geom:area_square_m":5731289.514237,
+    "geom:bbox":"-99.3016870117,19.3185146625,-99.2707006836,19.3422447911",
+    "geom:latitude":19.330867,
+    "geom:longitude":-99.284203,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.330074,
+    "lbl:longitude":-99.28606,
+    "mps:latitude":19.330482,
+    "mps:longitude":-99.281105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Santa Rosa Xochiac"
+    ],
+    "name:unk_x_variant":[
+        "Santa Rosa Xochiac"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Santa Rosa Xochiac",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":28,
+    "qs:photo_sum":51,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55894217,
+        "qs:id":1342709,
+        "qs_pg:id":889561
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b4b4df7712ffff301abb7d14ce540e65",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884501,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85884501,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884501,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527269926,
+    "wof:name":"Santa Rosa Xochiac",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.30168701174989,
+    19.31851466245476,
+    -99.27070068359978,
+    19.34224479105031
+],
+  "geometry": {"coordinates":[[[-99.27396063239132,19.34182982569294],[-99.27096124260856,19.33229369420776],[-99.27108722081988,19.33187839970027],[-99.2708928307959,19.33123758167025],[-99.27070068359978,19.32928667845013],[-99.2708928307959,19.32733577523],[-99.2714618882749,19.32545984412639],[-99.27238598747695,19.32373097611995],[-99.27362961578802,19.32221561063831],[-99.27514498126985,19.32097198232722],[-99.2768738492762,19.32004788312483],[-99.27874978037971,19.31947882564609],[-99.27983367292495,19.31937207154826],[-99.27984411254994,19.31936649145258],[-99.28099372232629,19.31875201222508],[-99.28172534693084,19.31853007632751],[-99.28172686506463,19.31851466245476],[-99.2891097937819,19.3241029892002],[-99.29443359377484,19.3241029892002],[-99.30154771888482,19.32787241425815],[-99.30168701174989,19.32928667845013],[-99.30149486455406,19.33123758167025],[-99.30092580707503,19.33311351277378],[-99.30000170787281,19.33484238078032],[-99.29971021473955,19.335197566191],[-99.29443359377484,19.3370615954002],[-99.29186883873609,19.3370615954002],[-99.28742827293428,19.3383450695994],[-99.28389927834331,19.34208510710353],[-99.28344726562494,19.34224479105031],[-99.27448695765656,19.34224479105031],[-99.27396475618241,19.34181623137563],[-99.27396063239132,19.34182982569294]]],"type":"Polygon"}
+}

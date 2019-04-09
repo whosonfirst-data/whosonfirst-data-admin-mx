@@ -1,0 +1,74 @@
+{
+  "id": 1259376209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.6317,27.27234,-102.6317,27.27234",
+    "geom:latitude":27.27234,
+    "geom:longitude":-102.6317,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"MX",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3977733,
+    "gn:latitude":27.27234,
+    "gn:longitude":-102.6317,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"San Pedro",
+    "gn:population":3,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3977733
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6a4b5da53f6940a628654c9bb6c872e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078825,
+            "locality_id":1259376209,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1259376209,
+    "wof:lastmodified":1537667114,
+    "wof:name":"San Pedro",
+    "wof:parent_id":102078825,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.6317,
+    27.27234,
+    -102.6317,
+    27.27234
+],
+  "geometry": {"coordinates":[-102.6317,27.27234],"type":"Point"}
+}

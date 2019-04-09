@@ -1,0 +1,94 @@
+{
+  "id": 1125930697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.69745,19.25514,-103.69745,19.25514",
+    "geom:latitude":19.25514,
+    "geom:longitude":-103.69745,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.25514,
+    "lbl:longitude":-103.69745,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Diezmo"
+    ],
+    "name:spa_x_variant":[
+        "Colonia el Diezmo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4010006,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Diezmo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Colima",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1270049,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":120104,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Colima",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686587,
+        102074543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4010006,
+        "gp:id":120104,
+        "qs_pg:id":1270049
+    },
+    "wof:country":"MX",
+    "wof:created":1497296795,
+    "wof:geomhash":"f6e5c43e1d99f95d40563de49d075a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074543,
+            "locality_id":1125930697,
+            "region_id":85686587
+        }
+    ],
+    "wof:id":1125930697,
+    "wof:lastmodified":1509401383,
+    "wof:name":"El Diezmo",
+    "wof:parent_id":102074543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.69745,
+    19.25514,
+    -103.69745,
+    19.25514
+],
+  "geometry": {"coordinates":[-103.69745,19.25514],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343638075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.78042,17.87618,-101.78042,17.87618",
+    "geom:latitude":17.87618,
+    "geom:longitude":-101.78042,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Estero Salado",
+    "gn:country_code":"MX",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3988237,
+    "gn:latitude":17.87618,
+    "gn:longitude":-101.78042,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Estero Salado",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estero Salado"
+    ],
+    "name:und_x_variant":[
+        "Salado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686517,
+        102073925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3988237
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3e21bac050b7b8d34c4f4f1e3d16d6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073925,
+            "locality_id":1343638075,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":1343638075,
+    "wof:lastmodified":1537667373,
+    "wof:name":"Estero Salado",
+    "wof:parent_id":102073925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.78042,
+    17.87617999999999,
+    -101.78042,
+    17.87617999999999
+],
+  "geometry": {"coordinates":[-101.78042000000001,17.87617999999999],"type":"Point"}
+}

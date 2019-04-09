@@ -1,0 +1,74 @@
+{
+  "id": 1242993227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.31534,25.35917,-103.31534,25.35917",
+    "geom:latitude":25.35917,
+    "geom:longitude":-103.31534,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"San Jorge (El Crotalo)",
+    "gn:country_code":"MX",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8888738,
+    "gn:latitude":25.35917,
+    "gn:longitude":-103.31534,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Jorge (El Cr\u00f3talo)",
+    "gn:population":57,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jorge (El Cr\u00f3talo)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8888738
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6fd623f705114b74b2499ffcbb390f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078799,
+            "locality_id":1242993227,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1242993227,
+    "wof:lastmodified":1537669982,
+    "wof:name":"San Jorge (El Crotalo)",
+    "wof:parent_id":102078799,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.31534,
+    25.35917,
+    -103.31534,
+    25.35917
+],
+  "geometry": {"coordinates":[-103.31534000000001,25.35917],"type":"Point"}
+}

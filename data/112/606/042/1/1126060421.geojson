@@ -1,0 +1,82 @@
+{
+  "id": 1126060421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.072639,16.9037755,-92.072639,16.9037755",
+    "geom:latitude":16.903775,
+    "geom:longitude":-92.072639,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":16.903775,
+    "lbl:longitude":-92.072639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ococingo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chiapas",
+    "qs_pg:photos":66,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":66,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074182,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":134926,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chiapas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":134926,
+        "qs_pg:id":1074182
+    },
+    "wof:country":"MX",
+    "wof:created":1497304138,
+    "wof:geomhash":"12a97b096dfc8bd4aa3bf3d7315ad461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075509,
+            "locality_id":1126060421,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1126060421,
+    "wof:lastmodified":1509410013,
+    "wof:name":"Ococingo",
+    "wof:parent_id":102075509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.072639,
+    16.9037755,
+    -92.072639,
+    16.9037755
+],
+  "geometry": {"coordinates":[-92.072639,16.9037755],"type":"Point"}
+}

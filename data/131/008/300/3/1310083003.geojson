@@ -1,0 +1,75 @@
+{
+  "id": 1310083003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.7535,21.0467,-101.7535,21.0467",
+    "geom:latitude":21.0467,
+    "geom:longitude":-101.7535,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Malagana (San Antonio del Monte)",
+    "gn:country_code":"MX",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3996814,
+    "gn:latitude":21.0467,
+    "gn:longitude":-101.7535,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Malagana (San Antonio del Monte)",
+    "gn:population":1076,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malagana",
+        "San Antonio del Monte"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3996814
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fea9f7eab3b94ad7544f4017614e7915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077349,
+            "locality_id":1310083003,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1310083003,
+    "wof:lastmodified":1537667570,
+    "wof:name":"Malagana (San Antonio del Monte)",
+    "wof:parent_id":102077349,
+    "wof:placetype":"locality",
+    "wof:population":1076,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.7535,
+    21.0467,
+    -101.7535,
+    21.0467
+],
+  "geometry": {"coordinates":[-101.7535,21.0467],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209193989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.85936,17.38731,-100.85936,17.38731",
+    "geom:latitude":17.38731,
+    "geom:longitude":-100.85936,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"57",
+    "gn:asciiname":"El Jovero",
+    "gn:country_code":"MX",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8912119,
+    "gn:latitude":17.38731,
+    "gn:longitude":-100.85936,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Jovero",
+    "gn:population":14,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8912119
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7f4ee0e58f09f664838a9e5d80893def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209193989
+        }
+    ],
+    "wof:id":1209193989,
+    "wof:lastmodified":1536294837,
+    "wof:name":"El Jovero",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.85936,
+    17.38731,
+    -100.85936,
+    17.38731
+],
+  "geometry": {"coordinates":[-100.85936,17.38731],"type":"Point"}
+}

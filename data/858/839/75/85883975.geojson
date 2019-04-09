@@ -1,0 +1,116 @@
+{
+  "id": 85883975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:area_square_m":2015355.261132,
+    "geom:bbox":"-99.1571044922,19.326694875,-99.1403428543,19.3422449968",
+    "geom:latitude":19.335032,
+    "geom:longitude":-99.149534,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.333291,
+    "lbl:longitude":-99.148791,
+    "mps:latitude":19.335428,
+    "mps:longitude":-99.150215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Pueblo la Candelaria"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo la Candelaria"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Pueblo la Candelaria",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":74,
+    "qs:photo_sum":347,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899126,
+        "qs:id":993109
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9e2ecd42c394842826110f3dc8e6988f",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883975,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85883975,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883975,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270525,
+    "wof:name":"Pueblo la Candelaria",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1571044922,
+    19.32669487495005,
+    -99.14034285430358,
+    19.34224499680003
+],
+  "geometry": {"coordinates":[[[-99.14741625608451,19.32669487495005],[-99.15161132811798,19.32669487495005],[-99.15161132810965,19.32669491610007],[-99.15161132811551,19.33050281656034],[-99.1555055459302,19.33187844080038],[-99.15674705070404,19.33231699974705],[-99.15573120117483,19.3344701312254],[-99.15573120117483,19.33698198224671],[-99.15580651660667,19.33706180109994],[-99.15710449220001,19.33706180110002],[-99.15710449218534,19.3384373880036],[-99.15710449218329,19.3408693674623],[-99.15710449220001,19.34224499680003],[-99.15161132809996,19.34224499680003],[-99.14611816409993,19.34224499680003],[-99.14611816408421,19.3422449556502],[-99.14611816408529,19.3384373880036],[-99.14482018850725,19.33706180109922],[-99.14424643076006,19.33645373600157],[-99.140625,19.33568614910158],[-99.14034285430358,19.33538713559312],[-99.14319102351811,19.32935042900749],[-99.14337158202483,19.32928664760023],[-99.14465393773756,19.32928664760023],[-99.14508929063112,19.32916082278264],[-99.14611816409993,19.32807049791474],[-99.14611816409993,19.32669491610007],[-99.14741621725361,19.32669491610007],[-99.14741625608451,19.32669487495005]]],"type":"Polygon"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1126065479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.09936,18.27536,-93.09936,18.27536",
+    "geom:latitude":18.27536,
+    "geom:longitude":-93.09936,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":18.27536,
+    "lbl:longitude":-93.09936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Recreo"
+    ],
+    "name:spa_x_variant":[
+        "Mecoac\u00e1n",
+        "Segunda Secci\u00f3n"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3802117,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Recreo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tabasco",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060100,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55894768,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tabasco",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102075783,
+        85686617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3802117,
+        "gp:id":55894768,
+        "qs_pg:id":1060100
+    },
+    "wof:country":"MX",
+    "wof:created":1497308807,
+    "wof:geomhash":"de37a61aa7454adf797375d04fed52c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075783,
+            "locality_id":-1,
+            "neighbourhood_id":1126065479,
+            "region_id":85686617
+        }
+    ],
+    "wof:id":1126065479,
+    "wof:lastmodified":1509410400,
+    "wof:name":"El Recreo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.09936,
+    18.27536,
+    -93.09936,
+    18.27536
+],
+  "geometry": {"coordinates":[-93.09936,18.27536],"type":"Point"}
+}

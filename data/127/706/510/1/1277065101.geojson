@@ -1,0 +1,78 @@
+{
+  "id": 1277065101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.95739,25.00879,-106.95739,25.00879",
+    "geom:latitude":25.00879,
+    "geom:longitude":-106.95739,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Acachuane",
+    "gn:country_code":"MX",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4019833,
+    "gn:latitude":25.00879,
+    "gn:longitude":-106.95739,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Acachuane",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Acachuane"
+    ],
+    "name:und_x_variant":[
+        "Acachuame",
+        "Acachahuane",
+        "Acahuane",
+        "Acahuame",
+        "Acahuene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4019833
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"065eb06a014577199d450642a47da20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075133,
+            "locality_id":1277065101,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1277065101,
+    "wof:lastmodified":1537668198,
+    "wof:name":"Acachuane",
+    "wof:parent_id":102075133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.95739,
+    25.00879,
+    -106.95739,
+    25.00879
+],
+  "geometry": {"coordinates":[-106.95739,25.00879],"type":"Point"}
+}

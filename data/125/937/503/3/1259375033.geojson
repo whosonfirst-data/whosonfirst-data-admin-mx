@@ -1,0 +1,68 @@
+{
+  "id": 1259375033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.47795,28.78506,-105.47795,28.78506",
+    "geom:latitude":28.78506,
+    "geom:longitude":-105.47795,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Las Vegas",
+    "gn:country_code":"MX",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3999142,
+    "gn:latitude":28.78506,
+    "gn:longitude":-105.47795,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Las Vegas",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3999142
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"796545f55b49b3f7355649cea4ef15da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075269,
+            "locality_id":1259375033,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1259375033,
+    "wof:lastmodified":1537013751,
+    "wof:name":"Las Vegas",
+    "wof:parent_id":102075269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.47795,
+    28.78506,
+    -105.47795,
+    28.78506
+],
+  "geometry": {"coordinates":[-105.47795000000001,28.78506],"type":"Point"}
+}

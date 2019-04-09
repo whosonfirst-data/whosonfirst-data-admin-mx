@@ -1,0 +1,116 @@
+{
+  "id": 85884509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":1280999.618099,
+    "geom:bbox":"-99.2852075195,19.3681584645,-99.2724609375,19.3797024317",
+    "geom:latitude":19.372931,
+    "geom:longitude":-99.278814,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.37075,
+    "lbl:longitude":-99.275208,
+    "mps:latitude":19.372999,
+    "mps:longitude":-99.278815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Giralta"
+    ],
+    "name:unk_x_variant":[
+        "Giralta"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Giralta",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuajimalpa de Morelos",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":2,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599938,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991169,
+        890535767,
+        102073747,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55904113,
+        "qs:id":1342710
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e893d4d5442794a410f32fba59d3bd6e",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535767,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073747,
+            "locality_id":101991169,
+            "neighbourhood_id":85884509,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535767,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884509,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884509,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957720,
+    "wof:name":"Giralta",
+    "wof:parent_id":890535767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.28520751954989,
+    19.36815846452518,
+    -99.27246093749994,
+    19.37970243170521
+],
+  "geometry": {"coordinates":[[[-99.27734955803845,19.3785227149753],[-99.27246097639051,19.3733407134],[-99.27246093750003,19.37334071340008],[-99.27246093749994,19.3733406721752],[-99.27246093750003,19.36953410786725],[-99.27246093750003,19.36815850570007],[-99.27375868005504,19.36815850570007],[-99.27375871889944,19.36815846452518],[-99.27795410159996,19.36815846452518],[-99.2815454848249,19.36815846452518],[-99.28513451198484,19.36978887282874],[-99.28511451184914,19.36980528651596],[-99.28520751954989,19.37074960955012],[-99.28501537235405,19.37270051277025],[-99.28444631487503,19.37457644387376],[-99.2835222156728,19.3763053118803],[-99.28227858736182,19.37782067736194],[-99.28076322188019,19.3790643056732],[-99.27957505875719,19.37969939209371],[-99.27957535813272,19.37970243170521],[-99.27734955803845,19.3785227149753]]],"type":"Polygon"}
+}

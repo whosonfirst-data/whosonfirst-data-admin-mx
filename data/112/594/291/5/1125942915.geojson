@@ -1,0 +1,82 @@
+{
+  "id": 1125942915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.156653,19.48931,-99.156653,19.48931",
+    "geom:latitude":19.48931,
+    "geom:longitude":-99.156653,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":19.48931,
+    "lbl:longitude":-99.156653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Industrial Vallejo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1047575,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":125418,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686515,
+        102073735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":125418,
+        "qs_pg:id":1047575
+    },
+    "wof:country":"MX",
+    "wof:created":1497297178,
+    "wof:geomhash":"766b783e40ec2e15a11e0e9a87690480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073735,
+            "locality_id":1125942915,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":1125942915,
+    "wof:lastmodified":1509402181,
+    "wof:name":"Industrial Vallejo",
+    "wof:parent_id":102073735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.156653,
+    19.48931,
+    -99.156653,
+    19.48931
+],
+  "geometry": {"coordinates":[-99.15665300000001,19.48931],"type":"Point"}
+}

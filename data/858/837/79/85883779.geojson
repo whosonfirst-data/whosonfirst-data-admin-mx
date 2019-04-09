@@ -1,0 +1,110 @@
+{
+  "id": 85883779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000248,
+    "geom:area_square_m":2889898.315929,
+    "geom:bbox":"-99.1417740195,19.252933476,-99.1170108707,19.2696652965",
+    "geom:latitude":19.26265,
+    "geom:longitude":-99.130012,
+    "gn:population":172,
+    "iso:country":"MX",
+    "lbl:latitude":19.265102,
+    "lbl:longitude":-99.12716,
+    "mps:latitude":19.261887,
+    "mps:longitude":-99.12901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "La Noria"
+    ],
+    "name:unk_x_variant":[
+        "La Noria"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"La Noria",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"La Noria",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Xochimilco",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":61,
+    "qs:photo_sum":326,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599949,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        857683023,
+        85633293,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814219,
+        "gp:id":55898218,
+        "qs:id":233576,
+        "qs_pg:id":233576,
+        "wd:id":"Q20242699"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"504db4b48bb3240d72810fcff8dc2a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":857683023,
+            "neighbourhood_id":85883779,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883779,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"La Noria",
+    "wof:parent_id":857683023,
+    "wof:placetype":"neighbourhood",
+    "wof:population":172,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.14177401947032,
+    19.25293347600953,
+    -99.11701087067809,
+    19.26966529650007
+],
+  "geometry": {"coordinates":[[[-99.12963867189993,19.26966529650007],[-99.12963867189993,19.26707256302113],[-99.12754135625602,19.26707256302113],[-99.12689208982482,19.26776035046697],[-99.12551879879993,19.26727542464756],[-99.12414550779999,19.26776035045809],[-99.1231716023571,19.26810424835466],[-99.12227251458114,19.26905668117979],[-99.11701087067809,19.26794189931698],[-99.11897183653605,19.26447979025035],[-99.11946137352112,19.26188698075018],[-99.1190517000943,19.25971713050065],[-99.12024966235222,19.25929414050003],[-99.12414550779999,19.2579185515301],[-99.12609334933109,19.25723078571362],[-99.12659334759138,19.25670114647528],[-99.12963867187489,19.25670114647528],[-99.13675241391564,19.25293347600953],[-99.13675208556896,19.25293680976947],[-99.13787841797489,19.25353884698333],[-99.13787841797489,19.26019473461584],[-99.14177401947032,19.26707246647534],[-99.14055020409674,19.26836891225034],[-99.13513183589995,19.26836891225034],[-99.13513183589995,19.26966529650007],[-99.13093715148904,19.26966529650007],[-99.12963867189993,19.26966529650007]]],"type":"Polygon"}
+}

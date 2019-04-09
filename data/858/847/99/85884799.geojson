@@ -1,0 +1,89 @@
+{
+  "id": 85884799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.915823,22.8905,-109.915823,22.8905",
+    "geom:latitude":22.8905,
+    "geom:longitude":-109.915823,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":22.8905,
+    "lbl:longitude":-109.915823,
+    "mps:latitude":22.894087,
+    "mps:longitude":-109.919534,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Benito Juarez"
+    ],
+    "name:spa_x_variant":[
+        "Benito Ju\u00e1rez"
+    ],
+    "name:unk_x_variant":[
+        "Tecolotes"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85686555,
+        102191575,
+        85633293,
+        101994035,
+        102074525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3979554,
+        "gp:id":55913475,
+        "qs:id":475699,
+        "qs_pg:id":1206907
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2bd5773a35e1910ace63de9fc11e72d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074525,
+            "locality_id":101994035,
+            "neighbourhood_id":85884799,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":85884799,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957723,
+    "wof:name":"Benito Juarez",
+    "wof:parent_id":101994035,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.915823,
+    22.8905,
+    -109.915823,
+    22.8905
+],
+  "geometry": {"coordinates":[-109.915823,22.8905],"type":"Point"}
+}

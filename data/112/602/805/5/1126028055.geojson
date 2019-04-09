@@ -1,0 +1,89 @@
+{
+  "id": 1126028055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.15596,20.76903,-105.15596,20.76903",
+    "geom:latitude":20.76903,
+    "geom:longitude":-105.15596,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.76903,
+    "lbl:longitude":-105.15596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Colorado"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4010259,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Colorado",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1191351,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":119881,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4010259,
+        "gp:id":119881,
+        "qs_pg:id":1191351
+    },
+    "wof:country":"MX",
+    "wof:created":1497301265,
+    "wof:geomhash":"d69ab57513e1935b81bf9f7dcf301847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074595,
+            "locality_id":1126028055,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1126028055,
+    "wof:lastmodified":1509407671,
+    "wof:name":"El Colorado",
+    "wof:parent_id":102074595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.15596,
+    20.76903,
+    -105.15596,
+    20.76903
+],
+  "geometry": {"coordinates":[-105.15595999999999,20.76903],"type":"Point"}
+}

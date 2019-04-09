@@ -1,0 +1,123 @@
+{
+  "id": 101995105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":728497.081973,
+    "geom:bbox":"-96.714085519,16.703247986,-96.7038672547,16.7145600939",
+    "geom:latitude":16.708378,
+    "geom:longitude":-96.709791,
+    "iso:country":"MX",
+    "lbl:latitude":16.70836,
+    "lbl:longitude":-96.710297,
+    "mps:latitude":16.70836,
+    "mps:longitude":-96.710297,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:eus_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Magdalena Ocotl\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:spa_x_colloquial":[
+        "Magdalena Ocotlan"
+    ],
+    "name:spa_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Magdalena",
+        "Ocotlan"
+    ],
+    "name:swe_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Ocotlan"
+    ],
+    "name:vie_x_preferred":[
+        "Magdalena Ocotl\u00e1n"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a1r":"*",
+    "qs:a2":"Magdalena Ocotl\u00e1n",
+    "qs:a2_lc":"20049",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Magdalena Ocotl\u00e1n",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102075929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01b8a332-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3523749,
+        "gp:id":132678,
+        "wd:id":"Q3889046",
+        "wk:page":"Magdalena Ocotl\u00e1n"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fd51aee503a18f2b997710eff56f366c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075929,
+            "locality_id":101995105,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":101995105,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815677,
+    "wof:name":"Magdalena Ocotl\u00e1n",
+    "wof:parent_id":102075929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.71408551900221,
+    16.70324798597457,
+    -96.7038672547472,
+    16.71456009385999
+],
+  "geometry": {"coordinates":[[[-96.71258100942205,16.70582637536808],[-96.71260373397563,16.7057786362893],[-96.71317558686134,16.70457733670518],[-96.71372711545158,16.70324798597457],[-96.71366535759995,16.70609978770288],[-96.71358327718913,16.70665621152603],[-96.71327898341518,16.70857784800115],[-96.71401409496954,16.70894283646794],[-96.71401281955445,16.709822217644],[-96.71401233224923,16.71015823597951],[-96.71408551900221,16.71036258976484],[-96.71358741408534,16.71181301411507],[-96.71335711909973,16.71235375141942],[-96.71308803380276,16.71310965098146],[-96.71248396118651,16.7135006234974],[-96.71072996198005,16.71456009385999],[-96.71057801042093,16.71440639805773],[-96.71014557093821,16.71370986188978],[-96.70972184641886,16.71302736337799],[-96.70742421325707,16.70932641005962],[-96.70743331544867,16.70924063550532],[-96.70724690016144,16.70905301669894],[-96.70709735780676,16.70883684195165],[-96.70669323904475,16.70843470790591],[-96.70614374742347,16.7081399526379],[-96.70601224814826,16.70798333392396],[-96.70574741154822,16.7077750937159],[-96.70453742465165,16.70770438404325],[-96.70412266657186,16.70795653829175],[-96.70386725474719,16.7078659477321],[-96.70395962003677,16.70763330915717],[-96.70467608741774,16.70577429065366],[-96.70522664939966,16.70431903244759],[-96.70561960182744,16.70336041959436],[-96.70564084864674,16.70330641115537],[-96.70719425882632,16.70389521318344],[-96.70975248503541,16.70492999773759],[-96.71059922624471,16.70517946350551],[-96.71127157148099,16.70542310599247],[-96.71164478886132,16.70558461739596],[-96.71209891139141,16.7056574159569],[-96.71258100942205,16.70582637536808]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209443515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.41083,20.66111,-88.41083,20.66111",
+    "geom:latitude":20.66111,
+    "geom:longitude":-88.41083,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"43",
+    "gn:asciiname":"San Esteban",
+    "gn:country_code":"MX",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8911471,
+    "gn:latitude":20.66111,
+    "gn:longitude":-88.41083,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Esteban",
+    "gn:population":15,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8911471
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a3e31f2a9557854c3b589c01e0853052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209443515
+        }
+    ],
+    "wof:id":1209443515,
+    "wof:lastmodified":1536286889,
+    "wof:name":"San Esteban",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.41083,
+    20.66111,
+    -88.41083,
+    20.66111
+],
+  "geometry": {"coordinates":[-88.41083,20.66111],"type":"Point"}
+}

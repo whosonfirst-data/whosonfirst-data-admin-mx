@@ -1,0 +1,81 @@
+{
+  "id": 1125805679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.28333,18.68333,-102.28333,18.68333",
+    "geom:latitude":18.68333,
+    "geom:longitude":-102.28333,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14536,
+    "gn:population":14536,
+    "iso:country":"MX",
+    "lbl:latitude":18.68333,
+    "lbl:longitude":-102.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "La Mira"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4001325,
+    "qs_pg:gn_pop":14536,
+    "qs_pg:name":"La Mira Tumbiscatio",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1244327,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686595,
+        102074887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001325,
+        "qs_pg:id":1244327
+    },
+    "wof:country":"MX",
+    "wof:created":1497291453,
+    "wof:geomhash":"5e94ebb1ecdf16971e4083b9bd09379d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074887,
+            "locality_id":1125805679,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1125805679,
+    "wof:lastmodified":1509393280,
+    "wof:name":"La Mira Tumbiscatio",
+    "wof:parent_id":102074887,
+    "wof:placetype":"locality",
+    "wof:population":14536,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.28333,
+    18.68333,
+    -102.28333,
+    18.68333
+],
+  "geometry": {"coordinates":[-102.28333000000001,18.68333],"type":"Point"}
+}

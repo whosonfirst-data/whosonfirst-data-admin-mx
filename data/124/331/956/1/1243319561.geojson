@@ -1,0 +1,76 @@
+{
+  "id": 1243319561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.3,20.45,-87.3,20.45",
+    "geom:latitude":20.45,
+    "geom:longitude":-87.3,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Xetna",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3514531,
+    "gn:latitude":20.45,
+    "gn:longitude":-87.3,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Xetna",
+    "gn:population":0,
+    "gn:timezone":"America/Cancun",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xelh\u00e1",
+        "Xelma",
+        "Xelna",
+        "Xetna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686711,
+        102079241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3514531,
+        "wk:page":"Xelha"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c7f3d9a033e92b228781fdef847a3add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079241,
+            "locality_id":1243319561,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":1243319561,
+    "wof:lastmodified":1537665904,
+    "wof:name":"Xetna",
+    "wof:parent_id":102079241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.3,
+    20.45,
+    -87.3,
+    20.45
+],
+  "geometry": {"coordinates":[-87.3,20.45],"type":"Point"}
+}

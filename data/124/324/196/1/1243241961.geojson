@@ -1,0 +1,68 @@
+{
+  "id": 1243241961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.06667,24.83333,-105.06667,24.83333",
+    "geom:latitude":24.83333,
+    "geom:longitude":-105.06667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"MX",
+    "gn:dem":2007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986041,
+    "gn:latitude":24.83333,
+    "gn:longitude":-105.06667,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986041
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7cbc95c46768773a48a00f6a7a80229e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075139,
+            "locality_id":1243241961,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1243241961,
+    "wof:lastmodified":1536600162,
+    "wof:name":"San Juan",
+    "wof:parent_id":102075139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.06667,
+    24.83333,
+    -105.06667,
+    24.83333
+],
+  "geometry": {"coordinates":[-105.06667,24.83333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243355565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.74606,27.01563,-105.74606,27.01563",
+    "geom:latitude":27.01563,
+    "geom:longitude":-105.74606,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Chabacano",
+    "gn:country_code":"MX",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4010418,
+    "gn:latitude":27.01563,
+    "gn:longitude":-105.74606,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Chabacano",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chabacano"
+    ],
+    "name:und_x_variant":[
+        "Chavacano",
+        "El Chavacano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4010418
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a742e2b72e1a94a3cfdb48a447db7bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075285,
+            "locality_id":1243355565,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1243355565,
+    "wof:lastmodified":1537667994,
+    "wof:name":"Chabacano",
+    "wof:parent_id":102075285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.74606,
+    27.01563,
+    -105.74606,
+    27.01563
+],
+  "geometry": {"coordinates":[-105.74606,27.01563],"type":"Point"}
+}

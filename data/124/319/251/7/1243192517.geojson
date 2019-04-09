@@ -1,0 +1,77 @@
+{
+  "id": 1243192517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.32227,26.93647,-101.32227,26.93647",
+    "geom:latitude":26.93647,
+    "geom:longitude":-101.32227,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"San Jose del Oro",
+    "gn:country_code":"MX",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3989250,
+    "gn:latitude":26.93647,
+    "gn:longitude":-101.32227,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"San Jos\u00e9 del Oro",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de las Ca\u00f1as"
+    ],
+    "name:spa_x_variant":[
+        "San Jos\u00e9 del Oro"
+    ],
+    "name:und_x_variant":[
+        "Rancho San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3989250
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"178036a9550f9b0b11663d6a6b24c328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078835,
+            "locality_id":1243192517,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1243192517,
+    "wof:lastmodified":1537667396,
+    "wof:name":"San Jose del Oro",
+    "wof:parent_id":102078835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.32227,
+    26.93647,
+    -101.32227,
+    26.93647
+],
+  "geometry": {"coordinates":[-101.32227,26.93647],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243139881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.41642,24.88311,-107.41642,24.88311",
+    "geom:latitude":24.88311,
+    "geom:longitude":-107.41642,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Mojolo",
+    "gn:country_code":"MX",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3995594,
+    "gn:latitude":24.88311,
+    "gn:longitude":-107.41642,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Mojolo",
+    "gn:population":149,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mojolo"
+    ],
+    "name:und_x_variant":[
+        "Majolo",
+        "M\u00f3jolo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3995594
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5f8d501cd7aece518b6422812ca09d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074307,
+            "locality_id":1243139881,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1243139881,
+    "wof:lastmodified":1537667546,
+    "wof:name":"Mojolo",
+    "wof:parent_id":102074307,
+    "wof:placetype":"locality",
+    "wof:population":149,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.41642,
+    24.88311,
+    -107.41642,
+    24.88311
+],
+  "geometry": {"coordinates":[-107.41642,24.88311],"type":"Point"}
+}

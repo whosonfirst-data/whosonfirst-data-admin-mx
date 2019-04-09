@@ -1,0 +1,77 @@
+{
+  "id": 1277028681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.97814,28.73395,-110.97814,28.73395",
+    "geom:latitude":28.73395,
+    "geom:longitude":-110.97814,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"MX",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3989214,
+    "gn:latitude":28.73395,
+    "gn:longitude":-110.97814,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Luis",
+    "gn:population":8,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Luis"
+    ],
+    "name:spa_x_variant":[
+        "Rancho San Luis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3989214
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c76f263b00afe942fc85b6e1d0b77cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074513,
+            "locality_id":1277028681,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1277028681,
+    "wof:lastmodified":1537667395,
+    "wof:name":"San Luis",
+    "wof:parent_id":102074513,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.97814,
+    28.73395,
+    -110.97814,
+    28.73395
+],
+  "geometry": {"coordinates":[-110.97814,28.73395],"type":"Point"}
+}

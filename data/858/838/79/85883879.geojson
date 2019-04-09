@@ -1,0 +1,114 @@
+{
+  "id": 85883879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000328,
+    "geom:area_square_m":3825380.720372,
+    "geom:bbox":"-99.0924850418,19.250060699,-99.0729467773,19.2748504233",
+    "geom:latitude":19.262974,
+    "geom:longitude":-99.082586,
+    "gn:population":4983,
+    "iso:country":"MX",
+    "lbl:latitude":19.262878,
+    "lbl:longitude":-99.089166,
+    "mps:latitude":19.262639,
+    "mps:longitude":-99.082586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Caltongo"
+    ],
+    "name:spa_x_variant":[
+        "Santiago Atlatongo",
+        "Atlatongo"
+    ],
+    "name:unk_x_variant":[
+        "Caltongo"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Atlatongo",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Caltongo",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Xochimilco",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":20,
+    "qs:photo_sum":39,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599949,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        857683023,
+        85633293,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3532602,
+        "gp:id":55898654,
+        "qs:id":26685,
+        "qs_pg:id":26685,
+        "wd:id":"Q20264766"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1abb052bc620fe77195ea6cb084e2b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":857683023,
+            "neighbourhood_id":85883879,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883879,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1505342842,
+    "wof:name":"Caltongo",
+    "wof:parent_id":857683023,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4983,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.09248504176543,
+    19.25006069896502,
+    -99.0729467773499,
+    19.2748504233253
+],
+  "geometry": {"coordinates":[[[-99.07601999755667,19.27383792485509],[-99.07320686806545,19.264897665513],[-99.07333363846843,19.26447975950028],[-99.07313892454593,19.26383787372028],[-99.0729467773499,19.26188697050006],[-99.07313892454593,19.25993606727994],[-99.07370798202476,19.2580601361765],[-99.07463208122689,19.25633126816987],[-99.07587570953808,19.25481590268825],[-99.0773910750197,19.25357227437708],[-99.07762581904845,19.25344680107955],[-99.08144700812454,19.25479601534235],[-99.08631665718684,19.25376438312136],[-99.08843993927647,19.25151533833913],[-99.089813232425,19.25006069896502],[-99.09118652341445,19.25151533693563],[-99.09118652341232,19.25410831127515],[-99.09118652339998,19.25929414050003],[-99.09118652434029,19.26447979618683],[-99.09216042521678,19.26551145969195],[-99.09166920808349,19.26707255875041],[-99.09248504176543,19.2696652554751],[-99.09118652341445,19.2710408507067],[-99.08729108453437,19.26966529650007],[-99.08631709262448,19.26932136127017],[-99.08594321097218,19.26940057538873],[-99.08569335939995,19.26966525544856],[-99.08569335940004,19.26966529650007],[-99.08569332064837,19.26966529650007],[-99.08079868638549,19.2748504233253],[-99.077453613275,19.2748504233253],[-99.07601999755667,19.27383792485509]]],"type":"Polygon"}
+}

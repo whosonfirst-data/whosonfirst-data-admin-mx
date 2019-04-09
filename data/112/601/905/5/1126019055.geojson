@@ -1,0 +1,91 @@
+{
+  "id": 1126019055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.6772,19.10448,-101.6772,19.10448",
+    "geom:latitude":19.10448,
+    "geom:longitude":-101.6772,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":697,
+    "iso:country":"MX",
+    "lbl:latitude":19.10448,
+    "lbl:longitude":-101.6772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Urapa"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3980792,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Urapa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Michoacan de Ocampo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":883736,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":150386,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Michoacan de Ocampo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686595,
+        102074927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3980792,
+        "gp:id":150386,
+        "qs_pg:id":883736
+    },
+    "wof:country":"MX",
+    "wof:created":1497300719,
+    "wof:geomhash":"42d5cdc904f7a63eb790352a22c3b2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074927,
+            "locality_id":1126019055,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1126019055,
+    "wof:lastmodified":1509407103,
+    "wof:name":"Urapa",
+    "wof:parent_id":102074927,
+    "wof:placetype":"locality",
+    "wof:population":697,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.6772,
+    19.10448,
+    -101.6772,
+    19.10448
+],
+  "geometry": {"coordinates":[-101.6772,19.10448],"type":"Point"}
+}

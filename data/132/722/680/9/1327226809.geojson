@@ -1,0 +1,75 @@
+{
+  "id": 1327226809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.8141,17.60029,-91.8141,17.60029",
+    "geom:latitude":17.60029,
+    "geom:longitude":-91.8141,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"50.0",
+    "gn:asciiname":"Zaragoza",
+    "gn:country_code":"MX",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3815555,
+    "gn:latitude":17.60029,
+    "gn:longitude":-91.8141,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Zaragoza",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zaragoza"
+    ],
+    "name:spa_x_variant":[
+        "Zaragoza Segunda Secci\u00f3n",
+        "Segunda Secci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815555
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"75bdff1290d04a57bfe54639d2e9eaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075527,
+            "locality_id":1327226809,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1327226809,
+    "wof:lastmodified":1537666685,
+    "wof:name":"Zaragoza",
+    "wof:parent_id":102075527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.8141,
+    17.60029,
+    -91.8141,
+    17.60029
+],
+  "geometry": {"coordinates":[-91.8141,17.60029],"type":"Point"}
+}

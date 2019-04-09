@@ -1,0 +1,74 @@
+{
+  "id": 1226574287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.40194,20.38611,-89.40194,20.38611",
+    "geom:latitude":20.38611,
+    "geom:longitude":-89.40194,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Lopez Polanco",
+    "gn:country_code":"MX",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8945480,
+    "gn:latitude":20.38611,
+    "gn:longitude":-89.40194,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"L\u00f3pez Polanco",
+    "gn:population":5,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f3pez Polanco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686701,
+        102079027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8945480
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f94cc6b2751d0c06be45f28d2836b8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079027,
+            "locality_id":1226574287,
+            "region_id":85686701
+        }
+    ],
+    "wof:id":1226574287,
+    "wof:lastmodified":1537671385,
+    "wof:name":"Lopez Polanco",
+    "wof:parent_id":102079027,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.40194,
+    20.38611,
+    -89.40194,
+    20.38611
+],
+  "geometry": {"coordinates":[-89.40194,20.38611],"type":"Point"}
+}

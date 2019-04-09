@@ -1,0 +1,77 @@
+{
+  "id": 1309973217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.9731,28.0017,-109.9731,28.0017",
+    "geom:latitude":28.0017,
+    "geom:longitude":-109.9731,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"La Sepultura",
+    "gn:country_code":"MX",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3999939,
+    "gn:latitude":28.0017,
+    "gn:longitude":-109.9731,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Sepultura",
+    "gn:population":3,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "La Sepultura"
+    ],
+    "name:und_x_variant":[
+        "Rancho La Sepultura"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3999939
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"78c1b8bd1d9f56049de7a810821187fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074417,
+            "locality_id":1309973217,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1309973217,
+    "wof:lastmodified":1537667669,
+    "wof:name":"La Sepultura",
+    "wof:parent_id":102074417,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.9731,
+    28.0017,
+    -109.9731,
+    28.0017
+],
+  "geometry": {"coordinates":[-109.9731,28.0017],"type":"Point"}
+}

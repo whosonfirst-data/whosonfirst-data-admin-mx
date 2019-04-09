@@ -1,0 +1,75 @@
+{
+  "id": 1292963451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.32608,21.03431,-104.32608,21.03431",
+    "geom:latitude":21.03431,
+    "geom:longitude":-104.32608,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"San Clemente (Rancho Nuevo)",
+    "gn:country_code":"MX",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987396,
+    "gn:latitude":21.03431,
+    "gn:longitude":-104.32608,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Clemente (Rancho Nuevo)",
+    "gn:population":132,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Nuevo",
+        "San Clemente"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987396
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c813103fcf3ad60e2884a094598df3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074559,
+            "locality_id":1292963451,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1292963451,
+    "wof:lastmodified":1537667353,
+    "wof:name":"San Clemente (Rancho Nuevo)",
+    "wof:parent_id":102074559,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.32608,
+    21.03431,
+    -104.32608,
+    21.03431
+],
+  "geometry": {"coordinates":[-104.32608,21.03431],"type":"Point"}
+}

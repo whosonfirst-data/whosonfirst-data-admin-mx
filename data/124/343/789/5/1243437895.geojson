@@ -1,0 +1,78 @@
+{
+  "id": 1243437895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.12432,21.10801,-99.12432,21.10801",
+    "geom:latitude":21.10801,
+    "geom:longitude":-99.12432,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"40.0",
+    "gn:asciiname":"La Pilas",
+    "gn:country_code":"MX",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3524638,
+    "gn:latitude":21.10801,
+    "gn:longitude":-99.12432,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"La Pilas",
+    "gn:population":336,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Pilas"
+    ],
+    "name:und_x_variant":[
+        "Pilas",
+        "Las Pilas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3524638
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5a7918808a7891b064d849c78bcd68af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078527,
+            "locality_id":1243437895,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1243437895,
+    "wof:lastmodified":1537666184,
+    "wof:name":"La Pilas",
+    "wof:parent_id":102078527,
+    "wof:placetype":"locality",
+    "wof:population":336,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.12432,
+    21.10801,
+    -99.12432,
+    21.10801
+],
+  "geometry": {"coordinates":[-99.12432,21.10801],"type":"Point"}
+}

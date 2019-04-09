@@ -1,0 +1,117 @@
+{
+  "id": 85884071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":356002.311956,
+    "geom:bbox":"-99.1790771484,19.4070210383,-99.1732596223,19.4129758118",
+    "geom:latitude":19.409793,
+    "geom:longitude":-99.176228,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.40994,
+    "lbl:longitude":-99.175994,
+    "mps:latitude":19.409705,
+    "mps:longitude":-99.176228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Hipodromo de la Condesa",
+        "Colonia N\u00e1poles"
+    ],
+    "name:unk_x_variant":[
+        "Hipodromo de la Condesa"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Hipodromo de la Condesa",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuauhtemoc",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":143,
+    "qs:photo_sum":563,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599939,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535757,
+        102073737,
+        85686515,
+        101991151,
+        102073739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899642,
+        "qs:id":1342136
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0e0a291973da7c0224cdb9fdb45ec5fb",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884071,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073739,
+            "locality_id":101991151,
+            "neighbourhood_id":85884071,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884071,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270430,
+    "wof:name":"Hipodromo de la Condesa",
+    "wof:parent_id":890535757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.17907714841556,
+    19.40702103827793,
+    -99.17325962230922,
+    19.41297581183431
+],
+  "geometry": {"coordinates":[[[-99.1739894327429,19.41297581183431],[-99.17358398440001,19.41254592438797],[-99.17325962352743,19.41220201210025],[-99.17346322306156,19.41155440175028],[-99.17325962230922,19.41090678492523],[-99.17358398440001,19.41056287547009],[-99.17358398439521,19.40961155000005],[-99.17358398439157,19.40892372372748],[-99.17358398438606,19.40702103827793],[-99.17633056639997,19.40702103827793],[-99.17907714841388,19.40702103827793],[-99.17907714841388,19.40961154426411],[-99.17907714841556,19.41220200824706],[-99.17697928449414,19.41220201168868],[-99.17633056639997,19.41288983158775],[-99.17539378964531,19.41255875007283],[-99.17427062989984,19.4127969230445],[-99.1739894327429,19.41297581183431]]],"type":"Polygon"}
+}

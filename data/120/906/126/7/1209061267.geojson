@@ -1,0 +1,65 @@
+{
+  "id": 1209061267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.34903,26.00089,-107.34903,26.00089",
+    "geom:latitude":26.00089,
+    "geom:longitude":-107.34903,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"3",
+    "gn:asciiname":"El Gato",
+    "gn:country_code":"MX",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8891391,
+    "gn:latitude":26.00089,
+    "gn:longitude":-107.34903,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Gato",
+    "gn:population":48,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8891391
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"48c1cf996dbffd572718ba5fdab4f2b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209061267
+        }
+    ],
+    "wof:id":1209061267,
+    "wof:lastmodified":1536298946,
+    "wof:name":"El Gato",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.34903,
+    26.00089,
+    -107.34903,
+    26.00089
+],
+  "geometry": {"coordinates":[-107.34903,26.00089],"type":"Point"}
+}

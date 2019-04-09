@@ -1,0 +1,93 @@
+{
+  "id": 1126036191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.90833,19.20694,-97.90833,19.20694",
+    "geom:latitude":19.20694,
+    "geom:longitude":-97.90833,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6800,
+    "gn:population":6280,
+    "iso:country":"MX",
+    "lbl:latitude":19.20694,
+    "lbl:longitude":-97.90833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "San Pablo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3815329,
+    "qs_pg:gn_pop":6800,
+    "qs_pg:name":"Zitlaltepec",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tlaxcala",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":150349,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":151771,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tlaxcala",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686653,
+        102077899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815329,
+        "gp:id":151771,
+        "qs_pg:id":150349
+    },
+    "wof:country":"MX",
+    "wof:created":1497301798,
+    "wof:geomhash":"b81a9ffa54aecd3a5a4bd1b8809764fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077899,
+            "locality_id":1126036191,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1126036191,
+    "wof:lastmodified":1509408235,
+    "wof:name":"Zitlaltepec",
+    "wof:parent_id":102077899,
+    "wof:placetype":"locality",
+    "wof:population":6280,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.90833,
+    19.20694,
+    -97.90833,
+    19.20694
+],
+  "geometry": {"coordinates":[-97.90833000000001,19.20694],"type":"Point"}
+}

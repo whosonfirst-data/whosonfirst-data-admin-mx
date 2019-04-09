@@ -1,0 +1,72 @@
+{
+  "id": 1259971679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.92569,28.38665,-107.92569,28.38665",
+    "geom:latitude":28.38665,
+    "geom:longitude":-107.92569,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"San Jose de Comachic",
+    "gn:country_code":"MX",
+    "gn:dem":2026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986236,
+    "gn:latitude":28.38665,
+    "gn:longitude":-107.92569,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Jos\u00e9 de Com\u00e1chic",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 Comachic",
+        "San Jos\u00e9 de Com\u00e1chic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986236
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a1159b2a48c15e378062d9aaf059c8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075333,
+            "locality_id":1259971679,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1259971679,
+    "wof:lastmodified":1537667324,
+    "wof:name":"San Jose de Comachic",
+    "wof:parent_id":102075333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.92569,
+    28.38665,
+    -107.92569,
+    28.38665
+],
+  "geometry": {"coordinates":[-107.92569,28.38665],"type":"Point"}
+}

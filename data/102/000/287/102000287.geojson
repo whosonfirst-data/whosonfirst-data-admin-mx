@@ -1,0 +1,70 @@
+{
+  "id": 102000287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21267.79672,
+    "geom:bbox":"-98.773652659,20.0625483831,-98.7715415886,20.0644307886",
+    "geom:latitude":20.06349,
+    "geom:longitude":-98.772385,
+    "iso:country":"MX",
+    "lbl:latitude":20.063594,
+    "lbl:longitude":-98.772226,
+    "mps:latitude":20.063594,
+    "mps:longitude":-98.772226,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Mexico",
+    "qs:a1":"*Hidalgo",
+    "qs:a1_lc":"13",
+    "qs:a1r":"*",
+    "qs:a2":"Mineral de la Reforma",
+    "qs:a2_lc":"13051",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Valle Dorado",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"MX",
+    "wof:geomhash":"9cff396ab929d56985f415e722b4427b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078543,
+            "locality_id":102000287,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":102000287,
+    "wof:lastmodified":1479907912,
+    "wof:name":"Valle Dorado",
+    "wof:parent_id":102078543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.77365265898972,
+    20.0625483830681,
+    -98.77154158863286,
+    20.06443078857351
+],
+  "geometry": {"coordinates":[[[-98.77249160754272,20.0642789562188],[-98.77238606349475,20.06443078857351],[-98.77236537438763,20.06419992218368],[-98.77203678122986,20.06421520123854],[-98.77166611145715,20.06423631496321],[-98.7715785702228,20.06338701656712],[-98.77154158863286,20.06302823509083],[-98.77208838966726,20.06299180676104],[-98.77276286044355,20.062945513863],[-98.77324310459638,20.06290951953762],[-98.77348515195366,20.0625483830681],[-98.77365265898972,20.06265603332555],[-98.77343548522563,20.0629646279156],[-98.77307374392574,20.06347383581533],[-98.77249160754272,20.0642789562188]]],"type":"Polygon"}
+}

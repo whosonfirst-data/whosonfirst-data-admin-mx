@@ -1,0 +1,77 @@
+{
+  "id": 1209983603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.47802,27.6917,-110.47802,27.6917",
+    "geom:latitude":27.6917,
+    "geom:longitude":-110.47802,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Huiribis",
+    "gn:country_code":"MX",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4004521,
+    "gn:latitude":27.6917,
+    "gn:longitude":-110.47802,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Huiribis",
+    "gn:population":342,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huiribis"
+    ],
+    "name:und_x_variant":[
+        "Huirivis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4004521
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"002d3487de047feeff1f1578160535b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074511,
+            "locality_id":1209983603,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1209983603,
+    "wof:lastmodified":1537667813,
+    "wof:name":"Huiribis",
+    "wof:parent_id":102074511,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.47802,
+    27.6917,
+    -110.47802,
+    27.6917
+],
+  "geometry": {"coordinates":[-110.47802,27.6917],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890535813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.174378,19.133706,-99.174378,19.133706",
+    "geom:latitude":19.133706,
+    "geom:longitude":-99.174378,
+    "iso:country":"MX",
+    "lbl:latitude":19.133706,
+    "lbl:longitude":-99.174378,
+    "mps:latitude":19.133706,
+    "mps:longitude":-99.174378,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "qs:a0":"Mexico",
+    "qs:a1":"*Distrito Federal",
+    "qs:a1_lc":"09",
+    "qs:a1r":"*",
+    "qs:a2":"Tlalpan",
+    "qs:a2_lc":"09012",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Parres (El Guarda)",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102073729,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"MX",
+    "wof:geomhash":"10e659abcb55094f4b89249c3b5eb5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073729,
+            "locality_id":-1,
+            "neighbourhood_id":890535813,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":890535813,
+    "wof:lastmodified":1531939963,
+    "wof:name":"Parres (El Guarda)",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101991119
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.174378,
+    19.133706,
+    -99.174378,
+    19.133706
+],
+  "geometry": {"coordinates":[-99.174378,19.133706],"type":"Point"}
+}

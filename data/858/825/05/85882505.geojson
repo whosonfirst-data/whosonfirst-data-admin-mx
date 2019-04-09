@@ -1,0 +1,87 @@
+{
+  "id": 85882505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.145106,23.733347,-99.145106,23.733347",
+    "geom:latitude":23.733347,
+    "geom:longitude":-99.145106,
+    "iso:country":"MX",
+    "lbl:latitude":23.733347,
+    "lbl:longitude":-99.145106,
+    "mps:latitude":23.734373,
+    "mps:longitude":-99.145239,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:spa_x_preferred":[
+        "Morelos"
+    ],
+    "name:spa_x_variant":[
+        "Jos\u00e9 Mar\u00eda Morelos"
+    ],
+    "name:unk_x_variant":[
+        "El Estero"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85686695,
+        102191575,
+        85633293,
+        102000959,
+        102078881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3483454,
+        "gp:id":55901763,
+        "qs:id":1199421,
+        "qs_pg:id":1017103
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e28047c5a63d021c47bc1cbb09bb06b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078881,
+            "locality_id":102000959,
+            "neighbourhood_id":85882505,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":85882505,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957708,
+    "wof:name":"Morelos",
+    "wof:parent_id":102000959,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.145106,
+    23.733347,
+    -99.145106,
+    23.733347
+],
+  "geometry": {"coordinates":[-99.145106,23.733347],"type":"Point"}
+}

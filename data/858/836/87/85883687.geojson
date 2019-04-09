@@ -1,0 +1,115 @@
+{
+  "id": 85883687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":1096654.344391,
+    "geom:bbox":"-99.1488647461,19.3914771316,-99.137878418,19.4025277227",
+    "geom:latitude":19.39748,
+    "geom:longitude":-99.142834,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.396989,
+    "lbl:longitude":-99.142114,
+    "mps:latitude":19.397733,
+    "mps:longitude":-99.14218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Alamos"
+    ],
+    "name:unk_x_variant":[
+        "Alamos"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Alamos",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Benito Juarez",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":154,
+    "qs:photo_sum":495,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599936,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535769,
+        102073737,
+        85686515,
+        101991153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55897819,
+        "qs:id":723108
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"39659ff6e0a9668161ddcc3cb3464c52",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883687,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":101991153,
+            "neighbourhood_id":85883687,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883687,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270477,
+    "wof:name":"Alamos",
+    "wof:parent_id":890535769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1488647461,
+    19.39147713160023,
+    -99.13787841797489,
+    19.40252772265178
+],
+  "geometry": {"coordinates":[[[-99.14337158202483,19.40252772265178],[-99.14199829099994,19.40204239645273],[-99.140625,19.40252772264326],[-99.13997623812261,19.40183990229183],[-99.13787841798421,19.40183990186274],[-99.13787841798325,19.39924927171688],[-99.13787841798325,19.39665860073363],[-99.13787841798484,19.39406789540008],[-99.13787841797489,19.39366283501751],[-99.13965180826213,19.39303614963019],[-99.14014200487725,19.39147713160023],[-99.140625,19.39147713598197],[-99.14337158201249,19.39147713675015],[-99.14459346497733,19.3927724980252],[-99.14489628112247,19.3927724980252],[-99.14611816408529,19.39406788937734],[-99.14611816408421,19.3966586011628],[-99.1488647461,19.3966586011628],[-99.1488647461,19.39924927286414],[-99.1488647461,19.4018399025779],[-99.14611816408325,19.40183990143349],[-99.14402033903738,19.401839905296],[-99.14337158202483,19.40252772265178]]],"type":"Polygon"}
+}

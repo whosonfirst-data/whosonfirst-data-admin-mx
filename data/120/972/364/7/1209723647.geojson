@@ -1,0 +1,74 @@
+{
+  "id": 1209723647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.30417,31.51722,-116.30417,31.51722",
+    "geom:latitude":31.51722,
+    "geom:longitude":-116.30417,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"El Zacaton",
+    "gn:country_code":"MX",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8531725,
+    "gn:latitude":31.51722,
+    "gn:longitude":-116.30417,
+    "gn:modification_date":"2016-04-08",
+    "gn:name":"El Zacat\u00f3n",
+    "gn:population":4,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Zacat\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8531725
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ad3d34feb5ab673e93495541e7e96ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1209723647,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1209723647,
+    "wof:lastmodified":1537668518,
+    "wof:name":"El Zacaton",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.30417,
+    31.51722,
+    -116.30417,
+    31.51722
+],
+  "geometry": {"coordinates":[-116.30417,31.51722],"type":"Point"}
+}

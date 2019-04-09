@@ -1,0 +1,82 @@
+{
+  "id": 1126060427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.167586,19.427027,-99.167586,19.427027",
+    "geom:latitude":19.427027,
+    "geom:longitude":-99.167586,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":19.427027,
+    "lbl:longitude":-99.167586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Peralvillo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":876,
+    "qs_pg:photos_1k":178,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":876,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074198,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":136469,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686515,
+        102073739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":136469,
+        "qs_pg:id":1074198
+    },
+    "wof:country":"MX",
+    "wof:created":1497304139,
+    "wof:geomhash":"1a118c7a2151ece0b29b05ac5e645d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073739,
+            "locality_id":1126060427,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":1126060427,
+    "wof:lastmodified":1509410014,
+    "wof:name":"Peralvillo",
+    "wof:parent_id":102073739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.167586,
+    19.427027,
+    -99.167586,
+    19.427027
+],
+  "geometry": {"coordinates":[-99.167586,19.427027],"type":"Point"}
+}

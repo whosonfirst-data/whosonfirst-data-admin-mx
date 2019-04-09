@@ -1,0 +1,120 @@
+{
+  "id": 102001007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000259,
+    "geom:area_square_m":2944144.986679,
+    "geom:bbox":"-99.1619656965,23.0269371369,-99.1451787397,23.0677817018",
+    "geom:latitude":23.045989,
+    "geom:longitude":-99.153917,
+    "gn:latitude":23.03661,
+    "gn:longitude":-99.15002,
+    "iso:country":"MX",
+    "lbl:latitude":23.045369,
+    "lbl:longitude":-99.154037,
+    "mps:latitude":23.045369,
+    "mps:longitude":-99.154037,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "G\u00f3mez Far\u00edas"
+    ],
+    "name:dut_x_preferred":[
+        "G\u00f3mez Far\u00edas"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00f3mez Far\u00edas Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "G\u00f3mez Far\u00edas"
+    ],
+    "name:fur_x_preferred":[
+        "G\u00f3mez Far\u00edas"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina G\u00f3mez Far\u00edas"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00f3mez Far\u00edas"
+    ],
+    "name:nah_x_preferred":[
+        "G\u00f3mez Far\u00edas"
+    ],
+    "name:spa_x_preferred":[
+        "Gomez Farias",
+        "Municipio de G\u00f3mez Far\u00edas"
+    ],
+    "name:unk_x_variant":[
+        "G\u00f3mes Far\u00edas"
+    ],
+    "name:vec_x_preferred":[
+        "G\u00f3mez Far\u00edas"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Tamaulipas",
+    "qs:a1_lc":"28",
+    "qs:a1r":"*",
+    "qs:a2":"G\u00f3mez Far\u00edas",
+    "qs:a2_lc":"28011",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"G\u00f3mez Far\u00edas",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01b7afea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3527431,
+        "gp:id":124048,
+        "qs:id":232469,
+        "qs_pg:id":232469,
+        "wd:id":"Q3846365",
+        "wk:page":"G\u00f3mez Far\u00edas Municipality, Tamaulipas"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ffde2208a0ae8cc74f590ef2b1a6e2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078953,
+            "locality_id":102001007,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":102001007,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1514486770,
+    "wof:name":"G\u00f3mez Far\u00edas",
+    "wof:parent_id":102078953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.16196569650359,
+    23.02693713694784,
+    -99.14517873973844,
+    23.06778170182751
+],
+  "geometry": {"coordinates":[[[-99.15109896896124,23.04965203040223],[-99.15071347997798,23.04770229229363],[-99.15061700758255,23.04714839184777],[-99.1512066076701,23.04709557504382],[-99.14841618871732,23.04000928076536],[-99.14791330248538,23.03836940989799],[-99.14517873973844,23.0293650694299],[-99.14643835437755,23.02887596085809],[-99.14796334701346,23.02830305274386],[-99.14971234832139,23.02765474962617],[-99.15164780654321,23.02693713694784],[-99.15328465906121,23.03108709548805],[-99.15523017403531,23.03762029197868],[-99.15547405098297,23.0384392038399],[-99.1573925118233,23.04499420694881],[-99.15783828513045,23.04651722745688],[-99.15804709866617,23.04735652261152],[-99.15815104780262,23.04734851293811],[-99.16017466903354,23.05456144658391],[-99.15866922259811,23.05470218325467],[-99.15879429977916,23.05508498019403],[-99.16196569650359,23.06395567614743],[-99.16073448763827,23.06493206193841],[-99.16033785487492,23.06525120662968],[-99.16037457615712,23.06689898150272],[-99.16038729162804,23.06716203420109],[-99.15861088510106,23.06778170182751],[-99.15793080818709,23.06615179036999],[-99.15700025321205,23.06632099659563],[-99.15579988080505,23.0626261767965],[-99.15239011369265,23.05198541372222],[-99.15155457238448,23.04940791989354],[-99.15109896896124,23.04965203040223]]],"type":"Polygon"}
+}

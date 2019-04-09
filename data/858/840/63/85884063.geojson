@@ -1,0 +1,125 @@
+{
+  "id": 85884063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1587311.760785,
+    "geom:bbox":"-99.1845703125,19.4270561052,-99.1708374023,19.4419893652",
+    "geom:latitude":19.435139,
+    "geom:longitude":-99.178219,
+    "gn:population":426,
+    "iso:country":"MX",
+    "lbl:latitude":19.433215,
+    "lbl:longitude":-99.178893,
+    "mps:latitude":19.434788,
+    "mps:longitude":-99.178354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Casa Blanca"
+    ],
+    "name:unk_x_variant":[
+        "Casa Blanca"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Casa Blanca",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Casa Blanca",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":130,
+    "qs:photo_sum":694,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991171,
+        890535785,
+        102073749,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3531473,
+        "gp:id":55912327,
+        "qs:id":394479,
+        "qs_pg:id":776211,
+        "wd:id":"Q20237322"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"63dd9dc53ba991bb9947f78ef3f8dbc1",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073749,
+            "locality_id":101991171,
+            "neighbourhood_id":85884063,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884063,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884063,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957717,
+    "wof:name":"Casa Blanca",
+    "wof:parent_id":890535785,
+    "wof:placetype":"neighbourhood",
+    "wof:population":426,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.18457031249997,
+    19.42705610519295,
+    -99.17083740231246,
+    19.4419893652001
+],
+  "geometry": {"coordinates":[[[-99.17228678674795,19.44069440130008],[-99.17221069334997,19.44061370660764],[-99.17221069334997,19.43956067830636],[-99.17083740231246,19.43810438572527],[-99.17083740231556,19.4355143326472],[-99.17358398438429,19.4355143326472],[-99.1735839843833,19.43292423911697],[-99.17358398438606,19.43033410586403],[-99.17633056639997,19.43033410557724],[-99.17645473806243,19.43020243052726],[-99.17664469610639,19.43016214452669],[-99.17770385739982,19.42903902746893],[-99.17770385739982,19.42774393590001],[-99.17770385739982,19.42754150486657],[-99.17907714841664,19.42705610519295],[-99.17972580728068,19.42774393160842],[-99.18117506593705,19.42774392989175],[-99.18182373050001,19.42774393590001],[-99.18182373048535,19.42843175666231],[-99.1818237304843,19.43033410514701],[-99.18392166254844,19.43033410471678],[-99.18457031249997,19.43033411160006],[-99.18457031249997,19.4329242460001],[-99.18457031249997,19.433612068038],[-99.18457031249997,19.43551433336414],[-99.18457031249997,19.43810438443163],[-99.1818237304843,19.43810438443163],[-99.18182373048489,19.44069440130008],[-99.18182373047495,19.44109915082232],[-99.1800500597634,19.44172612510415],[-99.1790771484097,19.44069439728489],[-99.17633056639997,19.44069439527733],[-99.17510942318648,19.4419893652001],[-99.17358398440001,19.4419893652001],[-99.17350791047426,19.4419893652001],[-99.17228678674795,19.44069440130008]]],"type":"Polygon"}
+}

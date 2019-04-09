@@ -1,0 +1,83 @@
+{
+  "id": 1126108743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.93164,21.721231,-99.93164,21.721231",
+    "geom:latitude":21.721231,
+    "geom:longitude":-99.93164,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":21.721231,
+    "lbl:longitude":-99.93164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Barrio Del Refugio",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"San Luis Potosi",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1137769,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55914901,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"San Luis Potosi",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102077203,
+        85686647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55914901,
+        "qs_pg:id":1137769
+    },
+    "wof:country":"MX",
+    "wof:created":1497317721,
+    "wof:geomhash":"9535c7e4d77afa959cf1067f34642ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077203,
+            "locality_id":-1,
+            "neighbourhood_id":1126108743,
+            "region_id":85686647
+        }
+    ],
+    "wof:id":1126108743,
+    "wof:lastmodified":1509412501,
+    "wof:name":"Barrio Del Refugio",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.93164,
+    21.721231,
+    -99.93164,
+    21.721231
+],
+  "geometry": {"coordinates":[-99.93164,21.721231],"type":"Point"}
+}

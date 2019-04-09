@@ -1,0 +1,116 @@
+{
+  "id": 85883815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000345,
+    "geom:area_square_m":4030375.247992,
+    "geom:bbox":"-99.2183748603,19.3562580051,-99.1955566406,19.3785225501",
+    "geom:latitude":19.367993,
+    "geom:longitude":-99.205286,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.363332,
+    "lbl:longitude":-99.202241,
+    "mps:latitude":19.368468,
+    "mps:longitude":-99.205501,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Sociedad Cooperativa Poder Popular"
+    ],
+    "name:unk_x_variant":[
+        "Sociedad Cooperativa Poder Popular"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Sociedad Cooperativa Poder Popular",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":307,
+    "qs:photo_sum":512,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898361,
+        "qs:id":899369
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"518c904a9a9c2aea454b03b873a56e9d",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883815,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85883815,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883815,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270469,
+    "wof:name":"Sociedad Cooperativa Poder Popular",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.21837486030026,
+    19.35625800512095,
+    -99.19555664059993,
+    19.37852255010036
+],
+  "geometry": {"coordinates":[[[-99.20593811416467,19.37852255010036],[-99.20104980469998,19.37593165235015],[-99.19766906247418,19.37593165235015],[-99.19636887658356,19.37534097846603],[-99.195556640625,19.37390601061703],[-99.19555664061284,19.37334071340008],[-99.19555664061451,19.36953410784096],[-99.19555664059993,19.36815850570007],[-99.19685438315477,19.36815850569997],[-99.19692993164998,19.36807842458303],[-99.19692993164998,19.36556732980009],[-99.19692993164998,19.3630561076686],[-99.19685448026431,19.36297613330014],[-99.19555664059993,19.36297613330005],[-99.19555664061451,19.36160049380813],[-99.19555664060829,19.35779359620004],[-99.19555664062082,19.35779355502515],[-99.20104980469998,19.35779355502515],[-99.20138182258171,19.35779355502515],[-99.203796386725,19.35625800512095],[-99.20985168742416,19.36010889325527],[-99.20993845256919,19.36075264738244],[-99.21203613279994,19.36297609209896],[-99.21203617167063,19.36297613330005],[-99.21837486030026,19.36969485216665],[-99.21836621827521,19.36969747369639],[-99.21760424692297,19.37112302183024],[-99.2163606186117,19.37263838731195],[-99.21484525313008,19.37388201562295],[-99.21311638512344,19.37480611482518],[-99.2128816000295,19.37487733610472],[-99.21287294915527,19.37487996031872],[-99.21211108287304,19.3763053118803],[-99.21086745456176,19.37782067736194],[-99.21001222015607,19.37852255010036],[-99.20593811416467,19.37852255010036]]],"type":"Polygon"}
+}

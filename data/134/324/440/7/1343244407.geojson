@@ -1,0 +1,74 @@
+{
+  "id": 1343244407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.12333,19.41333,-100.12333,19.41333",
+    "geom:latitude":19.41333,
+    "geom:longitude":-100.12333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"111.0",
+    "gn:asciiname":"San Francisco de Asis",
+    "gn:country_code":"MX",
+    "gn:dem":2574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8862819,
+    "gn:latitude":19.41333,
+    "gn:longitude":-100.12333,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Francisco de As\u00eds",
+    "gn:population":536,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Francisco de As\u00eds"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102073999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8862819
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8eac55af25bdb56dc32b454e4e9ffcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073999,
+            "locality_id":1343244407,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1343244407,
+    "wof:lastmodified":1537669344,
+    "wof:name":"San Francisco de Asis",
+    "wof:parent_id":102073999,
+    "wof:placetype":"locality",
+    "wof:population":536,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.12333,
+    19.41333,
+    -100.12333,
+    19.41333
+],
+  "geometry": {"coordinates":[-100.12333,19.41333],"type":"Point"}
+}

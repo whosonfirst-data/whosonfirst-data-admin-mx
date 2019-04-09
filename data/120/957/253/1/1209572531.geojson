@@ -1,0 +1,65 @@
+{
+  "id": 1209572531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.73826,25.71765,-108.73826,25.71765",
+    "geom:latitude":25.71765,
+    "geom:longitude":-108.73826,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Campo Serrano",
+    "gn:country_code":"MX",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8943778,
+    "gn:latitude":25.71765,
+    "gn:longitude":-108.73826,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Campo Serrano",
+    "gn:population":5,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8943778
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3caa689e5a68969fc6a1614b31ab9c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209572531
+        }
+    ],
+    "wof:id":1209572531,
+    "wof:lastmodified":1536283038,
+    "wof:name":"Campo Serrano",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.73826,
+    25.71765,
+    -108.73826,
+    25.71765
+],
+  "geometry": {"coordinates":[-108.73826,25.71765],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209115201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.30361,22.36083,-102.30361,22.36083",
+    "geom:latitude":22.36083,
+    "geom:longitude":-102.30361,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"El Cerrito",
+    "gn:country_code":"MX",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8902412,
+    "gn:latitude":22.36083,
+    "gn:longitude":-102.30361,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Cerrito",
+    "gn:population":23,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8902412
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"683d38b632f676d3f51a992201210cee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209115201
+        }
+    ],
+    "wof:id":1209115201,
+    "wof:lastmodified":1536297276,
+    "wof:name":"El Cerrito",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.30361,
+    22.36083,
+    -102.30361,
+    22.36083
+],
+  "geometry": {"coordinates":[-102.30361000000001,22.36083],"type":"Point"}
+}

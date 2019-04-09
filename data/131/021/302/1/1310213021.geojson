@@ -1,0 +1,74 @@
+{
+  "id": 1310213021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.55,31.75583,-116.55,31.75583",
+    "geom:latitude":31.75583,
+    "geom:longitude":-116.55,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Colonia Esperanza (Canon San Carlos)",
+    "gn:country_code":"MX",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8861626,
+    "gn:latitude":31.75583,
+    "gn:longitude":-116.55,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Colonia Esperanza (Ca\u00f1\u00f3n San Carlos)",
+    "gn:population":661,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Esperanza (Ca\u00f1\u00f3n San Carlos)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8861626
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9d886cf1a6ea8c55580ce5baf39dd7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1310213021,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1310213021,
+    "wof:lastmodified":1537669314,
+    "wof:name":"Colonia Esperanza (Canon San Carlos)",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:population":661,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.55,
+    31.75583,
+    -116.55,
+    31.75583
+],
+  "geometry": {"coordinates":[-116.55,31.75583],"type":"Point"}
+}

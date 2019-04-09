@@ -1,0 +1,74 @@
+{
+  "id": 1243447503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.34028,16.08333,-91.34028,16.08333",
+    "geom:latitude":16.08333,
+    "geom:longitude":-91.34028,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"52.0",
+    "gn:asciiname":"Plan Rio Azul",
+    "gn:country_code":"MX",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8866183,
+    "gn:latitude":16.08333,
+    "gn:longitude":-91.34028,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Plan R\u00edo Azul",
+    "gn:population":348,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plan R\u00edo Azul"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8866183
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"71f0ec08d90a0d492c9463751f590ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075735,
+            "locality_id":1243447503,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1243447503,
+    "wof:lastmodified":1537669429,
+    "wof:name":"Plan Rio Azul",
+    "wof:parent_id":102075735,
+    "wof:placetype":"locality",
+    "wof:population":348,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.34028,
+    16.08333,
+    -91.34028,
+    16.08333
+],
+  "geometry": {"coordinates":[-91.34028000000001,16.08333],"type":"Point"}
+}

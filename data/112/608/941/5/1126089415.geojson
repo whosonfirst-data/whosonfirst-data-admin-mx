@@ -1,0 +1,91 @@
+{
+  "id": 1126089415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.7106,26.42219,-103.7106,26.42219",
+    "geom:latitude":26.42219,
+    "geom:longitude":-103.7106,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":26.42219,
+    "lbl:longitude":-103.7106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Francisco I. Madero"
+    ],
+    "name:spa_x_variant":[
+        "El Quemado"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3978864,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Francisco I Madero Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Coahuila de Zaragoza",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":355512,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55912834,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Coahuila de Zaragoza",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102075497,
+        85686573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3978864,
+        "gp:id":55912834,
+        "qs_pg:id":355512
+    },
+    "wof:country":"MX",
+    "wof:created":1497313433,
+    "wof:geomhash":"a592f5ba86882e5c832209392afacdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075497,
+            "locality_id":-1,
+            "neighbourhood_id":1126089415,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1126089415,
+    "wof:lastmodified":1509411569,
+    "wof:name":"Francisco I Madero Centro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.7106,
+    26.42219,
+    -103.7106,
+    26.42219
+],
+  "geometry": {"coordinates":[-103.7106,26.42219],"type":"Point"}
+}

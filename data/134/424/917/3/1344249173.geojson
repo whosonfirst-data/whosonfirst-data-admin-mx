@@ -1,0 +1,76 @@
+{
+  "id": 1344249173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.8807,27.3074,-104.8807,27.3074",
+    "geom:latitude":27.3074,
+    "geom:longitude":-104.8807,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Nuevo Tampico",
+    "gn:country_code":"MX",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3974529,
+    "gn:latitude":27.3074,
+    "gn:longitude":-104.8807,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Nuevo Tampico",
+    "gn:population":193,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ejido Nuevo Tampico",
+        "Nuevo Tampico",
+        "Tampico Nuevo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3974529
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1d3f77c815eda908744168e991dd3181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075293,
+            "locality_id":1344249173,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1344249173,
+    "wof:lastmodified":1537667017,
+    "wof:name":"Nuevo Tampico",
+    "wof:parent_id":102075293,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.8807,
+    27.3074,
+    -104.8807,
+    27.3074
+],
+  "geometry": {"coordinates":[-104.8807,27.3074],"type":"Point"}
+}

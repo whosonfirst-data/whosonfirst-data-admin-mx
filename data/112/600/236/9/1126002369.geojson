@@ -1,0 +1,82 @@
+{
+  "id": 1126002369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.254393,19.620184,-99.254393,19.620184",
+    "geom:latitude":19.620184,
+    "geom:longitude":-99.254393,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":19.620184,
+    "lbl:longitude":-99.254393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hila",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":44437,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":124879,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102073975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":124879,
+        "qs_pg:id":44437
+    },
+    "wof:country":"MX",
+    "wof:created":1497299729,
+    "wof:geomhash":"5bbd96849123a53fab30e4a888114751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073975,
+            "locality_id":1126002369,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126002369,
+    "wof:lastmodified":1509406224,
+    "wof:name":"Hila",
+    "wof:parent_id":102073975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.254393,
+    19.620184,
+    -99.254393,
+    19.620184
+],
+  "geometry": {"coordinates":[-99.25439299999999,19.620184],"type":"Point"}
+}

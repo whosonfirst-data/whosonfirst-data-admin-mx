@@ -1,0 +1,93 @@
+{
+  "id": 1125895025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.41578,27.626,-110.41578,27.626",
+    "geom:latitude":27.626,
+    "geom:longitude":-110.41578,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5859,
+    "gn:population":5859,
+    "iso:country":"MX",
+    "lbl:latitude":27.626,
+    "lbl:longitude":-110.41578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Potam"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3992154,
+    "qs_pg:gn_pop":5859,
+    "qs_pg:name":"Potam",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sonora",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1047550,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":137165,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sonora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3992154,
+        "gp:id":137165,
+        "qs_pg:id":1047550
+    },
+    "wof:country":"MX",
+    "wof:created":1497295509,
+    "wof:geomhash":"4a7da71258c1b4c659809872379b2aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074511,
+            "locality_id":1125895025,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1125895025,
+    "wof:lastmodified":1509399060,
+    "wof:name":"Potam",
+    "wof:parent_id":102074511,
+    "wof:placetype":"locality",
+    "wof:population":5859,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.41578,
+    27.626,
+    -110.41578,
+    27.626
+],
+  "geometry": {"coordinates":[-110.41578,27.626],"type":"Point"}
+}

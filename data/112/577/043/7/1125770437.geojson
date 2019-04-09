@@ -1,0 +1,77 @@
+{
+  "id": 1125770437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.84583,17.87083,-93.84583,17.87083",
+    "geom:latitude":17.87083,
+    "geom:longitude":-93.84583,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":17.87083,
+    "lbl:longitude":-93.84583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Vistahermosa"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3802548,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vistahermosa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1052150,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686617,
+        102075769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3802548,
+        "qs_pg:id":1052150
+    },
+    "wof:country":"MX",
+    "wof:created":1497290042,
+    "wof:geomhash":"5c7d9d55cb296539701889eca4e8fce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075769,
+            "locality_id":1125770437,
+            "region_id":85686617
+        }
+    ],
+    "wof:id":1125770437,
+    "wof:lastmodified":1509390934,
+    "wof:name":"Vistahermosa",
+    "wof:parent_id":102075769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.84583,
+    17.87083,
+    -93.84583,
+    17.87083
+],
+  "geometry": {"coordinates":[-93.84583000000001,17.87083],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125928599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.56049,15.72231,-96.56049,15.72231",
+    "geom:latitude":15.72231,
+    "geom:longitude":-96.56049,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":15.72231,
+    "lbl:longitude":-96.56049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Coco"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3529133,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Coco",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Oaxaca",
+    "qs_pg:photos":1534,
+    "qs_pg:photos_1k":311,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1534,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489258,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":119847,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Oaxaca",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3529133,
+        "gp:id":119847,
+        "qs_pg:id":489258
+    },
+    "wof:country":"MX",
+    "wof:created":1497296729,
+    "wof:geomhash":"47e2d2b758101845555a9c1264bb5213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076593,
+            "locality_id":1125928599,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1125928599,
+    "wof:lastmodified":1509401239,
+    "wof:name":"El Coco",
+    "wof:parent_id":102076593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.56049,
+    15.72231,
+    -96.56049,
+    15.72231
+],
+  "geometry": {"coordinates":[-96.56049,15.72231],"type":"Point"}
+}

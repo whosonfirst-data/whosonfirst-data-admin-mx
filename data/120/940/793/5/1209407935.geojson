@@ -1,0 +1,65 @@
+{
+  "id": 1209407935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.68083,17.2325,-93.68083,17.2325",
+    "geom:latitude":17.2325,
+    "geom:longitude":-93.68083,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"92.0",
+    "gn:asciiname":"Achiote",
+    "gn:country_code":"MX",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8873413,
+    "gn:latitude":17.2325,
+    "gn:longitude":-93.68083,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Achiote",
+    "gn:population":179,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8873413
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e1620a95045cef86d17a4654054b687e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209407935
+        }
+    ],
+    "wof:id":1209407935,
+    "wof:lastmodified":1536287934,
+    "wof:name":"Achiote",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.68083,
+    17.2325,
+    -93.68083,
+    17.2325
+],
+  "geometry": {"coordinates":[-93.68083,17.2325],"type":"Point"}
+}

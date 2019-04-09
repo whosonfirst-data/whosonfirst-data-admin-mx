@@ -1,0 +1,76 @@
+{
+  "id": 1293161947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.21417,23.55667,-99.21417,23.55667",
+    "geom:latitude":23.55667,
+    "geom:longitude":-99.21417,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"41.0",
+    "gn:asciiname":"La Escondida",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3525860,
+    "gn:latitude":23.55667,
+    "gn:longitude":-99.21417,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"La Escondida",
+    "gn:population":3,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Escondida",
+        "La Escondida"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3525860
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"661f48c7403561c39de203f4d50f8c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078881,
+            "locality_id":1293161947,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1293161947,
+    "wof:lastmodified":1537666227,
+    "wof:name":"La Escondida",
+    "wof:parent_id":102078881,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.21417,
+    23.55667,
+    -99.21417,
+    23.55667
+],
+  "geometry": {"coordinates":[-99.21417,23.55667],"type":"Point"}
+}

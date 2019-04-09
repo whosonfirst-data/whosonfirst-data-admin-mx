@@ -1,0 +1,74 @@
+{
+  "id": 1326497405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.93876,32.24284,-114.93876,32.24284",
+    "geom:latitude":32.24284,
+    "geom:longitude":-114.93876,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"55.0",
+    "gn:asciiname":"Rio Sur",
+    "gn:country_code":"MX",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8881350,
+    "gn:latitude":32.24284,
+    "gn:longitude":-114.93876,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"R\u00edo Sur",
+    "gn:population":98,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Sur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8881350
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"119ee4f1b9970cf745a220deb2ab0992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074497,
+            "locality_id":1326497405,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1326497405,
+    "wof:lastmodified":1537669803,
+    "wof:name":"Rio Sur",
+    "wof:parent_id":102074497,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.93876000000002,
+    32.24284,
+    -114.93876000000002,
+    32.24284
+],
+  "geometry": {"coordinates":[-114.93876000000002,32.24284],"type":"Point"}
+}

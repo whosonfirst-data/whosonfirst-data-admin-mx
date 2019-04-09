@@ -1,0 +1,77 @@
+{
+  "id": 1210008653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.02178,28.55887,-104.02178,28.55887",
+    "geom:latitude":28.55887,
+    "geom:longitude":-104.02178,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Santa Fe",
+    "gn:country_code":"MX",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3974581,
+    "gn:latitude":28.55887,
+    "gn:longitude":-104.02178,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Santa Fe",
+    "gn:population":8,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Fe"
+    ],
+    "name:und_x_variant":[
+        "Rancho Sante F\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3974581
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"935dfa8f3e42fab7cb9a6eb464fd2ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075289,
+            "locality_id":1210008653,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1210008653,
+    "wof:lastmodified":1537667019,
+    "wof:name":"Santa Fe",
+    "wof:parent_id":102075289,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.02178,
+    28.55887,
+    -104.02178,
+    28.55887
+],
+  "geometry": {"coordinates":[-104.02178000000001,28.55887],"type":"Point"}
+}

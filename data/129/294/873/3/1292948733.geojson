@@ -1,0 +1,76 @@
+{
+  "id": 1292948733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.90333,27.71361,-109.90333,27.71361",
+    "geom:latitude":27.71361,
+    "geom:longitude":-109.90333,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Los Hornos",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3997672,
+    "gn:latitude":27.71361,
+    "gn:longitude":-109.90333,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Los Hornos",
+    "gn:population":726,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hornos",
+        "Los Hornos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997672
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"66bcaca7b09e9c52c6af6fc7b107ecdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074417,
+            "locality_id":1292948733,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1292948733,
+    "wof:lastmodified":1537667597,
+    "wof:name":"Los Hornos",
+    "wof:parent_id":102074417,
+    "wof:placetype":"locality",
+    "wof:population":726,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.90333,
+    27.71361,
+    -109.90333,
+    27.71361
+],
+  "geometry": {"coordinates":[-109.90333,27.71361],"type":"Point"}
+}

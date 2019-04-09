@@ -1,0 +1,74 @@
+{
+  "id": 1309775811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.899,19.44677,-98.899,19.44677",
+    "geom:latitude":19.44677,
+    "geom:longitude":-98.899,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"99",
+    "gn:asciiname":"Santa Monica (Rancho Santa Monica)",
+    "gn:country_code":"MX",
+    "gn:dem":2258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8909595,
+    "gn:latitude":19.44677,
+    "gn:longitude":-98.899,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Santa M\u00f3nica (Rancho Santa M\u00f3nica)",
+    "gn:population":16,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa M\u00f3nica (Rancho Santa M\u00f3nica)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8909595
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b1eb78f0495293a3dfe4bc7470375c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074023,
+            "locality_id":1309775811,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1309775811,
+    "wof:lastmodified":1537670509,
+    "wof:name":"Santa Monica (Rancho Santa Monica)",
+    "wof:parent_id":102074023,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.899,
+    19.44677,
+    -98.899,
+    19.44677
+],
+  "geometry": {"coordinates":[-98.899,19.44677],"type":"Point"}
+}

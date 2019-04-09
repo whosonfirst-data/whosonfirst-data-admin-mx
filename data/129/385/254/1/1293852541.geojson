@@ -1,0 +1,74 @@
+{
+  "id": 1293852541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.31288,21.2788,-99.31288,21.2788",
+    "geom:latitude":21.2788,
+    "geom:longitude":-99.31288,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Lomas de Juarez",
+    "gn:country_code":"MX",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3825479,
+    "gn:latitude":21.2788,
+    "gn:longitude":-99.31288,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Lomas de Ju\u00e1rez",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lomas de Ju\u00e1rez"
+    ],
+    "name:spa_x_variant":[
+        "El Huerto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686641,
+        102077087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3825479
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fd83209e0c2d32859b17d32df8e31564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077087,
+            "locality_id":1293852541,
+            "region_id":85686641
+        }
+    ],
+    "wof:id":1293852541,
+    "wof:lastmodified":1537666892,
+    "wof:name":"Lomas de Juarez",
+    "wof:parent_id":102077087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.31288,
+    21.2788,
+    -99.31288,
+    21.2788
+],
+  "geometry": {"coordinates":[-99.31288000000001,21.2788],"type":"Point"}
+}

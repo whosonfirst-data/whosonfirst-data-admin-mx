@@ -1,0 +1,120 @@
+{
+  "id": 85884515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":179852.829024,
+    "geom:bbox":"-99.0818219008,19.4168779718,-99.0765806402,19.4232512801",
+    "geom:latitude":19.420226,
+    "geom:longitude":-99.079321,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.421567,
+    "lbl:longitude":-99.07865,
+    "mps:latitude":19.42036,
+    "mps:longitude":-99.079063,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:fra_x_preferred":[
+        "Junta de Investigaci\u00f3n de Accidentes de Aviaci\u00f3n Civil"
+    ],
+    "name:spa_x_preferred":[
+        "Aviacion Civil",
+        "Junta de Investigaci\u00f3n de Accidentes de Aviaci\u00f3n Civil"
+    ],
+    "name:unk_x_variant":[
+        "Aviacion Civil"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Aviacion Civil",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Venustiano Carranza",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":67,
+    "qs:photo_sum":88,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599948,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991179,
+        890535781,
+        102073755,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55904140,
+        "qs:id":1294778
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ab0859ccde3e4772430d50f4851f797f",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073755,
+            "locality_id":101991179,
+            "neighbourhood_id":85884515,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884515,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884515,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957720,
+    "wof:name":"Aviacion Civil",
+    "wof:parent_id":890535781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.08182190076406,
+    19.41687797183175,
+    -99.07658064022826,
+    19.42325128013474
+],
+  "geometry": {"coordinates":[[[-99.07926338208296,19.42292016463412],[-99.07915124654556,19.42256346070008],[-99.07882690429997,19.42256346070008],[-99.07882690429997,19.42191588930055],[-99.07814025879986,19.42191588930642],[-99.0776106185896,19.4213542914414],[-99.07745361330004,19.42132099582865],[-99.07721257047149,19.42126987864199],[-99.07658064022826,19.41925969984808],[-99.07882690429997,19.41878335138935],[-99.08020019529991,19.4179096807092],[-99.08182190076406,19.41687797183175],[-99.08084888097025,19.41997316110002],[-99.08044173014244,19.42126831345018],[-99.08084887932756,19.42256345037528],[-99.08020019529982,19.42325128013474],[-99.07926338208296,19.42292016463412]]],"type":"Polygon"}
+}

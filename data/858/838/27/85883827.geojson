@@ -1,0 +1,116 @@
+{
+  "id": 85883827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:area_square_m":1898539.483449,
+    "geom:bbox":"-99.2614746094,19.3823289844,-99.2446634232,19.3977361702",
+    "geom:latitude":19.388769,
+    "geom:longitude":-99.254121,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.387602,
+    "lbl:longitude":-99.25236,
+    "mps:latitude":19.388432,
+    "mps:longitude":-99.255122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Cooperativa Palo Alto"
+    ],
+    "name:unk_x_variant":[
+        "Cooperativa Palo Alto"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Cooperativa Palo Alto",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuajimalpa de Morelos",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":75,
+    "qs:photo_sum":110,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599938,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991169,
+        890535767,
+        102073747,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898425,
+        "qs:id":475173
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d354d1db73a1d6d98195eac40aff44aa",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535767,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073747,
+            "locality_id":101991169,
+            "neighbourhood_id":85883827,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535767,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883827,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883827,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957716,
+    "wof:name":"Cooperativa Palo Alto",
+    "wof:parent_id":890535767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.2614746093902,
+    19.38232898439504,
+    -99.24466342316941,
+    19.39773617018872
+],
+  "geometry": {"coordinates":[[[-99.25048828120728,19.39026195951053],[-99.24919069423305,19.38888634720006],[-99.24499511719995,19.38888634720006],[-99.24499511719995,19.38475947676845],[-99.24466342316941,19.38370459290037],[-99.24499511719995,19.38370459290037],[-99.24919063592253,19.38370459290037],[-99.25048828122493,19.3823289844216],[-99.25323486327483,19.38329951709929],[-99.25598144529994,19.38232898439504],[-99.25727909062721,19.38370459290037],[-99.26147460938185,19.38370459290037],[-99.26147460939021,19.38370463410004],[-99.26147460938645,19.38888634720006],[-99.26147460937483,19.39147703882512],[-99.25944171396478,19.39255461521812],[-99.2580144660015,19.3955808273724],[-99.25394844617853,19.39773617018872],[-99.25048832013178,19.39406789540222],[-99.25048828119989,19.39406789540008],[-99.25048828121456,19.39406785415049],[-99.25048828120728,19.39026195951053]]],"type":"Polygon"}
+}

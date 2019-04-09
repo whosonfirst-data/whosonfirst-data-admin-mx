@@ -1,0 +1,78 @@
+{
+  "id": 1327232599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.9199,25.48961,-111.9199,25.48961",
+    "geom:latitude":25.48961,
+    "geom:longitude":-111.9199,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Valle Santo Domingo",
+    "gn:country_code":"MX",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3983549,
+    "gn:latitude":25.48961,
+    "gn:longitude":-111.9199,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Valle Santo Domingo",
+    "gn:population":689,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Valle Santo Domingo"
+    ],
+    "name:und_x_variant":[
+        "Santo Domingo del Pac\u00edfico",
+        "Santo Domingo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3983549
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7dad388e102078c936c906a2eb2bad5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074523,
+            "locality_id":1327232599,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1327232599,
+    "wof:lastmodified":1537667257,
+    "wof:name":"Valle Santo Domingo",
+    "wof:parent_id":102074523,
+    "wof:placetype":"locality",
+    "wof:population":689,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9199,
+    25.48961,
+    -111.9199,
+    25.48961
+],
+  "geometry": {"coordinates":[-111.9199,25.48961],"type":"Point"}
+}

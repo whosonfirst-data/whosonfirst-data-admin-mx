@@ -1,0 +1,91 @@
+{
+  "id": 1126021525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.52591,29.11467,-103.52591,29.11467",
+    "geom:latitude":29.11467,
+    "geom:longitude":-103.52591,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":29.11467,
+    "lbl:longitude":-103.52591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Santa Helena"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3984404,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Santa Elena",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chihuahua",
+    "qs_pg:photos":125,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":125,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1313090,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":146111,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chihuahua",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3984404,
+        "gp:id":146111,
+        "qs_pg:id":1313090
+    },
+    "wof:country":"MX",
+    "wof:created":1497300861,
+    "wof:geomhash":"9818792670a9176fcac10be49eeebb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075301,
+            "locality_id":1126021525,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1126021525,
+    "wof:lastmodified":1509407260,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":102075301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.52591,
+    29.11467,
+    -103.52591,
+    29.11467
+],
+  "geometry": {"coordinates":[-103.52591,29.11467],"type":"Point"}
+}

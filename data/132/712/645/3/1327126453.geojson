@@ -1,0 +1,74 @@
+{
+  "id": 1327126453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.1009,26.80429,-106.1009,26.80429",
+    "geom:latitude":26.80429,
+    "geom:longitude":-106.1009,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Cueva Colerada",
+    "gn:country_code":"MX",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4012281,
+    "gn:latitude":26.80429,
+    "gn:longitude":-106.1009,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Cueva Colerada",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cueva Colerada"
+    ],
+    "name:und_x_variant":[
+        "Rancho Cueva Colorada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4012281
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8d0780f3397c0fd3102189d8eb76a8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075303,
+            "locality_id":1327126453,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1327126453,
+    "wof:lastmodified":1537668049,
+    "wof:name":"Cueva Colerada",
+    "wof:parent_id":102075303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.1009,
+    26.80429,
+    -106.1009,
+    26.80429
+],
+  "geometry": {"coordinates":[-106.1009,26.80429],"type":"Point"}
+}

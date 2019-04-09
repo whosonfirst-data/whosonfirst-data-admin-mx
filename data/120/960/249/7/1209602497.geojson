@@ -1,0 +1,64 @@
+{
+  "id": 1209602497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.75232,20.90395,-101.75232,20.90395",
+    "geom:latitude":20.90395,
+    "geom:longitude":-101.75232,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"San Ignacio",
+    "gn:country_code":"MX",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192958,
+    "gn:latitude":20.90395,
+    "gn:longitude":-101.75232,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"San Ignacio",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ignacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192958
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"833ab4439a32451878ae6fec08b3d6fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209602497
+        }
+    ],
+    "wof:id":1209602497,
+    "wof:lastmodified":1537673246,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.75232,
+    20.90395,
+    -101.75232,
+    20.90395
+],
+  "geometry": {"coordinates":[-101.75232,20.90395],"type":"Point"}
+}

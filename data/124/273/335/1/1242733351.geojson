@@ -1,0 +1,68 @@
+{
+  "id": 1242733351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.29871,23.36303,-101.29871,23.36303",
+    "geom:latitude":23.36303,
+    "geom:longitude":-101.29871,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"MX",
+    "gn:dem":2350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3974265,
+    "gn:latitude":23.36303,
+    "gn:longitude":-101.29871,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686647,
+        102077183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3974265
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"13c09e60a43968d3a6ed7b97c89bb6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077183,
+            "locality_id":1242733351,
+            "region_id":85686647
+        }
+    ],
+    "wof:id":1242733351,
+    "wof:lastmodified":1536838540,
+    "wof:name":"San Miguel",
+    "wof:parent_id":102077183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.29871,
+    23.36303,
+    -101.29871,
+    23.36303
+],
+  "geometry": {"coordinates":[-101.29871,23.36303],"type":"Point"}
+}

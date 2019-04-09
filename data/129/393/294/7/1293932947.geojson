@@ -1,0 +1,77 @@
+{
+  "id": 1293932947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.24879,18.46463,-95.24879,18.46463",
+    "geom:latitude":18.46463,
+    "geom:longitude":-95.24879,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"141.0",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"MX",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3825056,
+    "gn:latitude":18.46463,
+    "gn:longitude":-95.24879,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:spa_x_variant":[
+        "Texalpan"
+    ],
+    "name:und_x_variant":[
+        "Buenos Aires Texalpan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3825056
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8b46e03d8472eb8510b2e9c46b856086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077691,
+            "locality_id":1293932947,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1293932947,
+    "wof:lastmodified":1537666879,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":102077691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.24879,
+    18.46463,
+    -95.24879,
+    18.46463
+],
+  "geometry": {"coordinates":[-95.24879,18.46463],"type":"Point"}
+}

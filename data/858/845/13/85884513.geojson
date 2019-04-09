@@ -1,0 +1,117 @@
+{
+  "id": 85884513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001008,
+    "geom:area_square_m":11757895.745103,
+    "geom:bbox":"-99.0719604492,19.3680302361,-99.0390014649,19.4149209573",
+    "geom:latitude":19.392455,
+    "geom:longitude":-99.056136,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.392578,
+    "lbl:longitude":-99.058983,
+    "mps:latitude":19.392889,
+    "mps:longitude":-99.05645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Sur 12 C Fovissste",
+        "Mexib\u00fas"
+    ],
+    "name:unk_x_variant":[
+        "Sur 12 C Fovissste"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Sur 12 C Fovissste",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Iztacalco",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":22,
+    "qs:photo_sum":71,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599941,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535765,
+        102073737,
+        85686515,
+        101991181,
+        102073759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55904136,
+        "qs:id":1294777
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0095a35619a6965369c4fdb456d33319",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535765,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884513,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535765,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073759,
+            "locality_id":101991181,
+            "neighbourhood_id":85884513,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884513,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957720,
+    "wof:name":"Sur 12 C Fovissste",
+    "wof:parent_id":890535765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.07196044919982,
+    19.36803023609241,
+    -99.03900146485,
+    19.41492095734272
+],
+  "geometry": {"coordinates":[[[-99.05333891854139,19.37334050732528],[-99.06335825455841,19.36803023609241],[-99.06408324033765,19.36828639477956],[-99.06646728514997,19.3733406721752],[-99.06646728514997,19.3785227149753],[-99.06885085882175,19.3835761543381],[-99.06966762112035,19.38386476789515],[-99.07196044919982,19.38629540822514],[-99.07196044919982,19.39406785415049],[-99.07196044919982,19.39924923735032],[-99.07124699162165,19.40076203876681],[-99.06718076431017,19.40291756019288],[-99.06575393134347,19.40594308510171],[-99.06168749649692,19.40809878520324],[-99.059752529989,19.41220191150019],[-99.05273437499994,19.41220191150019],[-99.04760542855229,19.41492095734272],[-99.04687708212549,19.41466353750243],[-99.04205132990205,19.40443045555023],[-99.04174804687483,19.40410890250594],[-99.04174804687483,19.39957035738924],[-99.04144515295803,19.39924923735032],[-99.03900146485,19.39406785415049],[-99.03900146485,19.39179801980796],[-99.04174800798808,19.38888634720006],[-99.04174804689995,19.3888863059487],[-99.04449462889994,19.38597459214255],[-99.04449462889994,19.38370459290037],[-99.04687830050972,19.37865078512473],[-99.04769485549184,19.37836225400555],[-99.05243218098843,19.37334050732528],[-99.05333891854139,19.37334050732528]]],"type":"Polygon"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125869885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.13968,25.94072,-109.13968,25.94072",
+    "geom:latitude":25.94072,
+    "geom:longitude":-109.13968,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":25.94072,
+    "lbl:longitude":-109.13968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "El Guayabo"
+    ],
+    "name:spa_x_preferred":[
+        "El Guayabo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4009659,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Guayabo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sinaloa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":179568,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":120417,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sinaloa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4009659,
+        "gp:id":120417,
+        "qs_pg:id":179568,
+        "wd:id":"Q18784997"
+    },
+    "wof:country":"MX",
+    "wof:created":1497294236,
+    "wof:geomhash":"4cc2cec1e6d939dbd0ee2963f144d804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074339,
+            "locality_id":1125869885,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1125869885,
+    "wof:lastmodified":1514486548,
+    "wof:name":"El Guayabo",
+    "wof:parent_id":102074339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.13968,
+    25.94072,
+    -109.13968,
+    25.94072
+],
+  "geometry": {"coordinates":[-109.13968,25.94072],"type":"Point"}
+}

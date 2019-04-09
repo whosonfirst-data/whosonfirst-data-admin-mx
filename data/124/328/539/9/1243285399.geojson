@@ -1,0 +1,71 @@
+{
+  "id": 1243285399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.21986,26.21801,-107.21986,26.21801",
+    "geom:latitude":26.21801,
+    "geom:longitude":-107.21986,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"San Fernando",
+    "gn:country_code":"MX",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8902570,
+    "gn:latitude":26.21801,
+    "gn:longitude":-107.21986,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Fernando",
+    "gn:population":23,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8902570
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"67fd179a81e4bba07ae79166e7b963eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075263,
+            "locality_id":1243285399,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1243285399,
+    "wof:lastmodified":1537036203,
+    "wof:name":"San Fernando",
+    "wof:parent_id":102075263,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.21986,
+    26.21801,
+    -107.21986,
+    26.21801
+],
+  "geometry": {"coordinates":[-107.21986,26.21801],"type":"Point"}
+}

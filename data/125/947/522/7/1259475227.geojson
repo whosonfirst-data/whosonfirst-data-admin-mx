@@ -1,0 +1,78 @@
+{
+  "id": 1259475227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.4962,28.61063,-108.4962,28.61063",
+    "geom:latitude":28.61063,
+    "geom:longitude":-108.4962,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Las Animas",
+    "gn:country_code":"MX",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4000278,
+    "gn:latitude":28.61063,
+    "gn:longitude":-108.4962,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Las Animas",
+    "gn:population":3,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Animas"
+    ],
+    "name:und_x_variant":[
+        "Animas",
+        "Las \u00c1nimas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4000278
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"34f15a3919b2465a79fe7e94a4fa3a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075257,
+            "locality_id":1259475227,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1259475227,
+    "wof:lastmodified":1537667680,
+    "wof:name":"Las Animas",
+    "wof:parent_id":102075257,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.4962,
+    28.61063,
+    -108.4962,
+    28.61063
+],
+  "geometry": {"coordinates":[-108.4962,28.61063],"type":"Point"}
+}

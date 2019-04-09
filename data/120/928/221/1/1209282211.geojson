@@ -1,0 +1,65 @@
+{
+  "id": 1209282211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.44884,25.37766,-108.44884,25.37766",
+    "geom:latitude":25.37766,
+    "geom:longitude":-108.44884,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"El Choyal",
+    "gn:country_code":"MX",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8914283,
+    "gn:latitude":25.37766,
+    "gn:longitude":-108.44884,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Choyal",
+    "gn:population":13,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8914283
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"58ca2ba15515a728dab8c1c40c7ae312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209282211
+        }
+    ],
+    "wof:id":1209282211,
+    "wof:lastmodified":1536291983,
+    "wof:name":"El Choyal",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.44884,
+    25.37766,
+    -108.44884,
+    25.37766
+],
+  "geometry": {"coordinates":[-108.44884,25.37766],"type":"Point"}
+}

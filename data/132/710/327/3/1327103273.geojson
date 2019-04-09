@@ -1,0 +1,74 @@
+{
+  "id": 1327103273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.96296,20.29632,-99.96296,20.29632",
+    "geom:latitude":20.29632,
+    "geom:longitude":-99.96296,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Santa Barbara de La Cueva",
+    "gn:country_code":"MX",
+    "gn:dem":2183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3525904,
+    "gn:latitude":20.29632,
+    "gn:longitude":-99.96296,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Santa B\u00e1rbara de La Cueva",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa B\u00e1rbara de La Cueva"
+    ],
+    "name:und_x_variant":[
+        "La Cueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686641,
+        102077115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3525904
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4f74f55a5c96ce07ab82b5254fdb71ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077115,
+            "locality_id":1327103273,
+            "region_id":85686641
+        }
+    ],
+    "wof:id":1327103273,
+    "wof:lastmodified":1537666228,
+    "wof:name":"Santa Barbara de La Cueva",
+    "wof:parent_id":102077115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.96296,
+    20.29632,
+    -99.96296,
+    20.29632
+],
+  "geometry": {"coordinates":[-99.96296,20.29632],"type":"Point"}
+}

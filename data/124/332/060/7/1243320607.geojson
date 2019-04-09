@@ -1,0 +1,74 @@
+{
+  "id": 1243320607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.29769,25.35099,-107.29769,25.35099",
+    "geom:latitude":25.35099,
+    "geom:longitude":-107.29769,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Potrero de los Vega",
+    "gn:country_code":"MX",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3992018,
+    "gn:latitude":25.35099,
+    "gn:longitude":-107.29769,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Potrero de los Vega",
+    "gn:population":0,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Potrero de los Vega"
+    ],
+    "name:und_x_variant":[
+        "Potrero de los Vegas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3992018
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3cc00b03b2cd69fdf72bd3ff433a2d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074335,
+            "locality_id":1243320607,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1243320607,
+    "wof:lastmodified":1537667472,
+    "wof:name":"Potrero de los Vega",
+    "wof:parent_id":102074335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.29769,
+    25.35099,
+    -107.29769,
+    25.35099
+],
+  "geometry": {"coordinates":[-107.29769,25.35099],"type":"Point"}
+}

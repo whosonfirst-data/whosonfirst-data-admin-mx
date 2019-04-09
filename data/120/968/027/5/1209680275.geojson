@@ -1,0 +1,65 @@
+{
+  "id": 1209680275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.70361,18.24667,-96.70361,18.24667",
+    "geom:latitude":18.24667,
+    "geom:longitude":-96.70361,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"171",
+    "gn:asciiname":"Cerro Alto",
+    "gn:country_code":"MX",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8900174,
+    "gn:latitude":18.24667,
+    "gn:longitude":-96.70361,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Cerro Alto",
+    "gn:population":27,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8900174
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"75bb5b1f9685ac0337a8e82ec72a89b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209680275
+        }
+    ],
+    "wof:id":1209680275,
+    "wof:lastmodified":1536279602,
+    "wof:name":"Cerro Alto",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.70361,
+    18.24667,
+    -96.70361,
+    18.24667
+],
+  "geometry": {"coordinates":[-96.70361,18.24667],"type":"Point"}
+}

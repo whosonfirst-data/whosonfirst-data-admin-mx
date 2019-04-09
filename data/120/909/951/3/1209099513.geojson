@@ -1,0 +1,66 @@
+{
+  "id": 1209099513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.7654,27.89623,-101.7654,27.89623",
+    "geom:latitude":27.89623,
+    "geom:longitude":-101.7654,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"MX",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4016564,
+    "gn:latitude":27.89623,
+    "gn:longitude":-101.7654,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Buenos Aires",
+        "Buenos Aires"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4016564
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9292781f96be38aa94a66e1495f5a503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209099513
+        }
+    ],
+    "wof:id":1209099513,
+    "wof:lastmodified":1537668133,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.7654,
+    27.89623,
+    -101.7654,
+    27.89623
+],
+  "geometry": {"coordinates":[-101.7654,27.89623],"type":"Point"}
+}

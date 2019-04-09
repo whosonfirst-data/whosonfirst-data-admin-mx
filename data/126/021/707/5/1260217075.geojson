@@ -1,0 +1,74 @@
+{
+  "id": 1260217075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.78806,20.83722,-89.78806,20.83722",
+    "geom:latitude":20.83722,
+    "geom:longitude":-89.78806,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"101",
+    "gn:asciiname":"San Marcos [Citricola]",
+    "gn:country_code":"MX",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8916583,
+    "gn:latitude":20.83722,
+    "gn:longitude":-89.78806,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Marcos [Citr\u00edcola]",
+    "gn:population":12,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Marcos [Citr\u00edcola]"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686701,
+        102079099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8916583
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ac1fe8d17e8c38060f37ba2d447d4f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079099,
+            "locality_id":1260217075,
+            "region_id":85686701
+        }
+    ],
+    "wof:id":1260217075,
+    "wof:lastmodified":1537670679,
+    "wof:name":"San Marcos [Citricola]",
+    "wof:parent_id":102079099,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78806,
+    20.83722,
+    -89.78806,
+    20.83722
+],
+  "geometry": {"coordinates":[-89.78806,20.83722],"type":"Point"}
+}

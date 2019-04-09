@@ -1,0 +1,74 @@
+{
+  "id": 1360263561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.35215,25.75221,-103.35215,25.75221",
+    "geom:latitude":25.75221,
+    "geom:longitude":-103.35215,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Villa Gregorio Garcia",
+    "gn:country_code":"MX",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4005579,
+    "gn:latitude":25.75221,
+    "gn:longitude":-103.35215,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Villa Gregorio Garc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gregorio Garc\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Villa Gregorio Garc\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4005579
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f3d430ac7b151116c78a314eebf3f4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075131,
+            "locality_id":1360263561,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1360263561,
+    "wof:lastmodified":1537667839,
+    "wof:name":"Villa Gregorio Garcia",
+    "wof:parent_id":102075131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.35215,
+    25.75221,
+    -103.35215,
+    25.75221
+],
+  "geometry": {"coordinates":[-103.35214999999999,25.75221],"type":"Point"}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 85793987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000442,
+    "geom:area_square_m":5152301.141005,
+    "geom:bbox":"-99.0936281471,19.4536437302,-99.0643310098,19.4884917853",
+    "geom:latitude":19.470152,
+    "geom:longitude":-99.080237,
+    "gn:latitude":19.46667,
+    "gn:longitude":-99.1,
+    "iso:country":"MX",
+    "lbl:latitude":19.462904,
+    "lbl:longitude":-99.082944,
+    "mps:latitude":19.472165,
+    "mps:longitude":-99.078794,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_colloquial":[
+        "Colonia Gertrudis Sanchez",
+        "Gertrudis Sanchez"
+    ],
+    "name:spa_x_preferred":[
+        "Gertrudis S\u00e1nchez"
+    ],
+    "name:spa_x_variant":[
+        "Colonia Gertrudis S\u00e1nchez"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Gertrudis S\u00e1nchez",
+        "Gertrudis S\u00e1nchez"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Gertrudis S\u00e1nchez",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Gertrudis S\u00e1nchez",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Gustavo A. Madero",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":42,
+    "qs:photo_sum":106,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599940,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991167,
+        890535763,
+        102073745,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3527447,
+        "gp:id":124003,
+        "qs:id":232468,
+        "qs_pg:id":232468
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"18df83cbf56938078922daf7ce0645bf",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073745,
+            "locality_id":101991167,
+            "neighbourhood_id":85793987,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85793987,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85793987,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957708,
+    "wof:name":"Gertrudis S\u00e1nchez",
+    "wof:parent_id":890535763,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.09362814712478,
+    19.45364373020035,
+    -99.06433100982409,
+    19.48849178533159
+],
+  "geometry": {"coordinates":[[[-99.085693359375,19.45364373020035],[-99.08874458779638,19.45364373020035],[-99.09118652342076,19.45623355465054],[-99.09118652341445,19.45623359600003],[-99.09118652341445,19.46141295545051],[-99.09118656240966,19.46141299680215],[-99.09362814712478,19.46400253177536],[-99.09118652339998,19.4665921908517],[-99.09118652339998,19.46659223220004],[-99.09118648441526,19.46659223220013],[-99.08874505574073,19.46918168440017],[-99.085693359375,19.46918168440017],[-99.08569335938503,19.47177130210001],[-99.08569335938529,19.47695016510022],[-99.08569335940004,19.47695020650009],[-99.08569332034631,19.47695020650222],[-99.08294677732493,19.47986345830539],[-99.08294677732493,19.4832614326909],[-99.07308515157337,19.48849178533159],[-99.07308542478131,19.48848901140623],[-99.07196044919982,19.48788769943037],[-99.07196044919982,19.47695016510022],[-99.07196044919982,19.47468446077821],[-99.06921390618325,19.47177130210009],[-99.06921386720003,19.47177130210001],[-99.06921386719995,19.47177126075192],[-99.06433100982409,19.46659219082541],[-99.06921386720003,19.46659219082541],[-99.07470703121862,19.46659219082541],[-99.07689096867563,19.4642758415102],[-99.07680507428864,19.46363813152796],[-99.07890309511549,19.46141299680011],[-99.08020019529991,19.46003730851859],[-99.08092494916787,19.45926864360349],[-99.08149729936807,19.45623355465054],[-99.08329069186863,19.45433154743748],[-99.08471213530498,19.45416404643694],[-99.085693359375,19.45364373020035]]],"type":"Polygon"}
+}

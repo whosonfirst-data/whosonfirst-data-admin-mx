@@ -1,0 +1,74 @@
+{
+  "id": 1327120829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.3124,17.16597,-100.3124,17.16597",
+    "geom:latitude":17.16597,
+    "geom:longitude":-100.3124,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"El Guanabano",
+    "gn:country_code":"MX",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4027716,
+    "gn:latitude":17.16597,
+    "gn:longitude":-100.3124,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"El Guan\u00e1bano",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Guan\u00e1bano"
+    ],
+    "name:und_x_variant":[
+        "El Guanabaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686517,
+        102073901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4027716
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9c96b5b57f406608bdca0c2afaa4e6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073901,
+            "locality_id":1327120829,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":1327120829,
+    "wof:lastmodified":1537668400,
+    "wof:name":"El Guanabano",
+    "wof:parent_id":102073901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.3124,
+    17.16597,
+    -100.3124,
+    17.16597
+],
+  "geometry": {"coordinates":[-100.3124,17.16597],"type":"Point"}
+}

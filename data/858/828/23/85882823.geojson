@@ -1,0 +1,115 @@
+{
+  "id": 85882823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.131422,27.857619,-101.131422,27.857619",
+    "geom:latitude":27.857619,
+    "geom:longitude":-101.131422,
+    "gn:population":49199,
+    "iso:country":"MX",
+    "lbl:latitude":27.857619,
+    "lbl:longitude":-101.131422,
+    "mps:latitude":27.857619,
+    "mps:longitude":-101.131422,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":0.0,
+    "mz:min_zoom":0.0,
+    "mz:tier_locality":1,
+    "name:spa_x_preferred":[
+        "Coahuila"
+    ],
+    "name:spa_x_variant":[
+        "Ciudad Sabinas"
+    ],
+    "name:unk_x_variant":[
+        "Sabinas",
+        "Coahuila"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Ciudad Sabinas",
+    "qs:local_max":3,
+    "qs:local_sum":5,
+    "qs:localhoods":2,
+    "qs:name":"Coahuila",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Coahuila de Zaragoza",
+    "qs:name_adm2":"Sabinas",
+    "qs:name_local":"Sabinas",
+    "qs:photo_max":1,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346270,
+    "qs:woe_adm2":12599913,
+    "qs:woe_lau":0,
+    "qs:woe_local":141039,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85686689,
+        102191575,
+        85633293,
+        102000877,
+        102078815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3988333,
+        "gp:id":55887034,
+        "qs:id":1206909,
+        "qs_pg:id":1206909,
+        "wd:id":"Q20275847"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"35fe114e34b716e0ca243395af2e6f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078815,
+            "locality_id":102000877,
+            "neighbourhood_id":85882823,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":85882823,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957710,
+    "wof:name":"Coahuila",
+    "wof:parent_id":102000877,
+    "wof:placetype":"neighbourhood",
+    "wof:population":49199,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.131422,
+    27.857619,
+    -101.131422,
+    27.857619
+],
+  "geometry": {"coordinates":[-101.131422,27.857619],"type":"Point"}
+}

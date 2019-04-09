@@ -1,0 +1,76 @@
+{
+  "id": 1343912311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.86806,26.75667,-108.86806,26.75667",
+    "geom:latitude":26.75667,
+    "geom:longitude":-108.86806,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Los Capomos",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3998011,
+    "gn:latitude":26.75667,
+    "gn:longitude":-108.86806,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Los Capomos",
+    "gn:population":6,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capomos",
+        "Los Capomos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3998011
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"bcab67923f3c22d93d3d1da9cd4c5990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074447,
+            "locality_id":1343912311,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1343912311,
+    "wof:lastmodified":1537667609,
+    "wof:name":"Los Capomos",
+    "wof:parent_id":102074447,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.86806,
+    26.75667,
+    -108.86806,
+    26.75667
+],
+  "geometry": {"coordinates":[-108.86806,26.75667],"type":"Point"}
+}

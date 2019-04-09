@@ -1,0 +1,93 @@
+{
+  "id": 1125874853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.88961,27.36914,-109.88961,27.36914",
+    "geom:latitude":27.36914,
+    "geom:longitude":-109.88961,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9065,
+    "gn:population":9065,
+    "iso:country":"MX",
+    "lbl:latitude":27.36914,
+    "lbl:longitude":-109.88961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Tobarito"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4007210,
+    "qs_pg:gn_pop":9065,
+    "qs_pg:name":"El Tobarito",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sonora",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":151398,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":122769,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sonora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4007210,
+        "gp:id":122769,
+        "qs_pg:id":151398
+    },
+    "wof:country":"MX",
+    "wof:created":1497294486,
+    "wof:geomhash":"c30f876b623d1c91cadb5e95039241bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074417,
+            "locality_id":1125874853,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1125874853,
+    "wof:lastmodified":1509397642,
+    "wof:name":"El Tobarito",
+    "wof:parent_id":102074417,
+    "wof:placetype":"locality",
+    "wof:population":9065,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.88961,
+    27.36914,
+    -109.88961,
+    27.36914
+],
+  "geometry": {"coordinates":[-109.88961,27.36914],"type":"Point"}
+}

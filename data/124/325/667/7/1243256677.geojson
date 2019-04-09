@@ -1,0 +1,74 @@
+{
+  "id": 1243256677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.54443,16.13047,-91.54443,16.13047",
+    "geom:latitude":16.13047,
+    "geom:longitude":-91.54443,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"99.0",
+    "gn:asciiname":"San Jose Loma Linda",
+    "gn:country_code":"MX",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8940011,
+    "gn:latitude":16.13047,
+    "gn:longitude":-91.54443,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"San Jos\u00e9 Loma Linda",
+    "gn:population":5,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 Loma Linda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8940011
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9705c39baa05253711c78b36721a0470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075499,
+            "locality_id":1243256677,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1243256677,
+    "wof:lastmodified":1537671251,
+    "wof:name":"San Jose Loma Linda",
+    "wof:parent_id":102075499,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.54443,
+    16.13047000000001,
+    -91.54443,
+    16.13047000000001
+],
+  "geometry": {"coordinates":[-91.54443000000001,16.13047000000001],"type":"Point"}
+}

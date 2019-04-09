@@ -1,0 +1,88 @@
+{
+  "id": 85885003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.874472,19.654902,-96.874472,19.654902",
+    "geom:latitude":19.654902,
+    "geom:longitude":-96.874472,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.654902,
+    "lbl:longitude":-96.874472,
+    "mps:latitude":19.654322,
+    "mps:longitude":-96.874414,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:spa_x_preferred":[
+        "Naolinco de Victoria Centro"
+    ],
+    "name:spa_x_variant":[
+        "La Victoria"
+    ],
+    "name:unk_x_variant":[
+        "Victoria"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85686671,
+        102191575,
+        85633293,
+        101998533,
+        102077625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3514727,
+        "gp:id":55898957,
+        "qs:id":138196,
+        "qs_pg:id":905300
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9687dec10d15474b6f1ee8c8805c6c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077625,
+            "locality_id":101998533,
+            "neighbourhood_id":85885003,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":85885003,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957724,
+    "wof:name":"Naolinco de Victoria Centro",
+    "wof:parent_id":101998533,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.874472,
+    19.654902,
+    -96.874472,
+    19.654902
+],
+  "geometry": {"coordinates":[-96.874472,19.654902],"type":"Point"}
+}

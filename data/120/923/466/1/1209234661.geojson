@@ -1,0 +1,65 @@
+{
+  "id": 1209234661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.60986,25.39447,-100.60986,25.39447",
+    "geom:latitude":25.39447,
+    "geom:longitude":-100.60986,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Valle Florido",
+    "gn:country_code":"MX",
+    "gn:dem":2249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8783205,
+    "gn:latitude":25.39447,
+    "gn:longitude":-100.60986,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Valle Florido",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Valle Florido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8783205
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"420dca38a81e1b5d075fc7c154eb152f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209234661
+        }
+    ],
+    "wof:id":1209234661,
+    "wof:lastmodified":1537669214,
+    "wof:name":"Valle Florido",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.60986,
+    25.39447,
+    -100.60986,
+    25.39447
+],
+  "geometry": {"coordinates":[-100.60986,25.39447],"type":"Point"}
+}

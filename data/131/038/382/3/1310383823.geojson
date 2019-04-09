@@ -1,0 +1,74 @@
+{
+  "id": 1310383823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.45562,25.70639,-103.45562,25.70639",
+    "geom:latitude":25.70639,
+    "geom:longitude":-103.45562,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Patzcuaro",
+    "gn:country_code":"MX",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8922364,
+    "gn:latitude":25.70639,
+    "gn:longitude":-103.45562,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"P\u00e1tzcuaro",
+    "gn:population":9,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e1tzcuaro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8922364
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e02283c0d0ee22f2eec5c020783d8c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075131,
+            "locality_id":1310383823,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1310383823,
+    "wof:lastmodified":1537670818,
+    "wof:name":"Patzcuaro",
+    "wof:parent_id":102075131,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.45562,
+    25.70639,
+    -103.45562,
+    25.70639
+],
+  "geometry": {"coordinates":[-103.45562,25.70639],"type":"Point"}
+}

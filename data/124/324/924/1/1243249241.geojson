@@ -1,0 +1,74 @@
+{
+  "id": 1243249241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.07808,25.15226,-101.07808,25.15226",
+    "geom:latitude":25.15226,
+    "geom:longitude":-101.07808,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Martin Sanchez Esquivel",
+    "gn:country_code":"MX",
+    "gn:dem":2090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8939175,
+    "gn:latitude":25.15226,
+    "gn:longitude":-101.07808,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Mart\u00edn S\u00e1nchez Esquivel",
+    "gn:population":5,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mart\u00edn S\u00e1nchez Esquivel"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8939175
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4b7506c66cb1aee338e698491c2d2a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078811,
+            "locality_id":1243249241,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1243249241,
+    "wof:lastmodified":1537671231,
+    "wof:name":"Martin Sanchez Esquivel",
+    "wof:parent_id":102078811,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.07808,
+    25.15226,
+    -101.07808,
+    25.15226
+],
+  "geometry": {"coordinates":[-101.07808,25.15226],"type":"Point"}
+}

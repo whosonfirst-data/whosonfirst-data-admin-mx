@@ -1,0 +1,65 @@
+{
+  "id": 1209292915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.81143,24.92473,-103.81143,24.92473",
+    "geom:latitude":24.92473,
+    "geom:longitude":-103.81143,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"4",
+    "gn:asciiname":"El Poblano",
+    "gn:country_code":"MX",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8911908,
+    "gn:latitude":24.92473,
+    "gn:longitude":-103.81143,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Poblano",
+    "gn:population":14,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8911908
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"314b1218124c996785bd7c24d37c62e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209292915
+        }
+    ],
+    "wof:id":1209292915,
+    "wof:lastmodified":1536291631,
+    "wof:name":"El Poblano",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.81143,
+    24.92473,
+    -103.81143,
+    24.92473
+],
+  "geometry": {"coordinates":[-103.81143,24.92473],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310101267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.79453,29.0101,-100.79453,29.0101",
+    "geom:latitude":29.0101,
+    "geom:longitude":-100.79453,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Emiliano Zapata",
+    "gn:country_code":"MX",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4011607,
+    "gn:latitude":29.0101,
+    "gn:longitude":-100.79453,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Emiliano Zapata",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Emiliano Zapata"
+    ],
+    "name:und_x_variant":[
+        "Ejido Emiliano Zapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4011607
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f2e3eb994c88dff63a4eb2ffd4ee5e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078843,
+            "locality_id":1310101267,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1310101267,
+    "wof:lastmodified":1537668036,
+    "wof:name":"Emiliano Zapata",
+    "wof:parent_id":102078843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.79453,
+    29.0101,
+    -100.79453,
+    29.0101
+],
+  "geometry": {"coordinates":[-100.79452999999999,29.0101],"type":"Point"}
+}

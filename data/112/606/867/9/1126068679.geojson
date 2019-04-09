@@ -1,0 +1,95 @@
+{
+  "id": 1126068679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.91156,20.63593,-100.91156,20.63593",
+    "geom:latitude":20.63593,
+    "geom:longitude":-100.91156,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.63593,
+    "lbl:longitude":-100.91156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Juan de la Cruz"
+    ],
+    "name:spa_x_variant":[
+        "San Jos\u00e9 de la Cruz"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4024209,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Jose de la Luz",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Guanajuato",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1182738,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55901653,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Guanajuato",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102077337,
+        85686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4024209,
+        "gp:id":55901653,
+        "qs_pg:id":1182738
+    },
+    "wof:country":"MX",
+    "wof:created":1497309403,
+    "wof:geomhash":"c35fa8731fde40e654aad2701811e0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077337,
+            "locality_id":-1,
+            "neighbourhood_id":1126068679,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1126068679,
+    "wof:lastmodified":1509410558,
+    "wof:name":"San Jose de la Luz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.91156,
+    20.63593,
+    -100.91156,
+    20.63593
+],
+  "geometry": {"coordinates":[-100.91155999999999,20.63593],"type":"Point"}
+}

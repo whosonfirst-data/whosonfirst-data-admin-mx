@@ -1,0 +1,65 @@
+{
+  "id": 1209365647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.90028,23.11333,-97.90028,23.11333",
+    "geom:latitude":23.11333,
+    "geom:longitude":-97.90028,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2",
+    "gn:asciiname":"Las Lajas",
+    "gn:country_code":"MX",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8911312,
+    "gn:latitude":23.11333,
+    "gn:longitude":-97.90028,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Las Lajas",
+    "gn:population":15,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8911312
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"92b845c72ffa8536f7262e9481f15e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209365647
+        }
+    ],
+    "wof:id":1209365647,
+    "wof:lastmodified":1536289282,
+    "wof:name":"Las Lajas",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.90028,
+    23.11333,
+    -97.90028,
+    23.11333
+],
+  "geometry": {"coordinates":[-97.90028,23.11333],"type":"Point"}
+}

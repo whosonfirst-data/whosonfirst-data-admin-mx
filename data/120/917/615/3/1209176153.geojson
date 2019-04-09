@@ -1,0 +1,65 @@
+{
+  "id": 1209176153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.31444,24.87472,-99.31444,24.87472",
+    "geom:latitude":24.87472,
+    "geom:longitude":-99.31444,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"La Papa",
+    "gn:country_code":"MX",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8890745,
+    "gn:latitude":24.87472,
+    "gn:longitude":-99.31444,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Papa",
+    "gn:population":50,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8890745
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f20504c6095c3ea8bc274bee09f5bfe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209176153
+        }
+    ],
+    "wof:id":1209176153,
+    "wof:lastmodified":1536295416,
+    "wof:name":"La Papa",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.31444,
+    24.87472,
+    -99.31444,
+    24.87472
+],
+  "geometry": {"coordinates":[-99.31444,24.87472],"type":"Point"}
+}

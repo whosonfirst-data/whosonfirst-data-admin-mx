@@ -1,0 +1,125 @@
+{
+  "id": 85883835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000446,
+    "geom:area_square_m":5207403.898906,
+    "geom:bbox":"-99.2559814453,19.3255170359,-99.231262207,19.3529303984",
+    "geom:latitude":19.33941,
+    "geom:longitude":-99.243901,
+    "gn:population":635,
+    "iso:country":"MX",
+    "lbl:latitude":19.337867,
+    "lbl:longitude":-99.241301,
+    "mps:latitude":19.339604,
+    "mps:longitude":-99.244135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Lomas de Guadalupe"
+    ],
+    "name:unk_x_variant":[
+        "Lomas de Guadalupe"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Palmar de Guadalupe",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Lomas de Guadalupe",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":16,
+    "qs:photo_sum":29,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817488,
+        "gp:id":55898471,
+        "qs:id":1104391,
+        "qs_pg:id":1104391,
+        "wd:id":"Q20291748"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c489c5f33dc6ed2c42da1383c53bd54a",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883835,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85883835,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883835,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1507751684,
+    "wof:name":"Lomas de Guadalupe",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:population":635,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.25598144529994,
+    19.32551703587497,
+    -99.23126220702497,
+    19.35293039838963
+],
+  "geometry": {"coordinates":[[[-99.25048828125,19.35293039838963],[-99.24499511717482,19.35001937882529],[-99.23950195312497,19.35001937882529],[-99.2361588265137,19.34824773923107],[-99.23402611021965,19.34417907421843],[-99.23400878904999,19.34411176247319],[-99.23400878904999,19.34256415131325],[-99.23370760496636,19.3422449556502],[-99.23126220702497,19.33706175995009],[-99.23126220702497,19.33478909578265],[-99.23400875029253,19.33187844080003],[-99.23400878909999,19.33187839967371],[-99.23890005069467,19.32669487495005],[-99.2411229437094,19.32551703587497],[-99.24112263303533,19.32552019020173],[-99.24231107343013,19.32615542482689],[-99.24382643891187,19.32739905313817],[-99.24507006722285,19.32891441861979],[-99.24559888252116,19.32990376245722],[-99.24563009938163,19.32989429292628],[-99.2457907959797,19.32984554614616],[-99.24774169919993,19.32965339895006],[-99.24969260242005,19.32984554614616],[-99.24985329906548,19.32989429294049],[-99.25048828122493,19.33124018300727],[-99.25598144529994,19.33706175995009],[-99.25598144529994,19.33706180110002],[-99.25598144529994,19.34224499680003],[-99.25598144529994,19.34483643005042],[-99.25394948255413,19.34591320391019],[-99.25078977596166,19.35261085322517],[-99.25048828125,19.35293039838963]]],"type":"Polygon"}
+}

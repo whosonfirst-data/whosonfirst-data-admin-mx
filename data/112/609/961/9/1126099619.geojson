@@ -1,0 +1,96 @@
+{
+  "id": 1126099619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.32399,19.98562,-99.32399,19.98562",
+    "geom:latitude":19.98562,
+    "geom:longitude":-99.32399,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.98562,
+    "lbl:longitude":-99.32399,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Pueblo Nuevo Jasso"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo Nuevo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3814480,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pueblo Nuevo Alto",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1101019,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898835,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102000149,
+        102078625,
+        85686665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814480,
+        "gp:id":55898835,
+        "qs_pg:id":1101019
+    },
+    "wof:country":"MX",
+    "wof:created":1497315814,
+    "wof:geomhash":"2dcca1c06fea175f3f957271f6d4cdbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078625,
+            "locality_id":102000149,
+            "neighbourhood_id":1126099619,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1126099619,
+    "wof:lastmodified":1509412052,
+    "wof:name":"Pueblo Nuevo Alto",
+    "wof:parent_id":102000149,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.32399,
+    19.98562,
+    -99.32399,
+    19.98562
+],
+  "geometry": {"coordinates":[-99.32398999999999,19.98562],"type":"Point"}
+}

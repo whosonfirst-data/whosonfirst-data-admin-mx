@@ -1,0 +1,89 @@
+{
+  "id": 1126072613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.96282,18.81074,-96.96282,18.81074",
+    "geom:latitude":18.81074,
+    "geom:longitude":-96.96282,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":18.81074,
+    "lbl:longitude":-96.96282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "El Naranjal"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3522829,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Naranjal",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":368280,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55911474,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101998535,
+        102077627,
+        85686671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3522829,
+        "gp:id":55911474,
+        "qs_pg:id":368280
+    },
+    "wof:country":"MX",
+    "wof:created":1497310232,
+    "wof:geomhash":"22de8df3920865c7f28a485e106f17d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077627,
+            "locality_id":101998535,
+            "neighbourhood_id":1126072613,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126072613,
+    "wof:lastmodified":1509410754,
+    "wof:name":"Naranjal",
+    "wof:parent_id":101998535,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.96282,
+    18.81074,
+    -96.96282,
+    18.81074
+],
+  "geometry": {"coordinates":[-96.96281999999999,18.81074],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 85883707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1587670.261632,
+    "geom:bbox":"-99.1268920898,19.4772131063,-99.111862255,19.4924859262",
+    "geom:latitude":19.485,
+    "geom:longitude":-99.11904,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.485067,
+    "lbl:longitude":-99.117602,
+    "mps:latitude":19.485584,
+    "mps:longitude":-99.119183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Tepeyac Insurgentes"
+    ],
+    "name:unk_x_variant":[
+        "Tepeyac Insurgentes"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Tepeyac Insurgentes",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Gustavo A. Madero",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":948,
+    "qs:photo_sum":3939,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599940,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991167,
+        890535763,
+        102073745,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55897903,
+        "qs:id":244001
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f85ba40ff62b39d6feb1422843d93319",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073745,
+            "locality_id":101991167,
+            "neighbourhood_id":85883707,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883707,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883707,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"Tepeyac Insurgentes",
+    "wof:parent_id":890535763,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.12689208982482,
+    19.47721310625192,
+    -99.11186225504497,
+    19.49248592620003
+],
+  "geometry": {"coordinates":[[[-99.11865234380005,19.49248592620003],[-99.11865234380005,19.48989673715332],[-99.11590576171375,19.48989673735022],[-99.11590576170772,19.48833927725981],[-99.11521911619997,19.4879022527094],[-99.1140962213982,19.48766402566659],[-99.11441166226194,19.48666020535012],[-99.11420825071781,19.48601289080017],[-99.11404614096631,19.48549701053747],[-99.11347408869614,19.48489020209514],[-99.11315917969992,19.48482339419148],[-99.11267683795711,19.48472106545178],[-99.1118622842933,19.48212893495015],[-99.11186225504497,19.48212890392537],[-99.11315917969992,19.47800193600801],[-99.11340707422679,19.47721310625192],[-99.11590576172495,19.4777431775196],[-99.11678326269788,19.47755702457489],[-99.1186523437853,19.47953959056264],[-99.12139892579984,19.47953959013142],[-99.12139892579984,19.48212893883141],[-99.12414550779999,19.48212893883141],[-99.12414550779999,19.484718246147],[-99.12689208981382,19.48471824686402],[-99.12689208981433,19.48730751860006],[-99.12689208982482,19.48771201209946],[-99.12414550780773,19.48868317968973],[-99.12414550781554,19.49248588477539],[-99.12414550779999,19.49248592620003],[-99.11994915128153,19.49248592620003],[-99.11865234380005,19.49248592620003]]],"type":"Polygon"}
+}

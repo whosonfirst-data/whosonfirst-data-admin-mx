@@ -1,0 +1,75 @@
+{
+  "id": 1310581645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.44028,20.38528,-100.44028,20.38528",
+    "geom:latitude":20.38528,
+    "geom:longitude":-100.44028,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"San Isidro",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986651,
+    "gn:latitude":20.38528,
+    "gn:longitude":-100.44028,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Isidro",
+    "gn:population":5,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Isidro de la Corregidora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986651
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"cb2fe244d91dfc3d9df61549411d19c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077297,
+            "locality_id":1310581645,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1310581645,
+    "wof:lastmodified":1537667336,
+    "wof:name":"San Isidro",
+    "wof:parent_id":102077297,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.44028,
+    20.38528,
+    -100.44028,
+    20.38528
+],
+  "geometry": {"coordinates":[-100.44028,20.38528],"type":"Point"}
+}

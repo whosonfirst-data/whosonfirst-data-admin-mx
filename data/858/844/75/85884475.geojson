@@ -1,0 +1,123 @@
+{
+  "id": 85884475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":1159698.09493,
+    "geom:bbox":"-99.1735839844,19.4246378452,-99.1625976562,19.4381043857",
+    "geom:latitude":19.43182,
+    "geom:longitude":-99.16863,
+    "gn:population":521348,
+    "iso:country":"MX",
+    "lbl:latitude":19.431629,
+    "lbl:longitude":-99.169284,
+    "mps:latitude":19.431629,
+    "mps:longitude":-99.169284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":0.0,
+    "mz:min_zoom":0.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Cuauhtemoc"
+    ],
+    "name:unk_x_variant":[
+        "Cuauht\u00e9moc",
+        "Cuauhtemoc"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Cuauht\u00e9moc",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Cuauhtemoc",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuauhtemoc",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":4195,
+    "qs:photo_sum":6405,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599939,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535757,
+        102073737,
+        85686515,
+        101991151,
+        102073739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827409,
+        "gp:id":55903984,
+        "qs:id":375837,
+        "qs_pg:id":375837,
+        "wd:id":"Q20236988"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d0b4ac90944bfb3a883917dc801ee291",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884475,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073739,
+            "locality_id":101991151,
+            "neighbourhood_id":85884475,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884475,
+    "wof:lastmodified":1505342843,
+    "wof:name":"Cuauhtemoc",
+    "wof:parent_id":890535757,
+    "wof:placetype":"neighbourhood",
+    "wof:population":521348,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.17358398440001,
+    19.42463784524315,
+    -99.16259765619992,
+    19.43810438572527
+],
+  "geometry": {"coordinates":[[[-99.17083740231246,19.43810438572527],[-99.16809082029997,19.43810438400033],[-99.16534423828605,19.43810438515025],[-99.16534423828429,19.4355143326472],[-99.16259765621388,19.43551433336414],[-99.1625976562145,19.43361206804714],[-99.16259765619992,19.4329242460001],[-99.16324629644421,19.43292424298882],[-99.16534423828429,19.43292423954721],[-99.1653442382927,19.43136584899257],[-99.16534423830001,19.43033411160006],[-99.16534423839335,19.42774393549962],[-99.16510098945449,19.42748600002673],[-99.16522346722411,19.42709638492512],[-99.16501990542992,19.42644883002511],[-99.16534423830001,19.42610491866287],[-99.16534423830001,19.42515371748354],[-99.16583074438927,19.42463784524315],[-99.16671752929994,19.42495128080812],[-99.16760431421051,19.42463784524315],[-99.16809082029997,19.42515371798901],[-99.16913977580685,19.42515371818769],[-99.1694641112999,19.42515371900002],[-99.1694641112999,19.42580127663305],[-99.17015075679984,19.42580127669389],[-99.17015075679984,19.42644883260003],[-99.17083740229992,19.42644883260003],[-99.17083740231556,19.42679274407746],[-99.17083740231655,19.42774393590001],[-99.17358398440001,19.42774393590001],[-99.17358398438952,19.42843175667342],[-99.17358398438606,19.43033410586403],[-99.1735839843833,19.43292423911697],[-99.17358398438429,19.4355143326472],[-99.17083740231556,19.4355143326472],[-99.17083740231246,19.43810438572527]]],"type":"Polygon"}
+}

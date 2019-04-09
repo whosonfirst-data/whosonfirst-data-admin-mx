@@ -1,0 +1,119 @@
+{
+  "id": 101994439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":1156961.425069,
+    "geom:bbox":"-92.0847249633,15.0535937579,-92.0757702078,15.0682002759",
+    "geom:latitude":15.060289,
+    "geom:longitude":-92.080388,
+    "iso:country":"MX",
+    "lbl:latitude":15.060014,
+    "lbl:longitude":-92.080388,
+    "mps:latitude":15.060014,
+    "mps:longitude":-92.080388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:dut_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:eng_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:epo_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:fre_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:ger_x_preferred":[
+        "Municipio Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:por_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u044c\u043e\u043d-\u0425\u0443\u0430\u0440\u0435\u0441"
+    ],
+    "name:spa_x_colloquial":[
+        "Union Juarez"
+    ],
+    "name:spa_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:swe_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "name:vie_x_preferred":[
+        "Uni\u00f3n Ju\u00e1rez"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Chiapas",
+    "qs:a1_lc":"07",
+    "qs:a1r":"*",
+    "qs:a2":"Uni\u00f3n Ju\u00e1rez",
+    "qs:a2_lc":"07105",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Uni\u00f3n Ju\u00e1rez",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01b99b5c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3514915,
+        "gp:id":150381,
+        "qs:id":39789,
+        "qs_pg:id":39789,
+        "wd:id":"Q1953252"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e90483073c23cc034516a0e5f47811a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075659,
+            "locality_id":101994439,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":101994439,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815675,
+    "wof:name":"Uni\u00f3n Ju\u00e1rez",
+    "wof:parent_id":102075659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.08472496332965,
+    15.05359375790679,
+    -92.07577020781842,
+    15.06820027591923
+],
+  "geometry": {"coordinates":[[[-92.08232996716855,15.06676948705377],[-92.08178989206269,15.06680610407722],[-92.08164787343395,15.06681573179464],[-92.08163614416776,15.06681605531561],[-92.0817593943169,15.06703360254594],[-92.08185181833431,15.06727719759136],[-92.08187727786056,15.06761051790834],[-92.08191561000456,15.06793730156247],[-92.07952475534231,15.06811638269688],[-92.07828270633023,15.06820027591923],[-92.07778765595276,15.06594368090829],[-92.07727640957005,15.06419096974613],[-92.07607186477978,15.05910481166566],[-92.07577020781842,15.05559473812588],[-92.07670050571807,15.05529975387333],[-92.07732415206127,15.05509118516738],[-92.07908198357241,15.05449722220744],[-92.08026216520553,15.05406781420776],[-92.08159458389187,15.05359375790679],[-92.08230886898619,15.05376528052867],[-92.08358937625879,15.05406237503467],[-92.08472496332965,15.05433483136294],[-92.0846574802539,15.05607105750308],[-92.08450925858271,15.05982844430959],[-92.08429528701089,15.06079136462227],[-92.08373738010992,15.06277549313108],[-92.0835561431801,15.06332427308264],[-92.0830598401259,15.06498114980418],[-92.08232996716855,15.06676948705377]]],"type":"Polygon"}
+}

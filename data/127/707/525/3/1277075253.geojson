@@ -1,0 +1,75 @@
+{
+  "id": 1277075253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.77873,24.83607,-110.77873,24.83607",
+    "geom:latitude":24.83607,
+    "geom:longitude":-110.77873,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"El Primer Bosque",
+    "gn:country_code":"MX",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4010924,
+    "gn:latitude":24.83607,
+    "gn:longitude":-110.77873,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"El Primer Bosque",
+    "gn:population":11,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosque",
+        "El Bosque"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4010924
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"133574d774ddefb59476b9ce59956411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074519,
+            "locality_id":1277075253,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1277075253,
+    "wof:lastmodified":1537668011,
+    "wof:name":"El Primer Bosque",
+    "wof:parent_id":102074519,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.77873,
+    24.83607,
+    -110.77873,
+    24.83607
+],
+  "geometry": {"coordinates":[-110.77873,24.83607],"type":"Point"}
+}

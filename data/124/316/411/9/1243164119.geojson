@@ -1,0 +1,74 @@
+{
+  "id": 1243164119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.76667,28.33333,-106.76667,28.33333",
+    "geom:latitude":28.33333,
+    "geom:longitude":-106.76667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"El Derramadero de Abajo",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4010041,
+    "gn:latitude":28.33333,
+    "gn:longitude":-106.76667,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"El Derramadero de Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Derramadero de Abajo",
+        "Derramadero",
+        "El Derramadero de Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4010041
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2177dae015b2150a6bf659d925829af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075321,
+            "locality_id":1243164119,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1243164119,
+    "wof:lastmodified":1537667980,
+    "wof:name":"El Derramadero de Abajo",
+    "wof:parent_id":102075321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.76667,
+    28.33333,
+    -106.76667,
+    28.33333
+],
+  "geometry": {"coordinates":[-106.76667,28.33333],"type":"Point"}
+}

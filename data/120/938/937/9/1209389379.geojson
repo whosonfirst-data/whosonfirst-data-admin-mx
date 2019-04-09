@@ -1,0 +1,65 @@
+{
+  "id": 1209389379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.21835,25.47228,-100.21835,25.47228",
+    "geom:latitude":25.47228,
+    "geom:longitude":-100.21835,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"49",
+    "gn:asciiname":"Las Nubes",
+    "gn:country_code":"MX",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8920611,
+    "gn:latitude":25.47228,
+    "gn:longitude":-100.21835,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Las Nubes",
+    "gn:population":10,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8920611
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"24ccdd02e7625fdd548d69a609338eae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209389379
+        }
+    ],
+    "wof:id":1209389379,
+    "wof:lastmodified":1536288513,
+    "wof:name":"Las Nubes",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.21835,
+    25.47228,
+    -100.21835,
+    25.47228
+],
+  "geometry": {"coordinates":[-100.21835,25.47228],"type":"Point"}
+}

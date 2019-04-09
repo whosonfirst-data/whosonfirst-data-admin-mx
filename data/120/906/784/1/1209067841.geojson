@@ -1,0 +1,65 @@
+{
+  "id": 1209067841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.77972,18.31694,-96.77972,18.31694",
+    "geom:latitude":18.31694,
+    "geom:longitude":-96.77972,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"406.0",
+    "gn:asciiname":"La Paz",
+    "gn:country_code":"MX",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8880647,
+    "gn:latitude":18.31694,
+    "gn:longitude":-96.77972,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Paz",
+    "gn:population":103,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8880647
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c07b3684a7dabe4211c71a24d47076b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209067841
+        }
+    ],
+    "wof:id":1209067841,
+    "wof:lastmodified":1536298745,
+    "wof:name":"La Paz",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.77972,
+    18.31694,
+    -96.77972,
+    18.31694
+],
+  "geometry": {"coordinates":[-96.77972,18.31694],"type":"Point"}
+}

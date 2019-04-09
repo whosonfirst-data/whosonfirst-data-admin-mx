@@ -1,0 +1,77 @@
+{
+  "id": 1327455651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.36624,26.88858,-104.36624,26.88858",
+    "geom:latitude":26.88858,
+    "geom:longitude":-104.36624,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Division del Norte (Los Remedios)",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3997227,
+    "gn:latitude":26.88858,
+    "gn:longitude":-104.36624,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Divisi\u00f3n del Norte (Los Remedios)",
+    "gn:population":13,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Los Remedios",
+        "Remedios",
+        "Los Remedios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997227
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b606b3d41f8973868a672e2e9dba7166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075293,
+            "locality_id":1327455651,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1327455651,
+    "wof:lastmodified":1537667580,
+    "wof:name":"Division del Norte (Los Remedios)",
+    "wof:parent_id":102075293,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.36624,
+    26.88858,
+    -104.36624,
+    26.88858
+],
+  "geometry": {"coordinates":[-104.36624,26.88858],"type":"Point"}
+}

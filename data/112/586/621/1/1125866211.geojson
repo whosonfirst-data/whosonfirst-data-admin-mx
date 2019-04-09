@@ -1,0 +1,104 @@
+{
+  "id": 1125866211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.00581,15.66479,-92.00581,15.66479",
+    "geom:latitude":15.66479,
+    "geom:longitude":-92.00581,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":15.66479,
+    "lbl:longitude":-92.00581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ciudad Cuauht\u00e9moc"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad Cuauht\u00e9moc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434-\u041a\u0443\u0430\u0443\u0442\u0435\u043c\u043e\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Cuauht\u00e9moc"
+    ],
+    "name:unk_x_variant":[
+        "Ocotal"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3530600,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ciudad Cuauht\u00e9moc",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chiapas",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1330206,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":116543,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chiapas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3530600,
+        "gp:id":116543,
+        "qs_pg:id":1330206,
+        "wd:id":"Q4448361"
+    },
+    "wof:country":"MX",
+    "wof:created":1497294052,
+    "wof:geomhash":"785fbc108aee21c5ff658b8b5ab2d012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075575,
+            "locality_id":1125866211,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1125866211,
+    "wof:lastmodified":1553816584,
+    "wof:name":"Ciudad Cuauht\u00e9moc",
+    "wof:parent_id":102075575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.00581,
+    15.66479,
+    -92.00581,
+    15.66479
+],
+  "geometry": {"coordinates":[-92.00581,15.66479],"type":"Point"}
+}

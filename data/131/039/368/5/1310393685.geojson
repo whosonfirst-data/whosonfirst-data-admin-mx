@@ -1,0 +1,76 @@
+{
+  "id": 1310393685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.58408,25.41062,-105.58408,25.41062",
+    "geom:latitude":25.41062,
+    "geom:longitude":-105.58408,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"La Aurora",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4017963,
+    "gn:latitude":25.41062,
+    "gn:longitude":-105.58408,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"La Aurora",
+    "gn:population":3,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua Caliente",
+        "Aurora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4017963
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d059d9c9f478bf2596b3bdbac544c134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075141,
+            "locality_id":1310393685,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1310393685,
+    "wof:lastmodified":1537668163,
+    "wof:name":"La Aurora",
+    "wof:parent_id":102075141,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.58408,
+    25.41062,
+    -105.58408,
+    25.41062
+],
+  "geometry": {"coordinates":[-105.58408,25.41062],"type":"Point"}
+}

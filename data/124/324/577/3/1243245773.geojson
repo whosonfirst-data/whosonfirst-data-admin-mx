@@ -1,0 +1,72 @@
+{
+  "id": 1243245773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.56506,19.81241,-99.56506,19.81241",
+    "geom:latitude":19.81241,
+    "geom:longitude":-99.56506,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"La Ladera",
+    "gn:country_code":"MX",
+    "gn:dem":2689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3525545,
+    "gn:latitude":19.81241,
+    "gn:longitude":-99.56506,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"La Ladera",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ladera",
+        "La Ladera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3525545
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"416cec663fa8a2a9adf06523d229ab23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074171,
+            "locality_id":1243245773,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1243245773,
+    "wof:lastmodified":1537666217,
+    "wof:name":"La Ladera",
+    "wof:parent_id":102074171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.56506,
+    19.81241,
+    -99.56506,
+    19.81241
+],
+  "geometry": {"coordinates":[-99.56506,19.81241],"type":"Point"}
+}

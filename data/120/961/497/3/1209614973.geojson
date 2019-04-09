@@ -1,0 +1,65 @@
+{
+  "id": 1209614973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.83351,19.77165,-89.83351,19.77165",
+    "geom:latitude":19.77165,
+    "geom:longitude":-89.83351,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"La Parcela",
+    "gn:country_code":"MX",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820766,
+    "gn:latitude":19.77165,
+    "gn:longitude":-89.83351,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"La Parcela",
+    "gn:population":0,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Parcela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820766
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e7d96f0178fd87fdf9e2a222ca49637c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209614973
+        }
+    ],
+    "wof:id":1209614973,
+    "wof:lastmodified":1537666757,
+    "wof:name":"La Parcela",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.83351,
+    19.77165,
+    -89.83351,
+    19.77165
+],
+  "geometry": {"coordinates":[-89.83351,19.77165],"type":"Point"}
+}

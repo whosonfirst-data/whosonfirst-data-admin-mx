@@ -1,0 +1,76 @@
+{
+  "id": 1209904719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.6,24.95,-104.6,24.95",
+    "geom:latitude":24.95,
+    "geom:longitude":-104.6,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Chignallo",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4014340,
+    "gn:latitude":24.95,
+    "gn:longitude":-104.6,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Chignallo",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Chicanayo",
+        "Chiganyo",
+        "Chiganayo",
+        "Chiganallo",
+        "Chignallo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4014340
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fd7c35ddfb5d065c20f9fc8dc665febf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075155,
+            "locality_id":1209904719,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1209904719,
+    "wof:lastmodified":1537668090,
+    "wof:name":"Chignallo",
+    "wof:parent_id":102075155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.6,
+    24.95,
+    -104.6,
+    24.95
+],
+  "geometry": {"coordinates":[-104.59999999999999,24.95],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243456727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-113.84722,28.26694,-113.84722,28.26694",
+    "geom:latitude":28.26694,
+    "geom:longitude":-113.84722,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"San Pancho",
+    "gn:country_code":"MX",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8784901,
+    "gn:latitude":28.26694,
+    "gn:longitude":-113.84722,
+    "gn:modification_date":"2016-04-08",
+    "gn:name":"San Pancho",
+    "gn:population":2,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "San Pancho"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8784901
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ede7041ad3f3c6ad64e0e398d3b9b4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1243456727,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1243456727,
+    "wof:lastmodified":1537669234,
+    "wof:name":"San Pancho",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.84722,
+    28.26694,
+    -113.84722,
+    28.26694
+],
+  "geometry": {"coordinates":[-113.84721999999999,28.26694],"type":"Point"}
+}

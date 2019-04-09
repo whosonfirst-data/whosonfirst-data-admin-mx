@@ -1,0 +1,77 @@
+{
+  "id": 1310008155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.85166,32.28754,-116.85166,32.28754",
+    "geom:latitude":32.28754,
+    "geom:longitude":-116.85166,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"El Gato",
+    "gn:country_code":"MX",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4009743,
+    "gn:latitude":32.28754,
+    "gn:longitude":-116.85166,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Gato",
+    "gn:population":1,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Gato"
+    ],
+    "name:und_x_variant":[
+        "Rancho El Gato"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4009743
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8b512349e4cdd6bbe1962fca5a5971ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074505,
+            "locality_id":1310008155,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1310008155,
+    "wof:lastmodified":1537667970,
+    "wof:name":"El Gato",
+    "wof:parent_id":102074505,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.85166,
+    32.28754,
+    -116.85166,
+    32.28754
+],
+  "geometry": {"coordinates":[-116.85166,32.28754],"type":"Point"}
+}

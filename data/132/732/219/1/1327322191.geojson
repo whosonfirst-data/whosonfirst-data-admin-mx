@@ -1,0 +1,76 @@
+{
+  "id": 1327322191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.43056,25.13556,-105.43056,25.13556",
+    "geom:latitude":25.13556,
+    "geom:longitude":-105.43056,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Martinez de Arriba",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3996487,
+    "gn:latitude":25.13556,
+    "gn:longitude":-105.43056,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Mart\u00ednez de Arriba",
+    "gn:population":126,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Martinez",
+        "Mart\u00ednez de Arriba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3996487
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"26bea9903415280a3b4779baef8f37e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075205,
+            "locality_id":1327322191,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1327322191,
+    "wof:lastmodified":1537667564,
+    "wof:name":"Martinez de Arriba",
+    "wof:parent_id":102075205,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.43056,
+    25.13556,
+    -105.43056,
+    25.13556
+],
+  "geometry": {"coordinates":[-105.43056,25.13556],"type":"Point"}
+}

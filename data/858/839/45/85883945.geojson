@@ -1,0 +1,126 @@
+{
+  "id": 85883945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000351,
+    "geom:area_square_m":4093456.250487,
+    "geom:bbox":"-99.1268920898,19.3914770388,-99.1063685648,19.4147924381",
+    "geom:latitude":19.402412,
+    "geom:longitude":-99.115892,
+    "gn:population":727034,
+    "iso:country":"MX",
+    "lbl:latitude":19.409041,
+    "lbl:longitude":-99.115289,
+    "mps:latitude":19.400789,
+    "mps:longitude":-99.115065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Alvaro Obregon"
+    ],
+    "name:unk_x_variant":[
+        "San Angel",
+        "Alvaro Obregon"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Alvaro Obreg\u00f3n",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Alvaro Obregon",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Venustiano Carranza",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":140,
+    "qs:photo_sum":470,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599948,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991179,
+        890535781,
+        102073755,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3514663,
+        "gp:id":55898924,
+        "qs:id":897241,
+        "qs_pg:id":897241,
+        "wd:id":"Q20251521"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e8f131311db01fe26542ef5086af83fe",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073755,
+            "locality_id":101991179,
+            "neighbourhood_id":85883945,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883945,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883945,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957717,
+    "wof:name":"Alvaro Obregon",
+    "wof:parent_id":890535781,
+    "wof:placetype":"neighbourhood",
+    "wof:population":727034,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.12689208984978,
+    19.39147703882512,
+    -99.10636856484115,
+    19.41479243810009
+],
+  "geometry": {"coordinates":[[[-99.11865234380005,19.41479243810009],[-99.11445658131754,19.41479243207735],[-99.11315917969992,19.41479243442063],[-99.1104125976853,19.41479243207735],[-99.10919102605078,19.41349720575019],[-99.10766601559999,19.41349720575019],[-99.10759015594061,19.41349720575019],[-99.10636857781708,19.40961155000005],[-99.10636856484115,19.40961150872525],[-99.10766601561446,19.40823588749232],[-99.10766601561659,19.40443049680007],[-99.10766601561659,19.40443045555023],[-99.1076660156142,19.39924927860008],[-99.10766601562494,19.39665850450021],[-99.10969903635359,19.39558082736752],[-99.11163450007558,19.39147703882512],[-99.11865234377501,19.39147703882512],[-99.12414550782495,19.39147703882512],[-99.12617840319734,19.39255461519822],[-99.12689208984978,19.39406785415049],[-99.12689208984978,19.39633733809696],[-99.12414550782077,19.39924923735032],[-99.12414550781446,19.39924927860008],[-99.12414550780815,19.40305483684719],[-99.12414550779999,19.40443049680007],[-99.12139892579984,19.40443049680007],[-99.12139892579984,19.40702103713352],[-99.12139892579984,19.40961154311694],[-99.12139892579984,19.41220200953768],[-99.11865234380005,19.41220200876754],[-99.11865234380005,19.41479243810009]]],"type":"Polygon"}
+}

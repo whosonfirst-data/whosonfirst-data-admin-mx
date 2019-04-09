@@ -1,0 +1,65 @@
+{
+  "id": 1209190991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.59652,18.27269,-100.59652,18.27269",
+    "geom:latitude":18.27269,
+    "geom:longitude":-100.59652,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3",
+    "gn:asciiname":"El Timbre",
+    "gn:country_code":"MX",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8909389,
+    "gn:latitude":18.27269,
+    "gn:longitude":-100.59652,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Timbre",
+    "gn:population":16,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8909389
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d5b6f0dd3ed59060cacf7681c4a03d54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209190991
+        }
+    ],
+    "wof:id":1209190991,
+    "wof:lastmodified":1536294935,
+    "wof:name":"El Timbre",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.59652,
+    18.27269,
+    -100.59652,
+    18.27269
+],
+  "geometry": {"coordinates":[-100.59652,18.27269],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125905955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.9,21.5,-104.9,21.5",
+    "geom:latitude":21.5,
+    "geom:longitude":-104.9,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":21.5,
+    "lbl:longitude":-104.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Fresno"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3997773,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Los Fresnos",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Nayarit",
+    "qs_pg:photos":127,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":127,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":474890,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":131875,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Nayarit",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997773,
+        "gp:id":131875,
+        "qs_pg:id":474890
+    },
+    "wof:country":"MX",
+    "wof:created":1497295987,
+    "wof:geomhash":"3699311dd60dcf86335fb3fbebcd6edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074577,
+            "locality_id":1125905955,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1125905955,
+    "wof:lastmodified":1509399751,
+    "wof:name":"Los Fresnos",
+    "wof:parent_id":102074577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.9,
+    21.5,
+    -104.9,
+    21.5
+],
+  "geometry": {"coordinates":[-104.90000000000001,21.5],"type":"Point"}
+}

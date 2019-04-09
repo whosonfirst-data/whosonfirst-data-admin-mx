@@ -1,0 +1,91 @@
+{
+  "id": 1125937473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.09223,22.0832,-102.09223,22.0832",
+    "geom:latitude":22.0832,
+    "geom:longitude":-102.09223,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":22.0832,
+    "lbl:longitude":-102.09223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Tule"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4007089,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Tule",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Aguascalientes",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":494039,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":122867,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Aguascalientes",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686637,
+        102077375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4007089,
+        "gp:id":122867,
+        "qs_pg:id":494039
+    },
+    "wof:country":"MX",
+    "wof:created":1497297012,
+    "wof:geomhash":"b6747723eb798ae09d985c767ba43c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077375,
+            "locality_id":1125937473,
+            "region_id":85686637
+        }
+    ],
+    "wof:id":1125937473,
+    "wof:lastmodified":1509401863,
+    "wof:name":"El Tule",
+    "wof:parent_id":102077375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.09223,
+    22.0832,
+    -102.09223,
+    22.0832
+],
+  "geometry": {"coordinates":[-102.09223,22.0832],"type":"Point"}
+}

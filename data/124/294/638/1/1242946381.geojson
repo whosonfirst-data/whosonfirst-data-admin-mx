@@ -1,0 +1,75 @@
+{
+  "id": 1242946381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.3293,19.49206,-103.3293,19.49206",
+    "geom:latitude":19.49206,
+    "geom:longitude":-103.3293,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"La Purisima",
+    "gn:country_code":"MX",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4000582,
+    "gn:latitude":19.49206,
+    "gn:longitude":-103.3293,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"La Pur\u00edsima",
+    "gn:population":582,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pur\u00edsima",
+        "La Pur\u00edsima"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4000582
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"be9b0c6b43ecaa0c2a52e7f6cf2fffd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074861,
+            "locality_id":1242946381,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1242946381,
+    "wof:lastmodified":1537667691,
+    "wof:name":"La Purisima",
+    "wof:parent_id":102074861,
+    "wof:placetype":"locality",
+    "wof:population":582,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.3293,
+    19.49206,
+    -103.3293,
+    19.49206
+],
+  "geometry": {"coordinates":[-103.3293,19.49206],"type":"Point"}
+}

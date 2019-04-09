@@ -1,0 +1,65 @@
+{
+  "id": 1209498787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.24657,20.18267,-98.24657,20.18267",
+    "geom:latitude":20.18267,
+    "geom:longitude":-98.24657,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"San Mateo",
+    "gn:country_code":"MX",
+    "gn:dem":2291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3518396,
+    "gn:latitude":20.18267,
+    "gn:longitude":-98.24657,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Mateo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Mateo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3518396
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"cce752bff4a5f96f69973cc7674be15c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209498787
+        }
+    ],
+    "wof:id":1209498787,
+    "wof:lastmodified":1537666010,
+    "wof:name":"San Mateo",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.24657,
+    20.18267,
+    -98.24657,
+    20.18267
+],
+  "geometry": {"coordinates":[-98.24657000000001,20.18267],"type":"Point"}
+}

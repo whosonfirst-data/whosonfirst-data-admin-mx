@@ -1,0 +1,65 @@
+{
+  "id": 1209067895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.28361,15.94528,-96.28361,15.94528",
+    "geom:latitude":15.94528,
+    "geom:longitude":-96.28361,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"253",
+    "gn:asciiname":"Cerro Minas",
+    "gn:country_code":"MX",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8901459,
+    "gn:latitude":15.94528,
+    "gn:longitude":-96.28361,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Cerro Minas",
+    "gn:population":25,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8901459
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2073b317a9253898aead168a6827a433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209067895
+        }
+    ],
+    "wof:id":1209067895,
+    "wof:lastmodified":1536298743,
+    "wof:name":"Cerro Minas",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.28361,
+    15.94528,
+    -96.28361,
+    15.94528
+],
+  "geometry": {"coordinates":[-96.28361,15.94528],"type":"Point"}
+}

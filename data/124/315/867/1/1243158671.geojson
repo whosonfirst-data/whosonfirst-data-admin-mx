@@ -1,0 +1,71 @@
+{
+  "id": 1243158671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.57647,18.31789,-101.57647,18.31789",
+    "geom:latitude":18.31789,
+    "geom:longitude":-101.57647,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"San Francisco (San Pancho)",
+    "gn:country_code":"MX",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987151,
+    "gn:latitude":18.31789,
+    "gn:longitude":-101.57647,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Francisco (San Pancho)",
+    "gn:population":7,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686517,
+        102073907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987151
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9163b99fc81ce131a96f9c5066a9d4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073907,
+            "locality_id":1243158671,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":1243158671,
+    "wof:lastmodified":1536723841,
+    "wof:name":"San Francisco (San Pancho)",
+    "wof:parent_id":102073907,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.57647,
+    18.31789,
+    -101.57647,
+    18.31789
+],
+  "geometry": {"coordinates":[-101.57647,18.31789],"type":"Point"}
+}

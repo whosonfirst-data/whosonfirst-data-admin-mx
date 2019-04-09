@@ -1,0 +1,92 @@
+{
+  "id": 1126067343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.35094,20.34222,-99.35094,20.34222",
+    "geom:latitude":20.34222,
+    "geom:longitude":-99.35094,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":10,
+    "iso:country":"MX",
+    "lbl:latitude":20.34222,
+    "lbl:longitude":-99.35094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Dolores"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3529740,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Doctores",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Hidalgo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":207722,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55884267,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Hidalgo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102078481,
+        85686665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3529740,
+        "gp:id":55884267,
+        "qs_pg:id":207722
+    },
+    "wof:country":"MX",
+    "wof:created":1497309096,
+    "wof:geomhash":"ede42c2943c65bae806783d4ee1acd6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078481,
+            "locality_id":-1,
+            "neighbourhood_id":1126067343,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1126067343,
+    "wof:lastmodified":1509410494,
+    "wof:name":"Doctores",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.35094,
+    20.34222,
+    -99.35094,
+    20.34222
+],
+  "geometry": {"coordinates":[-99.35093999999999,20.34222],"type":"Point"}
+}

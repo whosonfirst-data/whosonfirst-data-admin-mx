@@ -1,0 +1,124 @@
+{
+  "id": 101995691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":1466082.528924,
+    "geom:bbox":"-95.6773418232,16.0204722809,-95.6605662737,16.0345513924",
+    "geom:latitude":16.028111,
+    "geom:longitude":-95.668862,
+    "iso:country":"MX",
+    "lbl:latitude":16.027913,
+    "lbl:longitude":-95.668734,
+    "mps:latitude":16.027913,
+    "mps:longitude":-95.668734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:epo_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:eus_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina San Pedro Huamelula"
+    ],
+    "name:sco_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:spa_x_variant":[
+        "Huamelula",
+        "S Pedro",
+        "S Pedro Huamelula",
+        "S. Pedro",
+        "S. Pedro Huamelula",
+        "San Pedro"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "name:unk_x_variant":[
+        "Huamelula"
+    ],
+    "name:vie_x_preferred":[
+        "San Pedro Huamelula"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a1r":"*",
+    "qs:a2":"San Pedro Huamelula",
+    "qs:a2_lc":"20307",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Pedro Huamelula",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01aef364-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3517996,
+        "gp:id":145082,
+        "wd:id":"Q3889191",
+        "wk:page":"San Pedro Huamelula"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c757730a375a246488757a7cd65b4fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076503,
+            "locality_id":101995691,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":101995691,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815683,
+    "wof:name":"San Pedro Huamelula",
+    "wof:parent_id":102076503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.67734182324116,
+    16.02047228089943,
+    -95.66056627373746,
+    16.0345513923921
+],
+  "geometry": {"coordinates":[[[-95.6755963999924,16.03196712310179],[-95.67685051223559,16.03354638771386],[-95.67535607826835,16.03443079221259],[-95.67443716472509,16.0345513923921],[-95.67331832866856,16.03406252408201],[-95.6726224331581,16.03376286980964],[-95.67207301993194,16.03343526520079],[-95.6713318597531,16.03299331983488],[-95.66727363343259,16.03222417746263],[-95.66517529633366,16.03045677121115],[-95.66502681441136,16.03001999704203],[-95.66450707901834,16.03051062358548],[-95.6641250692882,16.03084197112272],[-95.66388872209085,16.03105096209462],[-95.66344533971927,16.03158857975082],[-95.66157750498971,16.02993370290113],[-95.66090764073198,16.02784834585756],[-95.66056627373746,16.02675777059721],[-95.66197635351165,16.02596533970151],[-95.66429085592124,16.02466461495833],[-95.66430533660336,16.02410929856703],[-95.66433938330707,16.02284635017526],[-95.66439507633768,16.02159614515248],[-95.66422112287658,16.02047228089943],[-95.66597750170725,16.02063788890789],[-95.66728001982827,16.02074752668017],[-95.66740074068652,16.02142862824195],[-95.67003322489336,16.02366555474656],[-95.67209983645819,16.02541593021549],[-95.67329934066763,16.02642935023302],[-95.67407839845878,16.02709654757981],[-95.67415149116844,16.02715209472581],[-95.67657150163475,16.02920319283794],[-95.67666594343731,16.02943882166994],[-95.67693875670767,16.03011860742002],[-95.67734182324116,16.03112327340872],[-95.67676619525579,16.0314649938687],[-95.67618488322267,16.03159625144391],[-95.6755963999924,16.03196712310179]]],"type":"Polygon"}
+}

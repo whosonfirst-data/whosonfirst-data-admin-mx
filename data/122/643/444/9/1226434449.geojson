@@ -1,0 +1,76 @@
+{
+  "id": 1226434449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.02771,27.80436,-108.02771,27.80436",
+    "geom:latitude":27.80436,
+    "geom:longitude":-108.02771,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"41.0",
+    "gn:asciiname":"San Jose",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986393,
+    "gn:latitude":27.80436,
+    "gn:longitude":-108.02771,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":1,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 de Arriba",
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986393
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"aa7d540e6241abfdfc3ccfbdcf72273e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075249,
+            "locality_id":1226434449,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1226434449,
+    "wof:lastmodified":1537667328,
+    "wof:name":"San Jose",
+    "wof:parent_id":102075249,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.02771,
+    27.80436,
+    -108.02771,
+    27.80436
+],
+  "geometry": {"coordinates":[-108.02771,27.80436],"type":"Point"}
+}

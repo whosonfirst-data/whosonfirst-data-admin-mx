@@ -1,0 +1,77 @@
+{
+  "id": 1226412251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.53214,19.26757,-99.53214,19.26757",
+    "geom:latitude":19.26757,
+    "geom:longitude":-99.53214,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"San Mateo Atenco",
+    "gn:country_code":"MX",
+    "gn:dem":2580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3518387,
+    "gn:latitude":19.26757,
+    "gn:longitude":-99.53214,
+    "gn:modification_date":"2016-03-31",
+    "gn:name":"San Mateo Atenco",
+    "gn:population":68602,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atenco",
+        "San Mateo",
+        "San Mateo Atenco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3518387,
+        "wk:page":"San_Mateo_Atenco"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6083367f298b51eed25516e05ef3843b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074071,
+            "locality_id":1226412251,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1226412251,
+    "wof:lastmodified":1537666009,
+    "wof:name":"San Mateo Atenco",
+    "wof:parent_id":102074071,
+    "wof:placetype":"locality",
+    "wof:population":68602,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.53214,
+    19.26757000000001,
+    -99.53214,
+    19.26757000000001
+],
+  "geometry": {"coordinates":[-99.53214,19.26757000000001],"type":"Point"}
+}

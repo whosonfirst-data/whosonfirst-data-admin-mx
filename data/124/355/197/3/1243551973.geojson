@@ -1,0 +1,77 @@
+{
+  "id": 1243551973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.4007,27.80633,-104.4007,27.80633",
+    "geom:latitude":27.80633,
+    "geom:longitude":-104.4007,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"La Sierrita",
+    "gn:country_code":"MX",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3996603,
+    "gn:latitude":27.80633,
+    "gn:longitude":-104.4007,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"La Sierrita",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Sierrita"
+    ],
+    "name:spa_x_variant":[
+        "Maravillas"
+    ],
+    "name:und_x_variant":[
+        "Rancho Maravillas de Guadalupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3996603
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a35c57a809025747da15a6d7ad5c42d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075289,
+            "locality_id":1243551973,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1243551973,
+    "wof:lastmodified":1537667566,
+    "wof:name":"La Sierrita",
+    "wof:parent_id":102075289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.4007,
+    27.80633,
+    -104.4007,
+    27.80633
+],
+  "geometry": {"coordinates":[-104.4007,27.80633],"type":"Point"}
+}

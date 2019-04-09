@@ -1,0 +1,93 @@
+{
+  "id": 1126088187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.43572,19.60429,-104.43572,19.60429",
+    "geom:latitude":19.60429,
+    "geom:longitude":-104.43572,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11215,
+    "gn:population":11215,
+    "iso:country":"MX",
+    "lbl:latitude":19.60429,
+    "lbl:longitude":-104.43572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Resolana"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4015040,
+    "qs_pg:gn_pop":11215,
+    "qs_pg:name":"Casimiro Castillo Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":207720,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55883658,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101997575,
+        102074865,
+        85686603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4015040,
+        "gp:id":55883658,
+        "qs_pg:id":207720
+    },
+    "wof:country":"MX",
+    "wof:created":1497313149,
+    "wof:geomhash":"b871622d9bf5ae14a6cb0a66c7c338c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074865,
+            "locality_id":101997575,
+            "neighbourhood_id":1126088187,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1126088187,
+    "wof:lastmodified":1509411510,
+    "wof:name":"Casimiro Castillo Centro",
+    "wof:parent_id":101997575,
+    "wof:placetype":"neighbourhood",
+    "wof:population":11215,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.43572,
+    19.60429,
+    -104.43572,
+    19.60429
+],
+  "geometry": {"coordinates":[-104.43572,19.60429],"type":"Point"}
+}

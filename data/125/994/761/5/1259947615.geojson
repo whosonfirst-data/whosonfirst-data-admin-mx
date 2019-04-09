@@ -1,0 +1,74 @@
+{
+  "id": 1259947615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.15056,24.27861,-107.15056,24.27861",
+    "geom:latitude":24.27861,
+    "geom:longitude":-107.15056,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Rio Florido",
+    "gn:country_code":"MX",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8873691,
+    "gn:latitude":24.27861,
+    "gn:longitude":-107.15056,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"R\u00edo Florido",
+    "gn:population":176,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Florido"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8873691
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"48919481907ab4b759e41cc7c3115e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074307,
+            "locality_id":1259947615,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1259947615,
+    "wof:lastmodified":1537669616,
+    "wof:name":"Rio Florido",
+    "wof:parent_id":102074307,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.15056,
+    24.27861,
+    -107.15056,
+    24.27861
+],
+  "geometry": {"coordinates":[-107.15056,24.27861],"type":"Point"}
+}

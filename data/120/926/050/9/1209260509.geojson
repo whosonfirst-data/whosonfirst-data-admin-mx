@@ -1,0 +1,65 @@
+{
+  "id": 1209260509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.36833,18.89778,-96.36833,18.89778",
+    "geom:latitude":18.89778,
+    "geom:longitude":-96.36833,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"El Zapotillo",
+    "gn:country_code":"MX",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8882987,
+    "gn:latitude":18.89778,
+    "gn:longitude":-96.36833,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Zapotillo",
+    "gn:population":87,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8882987
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"44f0182c00098ed0716ce7f2d1617145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209260509
+        }
+    ],
+    "wof:id":1209260509,
+    "wof:lastmodified":1536292707,
+    "wof:name":"El Zapotillo",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.36833,
+    18.89778,
+    -96.36833,
+    18.89778
+],
+  "geometry": {"coordinates":[-96.36833,18.89778],"type":"Point"}
+}

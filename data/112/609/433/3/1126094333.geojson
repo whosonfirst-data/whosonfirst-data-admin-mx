@@ -1,0 +1,93 @@
+{
+  "id": 1126094333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.51864,18.62942,-95.51864,18.62942",
+    "geom:latitude":18.62942,
+    "geom:longitude":-95.51864,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18941,
+    "gn:population":18941,
+    "iso:country":"MX",
+    "lbl:latitude":18.62942,
+    "lbl:longitude":-95.51864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Lerdo de Tejada"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3524391,
+    "qs_pg:gn_pop":18941,
+    "qs_pg:name":"Lerdo de Tejada Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1045455,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55911727,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101998477,
+        102077593,
+        85686671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3524391,
+        "gp:id":55911727,
+        "qs_pg:id":1045455
+    },
+    "wof:country":"MX",
+    "wof:created":1497314829,
+    "wof:geomhash":"1d328a7fedafc463e602c06b6d4e3636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077593,
+            "locality_id":101998477,
+            "neighbourhood_id":1126094333,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126094333,
+    "wof:lastmodified":1509411809,
+    "wof:name":"Lerdo de Tejada Centro",
+    "wof:parent_id":101998477,
+    "wof:placetype":"neighbourhood",
+    "wof:population":18941,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.51864,
+    18.62942,
+    -95.51864,
+    18.62942
+],
+  "geometry": {"coordinates":[-95.51864,18.62942],"type":"Point"}
+}

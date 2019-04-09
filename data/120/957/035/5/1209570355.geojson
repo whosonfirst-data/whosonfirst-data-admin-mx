@@ -1,0 +1,65 @@
+{
+  "id": 1209570355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.08222,25.65333,-108.08222,25.65333",
+    "geom:latitude":25.65333,
+    "geom:longitude":-108.08222,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Laguna de los Valdez",
+    "gn:country_code":"MX",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8882673,
+    "gn:latitude":25.65333,
+    "gn:longitude":-108.08222,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Laguna de los Valdez",
+    "gn:population":89,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8882673
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"54d14b6c4eec32a2fa00951375ae0b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209570355
+        }
+    ],
+    "wof:id":1209570355,
+    "wof:lastmodified":1536283104,
+    "wof:name":"Laguna de los Valdez",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.08222,
+    25.65333,
+    -108.08222,
+    25.65333
+],
+  "geometry": {"coordinates":[-108.08222000000001,25.65333],"type":"Point"}
+}

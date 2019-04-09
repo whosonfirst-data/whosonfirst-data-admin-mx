@@ -1,0 +1,65 @@
+{
+  "id": 1209192751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.79891,23.81501,-105.79891,23.81501",
+    "geom:latitude":23.81501,
+    "geom:longitude":-105.79891,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"El Pandito",
+    "gn:country_code":"MX",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8919687,
+    "gn:latitude":23.81501,
+    "gn:longitude":-105.79891,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Pandito",
+    "gn:population":10,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8919687
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"df7ae45c1835560356c9030a7a1e4c94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209192751
+        }
+    ],
+    "wof:id":1209192751,
+    "wof:lastmodified":1536294877,
+    "wof:name":"El Pandito",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.79891,
+    23.81501,
+    -105.79891,
+    23.81501
+],
+  "geometry": {"coordinates":[-105.79891000000001,23.81501],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1125903455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.67886,21.05058,-89.67886,21.05058",
+    "geom:latitude":21.05058,
+    "geom:longitude":-89.67886,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":21.05058,
+    "lbl:longitude":-89.67886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Dzity\u00e1"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3529643,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dzitya",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Yucatan",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":213103,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":118437,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Yucatan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686701,
+        102078971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3529643,
+        "gp:id":118437,
+        "qs_pg:id":213103
+    },
+    "wof:country":"MX",
+    "wof:created":1497295900,
+    "wof:geomhash":"716aa9515e2d27b946407de4a4ef4f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078971,
+            "locality_id":1125903455,
+            "region_id":85686701
+        }
+    ],
+    "wof:id":1125903455,
+    "wof:lastmodified":1509399584,
+    "wof:name":"Dzitya",
+    "wof:parent_id":102078971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.67886,
+    21.05058,
+    -89.67886,
+    21.05058
+],
+  "geometry": {"coordinates":[-89.67886,21.05058],"type":"Point"}
+}

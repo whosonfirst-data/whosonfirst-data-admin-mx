@@ -1,0 +1,74 @@
+{
+  "id": 1193130457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.40326,29.17145,-101.40326,29.17145",
+    "geom:latitude":29.17145,
+    "geom:longitude":-101.40326,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Paraje Los Vaqueros",
+    "gn:country_code":"MX",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3978118,
+    "gn:latitude":29.17145,
+    "gn:longitude":-101.40326,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Paraje Los Vaqueros",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paraje Los Vaqueros"
+    ],
+    "name:und_x_variant":[
+        "Ca\u00f1\u00f3n de los Vaqueros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3978118
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c7b402e30327576b21a095183647c5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078795,
+            "locality_id":1193130457,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1193130457,
+    "wof:lastmodified":1537667132,
+    "wof:name":"Paraje Los Vaqueros",
+    "wof:parent_id":102078795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.40326,
+    29.17145,
+    -101.40326,
+    29.17145
+],
+  "geometry": {"coordinates":[-101.40326,29.17145],"type":"Point"}
+}

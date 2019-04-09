@@ -1,0 +1,100 @@
+{
+  "id": 1126103737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.5724,31.72521,-116.5724,31.72521",
+    "geom:latitude":31.72521,
+    "geom:longitude":-116.5724,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":17861,
+    "gn:population":17861,
+    "iso:country":"MX",
+    "lbl:latitude":31.72521,
+    "lbl:longitude":-116.5724,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Rodolfo S\u00e1nchez Taboada"
+    ],
+    "name:unk_x_variant":[
+        "Maneadero"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3996737,
+    "qs_pg:gn_pop":17861,
+    "qs_pg:name":"Madero",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":151347,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55882119,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993469,
+        102074509,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3996737,
+        "gp:id":55882119,
+        "qs_pg:id":151347
+    },
+    "wof:country":"MX",
+    "wof:created":1497316555,
+    "wof:geomhash":"5664c67e1953befb63d5ef46c2f56d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":101993469,
+            "neighbourhood_id":1126103737,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126103737,
+    "wof:lastmodified":1509412259,
+    "wof:name":"Madero",
+    "wof:parent_id":101993469,
+    "wof:placetype":"neighbourhood",
+    "wof:population":17861,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.5724,
+    31.72521,
+    -116.5724,
+    31.72521
+],
+  "geometry": {"coordinates":[-116.5724,31.72521],"type":"Point"}
+}

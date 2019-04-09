@@ -1,0 +1,81 @@
+{
+  "id": 1125871211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.61667,28.38333,-105.61667,28.38333",
+    "geom:latitude":28.38333,
+    "geom:longitude":-105.61667,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8161,
+    "gn:population":8161,
+    "iso:country":"MX",
+    "lbl:latitude":28.38333,
+    "lbl:longitude":-105.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ampliaci\u00f3n Colonia L\u00e1zaro C\u00e1rdenas"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4013377,
+    "qs_pg:gn_pop":8161,
+    "qs_pg:name":"Colonia Lazaro C\u00e1rdenas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":97071,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4013377,
+        "qs_pg:id":97071
+    },
+    "wof:country":"MX",
+    "wof:created":1497294309,
+    "wof:geomhash":"6cf2dcb744f50a066391cd955965ebd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075277,
+            "locality_id":1125871211,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1125871211,
+    "wof:lastmodified":1509397324,
+    "wof:name":"Colonia Lazaro C\u00e1rdenas",
+    "wof:parent_id":102075277,
+    "wof:placetype":"locality",
+    "wof:population":8161,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.61667,
+    28.38333,
+    -105.61667,
+    28.38333
+],
+  "geometry": {"coordinates":[-105.61667,28.38333],"type":"Point"}
+}

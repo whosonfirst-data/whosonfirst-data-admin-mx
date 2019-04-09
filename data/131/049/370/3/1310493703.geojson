@@ -1,0 +1,77 @@
+{
+  "id": 1310493703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.025,28.12944,-107.025,28.12944",
+    "geom:latitude":28.12944,
+    "geom:longitude":-107.025,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"La Capilla",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4015549,
+    "gn:latitude":28.12944,
+    "gn:longitude":-107.025,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"La Capilla",
+    "gn:population":2,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio",
+        "Cepillos",
+        "Capilla"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4015549
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d09c082a20b6cb7ad9698f96c6829193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075321,
+            "locality_id":1310493703,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1310493703,
+    "wof:lastmodified":1537668114,
+    "wof:name":"La Capilla",
+    "wof:parent_id":102075321,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.025,
+    28.12944,
+    -107.025,
+    28.12944
+],
+  "geometry": {"coordinates":[-107.02500000000001,28.12944],"type":"Point"}
+}

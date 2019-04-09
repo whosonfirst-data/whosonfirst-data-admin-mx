@@ -1,0 +1,117 @@
+{
+  "id": 102076179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001157,
+    "geom:area_square_m":13624481.495904,
+    "geom:bbox":"-97.4230768552,17.769936922,-97.374197021,17.8242107229",
+    "geom:latitude":17.792075,
+    "geom:longitude":-97.397337,
+    "iso:country":"MX",
+    "lbl:latitude":17.790265,
+    "lbl:longitude":-97.39493,
+    "mps:latitude":17.790265,
+    "mps:longitude":-97.39493,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "name:dut_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "name:eng_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "name:epo_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "name:eus_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "name:fre_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Santiago Tepetlapa"
+    ],
+    "name:sco_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "name:vie_x_preferred":[
+        "Santiago Tepetlapa"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a2":"Santiago Tepetlapa",
+    "qs:a2_lc":"20488",
+    "qs:adm0":"Mexico",
+    "qs:adm0_a3":"MEX",
+    "qs:level":"adm2",
+    "qs:source":"Mexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-10-17",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2005-10-17",
+    "statoids:capital":"Santiago Tepetlapa",
+    "statoids:country":"MX",
+    "statoids:hasc":"MX.OA",
+    "statoids:inegi":"20488",
+    "statoids:name":"Santiago Tepetlapa",
+    "statoids:population":"116",
+    "statoids:statoid":"MX.OA.VC",
+    "statoids:timezone":"-6~",
+    "statoids:type":"municipality",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MX.OA.VC",
+        "inegi:id":"20488",
+        "wd:id":"Q4967430"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fbcdcfca235bfb1b9c2a045097b62d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076179,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":102076179,
+    "wof:lastmodified":1553815897,
+    "wof:name":"Santiago Tepetlapa",
+    "wof:parent_id":85686623,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:shortcode":"VC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.42307685523419,
+    17.76993692198764,
+    -97.37419702103904,
+    17.82421072291109
+],
+  "geometry": {"coordinates":[[[-97.37569039340013,17.78144403022026],[-97.37419702103904,17.77775757041737],[-97.37878894982006,17.77778791663037],[-97.38224249258825,17.77819342953778],[-97.3882899988778,17.77723412314388],[-97.39939372760925,17.77539453042614],[-97.40693654821514,17.77335642216628],[-97.41394063272263,17.76993692198764],[-97.41539668944915,17.77104986280078],[-97.41710669307098,17.77193549307367],[-97.41921532969074,17.77372604220188],[-97.42307685523419,17.77930599709748],[-97.41317283258471,17.78388486579399],[-97.40721580811844,17.79382272261713],[-97.40479183820449,17.80422259174409],[-97.40406494867223,17.81093997610689],[-97.40019699668878,17.82319804494989],[-97.39817071807519,17.82367325282872],[-97.39587879709939,17.82421072291109],[-97.39468865739224,17.82165313115066],[-97.39088574386325,17.8143011241655],[-97.38772276957909,17.80692794526462],[-97.38214124273142,17.79488644873979],[-97.3779502593258,17.78598223910739],[-97.37569039340013,17.78144403022026]]],"type":"Polygon"}
+}

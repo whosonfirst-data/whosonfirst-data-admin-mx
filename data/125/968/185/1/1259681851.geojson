@@ -1,0 +1,74 @@
+{
+  "id": 1259681851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.25266,15.10623,-92.25266,15.10623",
+    "geom:latitude":15.10623,
+    "geom:longitude":-92.25266,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Guanajuato",
+    "gn:country_code":"MX",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3527270,
+    "gn:latitude":15.10623,
+    "gn:longitude":-92.25266,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Guanajuato",
+    "gn:population":13,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guanajuato"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3527270
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"cf652e655e8d054f077ab8a83229ce50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075511,
+            "locality_id":1259681851,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1259681851,
+    "wof:lastmodified":1537666269,
+    "wof:name":"Guanajuato",
+    "wof:parent_id":102075511,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.25266,
+    15.10623,
+    -92.25266,
+    15.10623
+],
+  "geometry": {"coordinates":[-92.25266000000001,15.10623],"type":"Point"}
+}

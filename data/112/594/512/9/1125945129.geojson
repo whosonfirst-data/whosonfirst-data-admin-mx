@@ -1,0 +1,89 @@
+{
+  "id": 1125945129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.55673,19.54056,-98.55673,19.54056",
+    "geom:latitude":19.54056,
+    "geom:longitude":-98.55673,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.54056,
+    "lbl:longitude":-98.55673,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Mazapa"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3523423,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mazapa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tlaxcala",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":987398,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":133218,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tlaxcala",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686653,
+        102077967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3523423,
+        "gp:id":133218,
+        "qs_pg:id":987398
+    },
+    "wof:country":"MX",
+    "wof:created":1497297253,
+    "wof:geomhash":"c7a54f3dd85e7a982b83d5d0ff561337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077967,
+            "locality_id":1125945129,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1125945129,
+    "wof:lastmodified":1509402340,
+    "wof:name":"Mazapa",
+    "wof:parent_id":102077967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.55673,
+    19.54056,
+    -98.55673,
+    19.54056
+],
+  "geometry": {"coordinates":[-98.55673,19.54056],"type":"Point"}
+}

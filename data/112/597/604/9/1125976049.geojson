@@ -1,0 +1,105 @@
+{
+  "id": 1125976049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.92929,24.63203,-107.92929,24.63203",
+    "geom:latitude":24.63203,
+    "geom:longitude":-107.92929,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":24.63203,
+    "lbl:longitude":-107.92929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Altata"
+    ],
+    "name:eng_x_preferred":[
+        "Altata"
+    ],
+    "name:spa_x_preferred":[
+        "Altata"
+    ],
+    "name:swe_x_preferred":[
+        "Altata"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4018691,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Altata",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sinaloa",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":113143,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":111944,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sinaloa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4018691,
+        "gp:id":111944,
+        "qs_pg:id":113143,
+        "wd:id":"Q4736195"
+    },
+    "wof:country":"MX",
+    "wof:created":1497298353,
+    "wof:geomhash":"04ef851ca7fef8683a22adc989eb579a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074309,
+            "locality_id":1125976049,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1125976049,
+    "wof:lastmodified":1553816672,
+    "wof:name":"Altata",
+    "wof:parent_id":102074309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[
+        1141906481
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.92929,
+    24.63203,
+    -107.92929,
+    24.63203
+],
+  "geometry": {"coordinates":[-107.92928999999999,24.63203],"type":"Point"}
+}

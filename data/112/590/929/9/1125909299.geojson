@@ -1,0 +1,87 @@
+{
+  "id": 1125909299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.126,20.93287,-89.126,20.93287",
+    "geom:latitude":20.93287,
+    "geom:longitude":-89.126,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.93287,
+    "lbl:longitude":-89.126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Kimbila"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3526287,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kimbila",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Yucatan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":180188,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":126278,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Yucatan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686701,
+        102079041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3526287,
+        "gp:id":126278,
+        "qs_pg:id":180188
+    },
+    "wof:country":"MX",
+    "wof:created":1497296088,
+    "wof:geomhash":"38860245fe592d9a40cb45d5299f03af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079041,
+            "locality_id":1125909299,
+            "region_id":85686701
+        }
+    ],
+    "wof:id":1125909299,
+    "wof:lastmodified":1509400005,
+    "wof:name":"Kimbila",
+    "wof:parent_id":102079041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.126,
+    20.93287,
+    -89.126,
+    20.93287
+],
+  "geometry": {"coordinates":[-89.126,20.93287],"type":"Point"}
+}

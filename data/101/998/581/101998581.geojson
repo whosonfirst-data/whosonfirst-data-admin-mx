@@ -1,0 +1,93 @@
+{
+  "id": 101998581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":551136.917317,
+    "geom:bbox":"-97.2522784792,20.6392928456,-97.2459295937,20.6472431567",
+    "geom:latitude":20.643206,
+    "geom:longitude":-97.249144,
+    "iso:country":"MX",
+    "lbl:latitude":20.6432,
+    "lbl:longitude":-97.249144,
+    "mps:latitude":20.6432,
+    "mps:longitude":-97.249144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cerro El Volador"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c9coparc Cerro El Volador"
+    ],
+    "name:nor_x_preferred":[
+        "Cerro El Volador"
+    ],
+    "name:spa_x_preferred":[
+        "Cerro El Volador"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro El Volador"
+    ],
+    "name:unk_x_variant":[
+        "Volador"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Veracruz de Ignacio de la Llave",
+    "qs:a1_lc":"30",
+    "qs:a1r":"*",
+    "qs:a2":"Papantla",
+    "qs:a2_lc":"30124",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"El Volador",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":232,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3514623,
+        "gp:id":151013
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"12025962bba6dc94bef8e9c83f03dbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077653,
+            "locality_id":101998581,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":101998581,
+    "wof:lastmodified":1527641759,
+    "wof:name":"El Volador",
+    "wof:parent_id":102077653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.25227847917128,
+    20.63929284559939,
+    -97.24592959368195,
+    20.64724315673963
+],
+  "geometry": {"coordinates":[[[-97.25068813390448,20.64722651840375],[-97.25013798772143,20.6471801399373],[-97.24987484541758,20.64714806514814],[-97.2496637364669,20.64712233197425],[-97.24920195166044,20.64708288065311],[-97.24824582207566,20.64699224901766],[-97.2479024813352,20.64695694270128],[-97.24768407339398,20.64693449665771],[-97.24714672720548,20.64687927159364],[-97.24610199009109,20.64678332025477],[-97.24610190504529,20.6467747867279],[-97.24609875706012,20.64633301987081],[-97.2460917012247,20.64534291602304],[-97.24599878467964,20.64187397140809],[-97.24592959368195,20.63929284559939],[-97.24662308530738,20.63932505869883],[-97.24691231826525,20.63933849250132],[-97.24866001047435,20.63930299801872],[-97.24950721385063,20.63933686769898],[-97.2511624792714,20.63942379194784],[-97.25122436759958,20.63942944253801],[-97.25215556310057,20.63951483236448],[-97.25219521731948,20.64210916616694],[-97.25222132783766,20.64381968666483],[-97.25227847917128,20.64724315673963],[-97.2517594811946,20.64723768678881],[-97.25068813390448,20.64722651840375]]],"type":"Polygon"}
+}

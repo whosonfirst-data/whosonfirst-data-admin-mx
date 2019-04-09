@@ -1,0 +1,92 @@
+{
+  "id": 1126089403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.1,26.35,-99.1,26.35",
+    "geom:latitude":26.35,
+    "geom:longitude":-99.1,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":19857,
+    "gn:population":19857,
+    "iso:country":"MX",
+    "lbl:latitude":26.35,
+    "lbl:longitude":-99.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ciudad Alem\u00e1n"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3530590,
+    "qs_pg:gn_pop":19857,
+    "qs_pg:name":"Miguel Aleman",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tamaulipas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":355505,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55913300,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tamaulipas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102078969,
+        85686695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3530590,
+        "gp:id":55913300,
+        "qs_pg:id":355505
+    },
+    "wof:country":"MX",
+    "wof:created":1497313431,
+    "wof:geomhash":"458ca6aeb9ab227de9a98e04279644c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078969,
+            "locality_id":-1,
+            "neighbourhood_id":1126089403,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1126089403,
+    "wof:lastmodified":1509411569,
+    "wof:name":"Miguel Aleman",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":19857,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1,
+    26.35,
+    -99.1,
+    26.35
+],
+  "geometry": {"coordinates":[-99.09999999999999,26.35],"type":"Point"}
+}

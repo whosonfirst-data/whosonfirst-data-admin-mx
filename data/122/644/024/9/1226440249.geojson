@@ -1,0 +1,76 @@
+{
+  "id": 1226440249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.43607,28.39084,-107.43607,28.39084",
+    "geom:latitude":28.39084,
+    "geom:longitude":-107.43607,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"San Pedro",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3985109,
+    "gn:latitude":28.39084,
+    "gn:longitude":-107.43607,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"San Pedro",
+    "gn:population":2,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho San Pedro",
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985109
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0f638e52124723084899ce13950d82d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075333,
+            "locality_id":1226440249,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1226440249,
+    "wof:lastmodified":1537667294,
+    "wof:name":"San Pedro",
+    "wof:parent_id":102075333,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.43607,
+    28.39084,
+    -107.43607,
+    28.39084
+],
+  "geometry": {"coordinates":[-107.43607,28.39084],"type":"Point"}
+}

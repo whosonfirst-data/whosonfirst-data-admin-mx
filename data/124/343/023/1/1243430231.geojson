@@ -1,0 +1,67 @@
+{
+  "id": 1243430231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.71667,22.5,-105.71667,22.5",
+    "geom:latitude":22.5,
+    "geom:longitude":-105.71667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"MX",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3984513,
+    "gn:latitude":22.5,
+    "gn:longitude":-105.71667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3984513
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"13355bd0e457751aac8351dc8bbe8f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074325,
+            "locality_id":1243430231,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1243430231,
+    "wof:lastmodified":1536827938,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":102074325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.71667,
+    22.5,
+    -105.71667,
+    22.5
+],
+  "geometry": {"coordinates":[-105.71666999999999,22.5],"type":"Point"}
+}

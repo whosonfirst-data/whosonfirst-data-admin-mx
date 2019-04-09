@@ -1,0 +1,74 @@
+{
+  "id": 1226727235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.40345,20.75498,-101.40345,20.75498",
+    "geom:latitude":20.75498,
+    "geom:longitude":-101.40345,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Guadalupe de Paso Blanco",
+    "gn:country_code":"MX",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4005394,
+    "gn:latitude":20.75498,
+    "gn:longitude":-101.40345,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Guadalupe de Paso Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Blanco de Guadalupe",
+        "Guadalupe de Paso",
+        "Paso Blanco",
+        "Guadalupe de Paso Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4005394
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9c9beed49c39e1aefa4ec48b4845e82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077341,
+            "locality_id":1226727235,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1226727235,
+    "wof:lastmodified":1537667834,
+    "wof:name":"Guadalupe de Paso Blanco",
+    "wof:parent_id":102077341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.40345,
+    20.75498,
+    -101.40345,
+    20.75498
+],
+  "geometry": {"coordinates":[-101.40345000000001,20.75498],"type":"Point"}
+}

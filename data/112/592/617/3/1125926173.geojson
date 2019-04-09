@@ -1,0 +1,91 @@
+{
+  "id": 1125926173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.07062,19.39784,-97.07062,19.39784",
+    "geom:latitude":19.39784,
+    "geom:longitude":-97.07062,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.39784,
+    "lbl:longitude":-97.07062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Monte Grande"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3523018,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Monte Grande",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":487595,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":133991,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3523018,
+        "gp:id":133991,
+        "qs_pg:id":487595
+    },
+    "wof:country":"MX",
+    "wof:created":1497296647,
+    "wof:geomhash":"c5ccf2be6618a26c4a005424179b6664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077553,
+            "locality_id":1125926173,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1125926173,
+    "wof:lastmodified":1509401100,
+    "wof:name":"Monte Grande",
+    "wof:parent_id":102077553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.07062,
+    19.39784,
+    -97.07062,
+    19.39784
+],
+  "geometry": {"coordinates":[-97.07062000000001,19.39784],"type":"Point"}
+}

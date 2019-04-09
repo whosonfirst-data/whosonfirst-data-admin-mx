@@ -1,0 +1,116 @@
+{
+  "id": 85885273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":773258.574993,
+    "geom:bbox":"-99.187965923,19.3266949097,-99.1790771484,19.3370617954",
+    "geom:latitude":19.332284,
+    "geom:longitude":-99.183908,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.332664,
+    "lbl:longitude":-99.185111,
+    "mps:latitude":19.332164,
+    "mps:longitude":-99.183116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Conds Para Empleados Federales"
+    ],
+    "name:unk_x_variant":[
+        "Conds Para Empleados Federales"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Conds Para Empleados Federales",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":199,
+    "qs:photo_sum":1174,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55920995,
+        "qs:id":1344311
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2f367cc48c4b823e60ad15dd23178830",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85885273,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85885273,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85885273,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270540,
+    "wof:name":"Conds Para Empleados Federales",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.18796592300973,
+    19.32669490966272,
+    -99.17907714841388,
+    19.33706179537802
+],
+  "geometry": {"coordinates":[[[-99.18731689451388,19.33706179537802],[-99.18457031249997,19.33706179423361],[-99.1818237304843,19.33706179466286],[-99.18182373048535,19.33515793932298],[-99.18117471599885,19.33447013550651],[-99.17907714841556,19.3344701350784],[-99.17907714841664,19.33187843395004],[-99.17907714841388,19.32928669329168],[-99.1818237304833,19.32928669215002],[-99.18392128346892,19.32928669300631],[-99.18457031249997,19.32859889248346],[-99.18457031249997,19.32669490966272],[-99.18731689451388,19.32669491037788],[-99.18731689451451,19.32859889247449],[-99.18796592300973,19.32928669300631],[-99.18755831599367,19.33058257245041],[-99.18780366075197,19.33136258668442],[-99.18743760644412,19.33252636917516],[-99.1876414026458,19.33317429468777],[-99.18743760725386,19.33382221955033],[-99.18780365409089,19.33498598776404],[-99.18731689451451,19.33550184349595],[-99.18731689451388,19.33706179537802]],[[-99.18663024900002,19.33317429630009],[-99.18663024900002,19.33252636980008],[-99.18594360349991,19.33252636980008],[-99.18594360349991,19.33317429630009],[-99.18663024900002,19.33317429630009]]],"type":"Polygon"}
+}

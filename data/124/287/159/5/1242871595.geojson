@@ -1,0 +1,68 @@
+{
+  "id": 1242871595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.5698,31.54883,-107.5698,31.54883",
+    "geom:latitude":31.54883,
+    "geom:longitude":-107.5698,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"MX",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3974627,
+    "gn:latitude":31.54883,
+    "gn:longitude":-107.5698,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3974627
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0a2e3640b18bf18cd24db5f0a5bf10be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075231,
+            "locality_id":1242871595,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1242871595,
+    "wof:lastmodified":1536639261,
+    "wof:name":"San Luis",
+    "wof:parent_id":102075231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.5698,
+    31.54883,
+    -107.5698,
+    31.54883
+],
+  "geometry": {"coordinates":[-107.5698,31.54883],"type":"Point"}
+}

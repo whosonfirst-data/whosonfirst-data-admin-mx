@@ -1,0 +1,75 @@
+{
+  "id": 1225799549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.96846,32.31734,-114.96846,32.31734",
+    "geom:latitude":32.31734,
+    "geom:longitude":-114.96846,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"55.0",
+    "gn:asciiname":"Colonia La Esperanza",
+    "gn:country_code":"MX",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4013420,
+    "gn:latitude":32.31734,
+    "gn:longitude":-114.96846,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Colonia La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia La Esperanza"
+    ],
+    "name:und_x_variant":[
+        "Colonia Esperanza",
+        "La Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4013420
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e80e99b9acf94e17e384e5464c8a0032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074497,
+            "locality_id":1225799549,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1225799549,
+    "wof:lastmodified":1537668071,
+    "wof:name":"Colonia La Esperanza",
+    "wof:parent_id":102074497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.96846,
+    32.31734,
+    -114.96846,
+    32.31734
+],
+  "geometry": {"coordinates":[-114.96845999999999,32.31734],"type":"Point"}
+}

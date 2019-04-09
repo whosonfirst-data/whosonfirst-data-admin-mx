@@ -1,0 +1,77 @@
+{
+  "id": 1209848741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.13582,20.85754,-90.13582,20.85754",
+    "geom:latitude":20.85754,
+    "geom:longitude":-90.13582,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"44.0",
+    "gn:asciiname":"San Francisco Kana",
+    "gn:country_code":"MX",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3526328,
+    "gn:latitude":20.85754,
+    "gn:longitude":-90.13582,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"San Francisco Kan\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Francisco Kana"
+    ],
+    "name:spa_x_variant":[
+        "San Francisco Kan\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Kan\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686701,
+        102079033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3526328
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c33b13deaa7871ced60bd5c0fab173f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079033,
+            "locality_id":1209848741,
+            "region_id":85686701
+        }
+    ],
+    "wof:id":1209848741,
+    "wof:lastmodified":1537666245,
+    "wof:name":"San Francisco Kana",
+    "wof:parent_id":102079033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.13582,
+    20.85754,
+    -90.13582,
+    20.85754
+],
+  "geometry": {"coordinates":[-90.13582,20.85754],"type":"Point"}
+}

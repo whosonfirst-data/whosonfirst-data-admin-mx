@@ -1,0 +1,82 @@
+{
+  "id": 1125898729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-113.146648,26.85501,-113.146648,26.85501",
+    "geom:latitude":26.85501,
+    "geom:longitude":-113.146648,
+    "gn:gn_country":"MX",
+    "iso:country":"MX",
+    "lbl:latitude":26.85501,
+    "lbl:longitude":-113.146648,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:name":"Laguna de San Ignacios",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California Sur",
+    "qs_pg:photos":574,
+    "qs_pg:photos_1k":116,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":574,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1120218,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":129805,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California Sur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":129805,
+        "qs_pg:id":1120218
+    },
+    "wof:country":"MX",
+    "wof:created":1497295713,
+    "wof:geomhash":"c41b0d4f66eceb3b8b2c50e73c052762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074521,
+            "locality_id":1125898729,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1125898729,
+    "wof:lastmodified":1509399275,
+    "wof:name":"Laguna de San Ignacios",
+    "wof:parent_id":102074521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.146648,
+    26.85501,
+    -113.146648,
+    26.85501
+],
+  "geometry": {"coordinates":[-113.146648,26.85501],"type":"Point"}
+}

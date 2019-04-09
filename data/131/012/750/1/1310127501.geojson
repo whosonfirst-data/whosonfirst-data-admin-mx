@@ -1,0 +1,76 @@
+{
+  "id": 1310127501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.20806,28.03944,-106.20806,28.03944",
+    "geom:latitude":28.03944,
+    "geom:longitude":-106.20806,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"San Antonio de los Chacon",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987683,
+    "gn:latitude":28.03944,
+    "gn:longitude":-106.20806,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Antonio de los Chac\u00f3n",
+    "gn:population":124,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio",
+        "San Antonio de Chacones"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987683
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b79674d0dfaf8575f837b00345cf3a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075359,
+            "locality_id":1310127501,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1310127501,
+    "wof:lastmodified":1537667361,
+    "wof:name":"San Antonio de los Chacon",
+    "wof:parent_id":102075359,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.20806,
+    28.03944000000001,
+    -106.20806,
+    28.03944000000001
+],
+  "geometry": {"coordinates":[-106.20806,28.03944000000001],"type":"Point"}
+}

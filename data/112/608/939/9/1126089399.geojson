@@ -1,0 +1,88 @@
+{
+  "id": 1126089399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.48206,22.08691,-101.48206,22.08691",
+    "geom:latitude":22.08691,
+    "geom:longitude":-101.48206,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":22.08691,
+    "lbl:longitude":-101.48206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Estrella"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4002413,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fracc Estrella",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Aguascalientes",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":355456,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55894839,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Aguascalientes",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102075409,
+        85686567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4002413,
+        "gp:id":55894839,
+        "qs_pg:id":355456
+    },
+    "wof:country":"MX",
+    "wof:created":1497313431,
+    "wof:geomhash":"0de43eba8be7201572bb748b4624eccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075409,
+            "locality_id":-1,
+            "neighbourhood_id":1126089399,
+            "region_id":85686567
+        }
+    ],
+    "wof:id":1126089399,
+    "wof:lastmodified":1509411569,
+    "wof:name":"Fracc Estrella",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.48206,
+    22.08691,
+    -101.48206,
+    22.08691
+],
+  "geometry": {"coordinates":[-101.48206,22.08691],"type":"Point"}
+}

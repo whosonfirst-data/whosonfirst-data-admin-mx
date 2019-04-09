@@ -1,0 +1,81 @@
+{
+  "id": 1125777207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.06125,20.52192,-101.06125,20.52192",
+    "geom:latitude":20.52192,
+    "geom:longitude":-101.06125,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5091,
+    "gn:population":5091,
+    "iso:country":"MX",
+    "lbl:latitude":20.52192,
+    "lbl:longitude":-101.06125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sarabia"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4024263,
+    "qs_pg:gn_pop":5091,
+    "qs_pg:name":"C. Militar Sarabia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1047675,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4024263,
+        "qs_pg:id":1047675
+    },
+    "wof:country":"MX",
+    "wof:created":1497290316,
+    "wof:geomhash":"84a0755a974fe007050e480ebf05c8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077335,
+            "locality_id":1125777207,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1125777207,
+    "wof:lastmodified":1509391356,
+    "wof:name":"C. Militar Sarabia",
+    "wof:parent_id":102077335,
+    "wof:placetype":"locality",
+    "wof:population":5091,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.06125,
+    20.52192,
+    -101.06125,
+    20.52192
+],
+  "geometry": {"coordinates":[-101.06125,20.52192],"type":"Point"}
+}

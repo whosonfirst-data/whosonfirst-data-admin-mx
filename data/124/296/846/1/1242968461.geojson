@@ -1,0 +1,76 @@
+{
+  "id": 1242968461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.3225,26.87722,-106.3225,26.87722",
+    "geom:latitude":26.87722,
+    "geom:longitude":-106.3225,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"San Juan de Atotonilco",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3985904,
+    "gn:latitude":26.87722,
+    "gn:longitude":-106.3225,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"San Juan de Atotonilco",
+    "gn:population":182,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan",
+        "San Juan de Atotonilco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985904
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"82e7c5c016a4dab31af08a43c8404925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075303,
+            "locality_id":1242968461,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1242968461,
+    "wof:lastmodified":1537667313,
+    "wof:name":"San Juan de Atotonilco",
+    "wof:parent_id":102075303,
+    "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.3225,
+    26.87722,
+    -106.3225,
+    26.87722
+],
+  "geometry": {"coordinates":[-106.32250000000001,26.87722],"type":"Point"}
+}

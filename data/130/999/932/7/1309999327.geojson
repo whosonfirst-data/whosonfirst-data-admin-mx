@@ -1,0 +1,76 @@
+{
+  "id": 1309999327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.89334,24.70699,-100.89334,24.70699",
+    "geom:latitude":24.70699,
+    "geom:longitude":-100.89334,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"San Juan Nepomuceno (San Juan de los Perros)",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3985992,
+    "gn:latitude":24.70699,
+    "gn:longitude":-100.89334,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Juan Nepomuceno (San Juan de los Perros)",
+    "gn:population":1,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Rancho San Juan",
+        "San Juan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985992
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3d9184a3de6c5f91a84f48579325a9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078811,
+            "locality_id":1309999327,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1309999327,
+    "wof:lastmodified":1537667315,
+    "wof:name":"San Juan Nepomuceno (San Juan de los Perros)",
+    "wof:parent_id":102078811,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.89334,
+    24.70699,
+    -100.89334,
+    24.70699
+],
+  "geometry": {"coordinates":[-100.89333999999999,24.70699],"type":"Point"}
+}

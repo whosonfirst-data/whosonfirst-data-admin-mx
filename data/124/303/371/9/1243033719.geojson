@@ -1,0 +1,74 @@
+{
+  "id": 1243033719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.15028,21.61083,-105.15028,21.61083",
+    "geom:latitude":21.61083,
+    "geom:longitude":-105.15028,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"San Agustin",
+    "gn:country_code":"MX",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8942492,
+    "gn:latitude":21.61083,
+    "gn:longitude":-105.15028,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"San Agust\u00edn",
+    "gn:population":5,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Agust\u00edn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8942492
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d9f8b1d4052fd072aa5c663115abe944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074591,
+            "locality_id":1243033719,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1243033719,
+    "wof:lastmodified":1537671311,
+    "wof:name":"San Agustin",
+    "wof:parent_id":102074591,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.15028,
+    21.61083,
+    -105.15028,
+    21.61083
+],
+  "geometry": {"coordinates":[-105.15028,21.61083],"type":"Point"}
+}

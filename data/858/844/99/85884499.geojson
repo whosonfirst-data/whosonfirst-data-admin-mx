@@ -1,0 +1,116 @@
+{
+  "id": 85884499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":756850.39445,
+    "geom:bbox":"-99.1159057617,19.4847210655,-99.1076660156,19.4961543311",
+    "geom:latitude":19.49055,
+    "geom:longitude":-99.111619,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.489878,
+    "lbl:longitude":-99.111726,
+    "mps:latitude":19.490852,
+    "mps:longitude":-99.111285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Triunfo de la Republica"
+    ],
+    "name:unk_x_variant":[
+        "Triunfo de la Republica"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Triunfo de la Republica",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Gustavo A. Madero",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":16,
+    "qs:photo_sum":24,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599940,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991167,
+        890535763,
+        102073745,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55904101,
+        "qs:id":1342706
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"321797077e5757aab547e371c213f8c7",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073745,
+            "locality_id":101991167,
+            "neighbourhood_id":85884499,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884499,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884499,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957720,
+    "wof:name":"Triunfo de la Republica",
+    "wof:parent_id":890535763,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.11590576172495,
+    19.48472106545178,
+    -99.10766601561232,
+    19.49615433114002
+],
+  "geometry": {"coordinates":[[[-99.10766601561232,19.48730751860006],[-99.10766601562494,19.48730747717515],[-99.11121385858462,19.48730747717515],[-99.11267683795711,19.48472106545178],[-99.11315917969992,19.48482339419148],[-99.11347408869614,19.48489020209514],[-99.11404614096631,19.48549701053747],[-99.11420825071781,19.48601289080017],[-99.11453247069994,19.48601289080007],[-99.11453247069994,19.48730751860006],[-99.11590576169999,19.48730751860006],[-99.11590576170772,19.48833927725981],[-99.11590576171375,19.48989673735022],[-99.11590576171463,19.49248592620003],[-99.11590576172495,19.4928903912287],[-99.11315917969992,19.49386158992404],[-99.11121388648337,19.49454945076947],[-99.1097009894367,19.49615433114002],[-99.10766601562494,19.49507496432543],[-99.1076660156132,19.49248592620003],[-99.10766601561232,19.48730751860006]]],"type":"Polygon"}
+}

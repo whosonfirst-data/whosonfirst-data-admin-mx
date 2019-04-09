@@ -1,0 +1,65 @@
+{
+  "id": 1209498177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.52667,20.53611,-103.52667,20.53611",
+    "geom:latitude":20.53611,
+    "geom:longitude":-103.52667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"97",
+    "gn:asciiname":"Los Ocotes",
+    "gn:country_code":"MX",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8893552,
+    "gn:latitude":20.53611,
+    "gn:longitude":-103.52667,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Los Ocotes",
+    "gn:population":41,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8893552
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4fe456e25330ddd2bee31d0ca8eae725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209498177
+        }
+    ],
+    "wof:id":1209498177,
+    "wof:lastmodified":1536285269,
+    "wof:name":"Los Ocotes",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.52667,
+    20.53611,
+    -103.52667,
+    20.53611
+],
+  "geometry": {"coordinates":[-103.52667,20.53611],"type":"Point"}
+}

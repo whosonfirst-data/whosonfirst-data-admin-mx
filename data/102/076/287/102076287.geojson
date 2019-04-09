@@ -1,0 +1,114 @@
+{
+  "id": 102076287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002111,
+    "geom:area_square_m":24915380.14348,
+    "geom:bbox":"-97.2515620257,17.3644769801,-97.1992781311,17.4201612285",
+    "geom:latitude":17.390439,
+    "geom:longitude":-97.224915,
+    "iso:country":"MX",
+    "lbl:latitude":17.391189,
+    "lbl:longitude":-97.225413,
+    "mps:latitude":17.391189,
+    "mps:longitude":-97.225413,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "Magdalena Zahuatl\u00e1n"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a2":"Magdalena Zahuatl\u00c3\u00a1n",
+    "qs:a2_lc":"20054",
+    "qs:adm0":"Mexico",
+    "qs:adm0_a3":"MEX",
+    "qs:level":"adm2",
+    "qs:source":"Mexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-10-17",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2005-10-17",
+    "statoids:capital":"Magdalena Zahuatl\u00e1n",
+    "statoids:country":"MX",
+    "statoids:hasc":"MX.OA",
+    "statoids:inegi":"20054",
+    "statoids:name":"Magdalena Zahuatl\u00e1n",
+    "statoids:population":"422",
+    "statoids:statoid":"MX.OA.CH",
+    "statoids:timezone":"-6~",
+    "statoids:type":"municipality",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MX.OA.CH",
+        "inegi:id":"20054",
+        "wd:id":"Q3891472"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"742918b4ef96d53b4222eb571052918b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076287,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":102076287,
+    "wof:lastmodified":1553815898,
+    "wof:name":"Magdalena Zahuatl\u00e1n",
+    "wof:parent_id":85686623,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":422,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:shortcode":"CH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.2515620256515,
+    17.36447698007892,
+    -97.19927813107739,
+    17.42016122854057
+],
+  "geometry": {"coordinates":[[[-97.20665857085298,17.40295745190646],[-97.20406587981023,17.39938607485661],[-97.20489228534105,17.39399162347038],[-97.20472156218118,17.3936958008097],[-97.2043027496874,17.39295223068531],[-97.2023821373043,17.38956598288473],[-97.20060922433977,17.3815986880304],[-97.20056014355698,17.38138895701985],[-97.19927813107739,17.37563499364431],[-97.20910130389463,17.36616289898937],[-97.21591013236664,17.36569353055294],[-97.24316686576303,17.36447698007892],[-97.24345014494656,17.36671888715347],[-97.24441225729375,17.37433267071392],[-97.24540910707583,17.38534720399826],[-97.24705762985707,17.38610285372149],[-97.2494980423962,17.39320116529133],[-97.24659836088767,17.39686671930381],[-97.25156202565149,17.40552943500546],[-97.25004215869839,17.405811934036],[-97.24968877774668,17.40549628819243],[-97.24936197540362,17.4052043856232],[-97.24817079091919,17.4041403924803],[-97.24725664269887,17.40498194140917],[-97.24611682678506,17.40591513932903],[-97.2460649969084,17.40595756619147],[-97.24520608798318,17.40666076709853],[-97.244049793866,17.4076074223792],[-97.24364848667125,17.40793596734639],[-97.24249279121295,17.40893544034336],[-97.24244109843988,17.40898015387332],[-97.24139802956157,17.40988221352002],[-97.24071621515401,17.41037885286929],[-97.2400685194263,17.4108484665495],[-97.23998165640218,17.41091159999339],[-97.23859848609285,17.41191196559754],[-97.23777590648821,17.41250639865217],[-97.2367092752125,17.41328979132265],[-97.23295744993774,17.41607766545966],[-97.23066009637259,17.41730111479323],[-97.22984968368114,17.41773268653095],[-97.22824653432471,17.41858640103211],[-97.2270489211318,17.41922414465374],[-97.22528913611094,17.42016122854057],[-97.21190114142729,17.41935075438575],[-97.21200318558729,17.41689590126057],[-97.21058991640346,17.41349230910508],[-97.20870333878331,17.40535571322354],[-97.20665857085298,17.40295745190646]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360005971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.588,28.05704,-100.588,28.05704",
+    "geom:latitude":28.05704,
+    "geom:longitude":-100.588,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"37.0",
+    "gn:asciiname":"San Diego",
+    "gn:country_code":"MX",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987335,
+    "gn:latitude":28.05704,
+    "gn:longitude":-100.588,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Diego",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho San Diego",
+        "San Diego"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987335
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"68a65110ab1584d0e477ed89ea77aab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078797,
+            "locality_id":1360005971,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1360005971,
+    "wof:lastmodified":1537667352,
+    "wof:name":"San Diego",
+    "wof:parent_id":102078797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.588,
+    28.05704,
+    -100.588,
+    28.05704
+],
+  "geometry": {"coordinates":[-100.58799999999999,28.05704],"type":"Point"}
+}

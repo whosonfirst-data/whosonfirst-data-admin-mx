@@ -1,0 +1,65 @@
+{
+  "id": 1209188843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.49144,25.531,-100.49144,25.531",
+    "geom:latitude":25.531,
+    "geom:longitude":-100.49144,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Placeta",
+    "gn:country_code":"MX",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8779062,
+    "gn:latitude":25.531,
+    "gn:longitude":-100.49144,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Placeta",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Placeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8779062
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2c0cad88172da4a13245b899f9cbb315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209188843
+        }
+    ],
+    "wof:id":1209188843,
+    "wof:lastmodified":1537669186,
+    "wof:name":"Placeta",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.49144,
+    25.531,
+    -100.49144,
+    25.531
+],
+  "geometry": {"coordinates":[-100.49144,25.531],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126065083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.964672,19.224205,-98.964672,19.224205",
+    "geom:latitude":19.224205,
+    "geom:longitude":-98.964672,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":19.224205,
+    "lbl:longitude":-98.964672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Barrio San Miguel Mixquic",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":962300,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903935,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102073757,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55903935,
+        "qs_pg:id":962300
+    },
+    "wof:country":"MX",
+    "wof:created":1497308743,
+    "wof:geomhash":"5d591bd419e37aaf9a8d5f9ed85103eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073757,
+            "locality_id":-1,
+            "neighbourhood_id":1126065083,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":1126065083,
+    "wof:lastmodified":1509410383,
+    "wof:name":"Barrio San Miguel Mixquic",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.964672,
+    19.224205,
+    -98.964672,
+    19.224205
+],
+  "geometry": {"coordinates":[-98.96467199999999,19.224205],"type":"Point"}
+}

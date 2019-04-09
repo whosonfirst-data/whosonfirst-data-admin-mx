@@ -1,0 +1,74 @@
+{
+  "id": 1260100447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.25864,25.32024,-103.25864,25.32024",
+    "geom:latitude":25.32024,
+    "geom:longitude":-103.25864,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"MX",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986427,
+    "gn:latitude":25.32024,
+    "gn:longitude":-103.25864,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Jose",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jose"
+    ],
+    "name:und_x_variant":[
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986427
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4118dcad6b5a5188ba67ea84cae26877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078799,
+            "locality_id":1260100447,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1260100447,
+    "wof:lastmodified":1537667329,
+    "wof:name":"San Jose",
+    "wof:parent_id":102078799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.25864,
+    25.32024,
+    -103.25864,
+    25.32024
+],
+  "geometry": {"coordinates":[-103.25864,25.32024],"type":"Point"}
+}

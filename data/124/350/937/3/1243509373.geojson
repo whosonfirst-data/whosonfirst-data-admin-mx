@@ -1,0 +1,74 @@
+{
+  "id": 1243509373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.50773,23.38108,-106.50773,23.38108",
+    "geom:latitude":23.38108,
+    "geom:longitude":-106.50773,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"San Jose (Chuchupiras)",
+    "gn:country_code":"MX",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8912718,
+    "gn:latitude":23.38108,
+    "gn:longitude":-106.50773,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Jos\u00e9 (Chuchupiras)",
+    "gn:population":14,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 (Chuchupiras)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8912718
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b6cf9e09e3a4137e3f5d67f52f161134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074303,
+            "locality_id":1243509373,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1243509373,
+    "wof:lastmodified":1537670585,
+    "wof:name":"San Jose (Chuchupiras)",
+    "wof:parent_id":102074303,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.50773,
+    23.38108,
+    -106.50773,
+    23.38108
+],
+  "geometry": {"coordinates":[-106.50773,23.38108],"type":"Point"}
+}

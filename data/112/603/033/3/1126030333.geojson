@@ -1,0 +1,78 @@
+{
+  "id": 1126030333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.52507,25.96045,-103.52507,25.96045",
+    "geom:latitude":25.96045,
+    "geom:longitude":-103.52507,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7,
+    "gn:population":7,
+    "iso:country":"MX",
+    "lbl:latitude":25.96045,
+    "lbl:longitude":-103.52507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6619271,
+    "qs_pg:gn_pop":7,
+    "qs_pg:name":"LA GIRALDA",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":643214,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6619271,
+        "qs_pg:id":643214
+    },
+    "wof:country":"MX",
+    "wof:created":1497301427,
+    "wof:geomhash":"ccde4227caa2cc3efbdfd5e9664bfb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075497,
+            "locality_id":1126030333,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1126030333,
+    "wof:lastmodified":1509407873,
+    "wof:name":"LA GIRALDA",
+    "wof:parent_id":102075497,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.52507,
+    25.96045,
+    -103.52507,
+    25.96045
+],
+  "geometry": {"coordinates":[-103.52507,25.96045],"type":"Point"}
+}

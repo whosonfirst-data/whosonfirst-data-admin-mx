@@ -1,0 +1,71 @@
+{
+  "id": 1209783437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.52927,25.6625,-108.52927,25.6625",
+    "geom:latitude":25.6625,
+    "geom:longitude":-108.52927,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"MX",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9024896,
+    "gn:latitude":25.6625,
+    "gn:longitude":-108.52927,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Buenos Aires"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9024896
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"066a5847d98dee6e299627433c2db8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074321,
+            "locality_id":1209783437,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1209783437,
+    "wof:lastmodified":1537671607,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":102074321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.52927,
+    25.6625,
+    -108.52927,
+    25.6625
+],
+  "geometry": {"coordinates":[-108.52927,25.6625],"type":"Point"}
+}

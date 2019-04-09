@@ -1,0 +1,68 @@
+{
+  "id": 1243029277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.4,23.83333,-99.4,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":-99.4,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Mesa",
+    "gn:country_code":"MX",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3523342,
+    "gn:latitude":23.83333,
+    "gn:longitude":-99.4,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Mesa",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3523342
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0acdb4066e477eb76f0382e2d02b2b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078957,
+            "locality_id":1243029277,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1243029277,
+    "wof:lastmodified":1536910343,
+    "wof:name":"Mesa",
+    "wof:parent_id":102078957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.4,
+    23.83333,
+    -99.4,
+    23.83333
+],
+  "geometry": {"coordinates":[-99.40000000000001,23.83333],"type":"Point"}
+}

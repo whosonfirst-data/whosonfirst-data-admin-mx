@@ -1,0 +1,65 @@
+{
+  "id": 1209513133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.24216,27.74186,-108.24216,27.74186",
+    "geom:latitude":27.74186,
+    "geom:longitude":-108.24216,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"El Barro",
+    "gn:country_code":"MX",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8890622,
+    "gn:latitude":27.74186,
+    "gn:longitude":-108.24216,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Barro",
+    "gn:population":50,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8890622
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"bb074c6773fa3e5fc5ab299c4120062f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209513133
+        }
+    ],
+    "wof:id":1209513133,
+    "wof:lastmodified":1536284818,
+    "wof:name":"El Barro",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.24216,
+    27.74186,
+    -108.24216,
+    27.74186
+],
+  "geometry": {"coordinates":[-108.24216,27.74186],"type":"Point"}
+}

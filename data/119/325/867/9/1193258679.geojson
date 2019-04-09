@@ -1,0 +1,74 @@
+{
+  "id": 1193258679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.18639,20.35417,-101.18639,20.35417",
+    "geom:latitude":20.35417,
+    "geom:longitude":-101.18639,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Jose Luis Martinez (El Huesario)",
+    "gn:country_code":"MX",
+    "gn:dem":1823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8913583,
+    "gn:latitude":20.35417,
+    "gn:longitude":-101.18639,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Jos\u00e9 Luis Mart\u00ednez (El Huesario)",
+    "gn:population":13,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jos\u00e9 Luis Mart\u00ednez (El Huesario)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8913583
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6b637bc6f0b83418c8dbec9e6d623285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077319,
+            "locality_id":1193258679,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1193258679,
+    "wof:lastmodified":1537670606,
+    "wof:name":"Jose Luis Martinez (El Huesario)",
+    "wof:parent_id":102077319,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.18639,
+    20.35417,
+    -101.18639,
+    20.35417
+],
+  "geometry": {"coordinates":[-101.18639,20.35417],"type":"Point"}
+}

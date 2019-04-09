@@ -1,0 +1,76 @@
+{
+  "id": 1293581247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.80985,26.85821,-105.80985,26.85821",
+    "geom:latitude":26.85821,
+    "geom:longitude":-105.80985,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"Santiago",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3983668,
+    "gn:latitude":26.85821,
+    "gn:longitude":-105.80985,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Santiago",
+    "gn:population":11,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Santiago",
+        "Santiago"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3983668
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"db8fd7008345d543c12280ecd222ae02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075357,
+            "locality_id":1293581247,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293581247,
+    "wof:lastmodified":1537667259,
+    "wof:name":"Santiago",
+    "wof:parent_id":102075357,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.80985,
+    26.85821,
+    -105.80985,
+    26.85821
+],
+  "geometry": {"coordinates":[-105.80985,26.85821],"type":"Point"}
+}

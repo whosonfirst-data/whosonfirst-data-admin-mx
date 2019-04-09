@@ -1,0 +1,76 @@
+{
+  "id": 1226015315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.17889,20.18583,-104.17889,20.18583",
+    "geom:latitude":20.18583,
+    "geom:longitude":-104.17889,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"90.0",
+    "gn:asciiname":"El Desaguadero",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4010039,
+    "gn:latitude":20.18583,
+    "gn:longitude":-104.17889,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"El Desaguadero",
+    "gn:population":4,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Desaguadero",
+        "El Desaguadero"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4010039
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"379ed16172fb059d112bc7e9c346b5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074797,
+            "locality_id":1226015315,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1226015315,
+    "wof:lastmodified":1537667980,
+    "wof:name":"El Desaguadero",
+    "wof:parent_id":102074797,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.17889,
+    20.18583,
+    -104.17889,
+    20.18583
+],
+  "geometry": {"coordinates":[-104.17889,20.18583],"type":"Point"}
+}

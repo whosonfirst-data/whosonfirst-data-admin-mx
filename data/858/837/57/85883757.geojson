@@ -1,0 +1,127 @@
+{
+  "id": 85883757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000223,
+    "geom:area_square_m":2600704.048002,
+    "geom:bbox":"-99.1680908203,19.3552022595,-99.1461181641,19.3707496245",
+    "geom:latitude":19.363082,
+    "geom:longitude":-99.155596,
+    "gn:population":1548,
+    "iso:country":"MX",
+    "lbl:latitude":19.360311,
+    "lbl:longitude":-99.157027,
+    "mps:latitude":19.363016,
+    "mps:longitude":-99.155596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Gral Pedro Maria Anaya"
+    ],
+    "name:spa_x_variant":[
+        "General Pedro Mar\u00eda Apaya"
+    ],
+    "name:unk_x_variant":[
+        "Gral Pedro Maria Anaya"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"General Pedro Mar\u00eda Apaya",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Gral Pedro Maria Anaya",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Benito Juarez",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":519,
+    "qs:photo_sum":895,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599936,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991153,
+        890535769,
+        102073737,
+        85686515,
+        857683023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814120,
+        "gp:id":55898117,
+        "qs:id":1119076,
+        "qs_pg:id":1119076,
+        "wd:id":"Q20140952"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d1607bb1c35e7f32193f2e1049505a1b",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":101991153,
+            "neighbourhood_id":85883757,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883757,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883757,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1505342842,
+    "wof:name":"Gral Pedro Maria Anaya",
+    "wof:parent_id":890535769,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1548,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.16809082029997,
+    19.35520225946277,
+    -99.14611816408112,
+    19.37074962446424
+],
+  "geometry": {"coordinates":[[[-99.15112838487136,19.37074961987545],[-99.15031357913239,19.36815850570007],[-99.14611816409015,19.36815850570007],[-99.14611816408183,19.36815846452518],[-99.14611816408325,19.36297613330005],[-99.14611816408325,19.36297609212542],[-99.14611816408112,19.3591691932548],[-99.14611816409283,19.35779359620004],[-99.15161132811454,19.35779359020644],[-99.15161132811383,19.35520226017802],[-99.15435791018422,19.35520225946277],[-99.15435791018422,19.35779358977834],[-99.15645556508804,19.35779359020644],[-99.15710449220001,19.35779359620004],[-99.15985107419996,19.35779359620004],[-99.16259765619992,19.35779359620004],[-99.16324657848233,19.35779359320324],[-99.16534423828605,19.35779359049181],[-99.16534423828429,19.36038487894709],[-99.16809082029997,19.36038487966411],[-99.16809082029997,19.3622883185746],[-99.16809082029997,19.36297613330005],[-99.16744191748191,19.36297612645015],[-99.16534423828429,19.36297612687825],[-99.16534423828429,19.3655673336626],[-99.16259765621555,19.3655673336626],[-99.16259765621245,19.36815850056257],[-99.15985107419996,19.36815849885008],[-99.15710449220001,19.36815849970637],[-99.15710449220001,19.3707496237472],[-99.15435791018601,19.37074962446424],[-99.15161132809996,19.3707496228553],[-99.15112838487136,19.37074961987545]]],"type":"Polygon"}
+}

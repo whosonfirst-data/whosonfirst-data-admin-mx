@@ -1,0 +1,116 @@
+{
+  "id": 85884035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":702122.825447,
+    "geom:bbox":"-99.1845703125,19.3648795247,-99.1735839844,19.3733407134",
+    "geom:latitude":19.369376,
+    "geom:longitude":-99.179272,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.369523,
+    "lbl:longitude":-99.179348,
+    "mps:latitude":19.369477,
+    "mps:longitude":-99.179376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Actipan"
+    ],
+    "name:unk_x_variant":[
+        "Actipan"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"Actopan",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Actipan",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Benito Juarez",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":46,
+    "qs:photo_sum":249,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599936,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535769,
+        102073737,
+        85686515,
+        101991153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899498,
+        "qs:id":230844
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ea62bda20f996c0fe629be4e3ce1f62f",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884035,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":101991153,
+            "neighbourhood_id":85884035,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884035,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1507659910,
+    "wof:name":"Actipan",
+    "wof:parent_id":890535769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.18457031249997,
+    19.36487952469645,
+    -99.1735839843833,
+    19.37334071340008
+],
+  "geometry": {"coordinates":[[[-99.18182373050001,19.37334071340008],[-99.18117486166631,19.37334070653367],[-99.17907714841664,19.37334070653367],[-99.17633056639997,19.37334070767808],[-99.17633056639997,19.3707496237472],[-99.17423285728626,19.3707496258982],[-99.17358398440001,19.37074963020009],[-99.1735839843833,19.37006181347394],[-99.17358398438429,19.36815849927827],[-99.17568167812647,19.36815849970637],[-99.17608909962877,19.36686292550031],[-99.17633056639997,19.36686292652172],[-99.17770385739982,19.36686292647526],[-99.17770385739982,19.36556734010001],[-99.17770385739982,19.36536473895953],[-99.17907714841664,19.36487952471421],[-99.18045043947484,19.36536473896805],[-99.18182373047495,19.36487952469645],[-99.18247262360859,19.36556732980009],[-99.18206519727084,19.36686292550031],[-99.18247261635003,19.36815850141886],[-99.18457031249997,19.36815849927827],[-99.18457031249997,19.37006181350014],[-99.18457031249997,19.37074963020009],[-99.1835214581327,19.37074963020009],[-99.18331749272369,19.3713982468832],[-99.18319702150004,19.37142378699706],[-99.18285369872484,19.37149657203648],[-99.18251037599984,19.37142378698657],[-99.18182373050001,19.37186049723401],[-99.18182373050001,19.37334071340008]]],"type":"Polygon"}
+}

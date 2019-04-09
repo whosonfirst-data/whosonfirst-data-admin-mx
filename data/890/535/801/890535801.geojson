@@ -1,0 +1,78 @@
+{
+  "id": 890535801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4208673.877771,
+    "geom:bbox":"-99.005059,19.195219,-99.005059,19.195219",
+    "geom:latitude":19.195219,
+    "geom:longitude":-99.005059,
+    "iso:country":"MX",
+    "lbl:latitude":19.195219,
+    "lbl:longitude":-99.005059,
+    "mps:latitude":19.195219,
+    "mps:longitude":-99.005059,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "qs:a0":"Mexico",
+    "qs:a1":"*Distrito Federal",
+    "qs:a1_lc":"09",
+    "qs:a1r":"*",
+    "qs:a2":"Milpa Alta",
+    "qs:a2_lc":"09009",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Francisco Tecoxpa",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102073763,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899176
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e927d716fc8ab62b844d2de58b8c0b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073763,
+            "locality_id":-1,
+            "neighbourhood_id":890535801,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":890535801,
+    "wof:lastmodified":1531939960,
+    "wof:name":"San Francisco Tecoxpa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101991145
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.005059,
+    19.195219,
+    -99.005059,
+    19.195219
+],
+  "geometry": {"coordinates":[-99.005059,19.195219],"type":"Point"}
+}

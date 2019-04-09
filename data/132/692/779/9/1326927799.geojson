@@ -1,0 +1,74 @@
+{
+  "id": 1326927799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.88736,29.76545,-107.88736,29.76545",
+    "geom:latitude":29.76545,
+    "geom:longitude":-107.88736,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"San Jose de Ermita",
+    "gn:country_code":"MX",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3974647,
+    "gn:latitude":29.76545,
+    "gn:longitude":-107.88736,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Jos\u00e9 de Ermita",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Ermita"
+    ],
+    "name:und_x_variant":[
+        "San Jos\u00e9 de la Ermita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3974647
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b13750faf39ed8193324c6f672a296e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075337,
+            "locality_id":1326927799,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1326927799,
+    "wof:lastmodified":1537667021,
+    "wof:name":"San Jose de Ermita",
+    "wof:parent_id":102075337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.88736000000002,
+    29.76545,
+    -107.88736000000002,
+    29.76545
+],
+  "geometry": {"coordinates":[-107.88736000000002,29.76545],"type":"Point"}
+}

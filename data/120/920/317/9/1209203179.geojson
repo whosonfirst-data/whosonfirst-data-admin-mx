@@ -1,0 +1,65 @@
+{
+  "id": 1209203179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.40333,26.02639,-103.40333,26.02639",
+    "geom:latitude":26.02639,
+    "geom:longitude":-103.40333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"San Miguel del Real",
+    "gn:country_code":"MX",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8873345,
+    "gn:latitude":26.02639,
+    "gn:longitude":-103.40333,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Miguel del Real",
+    "gn:population":180,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8873345
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"15a8bf210cdff91f7b9a3151bbf686a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209203179
+        }
+    ],
+    "wof:id":1209203179,
+    "wof:lastmodified":1536294540,
+    "wof:name":"San Miguel del Real",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.40333,
+    26.02639,
+    -103.40333,
+    26.02639
+],
+  "geometry": {"coordinates":[-103.40333,26.02639],"type":"Point"}
+}

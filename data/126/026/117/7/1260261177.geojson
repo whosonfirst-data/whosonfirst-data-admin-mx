@@ -1,0 +1,75 @@
+{
+  "id": 1260261177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.47985,26.15645,-103.47985,26.15645",
+    "geom:latitude":26.15645,
+    "geom:longitude":-103.47985,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Oquendo",
+    "gn:country_code":"MX",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3994159,
+    "gn:latitude":26.15645,
+    "gn:longitude":-103.47985,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Oquendo",
+    "gn:population":107,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ejido Oquendo",
+        "Oquendo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3994159
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ff7a025ac3381aee2431ee6ba90d42a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075497,
+            "locality_id":1260261177,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1260261177,
+    "wof:lastmodified":1537667515,
+    "wof:name":"Oquendo",
+    "wof:parent_id":102075497,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.47985,
+    26.15645,
+    -103.47985,
+    26.15645
+],
+  "geometry": {"coordinates":[-103.47985,26.15645],"type":"Point"}
+}

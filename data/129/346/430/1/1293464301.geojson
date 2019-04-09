@@ -1,0 +1,74 @@
+{
+  "id": 1293464301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.14361,25.97667,-100.14361,25.97667",
+    "geom:latitude":25.97667,
+    "geom:longitude":-100.14361,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Los Angeles (Santa Virginia)",
+    "gn:country_code":"MX",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8930652,
+    "gn:latitude":25.97667,
+    "gn:longitude":-100.14361,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Los \u00c1ngeles (Santa Virginia)",
+    "gn:population":7,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los \u00c1ngeles (Santa Virginia)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8930652
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ac486d3a24d089931f8bad7a1cd2db5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078703,
+            "locality_id":1293464301,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1293464301,
+    "wof:lastmodified":1537671021,
+    "wof:name":"Los Angeles (Santa Virginia)",
+    "wof:parent_id":102078703,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.14361,
+    25.97667,
+    -100.14361,
+    25.97667
+],
+  "geometry": {"coordinates":[-100.14361,25.97667],"type":"Point"}
+}

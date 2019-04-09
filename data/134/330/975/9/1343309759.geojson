@@ -1,0 +1,77 @@
+{
+  "id": 1343309759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.86684,30.55246,-109.86684,30.55246",
+    "geom:latitude":30.55246,
+    "geom:longitude":-109.86684,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Los Chinos",
+    "gn:country_code":"MX",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3997933,
+    "gn:latitude":30.55246,
+    "gn:longitude":-109.86684,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Los Chinos",
+    "gn:population":2,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Chinos"
+    ],
+    "name:und_x_variant":[
+        "Rancho Los Chinos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997933
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a1f276d0c638735d1550a54680e910d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074429,
+            "locality_id":1343309759,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1343309759,
+    "wof:lastmodified":1537667606,
+    "wof:name":"Los Chinos",
+    "wof:parent_id":102074429,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.86684,
+    30.55246,
+    -109.86684,
+    30.55246
+],
+  "geometry": {"coordinates":[-109.86684,30.55246],"type":"Point"}
+}

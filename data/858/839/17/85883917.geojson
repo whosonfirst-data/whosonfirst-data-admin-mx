@@ -1,0 +1,116 @@
+{
+  "id": 85883917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":405363.523819,
+    "geom:bbox":"-99.207191589,19.432236414,-99.1983032227,19.4393993998",
+    "geom:latitude":19.43584,
+    "geom:longitude":-99.202783,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.435857,
+    "lbl:longitude":-99.202467,
+    "mps:latitude":19.435868,
+    "mps:longitude":-99.202715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Los Morales Secc Palmas"
+    ],
+    "name:unk_x_variant":[
+        "Los Morales Secc Palmas"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Los Morales Secc Palmas",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":56,
+    "qs:photo_sum":158,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991171,
+        890535785,
+        102073749,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898796,
+        "qs:id":1080205
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8503a6be82759ba5957026770879881f",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073749,
+            "locality_id":101991171,
+            "neighbourhood_id":85883917,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883917,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883917,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957716,
+    "wof:name":"Los Morales Secc Palmas",
+    "wof:parent_id":890535785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.20719158896674,
+    19.43223641396699,
+    -99.19830322268606,
+    19.43939939978347
+],
+  "geometry": {"coordinates":[[[-99.20379638669976,19.43939939960637],[-99.20379638670519,19.43810439090005],[-99.20104980469998,19.43810439090005],[-99.20104980469998,19.43741655754721],[-99.20104980469998,19.4365460783861],[-99.20007685349699,19.43551433307735],[-99.19830322268606,19.43551433336414],[-99.19830322269272,19.43361206803391],[-99.19830322270002,19.4329242460001],[-99.19895186289409,19.43292424298882],[-99.20040116447728,19.43292423997744],[-99.20104980469998,19.43223641396699],[-99.20299575457784,19.4329242460001],[-99.20348220880379,19.43309619225786],[-99.20367223062155,19.43305589202609],[-99.20379638595131,19.43345086281568],[-99.20444501963362,19.43551433479811],[-99.20654296878431,19.4355143326472],[-99.20654296878536,19.4374165575385],[-99.20719158896674,19.43810438486284],[-99.20678452634758,19.43939939865015],[-99.20654296880002,19.4393993993861],[-99.20516967771374,19.43939939978347],[-99.20379638669976,19.43939939960637]]],"type":"Polygon"}
+}

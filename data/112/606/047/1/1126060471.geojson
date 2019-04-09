@@ -1,0 +1,82 @@
+{
+  "id": 1126060471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.653025,32.038866,-116.653025,32.038866",
+    "geom:latitude":32.038866,
+    "geom:longitude":-116.653025,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":32.038866,
+    "lbl:longitude":-116.653025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Valle de Guadalupe",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":601,
+    "qs_pg:photos_1k":122,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":601,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074512,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":150497,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":150497,
+        "qs_pg:id":1074512
+    },
+    "wof:country":"MX",
+    "wof:created":1497304159,
+    "wof:geomhash":"7443a17e8c78ee1efc686ad14c98300e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1126060471,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126060471,
+    "wof:lastmodified":1509410016,
+    "wof:name":"Valle de Guadalupe",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.653025,
+    32.038866,
+    -116.653025,
+    32.038866
+],
+  "geometry": {"coordinates":[-116.653025,32.038866],"type":"Point"}
+}

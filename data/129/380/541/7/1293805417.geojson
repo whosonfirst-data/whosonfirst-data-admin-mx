@@ -1,0 +1,74 @@
+{
+  "id": 1293805417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.35487,28.33104,-106.35487,28.33104",
+    "geom:latitude":28.33104,
+    "geom:longitude":-106.35487,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Boquilla del Rio",
+    "gn:country_code":"MX",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4003407,
+    "gn:latitude":28.33104,
+    "gn:longitude":-106.35487,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Boquilla del R\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boquilla del R\u00edo"
+    ],
+    "name:und_x_variant":[
+        "La Boquilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4003407
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9243ada2b0e640b3a1cf615ebb9b5e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075325,
+            "locality_id":1293805417,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293805417,
+    "wof:lastmodified":1537667785,
+    "wof:name":"Boquilla del Rio",
+    "wof:parent_id":102075325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.35487,
+    28.33104,
+    -106.35487,
+    28.33104
+],
+  "geometry": {"coordinates":[-106.35487000000001,28.33104],"type":"Point"}
+}

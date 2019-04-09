@@ -1,0 +1,75 @@
+{
+  "id": 1259732993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.1363,17.6438,-95.1363,17.6438",
+    "geom:latitude":17.6438,
+    "geom:longitude":-95.1363,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"142.0",
+    "gn:asciiname":"Ixtal",
+    "gn:country_code":"MX",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3526720,
+    "gn:latitude":17.6438,
+    "gn:longitude":-95.1363,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Ixtal",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixtal"
+    ],
+    "name:und_x_variant":[
+        "Ixcuatla",
+        "Ixcuautla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3526720
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7cc7f55d9c5e1d886a190d57b2eee4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077693,
+            "locality_id":1259732993,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1259732993,
+    "wof:lastmodified":1537666254,
+    "wof:name":"Ixtal",
+    "wof:parent_id":102077693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.1363,
+    17.6438,
+    -95.1363,
+    17.6438
+],
+  "geometry": {"coordinates":[-95.13630000000001,17.6438],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1126070083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.27939,19.94405,-99.27939,19.94405",
+    "geom:latitude":19.94405,
+    "geom:longitude":-99.27939,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.94405,
+    "lbl:longitude":-99.27939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Melchor Ocampo"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e9lchor Ocampo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3528165,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Salto",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Hidalgo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905310,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55918693,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Hidalgo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102000239,
+        102078623,
+        85686665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3528165,
+        "gp:id":55918693,
+        "qs_pg:id":905310
+    },
+    "wof:country":"MX",
+    "wof:created":1497309778,
+    "wof:geomhash":"af8d13272c0dc5d71c5dd3168c408a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078623,
+            "locality_id":102000239,
+            "neighbourhood_id":1126070083,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1126070083,
+    "wof:lastmodified":1509410629,
+    "wof:name":"El Salto",
+    "wof:parent_id":102000239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.27939,
+    19.94405,
+    -99.27939,
+    19.94405
+],
+  "geometry": {"coordinates":[-99.27939000000001,19.94405],"type":"Point"}
+}

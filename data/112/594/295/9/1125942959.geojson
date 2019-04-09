@@ -1,0 +1,91 @@
+{
+  "id": 1125942959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.50702,23.14521,-109.50702,23.14521",
+    "geom:latitude":23.14521,
+    "geom:longitude":-109.50702,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":23.14521,
+    "lbl:longitude":-109.50702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "La Fortuna"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4002349,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Fortuna",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California Sur",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1047589,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":127475,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California Sur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4002349,
+        "gp:id":127475,
+        "qs_pg:id":1047589
+    },
+    "wof:country":"MX",
+    "wof:created":1497297179,
+    "wof:geomhash":"02834af594a1d3779777c8a4856f3cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074525,
+            "locality_id":1125942959,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1125942959,
+    "wof:lastmodified":1509402182,
+    "wof:name":"La Fortuna",
+    "wof:parent_id":102074525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.50702,
+    23.14521,
+    -109.50702,
+    23.14521
+],
+  "geometry": {"coordinates":[-109.50702,23.14521],"type":"Point"}
+}

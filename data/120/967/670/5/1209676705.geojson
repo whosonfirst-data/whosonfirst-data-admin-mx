@@ -1,0 +1,68 @@
+{
+  "id": 1209676705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.10374,24.36146,-99.10374,24.36146",
+    "geom:latitude":24.36146,
+    "geom:longitude":-99.10374,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"MX",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3483157,
+    "gn:latitude":24.36146,
+    "gn:longitude":-99.10374,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"San Pablo",
+    "gn:population":13,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3483157
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d38bd7788d09e1b082acaa7db0d742cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209676705
+        }
+    ],
+    "wof:id":1209676705,
+    "wof:lastmodified":1537665857,
+    "wof:name":"San Pablo",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.10374,
+    24.36146,
+    -99.10374,
+    24.36146
+],
+  "geometry": {"coordinates":[-99.10374,24.36146],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 85883295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.270914,19.313271,-98.270914,19.313271",
+    "geom:latitude":19.313271,
+    "geom:longitude":-98.270914,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.313271,
+    "lbl:longitude":-98.270914,
+    "mps:latitude":19.315718,
+    "mps:longitude":-98.270254,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:spa_x_preferred":[
+        "Zapotla"
+    ],
+    "name:spa_x_variant":[
+        "Tilzapotla"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85686653,
+        102191575,
+        85633293,
+        101999093,
+        102077929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3515570,
+        "gp:id":55903707,
+        "qs:id":474864,
+        "qs_pg:id":858186
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9cd4eace9d97cf8aede78730b8830b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077929,
+            "locality_id":101999093,
+            "neighbourhood_id":85883295,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":85883295,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957712,
+    "wof:name":"Zapotla",
+    "wof:parent_id":101999093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.270914,
+    19.313271,
+    -98.270914,
+    19.313271
+],
+  "geometry": {"coordinates":[-98.270914,19.313271],"type":"Point"}
+}

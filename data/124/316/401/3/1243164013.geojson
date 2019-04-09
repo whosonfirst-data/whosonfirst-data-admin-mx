@@ -1,0 +1,76 @@
+{
+  "id": 1243164013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.96725,29.08458,-105.96725,29.08458",
+    "geom:latitude":29.08458,
+    "geom:longitude":-105.96725,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Los Pozos",
+    "gn:country_code":"MX",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3997267,
+    "gn:latitude":29.08458,
+    "gn:longitude":-105.96725,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Los Pozos",
+    "gn:population":3,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Pozos",
+        "Pozos",
+        "Los Pozos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997267
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fac1f8d068dcfc0f0ee56e8909e5d200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075269,
+            "locality_id":1243164013,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1243164013,
+    "wof:lastmodified":1537667582,
+    "wof:name":"Los Pozos",
+    "wof:parent_id":102075269,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.96725,
+    29.08458,
+    -105.96725,
+    29.08458
+],
+  "geometry": {"coordinates":[-105.96725000000001,29.08458],"type":"Point"}
+}

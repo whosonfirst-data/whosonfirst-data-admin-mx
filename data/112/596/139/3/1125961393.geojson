@@ -1,0 +1,91 @@
+{
+  "id": 1125961393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.35016,19.35985,-99.35016,19.35985",
+    "geom:latitude":19.35985,
+    "geom:longitude":-99.35016,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":124846,
+    "gn:population":124846,
+    "iso:country":"MX",
+    "lbl:latitude":19.35985,
+    "lbl:longitude":-99.35016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Huixquilucan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a4\u30b9\u30ad\u30eb\u30ab\u30f3\u30fb\u30c7\u30fb\u30c7\u30ac\u30b8\u30e3\u30c9"
+    ],
+    "name:spa_x_preferred":[
+        "Huixquilucan"
+    ],
+    "name:swe_x_preferred":[
+        "Huixquilucan"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3827414,
+    "qs_pg:gn_pop":124846,
+    "qs_pg:name":"Huixquilucan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":353369,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827414,
+        "qs_pg:id":353369,
+        "wd:id":"Q20146689"
+    },
+    "wof:country":"MX",
+    "wof:created":1497297811,
+    "wof:geomhash":"bd4d6c5f906f4afa4b6990183f9f21b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074147,
+            "locality_id":1125961393,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1125961393,
+    "wof:lastmodified":1553816658,
+    "wof:name":"Huixquilucan",
+    "wof:parent_id":102074147,
+    "wof:placetype":"locality",
+    "wof:population":124846,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.35016,
+    19.35985,
+    -99.35016,
+    19.35985
+],
+  "geometry": {"coordinates":[-99.35016,19.35985],"type":"Point"}
+}

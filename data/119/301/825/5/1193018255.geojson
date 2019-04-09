@@ -1,0 +1,77 @@
+{
+  "id": 1193018255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.52917,32.56028,-116.52917,32.56028",
+    "geom:latitude":32.56028,
+    "geom:longitude":-116.52917,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"MX",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8577185,
+    "gn:latitude":32.56028,
+    "gn:longitude":-116.52917,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"San Pablo",
+    "gn:population":2,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "name:und_x_variant":[
+        "La Norte\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8577185
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ba9dc746c8c88f8bde3910455950f46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074503,
+            "locality_id":1193018255,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1193018255,
+    "wof:lastmodified":1537668534,
+    "wof:name":"San Pablo",
+    "wof:parent_id":102074503,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.52917,
+    32.56028,
+    -116.52917,
+    32.56028
+],
+  "geometry": {"coordinates":[-116.52916999999999,32.56028],"type":"Point"}
+}

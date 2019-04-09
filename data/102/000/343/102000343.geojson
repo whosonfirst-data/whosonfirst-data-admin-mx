@@ -1,0 +1,70 @@
+{
+  "id": 102000343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":35641.0837,
+    "geom:bbox":"-98.7059963619,20.0953539778,-98.7034467098,20.0974554452",
+    "geom:latitude":20.096337,
+    "geom:longitude":-98.704676,
+    "iso:country":"MX",
+    "lbl:latitude":20.096368,
+    "lbl:longitude":-98.704698,
+    "mps:latitude":20.096368,
+    "mps:longitude":-98.704698,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Mexico",
+    "qs:a1":"*Hidalgo",
+    "qs:a1_lc":"13",
+    "qs:a1r":"*",
+    "qs:a2":"Mineral de la Reforma",
+    "qs:a2_lc":"13051",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Campestre Villas del \u00c1lamo (FOVISSSTE)",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"MX",
+    "wof:geomhash":"52bf2f507cd723c9fb2a24d69d8217f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078543,
+            "locality_id":102000343,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":102000343,
+    "wof:lastmodified":1479907613,
+    "wof:name":"Campestre Villas del \u00c1lamo (FOVISSSTE)",
+    "wof:parent_id":102078543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.70599636193407,
+    20.09535397775633,
+    -98.7034467097757,
+    20.09745544516958
+],
+  "geometry": {"coordinates":[[[-98.70497048337218,20.09745544516958],[-98.70494692640132,20.0974420109877],[-98.70459492309506,20.09723611617991],[-98.70430411385529,20.09707268820554],[-98.70392505173527,20.09688113858614],[-98.70361243578915,20.09667581751383],[-98.7034467097757,20.09658626586108],[-98.70365684518572,20.09605827234098],[-98.70392895618106,20.09547136182392],[-98.70446879490352,20.09564360352793],[-98.70457409984623,20.09546315344956],[-98.70465295839848,20.09547644613818],[-98.70466684050454,20.09546581620539],[-98.70475640549287,20.09539437555528],[-98.70478394212445,20.09535397775633],[-98.705018575368,20.09553180315163],[-98.70560549556899,20.09584763063017],[-98.70599636193407,20.09608610281909],[-98.70596324067508,20.09613604863362],[-98.70549291535434,20.09674243348108],[-98.70497048337218,20.09745544516958]]],"type":"Polygon"}
+}

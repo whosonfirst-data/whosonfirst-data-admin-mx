@@ -1,0 +1,75 @@
+{
+  "id": 1276331927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.31175,27.33191,-106.31175,27.33191",
+    "geom:latitude":27.33191,
+    "geom:longitude":-106.31175,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"La Huerta",
+    "gn:country_code":"MX",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4001930,
+    "gn:latitude":27.33191,
+    "gn:longitude":-106.31175,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"La Huerta",
+    "gn:population":84,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huerta",
+        "La Huerta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001930
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a7bbb4693e6785af722b3bab7ed6d527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075349,
+            "locality_id":1276331927,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1276331927,
+    "wof:lastmodified":1537667736,
+    "wof:name":"La Huerta",
+    "wof:parent_id":102075349,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.31175,
+    27.33191,
+    -106.31175,
+    27.33191
+],
+  "geometry": {"coordinates":[-106.31175,27.33191],"type":"Point"}
+}

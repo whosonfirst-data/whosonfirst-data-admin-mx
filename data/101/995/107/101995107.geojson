@@ -1,0 +1,124 @@
+{
+  "id": 101995107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1693965.520136,
+    "geom:bbox":"-97.5594148542,17.2302132728,-97.5422646537,17.241960163",
+    "geom:latitude":17.235798,
+    "geom:longitude":-97.550341,
+    "iso:country":"MX",
+    "lbl:latitude":17.236043,
+    "lbl:longitude":-97.550178,
+    "mps:latitude":17.236043,
+    "mps:longitude":-97.550178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:dut_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:eng_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:epo_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:eus_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:fre_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Magdalena Pe\u00f1asco"
+    ],
+    "name:sco_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:spa_x_colloquial":[
+        "Magdalena Penasco",
+        "Magdalena Penyasco"
+    ],
+    "name:spa_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:spa_x_variant":[
+        "Magdalena",
+        "Penasco"
+    ],
+    "name:swe_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "name:unk_x_variant":[
+        "Penasco"
+    ],
+    "name:vie_x_preferred":[
+        "Magdalena Pe\u00f1asco"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a1r":"*",
+    "qs:a2":"Magdalena Pe\u00f1asco",
+    "qs:a2_lc":"20050",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Magdalena Pe\u00f1asco",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01aec4c0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3523748,
+        "gp:id":132679,
+        "wd:id":"Q3889111",
+        "wk:page":"Magdalena Pe\u00f1asco"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"bb0284be92ed78ea9af4e2230f1102d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076285,
+            "locality_id":101995107,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":101995107,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815677,
+    "wof:name":"Magdalena Pe\u00f1asco",
+    "wof:parent_id":102076285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.55941485418299,
+    17.23021327275897,
+    -97.54226465367624,
+    17.24196016295593
+],
+  "geometry": {"coordinates":[[[-97.54545197019767,17.24160153718088],[-97.54325230976484,17.23642524678681],[-97.54226465367624,17.23410097819797],[-97.54487508815022,17.23156336582056],[-97.54604495590704,17.23069022563693],[-97.54668398687902,17.23021327275897],[-97.55560394095426,17.23032985663993],[-97.55676427216818,17.23276960599879],[-97.55681350501979,17.23289659880225],[-97.55683299935443,17.23295353821119],[-97.5568669978996,17.23303506091229],[-97.55774100804463,17.23450136130105],[-97.55826570273207,17.23537213326542],[-97.55941485418299,17.23734965686817],[-97.55933701699226,17.23737050862359],[-97.55917095855786,17.23743506776354],[-97.55904284966091,17.23751929124925],[-97.55893296852655,17.23763648996357],[-97.55875264764883,17.23784426114513],[-97.55867768925481,17.23792543301862],[-97.55857049349758,17.23795931009953],[-97.55842068095542,17.23796874997314],[-97.55831512759252,17.23795170804106],[-97.55824404716681,17.23791252385689],[-97.55718627753348,17.23742586856709],[-97.5570396011715,17.23733809855024],[-97.55689744168961,17.23725972992395],[-97.55639328081494,17.23704084278081],[-97.55598761415754,17.23690828903216],[-97.55660996915297,17.23775269923237],[-97.55625342851485,17.23808308283266],[-97.55586427718571,17.23847018484539],[-97.55567210745892,17.23866134276861],[-97.55565112579852,17.23868221376324],[-97.55509068048535,17.23937913330231],[-97.55507350904871,17.23940048912933],[-97.55286984105577,17.24196016295593],[-97.54611624737382,17.24162603883219],[-97.54545197019767,17.24160153718088]]],"type":"Polygon"}
+}

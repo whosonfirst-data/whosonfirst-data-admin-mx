@@ -1,0 +1,83 @@
+{
+  "id": 1126091923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.560924,19.0308,-98.560924,19.0308",
+    "geom:latitude":19.0308,
+    "geom:longitude":-98.560924,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":19.0308,
+    "lbl:longitude":-98.560924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"San Pedro Yancuitlalpan",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Puebla",
+    "qs_pg:photos":195,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":195,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":218274,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55909624,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Puebla",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102078371,
+        85686657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55909624,
+        "qs_pg:id":218274
+    },
+    "wof:country":"MX",
+    "wof:created":1497314048,
+    "wof:geomhash":"01ae30fd80312b2538fb30dd544cc995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078371,
+            "locality_id":-1,
+            "neighbourhood_id":1126091923,
+            "region_id":85686657
+        }
+    ],
+    "wof:id":1126091923,
+    "wof:lastmodified":1509411697,
+    "wof:name":"San Pedro Yancuitlalpan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.560924,
+    19.0308,
+    -98.560924,
+    19.0308
+],
+  "geometry": {"coordinates":[-98.560924,19.0308],"type":"Point"}
+}

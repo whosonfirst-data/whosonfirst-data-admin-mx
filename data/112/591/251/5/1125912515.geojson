@@ -1,0 +1,87 @@
+{
+  "id": 1125912515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.77496,25.08745,-104.77496,25.08745",
+    "geom:latitude":25.08745,
+    "geom:longitude":-104.77496,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":25.08745,
+    "lbl:longitude":-104.77496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Vizca\u00edno"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3980027,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vizca\u00edno",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Durango",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":180500,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":151008,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Durango",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3980027,
+        "gp:id":151008,
+        "qs_pg:id":180500
+    },
+    "wof:country":"MX",
+    "wof:created":1497296186,
+    "wof:geomhash":"1ee055d8671002696664ea1eb3074c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075155,
+            "locality_id":1125912515,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1125912515,
+    "wof:lastmodified":1509400274,
+    "wof:name":"Vizca\u00edno",
+    "wof:parent_id":102075155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.77496,
+    25.08745,
+    -104.77496,
+    25.08745
+],
+  "geometry": {"coordinates":[-104.77495999999999,25.08745],"type":"Point"}
+}

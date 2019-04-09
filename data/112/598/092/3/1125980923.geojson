@@ -1,0 +1,98 @@
+{
+  "id": 1125980923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.4482,20.48832,-105.4482,20.48832",
+    "geom:latitude":20.48832,
+    "geom:longitude":-105.4482,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.48832,
+    "lbl:longitude":-105.4482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Yelapa"
+    ],
+    "name:eng_x_preferred":[
+        "Yelapa"
+    ],
+    "name:unk_x_variant":[
+        "Yalapa"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3979944,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Yelapa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos":2635,
+    "qs_pg:photos_1k":534,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2635,
+    "qs_pg:photos_sr":18,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1319585,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":151345,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3979944,
+        "gp:id":151345,
+        "qs_pg:id":1319585,
+        "wd:id":"Q16904003"
+    },
+    "wof:country":"MX",
+    "wof:created":1497298552,
+    "wof:geomhash":"73720b386adac7e90966c7fac05f61e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074799,
+            "locality_id":1125980923,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1125980923,
+    "wof:lastmodified":1514490247,
+    "wof:name":"Yelapa",
+    "wof:parent_id":102074799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.4482,
+    20.48832,
+    -105.4482,
+    20.48832
+],
+  "geometry": {"coordinates":[-105.4482,20.48832],"type":"Point"}
+}

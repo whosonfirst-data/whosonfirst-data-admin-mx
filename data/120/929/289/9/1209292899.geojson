@@ -1,0 +1,65 @@
+{
+  "id": 1209292899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.62135,22.90531,-104.62135,22.90531",
+    "geom:latitude":22.90531,
+    "geom:longitude":-104.62135,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Oaxaca",
+    "gn:country_code":"MX",
+    "gn:dem":2055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8903368,
+    "gn:latitude":22.90531,
+    "gn:longitude":-104.62135,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Oaxaca",
+    "gn:population":22,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8903368
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5bb0bad0a91d2dfd7aa3857ef34557af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209292899
+        }
+    ],
+    "wof:id":1209292899,
+    "wof:lastmodified":1536291632,
+    "wof:name":"Oaxaca",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.62135,
+    22.90531,
+    -104.62135,
+    22.90531
+],
+  "geometry": {"coordinates":[-104.62135000000001,22.90531],"type":"Point"}
+}

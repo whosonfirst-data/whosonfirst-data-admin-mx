@@ -1,0 +1,75 @@
+{
+  "id": 1193165683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.6533,20.88074,-89.6533,20.88074",
+    "geom:latitude":20.88074,
+    "geom:longitude":-89.6533,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"50.0",
+    "gn:asciiname":"Santa Cruz Palomeque",
+    "gn:country_code":"MX",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3517577,
+    "gn:latitude":20.88074,
+    "gn:longitude":-89.6533,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Santa Cruz Palomeque",
+    "gn:population":0,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Cruz Palomeque"
+    ],
+    "name:und_x_variant":[
+        "Santa Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686701,
+        102078971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3517577,
+        "wk:page":"Hacienda_Santa_Cruz_Palomeque"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c2b79a9d71ecda07f9f4c30482787688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078971,
+            "locality_id":1193165683,
+            "region_id":85686701
+        }
+    ],
+    "wof:id":1193165683,
+    "wof:lastmodified":1537665985,
+    "wof:name":"Santa Cruz Palomeque",
+    "wof:parent_id":102078971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.6533,
+    20.88074,
+    -89.6533,
+    20.88074
+],
+  "geometry": {"coordinates":[-89.6533,20.88074],"type":"Point"}
+}

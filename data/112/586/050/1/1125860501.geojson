@@ -1,0 +1,78 @@
+{
+  "id": 1125860501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.5408,28.6257,-111.5408,28.6257",
+    "geom:latitude":28.6257,
+    "geom:longitude":-111.5408,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":100,
+    "gn:population":100,
+    "iso:country":"MX",
+    "lbl:latitude":28.6257,
+    "lbl:longitude":-111.5408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4016277,
+    "qs_pg:gn_pop":100,
+    "qs_pg:name":"Cajeme",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":97079,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4016277,
+        "qs_pg:id":97079
+    },
+    "wof:country":"MX",
+    "wof:created":1497293808,
+    "wof:geomhash":"8add83203e8a22fbf59c22e197e57603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074513,
+            "locality_id":1125860501,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1125860501,
+    "wof:lastmodified":1509396582,
+    "wof:name":"Cajeme",
+    "wof:parent_id":102074513,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.5408,
+    28.6257,
+    -111.5408,
+    28.6257
+],
+  "geometry": {"coordinates":[-111.5408,28.6257],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209577465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.35485,25.45203,-99.35485,25.45203",
+    "geom:latitude":25.45203,
+    "geom:longitude":-99.35485,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Gomez Palacio",
+    "gn:country_code":"MX",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3527430,
+    "gn:latitude":25.45203,
+    "gn:longitude":-99.35485,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"G\u00f3mez Palacio",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f3mez",
+        "G\u00f3mez Palacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3527430
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"478c15c8e06b18bc7fb7ff0eda319caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209577465
+        }
+    ],
+    "wof:id":1209577465,
+    "wof:lastmodified":1537666272,
+    "wof:name":"Gomez Palacio",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.35485,
+    25.45203,
+    -99.35485,
+    25.45203
+],
+  "geometry": {"coordinates":[-99.35485,25.45203],"type":"Point"}
+}

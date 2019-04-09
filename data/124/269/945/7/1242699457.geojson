@@ -1,0 +1,75 @@
+{
+  "id": 1242699457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.4229,26.51617,-106.4229,26.51617",
+    "geom:latitude":26.51617,
+    "geom:longitude":-106.4229,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Paraje La Lagunita",
+    "gn:country_code":"MX",
+    "gn:dem":2765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4001669,
+    "gn:latitude":26.51617,
+    "gn:longitude":-106.4229,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Paraje La Lagunita",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paraje La Lagunita"
+    ],
+    "name:und_x_variant":[
+        "Lagunita",
+        "La Lagunita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001669
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0cd5c71e86b9a2f7f5d47e16ed7dd881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075303,
+            "locality_id":1242699457,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1242699457,
+    "wof:lastmodified":1537667726,
+    "wof:name":"Paraje La Lagunita",
+    "wof:parent_id":102075303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.4229,
+    26.51617,
+    -106.4229,
+    26.51617
+],
+  "geometry": {"coordinates":[-106.4229,26.51617],"type":"Point"}
+}

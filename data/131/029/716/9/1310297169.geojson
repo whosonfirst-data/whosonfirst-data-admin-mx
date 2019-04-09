@@ -1,0 +1,75 @@
+{
+  "id": 1310297169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.97286,29.18089,-106.97286,29.18089",
+    "geom:latitude":29.18089,
+    "geom:longitude":-106.97286,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Santa Catalina de Villela",
+    "gn:country_code":"MX",
+    "gn:dem":1902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3984581,
+    "gn:latitude":29.18089,
+    "gn:longitude":-106.97286,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Santa Catalina de Villela",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Catalina de Villela"
+    ],
+    "name:spa_x_variant":[
+        "Santa Catarina",
+        "Santa Catarina de Villela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3984581
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0ea868c2c5f72641e24d20cd6211fed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075343,
+            "locality_id":1310297169,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1310297169,
+    "wof:lastmodified":1537667280,
+    "wof:name":"Santa Catalina de Villela",
+    "wof:parent_id":102075343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.97286,
+    29.18089,
+    -106.97286,
+    29.18089
+],
+  "geometry": {"coordinates":[-106.97286,29.18089],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1126051701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.14497,19.05094,-97.14497,19.05094",
+    "geom:latitude":19.05094,
+    "geom:longitude":-97.14497,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4193,
+    "gn:population":4193,
+    "iso:country":"MX",
+    "lbl:latitude":19.05094,
+    "lbl:longitude":-97.14497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Teteltzingo"
+    ],
+    "name:unk_x_variant":[
+        "Tetelcingo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3515753,
+    "qs_pg:gn_pop":4193,
+    "qs_pg:name":"Teteltzingo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":957727,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55886859,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3515753,
+        "gp:id":55886859,
+        "qs_pg:id":957727
+    },
+    "wof:country":"MX",
+    "wof:created":1497302797,
+    "wof:geomhash":"095fe08a10c00723e09785239473c8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077485,
+            "locality_id":1126051701,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126051701,
+    "wof:lastmodified":1509409262,
+    "wof:name":"Teteltzingo",
+    "wof:parent_id":102077485,
+    "wof:placetype":"locality",
+    "wof:population":4193,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.14497,
+    19.05094,
+    -97.14497,
+    19.05094
+],
+  "geometry": {"coordinates":[-97.14497,19.05094],"type":"Point"}
+}

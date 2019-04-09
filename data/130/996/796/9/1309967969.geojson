@@ -1,0 +1,76 @@
+{
+  "id": 1309967969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.10377,25.68531,-99.10377,25.68531",
+    "geom:latitude":25.68531,
+    "geom:longitude":-99.10377,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Chilarillo",
+    "gn:country_code":"MX",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3524119,
+    "gn:latitude":25.68531,
+    "gn:longitude":-99.10377,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Chilarillo",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chilarillo"
+    ],
+    "name:und_x_variant":[
+        "El Chilarillo",
+        "Rancho El Chilarillo",
+        "Los Chilarillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3524119
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5b611c86e83d15a17f4059d837bf6218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078713,
+            "locality_id":1309967969,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1309967969,
+    "wof:lastmodified":1537666167,
+    "wof:name":"Chilarillo",
+    "wof:parent_id":102078713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.10377,
+    25.68531,
+    -99.10377,
+    25.68531
+],
+  "geometry": {"coordinates":[-99.10377,25.68531],"type":"Point"}
+}

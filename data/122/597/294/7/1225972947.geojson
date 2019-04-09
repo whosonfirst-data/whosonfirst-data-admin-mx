@@ -1,0 +1,76 @@
+{
+  "id": 1225972947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.85982,20.87769,-89.85982,20.87769",
+    "geom:latitude":20.87769,
+    "geom:longitude":-89.85982,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"101.0",
+    "gn:asciiname":"San Antonio Chum",
+    "gn:country_code":"MX",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3519728,
+    "gn:latitude":20.87769,
+    "gn:longitude":-89.85982,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Antonio Chum",
+    "gn:population":0,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio Chum"
+    ],
+    "name:und_x_variant":[
+        "Chun",
+        "Chum",
+        "San Antonio Chun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686701,
+        102079099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3519728
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"11c10d74512a1251c210a9887ac41d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079099,
+            "locality_id":1225972947,
+            "region_id":85686701
+        }
+    ],
+    "wof:id":1225972947,
+    "wof:lastmodified":1537666049,
+    "wof:name":"San Antonio Chum",
+    "wof:parent_id":102079099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.85982,
+    20.87769,
+    -89.85982,
+    20.87769
+],
+  "geometry": {"coordinates":[-89.85982,20.87769],"type":"Point"}
+}

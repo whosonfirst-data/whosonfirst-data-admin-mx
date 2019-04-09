@@ -1,0 +1,74 @@
+{
+  "id": 1259370069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.82778,20.26861,-101.82778,20.26861",
+    "geom:latitude":20.26861,
+    "geom:longitude":-101.82778,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"San Ignacio de Alvarez",
+    "gn:country_code":"MX",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8862829,
+    "gn:latitude":20.26861,
+    "gn:longitude":-101.82778,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Ignacio de \u00c1lvarez",
+    "gn:population":535,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Ignacio de \u00c1lvarez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8862829
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"400dcfb2ee122e75c8a3554641403e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077323,
+            "locality_id":1259370069,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1259370069,
+    "wof:lastmodified":1537669344,
+    "wof:name":"San Ignacio de Alvarez",
+    "wof:parent_id":102077323,
+    "wof:placetype":"locality",
+    "wof:population":535,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.82778,
+    20.26861,
+    -101.82778,
+    20.26861
+],
+  "geometry": {"coordinates":[-101.82778,20.26861],"type":"Point"}
+}

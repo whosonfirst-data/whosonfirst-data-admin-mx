@@ -1,0 +1,91 @@
+{
+  "id": 1125845061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.2504,20.7474,-105.2504,20.7474",
+    "geom:latitude":20.7474,
+    "geom:longitude":-105.2504,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.7474,
+    "lbl:longitude":-105.2504,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Vicente"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4029310,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Vicente",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":859585,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":145508,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4029310,
+        "gp:id":145508,
+        "qs_pg:id":859585
+    },
+    "wof:country":"MX",
+    "wof:created":1497293118,
+    "wof:geomhash":"038eb8f31ee2b9483fd06752101375d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074583,
+            "locality_id":1125845061,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1125845061,
+    "wof:lastmodified":1534379383,
+    "wof:name":"San Vicente",
+    "wof:parent_id":102074583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[
+        101996949
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.2504,
+    20.7474,
+    -105.2504,
+    20.7474
+],
+  "geometry": {"coordinates":[-105.2504,20.7474],"type":"Point"}
+}

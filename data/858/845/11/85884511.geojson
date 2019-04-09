@@ -1,0 +1,120 @@
+{
+  "id": 85884511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000272,
+    "geom:area_square_m":3178435.624024,
+    "geom:bbox":"-99.2797143555,19.3733406722,-99.2614746094,19.3914770388",
+    "geom:latitude":19.38366,
+    "geom:longitude":-99.270509,
+    "iso:country":"MX",
+    "lbl:latitude":19.381545,
+    "lbl:longitude":-99.267883,
+    "mps:latitude":19.384493,
+    "mps:longitude":-99.270683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "La Puntada"
+    ],
+    "name:unk_x_variant":[
+        "La Puntada"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"La Punta",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"La Puntada",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuajimalpa de Morelos",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":4,
+    "qs:photo_sum":11,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599938,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991169,
+        890535767,
+        102073747,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817370,
+        "gp:id":55904124,
+        "qs:id":1199826,
+        "qs_pg:id":1199826
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9dc09e7946c7bf70fc5d1334b186fbf6",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535767,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073747,
+            "locality_id":101991169,
+            "neighbourhood_id":85884511,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535767,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884511,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884511,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957720,
+    "wof:name":"La Puntada",
+    "wof:parent_id":890535767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.27971435545004,
+    19.3733406721752,
+    -99.26147460937483,
+    19.39147703882512
+],
+  "geometry": {"coordinates":[[[-99.26826551594701,19.3733406721752],[-99.27246093749994,19.3733406721752],[-99.27246097639051,19.3733407134],[-99.27734955803845,19.3785227149753],[-99.27957535813272,19.37970243170521],[-99.27971435545004,19.38111369514999],[-99.27952220825401,19.3830645983702],[-99.2793280680358,19.38370459290037],[-99.27952220825401,19.38434458743001],[-99.27971435545004,19.38629549065014],[-99.27952220825401,19.38824639387026],[-99.27895315077501,19.3901223249737],[-99.27822904113538,19.39147703882512],[-99.26696777342494,19.39147703882512],[-99.26147460937483,19.39147703882512],[-99.26147460938645,19.38888634720006],[-99.26147460939021,19.38370463410004],[-99.26147460938185,19.38370459290037],[-99.26147460939259,19.37989836339111],[-99.26147460939987,19.37852275620003],[-99.26277227411006,19.37852275620003],[-99.26277231299895,19.3785227149753],[-99.26696777341562,19.3785227149753],[-99.26696777341456,19.37471631807195],[-99.2669677733999,19.37334071340008],[-99.2682654770567,19.37334071340008],[-99.26826551594701,19.3733406721752]]],"type":"Polygon"}
+}

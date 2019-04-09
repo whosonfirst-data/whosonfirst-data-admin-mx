@@ -1,0 +1,74 @@
+{
+  "id": 1343855941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.28802,27.7193,-104.28802,27.7193",
+    "geom:latitude":27.7193,
+    "geom:longitude":-104.28802,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"San Juan de las Maravillas",
+    "gn:country_code":"MX",
+    "gn:dem":1521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3974631,
+    "gn:latitude":27.7193,
+    "gn:longitude":-104.28802,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Juan de las Maravillas",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan de las Maravillas"
+    ],
+    "name:und_x_variant":[
+        "Rancho Maravillas de Sol\u00eds"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3974631
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"795e95986edc5cebe671ae752912a731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075289,
+            "locality_id":1343855941,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1343855941,
+    "wof:lastmodified":1537667021,
+    "wof:name":"San Juan de las Maravillas",
+    "wof:parent_id":102075289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.28802,
+    27.7193,
+    -104.28802,
+    27.7193
+],
+  "geometry": {"coordinates":[-104.28802,27.7193],"type":"Point"}
+}

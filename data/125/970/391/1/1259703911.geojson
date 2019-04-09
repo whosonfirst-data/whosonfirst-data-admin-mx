@@ -1,0 +1,77 @@
+{
+  "id": 1259703911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.69631,27.30937,-101.69631,27.30937",
+    "geom:latitude":27.30937,
+    "geom:longitude":-101.69631,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"San Lorenzo",
+    "gn:country_code":"MX",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3985746,
+    "gn:latitude":27.30937,
+    "gn:longitude":-101.69631,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"San Lorenzo",
+    "gn:population":109,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:und_x_variant":[
+        "Ejido San Lorenzo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985746
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"dd728d66648eed3fe2b37873e9be0dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078809,
+            "locality_id":1259703911,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1259703911,
+    "wof:lastmodified":1537667309,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":102078809,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.69631,
+    27.30937,
+    -101.69631,
+    27.30937
+],
+  "geometry": {"coordinates":[-101.69631,27.30937],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360132451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.74647,30.55405,-111.74647,30.55405",
+    "geom:latitude":30.55405,
+    "geom:longitude":-111.74647,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"San Andres Uno",
+    "gn:country_code":"MX",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3989362,
+    "gn:latitude":30.55405,
+    "gn:longitude":-111.74647,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Andr\u00e9s Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Uno"
+    ],
+    "name:und_x_variant":[
+        "Rancho San Andr\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3989362
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"cc5e675a58b98a2b1426f8191eff950f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074443,
+            "locality_id":1360132451,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1360132451,
+    "wof:lastmodified":1537667400,
+    "wof:name":"San Andres Uno",
+    "wof:parent_id":102074443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.74647,
+    30.55405,
+    -111.74647,
+    30.55405
+],
+  "geometry": {"coordinates":[-111.74647,30.55405],"type":"Point"}
+}

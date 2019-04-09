@@ -1,0 +1,87 @@
+{
+  "id": 1125927183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.48278,18.20138,-96.48278,18.20138",
+    "geom:latitude":18.20138,
+    "geom:longitude":-96.48278,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8116,
+    "gn:population":8116,
+    "iso:country":"MX",
+    "lbl:latitude":18.20138,
+    "lbl:longitude":-96.48278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Isla Soyaltepec"
+    ],
+    "name:spa_x_variant":[
+        "Isla San Miguel Soyaltepec"
+    ],
+    "name:unk_x_variant":[
+        "San Miguel"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3801262,
+    "qs_pg:gn_pop":8116,
+    "qs_pg:name":"Isla Soyaltepec",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":150335,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3801262,
+        "qs_pg:id":150335
+    },
+    "wof:country":"MX",
+    "wof:created":1497296680,
+    "wof:geomhash":"970225a563f4dc053bde54c0a14be766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076477,
+            "locality_id":1125927183,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1125927183,
+    "wof:lastmodified":1509401158,
+    "wof:name":"Isla Soyaltepec",
+    "wof:parent_id":102076477,
+    "wof:placetype":"locality",
+    "wof:population":8116,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.48278,
+    18.20138,
+    -96.48278,
+    18.20138
+],
+  "geometry": {"coordinates":[-96.48278000000001,18.20138],"type":"Point"}
+}

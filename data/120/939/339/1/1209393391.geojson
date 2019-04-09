@@ -1,0 +1,65 @@
+{
+  "id": 1209393391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.17278,23.34639,-105.17278,23.34639",
+    "geom:latitude":23.34639,
+    "geom:longitude":-105.17278,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"La Ene",
+    "gn:country_code":"MX",
+    "gn:dem":2272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8948545,
+    "gn:latitude":23.34639,
+    "gn:longitude":-105.17278,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"La Ene",
+    "gn:population":4,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8948545
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0ff85690fb10972ff3f1d6aefcac4b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209393391
+        }
+    ],
+    "wof:id":1209393391,
+    "wof:lastmodified":1536288384,
+    "wof:name":"La Ene",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.17278,
+    23.34639,
+    -105.17278,
+    23.34639
+],
+  "geometry": {"coordinates":[-105.17278,23.34639],"type":"Point"}
+}

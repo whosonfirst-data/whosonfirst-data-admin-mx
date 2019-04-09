@@ -1,0 +1,75 @@
+{
+  "id": 1242699383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.98771,27.03506,-104.98771,27.03506",
+    "geom:latitude":27.03506,
+    "geom:longitude":-104.98771,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"El Cura",
+    "gn:country_code":"MX",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4010051,
+    "gn:latitude":27.03506,
+    "gn:longitude":-104.98771,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"El Cura",
+    "gn:population":5,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cura",
+        "El Cura"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4010051
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"db82f76b7d0f3834c70df52e009a1bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075293,
+            "locality_id":1242699383,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1242699383,
+    "wof:lastmodified":1537667981,
+    "wof:name":"El Cura",
+    "wof:parent_id":102075293,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.98771,
+    27.03506,
+    -104.98771,
+    27.03506
+],
+  "geometry": {"coordinates":[-104.98771000000001,27.03506],"type":"Point"}
+}

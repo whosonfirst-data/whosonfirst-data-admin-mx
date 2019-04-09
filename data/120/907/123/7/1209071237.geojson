@@ -1,0 +1,65 @@
+{
+  "id": 1209071237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.11611,25.55889,-100.11611,25.55889",
+    "geom:latitude":25.55889,
+    "geom:longitude":-100.11611,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"La Granada",
+    "gn:country_code":"MX",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8892215,
+    "gn:latitude":25.55889,
+    "gn:longitude":-100.11611,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Granada",
+    "gn:population":45,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8892215
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4516403dd60abd67f1c34b8275ba6873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209071237
+        }
+    ],
+    "wof:id":1209071237,
+    "wof:lastmodified":1536298641,
+    "wof:name":"La Granada",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.11611,
+    25.55889,
+    -100.11611,
+    25.55889
+],
+  "geometry": {"coordinates":[-100.11611000000001,25.55889],"type":"Point"}
+}

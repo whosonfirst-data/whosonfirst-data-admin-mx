@@ -1,0 +1,74 @@
+{
+  "id": 1343726653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.59361,17.28869,-95.59361,17.28869",
+    "geom:latitude":17.28869,
+    "geom:longitude":-95.59361,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"190.0",
+    "gn:asciiname":"San Juan Otzolotepec",
+    "gn:country_code":"MX",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3518631,
+    "gn:latitude":17.28869,
+    "gn:longitude":-95.59361,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Juan Otzolotepec",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ozolotepec",
+        "San Juan",
+        "San Juan Ozolotepec",
+        "San Juan Otzolotepec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3518631
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a3be9581ddbed2774627e31a4367e731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076411,
+            "locality_id":1343726653,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1343726653,
+    "wof:lastmodified":1537666017,
+    "wof:name":"San Juan Otzolotepec",
+    "wof:parent_id":102076411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.59361,
+    17.28869,
+    -95.59361,
+    17.28869
+],
+  "geometry": {"coordinates":[-95.59361,17.28869],"type":"Point"}
+}

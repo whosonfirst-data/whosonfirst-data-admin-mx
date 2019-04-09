@@ -1,0 +1,74 @@
+{
+  "id": 1276960091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.38306,19.1225,-102.38306,19.1225",
+    "geom:latitude":19.1225,
+    "geom:longitude":-102.38306,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Ejido Jose Maria Morelos",
+    "gn:country_code":"MX",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8866807,
+    "gn:latitude":19.1225,
+    "gn:longitude":-102.38306,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Ejido Jos\u00e9 Mar\u00eda Morelos",
+    "gn:population":326,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ejido Jos\u00e9 Mar\u00eda Morelos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686595,
+        102074917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8866807
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4cb3352fabdd2a621c7b1c57f25fa3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074917,
+            "locality_id":1276960091,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1276960091,
+    "wof:lastmodified":1537669444,
+    "wof:name":"Ejido Jose Maria Morelos",
+    "wof:parent_id":102074917,
+    "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.38306,
+    19.1225,
+    -102.38306,
+    19.1225
+],
+  "geometry": {"coordinates":[-102.38306,19.1225],"type":"Point"}
+}

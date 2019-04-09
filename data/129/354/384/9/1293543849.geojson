@@ -1,0 +1,74 @@
+{
+  "id": 1293543849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.46365,28.46626,-110.46365,28.46626",
+    "geom:latitude":28.46626,
+    "geom:longitude":-110.46365,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"MX",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970756,
+    "gn:latitude":28.46626,
+    "gn:longitude":-110.46365,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Francisco"
+    ],
+    "name:spa_x_variant":[
+        "La Calera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970756
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f946a047dce168360679911332afef99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074511,
+            "locality_id":1293543849,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1293543849,
+    "wof:lastmodified":1537666927,
+    "wof:name":"San Francisco",
+    "wof:parent_id":102074511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.46365,
+    28.46626,
+    -110.46365,
+    28.46626
+],
+  "geometry": {"coordinates":[-110.46365,28.46626],"type":"Point"}
+}

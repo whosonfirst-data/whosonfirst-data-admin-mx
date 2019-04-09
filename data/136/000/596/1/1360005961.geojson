@@ -1,0 +1,74 @@
+{
+  "id": 1360005961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.73049,27.37267,-101.73049,27.37267",
+    "geom:latitude":27.37267,
+    "geom:longitude":-101.73049,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"San Antonio de las Higueras",
+    "gn:country_code":"MX",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3977709,
+    "gn:latitude":27.37267,
+    "gn:longitude":-101.73049,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Antonio de las Higueras",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio de las Higueras"
+    ],
+    "name:und_x_variant":[
+        "San Antonio de Higueras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3977709
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8327eefa0032233d9a01f3cdfb5c4025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078809,
+            "locality_id":1360005961,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1360005961,
+    "wof:lastmodified":1537667113,
+    "wof:name":"San Antonio de las Higueras",
+    "wof:parent_id":102078809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.73049,
+    27.37267,
+    -101.73049,
+    27.37267
+],
+  "geometry": {"coordinates":[-101.73049,27.37267],"type":"Point"}
+}

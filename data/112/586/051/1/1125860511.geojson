@@ -1,0 +1,81 @@
+{
+  "id": 1125860511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.03972,18.89233,-102.03972,18.89233",
+    "geom:latitude":18.89233,
+    "geom:longitude":-102.03972,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":450,
+    "gn:population":450,
+    "iso:country":"MX",
+    "lbl:latitude":18.89233,
+    "lbl:longitude":-102.03972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Chauz"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4025824,
+    "qs_pg:gn_pop":450,
+    "qs_pg:name":"El Chauz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":97082,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686595,
+        102074905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4025824,
+        "qs_pg:id":97082
+    },
+    "wof:country":"MX",
+    "wof:created":1497293808,
+    "wof:geomhash":"dc7f9950861c8f22eadf4f968e136956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074905,
+            "locality_id":1125860511,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1125860511,
+    "wof:lastmodified":1509396582,
+    "wof:name":"El Chauz",
+    "wof:parent_id":102074905,
+    "wof:placetype":"locality",
+    "wof:population":450,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.03972,
+    18.89233,
+    -102.03972,
+    18.89233
+],
+  "geometry": {"coordinates":[-102.03972,18.89233],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85884079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1671083.320119,
+    "geom:bbox":"-99.1522601824,19.3723089753,-99.137878418,19.3862955056",
+    "geom:latitude":19.379242,
+    "geom:longitude":-99.146046,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.378815,
+    "lbl:longitude":-99.149487,
+    "mps:latitude":19.379031,
+    "mps:longitude":-99.146183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Independencia"
+    ],
+    "name:unk_x_variant":[
+        "Independencia"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Independencia",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Benito Juarez",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":94,
+    "qs:photo_sum":382,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599936,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535769,
+        102073737,
+        85686515,
+        101991153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899671,
+        "qs:id":475296
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"de4bd59165b7609a7b3b94fafae8daf2",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884079,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":101991153,
+            "neighbourhood_id":85884079,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884079,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270430,
+    "wof:name":"Independencia",
+    "wof:parent_id":890535769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.15226018237428,
+    19.37230897530637,
+    -99.13787841797489,
+    19.38629550556399
+],
+  "geometry": {"coordinates":[[[-99.14563518193972,19.38629550097512],[-99.14482052930387,19.38370462939092],[-99.14192262679117,19.38370463273988],[-99.140625,19.38370463410004],[-99.140625,19.38111370968787],[-99.13787841798731,19.38111371063759],[-99.13787841798529,19.37852275620003],[-99.13787841797489,19.37811761085466],[-99.140625,19.37714710902829],[-99.140625,19.37334071340008],[-99.140625,19.3733406721752],[-99.14611816408316,19.3733406721752],[-99.14611820296537,19.37334071340008],[-99.14636703226591,19.37360447780232],[-99.14660245217448,19.37365438791285],[-99.14687911883232,19.37363713663014],[-99.14771804218657,19.37334071340008],[-99.15063801975413,19.37230897530637],[-99.15161132811454,19.373340707392],[-99.15161132811454,19.37524393743367],[-99.15226018237428,19.37593174510013],[-99.1518528078542,19.37722725835023],[-99.15226017750012,19.37852274590036],[-99.15161132811454,19.37921056478797],[-99.15161132811383,19.38111371006401],[-99.15161132811383,19.3837046283919],[-99.15161132811551,19.38629550484696],[-99.1488647461,19.38629550556399],[-99.14611816409993,19.38629550395497],[-99.14563518193972,19.38629550097512]]],"type":"Polygon"}
+}

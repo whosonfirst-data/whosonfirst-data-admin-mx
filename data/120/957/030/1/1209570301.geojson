@@ -1,0 +1,65 @@
+{
+  "id": 1209570301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.37378,24.43614,-107.37378,24.43614",
+    "geom:latitude":24.43614,
+    "geom:longitude":-107.37378,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Granja",
+    "gn:country_code":"MX",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8943706,
+    "gn:latitude":24.43614,
+    "gn:longitude":-107.37378,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Granja",
+    "gn:population":5,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8943706
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9235749180e2ae47279ef49bfe79355f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209570301
+        }
+    ],
+    "wof:id":1209570301,
+    "wof:lastmodified":1536283105,
+    "wof:name":"Granja",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.37378,
+    24.43614,
+    -107.37378,
+    24.43614
+],
+  "geometry": {"coordinates":[-107.37378,24.43614],"type":"Point"}
+}

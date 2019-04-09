@@ -1,0 +1,67 @@
+{
+  "id": 1260277203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.56667,30.43333,-105.56667,30.43333",
+    "geom:latitude":30.43333,
+    "geom:longitude":-105.56667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Gabriel",
+    "gn:country_code":"MX",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986947,
+    "gn:latitude":30.43333,
+    "gn:longitude":-105.56667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"San Gabriel",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986947
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"06a909360db7c9348572f839ca60aea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075241,
+            "locality_id":1260277203,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1260277203,
+    "wof:lastmodified":1536720744,
+    "wof:name":"San Gabriel",
+    "wof:parent_id":102075241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.56667,
+    30.43333,
+    -105.56667,
+    30.43333
+],
+  "geometry": {"coordinates":[-105.56667,30.43333],"type":"Point"}
+}

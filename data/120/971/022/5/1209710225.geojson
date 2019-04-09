@@ -1,0 +1,68 @@
+{
+  "id": 1209710225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.58333,19.25,-103.58333,19.25",
+    "geom:latitude":19.25,
+    "geom:longitude":-103.58333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Huerta",
+    "gn:country_code":"MX",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4004588,
+    "gn:latitude":19.25,
+    "gn:longitude":-103.58333,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Huerta",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686587,
+        102074547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4004588
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6d63a5f4b63da1a5f5cf4553892acfa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074547,
+            "locality_id":1209710225,
+            "region_id":85686587
+        }
+    ],
+    "wof:id":1209710225,
+    "wof:lastmodified":1536391026,
+    "wof:name":"Huerta",
+    "wof:parent_id":102074547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.58333,
+    19.25,
+    -103.58333,
+    19.25
+],
+  "geometry": {"coordinates":[-103.58333,19.25],"type":"Point"}
+}

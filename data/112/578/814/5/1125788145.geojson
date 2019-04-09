@@ -1,0 +1,91 @@
+{
+  "id": 1125788145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.94005,21.53676,-104.94005,21.53676",
+    "geom:latitude":21.53676,
+    "geom:longitude":-104.94005,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":21.53676,
+    "lbl:longitude":-104.94005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Lo de Lamedo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3998408,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lo de Lamedo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Nayarit",
+    "qs_pg:photos":67,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":67,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1199272,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":131262,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Nayarit",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3998408,
+        "gp:id":131262,
+        "qs_pg:id":1199272
+    },
+    "wof:country":"MX",
+    "wof:created":1497290758,
+    "wof:geomhash":"9e0bed339638b68caac4fa1f840f6706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074577,
+            "locality_id":1125788145,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1125788145,
+    "wof:lastmodified":1509392100,
+    "wof:name":"Lo de Lamedo",
+    "wof:parent_id":102074577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.94005,
+    21.53676,
+    -104.94005,
+    21.53676
+],
+  "geometry": {"coordinates":[-104.94005,21.53676],"type":"Point"}
+}

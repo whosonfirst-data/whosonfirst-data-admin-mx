@@ -1,0 +1,77 @@
+{
+  "id": 1243192483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.16621,25.5314,-101.16621,25.5314",
+    "geom:latitude":25.5314,
+    "geom:longitude":-101.16621,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Los Temporales",
+    "gn:country_code":"MX",
+    "gn:dem":1718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4007310,
+    "gn:latitude":25.5314,
+    "gn:longitude":-101.16621,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Los Temporales",
+    "gn:population":5,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Temporales"
+    ],
+    "name:und_x_variant":[
+        "Rancho El Temporales"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4007310
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"955a9dae0726bed9699430b811fb9f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078817,
+            "locality_id":1243192483,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1243192483,
+    "wof:lastmodified":1537667881,
+    "wof:name":"Los Temporales",
+    "wof:parent_id":102078817,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.16621,
+    25.5314,
+    -101.16621,
+    25.5314
+],
+  "geometry": {"coordinates":[-101.16621000000001,25.5314],"type":"Point"}
+}

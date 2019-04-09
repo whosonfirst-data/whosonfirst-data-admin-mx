@@ -1,0 +1,74 @@
+{
+  "id": 1209876053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.25528,18.275,-96.25528,18.275",
+    "geom:latitude":18.275,
+    "geom:longitude":-96.25528,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"207.0",
+    "gn:asciiname":"Ejido Huayacan",
+    "gn:country_code":"MX",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8884485,
+    "gn:latitude":18.275,
+    "gn:longitude":-96.25528,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Ejido Huayac\u00e1n",
+    "gn:population":78,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ejido Huayac\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8884485
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2cb41a02c0bec82e36e4a8a8e38c3752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077833,
+            "locality_id":1209876053,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1209876053,
+    "wof:lastmodified":1537669880,
+    "wof:name":"Ejido Huayacan",
+    "wof:parent_id":102077833,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.25528,
+    18.275,
+    -96.25528,
+    18.275
+],
+  "geometry": {"coordinates":[-96.25528,18.275],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209911919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.11745,29.03583,-104.11745,29.03583",
+    "geom:latitude":29.03583,
+    "geom:longitude":-104.11745,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"El Gatun",
+    "gn:country_code":"MX",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4009740,
+    "gn:latitude":29.03583,
+    "gn:longitude":-104.11745,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"El Gat\u00fan",
+    "gn:population":2,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatun",
+        "Rancho El Gat\u00fan",
+        "El Gat\u00fan",
+        "Gast\u00fan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4009740
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1a346daa0949222f14ad3759eb417b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075301,
+            "locality_id":1209911919,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1209911919,
+    "wof:lastmodified":1537667970,
+    "wof:name":"El Gatun",
+    "wof:parent_id":102075301,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.11745,
+    29.03583,
+    -104.11745,
+    29.03583
+],
+  "geometry": {"coordinates":[-104.11745000000001,29.03583],"type":"Point"}
+}

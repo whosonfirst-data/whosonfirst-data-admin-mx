@@ -1,0 +1,74 @@
+{
+  "id": 1243026293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1847,18.94616,-88.1847,18.94616",
+    "geom:latitude":18.94616,
+    "geom:longitude":-88.1847,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Los Angeles",
+    "gn:country_code":"MX",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8674774,
+    "gn:latitude":18.94616,
+    "gn:longitude":-88.1847,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Los \u00c1ngeles",
+    "gn:population":0,
+    "gn:timezone":"America/Cancun",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "Los Angeles"
+    ],
+    "name:spa_x_variant":[
+        "Los \u00c1ngeles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686711,
+        102079235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8674774
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1501f3f5cdf4db8e4aa5d3c593fec892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079235,
+            "locality_id":1243026293,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":1243026293,
+    "wof:lastmodified":1537668598,
+    "wof:name":"Los Angeles",
+    "wof:parent_id":102079235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1847,
+    18.94616,
+    -88.1847,
+    18.94616
+],
+  "geometry": {"coordinates":[-88.18470000000001,18.94616],"type":"Point"}
+}

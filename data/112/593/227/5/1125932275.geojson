@@ -1,0 +1,91 @@
+{
+  "id": 1125932275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.13365,20.40197,-99.13365,20.40197",
+    "geom:latitude":20.40197,
+    "geom:longitude":-99.13365,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.40197,
+    "lbl:longitude":-99.13365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "La Flor"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3813985,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Florida",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":150,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":150,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":228585,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":127467,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3813985,
+        "gp:id":127467,
+        "qs_pg:id":228585
+    },
+    "wof:country":"MX",
+    "wof:created":1497296846,
+    "wof:geomhash":"ab93d4669fdcd2f87e1acdd39b70f09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078645,
+            "locality_id":1125932275,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1125932275,
+    "wof:lastmodified":1509401467,
+    "wof:name":"La Florida",
+    "wof:parent_id":102078645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.13365,
+    20.40197,
+    -99.13365,
+    20.40197
+],
+  "geometry": {"coordinates":[-99.13365,20.40197],"type":"Point"}
+}

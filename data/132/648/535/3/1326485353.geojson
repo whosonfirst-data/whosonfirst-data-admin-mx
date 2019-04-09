@@ -1,0 +1,76 @@
+{
+  "id": 1326485353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.95583,23.05333,-105.95583,23.05333",
+    "geom:latitude":23.05333,
+    "geom:longitude":-105.95583,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Las Higueras",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3999829,
+    "gn:latitude":23.05333,
+    "gn:longitude":-105.95583,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Las Higueras",
+    "gn:population":601,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Higueras",
+        "Las Higueras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3999829
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7c5444d8856cbc0e32a8031c16ee5f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074315,
+            "locality_id":1326485353,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1326485353,
+    "wof:lastmodified":1537667665,
+    "wof:name":"Las Higueras",
+    "wof:parent_id":102074315,
+    "wof:placetype":"locality",
+    "wof:population":601,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.95583,
+    23.05333,
+    -105.95583,
+    23.05333
+],
+  "geometry": {"coordinates":[-105.95583000000001,23.05333],"type":"Point"}
+}

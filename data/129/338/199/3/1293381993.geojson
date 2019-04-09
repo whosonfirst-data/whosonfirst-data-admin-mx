@@ -1,0 +1,75 @@
+{
+  "id": 1293381993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.56499,29.0549,-107.56499,29.0549",
+    "geom:latitude":29.0549,
+    "geom:longitude":-107.56499,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"MX",
+    "gn:dem":1965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892432,
+    "gn:latitude":29.0549,
+    "gn:longitude":-107.56499,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Francisco"
+    ],
+    "name:spa_x_variant":[
+        "La Blanca",
+        "Rancho San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892432
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6ca63d397da14ed2bf09c8bd09760d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075343,
+            "locality_id":1293381993,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293381993,
+    "wof:lastmodified":1537672814,
+    "wof:name":"San Francisco",
+    "wof:parent_id":102075343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.56499,
+    29.0549,
+    -107.56499,
+    29.0549
+],
+  "geometry": {"coordinates":[-107.56498999999999,29.0549],"type":"Point"}
+}

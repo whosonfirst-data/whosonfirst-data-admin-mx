@@ -1,0 +1,71 @@
+{
+  "id": 1293581325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.07683,27.54439,-105.07683,27.54439",
+    "geom:latitude":27.54439,
+    "geom:longitude":-105.07683,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Santa Clara",
+    "gn:country_code":"MX",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8910416,
+    "gn:latitude":27.54439,
+    "gn:longitude":-105.07683,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Santa Clara",
+    "gn:population":15,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8910416
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"30c35ccf6787d2434930aea8eadb730e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075289,
+            "locality_id":1293581325,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293581325,
+    "wof:lastmodified":1536651720,
+    "wof:name":"Santa Clara",
+    "wof:parent_id":102075289,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.07683,
+    27.54439,
+    -105.07683,
+    27.54439
+],
+  "geometry": {"coordinates":[-105.07683,27.54439],"type":"Point"}
+}

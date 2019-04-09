@@ -1,0 +1,74 @@
+{
+  "id": 1343453009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.10574,31.3895,-106.10574,31.3895",
+    "geom:latitude":31.3895,
+    "geom:longitude":-106.10574,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Guadalupe",
+    "gn:country_code":"MX",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":4005405,
+    "gn:latitude":31.3895,
+    "gn:longitude":-106.10574,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Guadalupe",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guadalupe Bravo",
+        "Guadalupe Bravos",
+        "Guadalupe D B"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4005405,
+        "wk:page":"Guadalupe_Municipality%2C_Chihuahua"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9113476a8aa0178a2cd63b5cb4cb625b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075241,
+            "locality_id":1343453009,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1343453009,
+    "wof:lastmodified":1537667835,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":102075241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.10574,
+    31.3895,
+    -106.10574,
+    31.3895
+],
+  "geometry": {"coordinates":[-106.10574,31.3895],"type":"Point"}
+}

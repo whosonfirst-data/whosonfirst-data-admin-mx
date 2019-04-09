@@ -1,0 +1,91 @@
+{
+  "id": 1125994033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.2,19.2,-98.2,19.2",
+    "geom:latitude":19.2,
+    "geom:longitude":-98.2,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7591,
+    "gn:population":1841,
+    "iso:country":"MX",
+    "lbl:latitude":19.2,
+    "lbl:longitude":-98.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ayometla"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3532521,
+    "qs_pg:gn_pop":7591,
+    "qs_pg:name":"Ayometitla",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tlaxcala",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":282912,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":112762,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tlaxcala",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686653,
+        102077891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3532521,
+        "gp:id":112762,
+        "qs_pg:id":282912
+    },
+    "wof:country":"MX",
+    "wof:created":1497299200,
+    "wof:geomhash":"aaf01733cd5455d9015e6f46a87c4674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077891,
+            "locality_id":1125994033,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1125994033,
+    "wof:lastmodified":1509405598,
+    "wof:name":"Ayometitla",
+    "wof:parent_id":102077891,
+    "wof:placetype":"locality",
+    "wof:population":1841,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.2,
+    19.2,
+    -98.2,
+    19.2
+],
+  "geometry": {"coordinates":[-98.2,19.2],"type":"Point"}
+}

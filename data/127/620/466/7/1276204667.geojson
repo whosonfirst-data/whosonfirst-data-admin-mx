@@ -1,0 +1,72 @@
+{
+  "id": 1276204667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.93264,26.65583,-103.93264,26.65583",
+    "geom:latitude":26.65583,
+    "geom:longitude":-103.93264,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"San Jose del Centro",
+    "gn:country_code":"MX",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3986164,
+    "gn:latitude":26.65583,
+    "gn:longitude":-103.93264,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Jos\u00e9 del Centro",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Rancho San Jos\u00e9 del Cento",
+        "San Jos\u00e9 del Centro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986164
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ca3c3cd8b46b42ef90efffee0dd27f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075497,
+            "locality_id":1276204667,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1276204667,
+    "wof:lastmodified":1537667321,
+    "wof:name":"San Jose del Centro",
+    "wof:parent_id":102075497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.93264,
+    26.65583,
+    -103.93264,
+    26.65583
+],
+  "geometry": {"coordinates":[-103.93264000000001,26.65583],"type":"Point"}
+}

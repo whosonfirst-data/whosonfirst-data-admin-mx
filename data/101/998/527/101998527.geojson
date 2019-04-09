@@ -1,0 +1,117 @@
+{
+  "id": 101998527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":199549.26938,
+    "geom:bbox":"-96.9960374253,18.5925467065,-96.9908549373,18.5977984267",
+    "geom:latitude":18.595329,
+    "geom:longitude":-96.993248,
+    "iso:country":"MX",
+    "lbl:latitude":18.595327,
+    "lbl:longitude":-96.993298,
+    "mps:latitude":18.595327,
+    "mps:longitude":-96.993298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Mixtla de Altamirano"
+    ],
+    "name:dut_x_preferred":[
+        "Mixtla de Altamirano Municipality"
+    ],
+    "name:eng_x_preferred":[
+        "Mixtla de Altamirano Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Mixtla de Altamirano"
+    ],
+    "name:eus_x_preferred":[
+        "Mixtla de Altamirano"
+    ],
+    "name:fre_x_preferred":[
+        "Mixtla de Altamirano"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Mixtla de Altamirano"
+    ],
+    "name:spa_x_preferred":[
+        "Mixtla de Altamirano"
+    ],
+    "name:spa_x_variant":[
+        "Andres Mixtla",
+        "Mixtla"
+    ],
+    "name:swe_x_preferred":[
+        "Mixtla de Altamirano"
+    ],
+    "name:unk_x_variant":[
+        "Andres Mixtla"
+    ],
+    "name:vie_x_preferred":[
+        "Mixtla de Altamirano"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Veracruz de Ignacio de la Llave",
+    "qs:a1_lc":"30",
+    "qs:a1r":"*",
+    "qs:a2":"Mixtla de Altamirano",
+    "qs:a2_lc":"30110",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mixtla de Altamirano",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01b8b250-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3523118,
+        "gp:id":133828,
+        "wd:id":"Q3846974",
+        "wk:page":"Mixtla de Altamirano"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ee7cb810f3114dee41a0d2170e459f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077621,
+            "locality_id":101998527,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":101998527,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815697,
+    "wof:name":"Mixtla de Altamirano",
+    "wof:parent_id":102077621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.99603742529291,
+    18.59254670648793,
+    -96.99085493731555,
+    18.5977984266833
+],
+  "geometry": {"coordinates":[[[-96.99407279938714,18.59773056540592],[-96.99395415489927,18.597700130163],[-96.99375834221526,18.59759860059732],[-96.99342586070837,18.59745984863391],[-96.99314257631741,18.59744038898021],[-96.99292894641756,18.59736521900421],[-96.99271032430578,18.59723182670743],[-96.99245787166674,18.59705156804683],[-96.99238650037046,18.59696187185975],[-96.99234686775522,18.5968476127536],[-96.99230502734861,18.59680412320328],[-96.99223722631613,18.596840456146],[-96.99220982052636,18.59696664812085],[-96.99217391167497,18.59705845663688],[-96.99209453424656,18.59709301472348],[-96.99201304124252,18.59709650017277],[-96.99191317926939,18.59706837248933],[-96.9917856495304,18.59699592212511],[-96.99155578434087,18.5967559243117],[-96.9914436952408,18.59664661578064],[-96.99141161684099,18.59654008399943],[-96.99120723286315,18.59652713326208],[-96.99085493731555,18.59659667574974],[-96.99126798443679,18.5946786849189],[-96.99171572873286,18.59259546995429],[-96.99171689315746,18.59259005059793],[-96.99276100973046,18.59254670648793],[-96.99334187526908,18.59293640616096],[-96.99386031499203,18.59328422143974],[-96.99461504541458,18.59379055389303],[-96.99466718087757,18.59393712033146],[-96.99475376327466,18.59418052557855],[-96.99481713299375,18.59435867541491],[-96.99603742529291,18.5977984266833],[-96.9958840968276,18.59769640755551],[-96.99564465743589,18.59757442761713],[-96.99545374031099,18.59749592113123],[-96.99532311807741,18.59748186038806],[-96.99505115137684,18.59750106529176],[-96.99486771798226,18.597503565027],[-96.99465800573904,18.59748180563988],[-96.99448084325513,18.59757958487545],[-96.99429392338145,18.5976601727713],[-96.99419368171722,18.5977137672067],[-96.99407279938714,18.59773056540592]]],"type":"Polygon"}
+}

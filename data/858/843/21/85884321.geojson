@@ -1,0 +1,116 @@
+{
+  "id": 85884321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000182,
+    "geom:area_square_m":2119311.023221,
+    "geom:bbox":"-99.1176310608,19.3161998028,-99.1004125976,19.3318782352",
+    "geom:latitude":19.325549,
+    "geom:longitude":-99.108712,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.324102,
+    "lbl:longitude":-99.110413,
+    "mps:latitude":19.325517,
+    "mps:longitude":-99.108015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Ex Ejido San Pablo Tepetlapa"
+    ],
+    "name:unk_x_variant":[
+        "Ex Ejido San Pablo Tepetlapa"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Ex Ejido San Pablo Tepetlapa",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":2,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902690,
+        "qs:id":912570
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3fb201f76203bbe4b04d51841da87223",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884321,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85884321,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884321,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527269997,
+    "wof:name":"Ex Ejido San Pablo Tepetlapa",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1176310608081,
+    19.31619980282314,
+    -99.10041259764989,
+    19.33187823520012
+],
+  "geometry": {"coordinates":[[[-99.10721529069457,19.31648637139342],[-99.10802660075746,19.31619980282314],[-99.10826729727091,19.31632733202544],[-99.11315917969992,19.32151118570047],[-99.11315921848464,19.32151122680013],[-99.11630543593475,19.32484522575189],[-99.11763106080809,19.32812298910524],[-99.11607013612152,19.33176210445875],[-99.11590576172495,19.33187823520012],[-99.10491943359983,19.33187823520012],[-99.10253939396708,19.3301967338751],[-99.10209790152686,19.32965877378032],[-99.10117380232492,19.32792990577379],[-99.1006047448459,19.32605397467026],[-99.10041259764989,19.32410307145014],[-99.10045747625134,19.3236474113618],[-99.10721529069457,19.31648637139342]]],"type":"Polygon"}
+}

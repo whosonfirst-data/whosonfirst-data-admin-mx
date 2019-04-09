@@ -1,0 +1,77 @@
+{
+  "id": 1327381777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.0986,29.00624,-111.0986,29.00624",
+    "geom:latitude":29.00624,
+    "geom:longitude":-111.0986,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"San Eduardo",
+    "gn:country_code":"MX",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987295,
+    "gn:latitude":29.00624,
+    "gn:longitude":-111.0986,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Eduardo",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Eduardo"
+    ],
+    "name:spa_x_variant":[
+        "La Isla"
+    ],
+    "name:und_x_variant":[
+        "Rancho San Eduardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987295
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9b3ff40bc0f411ae7619bf4b7a455ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074513,
+            "locality_id":1327381777,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1327381777,
+    "wof:lastmodified":1537667351,
+    "wof:name":"San Eduardo",
+    "wof:parent_id":102074513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.0986,
+    29.00624,
+    -111.0986,
+    29.00624
+],
+  "geometry": {"coordinates":[-111.0986,29.00624],"type":"Point"}
+}

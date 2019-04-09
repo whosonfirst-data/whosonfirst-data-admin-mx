@@ -1,0 +1,123 @@
+{
+  "id": 101995233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":423515.459644,
+    "geom:bbox":"-97.5069400436,17.7412598254,-97.4959530728,17.7465611107",
+    "geom:latitude":17.744163,
+    "geom:longitude":-97.501132,
+    "iso:country":"MX",
+    "lbl:latitude":17.744197,
+    "lbl:longitude":-97.501129,
+    "mps:latitude":17.744197,
+    "mps:longitude":-97.501129,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:epo_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:eus_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina San Antonio Acutla"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:sco_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio",
+        "San Antonio Acutla"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "name:unk_x_variant":[
+        "Acoutla"
+    ],
+    "name:vie_x_preferred":[
+        "San Antonio Acutla"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a1r":"*",
+    "qs:a2":"San Antonio Acutla",
+    "qs:a2_lc":"20106",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Antonio Acutla",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01d3b8ca-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3519741,
+        "gp:id":55916675,
+        "wd:id":"Q3890971",
+        "wk:page":"San Antonio Acutla"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"89b64cc9630fa0f664bb9160578b9773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076775,
+            "locality_id":101995233,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":101995233,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815678,
+    "wof:name":"San Antonio Acutla",
+    "wof:parent_id":102076775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.50694004361112,
+    17.74125982543967,
+    -97.49595307281865,
+    17.74656111071432
+],
+  "geometry": {"coordinates":[[[-97.49598124417851,17.74601999224394],[-97.49595307281865,17.74594614128085],[-97.49644822450239,17.74432914114226],[-97.49692470491159,17.74277306300472],[-97.49704413575053,17.74238304918724],[-97.50187591554378,17.74209620103122],[-97.50293368639045,17.74203338906483],[-97.50341934904026,17.74177231471002],[-97.504003485544,17.74151245452429],[-97.5041139461882,17.74136565451217],[-97.50434892044564,17.74125982543967],[-97.5044231110911,17.74129800278561],[-97.50576838554828,17.74445913156186],[-97.50588057085452,17.74472273884375],[-97.50591467241344,17.74499603239018],[-97.50626205557467,17.74524444584441],[-97.50662703161881,17.74528657506742],[-97.50689838913694,17.7454105058124],[-97.50694004361112,17.74547254236776],[-97.50693559401482,17.7454860682071],[-97.50688890733072,17.7455119905565],[-97.50413518083411,17.74586667936748],[-97.50250203395737,17.74607701590339],[-97.49874286365473,17.74656111071432],[-97.49865942659443,17.74650319560925],[-97.49850656215806,17.74566294534755],[-97.49609984196948,17.74603323269482],[-97.49600168838893,17.74602203204541],[-97.49598124417851,17.74601999224394]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209282167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.44493,24.61724,-107.44493,24.61724",
+    "geom:latitude":24.61724,
+    "geom:longitude":-107.44493,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Argentina",
+    "gn:country_code":"MX",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3976585,
+    "gn:latitude":24.61724,
+    "gn:longitude":-107.44493,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Argentina",
+    "gn:population":0,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Argentina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3976585
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fd27a008211d4f0f3530af4a02f017ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209282167
+        }
+    ],
+    "wof:id":1209282167,
+    "wof:lastmodified":1537667079,
+    "wof:name":"Argentina",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.44493,
+    24.61724,
+    -107.44493,
+    24.61724
+],
+  "geometry": {"coordinates":[-107.44493,24.61724],"type":"Point"}
+}

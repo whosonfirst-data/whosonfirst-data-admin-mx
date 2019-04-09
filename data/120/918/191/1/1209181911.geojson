@@ -1,0 +1,65 @@
+{
+  "id": 1209181911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.30091,24.27059,-107.30091,24.27059",
+    "geom:latitude":24.27059,
+    "geom:longitude":-107.30091,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Santa Clara",
+    "gn:country_code":"MX",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9196690,
+    "gn:latitude":24.27059,
+    "gn:longitude":-107.30091,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Santa Clara",
+    "gn:population":0,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "Santa Clara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9196690
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c9a3c37208a50e92f750e5135e9e833f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209181911
+        }
+    ],
+    "wof:id":1209181911,
+    "wof:lastmodified":1537671971,
+    "wof:name":"Santa Clara",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.30091000000002,
+    24.27059,
+    -107.30091000000002,
+    24.27059
+],
+  "geometry": {"coordinates":[-107.30091000000002,24.27059],"type":"Point"}
+}

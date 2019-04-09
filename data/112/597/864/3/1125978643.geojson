@@ -1,0 +1,91 @@
+{
+  "id": 1125978643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.1561,20.72832,-105.1561,20.72832",
+    "geom:latitude":20.72832,
+    "geom:longitude":-105.1561,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.72832,
+    "lbl:longitude":-105.1561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "La Desembocada"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4002605,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Desembocada",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155856,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":127194,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4002605,
+        "gp:id":127194,
+        "qs_pg:id":1155856
+    },
+    "wof:country":"MX",
+    "wof:created":1497298455,
+    "wof:geomhash":"2fa5aece0f356a1cbd66043a023f9542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074595,
+            "locality_id":1125978643,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1125978643,
+    "wof:lastmodified":1509404623,
+    "wof:name":"La Desembocada",
+    "wof:parent_id":102074595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.1561,
+    20.72832,
+    -105.1561,
+    20.72832
+],
+  "geometry": {"coordinates":[-105.1561,20.72832],"type":"Point"}
+}

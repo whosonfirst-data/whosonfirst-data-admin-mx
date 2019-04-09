@@ -1,0 +1,82 @@
+{
+  "id": 1125997315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.46907,19.281494,-99.46907,19.281494",
+    "geom:latitude":19.281494,
+    "geom:longitude":-99.46907,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":19.281494,
+    "lbl:longitude":-99.46907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Amomolulco",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":286978,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55902733,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902733,
+        "qs_pg:id":286978
+    },
+    "wof:country":"MX",
+    "wof:created":1497299432,
+    "wof:geomhash":"9392513aa3d71e117005cadcd3346a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074097,
+            "locality_id":1125997315,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1125997315,
+    "wof:lastmodified":1509405868,
+    "wof:name":"Amomolulco",
+    "wof:parent_id":102074097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.46907,
+    19.281494,
+    -99.46907,
+    19.281494
+],
+  "geometry": {"coordinates":[-99.46907,19.281494],"type":"Point"}
+}

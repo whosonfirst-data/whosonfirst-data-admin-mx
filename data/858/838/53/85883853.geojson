@@ -1,0 +1,116 @@
+{
+  "id": 85883853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000216,
+    "geom:area_square_m":2523978.140214,
+    "geom:bbox":"-99.1516113281,19.3012649057,-99.1314365017,19.3189192178",
+    "geom:latitude":19.310838,
+    "geom:longitude":-99.140486,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.307948,
+    "lbl:longitude":-99.139411,
+    "mps:latitude":19.310898,
+    "mps:longitude":-99.139285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Santa Ursula Coapa"
+    ],
+    "name:unk_x_variant":[
+        "Santa Ursula Coapa"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Santa Ursula Coapa",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":234,
+    "qs:photo_sum":263,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898564,
+        "qs:id":1294638
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"26798693e7bc7cf011c0b34ca99d114c",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883853,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85883853,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883853,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270469,
+    "wof:name":"Santa Ursula Coapa",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.15161132812483,
+    19.30126490573112,
+    -99.13143650171588,
+    19.31891921777546
+],
+  "geometry": {"coordinates":[[[-99.1485641440849,19.31891921777546],[-99.14611820283721,19.31632737310005],[-99.14611816409993,19.31632737310005],[-99.140625,19.31632737310005],[-99.13513183589995,19.31632737310005],[-99.13513183589995,19.31632733202544],[-99.1323852539,19.31632733202544],[-99.1323852539,19.31348904598191],[-99.13143651002417,19.31114331397524],[-99.1317859759115,19.30855127412509],[-99.13143650171588,19.30595913155038],[-99.13236502777832,19.30366349646444],[-99.13764713077092,19.30126490573112],[-99.13787841797489,19.30167334954918],[-99.140625,19.30458356099433],[-99.14192322778678,19.30595913155038],[-99.14481991693435,19.30595913155038],[-99.14481995567536,19.30595917260003],[-99.14611816409993,19.30595917260003],[-99.14611816408529,19.30733474440645],[-99.14611816408421,19.31114331397524],[-99.15161132812074,19.31114331397524],[-99.15161132810832,19.31114335510003],[-99.15161132811249,19.31632737310005],[-99.15161132812483,19.31891921777546],[-99.1485641440849,19.31891921777546]]],"type":"Polygon"}
+}

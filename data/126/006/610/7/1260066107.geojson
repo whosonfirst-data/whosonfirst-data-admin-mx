@@ -1,0 +1,68 @@
+{
+  "id": 1260066107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.0,25.01667,-101.0,25.01667",
+    "geom:latitude":25.01667,
+    "geom:longitude":-101.0,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Banco",
+    "gn:country_code":"MX",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4017581,
+    "gn:latitude":25.01667,
+    "gn:longitude":-101.0,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Banco",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4017581
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b8f29606f2321efe48d54aca1b8b227b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078811,
+            "locality_id":1260066107,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1260066107,
+    "wof:lastmodified":1537012373,
+    "wof:name":"Banco",
+    "wof:parent_id":102078811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.0,
+    25.01667,
+    -101.0,
+    25.01667
+],
+  "geometry": {"coordinates":[-101.0,25.01667],"type":"Point"}
+}

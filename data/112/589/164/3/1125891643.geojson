@@ -1,0 +1,87 @@
+{
+  "id": 1125891643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.11524,19.73888,-101.11524,19.73888",
+    "geom:latitude":19.73888,
+    "geom:longitude":-101.11524,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.73888,
+    "lbl:longitude":-101.11524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Atapaneo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4018059,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Atapan",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Michoacan de Ocampo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":382406,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":112571,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Michoacan de Ocampo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686595,
+        102075017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4018059,
+        "gp:id":112571,
+        "qs_pg:id":382406
+    },
+    "wof:country":"MX",
+    "wof:created":1497295348,
+    "wof:geomhash":"743d6094e0d4223501a6cb0f5509dccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075017,
+            "locality_id":1125891643,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1125891643,
+    "wof:lastmodified":1509398835,
+    "wof:name":"Atapan",
+    "wof:parent_id":102075017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.11524,
+    19.73888,
+    -101.11524,
+    19.73888
+],
+  "geometry": {"coordinates":[-101.11524,19.73888],"type":"Point"}
+}

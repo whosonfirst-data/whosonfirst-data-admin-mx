@@ -1,0 +1,74 @@
+{
+  "id": 1344055495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.67778,16.33389,-92.67778,16.33389",
+    "geom:latitude":16.33389,
+    "geom:longitude":-92.67778,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"106.0",
+    "gn:asciiname":"Plan de los Angeles",
+    "gn:country_code":"MX",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8866980,
+    "gn:latitude":16.33389,
+    "gn:longitude":-92.67778,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Plan de los \u00c1ngeles",
+    "gn:population":320,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plan de los \u00c1ngeles"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8866980
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c5537d446b166bec33d7dbe51e88dc1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075657,
+            "locality_id":1344055495,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1344055495,
+    "wof:lastmodified":1537669448,
+    "wof:name":"Plan de los Angeles",
+    "wof:parent_id":102075657,
+    "wof:placetype":"locality",
+    "wof:population":320,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.67778,
+    16.33389,
+    -92.67778,
+    16.33389
+],
+  "geometry": {"coordinates":[-92.67778,16.33389],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343710603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.57583,22.43778,-101.57583,22.43778",
+    "geom:latitude":22.43778,
+    "geom:longitude":-101.57583,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"La Pendencia",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4000852,
+    "gn:latitude":22.43778,
+    "gn:longitude":-101.57583,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"La Pendencia",
+    "gn:population":1121,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pendencia",
+        "La Pendencia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686567,
+        102075409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4000852
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b56296aaf666d8b9ba981358ac76f0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075409,
+            "locality_id":1343710603,
+            "region_id":85686567
+        }
+    ],
+    "wof:id":1343710603,
+    "wof:lastmodified":1537667700,
+    "wof:name":"La Pendencia",
+    "wof:parent_id":102075409,
+    "wof:placetype":"locality",
+    "wof:population":1121,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.57583,
+    22.43778,
+    -101.57583,
+    22.43778
+],
+  "geometry": {"coordinates":[-101.57583,22.43778],"type":"Point"}
+}

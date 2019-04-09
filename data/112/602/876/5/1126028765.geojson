@@ -1,0 +1,93 @@
+{
+  "id": 1126028765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.05778,19.87,-99.05778,19.87",
+    "geom:latitude":19.87,
+    "geom:longitude":-99.05778,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7883,
+    "gn:population":8523,
+    "iso:country":"MX",
+    "lbl:latitude":19.87,
+    "lbl:longitude":-99.05778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Jilotaingo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3526499,
+    "qs_pg:gn_pop":7883,
+    "qs_pg:name":"San marcos jilotzingo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":748265,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":125913,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3526499,
+        "gp:id":125913,
+        "qs_pg:id":748265
+    },
+    "wof:country":"MX",
+    "wof:created":1497301318,
+    "wof:geomhash":"bb950478b233ac74eb319e83b2a72e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074149,
+            "locality_id":1126028765,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126028765,
+    "wof:lastmodified":1509407748,
+    "wof:name":"San marcos jilotzingo",
+    "wof:parent_id":102074149,
+    "wof:placetype":"locality",
+    "wof:population":8523,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.05778,
+    19.87,
+    -99.05778,
+    19.87
+],
+  "geometry": {"coordinates":[-99.05777999999999,19.87],"type":"Point"}
+}

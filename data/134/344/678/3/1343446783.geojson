@@ -1,0 +1,78 @@
+{
+  "id": 1343446783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.3361,27.94874,-101.3361,27.94874",
+    "geom:latitude":27.94874,
+    "geom:longitude":-101.3361,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"La Primera",
+    "gn:country_code":"MX",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3991696,
+    "gn:latitude":27.94874,
+    "gn:longitude":-101.3361,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"La Primera",
+    "gn:population":4,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Primera"
+    ],
+    "name:und_x_variant":[
+        "Rancho La Primera",
+        "Primera"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3991696
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"91070a21861330be4d6d15dc66ff97aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078807,
+            "locality_id":1343446783,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1343446783,
+    "wof:lastmodified":1537667465,
+    "wof:name":"La Primera",
+    "wof:parent_id":102078807,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.3361,
+    27.94874,
+    -101.3361,
+    27.94874
+],
+  "geometry": {"coordinates":[-101.3361,27.94874],"type":"Point"}
+}

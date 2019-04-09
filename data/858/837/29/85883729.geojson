@@ -1,0 +1,115 @@
+{
+  "id": 85883729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":190860.892469,
+    "geom:bbox":"-99.1824725588,19.3804258966,-99.1785905272,19.3862955056",
+    "geom:latitude":19.383574,
+    "geom:longitude":-99.180437,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.383537,
+    "lbl:longitude":-99.180216,
+    "mps:latitude":19.383601,
+    "mps:longitude":-99.180437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Ciudad de Los Deportes"
+    ],
+    "name:unk_x_variant":[
+        "Ciudad de Los Deportes"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Ciudad de Los Deportes",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Benito Juarez",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":105,
+    "qs:photo_sum":311,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599936,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535769,
+        102073737,
+        85686515,
+        101991153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898033,
+        "qs:id":475122
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"17fb09b2737bcfebed683140eb95cd75",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883729,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":101991153,
+            "neighbourhood_id":85883729,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883729,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270506,
+    "wof:name":"Ciudad de Los Deportes",
+    "wof:parent_id":890535769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.18247255882653,
+    19.38042589655954,
+    -99.17859052722068,
+    19.38629550556399
+],
+  "geometry": {"coordinates":[[[-99.17907714841451,19.38206527155815],[-99.17907714840999,19.38111371580004],[-99.17907714841806,19.38042589655954],[-99.18102368207002,19.38111371580004],[-99.18144312105221,19.38126192705904],[-99.18158151339665,19.38127055680236],[-99.18169933115922,19.38124557771698],[-99.18182373050001,19.38164119609522],[-99.18247255882653,19.38370462810653],[-99.18182373049271,19.38439244400152],[-99.18182373048606,19.38629550556399],[-99.17907714841388,19.38629550556399],[-99.17907714841451,19.38473635421845],[-99.17859052722068,19.3842204893987],[-99.17895640488894,19.3830569077505],[-99.17875273282758,19.38240917752532],[-99.17907714841451,19.38206527155815]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102536381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.025277778,19.8497222222,-101.025277778,19.8497222222",
+    "geom:latitude":19.849722,
+    "geom:longitude":-101.025278,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"6033",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12600442,
+        "planet_id":1,
+        "state_id":2346279
+    },
+    "wof:belongsto":[
+        85633293,
+        85686595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514879,
+        "iata:code":"MLM",
+        "icao:code":"MMMM",
+        "oa:id":"4728",
+        "wd:id":"Q2231705"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8b912d4c9df6ff35c02718c2ca28cfee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536381,
+            "country_id":85633293,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":102536381,
+    "wof:lastmodified":1543856641,
+    "wof:name":"General Francisco J Mujica Airport",
+    "wof:parent_id":85686595,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -101.02527777778,
+    19.849722222222,
+    -101.02527777778,
+    19.849722222222
+],
+  "geometry": {"coordinates":[-101.02527777778,19.849722222222],"type":"Point"}
+}

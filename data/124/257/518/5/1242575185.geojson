@@ -1,0 +1,73 @@
+{
+  "id": 1242575185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.14707,28.03647,-106.14707,28.03647",
+    "geom:latitude":28.03647,
+    "geom:longitude":-106.14707,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Los Hernandez",
+    "gn:country_code":"MX",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3997691,
+    "gn:latitude":28.03647,
+    "gn:longitude":-106.14707,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Los Hern\u00e1ndez",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hern\u00e1ndez",
+        "San Jos\u00e9 de Hern\u00e1ndez",
+        "Los Hern\u00e1ndez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997691
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fa20ea67ac6c5bf762a82f2fe8ba5c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075359,
+            "locality_id":1242575185,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1242575185,
+    "wof:lastmodified":1537667598,
+    "wof:name":"Los Hernandez",
+    "wof:parent_id":102075359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.14707,
+    28.03647,
+    -106.14707,
+    28.03647
+],
+  "geometry": {"coordinates":[-106.14707,28.03647],"type":"Point"}
+}

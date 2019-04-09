@@ -1,0 +1,71 @@
+{
+  "id": 1209698095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.33722,19.42528,-99.33722,19.42528",
+    "geom:latitude":19.42528,
+    "geom:longitude":-99.33722,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"37.0",
+    "gn:asciiname":"Barrio la Manzana (La Rinconada)",
+    "gn:country_code":"MX",
+    "gn:dem":2756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8861608,
+    "gn:latitude":19.42528,
+    "gn:longitude":-99.33722,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Barrio la Manzana (La Rinconada)",
+    "gn:population":663,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8861608
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0b3e19afb7f766c9e45d7f431b6ad00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074147,
+            "locality_id":1209698095,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1209698095,
+    "wof:lastmodified":1536396226,
+    "wof:name":"Barrio la Manzana (La Rinconada)",
+    "wof:parent_id":102074147,
+    "wof:placetype":"locality",
+    "wof:population":663,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.33722,
+    19.42528,
+    -99.33722,
+    19.42528
+],
+  "geometry": {"coordinates":[-99.33722,19.42528],"type":"Point"}
+}

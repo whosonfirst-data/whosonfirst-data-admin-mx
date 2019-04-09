@@ -1,0 +1,122 @@
+{
+  "id": 85884073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":114292.556937,
+    "geom:bbox":"-99.168739998,19.2871254439,-99.1646950541,19.2910934266",
+    "geom:latitude":19.2894,
+    "geom:longitude":-99.166409,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.288995,
+    "lbl:longitude":-99.166799,
+    "mps:latitude":19.289571,
+    "mps:longitude":-99.166206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_colloquial":[
+        "Barrio Nino Jesus"
+    ],
+    "name:spa_x_preferred":[
+        "Barrio Ni\u00f1o Jesus"
+    ],
+    "name:unk_x_variant":[
+        "Barrio Ni\u00f1o Jesus"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Barrio Ni\u00f1o Jesus",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Tlalpan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":37,
+    "qs:photo_sum":90,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599947,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991157,
+        890535779,
+        102073729,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20219697,
+        "qs:id":475294,
+        "qs_pg:id":500998
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ea714d3123c15d7f2915c3bc7a102a88",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535779,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073729,
+            "locality_id":101991157,
+            "neighbourhood_id":85884073,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535779,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884073,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884073,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957717,
+    "wof:name":"Barrio Ni\u00f1o Jesus",
+    "wof:parent_id":890535779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.16873999797042,
+    19.28712544386141,
+    -99.16469505414636,
+    19.29109342659794
+],
+  "geometry": {"coordinates":[[[-99.16534423827494,19.29109342659794],[-99.16469505899937,19.29040562925033],[-99.16510286850749,19.28910944245004],[-99.16469505414636,19.28781323002535],[-99.1653442382833,19.28712544386141],[-99.16628057839347,19.28745611623125],[-99.16639293744024,19.28781324030007],[-99.16671752930003,19.28781324030007],[-99.16671752930003,19.28846134345122],[-99.16740417479986,19.28846134350965],[-99.16740417479986,19.28910944500008],[-99.16809082029997,19.28910944500008],[-99.16809082029997,19.28945333963161],[-99.16848408408549,19.28959222427878],[-99.16873999797042,19.29040563352105],[-99.16809082029997,19.29109342658906],[-99.16671752929994,19.29060843170392],[-99.16534423827494,19.29109342659794]]],"type":"Polygon"}
+}

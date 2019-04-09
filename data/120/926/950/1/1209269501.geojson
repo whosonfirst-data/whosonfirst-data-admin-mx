@@ -1,0 +1,65 @@
+{
+  "id": 1209269501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.33745,25.46513,-108.33745,25.46513",
+    "geom:latitude":25.46513,
+    "geom:longitude":-108.33745,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Campo San Javier",
+    "gn:country_code":"MX",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8943769,
+    "gn:latitude":25.46513,
+    "gn:longitude":-108.33745,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Campo San Javier",
+    "gn:population":5,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8943769
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d3f465b4a4b7e5fc16d079b3fa1b1f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209269501
+        }
+    ],
+    "wof:id":1209269501,
+    "wof:lastmodified":1536292408,
+    "wof:name":"Campo San Javier",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.33745,
+    25.46513,
+    -108.33745,
+    25.46513
+],
+  "geometry": {"coordinates":[-108.33745,25.46513],"type":"Point"}
+}

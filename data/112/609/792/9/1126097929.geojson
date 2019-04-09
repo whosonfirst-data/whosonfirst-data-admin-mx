@@ -1,0 +1,92 @@
+{
+  "id": 1126097929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.94825,20.18511,-96.94825,20.18511",
+    "geom:latitude":20.18511,
+    "geom:longitude":-96.94825,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6261,
+    "gn:population":6261,
+    "iso:country":"MX",
+    "lbl:latitude":20.18511,
+    "lbl:longitude":-96.94825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Vega de San Marcos"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3518451,
+    "qs_pg:gn_pop":6261,
+    "qs_pg:name":"Vega de San Marcos (ejido)",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":73783,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55912449,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102077841,
+        85686671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3518451,
+        "gp:id":55912449,
+        "qs_pg:id":73783
+    },
+    "wof:country":"MX",
+    "wof:created":1497315543,
+    "wof:geomhash":"b10ac5c4b8b244db3c99a09271ce46c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077841,
+            "locality_id":-1,
+            "neighbourhood_id":1126097929,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126097929,
+    "wof:lastmodified":1509411974,
+    "wof:name":"Vega de San Marcos (ejido)",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":6261,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.94825,
+    20.18511,
+    -96.94825,
+    20.18511
+],
+  "geometry": {"coordinates":[-96.94825,20.18511],"type":"Point"}
+}

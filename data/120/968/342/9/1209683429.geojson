@@ -1,0 +1,65 @@
+{
+  "id": 1209683429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.27504,25.32469,-108.27504,25.32469",
+    "geom:latitude":25.32469,
+    "geom:longitude":-108.27504,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2",
+    "gn:asciiname":"El Bonete",
+    "gn:country_code":"MX",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8898563,
+    "gn:latitude":25.32469,
+    "gn:longitude":-108.27504,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Bonete",
+    "gn:population":30,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8898563
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fa879e241290d716d2b0e3a1bd331c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209683429
+        }
+    ],
+    "wof:id":1209683429,
+    "wof:lastmodified":1536279495,
+    "wof:name":"El Bonete",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.27504,
+    25.32469,
+    -108.27504,
+    25.32469
+],
+  "geometry": {"coordinates":[-108.27504,25.32469],"type":"Point"}
+}

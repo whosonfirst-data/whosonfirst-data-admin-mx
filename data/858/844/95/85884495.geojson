@@ -1,0 +1,116 @@
+{
+  "id": 85884495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000258,
+    "geom:area_square_m":3013396.874645,
+    "geom:bbox":"-99.1021728516,19.4691816844,-99.0829467773,19.4898966396",
+    "geom:latitude":19.480714,
+    "geom:longitude":-99.092538,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.478365,
+    "lbl:longitude":-99.093903,
+    "mps:latitude":19.48103,
+    "mps:longitude":-99.092538,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Dm Nacional"
+    ],
+    "name:unk_x_variant":[
+        "Dm Nacional"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Dm Nacional",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Gustavo A. Madero",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":46,
+    "qs:photo_sum":81,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599940,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991167,
+        890535763,
+        102073745,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55904072,
+        "qs:id":1342682
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9a943f97075a9bb9d28108e8c2a8b512",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073745,
+            "locality_id":101991167,
+            "neighbourhood_id":85884495,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884495,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884495,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957720,
+    "wof:name":"Dm Nacional",
+    "wof:parent_id":890535763,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.10217285159027,
+    19.46918168440017,
+    -99.08294677732493,
+    19.48989663955014
+],
+  "geometry": {"coordinates":[[[-99.08569335938529,19.47695016510022],[-99.08569335938503,19.47177130210001],[-99.085693359375,19.46918168440017],[-99.08874505574073,19.46918168440017],[-99.09118652339998,19.47177126069872],[-99.09118656243328,19.47177130210001],[-99.09158707468589,19.47219611093682],[-99.09199523453162,19.47436076465034],[-99.09393310550004,19.47436076815501],[-99.09667968749991,19.47436076881546],[-99.09716289038812,19.47436076465034],[-99.09797665117762,19.47695016510022],[-99.10217285158191,19.47695016510022],[-99.10217285159027,19.47695020650009],[-99.10217285158529,19.48212894530002],[-99.10217285157501,19.4847181491501],[-99.10013808598475,19.4857973364719],[-99.09820584788349,19.48989663955014],[-99.09118652342494,19.48989663955014],[-99.08915163206854,19.48881735100174],[-99.08772812492731,19.48579733645165],[-99.08294677732493,19.4832614326909],[-99.08294677732493,19.47986345830539],[-99.08569332034631,19.47695020650222],[-99.08569335938529,19.47695016510022]]],"type":"Polygon"}
+}

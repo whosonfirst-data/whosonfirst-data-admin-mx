@@ -1,0 +1,130 @@
+{
+  "id": 85883731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":1337952.773561,
+    "geom:bbox":"-99.1790771484,19.3907893201,-99.1680908203,19.407021044",
+    "geom:latitude":19.399352,
+    "geom:longitude":-99.173955,
+    "iso:country":"MX",
+    "lbl:latitude":19.397039,
+    "lbl:longitude":-99.173642,
+    "mps:latitude":19.398675,
+    "mps:longitude":-99.17406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "name:pol_x_preferred":[
+        "N\u00e1poles"
+    ],
+    "name:spa_x_preferred":[
+        "Napoles"
+    ],
+    "name:spa_x_variant":[
+        "Col. Napoles",
+        "Col. N\u00e1poles",
+        "N\u00e1poles"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Napoles",
+        "Napoles"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Colonia N\u00e1poles",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Napoles",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":243,
+    "qs:photo_sum":2063,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":31,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":237,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535769,
+        102073737,
+        85686515,
+        101991153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7280709,
+        "gp:id":55898037,
+        "qs:id":1115076,
+        "qs_pg:id":1115076,
+        "wd:id":"Q7071374"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e94aab1dbcabc73352ea1fe9cef1be6c",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883731,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":101991153,
+            "neighbourhood_id":85883731,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883731,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"Napoles",
+    "wof:parent_id":890535769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.17907714841664,
+    19.39078932012002,
+    -99.16809082029997,
+    19.40702104400003
+],
+  "geometry": {"coordinates":[[[-99.17083740229992,19.40702104400003],[-99.17083740229992,19.40443049680007],[-99.17083740229992,19.40183990830009],[-99.16809082029997,19.40183990830009],[-99.16809082029997,19.40115208397681],[-99.16809082029997,19.39924927286414],[-99.16809082029997,19.3966586011628],[-99.17018862099295,19.39665860159197],[-99.17059589990913,19.39536325410029],[-99.17083740229992,19.39536325515678],[-99.1718863008968,19.39536325518361],[-99.17208994257464,19.39471557667527],[-99.17188629935998,19.39406789378776],[-99.17221069339996,19.39406789453739],[-99.17289733889999,19.39406789499391],[-99.17289733889999,19.39359216491636],[-99.17289733889999,19.39342021090009],[-99.17324066161513,19.39342021090009],[-99.17324066161549,19.39309636759086],[-99.17358398440001,19.39309636757451],[-99.17358398440001,19.39277252380005],[-99.17358398440001,19.39225666044419],[-99.17358398439814,19.39147714190008],[-99.17358398439049,19.39078932012002],[-99.17553040133652,19.39147714190008],[-99.17601697240423,19.3916490856237],[-99.17620621565106,19.39160896074267],[-99.17633056573302,19.39200444995276],[-99.17697935502795,19.39406789109819],[-99.17907714841556,19.39406788894719],[-99.17907714841388,19.39665860187804],[-99.17907714841664,19.39924927171688],[-99.17907714841556,19.40183990186274],[-99.17633056639997,19.40183990186274],[-99.17633056639997,19.40443048991678],[-99.17633056639997,19.40702103827793],[-99.17358398438606,19.40702103827793],[-99.17148614313032,19.40702103799185],[-99.17083740229992,19.40702104400003]]],"type":"Polygon"}
+}

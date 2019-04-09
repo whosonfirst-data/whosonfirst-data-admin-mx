@@ -1,0 +1,116 @@
+{
+  "id": 85883777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":193976.616254,
+    "geom:bbox":"-99.1845703125,19.3448365261,-99.1804504395,19.3500194817",
+    "geom:latitude":19.347488,
+    "geom:longitude":-99.182905,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.346644,
+    "lbl:longitude":-99.183187,
+    "mps:latitude":19.347546,
+    "mps:longitude":-99.183072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Guadalupe Chimalistac"
+    ],
+    "name:unk_x_variant":[
+        "Guadalupe Chimalistac"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Guadalupe Chimalistac",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":126,
+    "qs:photo_sum":148,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898208,
+        "qs:id":1091876
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b8530e97483c42bd84782f0637200573",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883777,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85883777,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883777,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270507,
+    "wof:name":"Guadalupe Chimalistac",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.18457031249997,
+    19.34483652605007,
+    -99.18045043947484,
+    19.35001948170007
+],
+  "geometry": {"coordinates":[[[-99.18182373050001,19.35001948170007],[-99.18182373050001,19.34872375838637],[-99.18077491819412,19.34872375841266],[-99.18045043949996,19.34872375990008],[-99.18045043948533,19.34837985552657],[-99.18045043948533,19.34742802790008],[-99.18045043947484,19.34722537723094],[-99.18182373048535,19.34674021690775],[-99.1818237304843,19.34483652647818],[-99.18392134168795,19.34483652605007],[-99.18457031249997,19.34483653290006],[-99.18457031249997,19.34742802790008],[-99.18457031249997,19.34872375828529],[-99.18457031249997,19.35001948170007],[-99.18392135626544,19.35001947570638],[-99.1824726851184,19.35001947570638],[-99.18182373050001,19.35001948170007]]],"type":"Polygon"}
+}

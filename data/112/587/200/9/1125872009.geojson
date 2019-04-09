@@ -1,0 +1,91 @@
+{
+  "id": 1125872009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.66976,20.95735,-104.66976,20.95735",
+    "geom:latitude":20.95735,
+    "geom:longitude":-104.66976,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":560,
+    "iso:country":"MX",
+    "lbl:latitude":20.95735,
+    "lbl:longitude":-104.66976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Santa Cruz Camotl\u00e1n"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4016027,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Camotl\u00e1n",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Nayarit",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":180044,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":114303,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Nayarit",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4016027,
+        "gp:id":114303,
+        "qs_pg:id":180044
+    },
+    "wof:country":"MX",
+    "wof:created":1497294348,
+    "wof:geomhash":"a317c0eb7570de93ee03c74000e5948c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074551,
+            "locality_id":1125872009,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1125872009,
+    "wof:lastmodified":1509397393,
+    "wof:name":"Camotl\u00e1n",
+    "wof:parent_id":102074551,
+    "wof:placetype":"locality",
+    "wof:population":560,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.66976,
+    20.95735,
+    -104.66976,
+    20.95735
+],
+  "geometry": {"coordinates":[-104.66976,20.95735],"type":"Point"}
+}

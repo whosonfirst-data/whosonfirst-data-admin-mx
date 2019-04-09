@@ -1,0 +1,76 @@
+{
+  "id": 1343517821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.41474,21.08121,-99.41474,21.08121",
+    "geom:latitude":21.08121,
+    "geom:longitude":-99.41474,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"San Agustin",
+    "gn:country_code":"MX",
+    "gn:dem":1793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3523936,
+    "gn:latitude":21.08121,
+    "gn:longitude":-99.41474,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Agust\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:und_x_variant":[
+        "Pilones",
+        "Pelones",
+        "Los Pelones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686641,
+        102077097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3523936
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"aa722f745cbff06c47114603d5c8210f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077097,
+            "locality_id":1343517821,
+            "region_id":85686641
+        }
+    ],
+    "wof:id":1343517821,
+    "wof:lastmodified":1537666160,
+    "wof:name":"San Agustin",
+    "wof:parent_id":102077097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.41474,
+    21.08121,
+    -99.41474,
+    21.08121
+],
+  "geometry": {"coordinates":[-99.41473999999999,21.08121],"type":"Point"}
+}

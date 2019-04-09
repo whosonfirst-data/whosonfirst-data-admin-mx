@@ -1,0 +1,68 @@
+{
+  "id": 1242660521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.2,20.81667,-102.2,20.81667",
+    "geom:latitude":20.81667,
+    "geom:longitude":-102.2,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Edificios",
+    "gn:country_code":"MX",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4011700,
+    "gn:latitude":20.81667,
+    "gn:longitude":-102.2,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Edificios",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4011700
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"41cec02eaf695368b59d0fbf3868e866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074703,
+            "locality_id":1242660521,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1242660521,
+    "wof:lastmodified":1536944866,
+    "wof:name":"Edificios",
+    "wof:parent_id":102074703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.2,
+    20.81667,
+    -102.2,
+    20.81667
+],
+  "geometry": {"coordinates":[-102.2,20.81667],"type":"Point"}
+}

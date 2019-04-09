@@ -1,0 +1,74 @@
+{
+  "id": 1327098631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.19426,18.30015,-98.19426,18.30015",
+    "geom:latitude":18.30015,
+    "geom:longitude":-98.19426,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"157.0",
+    "gn:asciiname":"San Jose las Calaveras",
+    "gn:country_code":"MX",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3818990,
+    "gn:latitude":18.30015,
+    "gn:longitude":-98.19426,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"San Jos\u00e9 las Calaveras",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 las Calaveras"
+    ],
+    "name:spa_x_variant":[
+        "Las Calaveras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686657,
+        102078329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3818990
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a3db1558f185081035531795a7c16d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078329,
+            "locality_id":1327098631,
+            "region_id":85686657
+        }
+    ],
+    "wof:id":1327098631,
+    "wof:lastmodified":1537666754,
+    "wof:name":"San Jose las Calaveras",
+    "wof:parent_id":102078329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.19426,
+    18.30015,
+    -98.19426,
+    18.30015
+],
+  "geometry": {"coordinates":[-98.19426,18.30015],"type":"Point"}
+}

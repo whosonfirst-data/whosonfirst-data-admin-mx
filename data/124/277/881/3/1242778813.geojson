@@ -1,0 +1,75 @@
+{
+  "id": 1242778813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.35689,25.14134,-111.35689,25.14134",
+    "geom:latitude":25.14134,
+    "geom:longitude":-111.35689,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Los Batequitos",
+    "gn:country_code":"MX",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4017283,
+    "gn:latitude":25.14134,
+    "gn:longitude":-111.35689,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Los Batequitos",
+    "gn:population":0,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Batequitos"
+    ],
+    "name:und_x_variant":[
+        "Batequitos",
+        "Batequito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4017283
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"29a24286f1eec3a29e5fbf699d67c596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074523,
+            "locality_id":1242778813,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1242778813,
+    "wof:lastmodified":1537668146,
+    "wof:name":"Los Batequitos",
+    "wof:parent_id":102074523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.35689,
+    25.14134,
+    -111.35689,
+    25.14134
+],
+  "geometry": {"coordinates":[-111.35689000000001,25.14134],"type":"Point"}
+}

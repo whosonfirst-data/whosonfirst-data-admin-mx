@@ -1,0 +1,71 @@
+{
+  "id": 1360263575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.42316,25.93275,-105.42316,25.93275",
+    "geom:latitude":25.93275,
+    "geom:longitude":-105.42316,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"San Jose del Panal (San Jose)",
+    "gn:country_code":"MX",
+    "gn:dem":1583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986418,
+    "gn:latitude":25.93275,
+    "gn:longitude":-105.42316,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Jos\u00e9 del Panal (San Jos\u00e9)",
+    "gn:population":20,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986418
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c2e0bdd63d9860ee31772b3872244b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075177,
+            "locality_id":1360263575,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1360263575,
+    "wof:lastmodified":1536688286,
+    "wof:name":"San Jose del Panal (San Jose)",
+    "wof:parent_id":102075177,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.42316,
+    25.93275,
+    -105.42316,
+    25.93275
+],
+  "geometry": {"coordinates":[-105.42316,25.93275],"type":"Point"}
+}

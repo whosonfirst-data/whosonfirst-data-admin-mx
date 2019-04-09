@@ -1,0 +1,84 @@
+{
+  "id": 1125928299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.65579,19.32545,-97.65579,19.32545",
+    "geom:latitude":19.32545,
+    "geom:longitude":-97.65579,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12548,
+    "gn:population":12548,
+    "iso:country":"MX",
+    "lbl:latitude":19.32545,
+    "lbl:longitude":-97.65579,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Carmen Tequesquitla"
+    ],
+    "name:unk_x_variant":[
+        "El Carmen"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3815299,
+    "qs_pg:gn_pop":12548,
+    "qs_pg:name":"Tequixquitla",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":150347,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686653,
+        102077965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815299,
+        "qs_pg:id":150347
+    },
+    "wof:country":"MX",
+    "wof:created":1497296720,
+    "wof:geomhash":"48cc2d574c47b37857e0f9d7e848f6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077965,
+            "locality_id":1125928299,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1125928299,
+    "wof:lastmodified":1509401226,
+    "wof:name":"Tequixquitla",
+    "wof:parent_id":102077965,
+    "wof:placetype":"locality",
+    "wof:population":12548,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.65579,
+    19.32545,
+    -97.65579,
+    19.32545
+],
+  "geometry": {"coordinates":[-97.65579,19.32545],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101998345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":515994.807196,
+    "geom:bbox":"-97.598495341,20.2020345423,-97.5911089938,20.2114204818",
+    "geom:latitude":20.206875,
+    "geom:longitude":-97.594676,
+    "gn:population":1724,
+    "iso:country":"MX",
+    "lbl:latitude":20.207309,
+    "lbl:longitude":-97.595046,
+    "mps:latitude":20.207309,
+    "mps:longitude":-97.595046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Chumatl\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Chumatlan"
+    ],
+    "name:eng_x_preferred":[
+        "Chumatlan"
+    ],
+    "name:epo_x_preferred":[
+        "Chumatl\u00e1n"
+    ],
+    "name:eus_x_preferred":[
+        "Chumatl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Chumatlan"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Chumatl\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043c\u0430\u0442\u043b\u0430\u043d"
+    ],
+    "name:spa_x_colloquial":[
+        "Chumatlan"
+    ],
+    "name:spa_x_preferred":[
+        "Chumatl\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Chumatl\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "Chumatl\u00e1n"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Veracruz de Ignacio de la Llave",
+    "qs:a1_lc":"30",
+    "qs:a1r":"*",
+    "qs:a2":"Chumatl\u00e1n",
+    "qs:a2_lc":"30064",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Chumatl\u00e1n",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01b81408-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3530720,
+        "gp:id":116244,
+        "wd:id":"Q3847206",
+        "wk:page":"Chumatlan"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"425963c0da2b57c06961d11bcf9db8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077519,
+            "locality_id":101998345,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":101998345,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815696,
+    "wof:name":"Chumatl\u00e1n",
+    "wof:parent_id":102077519,
+    "wof:placetype":"locality",
+    "wof:population":1724,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.59849534096459,
+    20.20203454230648,
+    -97.59110899377565,
+    20.21142048176701
+],
+  "geometry": {"coordinates":[[[-97.59389174849375,20.21135204734556],[-97.59376584815493,20.21128118899833],[-97.59354003377989,20.21115409708997],[-97.59349826515765,20.21084758547294],[-97.59340449095717,20.21015943051548],[-97.59269083603006,20.20978926001393],[-97.592391447452,20.20913743101214],[-97.59216453621045,20.20831115871519],[-97.59215254619636,20.20827162939477],[-97.59140356104561,20.20580235588665],[-97.59110899377565,20.20483120012594],[-97.59134877256699,20.20403167009759],[-97.5921752035198,20.20243550320278],[-97.59307104454271,20.20205193962023],[-97.593111677596,20.20203454230648],[-97.59442808192513,20.2030299175621],[-97.59498482080424,20.20345087736467],[-97.5956579327905,20.20395982438778],[-97.59614058407018,20.2042881053439],[-97.59679702368322,20.20473458458821],[-97.59811945109136,20.20607507975013],[-97.59825247553712,20.2062099208623],[-97.59849534096459,20.20699325353889],[-97.59848634178952,20.20758408974467],[-97.59848458034703,20.20769974644161],[-97.59773758397766,20.2100138610442],[-97.5970122049973,20.21030450331114],[-97.59660242518191,20.21046869088993],[-97.59614843373984,20.21065059018068],[-97.5958490585305,20.21077818695119],[-97.59452808603564,20.21134118743658],[-97.59434203360215,20.21142048176701],[-97.59389174849375,20.21135204734556]]],"type":"Polygon"}
+}

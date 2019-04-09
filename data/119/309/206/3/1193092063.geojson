@@ -1,0 +1,76 @@
+{
+  "id": 1193092063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.40111,24.71056,-107.40111,24.71056",
+    "geom:latitude":24.71056,
+    "geom:longitude":-107.40111,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Los Llanos",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3997568,
+    "gn:latitude":24.71056,
+    "gn:longitude":-107.40111,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Los Llanos",
+    "gn:population":42,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llanos",
+        "Los Llanos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997568
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f2809169d92c30dcf978671009a3f897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074307,
+            "locality_id":1193092063,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1193092063,
+    "wof:lastmodified":1537667593,
+    "wof:name":"Los Llanos",
+    "wof:parent_id":102074307,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.40111,
+    24.71056,
+    -107.40111,
+    24.71056
+],
+  "geometry": {"coordinates":[-107.40111,24.71056],"type":"Point"}
+}

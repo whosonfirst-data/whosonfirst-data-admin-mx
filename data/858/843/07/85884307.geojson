@@ -1,0 +1,116 @@
+{
+  "id": 85884307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":836116.59361,
+    "geom:bbox":"-99.1989519689,19.3982175309,-99.1873168945,19.4070210383",
+    "geom:latitude":19.402856,
+    "geom:longitude":-99.192815,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.404186,
+    "lbl:longitude":-99.190531,
+    "mps:latitude":19.402892,
+    "mps:longitude":-99.192926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Sears Roebuck"
+    ],
+    "name:unk_x_variant":[
+        "Sears Roebuck"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Sears Roebuck",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":17,
+    "qs:photo_sum":70,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991171,
+        890535785,
+        102073749,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902656,
+        "qs:id":1342440
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"937347bc362686e3c917ce5e7b5a5bcf",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073749,
+            "locality_id":101991171,
+            "neighbourhood_id":85884307,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884307,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884307,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527269997,
+    "wof:name":"Sears Roebuck",
+    "wof:parent_id":890535785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1989519689005,
+    19.39821753091884,
+    -99.18731689451388,
+    19.40702103827793
+],
+  "geometry": {"coordinates":[[[-99.18731689451388,19.40702103827793],[-99.18731689451388,19.40443049106403],[-99.18731689451388,19.4018399025779],[-99.1900634765843,19.40183990186274],[-99.19006347658535,19.39924927257735],[-99.19103663910755,19.39821753091884],[-99.19395617920853,19.39924927860008],[-99.19492922203955,19.39959314600725],[-99.19849789896534,19.39883644957116],[-99.1989519689005,19.4022062798157],[-99.19685411087713,19.40443049680007],[-99.19563244191903,19.40572574977509],[-99.19555664060306,19.40572574977509],[-99.19403174703405,19.40572574977509],[-99.19281005859997,19.40702103799185],[-99.1900634765833,19.40702103713352],[-99.18731689451388,19.40702103827793]]],"type":"Polygon"}
+}

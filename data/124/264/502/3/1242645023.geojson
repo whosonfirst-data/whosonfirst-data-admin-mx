@@ -1,0 +1,74 @@
+{
+  "id": 1242645023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.65681,25.41687,-107.65681,25.41687",
+    "geom:latitude":25.41687,
+    "geom:longitude":-107.65681,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"San Jose de la Puerta",
+    "gn:country_code":"MX",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3976725,
+    "gn:latitude":25.41687,
+    "gn:longitude":-107.65681,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"San Jos\u00e9 de la Puerta",
+    "gn:population":162,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de la Puerta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3976725
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ddb8d1da23de1a38668080599935f2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074335,
+            "locality_id":1242645023,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1242645023,
+    "wof:lastmodified":1537667084,
+    "wof:name":"San Jose de la Puerta",
+    "wof:parent_id":102074335,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.65681,
+    25.41687,
+    -107.65681,
+    25.41687
+],
+  "geometry": {"coordinates":[-107.65680999999999,25.41687],"type":"Point"}
+}

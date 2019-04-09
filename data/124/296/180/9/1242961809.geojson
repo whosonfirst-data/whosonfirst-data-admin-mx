@@ -1,0 +1,74 @@
+{
+  "id": 1242961809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.56667,25.03333,-106.56667,25.03333",
+    "geom:latitude":25.03333,
+    "geom:longitude":-106.56667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Agua Blanca Quebrada",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4019635,
+    "gn:latitude":25.03333,
+    "gn:longitude":-106.56667,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Agua Blanca Quebrada",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua Blanca",
+        "Agua Blanca de la Quebrada",
+        "Agua Blanca Quebrada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4019635
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"91555b9a7530afddf15223a0f8e6b1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075153,
+            "locality_id":1242961809,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1242961809,
+    "wof:lastmodified":1537668193,
+    "wof:name":"Agua Blanca Quebrada",
+    "wof:parent_id":102075153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.56667,
+    25.03333,
+    -106.56667,
+    25.03333
+],
+  "geometry": {"coordinates":[-106.56667,25.03333],"type":"Point"}
+}

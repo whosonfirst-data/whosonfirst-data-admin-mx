@@ -1,0 +1,75 @@
+{
+  "id": 1276817115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.44376,21.94652,-101.44376,21.94652",
+    "geom:latitude":21.94652,
+    "geom:longitude":-101.44376,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"El Machucado (Colonia el Rosario)",
+    "gn:country_code":"MX",
+    "gn:dem":2233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3972116,
+    "gn:latitude":21.94652,
+    "gn:longitude":-101.44376,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"El Machucado (Colonia el Rosario)",
+    "gn:population":325,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Machucado",
+        "Rosario"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686567,
+        102075409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3972116
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3a7a4082bf5a4cf93cacbd6666f736dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075409,
+            "locality_id":1276817115,
+            "region_id":85686567
+        }
+    ],
+    "wof:id":1276817115,
+    "wof:lastmodified":1537666961,
+    "wof:name":"El Machucado (Colonia el Rosario)",
+    "wof:parent_id":102075409,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.44376,
+    21.94652,
+    -101.44376,
+    21.94652
+],
+  "geometry": {"coordinates":[-101.44376,21.94652],"type":"Point"}
+}

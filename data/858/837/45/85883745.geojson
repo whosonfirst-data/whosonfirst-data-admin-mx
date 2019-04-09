@@ -1,0 +1,116 @@
+{
+  "id": 85883745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":249093.93118,
+    "geom:bbox":"-99.1708374023,19.3552022599,-99.1653442383,19.3603848797",
+    "geom:latitude":19.357362,
+    "geom:longitude":-99.167633,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.356916,
+    "lbl:longitude":-99.168757,
+    "mps:latitude":19.356852,
+    "mps:longitude":-99.166861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Ampl Del Carmen"
+    ],
+    "name:unk_x_variant":[
+        "Ampl Del Carmen"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Ampl Del Carmen",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":34,
+    "qs:photo_sum":46,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898078,
+        "qs:id":475150
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0b4ecde7ec4db5fa7144a525f70c16e7",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883745,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85883745,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883745,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270506,
+    "wof:name":"Ampl Del Carmen",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.17083740231556,
+    19.35520225989194,
+    -99.16534423828429,
+    19.36038487966411
+],
+  "geometry": {"coordinates":[[[-99.16809082029997,19.35520226017802],[-99.17018846551056,19.35520225989194],[-99.17083740229992,19.35520226590002],[-99.1708374023145,19.35589006877503],[-99.17083740231556,19.35779358977834],[-99.16809082029997,19.35779358977834],[-99.16809082029997,19.36038487966411],[-99.16534423828429,19.36038487894709],[-99.16534423828605,19.35779359049181],[-99.16534423828605,19.35520226017802],[-99.16809082029997,19.35520226017802]]],"type":"Polygon"}
+}

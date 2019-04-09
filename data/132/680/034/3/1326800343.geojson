@@ -1,0 +1,77 @@
+{
+  "id": 1326800343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.85806,19.77465,-99.85806,19.77465",
+    "geom:latitude":19.77465,
+    "geom:longitude":-99.85806,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Rancho San Francisquito",
+    "gn:country_code":"MX",
+    "gn:dem":2527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3519343,
+    "gn:latitude":19.77465,
+    "gn:longitude":-99.85806,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Rancho San Francisquito",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rancho San Francisquito"
+    ],
+    "name:spa_x_variant":[
+        "San Francisquito"
+    ],
+    "name:und_x_variant":[
+        "San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686527,
+        102074199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3519343
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b8da33d95c97598a9653d91931760320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074199,
+            "locality_id":1326800343,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1326800343,
+    "wof:lastmodified":1537666038,
+    "wof:name":"Rancho San Francisquito",
+    "wof:parent_id":102074199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.85806,
+    19.77465,
+    -99.85806,
+    19.77465
+],
+  "geometry": {"coordinates":[-99.85805999999999,19.77465],"type":"Point"}
+}

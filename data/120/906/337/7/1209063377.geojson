@@ -1,0 +1,65 @@
+{
+  "id": 1209063377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.13015,26.35306,-108.13015,26.35306",
+    "geom:latitude":26.35306,
+    "geom:longitude":-108.13015,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"El Platanito",
+    "gn:country_code":"MX",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8918400,
+    "gn:latitude":26.35306,
+    "gn:longitude":-108.13015,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Platanito",
+    "gn:population":11,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8918400
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"428fa5813c8601f873f5bc8a79d89bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209063377
+        }
+    ],
+    "wof:id":1209063377,
+    "wof:lastmodified":1536298882,
+    "wof:name":"El Platanito",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.13015,
+    26.35306,
+    -108.13015,
+    26.35306
+],
+  "geometry": {"coordinates":[-108.13015,26.35306],"type":"Point"}
+}

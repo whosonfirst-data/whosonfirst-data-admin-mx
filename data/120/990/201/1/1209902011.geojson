@@ -1,0 +1,75 @@
+{
+  "id": 1209902011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.06018,28.55822,-102.06018,28.55822",
+    "geom:latitude":28.55822,
+    "geom:longitude":-102.06018,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Rincon de Maria",
+    "gn:country_code":"MX",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4003554,
+    "gn:latitude":28.55822,
+    "gn:longitude":-102.06018,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Rinc\u00f3n de Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n de Mar\u00eda"
+    ],
+    "name:und_x_variant":[
+        "La Babia",
+        "Hacienda La Babia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4003554
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fbf9a7092b963081cc61928b06036185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078831,
+            "locality_id":1209902011,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1209902011,
+    "wof:lastmodified":1537667790,
+    "wof:name":"Rincon de Maria",
+    "wof:parent_id":102078831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.06018,
+    28.55822,
+    -102.06018,
+    28.55822
+],
+  "geometry": {"coordinates":[-102.06018,28.55822],"type":"Point"}
+}

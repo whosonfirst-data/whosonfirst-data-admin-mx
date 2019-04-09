@@ -1,0 +1,74 @@
+{
+  "id": 1226823603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.55806,25.87,-100.55806,25.87",
+    "geom:latitude":25.87,
+    "geom:longitude":-100.55806,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Union Emiliano Zapata",
+    "gn:country_code":"MX",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8935993,
+    "gn:latitude":25.87,
+    "gn:longitude":-100.55806,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Uni\u00f3n Emiliano Zapata",
+    "gn:population":6,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uni\u00f3n Emiliano Zapata"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8935993
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0e1f1ed22ac9c3d3065e147b3925c4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078683,
+            "locality_id":1226823603,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1226823603,
+    "wof:lastmodified":1537671151,
+    "wof:name":"Union Emiliano Zapata",
+    "wof:parent_id":102078683,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.55806,
+    25.87,
+    -100.55806,
+    25.87
+],
+  "geometry": {"coordinates":[-100.55806,25.87],"type":"Point"}
+}

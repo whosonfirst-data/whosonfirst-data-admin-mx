@@ -1,0 +1,84 @@
+{
+  "id": 1243330273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.02528,17.2525,-91.02528,17.2525",
+    "geom:latitude":17.2525,
+    "geom:longitude":-91.02528,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Carlos Pellicer Camara",
+    "gn:country_code":"MX",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8874114,
+    "gn:latitude":17.2525,
+    "gn:longitude":-91.02528,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Carlos Pellicer C\u00e1mara",
+    "gn:population":170,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carlos Pellicer C\u00e1mara"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695377,
+        85633293,
+        85686617,
+        102075787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8874114
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3887817175a2f2c98b620c5cdca4adb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695377,
+            "locality_id":1243330273,
+            "region_id":85671647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075787,
+            "locality_id":1243330273,
+            "region_id":85686617
+        }
+    ],
+    "wof:id":1243330273,
+    "wof:lastmodified":1537669627,
+    "wof:name":"Carlos Pellicer Camara",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.02528,
+    17.2525,
+    -91.02528,
+    17.2525
+],
+  "geometry": {"coordinates":[-91.02528,17.2525],"type":"Point"}
+}

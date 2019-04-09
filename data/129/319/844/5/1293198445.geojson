@@ -1,0 +1,75 @@
+{
+  "id": 1293198445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.58503,28.6021,-106.58503,28.6021",
+    "geom:latitude":28.6021,
+    "geom:longitude":-106.58503,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Los Robles",
+    "gn:country_code":"MX",
+    "gn:dem":1818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3997206,
+    "gn:latitude":28.6021,
+    "gn:longitude":-106.58503,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Los Robles",
+    "gn:population":17,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Robles",
+        "Los Robles"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997206
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f2afe24bda769f803e7d772de8d0fcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075283,
+            "locality_id":1293198445,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293198445,
+    "wof:lastmodified":1537667579,
+    "wof:name":"Los Robles",
+    "wof:parent_id":102075283,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.58503,
+    28.6021,
+    -106.58503,
+    28.6021
+],
+  "geometry": {"coordinates":[-106.58503,28.6021],"type":"Point"}
+}

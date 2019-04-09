@@ -1,0 +1,90 @@
+{
+  "id": 85884163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.600397,31.821689,-116.600397,31.821689",
+    "geom:latitude":31.821689,
+    "geom:longitude":-116.600397,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":31.821689,
+    "lbl:longitude":-116.600397,
+    "mps:latitude":31.820956,
+    "mps:longitude":-116.601081,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Lomas Del Mar"
+    ],
+    "name:spa_x_variant":[
+        "Loma",
+        "Lomas"
+    ],
+    "name:unk_x_variant":[
+        "Loma Cajones"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85686541,
+        102191575,
+        85633293,
+        101993465,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792057,
+        "gp:id":55897714,
+        "qs:id":973917,
+        "qs_pg:id":1341807
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1c49eb103634cef23390b997e5d7a77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":101993465,
+            "neighbourhood_id":85884163,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":85884163,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957718,
+    "wof:name":"Lomas Del Mar",
+    "wof:parent_id":101993465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.600397,
+    31.821689,
+    -116.600397,
+    31.821689
+],
+  "geometry": {"coordinates":[-116.600397,31.821689],"type":"Point"}
+}

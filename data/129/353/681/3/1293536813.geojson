@@ -1,0 +1,74 @@
+{
+  "id": 1293536813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.64778,25.52,-97.64778,25.52",
+    "geom:latitude":25.52,
+    "geom:longitude":-97.64778,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Los Patos (Los Trevino)",
+    "gn:country_code":"MX",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8921104,
+    "gn:latitude":25.52,
+    "gn:longitude":-97.64778,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Los Patos (Los Trevi\u00f1o)",
+    "gn:population":10,
+    "gn:timezone":"America/Matamoros",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Patos (Los Trevi\u00f1o)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8921104
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d6170e11c75e116caa70f313ddcc0e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078961,
+            "locality_id":1293536813,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1293536813,
+    "wof:lastmodified":1537670787,
+    "wof:name":"Los Patos (Los Trevino)",
+    "wof:parent_id":102078961,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.64778,
+    25.52,
+    -97.64778,
+    25.52
+],
+  "geometry": {"coordinates":[-97.64778,25.52],"type":"Point"}
+}

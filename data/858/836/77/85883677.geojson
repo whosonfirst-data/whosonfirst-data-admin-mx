@@ -1,0 +1,106 @@
+{
+  "id": 85883677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000418,
+    "geom:area_square_m":4878672.20487,
+    "geom:bbox":"-99.1160352206,19.2634481023,-99.0911865234,19.2852208",
+    "geom:latitude":19.273728,
+    "geom:longitude":-99.104112,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.26965,
+    "lbl:longitude":-99.103112,
+    "mps:latitude":19.273664,
+    "mps:longitude":-99.10558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "La Concepcion Tlacoapa"
+    ],
+    "name:unk_x_variant":[
+        "La Concepcion Tlacoapa"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"La Concepci\u00f3n Coatipac",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"La Concepcion Tlacoapa",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Xochimilco",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":125,
+    "qs:photo_sum":553,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599949,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        857683023,
+        85633293,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827268,
+        "gp:id":55905137,
+        "qs:id":475103,
+        "qs_pg:id":1342870
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"180225c02146d851f11e144092a4a8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":857683023,
+            "neighbourhood_id":85883677,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883677,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"La Concepcion Tlacoapa",
+    "wof:parent_id":857683023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.11603522056078,
+    19.26344810229395,
+    -99.09118652339998,
+    19.28522080000003
+],
+  "geometry": {"coordinates":[[[-99.09667968749983,19.28384519845918],[-99.09667968749991,19.28141135555241],[-99.09667968749991,19.28003579630004],[-99.09667968749991,19.27485062840002],[-99.09118652339998,19.27485062840002],[-99.09118652341445,19.2734750319391],[-99.09118652341445,19.2710408507067],[-99.09118652339998,19.26966529650007],[-99.09118652434029,19.26447979618683],[-99.09667968749991,19.26447980050001],[-99.09667968749991,19.26577616425014],[-99.09769488860292,19.26523845078385],[-99.098052978525,19.26447979025035],[-99.09942626949999,19.26447979432201],[-99.10152357546764,19.26447979452107],[-99.10217285160005,19.26447980050001],[-99.10491943359992,19.26447980050001],[-99.10556870810208,19.26447979452107],[-99.10766601561446,19.26447979452107],[-99.10863993489443,19.26344810229395],[-99.11156174488562,19.26447980050001],[-99.11315917969984,19.26504385861365],[-99.11430825143555,19.26707255875041],[-99.11575623788195,19.26860643592121],[-99.11542306415475,19.26966528625013],[-99.1151511335807,19.27225797272499],[-99.11603522056078,19.28068705072448],[-99.11459500898002,19.28186900182307],[-99.11353532742419,19.28243541341527],[-99.11353236920473,19.28244094785477],[-99.11343227226894,19.28262821605003],[-99.11340937057702,19.28262821605003],[-99.10452220628852,19.28451131389097],[-99.10217285160005,19.28344460107387],[-99.10217285160005,19.28522080000003],[-99.09667968749991,19.28522080000003],[-99.09667968749983,19.28384519845918]]],"type":"Polygon"}
+}

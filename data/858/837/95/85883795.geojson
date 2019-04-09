@@ -1,0 +1,132 @@
+{
+  "id": 85883795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":2132603.087093,
+    "geom:bbox":"-99.2010498047,19.3085511817,-99.1845703125,19.3241030863",
+    "geom:latitude":19.317812,
+    "geom:longitude":-99.194044,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.319824,
+    "lbl:longitude":-99.192561,
+    "mps:latitude":19.318565,
+    "mps:longitude":-99.195025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:dut_x_preferred":[
+        "Jardines del Pedregal"
+    ],
+    "name:eng_x_preferred":[
+        "Jardines del Pedregal"
+    ],
+    "name:ita_x_preferred":[
+        "Pedregal de San \u00c1ngel"
+    ],
+    "name:nob_x_preferred":[
+        "Jardines del Pedregal"
+    ],
+    "name:spa_x_preferred":[
+        "Jardines Del Pedregal"
+    ],
+    "name:unk_x_variant":[
+        "Jardines Del Pedregal"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Jardines Del Pedregal",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":170,
+    "qs:photo_sum":440,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":19.320575,
+    "wd:longitude":-99.20929,
+    "wd:wordcount":1163,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898249,
+        "qs:id":1341917,
+        "wd:id":"Q978328"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6ee802f0a379241f3bc89d0e6f8dd0e5",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883795,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85883795,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883795,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270506,
+    "wof:name":"Jardines Del Pedregal",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.20104980469998,
+    19.30855118167514,
+    -99.18457031249997,
+    19.32410308629169
+],
+  "geometry": {"coordinates":[[[-99.18457031249997,19.32410308557822],[-99.18457031249997,19.32151122109171],[-99.18457031249997,19.31960711453804],[-99.18457031249997,19.31891932050004],[-99.1852193835748,19.31891931450645],[-99.18731689451556,19.31891931407834],[-99.18731689451451,19.31701516649863],[-99.18731689449993,19.31632737310005],[-99.18796597203726,19.31632737024589],[-99.19006347660002,19.31632736620148],[-99.19006347660002,19.31114335510003],[-99.19136165464985,19.31114335168755],[-99.19136168495061,19.31114331397524],[-99.19555664061869,19.31114331397524],[-99.19800293088343,19.30855118167514],[-99.19860351446346,19.30855118167514],[-99.20104980469998,19.31114331397524],[-99.20104980469998,19.31114335510003],[-99.20104980469998,19.31632733202544],[-99.20104980469998,19.31632737310005],[-99.20104980469998,19.32151118570029],[-99.20104980469998,19.32151122680004],[-99.20104976591509,19.32151122680004],[-99.19895228669287,19.32373389374528],[-99.1989025172864,19.32410308172503],[-99.19555664059993,19.32410308518794],[-99.19281005859997,19.32410308515003],[-99.1900634765833,19.32410308515003],[-99.18731689451388,19.32410308629169],[-99.18457031249997,19.32410308557822]]],"type":"Polygon"}
+}

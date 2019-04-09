@@ -1,0 +1,65 @@
+{
+  "id": 1209010525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.87944,18.01944,-90.87944,18.01944",
+    "geom:latitude":18.01944,
+    "geom:longitude":-90.87944,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Estado de Mexico",
+    "gn:country_code":"MX",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3821274,
+    "gn:latitude":18.01944,
+    "gn:longitude":-90.87944,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Estado de M\u00e9xico",
+    "gn:population":378,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3821274
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"df7f861effd69519d19debab2b0df4fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209010525
+        }
+    ],
+    "wof:id":1209010525,
+    "wof:lastmodified":1536300462,
+    "wof:name":"Estado de Mexico",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.87944,
+    18.01944,
+    -90.87944,
+    18.01944
+],
+  "geometry": {"coordinates":[-90.87944,18.01944],"type":"Point"}
+}

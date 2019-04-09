@@ -1,0 +1,89 @@
+{
+  "id": 1126103627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.25833,19.45611,-99.25833,19.45611",
+    "geom:latitude":19.45611,
+    "geom:longitude":-99.25833,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.45611,
+    "lbl:longitude":-99.25833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Loma Linda"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3827444,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Loma Linda",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Morelos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244943,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55908946,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Morelos",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101992499,
+        102074109,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827444,
+        "gp:id":55908946,
+        "qs_pg:id":244943
+    },
+    "wof:country":"MX",
+    "wof:created":1497316535,
+    "wof:geomhash":"b9ed2871532a073d795e740e08b2f83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074109,
+            "locality_id":101992499,
+            "neighbourhood_id":1126103627,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126103627,
+    "wof:lastmodified":1509412254,
+    "wof:name":"Loma Linda",
+    "wof:parent_id":101992499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.25833,
+    19.45611,
+    -99.25833,
+    19.45611
+],
+  "geometry": {"coordinates":[-99.25833,19.45611],"type":"Point"}
+}

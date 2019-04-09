@@ -1,0 +1,72 @@
+{
+  "id": 1343446733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.5274,25.34552,-101.5274,25.34552",
+    "geom:latitude":25.34552,
+    "geom:longitude":-101.5274,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"MX",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987838,
+    "gn:latitude":25.34552,
+    "gn:longitude":-101.5274,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio de Las Cabras",
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987838
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6aea825e35a191b4acad6a204b58844a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078849,
+            "locality_id":1343446733,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1343446733,
+    "wof:lastmodified":1537667365,
+    "wof:name":"San Antonio",
+    "wof:parent_id":102078849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.5274,
+    25.34552,
+    -101.5274,
+    25.34552
+],
+  "geometry": {"coordinates":[-101.5274,25.34552],"type":"Point"}
+}

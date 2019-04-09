@@ -1,0 +1,73 @@
+{
+  "id": 1343531891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.88333,22.68333,-103.88333,22.68333",
+    "geom:latitude":22.68333,
+    "geom:longitude":-103.88333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"La Mesa",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4001403,
+    "gn:latitude":22.68333,
+    "gn:longitude":-103.88333,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"La Mesa",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mesa",
+        "La Mesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001403
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"bd60e9e08f92572d942c25cab9c9a03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074603,
+            "locality_id":1343531891,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1343531891,
+    "wof:lastmodified":1537667719,
+    "wof:name":"La Mesa",
+    "wof:parent_id":102074603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.88333,
+    22.68333,
+    -103.88333,
+    22.68333
+],
+  "geometry": {"coordinates":[-103.88333,22.68333],"type":"Point"}
+}

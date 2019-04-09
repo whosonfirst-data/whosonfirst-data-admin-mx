@@ -1,0 +1,74 @@
+{
+  "id": 1209697199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.30444,19.77444,-100.30444,19.77444",
+    "geom:latitude":19.77444,
+    "geom:longitude":-100.30444,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"80.0",
+    "gn:asciiname":"El Huerfano (Emiliano Zapata)",
+    "gn:country_code":"MX",
+    "gn:dem":2520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8863230,
+    "gn:latitude":19.77444,
+    "gn:longitude":-100.30444,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Hu\u00e9rfano (Emiliano Zapata)",
+    "gn:population":504,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hu\u00e9rfano (Emiliano Zapata)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686595,
+        102075011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8863230
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1da866049f7c019de5938afd5890ebb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075011,
+            "locality_id":1209697199,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1209697199,
+    "wof:lastmodified":1537669354,
+    "wof:name":"El Huerfano (Emiliano Zapata)",
+    "wof:parent_id":102075011,
+    "wof:placetype":"locality",
+    "wof:population":504,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.30444,
+    19.77444,
+    -100.30444,
+    19.77444
+],
+  "geometry": {"coordinates":[-100.30444,19.77444],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1126083301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.4253,21.59781,-98.4253,21.59781",
+    "geom:latitude":21.59781,
+    "geom:longitude":-98.4253,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":362,
+    "iso:country":"MX",
+    "lbl:latitude":21.59781,
+    "lbl:longitude":-98.4253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Pescado"
+    ],
+    "name:unk_x_variant":[
+        "Pescado"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3521619,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pescadores",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tamaulipas",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1311418,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55893165,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tamaulipas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102077731,
+        85686671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3521619,
+        "gp:id":55893165,
+        "qs_pg:id":1311418
+    },
+    "wof:country":"MX",
+    "wof:created":1497312289,
+    "wof:geomhash":"3096e4d3787450753b6e215fbdf5af0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077731,
+            "locality_id":-1,
+            "neighbourhood_id":1126083301,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126083301,
+    "wof:lastmodified":1509411272,
+    "wof:name":"Pescadores",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":362,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.4253,
+    21.59781,
+    -98.4253,
+    21.59781
+],
+  "geometry": {"coordinates":[-98.42529999999999,21.59781],"type":"Point"}
+}

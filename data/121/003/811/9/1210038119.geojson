@@ -1,0 +1,75 @@
+{
+  "id": 1210038119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.008,26.84531,-106.008,26.84531",
+    "geom:latitude":26.84531,
+    "geom:longitude":-106.008,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"El Astillero",
+    "gn:country_code":"MX",
+    "gn:dem":2063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4018091,
+    "gn:latitude":26.84531,
+    "gn:longitude":-106.008,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"El Ast\u00edllero",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Ast\u00edllero"
+    ],
+    "name:und_x_variant":[
+        "Rancho Ast\u00edllero",
+        "Astillero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4018091
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"de65f182e7335266f1a4b18ee659c018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075355,
+            "locality_id":1210038119,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1210038119,
+    "wof:lastmodified":1537668165,
+    "wof:name":"El Astillero",
+    "wof:parent_id":102075355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.008,
+    26.84531,
+    -106.008,
+    26.84531
+],
+  "geometry": {"coordinates":[-106.008,26.84531],"type":"Point"}
+}

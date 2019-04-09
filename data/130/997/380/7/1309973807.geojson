@@ -1,0 +1,74 @@
+{
+  "id": 1309973807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.56206,25.58325,-108.56206,25.58325",
+    "geom:latitude":25.58325,
+    "geom:longitude":-108.56206,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"La Linea",
+    "gn:country_code":"MX",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8905565,
+    "gn:latitude":25.58325,
+    "gn:longitude":-108.56206,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La L\u00ednea",
+    "gn:population":20,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La L\u00ednea"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8905565
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ef95d1d238ece8a7eff849838b795943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074321,
+            "locality_id":1309973807,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1309973807,
+    "wof:lastmodified":1537670412,
+    "wof:name":"La Linea",
+    "wof:parent_id":102074321,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.56206,
+    25.58325,
+    -108.56206,
+    25.58325
+],
+  "geometry": {"coordinates":[-108.56206,25.58325],"type":"Point"}
+}

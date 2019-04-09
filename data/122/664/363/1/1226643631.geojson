@@ -1,0 +1,74 @@
+{
+  "id": 1226643631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.50769,28.20409,-105.50769,28.20409",
+    "geom:latitude":28.20409,
+    "geom:longitude":-105.50769,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"55.0",
+    "gn:asciiname":"Los Gomez",
+    "gn:country_code":"MX",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8940720,
+    "gn:latitude":28.20409,
+    "gn:longitude":-105.50769,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Los G\u00f3mez",
+    "gn:population":5,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los G\u00f3mez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8940720
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6cf6b5de3e888e9ca4cbc155f6b3ad62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075271,
+            "locality_id":1226643631,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1226643631,
+    "wof:lastmodified":1537671268,
+    "wof:name":"Los Gomez",
+    "wof:parent_id":102075271,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.50769,
+    28.20409,
+    -105.50769,
+    28.20409
+],
+  "geometry": {"coordinates":[-105.50769,28.20409],"type":"Point"}
+}

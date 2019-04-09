@@ -1,0 +1,116 @@
+{
+  "id": 85884479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":350946.400147,
+    "geom:bbox":"-99.1845703125,19.2958547249,-99.1777788625,19.3033670141",
+    "geom:latitude":19.300614,
+    "geom:longitude":-99.180748,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.302028,
+    "lbl:longitude":-99.181595,
+    "mps:latitude":19.300587,
+    "mps:longitude":-99.180004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Pena Pobre"
+    ],
+    "name:unk_x_variant":[
+        "Pena Pobre"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Pena Pobre",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":56,
+    "qs:photo_sum":96,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991157,
+        890535779,
+        102073729,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55903999,
+        "qs:id":1342676
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ab4a0b8e2f060ba0b40525dfa7aee52b",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535779,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073729,
+            "locality_id":101991157,
+            "neighbourhood_id":85884479,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535779,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884479,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884479,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957720,
+    "wof:name":"Pena Pobre",
+    "wof:parent_id":890535779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.18457031249997,
+    19.29585472489374,
+    -99.17777886251048,
+    19.30336701409175
+],
+  "geometry": {"coordinates":[[[-99.17907714839993,19.29664808467935],[-99.17932674439305,19.29585472489374],[-99.1797016545803,19.29593416975332],[-99.18182373048535,19.29818258490658],[-99.1818237304843,19.30077481947829],[-99.18457031249997,19.30077482019176],[-99.18457031249997,19.30336701409175],[-99.1818237304833,19.30336701295008],[-99.17907714839993,19.3033670124407],[-99.17859437336568,19.30336700952509],[-99.17777889278946,19.30077482248753],[-99.17777886251048,19.30077478480025],[-99.17907714839993,19.29664808467935]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193123047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.1745,25.41361,-103.1745,25.41361",
+    "geom:latitude":25.41361,
+    "geom:longitude":-103.1745,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Monterrey",
+    "gn:country_code":"MX",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8946576,
+    "gn:latitude":25.41361,
+    "gn:longitude":-103.1745,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Monterrey",
+    "gn:population":4,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8946576
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"cd081070d93b1d384948d2c398f71bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078793,
+            "locality_id":1193123047,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1193123047,
+    "wof:lastmodified":1536383872,
+    "wof:name":"Monterrey",
+    "wof:parent_id":102078793,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.1745,
+    25.41361,
+    -103.1745,
+    25.41361
+],
+  "geometry": {"coordinates":[-103.17449999999999,25.41361],"type":"Point"}
+}

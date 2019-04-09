@@ -1,0 +1,111 @@
+{
+  "id": 85883759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000452,
+    "geom:area_square_m":5271675.653885,
+    "geom:bbox":"-99.1643579101,19.2090997127,-99.1391245134,19.233489458",
+    "geom:latitude":19.221965,
+    "geom:longitude":-99.150895,
+    "gn:population":8034,
+    "iso:country":"MX",
+    "lbl:latitude":19.221863,
+    "lbl:longitude":-99.150276,
+    "mps:latitude":19.221997,
+    "mps:longitude":-99.151136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Tepetitla"
+    ],
+    "name:spa_x_variant":[
+        "San Mateo"
+    ],
+    "name:unk_x_variant":[
+        "Tepetitla"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"29",
+    "qs:gn_name":"Tepetitla",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Tepetitla",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Xochimilco",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":33,
+    "qs:photo_sum":38,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599949,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85686515,
+        102191575,
+        85633293,
+        102073731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3515870,
+        "gp:id":55898120,
+        "qs:id":1045400,
+        "wd:id":"Q20232383"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b059e78be675b9d11cba97745203ef21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073731,
+            "locality_id":-1,
+            "neighbourhood_id":85883759,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883759,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1507590241,
+    "wof:name":"Tepetitla",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":8034,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.16435791014982,
+    19.20909971265014,
+    -99.13912451344481,
+    19.23348945800282
+],
+  "geometry": {"coordinates":[[[-99.14265732243956,19.23336317645024],[-99.14179367828791,19.23265440201189],[-99.14055004997692,19.23113903653027],[-99.13962595077487,19.22941016852373],[-99.13912451344481,19.22775715117709],[-99.14133397788839,19.22073736499826],[-99.14135874016506,19.22039645537549],[-99.14098903449099,19.21530652723146],[-99.14099924177481,19.21527287832647],[-99.14192334097686,19.21354401031985],[-99.14316696928802,19.21202864483821],[-99.14468233476975,19.21078501652713],[-99.14641120277628,19.20986091732499],[-99.14828713387971,19.20929185984616],[-99.15023803709994,19.20909971265014],[-99.15218894032006,19.20929185984616],[-99.15406487142349,19.20986091732499],[-99.15579373943012,19.21078501652713],[-99.15730910491175,19.21202864483821],[-99.15855273322302,19.21354401031985],[-99.15947683242507,19.21527287832647],[-99.16004588990407,19.21714880943009],[-99.16007036203123,19.21739727910922],[-99.16007410697915,19.21740035250845],[-99.16142897796175,19.21851226638826],[-99.16267260627302,19.2200276318699],[-99.16359670547507,19.22175649987652],[-99.16416576295398,19.22363243097995],[-99.16435791014982,19.22558333420008],[-99.164312445137,19.2260449482206],[-99.16259765622499,19.22786107785971],[-99.15196902745782,19.23348945800282],[-99.15161132812483,19.23336317645024],[-99.14265732243956,19.23336317645024]]],"type":"Polygon"}
+}

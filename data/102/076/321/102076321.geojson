@@ -1,0 +1,120 @@
+{
+  "id": 102076321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000598,
+    "geom:area_square_m":7084451.467748,
+    "geom:bbox":"-96.8795727353,16.5861010384,-96.8393926463,16.6233139603",
+    "geom:latitude":16.601052,
+    "geom:longitude":-96.860629,
+    "iso:country":"MX",
+    "lbl:latitude":16.597267,
+    "lbl:longitude":-96.855606,
+    "mps:latitude":16.597267,
+    "mps:longitude":-96.855606,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:dut_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:epo_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:eus_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:fre_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina San Andr\u00e9s Zabache"
+    ],
+    "name:sco_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "name:vie_x_preferred":[
+        "San Andr\u00e9s Zabache"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a2":"San Andr\u00c3\u00a9s Zabache",
+    "qs:a2_lc":"20101",
+    "qs:adm0":"Mexico",
+    "qs:adm0_a3":"MEX",
+    "qs:level":"adm2",
+    "qs:source":"Mexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-10-17",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2005-10-17",
+    "statoids:capital":"San Andr\u00e9s Zabache",
+    "statoids:country":"MX",
+    "statoids:hasc":"MX.OA",
+    "statoids:inegi":"20101",
+    "statoids:name":"San Andr\u00e9s Zabache",
+    "statoids:population":"756",
+    "statoids:statoid":"MX.OA.EF",
+    "statoids:timezone":"-6~",
+    "statoids:type":"municipality",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"MX.OA.EF",
+        "inegi:id":"20101",
+        "wd:id":"Q3890012"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7b35f4517441f1bdb634fb67cb8f83c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076321,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":102076321,
+    "wof:lastmodified":1553815898,
+    "wof:name":"San Andr\u00e9s Zabache",
+    "wof:parent_id":85686623,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":756,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:shortcode":"EF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.87957273534163,
+    16.58610103840497,
+    -96.8393926462815,
+    16.62331396029028
+],
+  "geometry": {"coordinates":[[[-96.84328949017501,16.58611109837762],[-96.84531801257413,16.58610103840497],[-96.84921872700748,16.58652500823675],[-96.85219036511386,16.58684969335734],[-96.85507118996519,16.5885353632644],[-96.8561344114145,16.58871906510911],[-96.85979995479967,16.59065913553798],[-96.8636125003738,16.59350872720279],[-96.8642159071285,16.59374359115299],[-96.86723966307511,16.59635262223552],[-96.86948153629405,16.59783972391807],[-96.87116533450549,16.59844408847652],[-96.87295862830527,16.59913777836973],[-96.87465514718056,16.60171651922122],[-96.8777920126489,16.60760314039178],[-96.87835553163747,16.60870385652716],[-96.8786860229916,16.61051024365344],[-96.87888988194038,16.61345405765391],[-96.87932128360734,16.61968332242279],[-96.87957273534163,16.62331396029028],[-96.86470250667654,16.60974585784419],[-96.86428585137732,16.60936563301111],[-96.86400467912691,16.60931944141398],[-96.86305410663387,16.60896230715353],[-96.86270836390641,16.60862628604701],[-96.86200384486523,16.60794156955973],[-96.86063498488215,16.60755827435788],[-96.8598431211516,16.60733653680891],[-96.85914933455084,16.6068799047153],[-96.85854020586098,16.60671247001111],[-96.85831798763569,16.60665138701222],[-96.85784125989728,16.60652034760361],[-96.85701877783704,16.60629426582956],[-96.85632116022344,16.60610250268179],[-96.85569390798786,16.60593007854614],[-96.85465563409362,16.60564466238291],[-96.85386600039031,16.60542759098644],[-96.85380281256566,16.60541022034884],[-96.85223291772911,16.60497863915653],[-96.85100275412549,16.60464044056539],[-96.85016947028565,16.60441134634781],[-96.85003323298083,16.60426643207173],[-96.84954707395227,16.60374930266036],[-96.8393926462815,16.59294689432437],[-96.84328949017501,16.58611109837762]]],"type":"Polygon"}
+}

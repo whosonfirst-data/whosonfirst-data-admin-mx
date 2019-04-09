@@ -1,0 +1,75 @@
+{
+  "id": 1343832517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.43255,23.94546,-100.43255,23.94546",
+    "geom:latitude":23.94546,
+    "geom:longitude":-100.43255,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"San Cayetano de Vacas",
+    "gn:country_code":"MX",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3980739,
+    "gn:latitude":23.94546,
+    "gn:longitude":-100.43255,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Cayetano de Vacas",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Cayetano de Vacas"
+    ],
+    "name:und_x_variant":[
+        "Las Vacas",
+        "Vacas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3980739
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"323935441c34515e65cef53739fdadd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078773,
+            "locality_id":1343832517,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1343832517,
+    "wof:lastmodified":1537667192,
+    "wof:name":"San Cayetano de Vacas",
+    "wof:parent_id":102078773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.43255,
+    23.94546,
+    -100.43255,
+    23.94546
+],
+  "geometry": {"coordinates":[-100.43255000000001,23.94546],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193125825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.4848,24.77889,-104.4848,24.77889",
+    "geom:latitude":24.77889,
+    "geom:longitude":-104.4848,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Francisco de Ibarra",
+    "gn:country_code":"MX",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4008205,
+    "gn:latitude":24.77889,
+    "gn:longitude":-104.4848,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Francisco de Ibarra",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Francisco de Ibarra"
+    ],
+    "name:und_x_variant":[
+        "Ranchito",
+        "El Ranchito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4008205
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7c1b026013c0cb6b2c44734a02c87c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075197,
+            "locality_id":1193125825,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1193125825,
+    "wof:lastmodified":1537667913,
+    "wof:name":"Francisco de Ibarra",
+    "wof:parent_id":102075197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.4848,
+    24.77889,
+    -104.4848,
+    24.77889
+],
+  "geometry": {"coordinates":[-104.48480000000001,24.77889],"type":"Point"}
+}

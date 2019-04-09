@@ -1,0 +1,65 @@
+{
+  "id": 1209215627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.60953,23.20749,-109.60953,23.20749",
+    "geom:latitude":23.20749,
+    "geom:longitude":-109.60953,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"San Marcos",
+    "gn:country_code":"MX",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8928229,
+    "gn:latitude":23.20749,
+    "gn:longitude":-109.60953,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"San Marcos",
+    "gn:population":7,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8928229
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fcfea86c8d5aa74006230b7815e83323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209215627
+        }
+    ],
+    "wof:id":1209215627,
+    "wof:lastmodified":1536294142,
+    "wof:name":"San Marcos",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.60953,
+    23.20749,
+    -109.60953,
+    23.20749
+],
+  "geometry": {"coordinates":[-109.60953000000001,23.20749],"type":"Point"}
+}

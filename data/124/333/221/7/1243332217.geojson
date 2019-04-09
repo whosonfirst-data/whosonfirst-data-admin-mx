@@ -1,0 +1,76 @@
+{
+  "id": 1243332217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.55525,18.38384,-88.55525,18.38384",
+    "geom:latitude":18.38384,
+    "geom:longitude":-88.55525,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Allende",
+    "gn:country_code":"MX",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3533055,
+    "gn:latitude":18.38384,
+    "gn:longitude":-88.55525,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Allende",
+    "gn:population":868,
+    "gn:timezone":"America/Cancun",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esteves",
+        "Estebes",
+        "Allende"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686711,
+        102079235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533055
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4a1f11e75fc82ca43730a7a85cbe44b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079235,
+            "locality_id":1243332217,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":1243332217,
+    "wof:lastmodified":1537666442,
+    "wof:name":"Allende",
+    "wof:parent_id":102079235,
+    "wof:placetype":"locality",
+    "wof:population":868,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.55525,
+    18.38384,
+    -88.55525,
+    18.38384
+],
+  "geometry": {"coordinates":[-88.55525,18.38384],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326827865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.27881,27.38631,-108.27881,27.38631",
+    "geom:latitude":27.38631,
+    "geom:longitude":-108.27881,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"MX",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8902573,
+    "gn:latitude":27.38631,
+    "gn:longitude":-108.27881,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Antonio",
+    "gn:population":23,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8902573
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8ad0de97bf611c5079f6746918b8c034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075243,
+            "locality_id":1326827865,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1326827865,
+    "wof:lastmodified":1537052836,
+    "wof:name":"San Antonio",
+    "wof:parent_id":102075243,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.27881,
+    27.38631,
+    -108.27881,
+    27.38631
+],
+  "geometry": {"coordinates":[-108.27880999999999,27.38631],"type":"Point"}
+}

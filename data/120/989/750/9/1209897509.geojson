@@ -1,0 +1,74 @@
+{
+  "id": 1209897509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.32139,19.69806,-102.32139,19.69806",
+    "geom:latitude":19.69806,
+    "geom:longitude":-102.32139,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"San Luis (Suren)",
+    "gn:country_code":"MX",
+    "gn:dem":2511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8869739,
+    "gn:latitude":19.69806,
+    "gn:longitude":-102.32139,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Luis (Sur\u00e9n)",
+    "gn:population":245,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Luis (Sur\u00e9n)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686595,
+        102075007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8869739
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ef5684aff9e59f7a1f9eae0fa9ff5202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075007,
+            "locality_id":1209897509,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1209897509,
+    "wof:lastmodified":1537669517,
+    "wof:name":"San Luis (Suren)",
+    "wof:parent_id":102075007,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.32139,
+    19.69806,
+    -102.32139,
+    19.69806
+],
+  "geometry": {"coordinates":[-102.32138999999999,19.69806],"type":"Point"}
+}

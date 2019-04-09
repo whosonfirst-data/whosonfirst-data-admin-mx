@@ -1,0 +1,74 @@
+{
+  "id": 1293862223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.55645,25.51028,-103.55645,25.51028",
+    "geom:latitude":25.51028,
+    "geom:longitude":-103.55645,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"El Pentagono",
+    "gn:country_code":"MX",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8934362,
+    "gn:latitude":25.51028,
+    "gn:longitude":-103.55645,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"El Pent\u00e1gono",
+    "gn:population":6,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pent\u00e1gono"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8934362
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"585a0f98921623c3d3b87e383163ca62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075209,
+            "locality_id":1293862223,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1293862223,
+    "wof:lastmodified":1537671112,
+    "wof:name":"El Pentagono",
+    "wof:parent_id":102075209,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.55645,
+    25.51028,
+    -103.55645,
+    25.51028
+],
+  "geometry": {"coordinates":[-103.55645,25.51028],"type":"Point"}
+}

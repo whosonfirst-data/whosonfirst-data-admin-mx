@@ -1,0 +1,76 @@
+{
+  "id": 1360286331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.44774,23.94811,-110.44774,23.94811",
+    "geom:latitude":23.94811,
+    "geom:longitude":-110.44774,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Guamuchil",
+    "gn:country_code":"MX",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4005303,
+    "gn:latitude":23.94811,
+    "gn:longitude":-110.44774,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Guamuchil",
+    "gn:population":0,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guamuchil"
+    ],
+    "name:und_x_variant":[
+        "El Huamuchil",
+        "Guaymochile",
+        "Guam\u00fachil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4005303
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4669d263a1a3736e41e9c45a21641b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074519,
+            "locality_id":1360286331,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1360286331,
+    "wof:lastmodified":1537667832,
+    "wof:name":"Guamuchil",
+    "wof:parent_id":102074519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.44774,
+    23.94811,
+    -110.44774,
+    23.94811
+],
+  "geometry": {"coordinates":[-110.44774,23.94811],"type":"Point"}
+}

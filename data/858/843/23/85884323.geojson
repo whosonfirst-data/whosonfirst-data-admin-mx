@@ -1,0 +1,116 @@
+{
+  "id": 85884323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":1237260.567025,
+    "geom:bbox":"-99.1680908203,19.3303432994,-99.1557312012,19.3422449968",
+    "geom:latitude":19.336183,
+    "geom:longitude":-99.161607,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.335856,
+    "lbl:longitude":-99.159407,
+    "mps:latitude":19.335989,
+    "mps:longitude":-99.161112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Pedregal de Coyoacan"
+    ],
+    "name:unk_x_variant":[
+        "Pedregal de Coyoacan"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Pedregal de Coyoacan",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":68,
+    "qs:photo_sum":84,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902710,
+        "qs:id":973269
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"33507be34dbb3fa95ed16f956750ddeb",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884323,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85884323,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884323,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527269998,
+    "wof:name":"Pedregal de Coyoacan",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.16809082029997,
+    19.33034329936898,
+    -99.15573120117483,
+    19.34224499680003
+],
+  "geometry": {"coordinates":[[[-99.15710449218329,19.3408693674623],[-99.15710449218534,19.3384373880036],[-99.15580651660667,19.33706180109994],[-99.15573120117483,19.33698198224671],[-99.15573120117483,19.3344701312254],[-99.15674705070404,19.33231699974705],[-99.15985107419996,19.33034329936898],[-99.16226531475525,19.33187839970027],[-99.16259765619992,19.33187839970027],[-99.16809082029997,19.33187839970027],[-99.16809082029997,19.33187844080003],[-99.16809082029997,19.33706175995009],[-99.16809082029997,19.33706180110002],[-99.16809078147148,19.33706180110002],[-99.16629443730881,19.33896554102429],[-99.16534423827494,19.33910940069292],[-99.16449950139059,19.33898150794684],[-99.16431871015209,19.33904537561941],[-99.16259765621956,19.3408693674623],[-99.16259765620936,19.34224499680003],[-99.15985107419996,19.34224499680003],[-99.15710449220001,19.34224499680003],[-99.15710449218329,19.3408693674623]]],"type":"Polygon"}
+}

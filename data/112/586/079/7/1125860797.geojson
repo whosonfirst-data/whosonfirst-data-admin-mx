@@ -1,0 +1,81 @@
+{
+  "id": 1125860797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.1664,19.32932,-98.1664,19.32932",
+    "geom:latitude":19.32932,
+    "geom:longitude":-98.1664,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":24569,
+    "gn:population":24569,
+    "iso:country":"MX",
+    "lbl:latitude":19.32932,
+    "lbl:longitude":-98.1664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "San Bernardino"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3530276,
+    "qs_pg:gn_pop":24569,
+    "qs_pg:name":"San Bernardino Contla",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":279796,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686653,
+        102077941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3530276,
+        "qs_pg:id":279796
+    },
+    "wof:country":"MX",
+    "wof:created":1497293819,
+    "wof:geomhash":"1f621c587a612a8e9c7ac9cb2a8ee30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077941,
+            "locality_id":1125860797,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1125860797,
+    "wof:lastmodified":1509396608,
+    "wof:name":"San Bernardino Contla",
+    "wof:parent_id":102077941,
+    "wof:placetype":"locality",
+    "wof:population":24569,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.1664,
+    19.32932,
+    -98.1664,
+    19.32932
+],
+  "geometry": {"coordinates":[-98.1664,19.32932],"type":"Point"}
+}

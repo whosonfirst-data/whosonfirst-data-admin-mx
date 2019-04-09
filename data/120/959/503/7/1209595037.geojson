@@ -1,0 +1,65 @@
+{
+  "id": 1209595037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.09716,17.13245,-99.09716,17.13245",
+    "geom:latitude":17.13245,
+    "geom:longitude":-99.09716,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Tlacuache",
+    "gn:country_code":"MX",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8922626,
+    "gn:latitude":17.13245,
+    "gn:longitude":-99.09716,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tlacuache",
+    "gn:population":9,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8922626
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"645324ed08b44ff53125c14c733fb094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209595037
+        }
+    ],
+    "wof:id":1209595037,
+    "wof:lastmodified":1536282353,
+    "wof:name":"Tlacuache",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.09716,
+    17.13245,
+    -99.09716,
+    17.13245
+],
+  "geometry": {"coordinates":[-99.09716,17.13245],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126058997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.70705,30.817714,-114.70705,30.817714",
+    "geom:latitude":30.817714,
+    "geom:longitude":-114.70705,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":30.817714,
+    "lbl:longitude":-114.70705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bahia Santa Maria",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1072399,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":112927,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":112927,
+        "qs_pg:id":1072399
+    },
+    "wof:country":"MX",
+    "wof:created":1497303776,
+    "wof:geomhash":"e28229bdfc8066931109adf0c6cb9299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1126058997,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126058997,
+    "wof:lastmodified":1509409835,
+    "wof:name":"Bahia Santa Maria",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.70705,
+    30.817714,
+    -114.70705,
+    30.817714
+],
+  "geometry": {"coordinates":[-114.70705,30.817714],"type":"Point"}
+}

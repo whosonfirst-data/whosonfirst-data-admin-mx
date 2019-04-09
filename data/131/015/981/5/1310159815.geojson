@@ -1,0 +1,74 @@
+{
+  "id": 1310159815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.70585,18.57478,-92.70585,18.57478",
+    "geom:latitude":18.57478,
+    "geom:longitude":-92.70585,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Isla Punta del Buey",
+    "gn:country_code":"MX",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3802003,
+    "gn:latitude":18.57478,
+    "gn:longitude":-92.70585,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Isla Punta del Buey",
+    "gn:population":0,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Punta del Rey"
+    ],
+    "name:spa_x_variant":[
+        "Isla Punta del Buey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686617,
+        102075793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3802003
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9921185df0c53d6bb258cb7959481bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075793,
+            "locality_id":1310159815,
+            "region_id":85686617
+        }
+    ],
+    "wof:id":1310159815,
+    "wof:lastmodified":1537666549,
+    "wof:name":"Isla Punta del Buey",
+    "wof:parent_id":102075793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.70585,
+    18.57478,
+    -92.70585,
+    18.57478
+],
+  "geometry": {"coordinates":[-92.70585,18.57478],"type":"Point"}
+}

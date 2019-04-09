@@ -1,0 +1,91 @@
+{
+  "id": 890535827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.149,19.200498,-99.149,19.200498",
+    "geom:latitude":19.200498,
+    "geom:longitude":-99.149,
+    "iso:country":"MX",
+    "lbl:latitude":19.200498,
+    "lbl:longitude":-99.149,
+    "mps:latitude":19.200498,
+    "mps:longitude":-99.149,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Miguel Topilejo"
+    ],
+    "name:unk_x_variant":[
+        "Topilejo"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Distrito Federal",
+    "qs:a1_lc":"09",
+    "qs:a1r":"*",
+    "qs:a2":"Tlalpan",
+    "qs:a2_lc":"09012",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Miguel Topilejo",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102073729,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01d75ebc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3515259,
+        "gp:id":149826,
+        "qs:id":1262721,
+        "wd:id":"Q16937303"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6a97f253731e156a27213cdcd6910134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073729,
+            "locality_id":-1,
+            "neighbourhood_id":890535827,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":890535827,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531939967,
+    "wof:name":"San Miguel Topilejo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101991113
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.149,
+    19.200498,
+    -99.149,
+    19.200498
+],
+  "geometry": {"coordinates":[-99.149,19.200498],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226254513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.65998,23.62018,-109.65998,23.62018",
+    "geom:latitude":23.62018,
+    "geom:longitude":-109.65998,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Los Martires",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3997531,
+    "gn:latitude":23.62018,
+    "gn:longitude":-109.65998,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Los M\u00e1rtires",
+    "gn:population":20,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Mailes",
+        "Los M\u00e1rtires"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3997531
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ee712a14c19a4500abcb4a55b514ee13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074525,
+            "locality_id":1226254513,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1226254513,
+    "wof:lastmodified":1537667591,
+    "wof:name":"Los Martires",
+    "wof:parent_id":102074525,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.65998,
+    23.62018,
+    -109.65998,
+    23.62018
+],
+  "geometry": {"coordinates":[-109.65998,23.62018],"type":"Point"}
+}

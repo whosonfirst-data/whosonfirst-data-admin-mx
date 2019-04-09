@@ -1,0 +1,87 @@
+{
+  "id": 1126032645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.25392,21.78421,-105.25392,21.78421",
+    "geom:latitude":21.78421,
+    "geom:longitude":-105.25392,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":21.78421,
+    "lbl:longitude":-105.25392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Amapa"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4018624,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Amapa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Nayarit",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":180018,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":112017,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Nayarit",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4018624,
+        "gp:id":112017,
+        "qs_pg:id":180018
+    },
+    "wof:country":"MX",
+    "wof:created":1497301575,
+    "wof:geomhash":"280755d71eb99f4ad6eef6feb63edad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074587,
+            "locality_id":1126032645,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1126032645,
+    "wof:lastmodified":1509408017,
+    "wof:name":"Amapa",
+    "wof:parent_id":102074587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.25392,
+    21.78421,
+    -105.25392,
+    21.78421
+],
+  "geometry": {"coordinates":[-105.25391999999999,21.78421],"type":"Point"}
+}

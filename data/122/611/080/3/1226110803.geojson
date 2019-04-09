@@ -1,0 +1,70 @@
+{
+  "id": 1226110803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.05861,19.05027,-89.05861,19.05027",
+    "geom:latitude":19.05027,
+    "geom:longitude":-89.05861,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"MX",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413663,
+    "gn:latitude":19.05027,
+    "gn:longitude":-89.05861,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Cancun",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686711,
+        102079235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413663
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ec76ce8340ea0ea8a6134a8fcff1d6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079235,
+            "locality_id":1226110803,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":1226110803,
+    "wof:lastmodified":1537673513,
+    "wof:name":"San Pedro",
+    "wof:parent_id":102079235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.05861,
+    19.05027,
+    -89.05861,
+    19.05027
+],
+  "geometry": {"coordinates":[-89.05861,19.05027],"type":"Point"}
+}

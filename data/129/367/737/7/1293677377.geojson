@@ -1,0 +1,77 @@
+{
+  "id": 1293677377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.46003,24.15528,-105.46003,24.15528",
+    "geom:latitude":24.15528,
+    "geom:longitude":-105.46003,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"La Tasajera",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3982350,
+    "gn:latitude":24.15528,
+    "gn:longitude":-105.46003,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"La Tasajera",
+    "gn:population":8,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazajera",
+        "Las Vegas",
+        "Tasajera"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3982350
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a7f60812a1a2050c5e03ce09bd85a2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075195,
+            "locality_id":1293677377,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1293677377,
+    "wof:lastmodified":1537667228,
+    "wof:name":"La Tasajera",
+    "wof:parent_id":102075195,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.46003,
+    24.15528,
+    -105.46003,
+    24.15528
+],
+  "geometry": {"coordinates":[-105.46003,24.15528],"type":"Point"}
+}

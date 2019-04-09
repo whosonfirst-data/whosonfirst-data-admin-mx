@@ -1,0 +1,68 @@
+{
+  "id": 1242854819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.1,21.43333,-101.1,21.43333",
+    "geom:latitude":21.43333,
+    "geom:longitude":-101.1,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"MX",
+    "gn:dem":2432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3983927,
+    "gn:latitude":21.43333,
+    "gn:longitude":-101.1,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3983927
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d9217b58519c5689459c5683ee922fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077263,
+            "locality_id":1242854819,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1242854819,
+    "wof:lastmodified":1536664406,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":102077263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.1,
+    21.43333,
+    -101.1,
+    21.43333
+],
+  "geometry": {"coordinates":[-101.09999999999999,21.43333],"type":"Point"}
+}

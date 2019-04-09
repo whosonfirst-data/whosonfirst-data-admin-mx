@@ -1,0 +1,81 @@
+{
+  "id": 1125822895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.34924,21.97357,-103.34924,21.97357",
+    "geom:latitude":21.97357,
+    "geom:longitude":-103.34924,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":120,
+    "gn:population":120,
+    "iso:country":"MX",
+    "lbl:latitude":21.97357,
+    "lbl:longitude":-103.34924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Cartagena"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3977225,
+    "qs_pg:gn_pop":120,
+    "qs_pg:name":"Cartagenas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":97062,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3977225,
+        "qs_pg:id":97062
+    },
+    "wof:country":"MX",
+    "wof:created":1497292151,
+    "wof:geomhash":"b016ff877dea203099021ab1b510a4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074609,
+            "locality_id":1125822895,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1125822895,
+    "wof:lastmodified":1509394188,
+    "wof:name":"Cartagenas",
+    "wof:parent_id":102074609,
+    "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.34924,
+    21.97357,
+    -103.34924,
+    21.97357
+],
+  "geometry": {"coordinates":[-103.34923999999999,21.97357],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310060091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.02787,29.86223,-111.02787,29.86223",
+    "geom:latitude":29.86223,
+    "geom:longitude":-111.02787,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Los Guayacanes",
+    "gn:country_code":"MX",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3971249,
+    "gn:latitude":29.86223,
+    "gn:longitude":-111.02787,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Los Guayacanes",
+    "gn:population":1,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Guayacanes"
+    ],
+    "name:und_x_variant":[
+        "Los Guayacones"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3971249
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3da81871f8e30c7995b813221d81e2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074413,
+            "locality_id":1310060091,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1310060091,
+    "wof:lastmodified":1537666941,
+    "wof:name":"Los Guayacanes",
+    "wof:parent_id":102074413,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.02787,
+    29.86223,
+    -111.02787,
+    29.86223
+],
+  "geometry": {"coordinates":[-111.02786999999999,29.86223],"type":"Point"}
+}

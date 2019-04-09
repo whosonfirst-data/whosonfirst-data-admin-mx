@@ -1,0 +1,71 @@
+{
+  "id": 1327395791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.51472,25.00222,-100.51472,25.00222",
+    "geom:latitude":25.00222,
+    "geom:longitude":-100.51472,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Miguel Hidalgo",
+    "gn:country_code":"MX",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8875656,
+    "gn:latitude":25.00222,
+    "gn:longitude":-100.51472,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Miguel Hidalgo",
+    "gn:population":150,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8875656
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"87e3a4f44d268b55efbe998f46f3e404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078769,
+            "locality_id":1327395791,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1327395791,
+    "wof:lastmodified":1536733954,
+    "wof:name":"Miguel Hidalgo",
+    "wof:parent_id":102078769,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.51472,
+    25.00222,
+    -100.51472,
+    25.00222
+],
+  "geometry": {"coordinates":[-100.51472,25.00222],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226130743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.75,25.06667,-103.75,25.06667",
+    "geom:latitude":25.06667,
+    "geom:longitude":-103.75,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"San Lorenzo",
+    "gn:country_code":"MX",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3985755,
+    "gn:latitude":25.06667,
+    "gn:longitude":-103.75,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985755
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e9a0743a394fc4b400755f75d99985c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075157,
+            "locality_id":1226130743,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1226130743,
+    "wof:lastmodified":1537096118,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":102075157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.75,
+    25.06667,
+    -103.75,
+    25.06667
+],
+  "geometry": {"coordinates":[-103.75,25.06667],"type":"Point"}
+}

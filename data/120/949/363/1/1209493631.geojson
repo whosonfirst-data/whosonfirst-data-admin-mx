@@ -1,0 +1,65 @@
+{
+  "id": 1209493631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.07389,23.9575,-104.07389,23.9575",
+    "geom:latitude":23.9575,
+    "geom:longitude":-104.07389,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Orizaba",
+    "gn:country_code":"MX",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8859114,
+    "gn:latitude":23.9575,
+    "gn:longitude":-104.07389,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Orizaba",
+    "gn:population":1452,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8859114
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"af48f74184d5d93776f437fb3f18ee54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209493631
+        }
+    ],
+    "wof:id":1209493631,
+    "wof:lastmodified":1536285406,
+    "wof:name":"Orizaba",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":1452,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.07389,
+    23.9575,
+    -104.07389,
+    23.9575
+],
+  "geometry": {"coordinates":[-104.07389000000001,23.9575],"type":"Point"}
+}

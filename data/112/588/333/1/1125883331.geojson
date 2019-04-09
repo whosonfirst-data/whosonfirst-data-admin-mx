@@ -1,0 +1,101 @@
+{
+  "id": 1125883331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.04354,27.95749,-111.04354,27.95749",
+    "geom:latitude":27.95749,
+    "geom:longitude":-111.04354,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":27.95749,
+    "lbl:longitude":-111.04354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Carlos Nuevo Guaymas"
+    ],
+    "name:eng_x_preferred":[
+        "San Carlos Nuevo Guaymas"
+    ],
+    "name:spa_x_preferred":[
+        "San Carlos"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3970677,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Carlos",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sonora",
+    "qs_pg:photos":1184,
+    "qs_pg:photos_1k":240,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1184,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":975438,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":142089,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sonora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970677,
+        "gp:id":142089,
+        "qs_pg:id":975438,
+        "wd:id":"Q7413529"
+    },
+    "wof:country":"MX",
+    "wof:created":1497294931,
+    "wof:geomhash":"62979e1ddd8193e655b166497ed901c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074511,
+            "locality_id":1125883331,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1125883331,
+    "wof:lastmodified":1553816600,
+    "wof:name":"San Carlos",
+    "wof:parent_id":102074511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.04354,
+    27.95749,
+    -111.04354,
+    27.95749
+],
+  "geometry": {"coordinates":[-111.04353999999999,27.95749],"type":"Point"}
+}

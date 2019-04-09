@@ -1,0 +1,79 @@
+{
+  "id": 102000315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":35844.159025,
+    "geom:bbox":"-98.776262477,20.0589756011,-98.7733504715,20.0612086021",
+    "geom:latitude":20.060077,
+    "geom:longitude":-98.774808,
+    "iso:country":"MX",
+    "lbl:latitude":20.060082,
+    "lbl:longitude":-98.774783,
+    "mps:latitude":20.060082,
+    "mps:longitude":-98.774783,
+    "mz:hierarchy_label":1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0626\u0648\u0644\u06cc\u0646\u0627 \u06af\u0627\u0644\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Paulina G\u00e1lvez"
+    ],
+    "name:fra_x_preferred":[
+        "Paulina G\u00e1lvez"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Hidalgo",
+    "qs:a1_lc":"13",
+    "qs:a1r":"*",
+    "qs:a2":"Mineral de la Reforma",
+    "qs:a2_lc":"13051",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rincones del Para\u00edso",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"MX",
+    "wof:geomhash":"4c4eed9ad7348bb042b84851613fd143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078543,
+            "locality_id":102000315,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":102000315,
+    "wof:lastmodified":1479907912,
+    "wof:name":"Rincones del Para\u00edso",
+    "wof:parent_id":102078543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.77626247703431,
+    20.05897560108174,
+    -98.77335047145952,
+    20.06120860205824
+],
+  "geometry": {"coordinates":[[[-98.77464950457743,20.0610859266103],[-98.77335047145952,20.06036758468621],[-98.77373256125854,20.06003349704321],[-98.77407471677246,20.05973714314802],[-98.77438821727151,20.05945737467459],[-98.77471148307328,20.05917337340266],[-98.77492712907029,20.05897560108174],[-98.77539718311913,20.05926724693142],[-98.77603578967398,20.05964390490336],[-98.77611195580586,20.05968882738156],[-98.77626247703431,20.05966658865964],[-98.77616335051252,20.05977490111753],[-98.77600847150319,20.05994002941896],[-98.77540221620899,20.06056950149722],[-98.77512462667663,20.06083024317938],[-98.77504336508215,20.06093060462246],[-98.77476387200591,20.06120860205824],[-98.77475343938984,20.06114340100508],[-98.77464950457743,20.0610859266103]]],"type":"Polygon"}
+}

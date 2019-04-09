@@ -1,0 +1,89 @@
+{
+  "id": 85884695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5897311.52635,
+    "geom:bbox":"-98.755147,19.209298,-98.755147,19.209298",
+    "geom:latitude":19.209298,
+    "geom:longitude":-98.755147,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.209298,
+    "lbl:longitude":-98.755147,
+    "mps:latitude":19.208885,
+    "mps:longitude":-98.755377,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:spa_x_colloquial":[
+        "Barrio de la Pena"
+    ],
+    "name:spa_x_preferred":[
+        "Barrio de la Pe\u00f1a"
+    ],
+    "name:unk_x_variant":[
+        "Pe\u00f1a"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991713,
+        102074015,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4000872,
+        "gp:id":55884943,
+        "qs:id":475641,
+        "qs_pg:id":1199477
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"03c63cebfa21b25845f6202d3347a512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074015,
+            "locality_id":101991713,
+            "neighbourhood_id":85884695,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":85884695,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531874592,
+    "wof:name":"Barrio de la Pe\u00f1a",
+    "wof:parent_id":101991713,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.755147,
+    19.209298,
+    -98.755147,
+    19.209298
+],
+  "geometry": {"coordinates":[-98.75514699999999,19.209298],"type":"Point"}
+}

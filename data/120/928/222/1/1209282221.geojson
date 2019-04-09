@@ -1,0 +1,65 @@
+{
+  "id": 1209282221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.38585,23.38721,-106.38585,23.38721",
+    "geom:latitude":23.38721,
+    "geom:longitude":-106.38585,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Los Limones",
+    "gn:country_code":"MX",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3998579,
+    "gn:latitude":23.38721,
+    "gn:longitude":-106.38585,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Los Limones",
+    "gn:population":162,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3998579
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f7d5d8b796e7b0d6c81e04f8167fbba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209282221
+        }
+    ],
+    "wof:id":1209282221,
+    "wof:lastmodified":1536291982,
+    "wof:name":"Los Limones",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.38585,
+    23.38721,
+    -106.38585,
+    23.38721
+],
+  "geometry": {"coordinates":[-106.38585,23.38721],"type":"Point"}
+}

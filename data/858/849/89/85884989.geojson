@@ -1,0 +1,118 @@
+{
+  "id": 85884989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000248,
+    "geom:area_square_m":2888490.076245,
+    "geom:bbox":"-99.2120361328,19.2904055882,-99.1928100586,19.3132863035",
+    "geom:latitude":19.301584,
+    "geom:longitude":-99.201957,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.301498,
+    "lbl:longitude":-99.202239,
+    "mps:latitude":19.301619,
+    "mps:longitude":-99.201156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Jardines en la Montana"
+    ],
+    "name:unk_x_variant":[
+        "Jardines en la Montana"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Jardines en la Montana",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":29,
+    "qs:photo_sum":147,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991157,
+        890535779,
+        102073729,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55910542,
+        "qs:id":1294864,
+        "wd:id":"Q6159851"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ffafd70c3045ed023b3c916e4b685533",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535779,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073729,
+            "locality_id":101991157,
+            "neighbourhood_id":85884989,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535779,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884989,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884989,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957724,
+    "wof:name":"Jardines en la Montana",
+    "wof:parent_id":890535779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.21203613282083,
+    19.29040558820031,
+    -99.19281005859997,
+    19.31328630350204
+],
+  "geometry": {"coordinates":[[[-99.20654296879994,19.31251892940587],[-99.20524479920996,19.31114335510003],[-99.20104980469998,19.31114335510003],[-99.20104980469998,19.31114331397524],[-99.19860351446346,19.30855118167514],[-99.19800293088343,19.30855118167514],[-99.19750403447179,19.30802255899786],[-99.19685490067948,19.30595917260003],[-99.19555664059993,19.30595917260003],[-99.19555664059993,19.30077482590001],[-99.19555664061451,19.29939921680706],[-99.19555664061451,19.29696588156806],[-99.19281005859997,19.29599585721388],[-99.19281005859997,19.29559031480001],[-99.19281005859997,19.29299799770001],[-99.19281005859997,19.29040558820031],[-99.19522377402245,19.29040559332529],[-99.19555664059993,19.29040559361812],[-99.20104980469998,19.29040559845016],[-99.20104980469998,19.29040563950008],[-99.20104980469998,19.29559027375018],[-99.20459548903358,19.29559027375018],[-99.20459552777709,19.29559031480001],[-99.20654296880002,19.29559031480001],[-99.20654296878536,19.29765368595164],[-99.20654296878431,19.30077478480025],[-99.21203613282083,19.30077478480025],[-99.21203613280829,19.30077482590001],[-99.21203613281452,19.30458356102062],[-99.21203613279994,19.30595917260003],[-99.20928955079998,19.30595917260003],[-99.20928955079998,19.30855127755009],[-99.20928955079998,19.31114334910642],[-99.20726716211448,19.31328630350204],[-99.20654296879994,19.31251892940587]]],"type":"Polygon"}
+}

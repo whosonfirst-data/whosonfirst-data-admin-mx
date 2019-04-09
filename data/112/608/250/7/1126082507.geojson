@@ -1,0 +1,93 @@
+{
+  "id": 1126082507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.14828,24.84726,-98.14828,24.84726",
+    "geom:latitude":24.84726,
+    "geom:longitude":-98.14828,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":29171,
+    "gn:population":29171,
+    "iso:country":"MX",
+    "lbl:latitude":24.84726,
+    "lbl:longitude":-98.14828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "San Fernando"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3483197,
+    "qs_pg:gn_pop":29171,
+    "qs_pg:name":"Tamaulipas",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tamaulipas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1045234,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55901844,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tamaulipas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102001029,
+        102078937,
+        85686695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3483197,
+        "gp:id":55901844,
+        "qs_pg:id":1045234
+    },
+    "wof:country":"MX",
+    "wof:created":1497312171,
+    "wof:geomhash":"0d60bf9dee910bc7e3037a0c0279540f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078937,
+            "locality_id":102001029,
+            "neighbourhood_id":1126082507,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1126082507,
+    "wof:lastmodified":1509411233,
+    "wof:name":"Tamaulipas",
+    "wof:parent_id":102001029,
+    "wof:placetype":"neighbourhood",
+    "wof:population":29171,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.14828,
+    24.84726,
+    -98.14828,
+    24.84726
+],
+  "geometry": {"coordinates":[-98.14828,24.84726],"type":"Point"}
+}

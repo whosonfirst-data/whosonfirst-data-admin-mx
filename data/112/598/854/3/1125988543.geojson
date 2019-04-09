@@ -1,0 +1,94 @@
+{
+  "id": 1125988543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.211,31.29274,-116.211,31.29274",
+    "geom:latitude":31.29274,
+    "geom:longitude":-116.211,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":31.29274,
+    "lbl:longitude":-116.211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Ejido General Rodolfo S\u00e1nchez Taboada"
+    ],
+    "name:unk_x_variant":[
+        "Rodolfo S\u00e1nchez Taboada"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3979301,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rodolfo Sanchez Toboada",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":82,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":82,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996454,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":140884,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3979301,
+        "gp:id":140884,
+        "qs_pg:id":996454
+    },
+    "wof:country":"MX",
+    "wof:created":1497298926,
+    "wof:geomhash":"e4fa426b600405860603cfe509cf8073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1125988543,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1125988543,
+    "wof:lastmodified":1509405243,
+    "wof:name":"Rodolfo Sanchez Toboada",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.211,
+    31.29274,
+    -116.211,
+    31.29274
+],
+  "geometry": {"coordinates":[-116.211,31.29274],"type":"Point"}
+}

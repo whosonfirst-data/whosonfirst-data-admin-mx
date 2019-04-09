@@ -1,0 +1,72 @@
+{
+  "id": 1310101275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.78167,29.1472,-101.78167,29.1472",
+    "geom:latitude":29.1472,
+    "geom:longitude":-101.78167,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"San Graciano",
+    "gn:country_code":"MX",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986917,
+    "gn:latitude":29.1472,
+    "gn:longitude":-101.78167,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Graciano",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho San Graciano",
+        "San Graciano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986917
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0e98f205888a8703e00a0cb91667d183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078795,
+            "locality_id":1310101275,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1310101275,
+    "wof:lastmodified":1537667342,
+    "wof:name":"San Graciano",
+    "wof:parent_id":102078795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.78167,
+    29.1472,
+    -101.78167,
+    29.1472
+],
+  "geometry": {"coordinates":[-101.78167000000001,29.1472],"type":"Point"}
+}

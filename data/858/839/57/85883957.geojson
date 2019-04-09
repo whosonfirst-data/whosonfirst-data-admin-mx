@@ -1,0 +1,119 @@
+{
+  "id": 85883957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000246,
+    "geom:area_square_m":2865957.462882,
+    "geom:bbox":"-99.2133336031,19.3966585045,-99.1949079225,19.4161680632",
+    "geom:latitude":19.407437,
+    "geom:longitude":-99.203877,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.410967,
+    "lbl:longitude":-99.201695,
+    "mps:latitude":19.408358,
+    "mps:longitude":-99.202781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "2da Secc Del Bosque de Chapultepec"
+    ],
+    "name:unk_x_variant":[
+        "2da Secc Del Bosque de Chapultepec"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"2da Secc Del Bosque de Chapultepec",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":94,
+    "qs:photo_sum":675,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991171,
+        890535785,
+        102073749,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902890,
+        "qs:id":1342030,
+        "qs_pg:id":127745
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"aed1a0ae12172a5d5a4a020c9868aa72",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073749,
+            "locality_id":101991171,
+            "neighbourhood_id":85883957,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883957,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883957,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957717,
+    "wof:name":"2da Secc Del Bosque de Chapultepec",
+    "wof:parent_id":890535785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.21333360306949,
+    19.39665850450021,
+    -99.19490792249405,
+    19.41616806318629
+],
+  "geometry": {"coordinates":[[[-99.21203613281665,19.41616806318629],[-99.20928955079998,19.41519732960796],[-99.20751602618196,19.41582415228547],[-99.20654296878536,19.41479243207735],[-99.20379638671665,19.41479243121698],[-99.20169851224856,19.41479243379811],[-99.20104980469998,19.41479243810009],[-99.19830322191345,19.41479243735829],[-99.1978166917778,19.4153083000806],[-99.19692993162494,19.41499489075412],[-99.19692993161269,19.41479243789404],[-99.19692993161553,19.4134972299066],[-99.19555664059993,19.41349722966794],[-99.19531511548715,19.41349722895038],[-99.19490792249405,19.41220200437523],[-99.19555664061451,19.41151418775628],[-99.19555664061451,19.40961154397731],[-99.19555664060306,19.40572574977509],[-99.19555664059993,19.40443049680007],[-99.19685411087713,19.40443049680007],[-99.1989519689005,19.4022062798157],[-99.19849789896534,19.39883644957116],[-99.19944932547563,19.39681906350185],[-99.19990366467522,19.39665850450021],[-99.20654296877495,19.39665850450021],[-99.20654296878573,19.39924927860008],[-99.20654296878431,19.40305483685162],[-99.21043555468341,19.40443049679989],[-99.2114085683375,19.40477436484682],[-99.21178755633787,19.40469400229003],[-99.21203613280005,19.40548464873515],[-99.21333360306949,19.40961150872525],[-99.21333356414073,19.40961155000005],[-99.21211197303307,19.41090676170025],[-99.21333356414817,19.41479239682519],[-99.21203613281665,19.41616806318629]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243251791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.57451,24.63637,-106.57451,24.63637",
+    "geom:latitude":24.63637,
+    "geom:longitude":-106.57451,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Las Palmas",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4001018,
+    "gn:latitude":24.63637,
+    "gn:longitude":-106.57451,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Las Palmas",
+    "gn:population":28,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmar",
+        "Palma",
+        "La Palma"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001018
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"08d354b890f438714aaf749e7dbe4c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075133,
+            "locality_id":1243251791,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1243251791,
+    "wof:lastmodified":1537667706,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":102075133,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.57451,
+    24.63637,
+    -106.57451,
+    24.63637
+],
+  "geometry": {"coordinates":[-106.57451,24.63637],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126024723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.184741,19.389372,-99.184741,19.389372",
+    "geom:latitude":19.389372,
+    "geom:longitude":-99.184741,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":19.389372,
+    "lbl:longitude":-99.184741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"San Pedro de Los Pinos",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":315717,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":145064,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686515,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":145064,
+        "qs_pg:id":315717
+    },
+    "wof:country":"MX",
+    "wof:created":1497301064,
+    "wof:geomhash":"07ffbf3f469866be0c86e1ca3429942f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":1126024723,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":1126024723,
+    "wof:lastmodified":1509407465,
+    "wof:name":"San Pedro de Los Pinos",
+    "wof:parent_id":102073737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.184741,
+    19.389372,
+    -99.184741,
+    19.389372
+],
+  "geometry": {"coordinates":[-99.184741,19.389372],"type":"Point"}
+}

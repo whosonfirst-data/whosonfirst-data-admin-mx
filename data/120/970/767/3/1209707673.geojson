@@ -1,0 +1,75 @@
+{
+  "id": 1209707673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.40372,28.89376,-103.40372,28.89376",
+    "geom:latitude":28.89376,
+    "geom:longitude":-103.40372,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Los Altares",
+    "gn:country_code":"MX",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4011663,
+    "gn:latitude":28.89376,
+    "gn:longitude":-103.40372,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Los Altares",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Altares"
+    ],
+    "name:und_x_variant":[
+        "Ejido de los Altares",
+        "Altares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4011663
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a4706fcd46740e41e9996c0cd8d70dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075301,
+            "locality_id":1209707673,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1209707673,
+    "wof:lastmodified":1537668037,
+    "wof:name":"Los Altares",
+    "wof:parent_id":102075301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.40372,
+    28.89376,
+    -103.40372,
+    28.89376
+],
+  "geometry": {"coordinates":[-103.40372000000001,28.89376],"type":"Point"}
+}

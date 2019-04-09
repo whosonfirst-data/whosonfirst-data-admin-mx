@@ -1,0 +1,115 @@
+{
+  "id": 85883657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":633018.067606,
+    "geom:bbox":"-99.1738272818,19.3907893201,-99.1616244821,19.3992492729",
+    "geom:latitude":19.394566,
+    "geom:longitude":-99.167913,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.394029,
+    "lbl:longitude":-99.169917,
+    "mps:latitude":19.394068,
+    "mps:longitude":-99.168327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Del Valle Norte"
+    ],
+    "name:unk_x_variant":[
+        "Del Valle Norte"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Del Valle Norte",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Benito Juarez",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":56,
+    "qs:photo_sum":313,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599936,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535769,
+        102073737,
+        85686515,
+        101991153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55897701,
+        "qs:id":1155320
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2a5b07315d9d56998e62f20884cae0f5",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883657,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":101991153,
+            "neighbourhood_id":85883657,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883657,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270477,
+    "wof:name":"Del Valle Norte",
+    "wof:parent_id":890535769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.17382728180169,
+    19.39078932012002,
+    -99.16162448206381,
+    19.39924927286414
+],
+  "geometry": {"coordinates":[[[-99.16534423828429,19.3966586011628],[-99.16259765620268,19.39665860109831],[-99.16211464815757,19.39665859730037],[-99.16162448206381,19.3950996019051],[-99.1625976562145,19.39406788937734],[-99.16534423828429,19.39406788894719],[-99.1653442382927,19.39216495369934],[-99.16534423830001,19.39147714190008],[-99.16599303746685,19.39147713589182],[-99.16809082029997,19.39147713503348],[-99.170188606404,19.39147713589182],[-99.17083740232499,19.39078932012445],[-99.17221069337484,19.39127461156455],[-99.17358398439049,19.39078932012002],[-99.17358398439814,19.39147714190008],[-99.17358398440001,19.39225666044419],[-99.17382728180169,19.39251459091788],[-99.17364435928056,19.3930963675253],[-99.17358398440001,19.39309636757451],[-99.17324066161549,19.39309636759086],[-99.17324066161513,19.39342021090009],[-99.1732406616249,19.39347083999789],[-99.17289733889999,19.39359216491636],[-99.17289733889999,19.39406789499391],[-99.17221069339996,19.39406789453739],[-99.17221069339996,19.39536325670008],[-99.1718863008968,19.39536325518361],[-99.17083740229992,19.39536325515678],[-99.17083740229992,19.39665860760005],[-99.17018862099295,19.39665860159197],[-99.16809082029997,19.3966586011628],[-99.16809082029997,19.39924927286414],[-99.16534423828429,19.39924927214712],[-99.16534423828429,19.3966586011628]]],"type":"Polygon"}
+}

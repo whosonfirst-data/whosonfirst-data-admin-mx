@@ -1,0 +1,74 @@
+{
+  "id": 1310418673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.99222,32.52333,-114.99222,32.52333",
+    "geom:latitude":32.52333,
+    "geom:longitude":-114.99222,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"2",
+    "gn:asciiname":"El Rillito (Ejido Mexico)",
+    "gn:country_code":"MX",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8897151,
+    "gn:latitude":32.52333,
+    "gn:longitude":-114.99222,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Rillito (Ejido M\u00e9xico)",
+    "gn:population":32,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Rillito (Ejido M\u00e9xico)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8897151
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a0737254d231aa3d2e9817e15f879b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074507,
+            "locality_id":1310418673,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1310418673,
+    "wof:lastmodified":1537670192,
+    "wof:name":"El Rillito (Ejido Mexico)",
+    "wof:parent_id":102074507,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.99222,
+    32.52333,
+    -114.99222,
+    32.52333
+],
+  "geometry": {"coordinates":[-114.99222,32.52333],"type":"Point"}
+}

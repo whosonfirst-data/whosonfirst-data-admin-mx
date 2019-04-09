@@ -1,0 +1,75 @@
+{
+  "id": 1243413275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.15361,23.20056,-103.15361,23.20056",
+    "geom:latitude":23.20056,
+    "geom:longitude":-103.15361,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"La Boquilla",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4016897,
+    "gn:latitude":23.20056,
+    "gn:longitude":-103.15361,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"La Boquilla",
+    "gn:population":15,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boquilla"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686567,
+        102075379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4016897
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d0c8d4df1d1da7218d271d8135f8f60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075379,
+            "locality_id":1243413275,
+            "region_id":85686567
+        }
+    ],
+    "wof:id":1243413275,
+    "wof:lastmodified":1537668140,
+    "wof:name":"La Boquilla",
+    "wof:parent_id":102075379,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.15361,
+    23.20056,
+    -103.15361,
+    23.20056
+],
+  "geometry": {"coordinates":[-103.15361,23.20056],"type":"Point"}
+}

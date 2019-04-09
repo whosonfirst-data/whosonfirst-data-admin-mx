@@ -1,0 +1,74 @@
+{
+  "id": 1242632365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.3925,25.64,-108.3925,25.64",
+    "geom:latitude":25.64,
+    "geom:longitude":-108.3925,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Poblado Lazaro Cardenas del Rio",
+    "gn:country_code":"MX",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8887688,
+    "gn:latitude":25.64,
+    "gn:longitude":-108.3925,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Poblado L\u00e1zaro C\u00e1rdenas del R\u00edo",
+    "gn:population":62,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poblado L\u00e1zaro C\u00e1rdenas del R\u00edo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8887688
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e79ca29ec867926dcd7c29889c470268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074321,
+            "locality_id":1242632365,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1242632365,
+    "wof:lastmodified":1537669956,
+    "wof:name":"Poblado Lazaro Cardenas del Rio",
+    "wof:parent_id":102074321,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.3925,
+    25.64,
+    -108.3925,
+    25.64
+],
+  "geometry": {"coordinates":[-108.3925,25.64],"type":"Point"}
+}

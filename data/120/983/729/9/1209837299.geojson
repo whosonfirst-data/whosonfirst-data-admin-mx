@@ -1,0 +1,74 @@
+{
+  "id": 1209837299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.53578,28.61823,-106.53578,28.61823",
+    "geom:latitude":28.61823,
+    "geom:longitude":-106.53578,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"San Juan del Duro",
+    "gn:country_code":"MX",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3985875,
+    "gn:latitude":28.61823,
+    "gn:longitude":-106.53578,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"San Juan del Duro",
+    "gn:population":5,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985875
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"34c6450b0f20e1dd1dc8289cb1aacba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075283,
+            "locality_id":1209837299,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1209837299,
+    "wof:lastmodified":1537667312,
+    "wof:name":"San Juan del Duro",
+    "wof:parent_id":102075283,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.53578,
+    28.61823,
+    -106.53578,
+    28.61823
+],
+  "geometry": {"coordinates":[-106.53578,28.61823],"type":"Point"}
+}

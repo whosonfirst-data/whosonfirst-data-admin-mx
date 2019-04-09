@@ -1,0 +1,94 @@
+{
+  "id": 1125823957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.82559,23.99386,-109.82559,23.99386",
+    "geom:latitude":23.99386,
+    "geom:longitude":-109.82559,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":23.99386,
+    "lbl:longitude":-109.82559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Ensenada de los Muertos"
+    ],
+    "name:spa_x_variant":[
+        "Ensenada Los Muertos"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4022436,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ensenada de Los Muertos",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California Sur",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":963592,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":123256,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California Sur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4022436,
+        "gp:id":123256,
+        "qs_pg:id":963592
+    },
+    "wof:country":"MX",
+    "wof:created":1497292190,
+    "wof:geomhash":"b4ac7cd5233a1967e96009252bda414d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074519,
+            "locality_id":1125823957,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1125823957,
+    "wof:lastmodified":1509394289,
+    "wof:name":"Ensenada de Los Muertos",
+    "wof:parent_id":102074519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.82559,
+    23.99386,
+    -109.82559,
+    23.99386
+],
+  "geometry": {"coordinates":[-109.82559000000001,23.99386],"type":"Point"}
+}

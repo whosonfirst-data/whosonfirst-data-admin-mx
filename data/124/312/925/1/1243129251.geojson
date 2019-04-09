@@ -1,0 +1,74 @@
+{
+  "id": 1243129251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.70028,24.05944,-106.70028,24.05944",
+    "geom:latitude":24.05944,
+    "geom:longitude":-106.70028,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Ensenada",
+    "gn:country_code":"MX",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4006703,
+    "gn:latitude":24.05944,
+    "gn:longitude":-106.70028,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Ensenada",
+    "gn:population":431,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ensenada de Elota"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4006703
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"47d31bfd1714eae657e57e04503226fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074327,
+            "locality_id":1243129251,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1243129251,
+    "wof:lastmodified":1537667861,
+    "wof:name":"Ensenada",
+    "wof:parent_id":102074327,
+    "wof:placetype":"locality",
+    "wof:population":431,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.70028,
+    24.05944,
+    -106.70028,
+    24.05944
+],
+  "geometry": {"coordinates":[-106.70028000000001,24.05944],"type":"Point"}
+}

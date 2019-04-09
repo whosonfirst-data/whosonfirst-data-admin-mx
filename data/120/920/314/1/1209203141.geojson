@@ -1,0 +1,65 @@
+{
+  "id": 1209203141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.26782,25.0103,-103.26782,25.0103",
+    "geom:latitude":25.0103,
+    "geom:longitude":-103.26782,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"MX",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8895864,
+    "gn:latitude":25.0103,
+    "gn:longitude":-103.26782,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Esperanza",
+    "gn:population":35,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8895864
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"910ad81c3760da268aa5fdfbf93c2fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209203141
+        }
+    ],
+    "wof:id":1209203141,
+    "wof:lastmodified":1536294542,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.26782,
+    25.0103,
+    -103.26782,
+    25.0103
+],
+  "geometry": {"coordinates":[-103.26782,25.0103],"type":"Point"}
+}

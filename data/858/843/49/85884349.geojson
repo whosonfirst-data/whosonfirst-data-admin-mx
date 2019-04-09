@@ -1,0 +1,119 @@
+{
+  "id": 85884349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000385,
+    "geom:area_square_m":4487682.1993,
+    "geom:bbox":"-99.241262207,19.3113547717,-99.2162311855,19.3347890958",
+    "geom:latitude":19.322711,
+    "geom:longitude":-99.228458,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.321559,
+    "lbl:longitude":-99.222584,
+    "mps:latitude":19.322363,
+    "mps:longitude":-99.228219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "San Jeronimo Aculco"
+    ],
+    "name:unk_x_variant":[
+        "San Jeronimo Aculco"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"San Jer\u00f3nimo Aculco",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"San Jeronimo Aculco",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"La Magdalena Contreras",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":146,
+    "qs:photo_sum":396,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599943,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":217,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535777,
+        102073737,
+        85686515,
+        101991155,
+        102073733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902798,
+        "qs:id":1342484,
+        "wd:id":"Q21010217"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6eb7e1f5f9a3d5d68e0aa4fb91910cf5",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535777,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884349,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535777,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073733,
+            "locality_id":101991155,
+            "neighbourhood_id":85884349,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884349,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957719,
+    "wof:name":"San Jeronimo Aculco",
+    "wof:parent_id":890535777,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.24126220705,
+    19.31135477165806,
+    -99.21623118545739,
+    19.33478909578265
+],
+  "geometry": {"coordinates":[[[-99.22851566378219,19.33187844080011],[-99.22851562499994,19.33187844080003],[-99.22302246090001,19.33187844080003],[-99.22302246091866,19.33187839970027],[-99.22277319077307,19.33161423513477],[-99.21861100321135,19.33073205914384],[-99.21784909193417,19.32669490580021],[-99.21784907446744,19.32669487495005],[-99.21785381750317,19.32666974413475],[-99.21752929689998,19.32563805090585],[-99.21623118545739,19.32151118570029],[-99.21752929689998,19.32013560759181],[-99.218253525639,19.31936815946196],[-99.2183382413769,19.31891931022524],[-99.21792897285098,19.31675084916857],[-99.21912789400366,19.31632737310005],[-99.22204883225669,19.3152956560058],[-99.22302246089993,19.31220060924514],[-99.22327191149867,19.31140763620245],[-99.22576904297503,19.31193683794585],[-99.22851562499977,19.31135477165806],[-99.23633666650113,19.31632716765009],[-99.23747442972513,19.31632716765009],[-99.23833327486193,19.31703200363832],[-99.23957690317292,19.31854736911995],[-99.24050100237505,19.32027623712639],[-99.24107005985388,19.32215216823001],[-99.24126220705,19.32410307145014],[-99.2411229437094,19.32551703587497],[-99.23890005069467,19.32669487495005],[-99.23400878909999,19.33187839967371],[-99.23400878909999,19.33187844080003],[-99.23400875029253,19.33187844080003],[-99.23126220702497,19.33478909578265],[-99.22851566378219,19.33187844080011]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293872235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.027,26.64558,-104.027,26.64558",
+    "geom:latitude":26.64558,
+    "geom:longitude":-104.027,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Los Alamos",
+    "gn:country_code":"MX",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3986150,
+    "gn:latitude":26.64558,
+    "gn:longitude":-104.027,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Los Alamos",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "Los Alamos"
+    ],
+    "name:und_x_variant":[
+        "Noria de Alamos",
+        "Rancho San Jos\u00e9 de Alamos",
+        "San Jos\u00e9 del Alamo",
+        "San Jos\u00e9 de los \u00c1lamos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986150
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ff8951c0ba1b8d723f0915677e767a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075497,
+            "locality_id":1293872235,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1293872235,
+    "wof:lastmodified":1537667321,
+    "wof:name":"Los Alamos",
+    "wof:parent_id":102075497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.027,
+    26.64558,
+    -104.027,
+    26.64558
+],
+  "geometry": {"coordinates":[-104.027,26.64558],"type":"Point"}
+}

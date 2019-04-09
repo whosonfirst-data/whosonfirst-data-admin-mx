@@ -1,0 +1,73 @@
+{
+  "id": 1360280815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.41667,28.25,-105.41667,28.25",
+    "geom:latitude":28.25,
+    "geom:longitude":-105.41667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"General Lazaro Cardenas",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4005863,
+    "gn:latitude":28.25,
+    "gn:longitude":-105.41667,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"General L\u00e1zaro Cardenas",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia L\u00e1zaro C\u00e1rdenas",
+        "General L\u00e1zaro Cardenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4005863
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6a76584c81d86fac9d7f826e75d81a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075275,
+            "locality_id":1360280815,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1360280815,
+    "wof:lastmodified":1537667844,
+    "wof:name":"General Lazaro Cardenas",
+    "wof:parent_id":102075275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.41667,
+    28.25,
+    -105.41667,
+    28.25
+],
+  "geometry": {"coordinates":[-105.41667,28.25],"type":"Point"}
+}

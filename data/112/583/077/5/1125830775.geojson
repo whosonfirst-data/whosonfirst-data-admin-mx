@@ -1,0 +1,91 @@
+{
+  "id": 1125830775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.19488,25.52087,-102.19488,25.52087",
+    "geom:latitude":25.52087,
+    "geom:longitude":-102.19488,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":25.52087,
+    "lbl:longitude":-102.19488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Lorenzo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3985751,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Lorenzo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Coahuila de Zaragoza",
+    "qs_pg:photos":66,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":66,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1199392,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":144144,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Coahuila de Zaragoza",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985751,
+        "gp:id":144144,
+        "qs_pg:id":1199392
+    },
+    "wof:country":"MX",
+    "wof:created":1497292488,
+    "wof:geomhash":"326ca4368a76ead69e86c1911435031f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078791,
+            "locality_id":1125830775,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1125830775,
+    "wof:lastmodified":1509394662,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":102078791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.19488,
+    25.52087,
+    -102.19488,
+    25.52087
+],
+  "geometry": {"coordinates":[-102.19488,25.52087],"type":"Point"}
+}

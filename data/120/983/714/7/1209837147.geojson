@@ -1,0 +1,70 @@
+{
+  "id": 1209837147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.45311,28.16163,-105.45311,28.16163",
+    "geom:latitude":28.16163,
+    "geom:longitude":-105.45311,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"MX",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11360435,
+    "gn:latitude":28.16163,
+    "gn:longitude":-105.45311,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11360435
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5b7efe4dd165d7ce1bb024bbc4cbbfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075275,
+            "locality_id":1209837147,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1209837147,
+    "wof:lastmodified":1537673462,
+    "wof:name":"San Francisco",
+    "wof:parent_id":102075275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.45311,
+    28.16163,
+    -105.45311,
+    28.16163
+],
+  "geometry": {"coordinates":[-105.45311,28.16163],"type":"Point"}
+}

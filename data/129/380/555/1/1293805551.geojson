@@ -1,0 +1,71 @@
+{
+  "id": 1293805551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.55139,28.68083,-107.55139,28.68083",
+    "geom:latitude":28.68083,
+    "geom:longitude":-107.55139,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Barrio de San Jose (Perros Bravos)",
+    "gn:country_code":"MX",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986380,
+    "gn:latitude":28.68083,
+    "gn:longitude":-107.55139,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Barrio de San Jos\u00e9 (Perros Bravos)",
+    "gn:population":248,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986380
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f78e03fd238b519cc30b92d8d199f6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075333,
+            "locality_id":1293805551,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293805551,
+    "wof:lastmodified":1536824745,
+    "wof:name":"Barrio de San Jose (Perros Bravos)",
+    "wof:parent_id":102075333,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.55138999999998,
+    28.68083,
+    -107.55138999999998,
+    28.68083
+],
+  "geometry": {"coordinates":[-107.55138999999998,28.68083],"type":"Point"}
+}

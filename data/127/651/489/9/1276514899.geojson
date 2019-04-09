@@ -1,0 +1,75 @@
+{
+  "id": 1276514899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.26844,25.32947,-108.26844,25.32947",
+    "geom:latitude":25.32947,
+    "geom:longitude":-108.26844,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"El Llano",
+    "gn:country_code":"MX",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4009402,
+    "gn:latitude":25.32947,
+    "gn:longitude":-108.26844,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"El Llano",
+    "gn:population":290,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llano",
+        "El Llano"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4009402
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9148b98d5776b66daab1367060134153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074341,
+            "locality_id":1276514899,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1276514899,
+    "wof:lastmodified":1537667957,
+    "wof:name":"El Llano",
+    "wof:parent_id":102074341,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.26843999999998,
+    25.32947,
+    -108.26843999999998,
+    25.32947
+],
+  "geometry": {"coordinates":[-108.26843999999998,25.32947],"type":"Point"}
+}

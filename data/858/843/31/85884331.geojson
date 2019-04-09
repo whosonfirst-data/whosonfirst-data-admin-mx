@@ -1,0 +1,120 @@
+{
+  "id": 85884331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":304964.45612,
+    "geom:bbox":"-99.1914367676,19.3292866926,-99.1873168945,19.3370618011",
+    "geom:latitude":19.333174,
+    "geom:longitude":-99.189061,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.33249,
+    "lbl:longitude":-99.188499,
+    "mps:latitude":19.333174,
+    "mps:longitude":-99.189306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Conjunto Res Insurgentes San Angel"
+    ],
+    "name:unk_x_variant":[
+        "Conjunto Res Insurgentes San Angel"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Conjunto Res Insurgentes San Angel",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":319,
+    "qs:photo_sum":614,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985595,
+        "gp:id":55892095,
+        "qs:id":899370,
+        "qs_pg:id":775914
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c57151f498368cdf305e42f8c9208451",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884331,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85884331,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884331,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527269997,
+    "wof:name":"Conjunto Res Insurgentes San Angel",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.19143676759995,
+    19.32928669257821,
+    -99.18731689449993,
+    19.33706180110002
+],
+  "geometry": {"coordinates":[[[-99.19006347660002,19.33706180110002],[-99.18941447665387,19.33706179509194],[-99.18731689451388,19.33706179537802],[-99.18731689451451,19.33550184349595],[-99.18731689449993,19.33447014150002],[-99.18731689449993,19.33317429630009],[-99.18731689449993,19.33187844080003],[-99.18731689449993,19.329286699],[-99.18796592300973,19.32928669300631],[-99.1900634765843,19.32928669257821],[-99.19006347658419,19.33119063365962],[-99.19143676759995,19.33167574774399],[-99.19143676759995,19.33187844080003],[-99.19143676759995,19.33317429458342],[-99.19143676759995,19.33447014150002],[-99.19143676759995,19.33467281369585],[-99.19006347658419,19.33515793932298],[-99.1900634765833,19.33637399266065],[-99.19006347660002,19.33706180110002]]],"type":"Polygon"}
+}

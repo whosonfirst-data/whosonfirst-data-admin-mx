@@ -1,0 +1,77 @@
+{
+  "id": 1293511397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.4802,27.33301,-107.4802,27.33301",
+    "geom:latitude":27.33301,
+    "geom:longitude":-107.4802,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Chihuivo",
+    "gn:country_code":"MX",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3975374,
+    "gn:latitude":27.33301,
+    "gn:longitude":-107.4802,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Chihuivo",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guagueachi"
+    ],
+    "name:spa_x_variant":[
+        "Chihuivo"
+    ],
+    "name:und_x_variant":[
+        "Guegueachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3975374
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7bec0c0b2136041e4fae23130a020dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075331,
+            "locality_id":1293511397,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293511397,
+    "wof:lastmodified":1537667045,
+    "wof:name":"Chihuivo",
+    "wof:parent_id":102075331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.4802,
+    27.33301,
+    -107.4802,
+    27.33301
+],
+  "geometry": {"coordinates":[-107.4802,27.33301],"type":"Point"}
+}

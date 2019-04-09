@@ -1,0 +1,89 @@
+{
+  "id": 1126105513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.15075,17.86015,-93.15075,17.86015",
+    "geom:latitude":17.86015,
+    "geom:longitude":-93.15075,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":17.86015,
+    "lbl:longitude":-93.15075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "La Reforma"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3520407,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Reforma",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tabasco",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117854,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55920365,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tabasco",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101994517,
+        102075539,
+        85686611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3520407,
+        "gp:id":55920365,
+        "qs_pg:id":1117854
+    },
+    "wof:country":"MX",
+    "wof:created":1497316852,
+    "wof:geomhash":"6ec697d115169eba5a17bb91037f84a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075539,
+            "locality_id":101994517,
+            "neighbourhood_id":1126105513,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1126105513,
+    "wof:lastmodified":1509412350,
+    "wof:name":"Reforma",
+    "wof:parent_id":101994517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.15075,
+    17.86015,
+    -93.15075,
+    17.86015
+],
+  "geometry": {"coordinates":[-93.15075,17.86015],"type":"Point"}
+}

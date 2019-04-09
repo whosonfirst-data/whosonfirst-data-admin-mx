@@ -1,0 +1,94 @@
+{
+  "id": 1125978295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.79034,17.03972,-96.79034,17.03972",
+    "geom:latitude":17.03972,
+    "geom:longitude":-96.79034,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":17.03972,
+    "lbl:longitude":-96.79034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Antonio Arrazola"
+    ],
+    "name:spa_x_variant":[
+        "Arrazola"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3532726,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Arrazola",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Oaxaca",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155821,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":112406,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Oaxaca",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3532726,
+        "gp:id":112406,
+        "qs_pg:id":1155821
+    },
+    "wof:country":"MX",
+    "wof:created":1497298440,
+    "wof:geomhash":"bdd6c834c536cfad4885459d0649b539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076017,
+            "locality_id":1125978295,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1125978295,
+    "wof:lastmodified":1509404598,
+    "wof:name":"Arrazola",
+    "wof:parent_id":102076017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.79034,
+    17.03972,
+    -96.79034,
+    17.03972
+],
+  "geometry": {"coordinates":[-96.79034,17.03972],"type":"Point"}
+}

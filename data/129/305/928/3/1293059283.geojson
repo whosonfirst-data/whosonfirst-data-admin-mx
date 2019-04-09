@@ -1,0 +1,74 @@
+{
+  "id": 1293059283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.09333,18.91361,-89.09333,18.91361",
+    "geom:latitude":18.91361,
+    "geom:longitude":-89.09333,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Miguel Aleman",
+    "gn:country_code":"MX",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8861403,
+    "gn:latitude":18.91361,
+    "gn:longitude":-89.09333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Miguel Alem\u00e1n",
+    "gn:population":688,
+    "gn:timezone":"America/Cancun",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miguel Alem\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686711,
+        102079235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8861403
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b7c3790161b0be55bff0b293bbc20ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079235,
+            "locality_id":1293059283,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":1293059283,
+    "wof:lastmodified":1537669309,
+    "wof:name":"Miguel Aleman",
+    "wof:parent_id":102079235,
+    "wof:placetype":"locality",
+    "wof:population":688,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.09333000000002,
+    18.91361,
+    -89.09333000000002,
+    18.91361
+],
+  "geometry": {"coordinates":[-89.09333000000002,18.91361],"type":"Point"}
+}

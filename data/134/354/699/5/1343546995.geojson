@@ -1,0 +1,74 @@
+{
+  "id": 1343546995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.51648,27.86638,-101.51648,27.86638",
+    "geom:latitude":27.86638,
+    "geom:longitude":-101.51648,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"La Laguna (Abraham Jimenez)",
+    "gn:country_code":"MX",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8911599,
+    "gn:latitude":27.86638,
+    "gn:longitude":-101.51648,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Laguna (Abraham Jim\u00e9nez)",
+    "gn:population":14,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Laguna (Abraham Jim\u00e9nez)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8911599
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"61a8ec2c38bbc5045b7ee1c0c5c516cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078831,
+            "locality_id":1343546995,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1343546995,
+    "wof:lastmodified":1537670558,
+    "wof:name":"La Laguna (Abraham Jimenez)",
+    "wof:parent_id":102078831,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.51648,
+    27.86638,
+    -101.51648,
+    27.86638
+],
+  "geometry": {"coordinates":[-101.51648,27.86638],"type":"Point"}
+}

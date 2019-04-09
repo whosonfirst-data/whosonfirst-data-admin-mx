@@ -1,0 +1,74 @@
+{
+  "id": 1226591219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.43586,26.02792,-98.43586,26.02792",
+    "geom:latitude":26.02792,
+    "geom:longitude":-98.43586,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"San Cristobal",
+    "gn:country_code":"MX",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3520519,
+    "gn:latitude":26.02792,
+    "gn:longitude":-98.43586,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Crist\u00f3bal",
+    "gn:population":0,
+    "gn:timezone":"America/Matamoros",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:und_x_variant":[
+        "Rancho San Crist\u00f3bal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3520519
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"33a1aeb7f90a6f50556d094d6615dcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078965,
+            "locality_id":1226591219,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1226591219,
+    "wof:lastmodified":1537666071,
+    "wof:name":"San Cristobal",
+    "wof:parent_id":102078965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.43586,
+    26.02792,
+    -98.43586,
+    26.02792
+],
+  "geometry": {"coordinates":[-98.43586000000001,26.02792],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 85884325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":751010.651572,
+    "geom:bbox":"-99.191361685,19.307255208,-99.1831970215,19.3189193205",
+    "geom:latitude":19.312966,
+    "geom:longitude":-99.187363,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.313958,
+    "lbl:longitude":-99.185365,
+    "mps:latitude":19.312384,
+    "mps:longitude":-99.187693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Ampl Insurgentes Cuicuilco"
+    ],
+    "name:unk_x_variant":[
+        "Ampl Insurgentes Cuicuilco"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Ampl Insurgentes Cuicuilco",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Coyoacan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":110,
+    "qs:photo_sum":740,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599937,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535773,
+        102073737,
+        85686515,
+        101991175,
+        102073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902714,
+        "qs:id":225200
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"36bc32476b0aa6fec532f24c6281ab06",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884325,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535773,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85884325,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884325,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527269998,
+    "wof:name":"Ampl Insurgentes Cuicuilco",
+    "wof:parent_id":890535773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1913616849506,
+    19.30725520797532,
+    -99.18319702149995,
+    19.31891932050004
+],
+  "geometry": {"coordinates":[[[-99.18457031249997,19.31114334825013],[-99.18457031249997,19.30855127797828],[-99.18731689451451,19.30855127840638],[-99.18854005904933,19.30725520797532],[-99.19006347657913,19.30725520797532],[-99.19015355245131,19.30730292983431],[-99.19136168495061,19.31114331397524],[-99.19136165464985,19.31114335168755],[-99.19054627748505,19.31373537440047],[-99.19118698256685,19.31577209774555],[-99.19096240707131,19.3163273628502],[-99.19006347660002,19.31632736620148],[-99.18796597203726,19.31632737024589],[-99.18731689451451,19.31701516649863],[-99.18731689451556,19.31891931407834],[-99.1852193835748,19.31891931450645],[-99.18457031249997,19.31891932050004],[-99.18457031249997,19.3163273716127],[-99.18319702149995,19.31632737150647],[-99.18319702149995,19.31503138230013],[-99.18319702149995,19.31373538470005],[-99.18319702149995,19.31353264218127],[-99.18384008646061,19.31330550515493],[-99.18457031249997,19.31253173786371],[-99.18457031249997,19.31114334825013]]],"type":"Polygon"}
+}

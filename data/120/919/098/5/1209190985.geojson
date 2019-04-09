@@ -1,0 +1,65 @@
+{
+  "id": 1209190985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.58224,18.05241,-101.58224,18.05241",
+    "geom:latitude":18.05241,
+    "geom:longitude":-101.58224,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"La Dicha",
+    "gn:country_code":"MX",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8910647,
+    "gn:latitude":18.05241,
+    "gn:longitude":-101.58224,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Dicha",
+    "gn:population":15,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8910647
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4fa110e4b9699454748354b1e69872af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209190985
+        }
+    ],
+    "wof:id":1209190985,
+    "wof:lastmodified":1536294935,
+    "wof:name":"La Dicha",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.58224,
+    18.05241,
+    -101.58224,
+    18.05241
+],
+  "geometry": {"coordinates":[-101.58224,18.05241],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1126085757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.71126,20.14902,-101.71126,20.14902",
+    "geom:latitude":20.14902,
+    "geom:longitude":-101.71126,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5021,
+    "gn:population":5021,
+    "iso:country":"MX",
+    "lbl:latitude":20.14902,
+    "lbl:longitude":-101.71126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Francisco"
+    ],
+    "name:unk_x_variant":[
+        "Angamacutiro"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4018518,
+    "qs_pg:gn_pop":5021,
+    "qs_pg:name":"Angamacutiro de la Union Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Michoacan de Ocampo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1047650,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55918653,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Michoacan de Ocampo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101997509,
+        102075095,
+        85686595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4018518,
+        "gp:id":55918653,
+        "qs_pg:id":1047650
+    },
+    "wof:country":"MX",
+    "wof:created":1497312758,
+    "wof:geomhash":"a5eac8db6dd9108645afd8801359600a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075095,
+            "locality_id":101997509,
+            "neighbourhood_id":1126085757,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1126085757,
+    "wof:lastmodified":1509411393,
+    "wof:name":"Angamacutiro de la Union Centro",
+    "wof:parent_id":101997509,
+    "wof:placetype":"neighbourhood",
+    "wof:population":5021,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.71126,
+    20.14902,
+    -101.71126,
+    20.14902
+],
+  "geometry": {"coordinates":[-101.71126,20.14902],"type":"Point"}
+}

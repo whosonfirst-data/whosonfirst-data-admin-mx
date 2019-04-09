@@ -1,0 +1,65 @@
+{
+  "id": 1209483035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.06194,25.7725,-109.06194,25.7725",
+    "geom:latitude":25.7725,
+    "geom:longitude":-109.06194,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Plan de San Luis",
+    "gn:country_code":"MX",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8861241,
+    "gn:latitude":25.7725,
+    "gn:longitude":-109.06194,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Plan de San Luis",
+    "gn:population":710,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8861241
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"671770fa5fb1b97fc7de1ca0deebe9ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209483035
+        }
+    ],
+    "wof:id":1209483035,
+    "wof:lastmodified":1536285722,
+    "wof:name":"Plan de San Luis",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":710,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.06194,
+    25.7725,
+    -109.06194,
+    25.7725
+],
+  "geometry": {"coordinates":[-109.06194000000001,25.7725],"type":"Point"}
+}

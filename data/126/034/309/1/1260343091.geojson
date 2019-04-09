@@ -1,0 +1,68 @@
+{
+  "id": 1260343091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.41667,30.6,-110.41667,30.6",
+    "geom:latitude":30.6,
+    "geom:longitude":-110.41667,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"MX",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987771,
+    "gn:latitude":30.6,
+    "gn:longitude":-110.41667,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987771
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"daf5ecb9cb0e06f5fc1869ccae6c44e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074439,
+            "locality_id":1260343091,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1260343091,
+    "wof:lastmodified":1536630729,
+    "wof:name":"San Antonio",
+    "wof:parent_id":102074439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.41667,
+    30.6,
+    -110.41667,
+    30.6
+],
+  "geometry": {"coordinates":[-110.41667,30.6],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 102000335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":63070.785071,
+    "geom:bbox":"-98.7723860635,20.0630282351,-98.7690297626,20.0657580906",
+    "geom:latitude":20.064566,
+    "geom:longitude":-98.770772,
+    "iso:country":"MX",
+    "lbl:latitude":20.064669,
+    "lbl:longitude":-98.770742,
+    "mps:latitude":20.064669,
+    "mps:longitude":-98.770742,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Mexico",
+    "qs:a1":"*Hidalgo",
+    "qs:a1_lc":"13",
+    "qs:a1r":"*",
+    "qs:a2":"Mineral de la Reforma",
+    "qs:a2_lc":"13051",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Privada Quinta Bonita",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56075124
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c5014c0af7ce1f2b363ff5c952130ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078543,
+            "locality_id":102000335,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":102000335,
+    "wof:lastmodified":1479907912,
+    "wof:name":"Privada Quinta Bonita",
+    "wof:parent_id":102078543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.77238606349475,
+    20.06302823509083,
+    -98.76902976261412,
+    20.06575809059711
+],
+  "geometry": {"coordinates":[[[-98.77157037543041,20.06563117991096],[-98.77074115993308,20.06567153453464],[-98.77010371519913,20.06570377663754],[-98.76902976261412,20.06575809059711],[-98.76968020870105,20.06454460806207],[-98.76980310344503,20.06431533383651],[-98.7700045825549,20.06393944792279],[-98.77013728707125,20.06369186498058],[-98.77023764923806,20.06350281121258],[-98.77044592981625,20.06311268936057],[-98.77116320599272,20.06305740287911],[-98.77154158863286,20.06302823509083],[-98.7715785702228,20.06338701656712],[-98.77166611145715,20.06423631496321],[-98.77203678122986,20.06421520123854],[-98.77236537438763,20.06419992218368],[-98.77238606349475,20.06443078857351],[-98.77163165047949,20.06553545107248],[-98.77157037543041,20.06563117991096]]],"type":"Polygon"}
+}

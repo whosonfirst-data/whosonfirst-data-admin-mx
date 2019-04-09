@@ -1,0 +1,74 @@
+{
+  "id": 1242672229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.71056,19.22167,-103.71056,19.22167",
+    "geom:latitude":19.22167,
+    "geom:longitude":-103.71056,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"2",
+    "gn:asciiname":"Colonia Carlos Vazquez",
+    "gn:country_code":"MX",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8919066,
+    "gn:latitude":19.22167,
+    "gn:longitude":-103.71056,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Colonia Carlos V\u00e1zquez",
+    "gn:population":10,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Carlos V\u00e1zquez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686587,
+        102074543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8919066
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"b208b8b0aa22e5f89341c89b9f4e3b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074543,
+            "locality_id":1242672229,
+            "region_id":85686587
+        }
+    ],
+    "wof:id":1242672229,
+    "wof:lastmodified":1537670739,
+    "wof:name":"Colonia Carlos Vazquez",
+    "wof:parent_id":102074543,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.71056,
+    19.22167,
+    -103.71056,
+    19.22167
+],
+  "geometry": {"coordinates":[-103.71056,19.22167],"type":"Point"}
+}

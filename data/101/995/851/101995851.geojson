@@ -1,0 +1,115 @@
+{
+  "id": 101995851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":140646.673667,
+    "geom:bbox":"-97.5958543374,17.3487818657,-97.5925989886,17.3553084842",
+    "geom:latitude":17.352164,
+    "geom:longitude":-97.593905,
+    "iso:country":"MX",
+    "lbl:latitude":17.352197,
+    "lbl:longitude":-97.593929,
+    "mps:latitude":17.352197,
+    "mps:longitude":-97.593929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:spa_x_preferred":[
+        "El Rosario"
+    ],
+    "name:spa_x_variant":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "name:unk_x_variant":[
+        "El Rosario"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Mar\u00eda del Rosario"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a1r":"*",
+    "qs:a2":"Santa Mar\u00eda del Rosario",
+    "qs:a2_lc":"20408",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Santa Mar\u00eda del Rosario",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01d25b56-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3800909,
+        "gp:id":55914873,
+        "wd:id":"Q7419772"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3cd6112039a5853345531a0a5672b76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076707,
+            "locality_id":101995851,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":101995851,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815685,
+    "wof:name":"Santa Mar\u00eda del Rosario",
+    "wof:parent_id":102076707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.59585433742308,
+    17.34878186565206,
+    -97.59259898863445,
+    17.35530848416061
+],
+  "geometry": {"coordinates":[[[-97.59267738195481,17.35331257998107],[-97.59276157883518,17.35148600927844],[-97.59289597670234,17.34878186565206],[-97.59334729790906,17.34899331596769],[-97.59377963798023,17.34918999974707],[-97.59368331397796,17.35029630351744],[-97.59478317885984,17.35035520874463],[-97.59585433742308,17.35041880437529],[-97.59583703395238,17.35057333634965],[-97.59562214523925,17.35088870225727],[-97.59550438520749,17.35119606609584],[-97.59531119367857,17.35138722886859],[-97.59516975259142,17.35156666675008],[-97.59516217491587,17.35173064267514],[-97.595156406052,17.35183801806882],[-97.59513295743571,17.35227447490367],[-97.59517310310012,17.35267065135107],[-97.59510400924674,17.35287418608905],[-97.59458439413474,17.35414091640222],[-97.59467257726428,17.35435183703797],[-97.59480389309478,17.35473935410731],[-97.59494531300592,17.35488199389363],[-97.59510458016695,17.35500041276978],[-97.59539061236966,17.3551477300128],[-97.59521264980225,17.3552784867082],[-97.59500874450264,17.35530848416061],[-97.59479286430643,17.35524149000116],[-97.59467236580925,17.3550628320161],[-97.59452187531967,17.35492441590194],[-97.59427499355246,17.35496296249084],[-97.59390571978312,17.35497298387534],[-97.59370103236958,17.3543046672782],[-97.59350425518549,17.35435500307418],[-97.59323949615225,17.35451858533447],[-97.59295720153567,17.35456052906184],[-97.59269796876698,17.35477454917537],[-97.59259898863445,17.35480546539236],[-97.59267738195481,17.35331257998107]]],"type":"Polygon"}
+}

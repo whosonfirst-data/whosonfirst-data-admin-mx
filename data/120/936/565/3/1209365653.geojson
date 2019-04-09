@@ -1,0 +1,62 @@
+{
+  "id": 1209365653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.33333,26.13333,-98.33333,26.13333",
+    "geom:latitude":26.13333,
+    "geom:longitude":-98.33333,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Coyote",
+    "gn:country_code":"MX",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3530128,
+    "gn:latitude":26.13333,
+    "gn:longitude":-98.33333,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Coyote",
+    "gn:population":0,
+    "gn:timezone":"America/Matamoros",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3530128
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c83823b0e057b4df31279d77760cd456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209365653
+        }
+    ],
+    "wof:id":1209365653,
+    "wof:lastmodified":1536289282,
+    "wof:name":"Coyote",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.33333,
+    26.13333,
+    -98.33333,
+    26.13333
+],
+  "geometry": {"coordinates":[-98.33333,26.13333],"type":"Point"}
+}

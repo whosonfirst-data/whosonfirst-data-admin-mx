@@ -1,0 +1,91 @@
+{
+  "id": 1125978931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.47554,29.06656,-103.47554,29.06656",
+    "geom:latitude":29.06656,
+    "geom:longitude":-103.47554,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":29.06656,
+    "lbl:longitude":-103.47554,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Rancho de Enmedio"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4006726,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Enmedio",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chihuahua",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":993123,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":123234,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chihuahua",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4006726,
+        "gp:id":123234,
+        "qs_pg:id":993123
+    },
+    "wof:country":"MX",
+    "wof:created":1497298469,
+    "wof:geomhash":"3c587eb5b31f984cad6eb9be3393460a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075301,
+            "locality_id":1125978931,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1125978931,
+    "wof:lastmodified":1509404649,
+    "wof:name":"Enmedio",
+    "wof:parent_id":102075301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.47554,
+    29.06656,
+    -103.47554,
+    29.06656
+],
+  "geometry": {"coordinates":[-103.47554,29.06656],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1126089413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.25057,20.7847,-97.25057,20.7847",
+    "geom:latitude":20.7847,
+    "geom:longitude":-97.25057,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":227,
+    "iso:country":"MX",
+    "lbl:latitude":20.7847,
+    "lbl:longitude":-97.25057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Lindavista"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3824549,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Linda Vista",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":355508,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55912328,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102077795,
+        85686671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3824549,
+        "gp:id":55912328,
+        "qs_pg:id":355508
+    },
+    "wof:country":"MX",
+    "wof:created":1497313432,
+    "wof:geomhash":"83532146d4457b899173e9e3011563d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077795,
+            "locality_id":-1,
+            "neighbourhood_id":1126089413,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126089413,
+    "wof:lastmodified":1509411569,
+    "wof:name":"Linda Vista",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.25057,
+    20.7847,
+    -97.25057,
+    20.7847
+],
+  "geometry": {"coordinates":[-97.25057,20.7847],"type":"Point"}
+}

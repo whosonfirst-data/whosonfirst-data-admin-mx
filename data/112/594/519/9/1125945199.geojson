@@ -1,0 +1,82 @@
+{
+  "id": 1125945199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.586738,19.814191,-90.586738,19.814191",
+    "geom:latitude":19.814191,
+    "geom:longitude":-90.586738,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":19.814191,
+    "lbl:longitude":-90.586738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lerma de villada",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Campeche",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1048394,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":131084,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Campeche",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686707,
+        102079219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":131084,
+        "qs_pg:id":1048394
+    },
+    "wof:country":"MX",
+    "wof:created":1497297256,
+    "wof:geomhash":"a63ce4c43770187cd80fccbf6f68fbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079219,
+            "locality_id":1125945199,
+            "region_id":85686707
+        }
+    ],
+    "wof:id":1125945199,
+    "wof:lastmodified":1509402346,
+    "wof:name":"Lerma de villada",
+    "wof:parent_id":102079219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.586738,
+    19.814191,
+    -90.586738,
+    19.814191
+],
+  "geometry": {"coordinates":[-90.586738,19.814191],"type":"Point"}
+}

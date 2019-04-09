@@ -1,0 +1,89 @@
+{
+  "id": 1126090155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.27738,20.16701,-99.27738,20.16701",
+    "geom:latitude":20.16701,
+    "geom:longitude":-99.27738,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.16701,
+    "lbl:longitude":-99.27738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Huitel"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3814127,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Huitel",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Hidalgo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":368296,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55918487,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Hidalgo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102000215,
+        102078611,
+        85686665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814127,
+        "gp:id":55918487,
+        "qs_pg:id":368296
+    },
+    "wof:country":"MX",
+    "wof:created":1497313586,
+    "wof:geomhash":"c96e4a595e50e1a19404d50a26838147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078611,
+            "locality_id":102000215,
+            "neighbourhood_id":1126090155,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1126090155,
+    "wof:lastmodified":1509411607,
+    "wof:name":"Huitel",
+    "wof:parent_id":102000215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.27738,
+    20.16701,
+    -99.27738,
+    20.16701
+],
+  "geometry": {"coordinates":[-99.27737999999999,20.16701],"type":"Point"}
+}

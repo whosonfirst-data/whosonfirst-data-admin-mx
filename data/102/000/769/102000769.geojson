@@ -1,0 +1,95 @@
+{
+  "id": 102000769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":493338.345941,
+    "geom:bbox":"-100.151009461,25.9802764177,-100.142291419,25.9922204381",
+    "geom:latitude":25.986351,
+    "geom:longitude":-100.146295,
+    "iso:country":"MX",
+    "lbl:latitude":25.986759,
+    "lbl:longitude":-100.146658,
+    "mps:latitude":25.986759,
+    "mps:longitude":-100.146658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Batalla de Las Salinas"
+    ],
+    "name:deu_x_preferred":[
+        "Schlacht von Las Salinas"
+    ],
+    "name:fra_x_preferred":[
+        "Bataille de Las Salinas"
+    ],
+    "name:ita_x_preferred":[
+        "Battaglia di Las Salinas"
+    ],
+    "name:pol_x_preferred":[
+        "Bitwa pod Las Salinas"
+    ],
+    "name:spa_x_preferred":[
+        "Batalla de las Salinas"
+    ],
+    "name:swe_x_preferred":[
+        "Slaget vid Las Salinas"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Nuevo Le\u00f3n",
+    "qs:a1_lc":"19",
+    "qs:a1r":"*",
+    "qs:a2":"Ci\u00e9nega de Flores",
+    "qs:a2_lc":"19012",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Portal de las Salinas",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":822,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q947591"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2125affd44c4c4784c829e64a9ccef56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078703,
+            "locality_id":102000769,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":102000769,
+    "wof:lastmodified":1527637043,
+    "wof:name":"Portal de las Salinas",
+    "wof:parent_id":102078703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.15100946074372,
+    25.98027641768782,
+    -100.14229141856444,
+    25.99222043814017
+],
+  "geometry": {"coordinates":[[[-100.14968939461025,25.98895328215025],[-100.14896341718726,25.98963195204254],[-100.14787077743992,25.99060638159796],[-100.14708355693718,25.99130036802934],[-100.14606460143725,25.99222043814017],[-100.14502521917085,25.98941924094083],[-100.14499600910234,25.98920112073583],[-100.14497280825654,25.98902787409748],[-100.14426483260858,25.98709661252147],[-100.14336930452093,25.98464380444277],[-100.14235327430337,25.98184864741825],[-100.14229141856444,25.98167847330132],[-100.14338730010412,25.98027641768782],[-100.14350301373051,25.98038834041958],[-100.14419630606687,25.98105891736207],[-100.1444702807361,25.98131984582623],[-100.14506571784167,25.98188037388187],[-100.14687880921259,25.98363301050836],[-100.14759718049895,25.98430126600266],[-100.14790743773759,25.98461013519612],[-100.14864428012581,25.98533185322951],[-100.14889678696073,25.9855804180828],[-100.14924819784899,25.98590628031386],[-100.14931869569484,25.98595487316031],[-100.14953729343806,25.98617914198715],[-100.15086120201003,25.98752671743999],[-100.15100946074372,25.98768947596052],[-100.15060830813729,25.98809423240843],[-100.14968939461025,25.98895328215025]]],"type":"Polygon"}
+}

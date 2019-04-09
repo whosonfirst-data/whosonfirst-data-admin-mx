@@ -1,0 +1,93 @@
+{
+  "id": 1126088247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.79823,18.83321,-96.79823,18.83321",
+    "geom:latitude":18.83321,
+    "geom:longitude":-96.79823,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5300,
+    "gn:population":5300,
+    "iso:country":"MX",
+    "lbl:latitude":18.83321,
+    "lbl:longitude":-96.79823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "San Lorenzo de Cerralvo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3514329,
+    "qs_pg:gn_pop":5300,
+    "qs_pg:name":"San Lorenzo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":207813,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55912337,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101998883,
+        102077807,
+        85686671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3514329,
+        "gp:id":55912337,
+        "qs_pg:id":207813
+    },
+    "wof:country":"MX",
+    "wof:created":1497313161,
+    "wof:geomhash":"e2abb25f57812e178c7d12adc5df2dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077807,
+            "locality_id":101998883,
+            "neighbourhood_id":1126088247,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126088247,
+    "wof:lastmodified":1509411512,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":101998883,
+    "wof:placetype":"neighbourhood",
+    "wof:population":5300,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.79823,
+    18.83321,
+    -96.79823,
+    18.83321
+],
+  "geometry": {"coordinates":[-96.79823,18.83321],"type":"Point"}
+}

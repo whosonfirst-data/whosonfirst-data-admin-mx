@@ -1,0 +1,76 @@
+{
+  "id": 1260281461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.65043,26.82928,-105.65043,26.82928",
+    "geom:latitude":26.82928,
+    "geom:longitude":-105.65043,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"44.0",
+    "gn:asciiname":"Los Alamos",
+    "gn:country_code":"MX",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3998241,
+    "gn:latitude":26.82928,
+    "gn:longitude":-105.65043,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Los \u00c1lamos",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Alamos"
+    ],
+    "name:und_x_variant":[
+        "Rancho Los Alamos",
+        "Alamos",
+        "Los \u00c1lamos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3998241
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3eb67701b5c0b5ca2ef5ae0350862a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075341,
+            "locality_id":1260281461,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1260281461,
+    "wof:lastmodified":1537667617,
+    "wof:name":"Los Alamos",
+    "wof:parent_id":102075341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.65043,
+    26.82928,
+    -105.65043,
+    26.82928
+],
+  "geometry": {"coordinates":[-105.65043,26.82928],"type":"Point"}
+}

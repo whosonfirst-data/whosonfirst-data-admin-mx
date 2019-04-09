@@ -1,0 +1,76 @@
+{
+  "id": 1260101901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.39427,27.08692,-105.39427,27.08692",
+    "geom:latitude":27.08692,
+    "geom:longitude":-105.39427,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"San Antonio del Alto Corralejo",
+    "gn:country_code":"MX",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3975895,
+    "gn:latitude":27.08692,
+    "gn:longitude":-105.39427,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"San Antonio del Alto Corralejo",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio el Alto"
+    ],
+    "name:und_x_variant":[
+        "Corralejo",
+        "San Antonio Corralejo",
+        "San Antonio Corraleso de Abaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3975895
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7a95e84de6562b942d6d4327e506ff96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075287,
+            "locality_id":1260101901,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1260101901,
+    "wof:lastmodified":1537667057,
+    "wof:name":"San Antonio del Alto Corralejo",
+    "wof:parent_id":102075287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.39427,
+    27.08692000000001,
+    -105.39427,
+    27.08692000000001
+],
+  "geometry": {"coordinates":[-105.39427000000001,27.08692000000001],"type":"Point"}
+}

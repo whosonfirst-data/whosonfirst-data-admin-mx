@@ -1,0 +1,117 @@
+{
+  "id": 85883959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":829463.100751,
+    "geom:bbox":"-99.1653442383,19.4355143326,-99.1543579102,19.445874293",
+    "geom:latitude":19.440694,
+    "geom:longitude":-99.1604,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.440518,
+    "lbl:longitude":-99.159123,
+    "mps:latitude":19.441361,
+    "mps:longitude":-99.159851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "San Rafael"
+    ],
+    "name:unk_x_variant":[
+        "San Rafael"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"San Rafael",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"San Rafael",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuauhtemoc",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":141,
+    "qs:photo_sum":403,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599939,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535757,
+        102073737,
+        85686515,
+        101991151,
+        102073739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899047,
+        "qs:id":1155336
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f9414586ffcc33b7952e6ea9eca5c954",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883959,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073739,
+            "locality_id":101991151,
+            "neighbourhood_id":85883959,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883959,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1507659909,
+    "wof:name":"San Rafael",
+    "wof:parent_id":890535757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.16534423828605,
+    19.4355143326472,
+    -99.15435791018601,
+    19.44587429303775
+],
+  "geometry": {"coordinates":[[[-99.16259765621245,19.44587429303775],[-99.15985107419996,19.4458742913169],[-99.15710449220001,19.44587429174713],[-99.15710449220001,19.44328436394717],[-99.15435791018601,19.44328436466411],[-99.15435791018601,19.44069439556412],[-99.15710449220001,19.4406943948471],[-99.15710449220001,19.43879221417394],[-99.15710449220001,19.43810439090005],[-99.15775311291793,19.43810438788149],[-99.15985107419996,19.43810438443163],[-99.15985107419996,19.43551433336414],[-99.16259765621388,19.43551433336414],[-99.16534423828429,19.4355143326472],[-99.16534423828605,19.43810438515025],[-99.16534423828429,19.4406943948471],[-99.16259765621555,19.4406943948471],[-99.16259765621663,19.44328436351694],[-99.16259765621245,19.44587429303775]]],"type":"Polygon"}
+}

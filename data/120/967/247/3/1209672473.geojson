@@ -1,0 +1,65 @@
+{
+  "id": 1209672473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.32603,26.0037,-109.32603,26.0037",
+    "geom:latitude":26.0037,
+    "geom:longitude":-109.32603,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"El Mirador",
+    "gn:country_code":"MX",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9092707,
+    "gn:latitude":26.0037,
+    "gn:longitude":-109.32603,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"El Mirador",
+    "gn:population":0,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Mirador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9092707
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3b09fbd58b3a19ef83b00fce433554fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209672473
+        }
+    ],
+    "wof:id":1209672473,
+    "wof:lastmodified":1537671746,
+    "wof:name":"El Mirador",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.32603,
+    26.0037,
+    -109.32603,
+    26.0037
+],
+  "geometry": {"coordinates":[-109.32603,26.0037],"type":"Point"}
+}

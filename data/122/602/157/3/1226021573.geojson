@@ -1,0 +1,74 @@
+{
+  "id": 1226021573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.78524,17.7043,-98.78524,17.7043",
+    "geom:latitude":17.7043,
+    "geom:longitude":-98.78524,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"San Andres",
+    "gn:country_code":"MX",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8873271,
+    "gn:latitude":17.7043,
+    "gn:longitude":-98.78524,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":181,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Andr\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686517,
+        102073893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8873271
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"059434d89b416232e8c7f41fdd366d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073893,
+            "locality_id":1226021573,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":1226021573,
+    "wof:lastmodified":1537669606,
+    "wof:name":"San Andres",
+    "wof:parent_id":102073893,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.78524,
+    17.7043,
+    -98.78524,
+    17.7043
+],
+  "geometry": {"coordinates":[-98.78524,17.7043],"type":"Point"}
+}

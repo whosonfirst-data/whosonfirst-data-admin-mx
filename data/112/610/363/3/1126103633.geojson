@@ -1,0 +1,91 @@
+{
+  "id": 1126103633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.8493,19.9198,-102.8493,19.9198",
+    "geom:latitude":19.9198,
+    "geom:longitude":-102.8493,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.9198,
+    "lbl:longitude":-102.8493,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Emiliano Zapata"
+    ],
+    "name:spa_x_variant":[
+        "San Francisco"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4006821,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Emiliano Zapata",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244945,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55909752,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102074847,
+        85686603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4006821,
+        "gp:id":55909752,
+        "qs_pg:id":244945
+    },
+    "wof:country":"MX",
+    "wof:created":1497316538,
+    "wof:geomhash":"6338f3ee132a7db078addaa34df33245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074847,
+            "locality_id":-1,
+            "neighbourhood_id":1126103633,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1126103633,
+    "wof:lastmodified":1509412254,
+    "wof:name":"Emiliano Zapata",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.8493,
+    19.9198,
+    -102.8493,
+    19.9198
+],
+  "geometry": {"coordinates":[-102.8493,19.9198],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343425127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.77605,19.80445,-97.77605,19.80445",
+    "geom:latitude":19.80445,
+    "geom:longitude":-97.77605,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"172.0",
+    "gn:asciiname":"El Puerto",
+    "gn:country_code":"MX",
+    "gn:dem":2095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8874488,
+    "gn:latitude":19.80445,
+    "gn:longitude":-97.77605,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Puerto",
+    "gn:population":165,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686657,
+        102078363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8874488
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"313bee82a312c400d28f31111cbd08df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078363,
+            "locality_id":1343425127,
+            "region_id":85686657
+        }
+    ],
+    "wof:id":1343425127,
+    "wof:lastmodified":1536797519,
+    "wof:name":"El Puerto",
+    "wof:parent_id":102078363,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.77605,
+    19.80445,
+    -97.77605,
+    19.80445
+],
+  "geometry": {"coordinates":[-97.77605,19.80445],"type":"Point"}
+}

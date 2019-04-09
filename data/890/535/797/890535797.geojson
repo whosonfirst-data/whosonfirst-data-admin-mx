@@ -1,0 +1,82 @@
+{
+  "id": 890535797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.049684,19.200706,-99.049684,19.200706",
+    "geom:latitude":19.200706,
+    "geom:longitude":-99.049684,
+    "iso:country":"MX",
+    "lbl:latitude":19.200706,
+    "lbl:longitude":-99.049684,
+    "mps:latitude":19.200706,
+    "mps:longitude":-99.049684,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "qs:a0":"Mexico",
+    "qs:a1":"*Distrito Federal",
+    "qs:a1_lc":"09",
+    "qs:a1r":"*",
+    "qs:a2":"Milpa Alta",
+    "qs:a2_lc":"09009",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Pedro Atocpan",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1055,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102073763,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827380,
+        "gp:id":145025,
+        "qs:id":1211299,
+        "wd:id":"Q7415100",
+        "wk:page":"San Pedro Atocpan"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"33b26909d9e6cdc14684a1b8c94ed792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073763,
+            "locality_id":-1,
+            "neighbourhood_id":890535797,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":890535797,
+    "wof:lastmodified":1531939959,
+    "wof:name":"San Pedro Atocpan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101991139
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.049684,
+    19.200706,
+    -99.049684,
+    19.200706
+],
+  "geometry": {"coordinates":[-99.049684,19.200706],"type":"Point"}
+}

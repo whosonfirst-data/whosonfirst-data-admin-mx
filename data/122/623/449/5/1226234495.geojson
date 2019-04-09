@@ -1,0 +1,74 @@
+{
+  "id": 1226234495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.1225,26.12861,-107.1225,26.12861",
+    "geom:latitude":26.12861,
+    "geom:longitude":-107.1225,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"San Jose del Rincon",
+    "gn:country_code":"MX",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8874865,
+    "gn:latitude":26.12861,
+    "gn:longitude":-107.1225,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Jos\u00e9 del Rinc\u00f3n",
+    "gn:population":159,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 del Rinc\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8874865
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ccc35e4d529848a9923abe914baaf01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075263,
+            "locality_id":1226234495,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1226234495,
+    "wof:lastmodified":1537669646,
+    "wof:name":"San Jose del Rincon",
+    "wof:parent_id":102075263,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.1225,
+    26.12861,
+    -107.1225,
+    26.12861
+],
+  "geometry": {"coordinates":[-107.1225,26.12861],"type":"Point"}
+}

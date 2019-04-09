@@ -1,0 +1,65 @@
+{
+  "id": 1209063359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.45998,23.64148,-106.45998,23.64148",
+    "geom:latitude":23.64148,
+    "geom:longitude":-106.45998,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Los Cedros",
+    "gn:country_code":"MX",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8908766,
+    "gn:latitude":23.64148,
+    "gn:longitude":-106.45998,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Los Cedros",
+    "gn:population":17,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8908766
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"81858b1224cc949a385738997f646ec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209063359
+        }
+    ],
+    "wof:id":1209063359,
+    "wof:lastmodified":1536298882,
+    "wof:name":"Los Cedros",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.45998,
+    23.64148,
+    -106.45998,
+    23.64148
+],
+  "geometry": {"coordinates":[-106.45998,23.64148],"type":"Point"}
+}

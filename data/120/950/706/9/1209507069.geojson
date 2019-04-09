@@ -1,0 +1,62 @@
+{
+  "id": 1209507069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.1,29.6,-107.1,29.6",
+    "geom:latitude":29.6,
+    "geom:longitude":-107.1,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"La Cieneguita",
+    "gn:country_code":"MX",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3975287,
+    "gn:latitude":29.6,
+    "gn:longitude":-107.1,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"La Cieneguita",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3975287
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3c71600be06061f0a4ad3950c4781f24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209507069
+        }
+    ],
+    "wof:id":1209507069,
+    "wof:lastmodified":1536285001,
+    "wof:name":"La Cieneguita",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.1,
+    29.6,
+    -107.1,
+    29.6
+],
+  "geometry": {"coordinates":[-107.09999999999999,29.6],"type":"Point"}
+}

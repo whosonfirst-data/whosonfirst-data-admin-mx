@@ -1,0 +1,76 @@
+{
+  "id": 1277054503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.48922,26.12888,-103.48922,26.12888",
+    "geom:latitude":26.12888,
+    "geom:longitude":-103.48922,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"La Campana",
+    "gn:country_code":"MX",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4003233,
+    "gn:latitude":26.12888,
+    "gn:longitude":-103.48922,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"La Campana",
+    "gn:population":464,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ejido La Campana",
+        "Campana",
+        "La Campana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4003233
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5dc6c481b214f79fb452aa05a8c1a8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075497,
+            "locality_id":1277054503,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1277054503,
+    "wof:lastmodified":1537667780,
+    "wof:name":"La Campana",
+    "wof:parent_id":102075497,
+    "wof:placetype":"locality",
+    "wof:population":464,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.48922,
+    26.12888,
+    -103.48922,
+    26.12888
+],
+  "geometry": {"coordinates":[-103.48922,26.12888],"type":"Point"}
+}

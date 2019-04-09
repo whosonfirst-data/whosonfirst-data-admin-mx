@@ -1,0 +1,89 @@
+{
+  "id": 1126093619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.24338,19.31003,-98.24338,19.31003",
+    "geom:latitude":19.31003,
+    "geom:longitude":-98.24338,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.31003,
+    "lbl:longitude":-98.24338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "San Hip\u00f3lito Chimalpa"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3815417,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Hipolito Chimalpa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tlaxcala",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1026615,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55893613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tlaxcala",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101999051,
+        102077909,
+        85686653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815417,
+        "gp:id":55893613,
+        "qs_pg:id":1026615
+    },
+    "wof:country":"MX",
+    "wof:created":1497314643,
+    "wof:geomhash":"a9707c681bd2660f1451b7bcdc437ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077909,
+            "locality_id":101999051,
+            "neighbourhood_id":1126093619,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1126093619,
+    "wof:lastmodified":1509411777,
+    "wof:name":"San Hipolito Chimalpa",
+    "wof:parent_id":101999051,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.24338,
+    19.31003,
+    -98.24338,
+    19.31003
+],
+  "geometry": {"coordinates":[-98.24338,19.31003],"type":"Point"}
+}

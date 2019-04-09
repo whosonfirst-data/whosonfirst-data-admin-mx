@@ -1,0 +1,74 @@
+{
+  "id": 1293781611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.4472,28.79196,-107.4472,28.79196",
+    "geom:latitude":28.79196,
+    "geom:longitude":-107.4472,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"La Selva",
+    "gn:country_code":"MX",
+    "gn:dem":2112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4015606,
+    "gn:latitude":28.79196,
+    "gn:longitude":-107.4472,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"La Selva",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Selva"
+    ],
+    "name:spa_x_variant":[
+        "Rancho Ca\u00f1\u00f3n de la Selva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4015606
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"cf9dc21b3fe62306267a58e8df1f1e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075215,
+            "locality_id":1293781611,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293781611,
+    "wof:lastmodified":1537668115,
+    "wof:name":"La Selva",
+    "wof:parent_id":102075215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.4472,
+    28.79196,
+    -107.4472,
+    28.79196
+],
+  "geometry": {"coordinates":[-107.4472,28.79196],"type":"Point"}
+}

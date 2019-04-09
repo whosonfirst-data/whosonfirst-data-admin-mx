@@ -1,0 +1,65 @@
+{
+  "id": 1209382591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.63471,24.51625,-106.63471,24.51625",
+    "geom:latitude":24.51625,
+    "geom:longitude":-106.63471,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"5",
+    "gn:asciiname":"Los Tigres",
+    "gn:country_code":"MX",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8898567,
+    "gn:latitude":24.51625,
+    "gn:longitude":-106.63471,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Los Tigres",
+    "gn:population":30,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8898567
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e3d2715e6b67586f9f2c56298ef69a1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209382591
+        }
+    ],
+    "wof:id":1209382591,
+    "wof:lastmodified":1536288732,
+    "wof:name":"Los Tigres",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.63471,
+    24.51625,
+    -106.63471,
+    24.51625
+],
+  "geometry": {"coordinates":[-106.63471,24.51625],"type":"Point"}
+}

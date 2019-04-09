@@ -1,0 +1,124 @@
+{
+  "id": 101999699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":153436.909894,
+    "geom:bbox":"-97.7979938455,20.0876446762,-97.7949853627,20.0938450818",
+    "geom:latitude":20.090866,
+    "geom:longitude":-97.796471,
+    "iso:country":"MX",
+    "lbl:latitude":20.090928,
+    "lbl:longitude":-97.796594,
+    "mps:latitude":20.090928,
+    "mps:longitude":-97.796594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "San Felipe Tepatl\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "San Felipe Tepatl\u00e1n Municipality"
+    ],
+    "name:eng_x_preferred":[
+        "San Felipe Tepatl\u00e1n Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "San Felipe Tepatl\u00e1n"
+    ],
+    "name:eus_x_preferred":[
+        "San Felipe Tepatl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "San Felipe Tepatl\u00e1n"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina San Felipe Tepatl\u00e1n"
+    ],
+    "name:spa_x_colloquial":[
+        "S Felipe Tepatlan",
+        "S. Felipe Tepatlan",
+        "San Felipe Tepatlan"
+    ],
+    "name:spa_x_preferred":[
+        "San Felipe Tepatl\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "S Felipe Tepatl\u00e1n",
+        "S. Felipe Tepatl\u00e1n",
+        "Tepatlan",
+        "Tepoxtlan"
+    ],
+    "name:swe_x_preferred":[
+        "San Felipe Tepatl\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Tepoxtlan"
+    ],
+    "name:vie_x_preferred":[
+        "San Felipe Tepatl\u00e1n"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Puebla",
+    "qs:a1_lc":"21",
+    "qs:a1r":"*",
+    "qs:a2":"San Felipe Tepatl\u00e1n",
+    "qs:a2_lc":"21123",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Felipe Tepatl\u00e1n",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686657,
+        102078255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01b8fe40-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3519404,
+        "gp:id":142380,
+        "wd:id":"Q6118696",
+        "wk:page":"San Felipe Tepatl\u00e1n"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fe9c7e790dff8e2702caf4d3d2cbdf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078255,
+            "locality_id":101999699,
+            "region_id":85686657
+        }
+    ],
+    "wof:id":101999699,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1553815701,
+    "wof:name":"San Felipe Tepatl\u00e1n",
+    "wof:parent_id":102078255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.79799384545368,
+    20.08764467616146,
+    -97.79498536269422,
+    20.09384508182545
+],
+  "geometry": {"coordinates":[[[-97.7950604990686,20.09212461928127],[-97.79563936087435,20.08999286864438],[-97.79568079202602,20.08996662114055],[-97.79498536269422,20.08875494145395],[-97.79657879598271,20.08782699283589],[-97.79659853781105,20.08780291169707],[-97.79672216562517,20.08766478482249],[-97.79676390746397,20.08764467616146],[-97.7968684405698,20.08778058639079],[-97.79691779231497,20.08791612112879],[-97.79695509137687,20.08795414091447],[-97.79712170574469,20.08797574700651],[-97.7971448368306,20.08810893290633],[-97.79729333822786,20.08834169251424],[-97.79746500626517,20.08863429746215],[-97.79765490252433,20.08880575384963],[-97.79778599505474,20.08904649340157],[-97.79799384545368,20.0892828149948],[-97.79758623174389,20.09239158338595],[-97.79758290675126,20.09241705900974],[-97.79753643032268,20.0927715312205],[-97.79751083916356,20.09285338498883],[-97.79723098703118,20.09319465851746],[-97.79718966003853,20.0932142165969],[-97.79713206552333,20.09327334328673],[-97.79705392723703,20.09331095817008],[-97.79699316507617,20.09338336552061],[-97.79677028549135,20.09353670173937],[-97.79662715414635,20.09366789132793],[-97.79652970118831,20.09376825317518],[-97.79532379840744,20.09384508182545],[-97.79529334104512,20.0938283308577],[-97.79504822183441,20.09220870087472],[-97.7950604990686,20.09212461928127]]],"type":"Polygon"}
+}

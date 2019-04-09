@@ -1,0 +1,116 @@
+{
+  "id": 85884049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":485344.272814,
+    "geom:bbox":"-99.1928100586,19.3441487226,-99.1839213417,19.3500194817",
+    "geom:latitude":19.347147,
+    "geom:longitude":-99.188488,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.346931,
+    "lbl:longitude":-99.188733,
+    "mps:latitude":19.346798,
+    "mps:longitude":-99.188573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Chimalistac"
+    ],
+    "name:unk_x_variant":[
+        "Chimalistac"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Chimalistac",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":150,
+    "qs:photo_sum":756,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899555,
+        "qs:id":475273
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"65e1c86ecb9505f44322ed4dac63d025",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884049,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85884049,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884049,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270430,
+    "wof:name":"Chimalistac",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.19281005859997,
+    19.34414872257146,
+    -99.18392134168795,
+    19.35001948170007
+],
+  "geometry": {"coordinates":[[[-99.18731689449993,19.35001948170007],[-99.18731689449993,19.34872375836825],[-99.18594360349982,19.34872375820011],[-99.18457031249997,19.34872375828529],[-99.18432886838798,19.34872375735013],[-99.18392135018763,19.34742802145021],[-99.18432887162734,19.34613228295025],[-99.18392134168795,19.34483652605007],[-99.18457031249997,19.34414872258469],[-99.18594360349982,19.34463387517195],[-99.18731689451238,19.34414872257146],[-99.18869018552493,19.34463387518083],[-99.189576744475,19.34432067399594],[-99.19006347658527,19.34483653139824],[-99.19111228142424,19.34483653209395],[-99.19143676760004,19.34483653290006],[-99.19143676760004,19.34613228550003],[-99.19281005859997,19.34613228550003],[-99.19281005859997,19.3464761870932],[-99.19281005859997,19.34742802790008],[-99.19281005859997,19.34811582884943],[-99.19281005859997,19.35001947599176],[-99.1900634765833,19.35001947485009],[-99.18796584832822,19.35001947741888],[-99.18731689449993,19.35001948170007]]],"type":"Polygon"}
+}

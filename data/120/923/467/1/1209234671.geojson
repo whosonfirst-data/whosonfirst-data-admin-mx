@@ -1,0 +1,66 @@
+{
+  "id": 1209234671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.46143,28.07848,-100.46143,28.07848",
+    "geom:latitude":28.07848,
+    "geom:longitude":-100.46143,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"MX",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3984926,
+    "gn:latitude":28.07848,
+    "gn:longitude":-100.46143,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Rancho San Rafael",
+        "San Rafael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3984926
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"480eb8c4353c2b113b2e083c994f0e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209234671
+        }
+    ],
+    "wof:id":1209234671,
+    "wof:lastmodified":1537667289,
+    "wof:name":"San Rafael",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.46143,
+    28.07848,
+    -100.46143,
+    28.07848
+],
+  "geometry": {"coordinates":[-100.46142999999999,28.07848],"type":"Point"}
+}

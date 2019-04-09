@@ -1,0 +1,124 @@
+{
+  "id": 85884503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":592735.525398,
+    "geom:bbox":"-99.2669677734,19.3564179593,-99.2575056779,19.3655673401",
+    "geom:latitude":19.360957,
+    "geom:longitude":-99.263288,
+    "iso:country":"MX",
+    "lbl:latitude":19.363758,
+    "lbl:longitude":-99.263929,
+    "mps:latitude":19.361022,
+    "mps:longitude":-99.264077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Tlaxala"
+    ],
+    "name:spa_x_variant":[
+        "Tlazal\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Tlazala",
+        "Tlaxala"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"29",
+    "qs:gn_name":"Tlazala",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Tlaxala",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":982,
+    "qs:photo_sum":2200,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815036,
+        "gp:id":55904109,
+        "qs:id":1101104,
+        "qs_pg:id":1101104
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"83798ce680ba34d5cd646a51643640d1",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884503,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85884503,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884503,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957720,
+    "wof:name":"Tlaxala",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.26696777341803,
+    19.35641795926696,
+    -99.25750567790743,
+    19.36556734010001
+],
+  "geometry": {"coordinates":[[[-99.26147460938424,19.3655673336626],[-99.26147460938424,19.36297612687825],[-99.25872802731456,19.36297612730644],[-99.25750567790743,19.36168048875],[-99.25872802731456,19.36038487937732],[-99.26147460938424,19.36038487894709],[-99.26147460938327,19.35779359620004],[-99.26147460937483,19.35641795926696],[-99.26422119139994,19.35738833764159],[-99.26696777341803,19.35641795926696],[-99.2669677734103,19.35779359620004],[-99.2669677734167,19.36038487851685],[-99.2669677734167,19.36228831856563],[-99.2669677733999,19.36297613330005],[-99.26591893362416,19.36297613330005],[-99.26571521375706,19.36362393825017],[-99.26559448239996,19.36362393843305],[-99.26490783689985,19.36362393849389],[-99.26490783689985,19.36427174190001],[-99.26490783689985,19.36437303903939],[-99.26422119140003,19.36461564568306],[-99.26422119140003,19.36556734010001],[-99.26357229341704,19.36556733409176],[-99.26147460938424,19.3655673336626]]],"type":"Polygon"}
+}

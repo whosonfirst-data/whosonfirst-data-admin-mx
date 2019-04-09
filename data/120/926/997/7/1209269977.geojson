@@ -1,0 +1,65 @@
+{
+  "id": 1209269977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.22028,23.65194,-101.22028,23.65194",
+    "geom:latitude":23.65194,
+    "geom:longitude":-101.22028,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"6",
+    "gn:asciiname":"El Rayito",
+    "gn:country_code":"MX",
+    "gn:dem":1978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8908701,
+    "gn:latitude":23.65194,
+    "gn:longitude":-101.22028,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"El Rayito",
+    "gn:population":17,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8908701
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"ada57a3631bd965736754f714b304019",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209269977
+        }
+    ],
+    "wof:id":1209269977,
+    "wof:lastmodified":1536292393,
+    "wof:name":"El Rayito",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.22028,
+    23.65194,
+    -101.22028,
+    23.65194
+],
+  "geometry": {"coordinates":[-101.22028,23.65194],"type":"Point"}
+}

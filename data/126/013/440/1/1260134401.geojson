@@ -1,0 +1,77 @@
+{
+  "id": 1260134401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.86553,26.87343,-108.86553,26.87343",
+    "geom:latitude":26.87343,
+    "geom:longitude":-108.86553,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"La Gacela",
+    "gn:country_code":"MX",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4002318,
+    "gn:latitude":26.87343,
+    "gn:longitude":-108.86553,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Gacela",
+    "gn:population":88,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Gacela"
+    ],
+    "name:und_x_variant":[
+        "Rancho La Gacela"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4002318
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"333d6d04692ba10958068029acadec2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074447,
+            "locality_id":1260134401,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1260134401,
+    "wof:lastmodified":1537667749,
+    "wof:name":"La Gacela",
+    "wof:parent_id":102074447,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.86553,
+    26.87343,
+    -108.86553,
+    26.87343
+],
+  "geometry": {"coordinates":[-108.86553000000001,26.87343],"type":"Point"}
+}

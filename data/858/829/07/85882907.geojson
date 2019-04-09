@@ -1,0 +1,84 @@
+{
+  "id": 85882907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.992437,32.506564,-116.992437,32.506564",
+    "geom:latitude":32.506564,
+    "geom:longitude":-116.992437,
+    "iso:country":"MX",
+    "lbl:latitude":32.506564,
+    "lbl:longitude":-116.992437,
+    "mps:latitude":32.504068,
+    "mps:longitude":-116.991729,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "El Paraiso"
+    ],
+    "name:spa_x_variant":[
+        "El Para\u00edso"
+    ],
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85686541,
+        102191575,
+        85633293,
+        101993551,
+        102074501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817632,
+        "gp:id":55898275,
+        "qs:id":224278,
+        "qs_pg:id":1013654
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"40e60370cec3abaa079bbe92becf4da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":101993551,
+            "neighbourhood_id":85882907,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":85882907,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957710,
+    "wof:name":"El Paraiso",
+    "wof:parent_id":101993551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.992437,
+    32.506564,
+    -116.992437,
+    32.506564
+],
+  "geometry": {"coordinates":[-116.992437,32.506564],"type":"Point"}
+}

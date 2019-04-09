@@ -1,0 +1,77 @@
+{
+  "id": 1243540371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.41314,27.23372,-101.41314,27.23372",
+    "geom:latitude":27.23372,
+    "geom:longitude":-101.41314,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Escobedo",
+    "gn:country_code":"MX",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3980181,
+    "gn:latitude":27.23372,
+    "gn:longitude":-101.41314,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Escobedo",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "General Escobedo"
+    ],
+    "name:spa_x_variant":[
+        "Escobedo"
+    ],
+    "name:und_x_variant":[
+        "Villa Escobedo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3980181
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"89ee9e0a6caaba601c6b8ca657f218c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078857,
+            "locality_id":1243540371,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1243540371,
+    "wof:lastmodified":1537667182,
+    "wof:name":"Escobedo",
+    "wof:parent_id":102078857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.41314,
+    27.23372,
+    -101.41314,
+    27.23372
+],
+  "geometry": {"coordinates":[-101.41314,27.23372],"type":"Point"}
+}

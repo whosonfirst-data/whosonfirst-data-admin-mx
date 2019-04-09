@@ -1,0 +1,77 @@
+{
+  "id": 1343979725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.28833,27.65806,-108.28833,27.65806",
+    "geom:latitude":27.65806,
+    "geom:longitude":-108.28833,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Guasachi",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4005228,
+    "gn:latitude":27.65806,
+    "gn:longitude":-108.28833,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Guasachi",
+    "gn:population":118,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuasachic",
+        "Guisochic",
+        "Guasachic"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4005228
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a8e58521b7c70ca929fd0b429125f836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075235,
+            "locality_id":1343979725,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1343979725,
+    "wof:lastmodified":1537667830,
+    "wof:name":"Guasachi",
+    "wof:parent_id":102075235,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.28833,
+    27.65806,
+    -108.28833,
+    27.65806
+],
+  "geometry": {"coordinates":[-108.28833,27.65806],"type":"Point"}
+}

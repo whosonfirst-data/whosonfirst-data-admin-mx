@@ -1,0 +1,128 @@
+{
+  "id": 85885073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":1159027.935165,
+    "geom:bbox":"-99.2010498047,19.4355143331,-99.1887358353,19.4496906236",
+    "geom:latitude":19.442616,
+    "geom:longitude":-99.195006,
+    "gn:population":353534,
+    "iso:country":"MX",
+    "lbl:latitude":19.43913,
+    "lbl:longitude":-99.197943,
+    "mps:latitude":19.445253,
+    "mps:longitude":-99.193049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Miguel Hidalgo"
+    ],
+    "name:spa_x_variant":[
+        "Delegaci\u00f3n Miguel Hidalgo"
+    ],
+    "name:unk_x_variant":[
+        "Miguel Hidalgo"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Miguel Hidalgo",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Miguel Hidalgo",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":142,
+    "qs:photo_sum":286,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991171,
+        890535785,
+        102073749,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827408,
+        "gp:id":55902182,
+        "qs:id":901156,
+        "qs_pg:id":139032,
+        "wd:id":"Q20237100"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a2adcf5a22b779bf475be77d19a11ebc",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073749,
+            "locality_id":101991171,
+            "neighbourhood_id":85885073,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85885073,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85885073,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957725,
+    "wof:name":"Miguel Hidalgo",
+    "wof:parent_id":890535785,
+    "wof:placetype":"neighbourhood",
+    "wof:population":353534,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.20104980469998,
+    19.43551433307735,
+    -99.18873583531021,
+    19.44969062364447
+],
+  "geometry": {"coordinates":[[[-99.19731875400313,19.44969062364447],[-99.19281005859997,19.4490075451031],[-99.19196350469034,19.44913580012117],[-99.18988079339863,19.44839955380668],[-99.18873583531021,19.44597111050628],[-99.18876626596651,19.44587429820001],[-99.189972187894,19.44203776961044],[-99.19006347657913,19.4419893652001],[-99.19158891538649,19.4419893652001],[-99.19281005859997,19.44069439527733],[-99.19281005859997,19.43810438515025],[-99.19555664061556,19.43810438443163],[-99.19555664061389,19.43551433336414],[-99.19830322268606,19.43551433336414],[-99.20007685349699,19.43551433307735],[-99.20104980469998,19.4355143391001],[-99.20104980469998,19.4365460783861],[-99.20104980469998,19.43741655754721],[-99.20104980469998,19.43810439090005],[-99.20104980469998,19.44069440130008],[-99.20040118885424,19.44069439527733],[-99.1983032226843,19.4406943948471],[-99.19830322268535,19.44259653580242],[-99.19830322270002,19.44328437040006],[-99.19765461170266,19.44328437040157],[-99.19660562893819,19.4443967885763],[-99.19731875400313,19.44969062364447]]],"type":"Polygon"}
+}

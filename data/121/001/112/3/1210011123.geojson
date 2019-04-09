@@ -1,0 +1,71 @@
+{
+  "id": 1210011123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.77963,19.30413,-103.77963,19.30413",
+    "geom:latitude":19.30413,
+    "geom:longitude":-103.77963,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"La Canada",
+    "gn:country_code":"MX",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4003219,
+    "gn:latitude":19.30413,
+    "gn:longitude":-103.77963,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Ca\u00f1ada",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Ca\u00f1ada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686587,
+        102074539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4003219
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6a499c9964bd7fd8e4486b2af33b5c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074539,
+            "locality_id":1210011123,
+            "region_id":85686587
+        }
+    ],
+    "wof:id":1210011123,
+    "wof:lastmodified":1537667779,
+    "wof:name":"La Canada",
+    "wof:parent_id":102074539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.77963,
+    19.30413,
+    -103.77963,
+    19.30413
+],
+  "geometry": {"coordinates":[-103.77963,19.30413],"type":"Point"}
+}

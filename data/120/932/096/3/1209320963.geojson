@@ -1,0 +1,65 @@
+{
+  "id": 1209320963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.18583,18.3175,-91.18583,18.3175",
+    "geom:latitude":18.3175,
+    "geom:longitude":-91.18583,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Las Cruces",
+    "gn:country_code":"MX",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3821257,
+    "gn:latitude":18.3175,
+    "gn:longitude":-91.18583,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Las Cruces",
+    "gn:population":3,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3821257
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"31ad267dd7ab406f4d81cb949449c724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209320963
+        }
+    ],
+    "wof:id":1209320963,
+    "wof:lastmodified":1536290696,
+    "wof:name":"Las Cruces",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.18583,
+    18.3175,
+    -91.18583,
+    18.3175
+],
+  "geometry": {"coordinates":[-91.18583,18.3175],"type":"Point"}
+}

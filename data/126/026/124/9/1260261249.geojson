@@ -1,0 +1,75 @@
+{
+  "id": 1260261249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.32737,25.66611,-106.32737,25.66611",
+    "geom:latitude":25.66611,
+    "geom:longitude":-106.32737,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Los Bajios",
+    "gn:country_code":"MX",
+    "gn:dem":2543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4017643,
+    "gn:latitude":25.66611,
+    "gn:longitude":-106.32737,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Los Bajios",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Bajios"
+    ],
+    "name:und_x_variant":[
+        "Baj\u00edos",
+        "Baj\u00edos del Tarahumar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4017643
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f636f10eacfc91b14f55949825ceae19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075141,
+            "locality_id":1260261249,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1260261249,
+    "wof:lastmodified":1537668154,
+    "wof:name":"Los Bajios",
+    "wof:parent_id":102075141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.32737,
+    25.66611,
+    -106.32737,
+    25.66611
+],
+  "geometry": {"coordinates":[-106.32737,25.66611],"type":"Point"}
+}

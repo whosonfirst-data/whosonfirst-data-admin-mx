@@ -1,0 +1,74 @@
+{
+  "id": 1209723619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.50528,31.55306,-116.50528,31.55306",
+    "geom:latitude":31.55306,
+    "geom:longitude":-116.50528,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Rancho Seco",
+    "gn:country_code":"MX",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8531101,
+    "gn:latitude":31.55306,
+    "gn:longitude":-116.50528,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Rancho Seco",
+    "gn:population":1,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sierra Seca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8531101
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"950c028b7b2eaa1d5de5a746bc3f6828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1209723619,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1209723619,
+    "wof:lastmodified":1537668517,
+    "wof:name":"Rancho Seco",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.50528,
+    31.55306,
+    -116.50528,
+    31.55306
+],
+  "geometry": {"coordinates":[-116.50528,31.55306],"type":"Point"}
+}

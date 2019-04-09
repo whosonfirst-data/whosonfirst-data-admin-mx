@@ -1,0 +1,75 @@
+{
+  "id": 1309870703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.13015,25.09798,-100.13015,25.09798",
+    "geom:latitude":25.09798,
+    "geom:longitude":-100.13015,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Despoblado de Abajo",
+    "gn:country_code":"MX",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4011968,
+    "gn:latitude":25.09798,
+    "gn:longitude":-100.13015,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Despoblado de Abajo",
+    "gn:population":22,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho El Despoblado",
+        "Despoblado"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4011968
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"bb8febf4856d18bce53d92d96d934e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078733,
+            "locality_id":1309870703,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1309870703,
+    "wof:lastmodified":1537668043,
+    "wof:name":"Despoblado de Abajo",
+    "wof:parent_id":102078733,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.13015,
+    25.09798,
+    -100.13015,
+    25.09798
+],
+  "geometry": {"coordinates":[-100.13015,25.09798],"type":"Point"}
+}

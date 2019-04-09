@@ -1,0 +1,74 @@
+{
+  "id": 1209991019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.00889,25.94512,-99.00889,25.94512",
+    "geom:latitude":25.94512,
+    "geom:longitude":-99.00889,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Cerro Blanco",
+    "gn:country_code":"MX",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3520808,
+    "gn:latitude":25.94512,
+    "gn:longitude":-99.00889,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Cerro Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro Blanco"
+    ],
+    "name:und_x_variant":[
+        "Rancho Cerrito Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3520808
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"75039482d1290fe314bfdcc837d8a351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078717,
+            "locality_id":1209991019,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1209991019,
+    "wof:lastmodified":1537666081,
+    "wof:name":"Cerro Blanco",
+    "wof:parent_id":102078717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.00889,
+    25.94512000000001,
+    -99.00889,
+    25.94512000000001
+],
+  "geometry": {"coordinates":[-99.00888999999999,25.94512000000001],"type":"Point"}
+}

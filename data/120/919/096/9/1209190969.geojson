@@ -1,0 +1,65 @@
+{
+  "id": 1209190969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.16458,16.79827,-99.16458,16.79827",
+    "geom:latitude":16.79827,
+    "geom:longitude":-99.16458,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"La Isla",
+    "gn:country_code":"MX",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8925755,
+    "gn:latitude":16.79827,
+    "gn:longitude":-99.16458,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"La Isla",
+    "gn:population":8,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8925755
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6509d435af7b6bcf9faebf896192b406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209190969
+        }
+    ],
+    "wof:id":1209190969,
+    "wof:lastmodified":1536294936,
+    "wof:name":"La Isla",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.16458,
+    16.798270000000002,
+    -99.16458,
+    16.798270000000002
+],
+  "geometry": {"coordinates":[-99.16458,16.79827],"type":"Point"}
+}

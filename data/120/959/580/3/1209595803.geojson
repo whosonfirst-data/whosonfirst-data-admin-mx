@@ -1,0 +1,65 @@
+{
+  "id": 1209595803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.13556,21.11056,-100.13556,21.11056",
+    "geom:latitude":21.11056,
+    "geom:longitude":-100.13556,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"40.0",
+    "gn:asciiname":"Monte Prieto",
+    "gn:country_code":"MX",
+    "gn:dem":1702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8864648,
+    "gn:latitude":21.11056,
+    "gn:longitude":-100.13556,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Monte Prieto",
+    "gn:population":418,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8864648
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c4d3d1837f0518f2b09a2947bc14cc85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209595803
+        }
+    ],
+    "wof:id":1209595803,
+    "wof:lastmodified":1536282328,
+    "wof:name":"Monte Prieto",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.13556,
+    21.11056,
+    -100.13556,
+    21.11056
+],
+  "geometry": {"coordinates":[-100.13556,21.11056],"type":"Point"}
+}

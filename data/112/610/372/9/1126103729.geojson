@@ -1,0 +1,99 @@
+{
+  "id": 1126103729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.23333,19.17361,-98.23333,19.17361",
+    "geom:latitude":19.17361,
+    "geom:longitude":-98.23333,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11094,
+    "gn:population":12255,
+    "iso:country":"MX",
+    "lbl:latitude":19.17361,
+    "lbl:longitude":-98.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Santo Toribio Xicotzinco"
+    ],
+    "name:spa_x_variant":[
+        "Santo Toribio Xicohtzinco"
+    ],
+    "name:unk_x_variant":[
+        "Santo Toribio Xicohtzingo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3815363,
+    "qs_pg:gn_pop":11094,
+    "qs_pg:name":"Xicotenco",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Puebla",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":150351,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55907546,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Puebla",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101998983,
+        102077889,
+        85686653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815363,
+        "gp:id":55907546,
+        "qs_pg:id":150351
+    },
+    "wof:country":"MX",
+    "wof:created":1497316554,
+    "wof:geomhash":"54a3b0e26aab4bf2e48f2b88eb630f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077889,
+            "locality_id":101998983,
+            "neighbourhood_id":1126103729,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1126103729,
+    "wof:lastmodified":1509412258,
+    "wof:name":"Xicotenco",
+    "wof:parent_id":101998983,
+    "wof:placetype":"neighbourhood",
+    "wof:population":12255,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.23333,
+    19.17361,
+    -98.23333,
+    19.17361
+],
+  "geometry": {"coordinates":[-98.23333,19.17361],"type":"Point"}
+}

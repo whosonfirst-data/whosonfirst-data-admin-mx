@@ -1,0 +1,87 @@
+{
+  "id": 1125872095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.08448,20.52599,-103.08448,20.52599",
+    "geom:latitude":20.52599,
+    "geom:longitude":-103.08448,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.52599,
+    "lbl:longitude":-103.08448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Santa Fe"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4014679,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cerro Santa Fe",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":180060,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":115437,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4014679,
+        "gp:id":115437,
+        "qs_pg:id":180060
+    },
+    "wof:country":"MX",
+    "wof:created":1497294351,
+    "wof:geomhash":"e3fe4608c1c14cf105430542e348d617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074773,
+            "locality_id":1125872095,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1125872095,
+    "wof:lastmodified":1509397400,
+    "wof:name":"Cerro Santa Fe",
+    "wof:parent_id":102074773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.08448,
+    20.52599,
+    -103.08448,
+    20.52599
+],
+  "geometry": {"coordinates":[-103.08448,20.52599],"type":"Point"}
+}

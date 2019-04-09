@@ -1,0 +1,87 @@
+{
+  "id": 1125979953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.62074,19.9828,-98.62074,19.9828",
+    "geom:latitude":19.9828,
+    "geom:longitude":-98.62074,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.9828,
+    "lbl:longitude":-98.62074,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Santa M\u00f3nica"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3517160,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Santa M\u00f3nica",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Hidalgo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1156124,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":146625,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Hidalgo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3517160,
+        "gp:id":146625,
+        "qs_pg:id":1156124
+    },
+    "wof:country":"MX",
+    "wof:created":1497298510,
+    "wof:geomhash":"b11b78641364db392bafb35e301a3ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078497,
+            "locality_id":1125979953,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1125979953,
+    "wof:lastmodified":1509404704,
+    "wof:name":"Santa M\u00f3nica",
+    "wof:parent_id":102078497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.62074,
+    19.9828,
+    -98.62074,
+    19.9828
+],
+  "geometry": {"coordinates":[-98.62074,19.9828],"type":"Point"}
+}

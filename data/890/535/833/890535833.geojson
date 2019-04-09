@@ -1,0 +1,88 @@
+{
+  "id": 890535833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5664984.62421,
+    "geom:bbox":"-99.326006,19.326311,-99.326006,19.326311",
+    "geom:latitude":19.326311,
+    "geom:longitude":-99.326006,
+    "geonames:id":"3533402,3827403",
+    "iso:country":"MX",
+    "lbl:latitude":19.326311,
+    "lbl:longitude":-99.326006,
+    "mps:latitude":19.326311,
+    "mps:longitude":-99.326006,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Acopinalco"
+    ],
+    "name:unk_x_variant":[
+        "Acopilco"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Distrito Federal",
+    "qs:a1_lc":"09",
+    "qs:a1r":"*",
+    "qs:a2":"Cuajimalpa de Morelos",
+    "qs:a2_lc":"09004",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"San Lorenzo Acopilco",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102073747,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3533402,
+        "gp:id":55898967,
+        "qs_pg:id":905301
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"820b40697d5c82f69e71f154fde62696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073747,
+            "locality_id":-1,
+            "neighbourhood_id":890535833,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":890535833,
+    "wof:lastmodified":1531939969,
+    "wof:name":"San Lorenzo Acopilco",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101991163
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.326006,
+    19.326311,
+    -99.326006,
+    19.326311
+],
+  "geometry": {"coordinates":[-99.32600600000001,19.326311],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1126038247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.16792,32.22756,-115.16792,32.22756",
+    "geom:latitude":32.22756,
+    "geom:longitude":-115.16792,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8064,
+    "gn:population":8064,
+    "iso:country":"MX",
+    "lbl:latitude":32.22756,
+    "lbl:longitude":-115.16792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Doctor Alberto Oviedo Mota"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3979497,
+    "qs_pg:gn_pop":8064,
+    "qs_pg:name":"Alberto Oviedo Mota",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":97054,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3979497,
+        "qs_pg:id":97054
+    },
+    "wof:country":"MX",
+    "wof:created":1497301939,
+    "wof:geomhash":"104282b688370a7697fa7d725f503ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074507,
+            "locality_id":1126038247,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126038247,
+    "wof:lastmodified":1509408348,
+    "wof:name":"Alberto Oviedo Mota",
+    "wof:parent_id":102074507,
+    "wof:placetype":"locality",
+    "wof:population":8064,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.16792,
+    32.22756,
+    -115.16792,
+    32.22756
+],
+  "geometry": {"coordinates":[-115.16792,32.22756],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243351947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.15314,23.38463,-105.15314,23.38463",
+    "geom:latitude":23.38463,
+    "geom:longitude":-105.15314,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"San Bernardino de Milpillas Chico",
+    "gn:country_code":"MX",
+    "gn:dem":2008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3995882,
+    "gn:latitude":23.38463,
+    "gn:longitude":-105.15314,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Bernardino de Milpillas Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Bernardino de Milpillas Chico"
+    ],
+    "name:und_x_variant":[
+        "Milpillas",
+        "Milpillas Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3995882
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d3ba42a8e7c814cedb1d3fb4e9eccda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075189,
+            "locality_id":1243351947,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1243351947,
+    "wof:lastmodified":1537667550,
+    "wof:name":"San Bernardino de Milpillas Chico",
+    "wof:parent_id":102075189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.15314,
+    23.38463,
+    -105.15314,
+    23.38463
+],
+  "geometry": {"coordinates":[-105.15313999999999,23.38463],"type":"Point"}
+}

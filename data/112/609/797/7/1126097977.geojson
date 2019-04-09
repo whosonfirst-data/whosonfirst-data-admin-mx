@@ -1,0 +1,96 @@
+{
+  "id": 1126097977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.14435,16.10694,-97.14435,16.10694",
+    "geom:latitude":16.10694,
+    "geom:longitude":-97.14435,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4830,
+    "gn:population":4830,
+    "iso:country":"MX",
+    "lbl:latitude":16.10694,
+    "lbl:longitude":-97.14435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Santos Reyes Nopala"
+    ],
+    "name:unk_x_variant":[
+        "Nopala"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3800500,
+    "qs_pg:gn_pop":4830,
+    "qs_pg:name":"Santos Reyes Nopala Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Oaxaca",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":73902,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55917431,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Oaxaca",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101996123,
+        102076217,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3800500,
+        "gp:id":55917431,
+        "qs_pg:id":73902
+    },
+    "wof:country":"MX",
+    "wof:created":1497315549,
+    "wof:geomhash":"6f213d5f66c64d05bac888144cbf648c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076217,
+            "locality_id":101996123,
+            "neighbourhood_id":1126097977,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1126097977,
+    "wof:lastmodified":1509411976,
+    "wof:name":"Santos Reyes Nopala Centro",
+    "wof:parent_id":101996123,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4830,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.14435,
+    16.10694,
+    -97.14435,
+    16.10694
+],
+  "geometry": {"coordinates":[-97.14435,16.10694],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 85883845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":391118.130176,
+    "geom:bbox":"-99.19071212,19.4296462802,-99.1839216625,19.4355143334",
+    "geom:latitude":19.43264,
+    "geom:longitude":-99.187269,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.432626,
+    "lbl:longitude":-99.186209,
+    "mps:latitude":19.432716,
+    "mps:longitude":-99.187314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Chapultepec Morales"
+    ],
+    "name:unk_x_variant":[
+        "Chapultepec Morales"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Chapultepec Morales",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":213,
+    "qs:photo_sum":406,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991171,
+        890535785,
+        102073749,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898493,
+        "qs:id":1341958
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a96cd3adf821441bf0e610cf892bbf71",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073749,
+            "locality_id":101991171,
+            "neighbourhood_id":85883845,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883845,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883845,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957716,
+    "wof:name":"Chapultepec Morales",
+    "wof:parent_id":890535785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.19071212003959,
+    19.42964628021355,
+    -99.18392166254844,
+    19.43551433336414
+],
+  "geometry": {"coordinates":[[[-99.18457031249997,19.43551433336414],[-99.18457031249997,19.433612068038],[-99.183921667405,19.43292423567546],[-99.18432876467432,19.43162918140044],[-99.18392166254844,19.43033410471678],[-99.18457031249997,19.42964628022669],[-99.18594360349982,19.43013168762488],[-99.18731689451238,19.42964628021355],[-99.18869018552493,19.43013168763368],[-99.18957698508405,19.4298182369035],[-99.19006347693582,19.43033411086279],[-99.19054996365412,19.43084997651894],[-99.19030502440302,19.43162918140044],[-99.19071212003959,19.43292423997744],[-99.19006347659271,19.43361206803391],[-99.19006347658606,19.43551433336414],[-99.18731689451664,19.43551433221697],[-99.18457031249997,19.43551433336414]]],"type":"Polygon"}
+}

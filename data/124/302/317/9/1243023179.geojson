@@ -1,0 +1,76 @@
+{
+  "id": 1243023179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.15583,24.65,-107.15583,24.65",
+    "geom:latitude":24.65,
+    "geom:longitude":-107.15583,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Las Tapias",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3999253,
+    "gn:latitude":24.65,
+    "gn:longitude":-107.15583,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Las Tapias",
+    "gn:population":59,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapias",
+        "Las Tapias"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3999253
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"00de2229052db9723c7c687e43131694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074307,
+            "locality_id":1243023179,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1243023179,
+    "wof:lastmodified":1537667644,
+    "wof:name":"Las Tapias",
+    "wof:parent_id":102074307,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.15583,
+    24.65,
+    -107.15583,
+    24.65
+],
+  "geometry": {"coordinates":[-107.15582999999999,24.65],"type":"Point"}
+}

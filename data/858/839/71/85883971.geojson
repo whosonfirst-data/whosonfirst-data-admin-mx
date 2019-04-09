@@ -1,0 +1,116 @@
+{
+  "id": 85883971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00035,
+    "geom:area_square_m":4080152.415639,
+    "geom:bbox":"-99.2739606324,19.324470121,-99.2498532991,19.3474278221",
+    "geom:latitude":19.335784,
+    "geom:longitude":-99.262516,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.336692,
+    "lbl:longitude":-99.259512,
+    "mps:latitude":19.336506,
+    "mps:longitude":-99.263489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Villa Verdum"
+    ],
+    "name:unk_x_variant":[
+        "Villa Verdum"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Villa Verdum",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":4,
+    "qs:photo_sum":7,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899110,
+        "qs:id":997150
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"40f81935efda9e40bab3f1db0c4182b5",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883971,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85883971,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883971,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270526,
+    "wof:name":"Villa Verdum",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.27396063239132,
+    19.32447012095008,
+    -99.24985329906548,
+    19.34742782212521
+],
+  "geometry": {"coordinates":[[[-99.25598144529994,19.34483643005042],[-99.25598144529994,19.34224499680003],[-99.25598144529994,19.33706180110002],[-99.25598144529994,19.33706175995009],[-99.25048828122493,19.33124018300727],[-99.24985329906548,19.32989429294049],[-99.24988451592168,19.3299037624702],[-99.25041333122692,19.32891441861979],[-99.25165695953791,19.32739905313817],[-99.25317232501982,19.32615542482689],[-99.25490119302634,19.32523132562503],[-99.25677712412977,19.32466226814593],[-99.25872802735,19.32447012095008],[-99.26067893057021,19.32466226814593],[-99.26255486167355,19.32523132562503],[-99.26428372968019,19.32615542482689],[-99.26579909516181,19.32739905313817],[-99.26704272347308,19.32891441861979],[-99.26780522001746,19.33034094931931],[-99.26781381773014,19.33034355740683],[-99.26804802572349,19.33041460362507],[-99.26977689373021,19.33133870282713],[-99.27095711881748,19.33230728852473],[-99.27096124260856,19.33229369420776],[-99.27396063239132,19.34182982569294],[-99.27361645340841,19.34296443174419],[-99.27362961578802,19.3429483933382],[-99.2736687866489,19.3429162466434],[-99.27193464636667,19.34567310365478],[-99.26696777342494,19.34742782212521],[-99.2663647839974,19.34742782212521],[-99.26147460937483,19.34483643005042],[-99.25598144529994,19.34483643005042]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209670305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.24851,26.65271,-108.24851,26.65271",
+    "geom:latitude":26.65271,
+    "geom:longitude":-108.24851,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"7",
+    "gn:asciiname":"Las Pilas",
+    "gn:country_code":"MX",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8918397,
+    "gn:latitude":26.65271,
+    "gn:longitude":-108.24851,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Las Pilas",
+    "gn:population":11,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8918397
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"06fe1d080d067096ee2d78e776b44200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209670305
+        }
+    ],
+    "wof:id":1209670305,
+    "wof:lastmodified":1536279945,
+    "wof:name":"Las Pilas",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.24851,
+    26.65271,
+    -108.24851,
+    26.65271
+],
+  "geometry": {"coordinates":[-108.24851,26.65271],"type":"Point"}
+}

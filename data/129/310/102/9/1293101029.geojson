@@ -1,0 +1,73 @@
+{
+  "id": 1293101029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.75,30.08333,-115.75,30.08333",
+    "geom:latitude":30.08333,
+    "geom:longitude":-115.75,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Colonia Jose Maria Morelos",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4013390,
+    "gn:latitude":30.08333,
+    "gn:longitude":-115.75,
+    "gn:modification_date":"2016-04-08",
+    "gn:name":"Colonia Jos\u00e9 Mar\u00eda Morelos",
+    "gn:population":0,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u00eda Morelos",
+        "Colonia Jos\u00e9 Mar\u00eda Morelos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4013390
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"124e3258e50b826eb76a40c54182716c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1293101029,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1293101029,
+    "wof:lastmodified":1537668069,
+    "wof:name":"Colonia Jose Maria Morelos",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.75,
+    30.08333,
+    -115.75,
+    30.08333
+],
+  "geometry": {"coordinates":[-115.75,30.08333],"type":"Point"}
+}

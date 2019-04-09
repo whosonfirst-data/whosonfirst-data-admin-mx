@@ -1,0 +1,78 @@
+{
+  "id": 1309676937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.51836,26.6423,-100.51836,26.6423",
+    "geom:latitude":26.6423,
+    "geom:longitude":-100.51836,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Agua Dulce (Sierra Morena)",
+    "gn:country_code":"MX",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4019442,
+    "gn:latitude":26.6423,
+    "gn:longitude":-100.51836,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Agua Dulce (Sierra Morena)",
+    "gn:population":3,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agua Dulce"
+    ],
+    "name:und_x_variant":[
+        "Sierra Morena",
+        "Hacienda Sierra Morena"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4019442
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"96c1968d3645082672d847a7f60c700d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078725,
+            "locality_id":1309676937,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1309676937,
+    "wof:lastmodified":1537668189,
+    "wof:name":"Agua Dulce (Sierra Morena)",
+    "wof:parent_id":102078725,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.51836,
+    26.6423,
+    -100.51836,
+    26.6423
+],
+  "geometry": {"coordinates":[-100.51836,26.6423],"type":"Point"}
+}

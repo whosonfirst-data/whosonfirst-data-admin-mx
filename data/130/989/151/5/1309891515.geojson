@@ -1,0 +1,74 @@
+{
+  "id": 1309891515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.43976,27.59841,-102.43976,27.59841",
+    "geom:latitude":27.59841,
+    "geom:longitude":-102.43976,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"San Antonio de la Tinaja",
+    "gn:country_code":"MX",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3989346,
+    "gn:latitude":27.59841,
+    "gn:longitude":-102.43976,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Antonio de la Tinaja",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio de la Tinaja"
+    ],
+    "name:und_x_variant":[
+        "Rancho San Antonio de la Tinaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3989346
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c4357b9ac1be6a2f83161a014dce7316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078825,
+            "locality_id":1309891515,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1309891515,
+    "wof:lastmodified":1537667399,
+    "wof:name":"San Antonio de la Tinaja",
+    "wof:parent_id":102078825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.43976,
+    27.59841,
+    -102.43976,
+    27.59841
+],
+  "geometry": {"coordinates":[-102.43976000000001,27.59841],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326793955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.78333,18.71167,-98.78333,18.71167",
+    "geom:latitude":18.71167,
+    "geom:longitude":-98.78333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Colonia Mariano Matamoros (Puente Colorado)",
+    "gn:country_code":"MX",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8898966,
+    "gn:latitude":18.71167,
+    "gn:longitude":-98.78333,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Colonia Mariano Matamoros (Puente Colorado)",
+    "gn:population":29,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686531,
+        102074291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8898966
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"367287e4184990d6fe15ef693a7ed9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074291,
+            "locality_id":1326793955,
+            "region_id":85686531
+        }
+    ],
+    "wof:id":1326793955,
+    "wof:lastmodified":1536603809,
+    "wof:name":"Colonia Mariano Matamoros (Puente Colorado)",
+    "wof:parent_id":102074291,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.78333,
+    18.71167,
+    -98.78333,
+    18.71167
+],
+  "geometry": {"coordinates":[-98.78333000000001,18.71167],"type":"Point"}
+}

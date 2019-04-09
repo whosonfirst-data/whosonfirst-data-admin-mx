@@ -1,0 +1,76 @@
+{
+  "id": 1310316771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.08346,23.97526,-110.08346,23.97526",
+    "geom:latitude":23.97526,
+    "geom:longitude":-110.08346,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"La Matancita",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3996420,
+    "gn:latitude":23.97526,
+    "gn:longitude":-110.08346,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"La Matancita",
+    "gn:population":2,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matancillo",
+        "Matancita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686555,
+        102074519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3996420
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"987b92b03b89f9462fbcb66ebab624df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074519,
+            "locality_id":1310316771,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1310316771,
+    "wof:lastmodified":1537667563,
+    "wof:name":"La Matancita",
+    "wof:parent_id":102074519,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.08346,
+    23.97526,
+    -110.08346,
+    23.97526
+],
+  "geometry": {"coordinates":[-110.08346,23.97526],"type":"Point"}
+}

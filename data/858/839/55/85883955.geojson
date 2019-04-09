@@ -1,0 +1,116 @@
+{
+  "id": 85883955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:area_square_m":2014780.054531,
+    "geom:bbox":"-99.1516113281,19.409611546,-99.1351318359,19.425153719",
+    "geom:latitude":19.417771,
+    "geom:longitude":-99.142619,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.418077,
+    "lbl:longitude":-99.140688,
+    "mps:latitude":19.417383,
+    "mps:longitude":-99.141952,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Obrera"
+    ],
+    "name:unk_x_variant":[
+        "Obrera"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Obrera",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Cuauhtemoc",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":136,
+    "qs:photo_sum":600,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599939,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535757,
+        102073737,
+        85686515,
+        101991151,
+        102073739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898969,
+        "qs:id":475217
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7f74a4a4d13ded2ae0eb544496ed7d13",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883955,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535757,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073739,
+            "locality_id":101991151,
+            "neighbourhood_id":85883955,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883955,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270526,
+    "wof:name":"Obrera",
+    "wof:parent_id":890535757,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.15161132809996,
+    19.40961154598486,
+    -99.13513183589995,
+    19.42515371900002
+],
+  "geometry": {"coordinates":[[[-99.13787841799993,19.42515371900002],[-99.13787841798316,19.42412197909434],[-99.13787841798421,19.42256345424711],[-99.13578051427675,19.42256345639809],[-99.13513183589995,19.42256346070008],[-99.13513183591454,19.42187563122697],[-99.13513183591655,19.4199731542169],[-99.13513183591655,19.41738281333343],[-99.13513183591382,19.41479243236415],[-99.13787841798421,19.41479243164721],[-99.13787841798421,19.41220200824706],[-99.140625,19.41220200728083],[-99.140625,19.40961154598486],[-99.14611816409993,19.40961155000005],[-99.14611816408316,19.41098717250573],[-99.14611816408529,19.41264135826131],[-99.14629373941165,19.41291512040502],[-99.14806428916052,19.41479239682519],[-99.15031389680138,19.41479239682519],[-99.15031392680271,19.41479243336796],[-99.15161132809996,19.41479243810009],[-99.15161132809996,19.41738281390568],[-99.15161132809996,19.41997316110002],[-99.14611816108589,19.41997315825749],[-99.14611816409993,19.42515371900002],[-99.14603537212631,19.42515371894815],[-99.140625,19.42515371296271],[-99.13885142297545,19.42515371296271],[-99.13787841799993,19.42515371900002]]],"type":"Polygon"}
+}

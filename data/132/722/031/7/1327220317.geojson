@@ -1,0 +1,76 @@
+{
+  "id": 1327220317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.5553,18.05964,-101.5553,18.05964",
+    "geom:latitude":18.05964,
+    "geom:longitude":-101.5553,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"La Pareja",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4000942,
+    "gn:latitude":18.05964,
+    "gn:longitude":-101.5553,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"La Pareja",
+    "gn:population":41,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pareja",
+        "La Pareja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686517,
+        102073907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4000942
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e6ba0b665a90476340ce5d3b0af62991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073907,
+            "locality_id":1327220317,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":1327220317,
+    "wof:lastmodified":1537667703,
+    "wof:name":"La Pareja",
+    "wof:parent_id":102073907,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.5553,
+    18.05964,
+    -101.5553,
+    18.05964
+],
+  "geometry": {"coordinates":[-101.5553,18.05964],"type":"Point"}
+}

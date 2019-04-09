@@ -1,0 +1,87 @@
+{
+  "id": 1126006429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.23024,16.01199,-92.23024,16.01199",
+    "geom:latitude":16.01199,
+    "geom:longitude":-92.23024,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":16.01199,
+    "lbl:longitude":-92.23024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Felipe Angeles"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3527642,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Felipe Angeles",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chiapas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244779,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":123616,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chiapas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3527642,
+        "gp:id":123616,
+        "qs_pg:id":244779
+    },
+    "wof:country":"MX",
+    "wof:created":1497299989,
+    "wof:geomhash":"f21954b687d0bbd3d94619c8170e3072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075661,
+            "locality_id":1126006429,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1126006429,
+    "wof:lastmodified":1509406430,
+    "wof:name":"Felipe Angeles",
+    "wof:parent_id":102075661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.23024,
+    16.01199,
+    -92.23024,
+    16.01199
+],
+  "geometry": {"coordinates":[-92.23023999999999,16.01199],"type":"Point"}
+}

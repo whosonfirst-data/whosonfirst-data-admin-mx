@@ -1,0 +1,74 @@
+{
+  "id": 1243033045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.33895,27.43529,-100.33895,27.43529",
+    "geom:latitude":27.43529,
+    "geom:longitude":-100.33895,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Dominguez",
+    "gn:country_code":"MX",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8935932,
+    "gn:latitude":27.43529,
+    "gn:longitude":-100.33895,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Dom\u00ednguez",
+    "gn:population":6,
+    "gn:timezone":"America/Matamoros",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dom\u00ednguez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8935932
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9c646e8ad64d84efcb6ab3d4ae97f416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078781,
+            "locality_id":1243033045,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1243033045,
+    "wof:lastmodified":1537671149,
+    "wof:name":"Dominguez",
+    "wof:parent_id":102078781,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.33895,
+    27.43529,
+    -100.33895,
+    27.43529
+],
+  "geometry": {"coordinates":[-100.33895,27.43529],"type":"Point"}
+}

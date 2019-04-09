@@ -1,0 +1,89 @@
+{
+  "id": 1126029655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.73333,27.08333,-107.73333,27.08333",
+    "geom:latitude":27.08333,
+    "geom:longitude":-107.73333,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":27.08333,
+    "lbl:longitude":-107.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Cuauhtemoc"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4012472,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cuahutemoc",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chihuahua",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":960614,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":117717,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chihuahua",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4012472,
+        "gp:id":117717,
+        "qs_pg:id":960614
+    },
+    "wof:country":"MX",
+    "wof:created":1497301380,
+    "wof:geomhash":"68689af16f2662580b37d9140e50db84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075305,
+            "locality_id":1126029655,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1126029655,
+    "wof:lastmodified":1509407825,
+    "wof:name":"Cuahutemoc",
+    "wof:parent_id":102075305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.73333,
+    27.08333,
+    -107.73333,
+    27.08333
+],
+  "geometry": {"coordinates":[-107.73333,27.08333],"type":"Point"}
+}

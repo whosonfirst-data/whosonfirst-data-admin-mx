@@ -1,0 +1,91 @@
+{
+  "id": 1125832845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.51667,27.55,-99.51667,27.55",
+    "geom:latitude":27.55,
+    "geom:longitude":-99.51667,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":27.55,
+    "lbl:longitude":-99.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "El Ballito"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3529393,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Bayito",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tamaulipas",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":892024,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":119212,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tamaulipas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753,
+        102081071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3529393,
+        "gp:id":119212,
+        "qs_pg:id":892024
+    },
+    "wof:country":"MX",
+    "wof:created":1497292577,
+    "wof:geomhash":"9d9550d37f83b6e549583889bdca19f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081071,
+            "locality_id":1125832845,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1125832845,
+    "wof:lastmodified":1509394815,
+    "wof:name":"El Bayito",
+    "wof:parent_id":102081071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.51667,
+    27.55,
+    -99.51667,
+    27.55
+],
+  "geometry": {"coordinates":[-99.51667,27.55],"type":"Point"}
+}

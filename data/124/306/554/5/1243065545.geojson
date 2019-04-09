@@ -1,0 +1,75 @@
+{
+  "id": 1243065545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.83962,26.79188,-107.83962,26.79188",
+    "geom:latitude":26.79188,
+    "geom:longitude":-107.83962,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"San Jose de Colima",
+    "gn:country_code":"MX",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3986237,
+    "gn:latitude":26.79188,
+    "gn:longitude":-107.83962,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"San Jos\u00e9 de Colima",
+    "gn:population":50,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 de Colima",
+        "Colima"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3986237
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f0c9198706117204e472798560701cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075305,
+            "locality_id":1243065545,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1243065545,
+    "wof:lastmodified":1537667324,
+    "wof:name":"San Jose de Colima",
+    "wof:parent_id":102075305,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.83962,
+    26.79188,
+    -107.83962,
+    26.79188
+],
+  "geometry": {"coordinates":[-107.83962,26.79188],"type":"Point"}
+}

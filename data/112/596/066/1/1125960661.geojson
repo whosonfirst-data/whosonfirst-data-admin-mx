@@ -1,0 +1,93 @@
+{
+  "id": 1125960661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.96331,20.20514,-100.96331,20.20514",
+    "geom:latitude":20.20514,
+    "geom:longitude":-100.96331,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3955,
+    "gn:population":3955,
+    "iso:country":"MX",
+    "lbl:latitude":20.20514,
+    "lbl:longitude":-100.96331,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Huerta de Maravat\u00edo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4023835,
+    "qs_pg:gn_pop":3955,
+    "qs_pg:name":"Maravatio Del Encinal",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Guanajuato",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1047674,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55893910,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Guanajuato",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4023835,
+        "gp:id":55893910,
+        "qs_pg:id":1047674
+    },
+    "wof:country":"MX",
+    "wof:created":1497297784,
+    "wof:geomhash":"3b94bd449598d0a1e19e5be963915bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077281,
+            "locality_id":1125960661,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1125960661,
+    "wof:lastmodified":1509403287,
+    "wof:name":"Maravatio Del Encinal",
+    "wof:parent_id":102077281,
+    "wof:placetype":"locality",
+    "wof:population":3955,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.96331,
+    20.20514,
+    -100.96331,
+    20.20514
+],
+  "geometry": {"coordinates":[-100.96331000000001,20.20514],"type":"Point"}
+}

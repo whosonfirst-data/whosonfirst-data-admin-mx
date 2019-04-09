@@ -1,0 +1,74 @@
+{
+  "id": 1343649745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.55645,25.51528,-103.55645,25.51528",
+    "geom:latitude":25.51528,
+    "geom:longitude":-103.55645,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"El Alamo [Granja]",
+    "gn:country_code":"MX",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8929420,
+    "gn:latitude":25.51528,
+    "gn:longitude":-103.55645,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"El \u00c1lamo [Granja]",
+    "gn:population":7,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u00c1lamo [Granja]"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8929420
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"dd154c45d395a446d1ef4fd4294fdbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075209,
+            "locality_id":1343649745,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1343649745,
+    "wof:lastmodified":1537670991,
+    "wof:name":"El Alamo [Granja]",
+    "wof:parent_id":102075209,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.55645,
+    25.51528,
+    -103.55645,
+    25.51528
+],
+  "geometry": {"coordinates":[-103.55645,25.51528],"type":"Point"}
+}

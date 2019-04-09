@@ -1,0 +1,75 @@
+{
+  "id": 1226040415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.53463,27.89302,-108.53463,27.89302",
+    "geom:latitude":27.89302,
+    "geom:longitude":-108.53463,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"66.0",
+    "gn:asciiname":"Bacahuico",
+    "gn:country_code":"MX",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4017843,
+    "gn:latitude":27.89302,
+    "gn:longitude":-108.53463,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Bacahuico",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bacahuico"
+    ],
+    "name:und_x_variant":[
+        "Sacahuico",
+        "Bacabuico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4017843
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"2d59c4e81de837bce15f903a176c945a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075261,
+            "locality_id":1226040415,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1226040415,
+    "wof:lastmodified":1537668160,
+    "wof:name":"Bacahuico",
+    "wof:parent_id":102075261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.53463,
+    27.89302,
+    -108.53463,
+    27.89302
+],
+  "geometry": {"coordinates":[-108.53463000000001,27.89302],"type":"Point"}
+}

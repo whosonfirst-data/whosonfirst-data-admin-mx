@@ -1,0 +1,91 @@
+{
+  "id": 1125816899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.09777,20.39833,-100.09777,20.39833",
+    "geom:latitude":20.39833,
+    "geom:longitude":-100.09777,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.39833,
+    "lbl:longitude":-100.09777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Galindo"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4006056,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Galindo (san Jose Galindo)",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Queretaro de Arteaga",
+    "qs_pg:photos":183,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":183,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1259860,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55890233,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Queretaro de Arteaga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686641,
+        102077115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4006056,
+        "gp:id":55890233,
+        "qs_pg:id":1259860
+    },
+    "wof:country":"MX",
+    "wof:created":1497291881,
+    "wof:geomhash":"356a2c4098b12233f9371f96afe62466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077115,
+            "locality_id":1125816899,
+            "region_id":85686641
+        }
+    ],
+    "wof:id":1125816899,
+    "wof:lastmodified":1509393841,
+    "wof:name":"Galindo (san Jose Galindo)",
+    "wof:parent_id":102077115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.09777,
+    20.39833,
+    -100.09777,
+    20.39833
+],
+  "geometry": {"coordinates":[-100.09777,20.39833],"type":"Point"}
+}

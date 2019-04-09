@@ -1,0 +1,74 @@
+{
+  "id": 1343402629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.89127,24.05994,-102.89127,24.05994",
+    "geom:latitude":24.05994,
+    "geom:longitude":-102.89127,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"San Agustin El Viejo",
+    "gn:country_code":"MX",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987982,
+    "gn:latitude":24.05994,
+    "gn:longitude":-102.89127,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Agustin El Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Agustin El Viejo"
+    ],
+    "name:und_x_variant":[
+        "Rancho San Agust\u00edn El Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686567,
+        102075483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987982
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"64ae3099d6af25a897ddb348d7e86040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075483,
+            "locality_id":1343402629,
+            "region_id":85686567
+        }
+    ],
+    "wof:id":1343402629,
+    "wof:lastmodified":1537667368,
+    "wof:name":"San Agustin El Viejo",
+    "wof:parent_id":102075483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.89127,
+    24.05994,
+    -102.89127,
+    24.05994
+],
+  "geometry": {"coordinates":[-102.89127000000001,24.05994],"type":"Point"}
+}

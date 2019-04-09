@@ -1,0 +1,82 @@
+{
+  "id": 1125841267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.59777,20.093659,-87.59777,20.093659",
+    "geom:latitude":20.093659,
+    "geom:longitude":-87.59777,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":20.093659,
+    "lbl:longitude":-87.59777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Muyil",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Quintana Roo",
+    "qs_pg:photos":134,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":134,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233924,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":134244,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Quintana Roo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686711,
+        102079245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":134244,
+        "qs_pg:id":233924
+    },
+    "wof:country":"MX",
+    "wof:created":1497292946,
+    "wof:geomhash":"61337f6872f38a80b4e8134c0ae1ff40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079245,
+            "locality_id":1125841267,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":1125841267,
+    "wof:lastmodified":1509395302,
+    "wof:name":"Muyil",
+    "wof:parent_id":102079245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.59777,
+    20.093659,
+    -87.59777,
+    20.093659
+],
+  "geometry": {"coordinates":[-87.59777,20.093659],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1126038245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.99933,32.19304,-114.99933,32.19304",
+    "geom:latitude":32.19304,
+    "geom:longitude":-114.99933,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7596,
+    "gn:population":7596,
+    "iso:country":"MX",
+    "lbl:latitude":32.19304,
+    "lbl:longitude":-114.99933,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3979494,
+    "qs_pg:gn_pop":7596,
+    "qs_pg:name":"Estaci\u00f3n Coahuila",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":97053,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3979494,
+        "qs_pg:id":97053
+    },
+    "wof:country":"MX",
+    "wof:created":1497301939,
+    "wof:geomhash":"491365700e33fcd25dc8ab622e0d1955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074507,
+            "locality_id":1126038245,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126038245,
+    "wof:lastmodified":1509408348,
+    "wof:name":"Estaci\u00f3n Coahuila",
+    "wof:parent_id":102074507,
+    "wof:placetype":"locality",
+    "wof:population":7596,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.99933,
+    32.19304,
+    -114.99933,
+    32.19304
+],
+  "geometry": {"coordinates":[-114.99933,32.19304],"type":"Point"}
+}

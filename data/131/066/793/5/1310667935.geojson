@@ -1,0 +1,77 @@
+{
+  "id": 1310667935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.20417,29.97574,-110.20417,29.97574",
+    "geom:latitude":29.97574,
+    "geom:longitude":-110.20417,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"La Mora",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4001287,
+    "gn:latitude":29.97574,
+    "gn:longitude":-110.20417,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"La Mora",
+    "gn:population":186,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mora",
+        "Moro",
+        "La Mora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001287
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"84d72adb1014d5f15b1d0bfbe5dce44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074425,
+            "locality_id":1310667935,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1310667935,
+    "wof:lastmodified":1537667716,
+    "wof:name":"La Mora",
+    "wof:parent_id":102074425,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.20417,
+    29.97574,
+    -110.20417,
+    29.97574
+],
+  "geometry": {"coordinates":[-110.20417,29.97574],"type":"Point"}
+}

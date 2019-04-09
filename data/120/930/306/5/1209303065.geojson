@@ -1,0 +1,65 @@
+{
+  "id": 1209303065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.95483,25.53802,-106.95483,25.53802",
+    "geom:latitude":25.53802,
+    "geom:longitude":-106.95483,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"La Soledad",
+    "gn:country_code":"MX",
+    "gn:dem":2374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8894245,
+    "gn:latitude":25.53802,
+    "gn:longitude":-106.95483,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Soledad",
+    "gn:population":39,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8894245
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"47c2f7e2fff97bde9062761942f0da59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209303065
+        }
+    ],
+    "wof:id":1209303065,
+    "wof:lastmodified":1536291289,
+    "wof:name":"La Soledad",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.95483,
+    25.53802,
+    -106.95483,
+    25.53802
+],
+  "geometry": {"coordinates":[-106.95483,25.53802],"type":"Point"}
+}

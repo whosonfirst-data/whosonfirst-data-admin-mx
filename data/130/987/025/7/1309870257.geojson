@@ -1,0 +1,71 @@
+{
+  "id": 1309870257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.36639,17.64278,-98.36639,17.64278",
+    "geom:latitude":17.64278,
+    "geom:longitude":-98.36639,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"259",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"MX",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8894401,
+    "gn:latitude":17.64278,
+    "gn:longitude":-98.36639,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Santa Cruz",
+    "gn:population":39,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8894401
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"25d4830d2be60e67f0794009f95ce6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076831,
+            "locality_id":1309870257,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1309870257,
+    "wof:lastmodified":1536837289,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":102076831,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.36639,
+    17.64278,
+    -98.36639,
+    17.64278
+],
+  "geometry": {"coordinates":[-98.36639,17.64278],"type":"Point"}
+}

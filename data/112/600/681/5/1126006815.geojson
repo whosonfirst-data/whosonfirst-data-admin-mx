@@ -1,0 +1,78 @@
+{
+  "id": 1126006815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.4728,25.9716,-103.4728,25.9716",
+    "geom:latitude":25.9716,
+    "geom:longitude":-103.4728,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"MX",
+    "lbl:latitude":25.9716,
+    "lbl:longitude":-103.4728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6619438,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"NORIA ELL LUCERO II",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":643226,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6619438,
+        "qs_pg:id":643226
+    },
+    "wof:country":"MX",
+    "wof:created":1497300016,
+    "wof:geomhash":"d7b071670496e8a6137f20fd0dadcdb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075497,
+            "locality_id":1126006815,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1126006815,
+    "wof:lastmodified":1509406447,
+    "wof:name":"NORIA ELL LUCERO II",
+    "wof:parent_id":102075497,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.4728,
+    25.9716,
+    -103.4728,
+    25.9716
+],
+  "geometry": {"coordinates":[-103.47280000000001,25.9716],"type":"Point"}
+}

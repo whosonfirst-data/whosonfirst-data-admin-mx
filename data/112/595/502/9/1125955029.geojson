@@ -1,0 +1,91 @@
+{
+  "id": 1125955029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.03325,25.35317,-101.03325,25.35317",
+    "geom:latitude":25.35317,
+    "geom:longitude":-101.03325,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":25.35317,
+    "lbl:longitude":-101.03325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Buenavista"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4016669,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Buenavista",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Coahuila de Zaragoza",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":988303,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":113739,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Coahuila de Zaragoza",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4016669,
+        "gp:id":113739,
+        "qs_pg:id":988303
+    },
+    "wof:country":"MX",
+    "wof:created":1497297593,
+    "wof:geomhash":"515bd2e6e5ea7038e25b5b7d3970c081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078811,
+            "locality_id":1125955029,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1125955029,
+    "wof:lastmodified":1509402940,
+    "wof:name":"Buenavista",
+    "wof:parent_id":102078811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.03325,
+    25.35317,
+    -101.03325,
+    25.35317
+],
+  "geometry": {"coordinates":[-101.03325,25.35317],"type":"Point"}
+}

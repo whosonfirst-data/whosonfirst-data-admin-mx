@@ -1,0 +1,93 @@
+{
+  "id": 1126088211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.39933,18.73009,-99.39933,18.73009",
+    "geom:latitude":18.73009,
+    "geom:longitude":-99.39933,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5111,
+    "gn:population":5111,
+    "iso:country":"MX",
+    "lbl:latitude":18.73009,
+    "lbl:longitude":-99.39933,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tetecala"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3515767,
+    "qs_pg:gn_pop":5111,
+    "qs_pg:name":"Tetezcala",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":207774,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55901914,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993385,
+        102074281,
+        85686531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3515767,
+        "gp:id":55901914,
+        "qs_pg:id":207774
+    },
+    "wof:country":"MX",
+    "wof:created":1497313151,
+    "wof:geomhash":"5182870a6a442ba5a2fdedb7a57a2bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074281,
+            "locality_id":101993385,
+            "neighbourhood_id":1126088211,
+            "region_id":85686531
+        }
+    ],
+    "wof:id":1126088211,
+    "wof:lastmodified":1509411511,
+    "wof:name":"Tetezcala",
+    "wof:parent_id":101993385,
+    "wof:placetype":"neighbourhood",
+    "wof:population":5111,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.39933,
+    18.73009,
+    -99.39933,
+    18.73009
+],
+  "geometry": {"coordinates":[-99.39933000000001,18.73009],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1126070353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.68211,20.22521,-102.68211,20.22521",
+    "geom:latitude":20.22521,
+    "geom:longitude":-102.68211,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":20.22521,
+    "lbl:longitude":-102.68211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Maltara\u00f1a"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3996769,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Palmita",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244946,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55909944,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102074833,
+        85686603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3996769,
+        "gp:id":55909944,
+        "qs_pg:id":244946
+    },
+    "wof:country":"MX",
+    "wof:created":1497309838,
+    "wof:geomhash":"a8220e2602bc39b6ff8b1838dde429d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074833,
+            "locality_id":-1,
+            "neighbourhood_id":1126070353,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1126070353,
+    "wof:lastmodified":1509410641,
+    "wof:name":"La Palmita",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.68211,
+    20.22521,
+    -102.68211,
+    20.22521
+],
+  "geometry": {"coordinates":[-102.68210999999999,20.22521],"type":"Point"}
+}

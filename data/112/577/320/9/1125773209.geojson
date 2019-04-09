@@ -1,0 +1,78 @@
+{
+  "id": 1125773209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.48808,20.56401,-100.48808,20.56401",
+    "geom:latitude":20.56401,
+    "geom:longitude":-100.48808,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":200,
+    "gn:population":200,
+    "iso:country":"MX",
+    "lbl:latitude":20.56401,
+    "lbl:longitude":-100.48808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8199579,
+    "qs_pg:gn_pop":200,
+    "qs_pg:name":"Desarrollo Industrial Oriente, El Castillo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":759682,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199579,
+        "qs_pg:id":759682
+    },
+    "wof:country":"MX",
+    "wof:created":1497290145,
+    "wof:geomhash":"7e53f9d972bbac6aac1352aae74b9ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077293,
+            "locality_id":1125773209,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1125773209,
+    "wof:lastmodified":1509391111,
+    "wof:name":"Desarrollo Industrial Oriente, El Castillo",
+    "wof:parent_id":102077293,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.48808,
+    20.56401,
+    -100.48808,
+    20.56401
+],
+  "geometry": {"coordinates":[-100.48808,20.56401],"type":"Point"}
+}

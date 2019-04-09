@@ -1,0 +1,82 @@
+{
+  "id": 1125893849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.879425,32.091082,-116.879425,32.091082",
+    "geom:latitude":32.091082,
+    "geom:longitude":-116.879425,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":32.091082,
+    "lbl:longitude":-116.879425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Colonia Santa Anita",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":372,
+    "qs_pg:photos_1k":75,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":372,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":383310,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55900153,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55900153,
+        "qs_pg:id":383310
+    },
+    "wof:country":"MX",
+    "wof:created":1497295450,
+    "wof:geomhash":"34645766a25250571c67a00f47588888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1125893849,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1125893849,
+    "wof:lastmodified":1509398970,
+    "wof:name":"Colonia Santa Anita",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.879425,
+    32.091082,
+    -116.879425,
+    32.091082
+],
+  "geometry": {"coordinates":[-116.879425,32.091082],"type":"Point"}
+}

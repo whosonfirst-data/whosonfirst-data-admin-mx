@@ -1,0 +1,89 @@
+{
+  "id": 1125826565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.62491,21.16306,-104.62491,21.16306",
+    "geom:latitude":21.16306,
+    "geom:longitude":-104.62491,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":21.16306,
+    "lbl:longitude":-104.62491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Santa Isabel"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3984257,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Santa Isabel",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Nayarit",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":342438,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":146275,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Nayarit",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686591,
+        102074551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3984257,
+        "gp:id":146275,
+        "qs_pg:id":342438
+    },
+    "wof:country":"MX",
+    "wof:created":1497292302,
+    "wof:geomhash":"c874e8ead79208882ef7c49a1aac2d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074551,
+            "locality_id":1125826565,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":1125826565,
+    "wof:lastmodified":1509394430,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":102074551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.62491,
+    21.16306,
+    -104.62491,
+    21.16306
+],
+  "geometry": {"coordinates":[-104.62491,21.16306],"type":"Point"}
+}

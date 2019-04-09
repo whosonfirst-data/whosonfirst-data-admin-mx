@@ -1,0 +1,81 @@
+{
+  "id": 1125871171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.28425,25.6951,-103.28425,25.6951",
+    "geom:latitude":25.6951,
+    "geom:longitude":-103.28425,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8856,
+    "gn:population":8856,
+    "iso:country":"MX",
+    "lbl:latitude":25.6951,
+    "lbl:longitude":-103.28425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "El Coyte"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4010155,
+    "qs_pg:gn_pop":8856,
+    "qs_pg:name":"El Coyote",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":97066,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4010155,
+        "qs_pg:id":97066
+    },
+    "wof:country":"MX",
+    "wof:created":1497294308,
+    "wof:geomhash":"10e3232de545766a4ded105dbdc26bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078793,
+            "locality_id":1125871171,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1125871171,
+    "wof:lastmodified":1509397322,
+    "wof:name":"El Coyote",
+    "wof:parent_id":102078793,
+    "wof:placetype":"locality",
+    "wof:population":8856,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.28425,
+    25.6951,
+    -103.28425,
+    25.6951
+],
+  "geometry": {"coordinates":[-103.28425,25.6951],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126098715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.193832,18.232166,-97.193832,18.232166",
+    "geom:latitude":18.232166,
+    "geom:longitude":-97.193832,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":18.232166,
+    "lbl:longitude":-97.193832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Benito Juarez",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Puebla",
+    "qs_pg:photos":99,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":99,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1343108,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55906804,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Puebla",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102078269,
+        85686657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55906804,
+        "qs_pg:id":1343108
+    },
+    "wof:country":"MX",
+    "wof:created":1497315647,
+    "wof:geomhash":"a68f400a190a2f4bb4f7223c9f15fba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078269,
+            "locality_id":-1,
+            "neighbourhood_id":1126098715,
+            "region_id":85686657
+        }
+    ],
+    "wof:id":1126098715,
+    "wof:lastmodified":1509412009,
+    "wof:name":"Benito Juarez",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.193832,
+    18.232166,
+    -97.193832,
+    18.232166
+],
+  "geometry": {"coordinates":[-97.193832,18.232166],"type":"Point"}
+}

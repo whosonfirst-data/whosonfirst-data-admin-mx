@@ -1,0 +1,75 @@
+{
+  "id": 1276573217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.13639,27.42278,-105.13639,27.42278",
+    "geom:latitude":27.42278,
+    "geom:longitude":-105.13639,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"La Laguna de las Vacas (San Isidro)",
+    "gn:country_code":"MX",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3975216,
+    "gn:latitude":27.42278,
+    "gn:longitude":-105.13639,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"La Laguna de las Vacas (San Isidro)",
+    "gn:population":130,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Laguna de las Vacas",
+        "San Isidro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3975216
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5fb357d54d1e279ea400b41fb29615da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075289,
+            "locality_id":1276573217,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1276573217,
+    "wof:lastmodified":1537667040,
+    "wof:name":"La Laguna de las Vacas (San Isidro)",
+    "wof:parent_id":102075289,
+    "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.13639,
+    27.42278,
+    -105.13639,
+    27.42278
+],
+  "geometry": {"coordinates":[-105.13639000000001,27.42278],"type":"Point"}
+}

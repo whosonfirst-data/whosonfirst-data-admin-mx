@@ -1,0 +1,74 @@
+{
+  "id": 1226804237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.66414,24.7506,-107.66414,24.7506",
+    "geom:latitude":24.7506,
+    "geom:longitude":-107.66414,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Campo Mexico y Oriente",
+    "gn:country_code":"MX",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8885636,
+    "gn:latitude":24.7506,
+    "gn:longitude":-107.66414,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Campo M\u00e9xico y Oriente",
+    "gn:population":72,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campo M\u00e9xico y Oriente"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8885636
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"946477cd4d12d4af1bb79e8c517ccccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074309,
+            "locality_id":1226804237,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1226804237,
+    "wof:lastmodified":1537669906,
+    "wof:name":"Campo Mexico y Oriente",
+    "wof:parent_id":102074309,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.66414,
+    24.7506,
+    -107.66414,
+    24.7506
+],
+  "geometry": {"coordinates":[-107.66414,24.7506],"type":"Point"}
+}

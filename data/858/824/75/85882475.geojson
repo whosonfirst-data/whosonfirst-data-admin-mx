@@ -1,0 +1,89 @@
+{
+  "id": 85882475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.96814,32.50652,-116.96814,32.50652",
+    "geom:latitude":32.50652,
+    "geom:longitude":-116.96814,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":32.50652,
+    "lbl:longitude":-116.96814,
+    "mps:latitude":32.508778,
+    "mps:longitude":-116.967314,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Los Volcanes Fovissste"
+    ],
+    "name:spa_x_variant":[
+        "Voladores"
+    ],
+    "name:unk_x_variant":[
+        "Los Voladores"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85686541,
+        102191575,
+        85633293,
+        101993551,
+        102074501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814407,
+        "gp:id":55888602,
+        "qs:id":1092395,
+        "qs_pg:id":70511
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"52daea96501552745ba8a06f9e37b7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":101993551,
+            "neighbourhood_id":85882475,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":85882475,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957708,
+    "wof:name":"Los Volcanes Fovissste",
+    "wof:parent_id":101993551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.96814,
+    32.50652,
+    -116.96814,
+    32.50652
+],
+  "geometry": {"coordinates":[-116.96814000000001,32.50652],"type":"Point"}
+}

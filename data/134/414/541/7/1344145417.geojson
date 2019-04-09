@@ -1,0 +1,76 @@
+{
+  "id": 1344145417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.86694,24.70944,-105.86694,24.70944",
+    "geom:latitude":24.70944,
+    "geom:longitude":-105.86694,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"San Miguel de Pielagos",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3992603,
+    "gn:latitude":24.70944,
+    "gn:longitude":-105.86694,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Miguel de Pi\u00e9lagos",
+    "gn:population":193,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pielegas",
+        "Pi\u00e9lagos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3992603
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"4fc9d9ac38123d1126c8c20c2c0ba7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075179,
+            "locality_id":1344145417,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1344145417,
+    "wof:lastmodified":1537667483,
+    "wof:name":"San Miguel de Pielagos",
+    "wof:parent_id":102075179,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.86694,
+    24.70944,
+    -105.86694,
+    24.70944
+],
+  "geometry": {"coordinates":[-105.86694,24.70944],"type":"Point"}
+}

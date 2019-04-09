@@ -1,0 +1,87 @@
+{
+  "id": 1125979925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.11113,22.04125,-102.11113,22.04125",
+    "geom:latitude":22.04125,
+    "geom:longitude":-102.11113,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":22.04125,
+    "lbl:longitude":-102.11113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Dichosa"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4002604,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Dichosa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Aguascalientes",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1156119,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":127196,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Aguascalientes",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686637,
+        102077375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4002604,
+        "gp:id":127196,
+        "qs_pg:id":1156119
+    },
+    "wof:country":"MX",
+    "wof:created":1497298509,
+    "wof:geomhash":"e717995347d2166e89c1d94a3793cc9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077375,
+            "locality_id":1125979925,
+            "region_id":85686637
+        }
+    ],
+    "wof:id":1125979925,
+    "wof:lastmodified":1509404703,
+    "wof:name":"La Dichosa",
+    "wof:parent_id":102077375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.11113,
+    22.04125,
+    -102.11113,
+    22.04125
+],
+  "geometry": {"coordinates":[-102.11113,22.04125],"type":"Point"}
+}

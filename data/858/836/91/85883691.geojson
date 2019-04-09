@@ -1,0 +1,116 @@
+{
+  "id": 85883691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000259,
+    "geom:area_square_m":3018395.164424,
+    "geom:bbox":"-99.0798798694,19.4322363008,-99.0569189683,19.4510540298",
+    "geom:latitude":19.441444,
+    "geom:longitude":-99.06843,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.446445,
+    "lbl:longitude":-99.075184,
+    "mps:latitude":19.439301,
+    "mps:longitude":-99.067501,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "San Juan de Aragon 4ta Y 5ta Secc"
+    ],
+    "name:unk_x_variant":[
+        "San Juan de Aragon 4ta Y 5ta Secc"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"San Juan de Aragon 4ta Y 5ta Secc",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Gustavo A. Madero",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":35,
+    "qs:photo_sum":41,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599940,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991179,
+        890535781,
+        102073755,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55897822,
+        "qs:id":127630
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"944297649617516f142d621a64c0f3c4",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073755,
+            "locality_id":101991179,
+            "neighbourhood_id":85883691,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883691,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883691,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"San Juan de Aragon 4ta Y 5ta Secc",
+    "wof:parent_id":890535781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.07987986937769,
+    19.43223630077246,
+    -99.05691896833827,
+    19.45105402980009
+],
+  "geometry": {"coordinates":[[[-99.06921386718423,19.45105398845041],[-99.06921386718423,19.44587429820001],[-99.0637207030999,19.44587429820001],[-99.0637207030999,19.44587425687538],[-99.05883659795131,19.44587425687538],[-99.05691896833827,19.44485742290432],[-99.05972651065866,19.43592555911466],[-99.05973055660039,19.43593889679673],[-99.0609115828197,19.43496965362709],[-99.06264045082622,19.43404555442496],[-99.06287658630424,19.43397392351069],[-99.06288536077722,19.43397126180339],[-99.06328023482331,19.43323250442457],[-99.06326969896782,19.43321966644784],[-99.07161582565777,19.43223630077246],[-99.07470703122075,19.43551429777537],[-99.07470703121444,19.4355143391001],[-99.07470703121444,19.44069435997517],[-99.07470707019144,19.44069440130221],[-99.07650069160195,19.44259646607544],[-99.07816830238812,19.44284910230391],[-99.07987986937769,19.44587425687538],[-99.07987589836981,19.44589531353837],[-99.0774536110851,19.44846418001747],[-99.07533586351491,19.45071007198614],[-99.07495518315753,19.45079081631221],[-99.07470703121862,19.45105398845041],[-99.07470703120006,19.45105402980009],[-99.06921386720003,19.45105402980009],[-99.06921386718423,19.45105398845041]]],"type":"Polygon"}
+}

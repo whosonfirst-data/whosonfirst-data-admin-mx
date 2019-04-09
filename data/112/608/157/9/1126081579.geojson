@@ -1,0 +1,96 @@
+{
+  "id": 1126081579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.475,20.27286,-102.475,20.27286",
+    "geom:latitude":20.27286,
+    "geom:longitude":-102.475,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9581,
+    "gn:population":9581,
+    "iso:country":"MX",
+    "lbl:latitude":20.27286,
+    "lbl:longitude":-102.475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Vista Hermosa de Negrete"
+    ],
+    "name:unk_x_variant":[
+        "Vistahermosa de Negrete"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3980037,
+    "qs_pg:gn_pop":9581,
+    "qs_pg:name":"Vista Hermosa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Michoacan de Ocampo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":151231,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55920608,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Michoacan de Ocampo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101997543,
+        102075119,
+        85686595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3980037,
+        "gp:id":55920608,
+        "qs_pg:id":151231
+    },
+    "wof:country":"MX",
+    "wof:created":1497312005,
+    "wof:geomhash":"791a3052a02e64ac840de1b1a70c6a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075119,
+            "locality_id":101997543,
+            "neighbourhood_id":1126081579,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":1126081579,
+    "wof:lastmodified":1509411189,
+    "wof:name":"Vista Hermosa",
+    "wof:parent_id":101997543,
+    "wof:placetype":"neighbourhood",
+    "wof:population":9581,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.475,
+    20.27286,
+    -102.475,
+    20.27286
+],
+  "geometry": {"coordinates":[-102.47499999999999,20.27286],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 85883995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000241,
+    "geom:area_square_m":2810782.426198,
+    "geom:bbox":"-99.1085136898,19.2363292526,-99.0898132324,19.2541873752",
+    "geom:latitude":19.2448,
+    "geom:longitude":-99.098002,
+    "iso:country":"MX",
+    "lbl:latitude":19.252164,
+    "lbl:longitude":-99.092952,
+    "mps:latitude":19.243695,
+    "mps:longitude":-99.097823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Xaltocan"
+    ],
+    "name:spa_x_variant":[
+        "San Miguel Jaltocan"
+    ],
+    "name:unk_x_variant":[
+        "Jaltoc\u00e1n",
+        "Xaltocan"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Xaltocan",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Xaltocan",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Xochimilco",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":159,
+    "qs:photo_sum":196,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599949,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        857683023,
+        85633293,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3526592,
+        "gp:id":55899276,
+        "qs:id":70522,
+        "qs_pg:id":70522
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"44ab7e6e8191b94a56530b67bae8d73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":857683023,
+            "neighbourhood_id":85883995,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883995,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957717,
+    "wof:name":"Xaltocan",
+    "wof:parent_id":857683023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.10851368977706,
+    19.23632925255016,
+    -99.089813232425,
+    19.25418737517288
+],
+  "geometry": {"coordinates":[[[-99.09667968749983,19.25410831042097],[-99.09393310548325,19.25410830956682],[-99.09118652341232,19.25410831127515],[-99.09118652341445,19.25151533693563],[-99.089813232425,19.25006069896502],[-99.089813232425,19.24900134373082],[-99.08988783091522,19.24892232849993],[-99.09118652341445,19.24754674451987],[-99.09118652341382,19.24373617660009],[-99.09118652342494,19.23676276627278],[-99.09198220222973,19.23652139974601],[-99.09393310544993,19.23632925255016],[-99.09588400867017,19.23652139974601],[-99.09667968749983,19.23676276628041],[-99.09747536632977,19.23652139974601],[-99.09942626954989,19.23632925255016],[-99.10137717277001,19.23652139974601],[-99.10325310387373,19.23709045722501],[-99.10498197188016,19.23801455642715],[-99.1064973373617,19.23925818473823],[-99.10774096567297,19.24077355022004],[-99.10850524330925,19.24220341310743],[-99.10851368977706,19.24220597531566],[-99.10217285158325,19.24892228749353],[-99.10217285158529,19.24892232850002],[-99.10217285158529,19.2527327299542],[-99.10217285160005,19.25410831640002],[-99.10087419778924,19.25410831640019],[-99.10079956054983,19.25418737517288],[-99.10057564883755,19.25410831640002],[-99.09667968749983,19.25410831042097]]],"type":"Polygon"}
+}

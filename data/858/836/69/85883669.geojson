@@ -1,0 +1,123 @@
+{
+  "id": 85883669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":165903.209661,
+    "geom:bbox":"-99.1955566406,19.4329242395,-99.1900634766,19.4381043852",
+    "geom:latitude":19.435514,
+    "geom:longitude":-99.19281,
+    "iso:country":"MX",
+    "lbl:latitude":19.435561,
+    "lbl:longitude":-99.19286,
+    "mps:latitude":19.434219,
+    "mps:longitude":-99.191436,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Polanco Reforma"
+    ],
+    "name:spa_x_variant":[
+        "La Reforma"
+    ],
+    "name:unk_x_variant":[
+        "Polanco Reforma"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"29",
+    "qs:gn_name":"La Reforma",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Polanco Reforma",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Miguel Hidalgo",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":20,
+    "qs:photo_sum":35,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599944,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991171,
+        890535785,
+        102073749,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815082,
+        "gp:id":55897763,
+        "qs:id":1123206,
+        "qs_pg:id":1123206
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c5a3c3517a84ad5de211d72a5768aaf0",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073749,
+            "locality_id":101991171,
+            "neighbourhood_id":85883669,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535785,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883669,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883669,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"Polanco Reforma",
+    "wof:parent_id":890535785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.19555664061556,
+    19.43292423954721,
+    -99.19006347658606,
+    19.43810438515025
+],
+  "geometry": {"coordinates":[[[[-99.19281005859997,19.43551433393773],[-99.19006347658606,19.43551433336414],[-99.19006347659271,19.43361206803391],[-99.19006347660002,19.4329242460001],[-99.19071212003959,19.43292423997744],[-99.19281005859997,19.43292423954721],[-99.19281005859997,19.43551433393773]]],[[[-99.19281005859997,19.43551433393773],[-99.19555664061389,19.43551433336414],[-99.19555664061556,19.43810438443163],[-99.19281005859997,19.43810438515025],[-99.19281005859997,19.43551433393773]]]],"type":"MultiPolygon"}
+}

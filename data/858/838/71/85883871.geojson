@@ -1,0 +1,128 @@
+{
+  "id": 85883871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":1255432.338157,
+    "geom:bbox":"-99.1328046165,19.4717713021,-99.1167832627,19.4847182469",
+    "geom:latitude":19.478616,
+    "geom:longitude":-99.124428,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.481456,
+    "lbl:longitude":-99.125139,
+    "mps:latitude":19.479125,
+    "mps:longitude":-99.124549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:nld_x_preferred":[
+        "Industrial"
+    ],
+    "name:por_x_preferred":[
+        "Industrial"
+    ],
+    "name:spa_x_preferred":[
+        "Industrial"
+    ],
+    "name:tur_x_preferred":[
+        "End\u00fcstriyel"
+    ],
+    "name:unk_x_variant":[
+        "Industrial"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0646\u0639\u062a\u06cc"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Industrial",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Gustavo A. Madero",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":109,
+    "qs:photo_sum":192,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599940,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991167,
+        890535763,
+        102073745,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898640,
+        "qs:id":1341994
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"0197b5481618b8cb3f08a5e26f4375b3",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073745,
+            "locality_id":101991167,
+            "neighbourhood_id":85883871,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535763,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883871,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883871,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957716,
+    "wof:name":"Industrial",
+    "wof:parent_id":890535763,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1328046164723,
+    19.47177130210001,
+    -99.11678326269788,
+    19.48471824686402
+],
+  "geometry": {"coordinates":[[[-99.12414550779999,19.484718246147],[-99.12414550779999,19.48212893883141],[-99.12139892579984,19.48212893883141],[-99.12139892579984,19.47953959013142],[-99.1186523437853,19.47953959056264],[-99.11678326269788,19.47755702457489],[-99.11735536060755,19.47695020650097],[-99.1186523437853,19.47557451045722],[-99.11865234378325,19.47314695544875],[-99.11865234380005,19.47177130210001],[-99.12414550779999,19.47177130210001],[-99.12414550781651,19.47314695544875],[-99.12414550780773,19.47557451045296],[-99.12803645728206,19.47695020650018],[-99.12831117097892,19.47704733511866],[-99.12862134597563,19.47770533892211],[-99.1323852539,19.47970153909748],[-99.1328046164723,19.48014635956061],[-99.13093556644333,19.48212893883141],[-99.13012190075028,19.48471824227506],[-99.12963867189993,19.484718245255],[-99.12689208981382,19.48471824686402],[-99.12414550779999,19.484718246147]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226141411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.0325,17.26278,-93.0325,17.26278",
+    "geom:latitude":17.26278,
+    "geom:longitude":-93.0325,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"91.0",
+    "gn:asciiname":"San Francisco Jacona",
+    "gn:country_code":"MX",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8859271,
+    "gn:latitude":17.26278,
+    "gn:longitude":-93.0325,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Francisco Jacon\u00e1",
+    "gn:population":1323,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Francisco Jacon\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8859271
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3a2eb731560dc10516db3d4e5c43b17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075675,
+            "locality_id":1226141411,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1226141411,
+    "wof:lastmodified":1537669256,
+    "wof:name":"San Francisco Jacona",
+    "wof:parent_id":102075675,
+    "wof:placetype":"locality",
+    "wof:population":1323,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.0325,
+    17.26278,
+    -93.0325,
+    17.26278
+],
+  "geometry": {"coordinates":[-93.0325,17.26278],"type":"Point"}
+}

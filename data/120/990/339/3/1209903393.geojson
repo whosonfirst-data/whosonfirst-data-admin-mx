@@ -1,0 +1,68 @@
+{
+  "id": 1209903393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.75,21.2,-100.75,21.2",
+    "geom:latitude":21.2,
+    "geom:longitude":-100.75,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"La Barra",
+    "gn:country_code":"MX",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4003523,
+    "gn:latitude":21.2,
+    "gn:longitude":-100.75,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"La Barra",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686629,
+        102077357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4003523
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a9030d947418f8b8cfbae7d53fc05bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077357,
+            "locality_id":1209903393,
+            "region_id":85686629
+        }
+    ],
+    "wof:id":1209903393,
+    "wof:lastmodified":1536385409,
+    "wof:name":"La Barra",
+    "wof:parent_id":102077357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.75,
+    21.2,
+    -100.75,
+    21.2
+],
+  "geometry": {"coordinates":[-100.75,21.2],"type":"Point"}
+}

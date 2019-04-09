@@ -1,0 +1,65 @@
+{
+  "id": 1209216989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.95694,30.595,-115.95694,30.595",
+    "geom:latitude":30.595,
+    "geom:longitude":-115.95694,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Rancho Pasillas",
+    "gn:country_code":"MX",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8938524,
+    "gn:latitude":30.595,
+    "gn:longitude":-115.95694,
+    "gn:modification_date":"2016-04-08",
+    "gn:name":"Rancho Pasillas",
+    "gn:population":5,
+    "gn:timezone":"America/Tijuana",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8938524
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d61fb9c5546d6631cf5a0194894158e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209216989
+        }
+    ],
+    "wof:id":1209216989,
+    "wof:lastmodified":1536294098,
+    "wof:name":"Rancho Pasillas",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.95694,
+    30.595,
+    -115.95694,
+    30.595
+],
+  "geometry": {"coordinates":[-115.95694,30.595],"type":"Point"}
+}

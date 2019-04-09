@@ -1,0 +1,77 @@
+{
+  "id": 1242639337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.53005,26.53864,-100.53005,26.53864",
+    "geom:latitude":26.53864,
+    "geom:longitude":-100.53005,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Valle del Marques (Sierra Morena)",
+    "gn:country_code":"MX",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527939,
+    "gn:latitude":26.53864,
+    "gn:longitude":-100.53005,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Valle del Marqu\u00e9s (Sierra Morena)",
+    "gn:population":1,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Valle del Marqu\u00e9s"
+    ],
+    "name:und_x_variant":[
+        "Sierra Morena"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527939
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5b85c9b2cf25e4c256bf8e1093c020d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078725,
+            "locality_id":1242639337,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1242639337,
+    "wof:lastmodified":1537668495,
+    "wof:name":"Valle del Marques (Sierra Morena)",
+    "wof:parent_id":102078725,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.53005,
+    26.53864,
+    -100.53005,
+    26.53864
+],
+  "geometry": {"coordinates":[-100.53005,26.53864],"type":"Point"}
+}

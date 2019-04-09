@@ -1,0 +1,65 @@
+{
+  "id": 1209485111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.82922,18.90759,-99.82922,18.90759",
+    "geom:latitude":18.90759,
+    "geom:longitude":-99.82922,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"La Laguna",
+    "gn:country_code":"MX",
+    "gn:dem":2368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8876991,
+    "gn:latitude":18.90759,
+    "gn:longitude":-99.82922,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Laguna",
+    "gn:population":135,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8876991
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7b155365e3e19dc8714d2c192f8d5fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209485111
+        }
+    ],
+    "wof:id":1209485111,
+    "wof:lastmodified":1536285661,
+    "wof:name":"La Laguna",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.82922,
+    18.90759,
+    -99.82922,
+    18.90759
+],
+  "geometry": {"coordinates":[-99.82922000000001,18.90759],"type":"Point"}
+}

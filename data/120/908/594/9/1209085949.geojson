@@ -1,0 +1,66 @@
+{
+  "id": 1209085949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.23937,17.32419,-98.23937,17.32419",
+    "geom:latitude":17.32419,
+    "geom:longitude":-98.23937,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Miguel Peras",
+    "gn:country_code":"MX",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3518251,
+    "gn:latitude":17.32419,
+    "gn:longitude":-98.23937,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"San Miguel Peras",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peras",
+        "San Miguel",
+        "San Miguel Peras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3518251
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"101aa5d9a7a2b903dc75ae5b5817f286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209085949
+        }
+    ],
+    "wof:id":1209085949,
+    "wof:lastmodified":1537666005,
+    "wof:name":"San Miguel Peras",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.23937,
+    17.32419,
+    -98.23937,
+    17.32419
+],
+  "geometry": {"coordinates":[-98.23936999999999,17.32419],"type":"Point"}
+}

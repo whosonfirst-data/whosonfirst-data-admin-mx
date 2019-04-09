@@ -1,0 +1,119 @@
+{
+  "id": 101992379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":719811.659534,
+    "geom:bbox":"-97.2877802303,17.5177355319,-97.2756785736,17.5311293087",
+    "geom:latitude":17.525221,
+    "geom:longitude":-97.282059,
+    "iso:country":"MX",
+    "lbl:latitude":17.524877,
+    "lbl:longitude":-97.280454,
+    "mps:latitude":17.524877,
+    "mps:longitude":-97.280454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Santa Mar\u00eda Chachoapam"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda Chachoapam"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Mar\u00eda Chachoapam"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Mar\u00eda Chachoapam"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Mar\u00eda Chachoapam"
+    ],
+    "name:spa_x_colloquial":[
+        "Santa Maria Chachoapan",
+        "Sta Maria Chachoapan",
+        "Sta. Maria Chachoapan"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda Chachoapan"
+    ],
+    "name:spa_x_variant":[
+        "Chachoapan",
+        "Santa Maria Chachoapam",
+        "Sta Maria Chachoapam",
+        "Sta Mar\u00eda Chachoapan",
+        "Sta. Maria Chachoapam",
+        "Sta. Mar\u00eda Chachoapan",
+        "Santa Mar\u00eda Chacho\u00e1pam",
+        "Santa Mar\u00eda Chachoapam"
+    ],
+    "name:unk_x_variant":[
+        "Chachoapan"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Mar\u00eda Chachoapam"
+    ],
+    "qs:a0":"Mexico",
+    "qs:a1":"*Oaxaca",
+    "qs:a1_lc":"20",
+    "qs:a1r":"*",
+    "qs:a2":"Santa Mar\u00eda Chacho\u00e1pam",
+    "qs:a2_lc":"20404",
+    "qs:adm0":"Mexico",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Santa Mar\u00eda Chacho\u00e1pam",
+    "qs:pop":0,
+    "qs:source":"XMexico IGN",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01aeff76-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3517277,
+        "gp:id":146464,
+        "wd:id":"Q3889528",
+        "wk:page":"Santa Mar\u00eda Chachoapam"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"96632f13e055f02b573ecbf50bd70c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076703,
+            "locality_id":101992379,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":101992379,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1514489026,
+    "wof:name":"Santa Mar\u00eda Chacho\u00e1pam",
+    "wof:parent_id":102076703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.28778023028285,
+    17.51773553192044,
+    -97.27567857355308,
+    17.5311293086633
+],
+  "geometry": {"coordinates":[[[-97.27799464091733,17.52490240064784],[-97.27757643963066,17.52376081702022],[-97.27733895402531,17.52356840114405],[-97.27713010673816,17.52113080210008],[-97.27739303582517,17.52096662359077],[-97.27712913929062,17.52027983798965],[-97.27719435856832,17.51996453664255],[-97.276277335196,17.51961486323891],[-97.27576133413268,17.51837220290849],[-97.27572037195414,17.51805708185629],[-97.27567857355308,17.51773553192044],[-97.27572831146827,17.51777989753197],[-97.27598485290656,17.51800769273508],[-97.28213759427335,17.52347068899864],[-97.28366528409376,17.52352829318394],[-97.28372265334627,17.52280260565842],[-97.2837291125238,17.52273464791577],[-97.28440674984421,17.52266070507117],[-97.28499552107287,17.52290187651493],[-97.28544686972673,17.52269216355274],[-97.28602583652341,17.52310451948278],[-97.28669526917835,17.52328025796894],[-97.28676843853057,17.52419468682083],[-97.28676336972271,17.52442673919529],[-97.28673385611253,17.52607300077713],[-97.28710061890256,17.52656719092905],[-97.28778023028285,17.52748291460547],[-97.28776070197287,17.52786301266409],[-97.28707369783888,17.52829292832482],[-97.28664989134242,17.52843099390672],[-97.28621293839888,17.52969636656865],[-97.28616104152078,17.52984665239503],[-97.2837583273963,17.5311293086633],[-97.28332174959277,17.53074190655264],[-97.28343421497611,17.52801698322994],[-97.28345962632206,17.52759785107348],[-97.28191876588879,17.52756323569418],[-97.28194259144524,17.52702027735275],[-97.27734229794183,17.52766261463561],[-97.27721883301595,17.52617081434999],[-97.27797311166114,17.52552954211065],[-97.27797652915233,17.52542999184616],[-97.27799464091733,17.52490240064784]]],"type":"Polygon"}
+}

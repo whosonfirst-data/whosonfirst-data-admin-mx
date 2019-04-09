@@ -1,0 +1,75 @@
+{
+  "id": 1242968383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.15279,27.41685,-105.15279,27.41685",
+    "geom:latitude":27.41685,
+    "geom:longitude":-105.15279,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Las Jaras",
+    "gn:country_code":"MX",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3989832,
+    "gn:latitude":27.41685,
+    "gn:longitude":-105.15279,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Las Jaras",
+    "gn:population":5,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Las Jaras",
+        "Las Jaras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3989832
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1acedade7ef782ca510642df77257106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075289,
+            "locality_id":1242968383,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1242968383,
+    "wof:lastmodified":1537667413,
+    "wof:name":"Las Jaras",
+    "wof:parent_id":102075289,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.15279,
+    27.41685,
+    -105.15279,
+    27.41685
+],
+  "geometry": {"coordinates":[-105.15279,27.41685],"type":"Point"}
+}

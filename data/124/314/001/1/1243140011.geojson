@@ -1,0 +1,76 @@
+{
+  "id": 1243140011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.82276,21.64582,-98.82276,21.64582",
+    "geom:latitude":21.64582,
+    "geom:longitude":-98.82276,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Cuayojox",
+    "gn:country_code":"MX",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3529967,
+    "gn:latitude":21.64582,
+    "gn:longitude":-98.82276,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Cuayojox",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cuayojox"
+    ],
+    "name:und_x_variant":[
+        "Ojox",
+        "Guayaxoch",
+        "Cuayo-Ojex"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686647,
+        102077197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3529967
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"8ee9fe31f601c4d1f7b894f3ecf624e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077197,
+            "locality_id":1243140011,
+            "region_id":85686647
+        }
+    ],
+    "wof:id":1243140011,
+    "wof:lastmodified":1537666365,
+    "wof:name":"Cuayojox",
+    "wof:parent_id":102077197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.82276,
+    21.64582,
+    -98.82276,
+    21.64582
+],
+  "geometry": {"coordinates":[-98.82276,21.64582],"type":"Point"}
+}

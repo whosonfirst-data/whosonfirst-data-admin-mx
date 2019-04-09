@@ -1,0 +1,75 @@
+{
+  "id": 1243123105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.44199,24.51588,-99.44199,24.51588",
+    "geom:latitude":24.51588,
+    "geom:longitude":-99.44199,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Rancheria Juarez",
+    "gn:country_code":"MX",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3520842,
+    "gn:latitude":24.51588,
+    "gn:longitude":-99.44199,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Rancher\u00eda Ju\u00e1rez",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rancher\u00eda Ju\u00e1rez"
+    ],
+    "name:und_x_variant":[
+        "Rancher\u00edas Ju\u00e1rez",
+        "Ju\u00e1rez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3520842
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"e509d6cf48c98026f4f2ec009c21855d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078931,
+            "locality_id":1243123105,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1243123105,
+    "wof:lastmodified":1537666082,
+    "wof:name":"Rancheria Juarez",
+    "wof:parent_id":102078931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.44199,
+    24.51588,
+    -99.44199,
+    24.51588
+],
+  "geometry": {"coordinates":[-99.44199,24.51588],"type":"Point"}
+}

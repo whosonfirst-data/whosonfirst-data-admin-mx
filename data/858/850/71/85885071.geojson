@@ -1,0 +1,119 @@
+{
+  "id": 85885071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1349760.97844,
+    "geom:bbox":"-99.1708374023,19.3759317497,-99.1571044922,19.3890582908",
+    "geom:latitude":19.382543,
+    "geom:longitude":-99.163222,
+    "iso:country":"MX",
+    "lbl:latitude":19.381296,
+    "lbl:longitude":-99.162092,
+    "mps:latitude":19.382409,
+    "mps:longitude":-99.163353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Benito Juarez"
+    ],
+    "name:unk_x_variant":[
+        "Benito Juarez"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Benito Ju\u00e1rez",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Benito Juarez",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Benito Juarez",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":149,
+    "qs:photo_sum":392,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599936,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535769,
+        102073737,
+        85686515,
+        101991153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6957079,
+        "gp:id":55913694,
+        "qs:id":901155,
+        "qs_pg:id":901155
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1527cf0113c09c9ea4d8d608b4599b77",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85885071,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535769,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":101991153,
+            "neighbourhood_id":85885071,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85885071,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1497308197,
+    "wof:name":"Benito Juarez",
+    "wof:parent_id":890535769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.17083740231388,
+    19.37593174967789,
+    -99.1571044922,
+    19.38905829076016
+],
+  "geometry": {"coordinates":[[[-99.16503068067809,19.38905829076016],[-99.16454410233007,19.38888634720006],[-99.16259765619992,19.38888634720006],[-99.16194885058812,19.38888634119181],[-99.15985107419996,19.38888634076264],[-99.15985107419996,19.38629550484696],[-99.15710449220001,19.38629550484696],[-99.15710449220001,19.3837046283919],[-99.15710449220001,19.38180152500067],[-99.15710449220001,19.38111371580004],[-99.15847778319994,19.38111371580004],[-99.15847778319994,19.37981823950652],[-99.15985107419996,19.37981823926786],[-99.15985107419996,19.37852275620003],[-99.15985107419996,19.37783493760567],[-99.15985107419996,19.37593174967789],[-99.16259765621388,19.37593174967789],[-99.16534423828605,19.37593174967789],[-99.16534423828429,19.37852274976277],[-99.16809082029997,19.37852274976277],[-99.16809082029997,19.38111370934699],[-99.17083740231388,19.38111371006401],[-99.17083740231388,19.3837046283919],[-99.16809082029997,19.38370462767843],[-99.16809082029997,19.38629550484696],[-99.16534423828429,19.38629550484696],[-99.16534423828534,19.38888634119181],[-99.16521987540091,19.38901817680285],[-99.16503068067809,19.38905829076016]]],"type":"Polygon"}
+}

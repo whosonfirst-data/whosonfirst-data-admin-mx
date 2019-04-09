@@ -1,0 +1,73 @@
+{
+  "id": 1243273243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.7,22.01667,-102.7,22.01667",
+    "geom:latitude":22.01667,
+    "geom:longitude":-102.7,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Cienega de Gallardo",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4013891,
+    "gn:latitude":22.01667,
+    "gn:longitude":-102.7,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Ci\u00e9nega de Gallardo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cie\u00f1ega Gallardo",
+        "Ci\u00e9nega de Gallardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686637,
+        102077377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4013891
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9ed9d04b581706f343257ac740aba86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077377,
+            "locality_id":1243273243,
+            "region_id":85686637
+        }
+    ],
+    "wof:id":1243273243,
+    "wof:lastmodified":1537668081,
+    "wof:name":"Cienega de Gallardo",
+    "wof:parent_id":102077377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.7,
+    22.01667,
+    -102.7,
+    22.01667
+],
+  "geometry": {"coordinates":[-102.7,22.01667],"type":"Point"}
+}

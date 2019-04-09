@@ -1,0 +1,98 @@
+{
+  "id": 1126012475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.69256,31.89329,-116.69256,31.89329",
+    "geom:latitude":31.89329,
+    "geom:longitude":-116.69256,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9085,
+    "gn:population":9085,
+    "iso:country":"MX",
+    "lbl:latitude":31.89329,
+    "lbl:longitude":-116.69256,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Sauzal de Rodr\u00edguez"
+    ],
+    "name:unk_x_variant":[
+        "El Suazal"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4007503,
+    "qs_pg:gn_pop":9085,
+    "qs_pg:name":"El Sauzal",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":556,
+    "qs_pg:photos_1k":113,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":556,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":975350,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":122491,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686541,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4007503,
+        "gp:id":122491,
+        "qs_pg:id":975350
+    },
+    "wof:country":"MX",
+    "wof:created":1497300354,
+    "wof:geomhash":"16cde186ac2c3da751ab97a7f57ac293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":1126012475,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126012475,
+    "wof:lastmodified":1509406757,
+    "wof:name":"El Sauzal",
+    "wof:parent_id":102074509,
+    "wof:placetype":"locality",
+    "wof:population":9085,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.69256,
+    31.89329,
+    -116.69256,
+    31.89329
+],
+  "geometry": {"coordinates":[-116.69256,31.89329],"type":"Point"}
+}

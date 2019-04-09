@@ -1,0 +1,75 @@
+{
+  "id": 1277151447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.68919,23.86015,-99.68919,23.86015",
+    "geom:latitude":23.86015,
+    "geom:longitude":-99.68919,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Santa Martha de Arriba",
+    "gn:country_code":"MX",
+    "gn:dem":2579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3517166,
+    "gn:latitude":23.86015,
+    "gn:longitude":-99.68919,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Santa Martha de Arriba",
+    "gn:population":7,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Mar\u00eda",
+        "Santa Marta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686681,
+        102078761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3517166
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a0c53a61710f3970fc2c976a627359be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078761,
+            "locality_id":1277151447,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":1277151447,
+    "wof:lastmodified":1537665972,
+    "wof:name":"Santa Martha de Arriba",
+    "wof:parent_id":102078761,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.68919,
+    23.86015,
+    -99.68919,
+    23.86015
+],
+  "geometry": {"coordinates":[-99.68919,23.86015],"type":"Point"}
+}

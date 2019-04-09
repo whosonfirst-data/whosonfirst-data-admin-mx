@@ -1,0 +1,89 @@
+{
+  "id": 1125898859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.33935,18.57066,-95.33935,18.57066",
+    "geom:latitude":18.57066,
+    "geom:longitude":-95.33935,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":18.57066,
+    "lbl:longitude":-95.33935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Tecolapan"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3516164,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tecolapan",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1120247,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":148470,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686671,
+        102077417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3516164,
+        "gp:id":148470,
+        "qs_pg:id":1120247
+    },
+    "wof:country":"MX",
+    "wof:created":1497295718,
+    "wof:geomhash":"761098a5ec3968c911bd527e84c311ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077417,
+            "locality_id":1125898859,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1125898859,
+    "wof:lastmodified":1509399282,
+    "wof:name":"Tecolapan",
+    "wof:parent_id":102077417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.33935,
+    18.57066,
+    -95.33935,
+    18.57066
+],
+  "geometry": {"coordinates":[-95.33935,18.57066],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125950873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.47012,28.19013,-105.47012,28.19013",
+    "geom:latitude":28.19013,
+    "geom:longitude":-105.47012,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":102969,
+    "gn:population":102969,
+    "iso:country":"MX",
+    "lbl:latitude":28.19013,
+    "lbl:longitude":-105.47012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043b\u0438\u0441\u044c\u044f\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Las Delicias"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4013720,
+    "qs_pg:gn_pop":102969,
+    "qs_pg:name":"Ciudad Delicias",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chihuahua",
+    "qs_pg:photos":95,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":325,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":1049932,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":118131,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chihuahua",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4013720,
+        "gp:id":118131,
+        "qs_pg:id":1049932
+    },
+    "wof:country":"MX",
+    "wof:created":1497297450,
+    "wof:geomhash":"49848c9cb5ad9815bce864d2f355ab55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075275,
+            "locality_id":1125950873,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1125950873,
+    "wof:lastmodified":1509402678,
+    "wof:name":"Ciudad Delicias",
+    "wof:parent_id":102075275,
+    "wof:placetype":"locality",
+    "wof:population":102969,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.47012,
+    28.19013,
+    -105.47012,
+    28.19013
+],
+  "geometry": {"coordinates":[-105.47011999999999,28.19013],"type":"Point"}
+}

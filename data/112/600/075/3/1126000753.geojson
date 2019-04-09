@@ -1,0 +1,98 @@
+{
+  "id": 1126000753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.35133,19.90529,-98.35133,19.90529",
+    "geom:latitude":19.90529,
+    "geom:longitude":-98.35133,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":599,
+    "iso:country":"MX",
+    "lbl:latitude":19.90529,
+    "lbl:longitude":-98.35133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Tecocomulco de Ju\u00e1rez"
+    ],
+    "name:unk_x_variant":[
+        "Huipanguillo Tecocomulco"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3516169,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tecocomulco",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Hidalgo",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":510350,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":148466,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Hidalgo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686665,
+        102078491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3516169,
+        "gp:id":148466,
+        "qs_pg:id":510350
+    },
+    "wof:country":"MX",
+    "wof:created":1497299632,
+    "wof:geomhash":"f922bcff153a2e4ac1c3785e431f991e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078491,
+            "locality_id":1126000753,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1126000753,
+    "wof:lastmodified":1509406123,
+    "wof:name":"Tecocomulco",
+    "wof:parent_id":102078491,
+    "wof:placetype":"locality",
+    "wof:population":599,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.35133,
+    19.90529,
+    -98.35133,
+    19.90529
+],
+  "geometry": {"coordinates":[-98.35133,19.90529],"type":"Point"}
+}

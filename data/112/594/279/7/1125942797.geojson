@@ -1,0 +1,81 @@
+{
+  "id": 1125942797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.46622,20.54638,-103.46622,20.54638",
+    "geom:latitude":20.54638,
+    "geom:longitude":-103.46622,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15107,
+    "gn:population":15107,
+    "iso:country":"MX",
+    "lbl:latitude":20.54638,
+    "lbl:longitude":-103.46622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "San Agust\u00edn"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3988025,
+    "qs_pg:gn_pop":15107,
+    "qs_pg:name":"Nicol\u00e1s R Casillas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1047534,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3988025,
+        "qs_pg:id":1047534
+    },
+    "wof:country":"MX",
+    "wof:created":1497297174,
+    "wof:geomhash":"a8fd79ace5e880aa1fa808794c88e5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074775,
+            "locality_id":1125942797,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1125942797,
+    "wof:lastmodified":1509402175,
+    "wof:name":"Nicol\u00e1s R Casillas",
+    "wof:parent_id":102074775,
+    "wof:placetype":"locality",
+    "wof:population":15107,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.46622,
+    20.54638,
+    -103.46622,
+    20.54638
+],
+  "geometry": {"coordinates":[-103.46622000000001,20.54638],"type":"Point"}
+}

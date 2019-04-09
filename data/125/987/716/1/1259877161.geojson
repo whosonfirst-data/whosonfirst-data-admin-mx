@@ -1,0 +1,75 @@
+{
+  "id": 1259877161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.56116,28.37704,-106.56116,28.37704",
+    "geom:latitude":28.37704,
+    "geom:longitude":-106.56116,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Rancho Viejo",
+    "gn:country_code":"MX",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3988976,
+    "gn:latitude":28.37704,
+    "gn:longitude":-106.56116,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Rancho Viejo",
+    "gn:population":26,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viejo",
+        "Rancho Viejo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3988976
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c44835a88016cb0295b586f9d510e446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075329,
+            "locality_id":1259877161,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1259877161,
+    "wof:lastmodified":1537667388,
+    "wof:name":"Rancho Viejo",
+    "wof:parent_id":102075329,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.56116000000002,
+    28.37704,
+    -106.56116000000002,
+    28.37704
+],
+  "geometry": {"coordinates":[-106.56116000000002,28.37704],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 85883775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000308,
+    "geom:area_square_m":3588658.588312,
+    "geom:bbox":"-99.2137963867,19.3759316524,-99.1928100586,19.3968190635",
+    "geom:latitude":19.386337,
+    "geom:longitude":-99.20328,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.389849,
+    "lbl:longitude":-99.19958,
+    "mps:latitude":19.38634,
+    "mps:longitude":-99.203479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:fra_x_preferred":[
+        "Statue du Christ-Roi"
+    ],
+    "name:hbs_x_preferred":[
+        "Cristo Rey"
+    ],
+    "name:spa_x_preferred":[
+        "Cristo Rey"
+    ],
+    "name:unk_x_variant":[
+        "Cristo Rey"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Cristo Rey",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Alvaro Obregon",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":415,
+    "qs:photo_sum":453,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599934,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        857683023,
+        890535751,
+        102073737,
+        85686515,
+        101991115,
+        102073741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898196,
+        "qs:id":1341899
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c51c826fea4899aee470281b68f0b2c5",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883775,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535751,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073741,
+            "locality_id":101991115,
+            "neighbourhood_id":85883775,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883775,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527270506,
+    "wof:name":"Cristo Rey",
+    "wof:parent_id":890535751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.21379638674983,
+    19.37593165235015,
+    -99.19281005859997,
+    19.39681906350185
+],
+  "geometry": {"coordinates":[[[-99.19595672444689,19.38931044389933],[-99.19555667951184,19.38888634720006],[-99.19555664059993,19.38888634720006],[-99.19555664059993,19.3888863059487],[-99.1953079046522,19.38862261533491],[-99.19492956054069,19.38854239723022],[-99.19281005859997,19.38629550527719],[-99.19281005859997,19.38370462896273],[-99.19403209710015,19.38240915435026],[-99.19555664059993,19.38240915435026],[-99.19555664059993,19.37852275620003],[-99.19685431183734,19.37852275620003],[-99.19766906247418,19.37593165235015],[-99.20104980469998,19.37593165235015],[-99.20593811416467,19.37852255010036],[-99.21001222015607,19.37852255010036],[-99.21086745456176,19.37922442283806],[-99.21211108287304,19.38073978831996],[-99.21303518207509,19.38246865632631],[-99.213604239554,19.38434458743001],[-99.21379638674983,19.38629549065014],[-99.21375199305623,19.38674622738642],[-99.21173331671494,19.38888630597543],[-99.20857598946606,19.39558082738768],[-99.20654296877495,19.39665850450021],[-99.19990366467522,19.39665850450021],[-99.19944932547563,19.39681906350185],[-99.19685422374442,19.39406785415049],[-99.19595672444689,19.38931044389933]]],"type":"Polygon"}
+}

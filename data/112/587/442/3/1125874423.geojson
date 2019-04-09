@@ -1,0 +1,81 @@
+{
+  "id": 1125874423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.16433,19.2603,-98.16433,19.2603",
+    "geom:latitude":19.2603,
+    "geom:longitude":-98.16433,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9832,
+    "gn:population":9832,
+    "iso:country":"MX",
+    "lbl:latitude":19.2603,
+    "lbl:longitude":-98.16433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "San Francisco Tetlanohca"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3815359,
+    "qs_pg:gn_pop":9832,
+    "qs_pg:name":"Tetlanohc\u00e1n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":150350,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686653,
+        102077871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3815359,
+        "qs_pg:id":150350
+    },
+    "wof:country":"MX",
+    "wof:created":1497294468,
+    "wof:geomhash":"22895e39c05923921d5e16f1e63d147f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077871,
+            "locality_id":1125874423,
+            "region_id":85686653
+        }
+    ],
+    "wof:id":1125874423,
+    "wof:lastmodified":1509397605,
+    "wof:name":"Tetlanohc\u00e1n",
+    "wof:parent_id":102077871,
+    "wof:placetype":"locality",
+    "wof:population":9832,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.16433,
+    19.2603,
+    -98.16433,
+    19.2603
+],
+  "geometry": {"coordinates":[-98.16433000000001,19.2603],"type":"Point"}
+}

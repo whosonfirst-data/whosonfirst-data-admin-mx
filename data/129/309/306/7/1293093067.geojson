@@ -1,0 +1,77 @@
+{
+  "id": 1293093067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.44817,28.40828,-105.44817,28.40828",
+    "geom:latitude":28.40828,
+    "geom:longitude":-105.44817,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"La Regina",
+    "gn:country_code":"MX",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4000472,
+    "gn:latitude":28.40828,
+    "gn:longitude":-105.44817,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"La Regina",
+    "gn:population":739,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Regina"
+    ],
+    "name:und_x_variant":[
+        "Regina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4000472
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a6af463370acf2349f51680418741aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075295,
+            "locality_id":1293093067,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293093067,
+    "wof:lastmodified":1537667687,
+    "wof:name":"La Regina",
+    "wof:parent_id":102075295,
+    "wof:placetype":"locality",
+    "wof:population":739,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.44817,
+    28.40828,
+    -105.44817,
+    28.40828
+],
+  "geometry": {"coordinates":[-105.44817,28.40828],"type":"Point"}
+}

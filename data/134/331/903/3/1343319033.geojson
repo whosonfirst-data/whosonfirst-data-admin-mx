@@ -1,0 +1,77 @@
+{
+  "id": 1343319033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-108.22576,25.34904,-108.22576,25.34904",
+    "geom:latitude":25.34904,
+    "geom:longitude":-108.22576,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Tobery",
+    "gn:country_code":"MX",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3981450,
+    "gn:latitude":25.34904,
+    "gn:longitude":-108.22576,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Tobery",
+    "gn:population":107,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tobery"
+    ],
+    "name:und_x_variant":[
+        "Toberi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3981450
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1aab6101bc61785d6414119b608eae11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074341,
+            "locality_id":1343319033,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1343319033,
+    "wof:lastmodified":1537667207,
+    "wof:name":"Tobery",
+    "wof:parent_id":102074341,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.22576,
+    25.34904,
+    -108.22576,
+    25.34904
+],
+  "geometry": {"coordinates":[-108.22575999999999,25.34904],"type":"Point"}
+}

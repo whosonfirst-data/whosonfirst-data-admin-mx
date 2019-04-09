@@ -1,0 +1,71 @@
+{
+  "id": 1243232311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.06923,19.62514,-88.06923,19.62514",
+    "geom:latitude":19.62514,
+    "geom:longitude":-88.06923,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"San Antonio Nuevo",
+    "gn:country_code":"MX",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3823021,
+    "gn:latitude":19.62514,
+    "gn:longitude":-88.06923,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Antonio Nuevo",
+    "gn:population":71,
+    "gn:timezone":"America/Cancun",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686711,
+        102079245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3823021
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"04f8eebaf540e93d60b91a6c98902dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079245,
+            "locality_id":1243232311,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":1243232311,
+    "wof:lastmodified":1536615000,
+    "wof:name":"San Antonio Nuevo",
+    "wof:parent_id":102079245,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.06923,
+    19.62514,
+    -88.06923,
+    19.62514
+],
+  "geometry": {"coordinates":[-88.06923,19.62514],"type":"Point"}
+}

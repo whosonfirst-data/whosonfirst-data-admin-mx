@@ -1,0 +1,75 @@
+{
+  "id": 1310173125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.92533,23.41265,-105.92533,23.41265",
+    "geom:latitude":23.41265,
+    "geom:longitude":-105.92533,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"La Canita",
+    "gn:country_code":"MX",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4003164,
+    "gn:latitude":23.41265,
+    "gn:longitude":-105.92533,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"La Ca\u00f1ita",
+    "gn:population":5,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1ito",
+        "La Ca\u00f1ita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4003164
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"c7713c67c6fac64627c4231d062e5d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074333,
+            "locality_id":1310173125,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1310173125,
+    "wof:lastmodified":1537667778,
+    "wof:name":"La Canita",
+    "wof:parent_id":102074333,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.92533,
+    23.41265,
+    -105.92533,
+    23.41265
+],
+  "geometry": {"coordinates":[-105.92533,23.41265],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 85883783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000162,
+    "geom:area_square_m":1891160.504856,
+    "geom:bbox":"-99.1268920898,19.4122020044,-99.1131591797,19.4303341116",
+    "geom:latitude":19.420443,
+    "geom:longitude":-99.120122,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.422729,
+    "lbl:longitude":-99.123022,
+    "mps:latitude":19.420247,
+    "mps:longitude":-99.119305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Merced Balbuena"
+    ],
+    "name:unk_x_variant":[
+        "Merced Balbuena"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Merced Balbuena",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Venustiano Carranza",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":70,
+    "qs:photo_sum":244,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599948,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991179,
+        890535781,
+        102073755,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55898227,
+        "qs:id":1091879
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"cb064aef0a51b936c69f42c429bc10b5",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073755,
+            "locality_id":101991179,
+            "neighbourhood_id":85883783,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883783,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883783,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957716,
+    "wof:name":"Merced Balbuena",
+    "wof:parent_id":890535781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.12689208981797,
+    19.41220200437523,
+    -99.11315917969992,
+    19.43033411160006
+],
+  "geometry": {"coordinates":[[[-99.12689208979995,19.43033411160006],[-99.12624343988085,19.43033410471678],[-99.12414550779999,19.43033410514701],[-99.12414550779999,19.42843175665317],[-99.12349684325471,19.42774392989175],[-99.12139892579984,19.42774392946258],[-99.12139892579984,19.42515371900002],[-99.11865234380005,19.42515371900002],[-99.11445649420622,19.42515371900002],[-99.11315917969992,19.42515371900002],[-99.11315917969992,19.41997316110002],[-99.11315917969992,19.41479243442063],[-99.11445658131754,19.41479243207735],[-99.11445661104833,19.41479239682519],[-99.11735491245156,19.41479239682519],[-99.11816929679276,19.41220200437523],[-99.11865234380005,19.41220200876754],[-99.12139892579984,19.41220200953768],[-99.12262049744606,19.41349720575019],[-99.12585009077981,19.41349720575019],[-99.12544290671255,19.41479243810009],[-99.12462856778302,19.41738280990009],[-99.12511855360151,19.41894140572981],[-99.12414550625394,19.41997315447945],[-99.12414550779999,19.42256345328077],[-99.1268920898155,19.42256345424711],[-99.12689208981655,19.42446588886806],[-99.12689208981655,19.42515371900002],[-99.12689208981655,19.42644883088344],[-99.12689208981027,19.42774393590001],[-99.12689208981797,19.42843175666231],[-99.12689208981453,19.42964628021817],[-99.12689208979995,19.43033411160006]]],"type":"Polygon"}
+}

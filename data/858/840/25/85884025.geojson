@@ -1,0 +1,116 @@
+{
+  "id": 85884025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":2139963.716006,
+    "geom:bbox":"-99.2071787497,19.2738379249,-99.1900634766,19.2904056395",
+    "geom:latitude":19.282448,
+    "geom:longitude":-99.197637,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.28547,
+    "lbl:longitude":-99.194517,
+    "mps:latitude":19.282807,
+    "mps:longitude":-99.196091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Ampl Miguel Hidalgo 1ra Secc"
+    ],
+    "name:unk_x_variant":[
+        "Ampl Miguel Hidalgo 1ra Secc"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Ampl Miguel Hidalgo 1ra Secc",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Tlalpan",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":53,
+    "qs:photo_sum":78,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599947,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991157,
+        890535779,
+        102073729,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899443,
+        "qs:id":1342096
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"f6d44af621718f4d6200468b78030dff",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535779,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073729,
+            "locality_id":101991157,
+            "neighbourhood_id":85884025,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535779,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85884025,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85884025,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957717,
+    "wof:name":"Ampl Miguel Hidalgo 1ra Secc",
+    "wof:parent_id":890535779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.2071787497321,
+    19.27383792485509,
+    -99.19006347657913,
+    19.29040563950008
+],
+  "geometry": {"coordinates":[[[-99.19046297811161,19.2856440107654],[-99.19006351532369,19.28522079999799],[-99.19006347660002,19.28522080000003],[-99.19006347658535,19.28522075895003],[-99.19006347659166,19.28003579630004],[-99.19006347657913,19.28003575525021],[-99.1925106969183,19.27744313030037],[-99.195556640625,19.27744313030037],[-99.20236277100668,19.27383792485509],[-99.20616998962527,19.2765267925745],[-99.20661791877291,19.27707259581986],[-99.20714749002917,19.27806335395503],[-99.20717874973209,19.27805387142783],[-99.20654296877495,19.27940102742454],[-99.20104980469998,19.28522075895003],[-99.20104980469998,19.28522080000003],[-99.20104980469998,19.29040559845016],[-99.20104980469998,19.29040563950008],[-99.19555664059993,19.29040563950008],[-99.19555664059993,19.29040559361812],[-99.19522377402245,19.29040559332529],[-99.19281005859997,19.29040558820031],[-99.19125838869923,19.2898575987394],[-99.19046297811161,19.2856440107654]]],"type":"Polygon"}
+}

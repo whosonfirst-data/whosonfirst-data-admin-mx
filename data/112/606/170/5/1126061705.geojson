@@ -1,0 +1,89 @@
+{
+  "id": 1126061705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.80947,19.51228,-98.80947,19.51228",
+    "geom:latitude":19.51228,
+    "geom:longitude":-98.80947,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MX",
+    "lbl:latitude":19.51228,
+    "lbl:longitude":-98.80947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Miguel Tlaixpan"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3817702,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Miguel Hueyotlipan",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Puebla",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905282,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55885268,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Puebla",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991751,
+        102074023,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817702,
+        "gp:id":55885268,
+        "qs_pg:id":905282
+    },
+    "wof:country":"MX",
+    "wof:created":1497308252,
+    "wof:geomhash":"22facb71d431e491d62ea363fa2fd13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074023,
+            "locality_id":101991751,
+            "neighbourhood_id":1126061705,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126061705,
+    "wof:lastmodified":1509410232,
+    "wof:name":"San Miguel Hueyotlipan",
+    "wof:parent_id":101991751,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.80947,
+    19.51228,
+    -98.80947,
+    19.51228
+],
+  "geometry": {"coordinates":[-98.80947,19.51228],"type":"Point"}
+}

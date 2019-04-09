@@ -1,0 +1,74 @@
+{
+  "id": 1210022497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.84663,17.88859,-90.84663,17.88859",
+    "geom:latitude":17.88859,
+    "geom:longitude":-90.84663,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Miguel Hidalgo y Costilla",
+    "gn:country_code":"MX",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3523211,
+    "gn:latitude":17.88859,
+    "gn:longitude":-90.84663,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Miguel Hidalgo y Costilla",
+    "gn:population":0,
+    "gn:timezone":"America/Merida",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Miguel Hidalgo y Costilla"
+    ],
+    "name:und_x_variant":[
+        "Miguel Hidalgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686707,
+        102079221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3523211
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"6b0e56b02975da3dcf82cecd00608aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079221,
+            "locality_id":1210022497,
+            "region_id":85686707
+        }
+    ],
+    "wof:id":1210022497,
+    "wof:lastmodified":1537666140,
+    "wof:name":"Miguel Hidalgo y Costilla",
+    "wof:parent_id":102079221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.84663,
+    17.88859,
+    -90.84663,
+    17.88859
+],
+  "geometry": {"coordinates":[-90.84663,17.88859],"type":"Point"}
+}

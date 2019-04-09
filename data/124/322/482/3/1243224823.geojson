@@ -1,0 +1,74 @@
+{
+  "id": 1243224823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.40099,24.56058,-99.40099,24.56058",
+    "geom:latitude":24.56058,
+    "geom:longitude":-99.40099,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Los Angeles",
+    "gn:country_code":"MX",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3520624,
+    "gn:latitude":24.56058,
+    "gn:longitude":-99.40099,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Los \u00c1ngeles",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los \u00c1ngeles"
+    ],
+    "name:und_x_variant":[
+        "Rancho Los Angeles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686695,
+        102078931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3520624
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"15ab053c4551caf6a3dc2c21cb0eb610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078931,
+            "locality_id":1243224823,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":1243224823,
+    "wof:lastmodified":1537666074,
+    "wof:name":"Los Angeles",
+    "wof:parent_id":102078931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.40099,
+    24.56058,
+    -99.40099,
+    24.56058
+],
+  "geometry": {"coordinates":[-99.40098999999999,24.56058],"type":"Point"}
+}

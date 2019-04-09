@@ -1,0 +1,128 @@
+{
+  "id": 1126088461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.91238,22.89088,-109.91238,22.89088",
+    "geom:latitude":22.89088,
+    "geom:longitude":-109.91238,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":42601,
+    "gn:population":42601,
+    "iso:country":"MX",
+    "lbl:latitude":22.89088,
+    "lbl:longitude":-109.91238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0628\u0648 \u0633\u0627\u0646 \u0644\u0648\u0643\u0627\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0431\u043e \u0421\u0430\u043d \u041b\u0443\u043a\u0430\u0441"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0628\u0648 \u0633\u0646 \u0644\u0648\u06a9\u0627\u0633"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30eb\u30fc\u30ab\u30b9\u5cac"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ubcf4\uc0b0\ub8e8\uce74\uc2a4"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0431\u043e-\u0421\u0430\u043d-\u041b\u0443\u043a\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u043e-\u0421\u0430\u043d-\u041b\u0443\u043a\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Cabo San Lucas Centro"
+    ],
+    "name:unk_x_variant":[
+        "Cabo San Lucas",
+        "Cabo San Lucas Centro"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3985710,
+    "qs_pg:gn_pop":42601,
+    "qs_pg:name":"Cabo San Lucas Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California Sur",
+    "qs_pg:photos":9093,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":40,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":9093,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":848593,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55910435,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California Sur",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85686555,
+        102191575,
+        85633293,
+        101994035,
+        102074525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3985710,
+        "gp:id":55910435,
+        "loc:id":"n84073229",
+        "qs:id":848593,
+        "qs_pg:id":848593,
+        "wd:id":"Q1020776",
+        "wk:page":"Cabo San Lucas"
+    },
+    "wof:country":"MX",
+    "wof:created":1497313190,
+    "wof:geomhash":"7be301c8a3099ef4864dd8ae09e6020c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074525,
+            "locality_id":101994035,
+            "neighbourhood_id":1126088461,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1126088461,
+    "wof:lastmodified":1534379382,
+    "wof:name":"Cabo San Lucas Centro",
+    "wof:parent_id":101994035,
+    "wof:placetype":"neighbourhood",
+    "wof:population":42601,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85884967
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.91238,
+    22.89088,
+    -109.91238,
+    22.89088
+],
+  "geometry": {"coordinates":[-109.91238,22.89088],"type":"Point"}
+}

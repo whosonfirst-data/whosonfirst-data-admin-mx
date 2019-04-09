@@ -1,0 +1,74 @@
+{
+  "id": 1259999825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.30562,25.75334,-102.30562,25.75334",
+    "geom:latitude":25.75334,
+    "geom:longitude":-102.30562,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"La Guadiana",
+    "gn:country_code":"MX",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8777306,
+    "gn:latitude":25.75334,
+    "gn:longitude":-102.30562,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"La Guadiana",
+    "gn:population":4,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Guadiana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686689,
+        102078791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8777306
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"9eecc1dbb093716c3c3c0b6234404d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078791,
+            "locality_id":1259999825,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1259999825,
+    "wof:lastmodified":1537669175,
+    "wof:name":"La Guadiana",
+    "wof:parent_id":102078791,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.30562,
+    25.75334,
+    -102.30562,
+    25.75334
+],
+  "geometry": {"coordinates":[-102.30562,25.75334],"type":"Point"}
+}

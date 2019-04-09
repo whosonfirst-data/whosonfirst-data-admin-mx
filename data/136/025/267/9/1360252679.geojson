@@ -1,0 +1,77 @@
+{
+  "id": 1360252679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.59095,24.89631,-107.59095,24.89631",
+    "geom:latitude":24.89631,
+    "geom:longitude":-107.59095,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Las Cacaraguas",
+    "gn:cc2":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4000170,
+    "gn:latitude":24.89631,
+    "gn:longitude":-107.59095,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Las Cacaraguas",
+    "gn:population":4,
+    "gn:timezone":"America/Mazatlan",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacaraguas",
+        "C\u00e1cara",
+        "Las Cacaraguas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686535,
+        102074307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4000170
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"646122b1425bc49a62285fa58f922e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074307,
+            "locality_id":1360252679,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1360252679,
+    "wof:lastmodified":1537667677,
+    "wof:name":"Las Cacaraguas",
+    "wof:parent_id":102074307,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.59095,
+    24.89631,
+    -107.59095,
+    24.89631
+],
+  "geometry": {"coordinates":[-107.59095000000001,24.89631],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243285421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.45104,28.17658,-106.45104,28.17658",
+    "geom:latitude":28.17658,
+    "geom:longitude":-106.45104,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"San Cayetano (Morales)",
+    "gn:country_code":"MX",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3974676,
+    "gn:latitude":28.17658,
+    "gn:longitude":-106.45104,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Cayetano (Morales)",
+    "gn:population":80,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Cayetano",
+        "Morales"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3974676
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"5206dfb3c038094fbb6d2c5cbd6743ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075323,
+            "locality_id":1243285421,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1243285421,
+    "wof:lastmodified":1537667022,
+    "wof:name":"San Cayetano (Morales)",
+    "wof:parent_id":102075323,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.45104,
+    28.17658,
+    -106.45104,
+    28.17658
+],
+  "geometry": {"coordinates":[-106.45104000000001,28.17658],"type":"Point"}
+}

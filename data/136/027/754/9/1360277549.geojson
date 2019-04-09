@@ -1,0 +1,75 @@
+{
+  "id": 1360277549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.6381,28.81128,-107.6381,28.81128",
+    "geom:latitude":28.81128,
+    "geom:longitude":-107.6381,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Las Manzanas",
+    "gn:country_code":"MX",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3999649,
+    "gn:latitude":28.81128,
+    "gn:longitude":-107.6381,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Las Manzanas",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Rafa\u00e9l de las Manzanas"
+    ],
+    "name:und_x_variant":[
+        "Manzanas",
+        "Las Manzanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3999649
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"754e828b07d7c58b56c4eda2dfc964a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075251,
+            "locality_id":1360277549,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1360277549,
+    "wof:lastmodified":1537667659,
+    "wof:name":"Las Manzanas",
+    "wof:parent_id":102075251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.6381,
+    28.81128,
+    -107.6381,
+    28.81128
+],
+  "geometry": {"coordinates":[-107.63809999999999,28.81128],"type":"Point"}
+}

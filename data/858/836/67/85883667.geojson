@@ -1,0 +1,116 @@
+{
+  "id": 85883667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":922152.520321,
+    "geom:bbox":"-99.1309361616,19.4030548368,-99.1213989258,19.4134972058",
+    "geom:latitude":19.407998,
+    "geom:longitude":-99.125582,
+    "gn:id":"",
+    "iso:country":"MX",
+    "lbl:latitude":19.406719,
+    "lbl:longitude":-99.124274,
+    "mps:latitude":19.407985,
+    "mps:longitude":-99.125583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:spa_x_preferred":[
+        "Jamaica"
+    ],
+    "name:unk_x_variant":[
+        "Jamaica"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530597,
+    "qs:gn_nam_loc":"Ciudad de M\u00e9xico, Distrito Federal, MX",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":38792,
+    "qs:local_sum":191675,
+    "qs:localhoods":227,
+    "qs:name":"Jamaica",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Distrito Federal",
+    "qs:name_adm2":"Venustiano Carranza",
+    "qs:name_local":"Ciudad de M\u00e9xico",
+    "qs:photo_max":210,
+    "qs:photo_sum":453,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346272,
+    "qs:woe_adm2":12599948,
+    "qs:woe_lau":0,
+    "qs:woe_local":116545,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991179,
+        890535781,
+        102073755,
+        85686515,
+        857683023,
+        102073737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55897755,
+        "qs:id":1155293
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"d516edacf139c3d74a1c698208b650d6",
+    "wof:hierarchy":[
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073755,
+            "locality_id":101991179,
+            "neighbourhood_id":85883667,
+            "region_id":85686515
+        },
+        {
+            "borough_id":890535781,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073737,
+            "locality_id":857683023,
+            "neighbourhood_id":85883667,
+            "region_id":85686515
+        }
+    ],
+    "wof:id":85883667,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536957715,
+    "wof:name":"Jamaica",
+    "wof:parent_id":890535781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.13093616158824,
+    19.40305483684719,
+    -99.12139892579984,
+    19.41349720575019
+],
+  "geometry": {"coordinates":[[[-99.12139892579984,19.40443049680007],[-99.12139892579984,19.40402549311348],[-99.12414550780815,19.40305483684719],[-99.12689208982482,19.40402549312236],[-99.12963867187489,19.40305483685162],[-99.13093616158824,19.40443045555023],[-99.13012170588047,19.40702103370026],[-99.13061177604635,19.40857979848045],[-99.12963867051758,19.40961154696932],[-99.12689208983744,19.41252362440122],[-99.12689208984978,19.41283431315408],[-99.12585009077981,19.41349720575019],[-99.12262049744606,19.41349720575019],[-99.12139892579984,19.41220200953768],[-99.12139892579984,19.40961154311694],[-99.12139892579984,19.40702103713352],[-99.12139892579984,19.40443049680007]]],"type":"Polygon"}
+}

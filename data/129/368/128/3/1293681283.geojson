@@ -1,0 +1,75 @@
+{
+  "id": 1293681283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.94603,27.03533,-105.94603,27.03533",
+    "geom:latitude":27.03533,
+    "geom:longitude":-105.94603,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"San Antonio de los Loya",
+    "gn:country_code":"MX",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987690,
+    "gn:latitude":27.03533,
+    "gn:longitude":-105.94603,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"San Antonio de los Loya",
+    "gn:population":4,
+    "gn:timezone":"America/Chihuahua",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio",
+        "San Antonio de Ar\u00e9valo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686581,
+        102075285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3987690
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"1760bbcae3e2c9e06c2e16138edb3cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075285,
+            "locality_id":1293681283,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1293681283,
+    "wof:lastmodified":1537667361,
+    "wof:name":"San Antonio de los Loya",
+    "wof:parent_id":102075285,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.94603,
+    27.03533,
+    -105.94603,
+    27.03533
+],
+  "geometry": {"coordinates":[-105.94602999999999,27.03533],"type":"Point"}
+}

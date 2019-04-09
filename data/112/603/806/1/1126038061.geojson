@@ -1,0 +1,81 @@
+{
+  "id": 1126038061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.61667,16.36667,-94.61667,16.36667",
+    "geom:latitude":16.36667,
+    "geom:longitude":-94.61667,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8796,
+    "gn:population":8796,
+    "iso:country":"MX",
+    "lbl:latitude":16.36667,
+    "lbl:longitude":-94.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Amilpas"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3524965,
+    "qs_pg:gn_pop":8796,
+    "qs_pg:name":"Las Amilpas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":95848,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686623,
+        102076373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3524965,
+        "qs_pg:id":95848
+    },
+    "wof:country":"MX",
+    "wof:created":1497301927,
+    "wof:geomhash":"01d8bfcab8c5f1dc6902e007fa3cbd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076373,
+            "locality_id":1126038061,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1126038061,
+    "wof:lastmodified":1509408339,
+    "wof:name":"Las Amilpas",
+    "wof:parent_id":102076373,
+    "wof:placetype":"locality",
+    "wof:population":8796,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.61667,
+    16.36667,
+    -94.61667,
+    16.36667
+],
+  "geometry": {"coordinates":[-94.61667,16.36667],"type":"Point"}
+}

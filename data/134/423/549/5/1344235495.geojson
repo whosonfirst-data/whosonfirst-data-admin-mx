@@ -1,0 +1,74 @@
+{
+  "id": 1344235495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.4298,25.7211,-104.4298,25.7211",
+    "geom:latitude":25.7211,
+    "geom:longitude":-104.4298,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"San Francisco (Los Huerfanos)",
+    "gn:country_code":"MX",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8922438,
+    "gn:latitude":25.7211,
+    "gn:longitude":-104.4298,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Francisco (Los Hu\u00e9rfanos)",
+    "gn:population":9,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Francisco (Los Hu\u00e9rfanos)"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8922438
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"3b5b5c8803994fce2197d4546eba8639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075203,
+            "locality_id":1344235495,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1344235495,
+    "wof:lastmodified":1537670820,
+    "wof:name":"San Francisco (Los Huerfanos)",
+    "wof:parent_id":102075203,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.4298,
+    25.7211,
+    -104.4298,
+    25.7211
+],
+  "geometry": {"coordinates":[-104.4298,25.7211],"type":"Point"}
+}

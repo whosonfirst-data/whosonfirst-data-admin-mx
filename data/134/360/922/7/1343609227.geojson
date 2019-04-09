@@ -1,0 +1,79 @@
+{
+  "id": 1343609227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.82118,31.26827,-109.82118,31.26827",
+    "geom:latitude":31.26827,
+    "geom:longitude":-109.82118,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Las Moritas",
+    "gn:country_code":"MX",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4001272,
+    "gn:latitude":31.26827,
+    "gn:longitude":-109.82118,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Las Moritas",
+    "gn:population":8,
+    "gn:timezone":"America/Hermosillo",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Moritas"
+    ],
+    "name:und_x_variant":[
+        "Hacienda La Morita",
+        "Aduana",
+        "La Morita"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686549,
+        102074379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001272
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"258c7cbc64c059d2f800963b0c3249da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074379,
+            "locality_id":1343609227,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":1343609227,
+    "wof:lastmodified":1537667715,
+    "wof:name":"Las Moritas",
+    "wof:parent_id":102074379,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.82118,
+    31.26827,
+    -109.82118,
+    31.26827
+],
+  "geometry": {"coordinates":[-109.82118,31.26827],"type":"Point"}
+}

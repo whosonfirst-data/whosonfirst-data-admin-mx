@@ -1,0 +1,86 @@
+{
+  "id": 1125879913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.890354,20.863784,-86.890354,20.863784",
+    "geom:latitude":20.863784,
+    "geom:longitude":-86.890354,
+    "gn:gn_country":null,
+    "iso:country":"MX",
+    "lbl:latitude":20.863784,
+    "lbl:longitude":-86.890354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Joaqu\u00edn Zetina Gasca"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Joaquin Zetina Gasca",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Quintana Roo",
+    "qs_pg:photos":883,
+    "qs_pg:photos_1k":179,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":883,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":474914,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55894046,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Quintana Roo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686711,
+        102079237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55894046,
+        "qs_pg:id":474914,
+        "wd:id":"Q6206565"
+    },
+    "wof:country":"MX",
+    "wof:created":1497294747,
+    "wof:geomhash":"63764f59c9c700a2eaf015e9b7788d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079237,
+            "locality_id":1125879913,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":1125879913,
+    "wof:lastmodified":1514487304,
+    "wof:name":"Joaquin Zetina Gasca",
+    "wof:parent_id":102079237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.890354,
+    20.863784,
+    -86.890354,
+    20.863784
+],
+  "geometry": {"coordinates":[-86.890354,20.863784],"type":"Point"}
+}

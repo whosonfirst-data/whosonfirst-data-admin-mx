@@ -1,0 +1,65 @@
+{
+  "id": 1209055337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.50306,21.78694,-103.50306,21.78694",
+    "geom:latitude":21.78694,
+    "geom:longitude":-103.50306,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"3",
+    "gn:asciiname":"Los Cerritos",
+    "gn:country_code":"MX",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8912960,
+    "gn:latitude":21.78694,
+    "gn:longitude":-103.50306,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Los Cerritos",
+    "gn:population":14,
+    "gn:timezone":"America/Mexico_City",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8912960
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"69a00958e82db88149e45f715168453f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "locality_id":1209055337
+        }
+    ],
+    "wof:id":1209055337,
+    "wof:lastmodified":1536299128,
+    "wof:name":"Los Cerritos",
+    "wof:parent_id":85633293,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.50306,
+    21.78694,
+    -103.50306,
+    21.78694
+],
+  "geometry": {"coordinates":[-103.50306,21.78694],"type":"Point"}
+}

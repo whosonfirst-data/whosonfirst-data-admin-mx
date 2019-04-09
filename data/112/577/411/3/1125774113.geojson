@@ -1,0 +1,100 @@
+{
+  "id": 1125774113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.86131,20.38317,-103.86131,20.38317",
+    "geom:latitude":20.38317,
+    "geom:longitude":-103.86131,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7500,
+    "gn:population":7500,
+    "iso:country":"MX",
+    "lbl:latitude":20.38317,
+    "lbl:longitude":-103.86131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "El Crucero de Santa Mar\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "El Crucero de Santa Mar\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "El Crucero de Santa Mar\u00eda"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4012559,
+    "qs_pg:gn_pop":7500,
+    "qs_pg:name":"El Crucero de Santa Maria",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":840567,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55894040,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686603,
+        102074691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4012559,
+        "gp:id":55894040,
+        "qs_pg:id":840567,
+        "wd:id":"Q5351082"
+    },
+    "wof:country":"MX",
+    "wof:created":1497290182,
+    "wof:geomhash":"5d5d08b7cad8e9052ae3bd035e01a898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074691,
+            "locality_id":1125774113,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1125774113,
+    "wof:lastmodified":1514486546,
+    "wof:name":"El Crucero de Santa Maria",
+    "wof:parent_id":102074691,
+    "wof:placetype":"locality",
+    "wof:population":7500,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.86131,
+    20.38317,
+    -103.86131,
+    20.38317
+],
+  "geometry": {"coordinates":[-103.86131,20.38317],"type":"Point"}
+}

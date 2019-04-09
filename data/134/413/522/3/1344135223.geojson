@@ -1,0 +1,77 @@
+{
+  "id": 1344135223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.16428,25.00519,-104.16428,25.00519",
+    "geom:latitude":25.00519,
+    "geom:longitude":-104.16428,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"San Jose del Pajarito",
+    "gn:country_code":"MX",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3978612,
+    "gn:latitude":25.00519,
+    "gn:longitude":-104.16428,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Jos\u00e9 del Pajarito",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Pajarito"
+    ],
+    "name:spa_x_variant":[
+        "San Jos\u00e9 del Pajarito"
+    ],
+    "name:und_x_variant":[
+        "Pajarito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686573,
+        102075173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3978612
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"7bb9652a29f0cb1a155c3e4d67d6c134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075173,
+            "locality_id":1344135223,
+            "region_id":85686573
+        }
+    ],
+    "wof:id":1344135223,
+    "wof:lastmodified":1537667144,
+    "wof:name":"San Jose del Pajarito",
+    "wof:parent_id":102075173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.16428,
+    25.00519,
+    -104.16428,
+    25.00519
+],
+  "geometry": {"coordinates":[-104.16428000000001,25.00519],"type":"Point"}
+}

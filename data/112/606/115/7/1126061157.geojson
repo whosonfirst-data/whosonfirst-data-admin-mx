@@ -1,0 +1,93 @@
+{
+  "id": 1126061157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.16968,20.1346,-98.16968,20.1346",
+    "geom:latitude":20.1346,
+    "geom:longitude":-98.16968,
+    "gn:gn_country":"MX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4512,
+    "gn:population":4512,
+    "iso:country":"MX",
+    "lbl:latitude":20.1346,
+    "lbl:longitude":-98.16968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tetepa"
+    ],
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:gn_country":"MX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3515876,
+    "qs_pg:gn_pop":4512,
+    "qs_pg:name":"Tepexapa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tlaxcala",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":73001,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55889951,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tlaxcala",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102000621,
+        102078473,
+        85686665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3515876,
+        "gp:id":55889951,
+        "qs_pg:id":73001
+    },
+    "wof:country":"MX",
+    "wof:created":1497308155,
+    "wof:geomhash":"e17f18fc8dd2035277f27820ec9b411c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078473,
+            "locality_id":102000621,
+            "neighbourhood_id":1126061157,
+            "region_id":85686665
+        }
+    ],
+    "wof:id":1126061157,
+    "wof:lastmodified":1509410200,
+    "wof:name":"Tepexapa",
+    "wof:parent_id":102000621,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4512,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.16968,
+    20.1346,
+    -98.16968,
+    20.1346
+],
+  "geometry": {"coordinates":[-98.16968,20.1346],"type":"Point"}
+}
