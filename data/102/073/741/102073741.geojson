@@ -10,6 +10,12 @@
     "geom:latitude":19.336176,
     "geom:longitude":-99.24682,
     "iso:country":"MX",
+    "label:eng_x_preferred_longname":[
+        "\u00c3lvaro Obreg\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":19.365192,
     "lbl:longitude":-99.221358,
     "mps:latitude":19.365192,
@@ -17,7 +23,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Alvaro Obreg\u00f3n"
+        "\u00c3lvaro Obreg\u00f3n"
+    ],
+    "name:eng_x_variant":[
+        "\u00c3lvaro Obreg\u00c3\u00b3n",
+        "\u00c3lvaro Obreg\u00f3n"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"Distrito Federal",
@@ -65,8 +75,8 @@
         }
     ],
     "wof:id":102073741,
-    "wof:lastmodified":1536614137,
-    "wof:name":"\u00c3lvaro Obreg\u00c3\u00b3n",
+    "wof:lastmodified":1555092029,
+    "wof:name":"Alvaro Obregon",
     "wof:parent_id":85686515,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",
