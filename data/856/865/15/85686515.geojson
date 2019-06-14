@@ -2,6 +2,9 @@
   "id": 85686515,
   "type": "Feature",
   "properties": {
+    "abrv:eng_x_preferred":[
+        "CMX"
+    ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128447,
@@ -33,6 +36,9 @@
     "name:eng_x_preferred":[
         "Ciudad de M\u00e9xico"
     ],
+    "name:eng_x_variant":[
+        "The Federal District"
+    ],
     "name:spa_x_colloquial":[
         "El DF",
         "DF"
@@ -45,9 +51,6 @@
         "Mexico D.F.",
         "Distrito Federal",
         "DF"
-    ],
-    "name:unk_x_variant":[
-        "The Federal District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MEX",
@@ -142,7 +145,7 @@
         "gn:id":3527646,
         "gp:id":2346272,
         "hasc:id":"MX.DF",
-        "iso:id":"MX-DIF",
+        "iso:id":"MX-CMX",
         "unlc:id":"MX-DIF"
     },
     "wof:coterminous":[
@@ -164,7 +167,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560448799,
+    "wof:lastmodified":1560537551,
     "wof:name":"Ciudad de M\u00e9xico",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
@@ -173,8 +176,8 @@
     "wof:population":8851080,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:shortcode":"DF",
-    "wof:subdivision":"MX-DIF",
+    "wof:shortcode":"CMX",
+    "wof:subdivision":"MX-CMX",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
