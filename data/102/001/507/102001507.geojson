@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001906,
-    "geom:area_square_m":22080844.508863,
+    "geom:area_square_m":22080844.508934,
     "geom:bbox":"-86.976214383,20.466595138,-86.9135535358,20.555447277",
     "geom:latitude":20.501732,
     "geom:longitude":-86.939856,
@@ -26,17 +26,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u09ae\u09bf\u0997\u09c1\u09af\u09bc\u09c7\u09b2 \u09a6\u09cd\u09af \u0995\u099c\u09c1\u09ae\u09c7\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u7c73\u683c\u5c14\u5fb7\u79d1\u82cf\u6885\u5c14"
-    ],
     "name:dan_x_preferred":[
         "San Miguel de Cozumel"
     ],
     "name:deu_x_preferred":[
         "San Miguel de Cozumel"
     ],
-    "name:dut_x_preferred":[
-        "San Miguel de Cozumel"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039c\u03b9\u03b3\u03ba\u03ad\u03bb \u03bd\u03c4\u03b5 \u039a\u03bf\u03b6\u03bf\u03c5\u03bc\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "San Miguel de Cozumel"
@@ -46,12 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "San Miguel de Cozumel"
-    ],
-    "name:fre_x_preferred":[
-        "San Miguel de Cozumel"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u039c\u03b9\u03b3\u03ba\u03ad\u03bb \u03bd\u03c4\u03b5 \u039a\u03bf\u03b6\u03bf\u03c5\u03bc\u03ad\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0aae\u0abf\u0a97\u0ac7\u0ab2 \u0aa1\u0ac7 \u0a95\u0acb\u0a9d\u0ac1\u0aae\u0ab2"
@@ -86,11 +77,14 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u092e\u093f\u0917\u0947\u0932 \u0921\u0947 \u0915\u094b\u091d\u0941\u092e\u0947\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Miguel de Cozumel"
     ],
     "name:nah_x_preferred":[
         "San Miguel Cozumel"
+    ],
+    "name:nld_x_preferred":[
+        "San Miguel de Cozumel"
     ],
     "name:nob_x_preferred":[
         "San Miguel de Cozumel"
@@ -147,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "San Miguel de Cozumel"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u7c73\u683c\u5c14\u5fb7\u79d1\u82cf\u6885\u5c14"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -290,7 +287,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1553815708,
+    "wof:lastmodified":1561750214,
     "wof:name":"Cozumel",
     "wof:parent_id":102079247,
     "wof:placetype":"locality",

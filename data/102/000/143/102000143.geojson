@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001942,
-    "geom:area_square_m":22551130.046995,
+    "geom:area_square_m":22551130.046935,
     "geom:bbox":"-98.3936280128,20.0535969052,-98.3320626024,20.1308788023",
     "geom:latitude":20.086662,
     "geom:longitude":-98.363598,
@@ -19,19 +19,10 @@
     "mps:longitude":-98.365695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u0582\u056c\u0561\u0576\u057d\u056b\u0576\u0563\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Tulancingo de Bravo"
-    ],
     "name:cat_x_preferred":[
         "Tulancingo de Bravo"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u862d\u8f9b\u6208"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tulancingo"
     ],
     "name:eng_x_preferred":[
@@ -40,14 +31,20 @@
     "name:epo_x_preferred":[
         "Tulancingo de Bravo"
     ],
-    "name:fre_x_preferred":[
-        "Tulancingo"
+    "name:eus_x_preferred":[
+        "Tulancingo de Bravo"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u0627\u0646\u0633\u06cc\u0646\u06af\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Tulancingo"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05dc\u05e0\u05e1\u05d9\u05e0\u05d2\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u056c\u0561\u0576\u057d\u056b\u0576\u0563\u0578"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30e9\u30f3\u30b7\u30f3\u30b4"
@@ -55,8 +52,8 @@
     "name:nah_x_preferred":[
         "T\u014dll\u0101ntzinco"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0644\u0627\u0646\u0633\u06cc\u0646\u06af\u0648"
+    "name:nld_x_preferred":[
+        "Tulancingo"
     ],
     "name:pol_x_preferred":[
         "Tulancingo"
@@ -88,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Tulancingo de Bravo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u862d\u8f9b\u6208"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
@@ -140,7 +140,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1553815703,
+    "wof:lastmodified":1561750206,
     "wof:name":"Tulancingo",
     "wof:parent_id":102078569,
     "wof:placetype":"locality",

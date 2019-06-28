@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005389,
-    "geom:area_square_m":63382876.325024,
+    "geom:area_square_m":63382876.325,
     "geom:bbox":"-93.0213377465,17.9378490068,-92.8849026292,18.0472137778",
     "geom:latitude":17.991334,
     "geom:longitude":-92.937151,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0647\u064a\u0631\u0645\u0648\u0633\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Villahermosa"
-    ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09be\u09b9\u09c7\u09b0\u09ae\u09c1\u09b8\u09be"
     ],
@@ -33,17 +30,14 @@
     "name:cat_x_preferred":[
         "Villahermosa"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u4e9a\u57c3\u5c14\u83ab\u8428"
-    ],
     "name:dan_x_preferred":[
         "Villahermosa"
     ],
     "name:deu_x_preferred":[
         "Villahermosa"
     ],
-    "name:dut_x_preferred":[
-        "Villahermosa"
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03b1\u03c7\u03b5\u03c1\u03bc\u03bf\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Villahermosa"
@@ -62,18 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Villahermosa"
-    ],
-    "name:fre_x_preferred":[
-        "Villahermosa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d8\u10d0\u10d4\u10e0\u10db\u10dd\u10e1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Villahermosa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bb\u03b1\u03c7\u03b5\u03c1\u03bc\u03bf\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab2\u0ac7\u0ab9\u0ab0\u0acd\u0aae\u0acb\u0ab8\u0abe"
@@ -120,9 +102,6 @@
     "name:mar_x_preferred":[
         "\u0935\u093f\u0932\u0947\u0939\u0947\u092e\u094b\u0938\u093e"
     ],
-    "name:may_x_preferred":[
-        "Villahermosa"
-    ],
     "name:mlg_x_preferred":[
         "Villahermosa"
     ],
@@ -143,9 +122,6 @@
     ],
     "name:nor_x_preferred":[
         "Villahermosa"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0644\u0627\u0647\u0631\u0645\u0633\u0627\u060c \u062a\u0627\u0628\u0627\u0633\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Villahermosa"
@@ -352,7 +328,7 @@
         }
     ],
     "wof:id":101994837,
-    "wof:lastmodified":1527714443,
+    "wof:lastmodified":1561750617,
     "wof:name":"Villahermosa",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",
