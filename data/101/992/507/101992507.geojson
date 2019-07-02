@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":2546335.571703,
+    "geom:area_square_m":2546335.571729,
     "geom:bbox":"-99.677525875,19.7768801957,-99.6601672893,19.807105237",
     "geom:latitude":19.79,
     "geom:longitude":-99.668478,
@@ -29,8 +29,11 @@
     "name:dan_x_preferred":[
         "Morelos Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Morelos Municipality"
+    "name:deu_x_preferred":[
+        "Municipio Morelos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03ad\u03bb\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Morelos Municipality"
@@ -41,17 +44,11 @@
     "name:fin_x_preferred":[
         "Morelosin kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Morelos"
-    ],
-    "name:ger_x_preferred":[
-        "Municipio Morelos"
     ],
     "name:glg_x_preferred":[
         "Morelos"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c1\u03ad\u03bb\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0ac7\u0ab2\u0acb\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -83,11 +80,14 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0930\u0947\u0932\u094b\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Morelos Municipality"
     ],
     "name:nah_x_preferred":[
         "Morelos"
+    ],
+    "name:nld_x_preferred":[
+        "Morelos Municipality"
     ],
     "name:nob_x_preferred":[
         "Morelos"
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":101992507,
-    "wof:lastmodified":1553815670,
+    "wof:lastmodified":1561750593,
     "wof:name":"San Bartolo Morelos",
     "wof:parent_id":102073965,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00536,
-    "geom:area_square_m":63048399.752385,
+    "geom:area_square_m":63048399.752386,
     "geom:bbox":"-102.24261652,17.9149078601,-102.132989283,18.0028518105",
     "geom:latitude":17.956138,
     "geom:longitude":-102.184888,
@@ -24,17 +24,17 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u099c\u09be\u09b0\u09c1 \u0995\u09be\u09b0\u09a1\u09c7\u09a8\u09be\u09b8"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u85a9\u7f85\u5361\u5fb7\u7d0d\u65af"
-    ],
     "name:dan_x_preferred":[
         "L\u00e1zaro C\u00e1rdenas"
     ],
     "name:deu_x_preferred":[
         "Ciudad L\u00e1zaro C\u00e1rdenas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "L\u00e1zaro C\u00e1rdenas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b6\u03b1\u03c1\u03bf \u039a\u03ac\u03c1\u03bd\u03c4\u03b5\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "L\u00e1zaro C\u00e1rdenas"
@@ -47,15 +47,6 @@
     ],
     "name:fra_x_preferred":[
         "L\u00e1zaro C\u00e1rdenas"
-    ],
-    "name:fre_x_preferred":[
-        "L\u00e1zaro C\u00e1rdenas"
-    ],
-    "name:ger_x_preferred":[
-        "L\u00e1zaro C\u00e1rdenas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03b6\u03b1\u03c1\u03bf \u039a\u03ac\u03c1\u03bd\u03c4\u03b5\u03bd\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a9d\u0abe\u0ab0\u0acb \u0a95\u0abe\u0ab0\u0acd\u0aa1\u0ac7\u0aa8\u0ab8"
@@ -93,7 +84,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093e\u091d\u093e\u0930\u094b \u0915\u0930\u094d\u0921\u0947\u0928\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lazaro Cardenas"
     ],
     "name:nld_x_preferred":[
@@ -101,9 +92,6 @@
     ],
     "name:nob_x_preferred":[
         "L\u00e1zaro C\u00e1rdenas"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0632\u0627\u0631\u0648 \u06a9\u0627\u0631\u062f\u0646\u0627\u0633\u060c \u0645\u06cc\u0686\u0648\u0622\u06a9\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "L\u00e1zaro C\u00e1rdenas"
@@ -150,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "L\u00e1zaro C\u00e1rdenas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u85a9\u7f85\u5361\u5fb7\u7d0d\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -290,7 +281,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1514486195,
+    "wof:lastmodified":1561750561,
     "wof:name":"Ciudad L\u00e1zaro C\u00e1rdenas",
     "wof:parent_id":102074881,
     "wof:placetype":"locality",

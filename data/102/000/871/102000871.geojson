@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017338,
-    "geom:area_square_m":193618086.245158,
+    "geom:area_square_m":193618086.245524,
     "geom:bbox":"-101.073095571,25.3378600721,-100.895690234,25.522917862",
     "geom:latitude":25.431997,
     "geom:longitude":-100.983691,
@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Saltillo"
     ],
-    "name:baq_x_preferred":[
-        "Saltillo"
-    ],
     "name:bel_x_variant":[
         "\u0421\u0430\u043b\u044c\u0442\u044b\u043b\u044c\u043b\u0451"
     ],
@@ -47,20 +44,14 @@
     "name:ces_x_preferred":[
         "Saltillo"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u8482\u7ea6"
-    ],
-    "name:cze_x_preferred":[
-        "Saltillo"
-    ],
     "name:dan_x_preferred":[
         "Saltillo"
     ],
     "name:deu_x_preferred":[
         "Saltillo"
     ],
-    "name:dut_x_preferred":[
-        "Saltillo"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03c4\u03af\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -77,23 +68,14 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u0644\u062a\u06cc\u06cc\u0648\u060c \u06a9\u0648\u0627\u0648\u06cc\u0644\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0644\u062a\u06cc\u06cc\u0648\u066c \u06a9\u0648\u0627\u0648\u06cc\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Saltillo"
     ],
     "name:fra_x_preferred":[
         "Saltillo"
-    ],
-    "name:fre_x_preferred":[
-        "Saltillo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10da\u10e2\u10d8\u10da\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Saltillo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bb\u03c4\u03af\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0ab2\u0acd\u0a9f\u0abf\u0ab2\u0acb"
@@ -146,9 +128,6 @@
     "name:mar_x_preferred":[
         "\u0938\u0932\u094d\u0924\u093f\u0932\u094d\u0932\u094b"
     ],
-    "name:may_x_preferred":[
-        "Saltillo"
-    ],
     "name:mlg_x_preferred":[
         "Saltillo"
     ],
@@ -176,9 +155,6 @@
     "name:oci_x_preferred":[
         "Saltillo"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0644\u062a\u06cc\u06cc\u0648\u066c \u06a9\u0648\u0627\u0648\u06cc\u0644\u0627"
-    ],
     "name:pol_x_preferred":[
         "Saltillo"
     ],
@@ -189,9 +165,6 @@
         "Saltillo"
     ],
     "name:ron_x_preferred":[
-        "Saltillo"
-    ],
-    "name:rum_x_preferred":[
         "Saltillo"
     ],
     "name:rus_x_preferred":[
@@ -207,9 +180,6 @@
         "\u0dc3\u0dbd\u0dca\u0da7\u0dd2\u0dbd\u0ddd"
     ],
     "name:slk_x_preferred":[
-        "Saltillo"
-    ],
-    "name:slo_x_preferred":[
         "Saltillo"
     ],
     "name:spa_x_colloquial":[
@@ -409,7 +379,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1514488725,
+    "wof:lastmodified":1561750208,
     "wof:megacity":1,
     "wof:name":"Saltillo",
     "wof:parent_id":102078811,

@@ -31,9 +31,6 @@
     "name:arg_x_preferred":[
         "Centro"
     ],
-    "name:baq_x_preferred":[
-        "Centro"
-    ],
     "name:cat_x_preferred":[
         "Centro"
     ],
@@ -43,8 +40,8 @@
     "name:deu_x_preferred":[
         "Centro"
     ],
-    "name:dut_x_preferred":[
-        "Centro Municipality"
+    "name:deu_x_variant":[
+        "Municipio Centro"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ad\u03bd\u03c4\u03c1\u03bf"
@@ -61,14 +58,8 @@
     "name:fra_x_preferred":[
         "Centro"
     ],
-    "name:fre_x_preferred":[
-        "Centro"
-    ],
     "name:fur_x_preferred":[
         "Centro"
-    ],
-    "name:ger_x_preferred":[
-        "Municipio Centro"
     ],
     "name:glg_x_preferred":[
         "Centro"
@@ -93,6 +84,9 @@
     ],
     "name:nld_x_preferred":[
         "Centro"
+    ],
+    "name:nld_x_variant":[
+        "Centro Municipality"
     ],
     "name:pol_x_preferred":[
         "Centro"
@@ -176,7 +170,7 @@
         }
     ],
     "wof:id":102075765,
-    "wof:lastmodified":1560450193,
+    "wof:lastmodified":1561750279,
     "wof:name":"Centro",
     "wof:parent_id":85686617,
     "wof:placetype":"county",

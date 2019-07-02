@@ -7,7 +7,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"1910",
     "geom:area":0.000693,
-    "geom:area_square_m":8083776.079109,
+    "geom:area_square_m":8083776.079112,
     "geom:bbox":"-99.108055,19.407827,-99.061935,19.462181",
     "geom:latitude":19.431671,
     "geom:longitude":-99.083075,
@@ -21,14 +21,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0645\u0643\u0633\u064a\u0643\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u58a8\u897f\u54e5\u57ce\u8d1d\u5c3c\u6258\u00b7\u80e1\u4e9a\u96f7\u65af\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Ben\u00edta Ju\u00e1reze"
     ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Benito Ju\u00e1rez"
+    "name:deu_x_preferred":[
+        "Flughafen Mexiko-Stadt"
     ],
     "name:eng_x_preferred":[
         "Benito Ju\u00e1rez International Airport"
@@ -38,14 +35,14 @@
         "MEX",
         "MMMX"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u06a9\u0632\u06cc\u06a9\u0648 \u0633\u06cc\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "M\u00e9xicon kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Mexico"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Mexiko-Stadt"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05de\u05e7\u05e1\u05d9\u05e7\u05d5 \u05e1\u05d9\u05d8\u05d9"
@@ -65,17 +62,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928\u093f\u0924\u094b \u0939\u0941\u0906\u0930\u0947\u091d \u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b \u0938\u093f\u091f\u0940 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Lic Benito Juarez"
     ],
     "name:nah_x_preferred":[
         "Eh\u0113calquixohuay\u0101n \u012btl\u0101lpancalactihuechiliz \u0100ltep\u0113tl M\u0113xihco"
     ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Benito Ju\u00e1rez"
+    ],
     "name:nob_x_preferred":[
         "Mexico by internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u06a9\u0632\u06cc\u06a9\u0648 \u0633\u06cc\u062a\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Meksyk-Benito Juarez"
@@ -89,7 +86,7 @@
     "name:sco_x_preferred":[
         "Benito Ju\u00e1rez Internaitional Airport"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Medzin\u00e1rodn\u00e9 letisko Mexiko"
     ],
     "name:spa_x_preferred":[
@@ -106,6 +103,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Th\u00e0nh ph\u1ed1 Mexico"
+    ],
+    "name:zho_x_preferred":[
+        "\u58a8\u897f\u54e5\u57ce\u8d1d\u5c3c\u6258\u00b7\u80e1\u4e9a\u96f7\u65af\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"7316",
     "oa:type":"large_airport",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":102536579,
-    "wof:lastmodified":1540342024,
+    "wof:lastmodified":1561750216,
     "wof:name":"Benito Juarez International Airport",
     "wof:parent_id":85793999,
     "wof:placetype":"campus",

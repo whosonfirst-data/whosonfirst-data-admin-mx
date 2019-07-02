@@ -31,20 +31,17 @@
     "name:arg_x_preferred":[
         "Municipio de Ensenada"
     ],
-    "name:baq_x_preferred":[
-        "Ensenada"
-    ],
     "name:cat_x_preferred":[
         "Ensenada"
-    ],
-    "name:chi_x_preferred":[
-        "\u6069\u68ee\u90a3\u8fbe"
     ],
     "name:deu_x_preferred":[
         "Ensenada"
     ],
-    "name:dut_x_preferred":[
-        "Ensenada"
+    "name:deu_x_variant":[
+        "Municipio Ensenada"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bd\u03c3\u03b5\u03bd\u03ac\u03b4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ensenada"
@@ -52,29 +49,23 @@
     "name:epo_x_preferred":[
         "Ensenada"
     ],
+    "name:eus_x_preferred":[
+        "Ensenada"
+    ],
     "name:fra_x_preferred":[
         "Ensenada"
     ],
-    "name:fre_x_preferred":[
-        "Ensenada"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10dc\u10e1\u10d4\u10dc\u10d0\u10d3\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Municipio Ensenada"
-    ],
     "name:glg_x_preferred":[
         "Ensenada"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bd\u03c3\u03b5\u03bd\u03ac\u03b4\u03b1"
     ],
     "name:hun_x_preferred":[
         "Ensenada"
     ],
     "name:ita_x_preferred":[
         "Ensenada"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10dc\u10e1\u10d4\u10dc\u10d0\u10d3\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:lad_x_preferred":[
         "Ensenada"
@@ -91,7 +82,7 @@
     "name:por_x_preferred":[
         "Munic\u00edpio de Ensenada"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ensenada"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +105,9 @@
     ],
     "name:vie_x_preferred":[
         "Ensenada"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u68ee\u90a3\u8fbe"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"Baja California",
@@ -163,7 +157,7 @@
         }
     ],
     "wof:id":102074509,
-    "wof:lastmodified":1560450161,
+    "wof:lastmodified":1561750255,
     "wof:name":"Ensenada",
     "wof:parent_id":85686541,
     "wof:placetype":"county",

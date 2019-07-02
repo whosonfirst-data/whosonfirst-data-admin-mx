@@ -31,9 +31,6 @@
     "name:arg_x_preferred":[
         "Playas de Rosarito"
     ],
-    "name:baq_x_preferred":[
-        "Playas de Rosarito"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u044f\u0441 \u0434\u0435 \u0420\u043e\u0441\u0430\u0440\u0438\u0442\u043e"
     ],
@@ -43,8 +40,11 @@
     "name:dan_x_preferred":[
         "Playas de Rosarito"
     ],
-    "name:dut_x_preferred":[
-        "Playas de Rosarito"
+    "name:deu_x_preferred":[
+        "Municipio Playas de Rosarito"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03ac\u03b3\u03b9\u03b1\u03c2 \u03bd\u03c4\u03b5 \u03a1\u03bf\u03b6\u03b1\u03c1\u03af\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Playas de Rosarito"
@@ -52,20 +52,14 @@
     "name:epo_x_preferred":[
         "Playas de Rosarito"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Playas de Rosarito"
+    ],
+    "name:fra_x_preferred":[
         "Municipalit\u00e9 de Playas de Rosarito"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10da\u10d0\u10d8\u10d0\u10e1-\u10d3\u10d4\u10da-\u10e0\u10dd\u10e1\u10d0\u10e0\u10d8\u10e2\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Municipio Playas de Rosarito"
     ],
     "name:glg_x_preferred":[
         "Playas de Rosarito"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bb\u03ac\u03b3\u03b9\u03b1\u03c2 \u03bd\u03c4\u03b5 \u03a1\u03bf\u03b6\u03b1\u03c1\u03af\u03c4\u03bf"
     ],
     "name:hun_x_preferred":[
         "Playas de Rosarito"
@@ -73,10 +67,16 @@
     "name:ita_x_preferred":[
         "Playas de Rosarito"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10da\u10d0\u10d8\u10d0\u10e1-\u10d3\u10d4\u10da-\u10e0\u10dd\u10e1\u10d0\u10e0\u10d8\u10e2\u10dd\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:lad_x_preferred":[
         "Playas de Rosarito"
     ],
     "name:nah_x_preferred":[
+        "Playas de Rosarito"
+    ],
+    "name:nld_x_preferred":[
         "Playas de Rosarito"
     ],
     "name:nob_x_preferred":[
@@ -85,7 +85,7 @@
     "name:por_x_preferred":[
         "Playas de Rosarito"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Playas de Rosarito"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":102074505,
-    "wof:lastmodified":1560450129,
+    "wof:lastmodified":1561750233,
     "wof:name":"Playas de Rosarito",
     "wof:parent_id":85686541,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":3647568.50504,
+    "geom:area_square_m":3647568.505039,
     "geom:bbox":"-114.512344106,31.6745404669,-114.48341059,31.702238381",
     "geom:latitude":31.688651,
     "geom:longitude":-114.495925,
@@ -25,8 +25,11 @@
     "name:dan_x_preferred":[
         "El Golfo de Santa Clara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Golfo de Santa Clara"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u0393\u03ba\u03cc\u03bb\u03c6\u03bf \u03bd\u03c4\u03b5 \u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03bb\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "El Golfo de Santa Clara"
@@ -37,14 +40,8 @@
     "name:fin_x_preferred":[
         "El Golfo de Santa Clara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Golfe de Santa Clara"
-    ],
-    "name:ger_x_preferred":[
-        "Golfo de Santa Clara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb \u0393\u03ba\u03cc\u03bb\u03c6\u03bf \u03bd\u03c4\u03b5 \u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03bb\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0a97\u0acb\u0ab2\u0acd\u0aab\u0acb \u0aa6\u0ac7 \u0ab8\u0abe\u0aa8\u0acd\u0aa4\u0abe \u0a95\u0acd\u0ab2\u0abe\u0ab0\u0abe"
@@ -79,8 +76,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0932 \u0917\u094b\u0932\u094d\u092b\u094b \u0921\u0940 \u0938\u093e\u0902\u0924\u093e \u0915\u094d\u0932\u093e\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "El Golfo de Santa Clara"
+    ],
+    "name:nld_x_preferred":[
+        "Golfo de Santa Clara"
     ],
     "name:nob_x_preferred":[
         "El Goldo de Santa Clara"
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":101993887,
-    "wof:lastmodified":1514486644,
+    "wof:lastmodified":1561750599,
     "wof:name":"Golfo de Santa Clara",
     "wof:parent_id":102074497,
     "wof:placetype":"locality",

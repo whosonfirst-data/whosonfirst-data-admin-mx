@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001556,
-    "geom:area_square_m":18173540.873753,
+    "geom:area_square_m":18173540.873788,
     "geom:bbox":"-96.1425310609,19.1104966099,-96.0926665715,19.1717030389",
     "geom:latitude":19.143598,
     "geom:longitude":-96.115982,
@@ -20,12 +20,6 @@
     "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0627\u0643\u0631\u0648\u0632"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u0580\u0561\u056f\u0580\u0578\u0582\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Veracruz"
     ],
     "name:bar_x_preferred":[
         "Veracruz"
@@ -42,20 +36,23 @@
     "name:cat_x_preferred":[
         "Veracruz"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u62c9\u514b\u9c81\u65af"
+    "name:ces_x_preferred":[
+        "Veracruz"
     ],
     "name:chy_x_preferred":[
         "Veracruz"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Veracruz"
     ],
     "name:dan_x_preferred":[
         "Veracruz"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Veracruz"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03c1\u03b1\u03ba\u03c1\u03bf\u03cd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Veracruz"
@@ -66,16 +63,16 @@
     "name:est_x_preferred":[
         "Veracruz"
     ],
+    "name:eus_x_preferred":[
+        "Veracruz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u06a9\u0631\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Veracruz"
     ],
-    "name:fre_x_preferred":[
-        "Veracruz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10e0\u10d0\u10d9\u10e0\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Veracruz"
     ],
     "name:gle_x_preferred":[
@@ -83,9 +80,6 @@
     ],
     "name:glg_x_preferred":[
         "Veracruz"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b5\u03c1\u03b1\u03ba\u03c1\u03bf\u03cd\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0aaf\u0ac1\u0ab0\u0acd\u0a9f\u0acb \u0aac\u0ac7\u0ab0\u0abf\u0a93\u0ab8"
@@ -98,6 +92,9 @@
     ],
     "name:hun_x_preferred":[
         "Veracruz"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0580\u0561\u056f\u0580\u0578\u0582\u057d"
     ],
     "name:ina_x_preferred":[
         "Veracruz"
@@ -117,6 +114,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0cb0\u0cbe\u0c95\u0ccd\u0cb0\u0c9c\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10e0\u10d0\u10d9\u10e0\u10e3\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubca0\ub77c\ud06c\ub8e8\uc2a4"
     ],
@@ -135,11 +135,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0930\u093e\u0915\u094d\u0930\u0941\u0925"
     ],
-    "name:may_x_preferred":[
-        "Veracruz"
-    ],
     "name:mrj_x_preferred":[
         "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Veracruz"
     ],
     "name:nah_x_preferred":[
         "Chalchiuhcuehc\u0101n"
@@ -147,14 +147,14 @@
     "name:nan_x_preferred":[
         "Veracruz"
     ],
+    "name:nld_x_preferred":[
+        "Veracruz"
+    ],
     "name:nno_x_preferred":[
         "Veracruz i Veracruz"
     ],
     "name:nob_x_preferred":[
         "Veracruz"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0627\u06a9\u0631\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Veracruz"
@@ -165,7 +165,7 @@
     "name:que_x_preferred":[
         "Veracruz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Veracruz"
     ],
     "name:rus_x_preferred":[
@@ -216,8 +216,8 @@
     "name:war_x_preferred":[
         "Veracruz"
     ],
-    "name:wel_x_preferred":[
-        "Veracruz"
+    "name:zho_x_preferred":[
+        "\u97e6\u62c9\u514b\u9c81\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -355,7 +355,7 @@
         }
     ],
     "wof:id":101998203,
-    "wof:lastmodified":1553815696,
+    "wof:lastmodified":1561750533,
     "wof:name":"Veracruz",
     "wof:parent_id":102077443,
     "wof:placetype":"locality",

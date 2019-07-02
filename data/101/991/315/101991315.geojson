@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":2045737.686707,
+    "geom:area_square_m":2045737.686702,
     "geom:bbox":"-99.5947093675,18.4677538763,-99.5762954831,18.491428645",
     "geom:latitude":18.481984,
     "geom:longitude":-99.58461,
@@ -19,22 +19,16 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0633\u0643\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u057d\u056f\u0578 \u0564\u0565 \u0531\u056c\u0561\u0580\u056f\u0578\u0576"
-    ],
     "name:cat_x_preferred":[
         "Taxco"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u514b\u65af\u79d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Taxco"
     ],
     "name:dan_x_preferred":[
         "Taxco"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Taxco"
     ],
     "name:eng_x_preferred":[
@@ -43,10 +37,7 @@
     "name:epo_x_preferred":[
         "Taxco de Alarc\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Taxco"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Taxco"
     ],
     "name:glg_x_preferred":[
@@ -54,6 +45,9 @@
     ],
     "name:hun_x_preferred":[
         "Taxco de Alarc\u00f3n"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u057d\u056f\u0578 \u0564\u0565 \u0531\u056c\u0561\u0580\u056f\u0578\u0576"
     ],
     "name:ita_x_preferred":[
         "Taxco"
@@ -70,6 +64,9 @@
     "name:nah_x_preferred":[
         "Tlachco Alarc\u00f3n"
     ],
+    "name:nld_x_preferred":[
+        "Taxco"
+    ],
     "name:nob_x_preferred":[
         "Taxco"
     ],
@@ -82,7 +79,7 @@
     "name:por_x_preferred":[
         "Taxco"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Taxco"
     ],
     "name:rus_x_preferred":[
@@ -105,6 +102,9 @@
     ],
     "name:vie_x_preferred":[
         "Taxco de Alarc\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u514b\u65af\u79d1"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Guerrero",
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":101991315,
-    "wof:lastmodified":1527641775,
+    "wof:lastmodified":1561750542,
     "wof:name":"Taxco el Viejo",
     "wof:parent_id":102073935,
     "wof:placetype":"locality",
