@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2561772.387813,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.40626,20.584757,-100.40626,20.584757",
     "geom:latitude":20.584757,
     "geom:longitude":-100.40626,
@@ -24,7 +24,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "La Capilla"
+    ],
+    "name:eng_x_preferred":[
+        "La Capilla"
+    ],
     "name:spa_x_preferred":[
+        "La Capilla"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041a\u0430\u043f\u0438\u0459\u0430"
+    ],
+    "name:swe_x_preferred":[
         "La Capilla"
     ],
     "name:unk_x_variant":[
@@ -62,11 +74,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874183,
+    "wof:lastmodified":1563375338,
     "wof:name":"La Capilla",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

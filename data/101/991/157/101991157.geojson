@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2016-07-21",
     "geom:area":0.006372,
-    "geom:area_square_m":74371850.798965,
+    "geom:area_square_m":74371850.798859,
     "geom:bbox":"-99.2460738694,19.2204621078,-99.1009291668,19.312263636",
     "geom:latitude":19.274117,
     "geom:longitude":-99.179205,
@@ -19,11 +19,20 @@
     "mps:longitude":-99.178087,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tlalpan"
+    ],
     "name:spa_x_preferred":[
         "Tlalpan"
     ],
     "name:spa_x_variant":[
         "Tlalpam"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u043b\u0430\u043b\u043f\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Tlalpan"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Distrito Federal",
@@ -74,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1514617866,
+    "wof:lastmodified":1563397214,
     "wof:name":"Tlalpan",
     "wof:parent_id":102073729,
     "wof:placetype":"locality",

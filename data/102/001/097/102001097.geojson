@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018219,
-    "geom:area_square_m":210347425.858015,
+    "geom:area_square_m":210347425.8583,
     "geom:bbox":"-89.7228031587,20.8729815642,-89.5430335208,21.0792182191",
     "geom:latitude":20.980262,
     "geom:longitude":-89.629608,
@@ -30,7 +30,11 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0435\u0440\u044b\u0434\u0430"
     ],
     "name:bel_x_variant":[
-        "\u041c\u044d\u0440\u044b\u0434\u0430"
+        "\u041c\u044d\u0440\u044b\u0434\u0430",
+        "\u041c\u0435\u0440\u044b\u0434\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u09b0\u09bf\u09a1\u09be"
     ],
     "name:bre_x_preferred":[
         "M\u00e9rida"
@@ -44,6 +48,9 @@
     "name:ces_x_preferred":[
         "M\u00e9rida"
     ],
+    "name:cym_x_preferred":[
+        "Merida"
+    ],
     "name:dan_x_preferred":[
         "M\u00e9rida"
     ],
@@ -56,23 +63,77 @@
     "name:eng_x_preferred":[
         "M\u00e9rida"
     ],
+    "name:eng_x_variant":[
+        "Merida"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:eus_x_preferred":[
+        "M\u00e9rida"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0631\u06cc\u062f\u0627\u060c \u06cc\u0648\u06a9\u0627\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0631\u06cc\u062f\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00e9rida"
+    ],
     "name:fra_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:glg_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0ab0\u0abf\u0aa1\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d9\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947\u0930\u093f\u0921\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0580\u056b\u0564\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:ilo_x_preferred":[
         "M\u00e9rida"
     ],
     "name:ind_x_preferred":[
         "M\u00e9rida"
     ],
+    "name:ita_x_preferred":[
+        "M\u00e9rida"
+    ],
     "name:jpn_x_preferred":[
         "\u30e1\u30ea\u30c0"
+    ],
+    "name:kal_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc6\u0cb0\u0cbf\u0ca1\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e0\u10d8\u10d3\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uba54\ub9ac\ub2e4"
+    ],
+    "name:lad_x_preferred":[
+        "M\u00e9rida"
     ],
     "name:lat_x_preferred":[
         "Emerita"
@@ -83,8 +144,20 @@
     "name:lit_x_preferred":[
         "Merida"
     ],
+    "name:mar_x_preferred":[
+        "\u092e\u0947\u0930\u093f\u0921\u093e"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0435\u0440\u0438\u0434\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:nah_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:nan_x_preferred":[
+        "M\u00e9rida"
     ],
     "name:nld_x_preferred":[
         "M\u00e9rida"
@@ -92,14 +165,44 @@
     "name:nno_x_preferred":[
         "M\u00e9rida i Yucat\u00e1n"
     ],
+    "name:nob_x_preferred":[
+        "M\u00e9rida"
+    ],
     "name:nor_x_preferred":[
         "M\u00e9rida"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2f\u0a42\u0a15\u0a3e\u0a24\u0a3e\u0a28"
     ],
     "name:pol_x_preferred":[
         "Merida"
     ],
+    "name:pol_x_variant":[
+        "M\u00e9rida"
+    ],
+    "name:por_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:que_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00e9rida"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0440\u0438\u0434\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:sco_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd9\u0dbb\u0dd2\u0da9\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00e9rida"
     ],
     "name:spa_x_preferred":[
         "M\u00e9rida"
@@ -107,14 +210,53 @@
     "name:srp_x_preferred":[
         "\u041c\u0435\u0440\u0438\u0434\u0430"
     ],
+    "name:swa_x_preferred":[
+        "M\u00e9rida"
+    ],
     "name:swe_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc6\u0bb1\u0bbf\u0b9f\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c46\u0c30\u0c3f\u0c21\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e23\u0e34\u0e14\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:twi_x_preferred":[
         "M\u00e9rida"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0456\u0434\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0435\u0440\u0438\u0434\u0430"
+    ],
     "name:unk_x_variant":[
         "Ciudad de M\u00e9rida"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0631\u06cc\u0688\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Merida"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:war_x_preferred":[
+        "M\u00e9rida"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d4\u10e0\u10d8\u10d3\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u6885\u91cc\u8fbe"
@@ -266,7 +408,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637254,
+    "wof:lastmodified":1563369814,
     "wof:megacity":1,
     "wof:name":"M\u00e9rida",
     "wof:parent_id":102078971,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5200343.42205,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.320709,19.029899,-98.320709,19.029899",
     "geom:latitude":19.029899,
     "geom:longitude":-98.320709,
@@ -23,12 +23,24 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "San Isidro Buensuceso"
+    ],
+    "name:eng_x_preferred":[
+        "San Isidro Buen Suceso"
+    ],
+    "name:nld_x_preferred":[
+        "San Isidro Buen Suceso"
+    ],
     "name:spa_x_preferred":[
         "San Isidro Buenos Aires"
     ],
     "name:spa_x_variant":[
         "San Isidro Buen Suceso",
         "Buenos Aires"
+    ],
+    "name:swe_x_preferred":[
+        "San Isidro Buensuceso"
     ],
     "name:unk_x_variant":[
         "San Isidro Buensuceso",
@@ -65,11 +77,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999685,
-        102078247,
-        85686657
+        102078247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874587,
+    "wof:lastmodified":1563375469,
     "wof:name":"San Isidro Buenos Aires",
     "wof:parent_id":101999685,
     "wof:placetype":"neighbourhood",

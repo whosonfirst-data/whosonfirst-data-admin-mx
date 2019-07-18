@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10010968.44517,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.407134,25.664274,-100.407134,25.664274",
     "geom:latitude":25.664274,
     "geom:longitude":-100.407134,
@@ -24,8 +24,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:nld_x_preferred":[
+        "La Parrita"
+    ],
     "name:spa_x_preferred":[
         "La Barrica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041f\u0430\u0440\u0438\u0442\u0430"
     ],
     "name:unk_x_variant":[
         "Parrita",
@@ -63,11 +69,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000745,
-        102078689,
-        85686681
+        102078689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874482,
+    "wof:lastmodified":1563375356,
     "wof:name":"La Barrica",
     "wof:parent_id":102000745,
     "wof:placetype":"neighbourhood",

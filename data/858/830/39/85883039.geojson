@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8302141.074528,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.701956,19.273183,-99.701956,19.273183",
     "geom:latitude":19.273183,
     "geom:longitude":-99.701956,
@@ -27,8 +27,14 @@
     "name:afr_x_preferred":[
         "Kultuur"
     ],
+    "name:afr_x_variant":[
+        "kultuur"
+    ],
     "name:als_x_preferred":[
         "Kultur"
+    ],
+    "name:amh_x_preferred":[
+        "\u1263\u1215\u120d"
     ],
     "name:ara_x_preferred":[
         "\u062b\u0642\u0627\u0641\u0629"
@@ -54,20 +60,29 @@
     "name:aze_x_preferred":[
         "M\u0259d\u0259niyy\u0259t"
     ],
+    "name:aze_x_variant":[
+        "m\u0259d\u0259niyy\u0259t"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u04d9\u0499\u04d9\u043d\u0438\u04d9\u0442"
     ],
     "name:bar_x_preferred":[
         "Kuitua"
     ],
+    "name:bar_x_variant":[
+        "Kuidua"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
     ],
     "name:bel_x_variant":[
-        "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+        "\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u0982\u09b8\u09cd\u0995\u09c3\u09a4\u09bf"
+    ],
+    "name:bho_x_preferred":[
+        "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f"
     ],
     "name:bod_x_preferred":[
         "\u0f62\u0f72\u0f42\u0f0b\u0f42\u0f53\u0f66\u0f0d"
@@ -84,11 +99,17 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043b\u0442\u0443\u0440\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u043a\u0443\u043b\u0442\u0443\u0440\u0430"
+    ],
     "name:bxr_x_preferred":[
         "\u0421\u043e\u0451\u043b"
     ],
     "name:cat_x_preferred":[
         "Cultura"
+    ],
+    "name:cat_x_variant":[
+        "cultura"
     ],
     "name:cdo_x_preferred":[
         "\u00d9ng-hu\u00e1"
@@ -99,8 +120,14 @@
     "name:ces_x_preferred":[
         "Kultura"
     ],
+    "name:ces_x_variant":[
+        "kultura"
+    ],
     "name:cha_x_preferred":[
         "Kuttura"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u044c\u0437\u0434\u0430\u043d\u0433\u0430\u043b\u043b\u0430"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
@@ -117,11 +144,17 @@
     "name:dan_x_preferred":[
         "Kultur"
     ],
+    "name:dan_x_variant":[
+        "kultur"
+    ],
     "name:deu_x_preferred":[
         "Kultur"
     ],
     "name:diq_x_preferred":[
         "Portal:Zagon"
+    ],
+    "name:diq_x_variant":[
+        "Zagon"
     ],
     "name:div_x_preferred":[
         "\u0790\u07a6\u078e\u07a7\u078a\u07a6\u078c\u07aa"
@@ -129,17 +162,38 @@
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03bb\u03c4\u03bf\u03cd\u03c1\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03ba\u03bf\u03c5\u03bb\u03c4\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "Cult\u00f9ra"
+    ],
+    "name:eng_x_preferred":[
+        "culture"
+    ],
     "name:epo_x_preferred":[
         "Kulturo"
+    ],
+    "name:epo_x_variant":[
+        "kulturo"
     ],
     "name:est_x_preferred":[
         "Kultuur"
     ],
+    "name:est_x_variant":[
+        "kultuur"
+    ],
     "name:eus_x_preferred":[
         "Kultura"
     ],
+    "name:eus_x_variant":[
+        "kultura"
+    ],
     "name:ext_x_preferred":[
         "Coltura"
+    ],
+    "name:ext_x_variant":[
+        "Cultura"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0647\u0646\u06af"
@@ -147,14 +201,23 @@
     "name:fin_x_preferred":[
         "Kulttuuri"
     ],
+    "name:fin_x_variant":[
+        "kulttuuri"
+    ],
     "name:fra_x_preferred":[
         "Culture"
+    ],
+    "name:fra_x_variant":[
+        "culture"
     ],
     "name:frr_x_preferred":[
         "Kultuur"
     ],
     "name:fry_x_preferred":[
         "Kultuer"
+    ],
+    "name:fry_x_variant":[
+        "kultuer"
     ],
     "name:fur_x_preferred":[
         "Culture"
@@ -165,11 +228,17 @@
     "name:glg_x_preferred":[
         "Cultura"
     ],
+    "name:glg_x_variant":[
+        "cultura"
+    ],
     "name:glv_x_preferred":[
         "Cultoor"
     ],
     "name:grn_x_preferred":[
         "Tembiapo"
+    ],
+    "name:gsw_x_preferred":[
+        "Kultur"
     ],
     "name:hak_x_preferred":[
         "V\u00f9n-fa"
@@ -192,14 +261,26 @@
     "name:hrv_x_preferred":[
         "Kultura"
     ],
+    "name:hsb_x_preferred":[
+        "kultura"
+    ],
     "name:hun_x_preferred":[
         "Kult\u00fara"
+    ],
+    "name:hun_x_variant":[
+        "kult\u00fara"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0577\u0561\u056f\u0578\u0582\u0575\u0569"
     ],
+    "name:hye_x_variant":[
+        "\u0574\u0577\u0561\u056f\u0578\u0582\u0575\u0569"
+    ],
     "name:ido_x_preferred":[
         "Kulturo"
+    ],
+    "name:ido_x_variant":[
+        "kulturo"
     ],
     "name:ile_x_preferred":[
         "Cultura"
@@ -213,11 +294,17 @@
     "name:ind_x_preferred":[
         "Budaya"
     ],
+    "name:ind_x_variant":[
+        "budaya"
+    ],
     "name:isl_x_preferred":[
         "Menning"
     ],
     "name:ita_x_preferred":[
         "Cultura"
+    ],
+    "name:ita_x_variant":[
+        "cultura"
     ],
     "name:jam_x_preferred":[
         "Kolcha"
@@ -233,6 +320,9 @@
     ],
     "name:kal_x_preferred":[
         "Kulturi"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0c82\u0cb8\u0ccd\u0c95\u0cc3\u0ca4\u0cbf"
     ],
     "name:kas_x_preferred":[
         "\u062a\u064e\u06c1\u0632\u06cc\u0656\u0628"
@@ -270,11 +360,23 @@
     "name:lav_x_preferred":[
         "Kult\u016bra"
     ],
+    "name:lav_x_variant":[
+        "kult\u016bra"
+    ],
+    "name:lfn_x_preferred":[
+        "cultur"
+    ],
     "name:lim_x_preferred":[
         "Cultuur"
     ],
     "name:lit_x_preferred":[
         "Kult\u016bra"
+    ],
+    "name:ltz_x_preferred":[
+        "Kultur"
+    ],
+    "name:lug_x_preferred":[
+        "Ebyobuwangwa"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d02\u0d38\u0d4d\u0d15\u0d3e\u0d30\u0d02"
@@ -282,17 +384,26 @@
     "name:mar_x_preferred":[
         "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0441\u044c"
+    ],
     "name:mhr_x_preferred":[
         "\u0422\u04f1\u0432\u044b\u0440\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0443\u043b\u0442\u0443\u0440\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u043a\u0443\u043b\u0442\u0443\u0440\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Kolontsaina"
     ],
     "name:mlt_x_preferred":[
         "Kultura"
+    ],
+    "name:mlt_x_variant":[
+        "kultura"
     ],
     "name:mon_x_preferred":[
         "\u0421\u043e\u0451\u043b"
@@ -312,6 +423,12 @@
     "name:mzn_x_preferred":[
         "\u0641\u0631\u0647\u0646\u06af"
     ],
+    "name:nah_x_preferred":[
+        "Cultura"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00fbn-ho\u00e0"
+    ],
     "name:nap_x_preferred":[
         "Cultura"
     ],
@@ -330,11 +447,23 @@
     "name:new_x_preferred":[
         "\u0924\u091c\u093f\u0932\u091c\u093f"
     ],
+    "name:new_x_variant":[
+        "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f"
+    ],
     "name:nld_x_preferred":[
         "Cultuur"
     ],
+    "name:nld_x_variant":[
+        "cultuur"
+    ],
     "name:nno_x_preferred":[
         "Kultur"
+    ],
+    "name:nno_x_variant":[
+        "kultur"
+    ],
+    "name:nob_x_preferred":[
+        "kultur"
     ],
     "name:nor_x_preferred":[
         "Kultur"
@@ -345,8 +474,17 @@
     "name:oci_x_preferred":[
         "Cultura"
     ],
+    "name:oci_x_variant":[
+        "cultura"
+    ],
+    "name:olo_x_preferred":[
+        "Kul'tuuru"
+    ],
     "name:oss_x_preferred":[
         "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u00e6"
+    ],
+    "name:pam_x_preferred":[
+        "Kalinangan"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a71\u0a2d\u0a3f\u0a06\u0a1a\u0a3e\u0a30"
@@ -363,8 +501,14 @@
     "name:pol_x_preferred":[
         "Kultura"
     ],
+    "name:pol_x_variant":[
+        "kultura"
+    ],
     "name:por_x_preferred":[
         "Cultura"
+    ],
+    "name:por_x_variant":[
+        "cultura"
     ],
     "name:pus_x_preferred":[
         "\u0647\u0685\u0648\u0628"
@@ -375,11 +519,17 @@
     "name:ron_x_preferred":[
         "Cultur\u0103"
     ],
+    "name:ron_x_variant":[
+        "cultur\u0103"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u0443\u043b\u0442\u0443\u0440\u0430"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
     ],
     "name:sah_x_preferred":[
         "\u041a\u0443\u043b\u0442\u0443\u0443\u0440\u0430"
@@ -387,8 +537,17 @@
     "name:scn_x_preferred":[
         "Cultura"
     ],
+    "name:scn_x_variant":[
+        "cultura"
+    ],
     "name:sco_x_preferred":[
         "Cultur"
+    ],
+    "name:sco_x_variant":[
+        "cultur"
+    ],
+    "name:sgs_x_preferred":[
+        "Kolt\u016bra"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dd8\u0dad\u0dd2\u0dba"
@@ -396,11 +555,26 @@
     "name:slk_x_preferred":[
         "Kult\u00fara"
     ],
+    "name:slk_x_variant":[
+        "kult\u00fara"
+    ],
     "name:slv_x_preferred":[
         "Kultura"
     ],
+    "name:sme_x_preferred":[
+        "kultuvra"
+    ],
+    "name:smn_x_preferred":[
+        "kulttuur"
+    ],
+    "name:sms_x_preferred":[
+        "kulttuur"
+    ],
     "name:sna_x_preferred":[
         "Tsika"
+    ],
+    "name:snd_x_preferred":[
+        "\u062b\u0642\u0627\u0641\u062a"
     ],
     "name:som_x_preferred":[
         "Dhaqan"
@@ -409,11 +583,17 @@
         "Cultural",
         "Cultura"
     ],
+    "name:spa_x_variant":[
+        "cultura"
+    ],
     "name:sqi_x_preferred":[
         "Kultura"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u043b\u0442\u0443\u0440\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u043a\u0443\u043b\u0442\u0443\u0440\u0430"
     ],
     "name:ssw_x_preferred":[
         "Inhlonipho"
@@ -430,17 +610,26 @@
     "name:swe_x_preferred":[
         "Kultur"
     ],
+    "name:swe_x_variant":[
+        "kultur"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0ba3\u0bcd\u0baa\u0bbe\u0b9f\u0bc1"
     ],
     "name:tat_x_preferred":[
         "\u041c\u04d9\u0434\u04d9\u043d\u0438\u044f\u0442"
     ],
+    "name:tat_x_variant":[
+        "\u043c\u04d9\u0434\u04d9\u043d\u0438\u044f\u0442"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c02\u0c38\u0c4d\u0c15\u0c43\u0c24\u0c3f"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0430\u0440\u04b3\u0430\u043d\u0433"
+    ],
+    "name:tgk_x_variant":[
+        "\u041c\u0430\u0434\u0430\u043d\u0438\u044f\u0442"
     ],
     "name:tgl_x_preferred":[
         "Kalinangan"
@@ -451,11 +640,17 @@
     "name:tso_x_preferred":[
         "Ndzhavuko"
     ],
+    "name:tso_x_variant":[
+        "Culture"
+    ],
     "name:tur_x_preferred":[
         "K\u00fclt\u00fcr"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
     ],
     "name:unk_x_variant":[
         "Cultural"
@@ -469,11 +664,32 @@
     "name:vec_x_preferred":[
         "Cultura"
     ],
+    "name:vep_x_preferred":[
+        "Kul'tur"
+    ],
     "name:vie_x_preferred":[
         "V\u0103n h\u00f3a"
     ],
+    "name:vie_x_variant":[
+        "v\u0103n h\u00f3a"
+    ],
+    "name:vmf_x_preferred":[
+        "Kuldur"
+    ],
+    "name:vol_x_preferred":[
+        "kuliv"
+    ],
+    "name:vro_x_preferred":[
+        "Kultuur"
+    ],
     "name:war_x_preferred":[
         "Kultura"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6587\u5316"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10e3\u10da\u10e2\u10e3\u10e0\u10d0"
     ],
     "name:yid_x_preferred":[
         "\u05e7\u05d5\u05dc\u05d8\u05d5\u05e8"
@@ -481,8 +697,17 @@
     "name:yor_x_preferred":[
         "\u00c0\u1e63\u00e0"
     ],
+    "name:yor_x_variant":[
+        "\u00e0\u1e63\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u6587\u5316"
+    ],
     "name:zea_x_preferred":[
         "Cultuur"
+    ],
+    "name:zha_x_preferred":[
+        "Vwnzva"
     ],
     "name:zho_min_nan_x_preferred":[
         "B\u00fbn-ho\u00e0"
@@ -523,11 +748,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":5205,
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991705,
-        102074009,
-        85686527
+        102074009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -551,7 +776,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874203,
+    "wof:lastmodified":1563375564,
     "wof:name":"Cultural",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",

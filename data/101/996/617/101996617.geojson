@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004849,
-    "geom:area_square_m":56097450.619122,
+    "geom:area_square_m":56097450.619125,
     "geom:bbox":"-101.391693105,20.6341016734,-101.291912897,20.7208724165",
     "geom:latitude":20.674916,
     "geom:longitude":-101.346504,
@@ -21,20 +21,116 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0631\u0627\u0628\u0648\u0627\u062a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0631\u0627\u0628\u0648\u0627\u062a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b0\u09be\u09aa\u09c1\u09af\u09bc\u09be\u09a4\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0440\u0430\u043f\u0443\u0430\u0442\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Irapuato"
+    ],
+    "name:ces_x_preferred":[
+        "Irapuato"
+    ],
+    "name:dan_x_preferred":[
+        "Irapuato"
+    ],
+    "name:deu_x_preferred":[
+        "Irapuato"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c1\u03b1\u03c0\u03bf\u03c5\u03ac\u03c4\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Irapuato"
+    ],
+    "name:epo_x_preferred":[
+        "Irapuato"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0631\u067e\u0648\u0627\u062a\u0648\u060c \u06af\u0648\u0627\u0646\u062e\u0648\u0627\u062a\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0631\u067e\u0648\u0627\u062a\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Irapuato"
+    ],
+    "name:fra_x_preferred":[
+        "Irapuato"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a87\u0ab0\u0abe\u0aaa\u0abe\u0a89\u0a86\u0a9f\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0930\u093e\u092a\u0941\u0906\u091f\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Irapuato"
+    ],
+    "name:hun_x_preferred":[
+        "Irapuato"
+    ],
+    "name:ind_x_preferred":[
+        "Irapuato"
+    ],
+    "name:ita_x_preferred":[
+        "Irapuato"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30e9\u30d7\u30a2\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c87\u0cb0\u0caa\u0ccc\u0c9f\u0ccb ,"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10e0\u10d0\u10de\u10e3\u10d0\u10e2\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ub77c\ud478\uc544\ud1a0"
+    ],
+    "name:lad_x_preferred":[
+        "Irapuato"
+    ],
+    "name:lav_x_preferred":[
+        "Irapuato"
     ],
     "name:lit_x_preferred":[
         "Irapuatas"
     ],
+    "name:mar_x_preferred":[
+        "\u0907\u0930\u093e\u092a\u0941\u0906\u091f\u094b"
+    ],
+    "name:msa_x_preferred":[
+        "Irapuato"
+    ],
+    "name:nah_x_preferred":[
+        "Irapuato"
+    ],
+    "name:nld_x_preferred":[
+        "Irapuato"
+    ],
+    "name:nob_x_preferred":[
+        "Irapuato"
+    ],
+    "name:pol_x_preferred":[
+        "Irapuato"
+    ],
+    "name:por_x_preferred":[
+        "Irapuato"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u0430\u043f\u0443\u0430\u0442\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Irapuato"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d89\u0dbb\u0db4\u0dd4\u0dc0\u0da7\u0ddd"
     ],
     "name:spa_x_preferred":[
         "Irapuato"
@@ -45,11 +141,41 @@
     "name:srp_x_preferred":[
         "\u0418\u0440\u0430\u043f\u0443\u0430\u0442\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Irapuato"
+    ],
+    "name:szl_x_preferred":[
+        "Irapuato"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0b9f\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c07\u0c30\u0c3e\u0c2a\u0c42\u0c35\u0c1f\u0c4b"
+    ],
+    "name:tgl_x_preferred":[
+        "Irapuato"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e23\u0e32\u0e1b\u0e31\u0e27\u0e42\u0e15\u0e49"
+    ],
+    "name:tur_x_preferred":[
+        "Irapuato"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0440\u0430\u043f\u0443\u0430\u0442\u043e"
+    ],
     "name:unk_x_variant":[
         "Iraputa"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0631\u0627\u067e\u0648\u0627\u062a\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Irapuato"
+    ],
+    "name:war_x_preferred":[
+        "Irapuato"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u62c9\u666e\u963f\u6258"
@@ -199,7 +325,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527641805,
+    "wof:lastmodified":1563397340,
     "wof:name":"Irapuato",
     "wof:parent_id":102077341,
     "wof:placetype":"locality",

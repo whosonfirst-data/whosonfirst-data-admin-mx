@@ -28,8 +28,14 @@
     "mps:longitude":-92.864031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Acala"
+    ],
     "name:bod_x_preferred":[
         "\u0f58\u0f72\u0f0b\u0f42\u0f61\u0f7c\u0f0b\u0f56\u0f0d"
+    ],
+    "name:ceb_x_preferred":[
+        "Acala"
     ],
     "name:deu_x_preferred":[
         "Acala"
@@ -52,6 +58,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06a9\u0627\u0644\u0627\u060c \u0686\u06cc\u0627\u067e\u0627\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06a9\u0627\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Acala"
     ],
@@ -66,6 +75,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd80\ub3d9\uba85\uc655"
+    ],
+    "name:lad_x_preferred":[
+        "Acala"
     ],
     "name:nah_x_preferred":[
         "\u0100call\u0101n"
@@ -88,11 +100,20 @@
     "name:rus_x_preferred":[
         "\u0410\u0447\u0430\u043b\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043a\u0430\u043b\u0430"
+    ],
     "name:sco_x_preferred":[
         "Acala"
     ],
     "name:spa_x_preferred":[
         "Fud\u014d My\u014d-\u014d"
+    ],
+    "name:spa_x_variant":[
+        "Acala"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0410\u043a\u0430\u043b\u0430"
     ],
     "name:swe_x_preferred":[
         "Acala"
@@ -163,7 +184,7 @@
         }
     ],
     "wof:id":102075625,
-    "wof:lastmodified":1561750299,
+    "wof:lastmodified":1563370350,
     "wof:name":"Acala",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

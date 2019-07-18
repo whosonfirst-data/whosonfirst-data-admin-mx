@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":1035575.612884,
+    "geom:area_square_m":1035575.61288,
     "geom:bbox":"-95.4462126274,18.4625365085,-95.4302091382,18.4741772624",
     "geom:latitude":18.468373,
     "geom:longitude":-95.437157,
@@ -22,10 +22,22 @@
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03b5\u03c2 \u03a3\u03b1\u03c0\u03cc\u03c4\u03b5\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03b5\u03c2 \u0396\u03b1\u03c0\u03cc\u03c4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Tres Zapotes"
+    ],
     "name:fra_x_preferred":[
         "Tres Zapotes"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e1 \u05e1\u05d0\u05e4\u05d5\u05d8\u05e1"
+    ],
     "name:hun_x_preferred":[
+        "Tres Zapotes"
+    ],
+    "name:ind_x_preferred":[
         "Tres Zapotes"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +45,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30ec\u30b9\uff1d\u30b5\u30dd\u30fc\u30c6\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Tres Sapotesas"
+    ],
+    "name:nob_x_preferred":[
+        "Tres Zapotes"
     ],
     "name:nor_x_preferred":[
         "Tres Zapotes"
@@ -91,7 +109,7 @@
         }
     ],
     "wof:id":101998675,
-    "wof:lastmodified":1527641757,
+    "wof:lastmodified":1563397078,
     "wof:name":"Tres Zapotes",
     "wof:parent_id":102077695,
     "wof:placetype":"locality",

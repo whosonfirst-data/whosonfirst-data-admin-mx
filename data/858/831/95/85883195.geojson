@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5273425.612809,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.92817,19.533396,-96.92817,19.533396",
     "geom:latitude":19.533396,
     "geom:longitude":-96.92817,
@@ -24,8 +24,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09b2\u09cb\u09ae\u09be\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "Las Lomas"
+    ],
     "name:spa_x_preferred":[
         "La Loma"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441 \u041b\u043e\u043c\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Las Lomas"
     ],
     "name:unk_x_variant":[
         "Loma",
@@ -61,11 +73,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998437,
-        102077571,
-        85686671
+        102077571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874254,
+    "wof:lastmodified":1563375530,
     "wof:name":"La Loma",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

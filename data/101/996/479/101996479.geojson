@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00064,
-    "geom:area_square_m":7299378.555554,
+    "geom:area_square_m":7299378.555572,
     "geom:bbox":"-101.729231917,22.6006731029,-101.693930979,22.6409156118",
     "geom:latitude":22.621857,
     "geom:longitude":-101.71209,
@@ -17,8 +17,14 @@
     "mps:longitude":-101.712363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2\u09bf\u09a8\u09be\u09b8 \u09a6\u09c7 \u0987\u09a6\u09be\u09b2\u09cd\u0997\u09cb"
+    ],
     "name:hbs_x_preferred":[
         "Salinas de Hidalgo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ea\u30ca\u30b9\u30fb\u30c7\u30fb\u30a4\u30c0\u30eb\u30b4"
     ],
     "name:por_x_preferred":[
         "Salinas"
@@ -35,8 +41,10 @@
         "Salinas"
     ],
     "name:spa_x_variant":[
-        "Salinas",
         "Salinas del Pe\u00f1\u00f3n Blanco"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u0438\u043d\u0430\u0441 \u0434\u0435 \u0418\u0434\u0430\u043b\u0433\u043e"
     ],
     "name:vie_x_preferred":[
         "Salinas de Hidalgo"
@@ -87,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338881,
+    "wof:lastmodified":1563397347,
     "wof:name":"Salinas de Hidalgo",
     "wof:parent_id":102077201,
     "wof:placetype":"locality",

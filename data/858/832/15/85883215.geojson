@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4366823.491246,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.423462,25.568046,-103.423462,25.568046",
     "geom:latitude":25.568046,
     "geom:longitude":-103.423462,
@@ -24,7 +24,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u0987\u09b8\u09bf\u09a6\u09cd\u09b0\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "San Isidro"
+    ],
     "name:spa_x_preferred":[
+        "San Isidro"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0418\u0441\u0438\u0434\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
         "San Isidro"
     ],
     "name:unk_x_variant":[
@@ -62,11 +74,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
         102000853,
-        102078789,
-        85686689
+        102078789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874260,
+    "wof:lastmodified":1563375424,
     "wof:name":"San Isidro",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0645\u0639\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Candela"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0434\u044d\u043b\u0430"
     ],
@@ -73,8 +76,14 @@
     "name:eng_x_preferred":[
         "Candela"
     ],
+    "name:eng_x_variant":[
+        "Candela Municipality"
+    ],
     "name:epo_x_preferred":[
         "Kandelo"
+    ],
+    "name:epo_x_variant":[
+        "Candela"
     ],
     "name:est_x_preferred":[
         "Kandela"
@@ -193,6 +202,9 @@
     "name:sco_x_preferred":[
         "Candela"
     ],
+    "name:sco_x_variant":[
+        "Candela Municipality"
+    ],
     "name:slk_x_preferred":[
         "Kandela"
     ],
@@ -204,6 +216,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043d\u0434\u0435\u043b\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u043d\u0434\u0435\u043b\u0430"
     ],
     "name:swe_x_preferred":[
         "Candela"
@@ -289,7 +304,7 @@
         }
     ],
     "wof:id":102078863,
-    "wof:lastmodified":1561750198,
+    "wof:lastmodified":1563369599,
     "wof:name":"Candela",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

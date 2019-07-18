@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008684,
-    "geom:area_square_m":100507491.842517,
+    "geom:area_square_m":100507491.842526,
     "geom:bbox":"-100.478587154,20.5403066162,-100.335387585,20.6839673911",
     "geom:latitude":20.608859,
     "geom:longitude":-100.405901,
@@ -18,11 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0643\u064a\u0631\u064a\u062a\u0627\u0631\u0648"
+    ],
     "name:bar_x_preferred":[
         "Santiago de Quer\u00e9taro"
     ],
     "name:bel_x_variant":[
         "\u0421\u0430\u043d\u0442\u2019\u044f\u0433\u0430-\u0434\u044d-\u041a\u044d\u0440\u044d\u0442\u0430\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u0997\u09cb \u09a6\u09c7 \u0995\u09c7\u09b0\u09c7\u09a4\u09be\u09b0\u09cb"
     ],
     "name:bre_x_preferred":[
         "Santiago de Quer\u00e9taro"
@@ -39,6 +45,9 @@
     "name:cym_x_preferred":[
         "Santiago de Quer\u00e9taro"
     ],
+    "name:dan_x_preferred":[
+        "Quer\u00e9taro"
+    ],
     "name:deu_x_preferred":[
         "Santiago de Quer\u00e9taro"
     ],
@@ -52,7 +61,8 @@
         "Queretaro"
     ],
     "name:eng_x_variant":[
-        "Quer\u00e9taro City"
+        "Quer\u00e9taro City",
+        "Quer\u00e9taro"
     ],
     "name:epo_x_preferred":[
         "Santiago de Quer\u00e9taro"
@@ -60,14 +70,32 @@
     "name:fas_x_preferred":[
         "\u06a9\u0631\u062a\u0627\u0631\u0648\u060c \u06a9\u0631\u062a\u0627\u0631\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0631\u062a\u0627\u0631\u0648"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab5\u0ac7\u0ab0\u0ac7\u0a9f\u0ab0\u0acb"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d8\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f\u093f\u0906\u0917\u094b \u0926\u0947 \u0915\u094b\u0930\u0924\u093e\u0930\u094b"
+    ],
+    "name:ilo_x_preferred":[
+        "Siudad ti Quer\u00e9taro"
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30ec\u30bf\u30ed"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb5\u0cc6\u0cb0\u0cc6\u0c9f\u0cca"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4-\u10d9\u10d4\u10e0\u10d4\u10e2\u10d0\u10e0\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d4\u10e0\u10d4\u10e2\u10d0\u10e0\u10dd"
     ],
     "name:kir_x_preferred":[
         "Kepe\u0442apo"
@@ -78,6 +106,9 @@
     "name:lat_x_preferred":[
         "Queretarum"
     ],
+    "name:lav_x_preferred":[
+        "Keretaro"
+    ],
     "name:lit_x_preferred":[
         "Santjago de Keretaras"
     ],
@@ -86,6 +117,15 @@
     ],
     "name:nah_x_preferred":[
         "Santiago Tlachco"
+    ],
+    "name:nld_x_preferred":[
+        "Quer\u00e9taro"
+    ],
+    "name:pol_x_preferred":[
+        "Quer\u00e9taro"
+    ],
+    "name:por_x_preferred":[
+        "Quer\u00e9taro"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0440\u0435\u0442\u0430\u0440\u043e"
@@ -96,6 +136,12 @@
     "name:scn_x_preferred":[
         "Santiagu di Quer\u00e9taro"
     ],
+    "name:sco_x_preferred":[
+        "Quer\u00e9taro"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0dc0\u0dd9\u0dbb\u0dd9\u0da7\u0dcf\u0dbb\u0ddd"
+    ],
     "name:spa_x_preferred":[
         "Quer\u00e9taro"
     ],
@@ -104,6 +150,18 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0438\u0458\u0430\u0433\u043e \u0434\u0435 \u041a\u0435\u0440\u0435\u0442\u0430\u0440\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Quer\u00e9taro"
+    ],
+    "name:swe_x_preferred":[
+        "Quer\u00e9taro"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0baf\u0bc7\u0bb0\u0bc6\u0b95\u0bcd\u0b9f\u0bb0\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c42\u0c30\u0c46\u0c1f\u0c30\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e40\u0e23\u0e15\u0e32\u0e42\u0e23"
@@ -120,8 +178,17 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0627\u0631\u062a\u0627\u0631\u0648\u060c \u06a9\u0648\u0627\u0631\u062a\u0627\u0631\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u06a9\u0648\u0627\u0631\u062a\u0627\u0631\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Keretaro"
+    ],
+    "name:vie_x_preferred":[
+        "Quer\u00e9taro"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4-\u10d9\u10d4\u10e0\u10d4\u10e2\u10d0\u10e0\u10dd"
     ],
     "name:zho_x_preferred":[
         "\u514b\u96f7\u5854\u7f57"
@@ -268,7 +335,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338880,
+    "wof:lastmodified":1563397401,
     "wof:megacity":1,
     "wof:name":"Santiago de Quer\u00e9taro",
     "wof:parent_id":102077111,

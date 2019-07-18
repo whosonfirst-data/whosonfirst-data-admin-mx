@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000642,
-    "geom:area_square_m":7497344.978158,
+    "geom:area_square_m":7497344.978154,
     "geom:bbox":"-99.2687280273,19.2829979772,-99.2380020419,19.3133669993",
     "geom:latitude":19.297316,
     "geom:longitude":-99.253067,
@@ -24,10 +24,25 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u0995\u09be\u09a8\u09cd\u09a4\u09c7\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "La Cantera"
+    ],
+    "name:eng_x_preferred":[
+        "La Cantera"
+    ],
     "name:spa_x_preferred":[
         "La Carbonera"
     ],
     "name:spa_x_variant":[
+        "La Cantera"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041a\u0430\u043d\u0442\u0435\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
         "La Cantera"
     ],
     "name:unk_x_variant":[
@@ -86,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505342842,
+    "wof:lastmodified":1563375559,
     "wof:name":"La Carbonera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

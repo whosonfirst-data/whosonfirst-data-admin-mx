@@ -30,6 +30,9 @@
     "name:eus_x_preferred":[
         "Ciudad Universitaria"
     ],
+    "name:fra_x_preferred":[
+        "Ciudad Universitaria"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4"
     ],
@@ -39,11 +42,20 @@
     "name:ita_x_preferred":[
         "Citt\u00e0 Universitaria dellUNAM"
     ],
+    "name:ita_x_variant":[
+        "Citt\u00e0 Universitaria dell'UNAM"
+    ],
     "name:jpn_x_preferred":[
         "\u5927\u5b66\u90fd\u5e02"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e3\u10dc\u10d8\u10d5\u10d4\u10e0\u10e1\u10d8\u10e2\u10d4\u10e2\u10dd \u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
+    ],
+    "name:lad_x_preferred":[
+        "Sivdad Universitaria"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3f\u0d2f\u0d41\u0d21\u0d3e\u0d21\u0d4d \u0d2f\u0d42\u0d23\u0d3f\u0d35\u0d47\u0d34\u0d4d\u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3e\u0d31\u0d3f\u0d2f"
     ],
     "name:nld_x_preferred":[
         "Ciudad Universitaria"
@@ -62,6 +74,9 @@
     ],
     "name:swe_x_preferred":[
         "Campus central de Ciudad Universitaria"
+    ],
+    "name:tur_x_preferred":[
+        "Ciudad Universitaria"
     ],
     "name:unk_x_variant":[
         "University City"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":1125976649,
-    "wof:lastmodified":1561750691,
+    "wof:lastmodified":1563400376,
     "wof:name":"Ciudad Universitaria",
     "wof:parent_id":102073753,
     "wof:placetype":"locality",

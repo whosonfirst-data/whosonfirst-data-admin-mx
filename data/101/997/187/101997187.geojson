@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003767,
-    "geom:area_square_m":43927787.257251,
+    "geom:area_square_m":43927787.257255,
     "geom:bbox":"-102.09026553,19.3656544707,-102.001906526,19.4431220144",
     "geom:latitude":19.408604,
     "geom:longitude":-102.045497,
@@ -18,8 +18,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0648\u0627\u0628\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u0989\u09b0\u09cb\u09af\u09bc\u09be\u09aa\u09be\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u0440\u0443\u0430\u043f\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Uruapan"
+    ],
+    "name:cym_x_preferred":[
+        "Uruapan"
+    ],
+    "name:dan_x_preferred":[
+        "Uruapan"
     ],
     "name:deu_x_preferred":[
         "Uruapan"
@@ -30,20 +45,86 @@
     "name:eng_x_preferred":[
         "Uruapan"
     ],
+    "name:eus_x_preferred":[
+        "Uruapan"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0627\u067e\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Uruapan"
+    ],
+    "name:fra_x_preferred":[
+        "Uruapan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a89\u0ab0\u0ac1\u0a86\u0aaa\u0aa8"
     ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Uruapan"
     ],
+    "name:hin_x_preferred":[
+        "\u0909\u0930\u0941\u0935\u093e\u0902"
+    ],
+    "name:hun_x_preferred":[
+        "Uruapan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0580\u0578\u0582\u0561\u057a\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Uruapan"
+    ],
+    "name:ita_x_preferred":[
+        "Uruapan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30eb\u30a2\u30d1\u30f3\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c89\u0cb0\u0cc1\u0caa\u0ca8\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\uc6b0\ub8e8\uc544\ud310"
+    ],
+    "name:lad_x_preferred":[
+        "Uruapan"
+    ],
+    "name:lav_x_preferred":[
+        "Uruapana"
+    ],
+    "name:lit_x_preferred":[
+        "Uruapanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0909\u0930\u0941\u0905\u092a\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Uruapan"
+    ],
+    "name:nah_x_preferred":[
+        "Uruapan"
     ],
     "name:nld_x_preferred":[
         "Uruapan del Progreso"
     ],
+    "name:nld_x_variant":[
+        "Uruapan"
+    ],
+    "name:nob_x_preferred":[
+        "Uruapan"
+    ],
+    "name:pol_x_preferred":[
+        "Uruapan"
+    ],
+    "name:por_x_preferred":[
+        "Uruapan"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0443\u0430\u043f\u0430\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0dbb\u0dd4\u0db4\u0db1\u0dca"
     ],
     "name:spa_x_preferred":[
         "Uruapan del Progreso"
@@ -54,8 +135,29 @@
     "name:srp_x_preferred":[
         "\u0423\u0440\u0443\u0430\u043f\u0430\u043d \u0434\u0435\u043b \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
     ],
+    "name:swa_x_preferred":[
+        "Uruapan"
+    ],
     "name:swe_x_preferred":[
         "Uruapan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b89\u0bb0\u0bc2\u0bb5\u0bbe\u0baa\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2f\u0c41\u0c30\u0c41\u0c2f\u0c41\u0c2a\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Uruapan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e39\u0e23\u0e31\u0e27\u0e41\u0e1e\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Uruapan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0443\u0430\u043f\u0430\u043d"
     ],
     "name:und_x_preferred":[
         "UPN"
@@ -65,6 +167,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0627\u067e\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Uruapan"
+    ],
+    "name:war_x_preferred":[
+        "Uruapan"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u9b6f\u963f\u6f58"
@@ -216,7 +324,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527642066,
+    "wof:lastmodified":1563397530,
     "wof:name":"Uruapan",
     "wof:parent_id":102074973,
     "wof:placetype":"locality",

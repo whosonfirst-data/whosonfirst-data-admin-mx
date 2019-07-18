@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":572780.788389,
+    "geom:area_square_m":572780.788384,
     "geom:bbox":"-98.5801732531,20.1968393381,-98.5718028774,20.2108849968",
     "geom:latitude":20.203503,
     "geom:longitude":-98.575718,
@@ -19,6 +19,15 @@
     "mps:longitude":-98.575084,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a2\u30b9\u30ab\u30fb\u30c7\u30fb\u30aa\u30ab\u30f3\u30dd"
+    ],
+    "name:nah_x_preferred":[
+        "Huatzca Ocampo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0441\u043a\u0430-\u0434\u0435-\u041e\u043a\u0430\u043c\u043f\u043e"
+    ],
     "name:spa_x_preferred":[
         "Huasca de Ocampo"
     ],
@@ -26,6 +35,9 @@
         "Huasca",
         "Huasco",
         "Huaxca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0430\u0441\u043a\u0430 \u0434\u0435 \u041e\u043a\u0430\u043c\u043f\u043e"
     ],
     "name:unk_x_variant":[
         "Huasca"
@@ -84,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637039,
+    "wof:lastmodified":1563369634,
     "wof:name":"Huasca de Ocampo",
     "wof:parent_id":102078499,
     "wof:placetype":"locality",

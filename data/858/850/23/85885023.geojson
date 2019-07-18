@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3624653.638654,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.012024,20.099785,-97.012024,20.099785",
     "geom:latitude":20.099785,
     "geom:longitude":-97.012024,
@@ -24,10 +24,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b8\u09cb \u09ac\u09cd\u09b2\u09be\u0999\u09cd\u0995\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Paso Blanco"
+    ],
     "name:spa_x_preferred":[
         "Palo Blanco"
     ],
     "name:spa_x_variant":[
+        "Paso Blanco"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0441\u043e \u0411\u043b\u0430\u043d\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
         "Paso Blanco"
     ],
     "name:unk_x_variant":[
@@ -65,10 +77,10 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077605,
-        85686671
+        102077605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874693,
+    "wof:lastmodified":1563375406,
     "wof:name":"Palo Blanco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

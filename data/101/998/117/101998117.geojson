@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":1016491.784111,
+    "geom:area_square_m":1016491.78411,
     "geom:bbox":"-95.0047328573,17.9352763605,-94.9914718671,17.9479886563",
     "geom:latitude":17.941587,
     "geom:longitude":-94.998064,
@@ -23,8 +23,14 @@
     "name:cat_x_preferred":[
         "Devesa"
     ],
+    "name:cat_x_variant":[
+        "devesa"
+    ],
     "name:deu_x_preferred":[
         "Dehesa"
+    ],
+    "name:eng_x_preferred":[
+        "dehesa"
     ],
     "name:ext_x_preferred":[
         "Hesa"
@@ -32,17 +38,38 @@
     "name:fra_x_preferred":[
         "Dehesa"
     ],
+    "name:fra_x_variant":[
+        "dehesa"
+    ],
     "name:glg_x_preferred":[
         "Devesa"
+    ],
+    "name:isl_x_preferred":[
+        "Afr\u00e9ttur"
     ],
     "name:ita_x_preferred":[
         "Dehesa"
     ],
+    "name:ita_x_variant":[
+        "dehesa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a8\u30b5"
+    ],
+    "name:nld_x_preferred":[
+        "dehesa"
+    ],
     "name:por_x_preferred":[
         "Montado"
     ],
+    "name:por_x_variant":[
+        "montado"
+    ],
     "name:spa_x_preferred":[
         "Dehesa"
+    ],
+    "name:spa_x_variant":[
+        "dehesa"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
@@ -84,7 +111,7 @@
         }
     ],
     "wof:id":101998117,
-    "wof:lastmodified":1527641760,
+    "wof:lastmodified":1563397137,
     "wof:name":"Dehesa",
     "wof:parent_id":102077389,
     "wof:placetype":"locality",

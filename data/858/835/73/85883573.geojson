@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8725804.37383,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.578114,20.963972,-89.578114,20.963972",
     "geom:latitude":20.963972,
     "geom:longitude":-89.578114,
@@ -30,13 +30,16 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u062a\u0634\u0646 \u0625\u064a\u062a\u0632\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Chich\u00e9n Itz\u00e1"
+    ],
     "name:aze_x_preferred":[
         "\u00c7i\u00e7en-\u0130tsa"
     ],
-    "name:bel_x_preferred":[
-        "\u0427\u044b\u0447\u044d\u043d-\u0406\u0446\u0430"
+    "name:aze_x_variant":[
+        "Portal:Meksika/Tarixi abid\u0259"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0427\u044b\u0447\u044d\u043d-\u0406\u0446\u0430"
     ],
     "name:ben_x_preferred":[
@@ -66,8 +69,14 @@
     "name:div_x_preferred":[
         "\u0797\u07a9\u0797\u07ac\u0782\u07b0 \u0787\u07a9\u0793\u07b0\u0790\u07a7"
     ],
+    "name:dty_x_preferred":[
+        "\u091a\u093f\u091a\u0947\u0928 \u0907\u091f\u094d\u091c\u093e"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b9\u03c4\u03c3\u03ad\u03bd \u0399\u03c4\u03b6\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Chichen Itza"
     ],
     "name:epo_x_preferred":[
         "Chich\u00e9n Itz\u00e1"
@@ -84,8 +93,14 @@
     "name:fra_x_preferred":[
         "Chich\u00e9n Itz\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Chich\u00e9n Itz\u00e1"
+    ],
     "name:glg_x_preferred":[
         "Chich\u00e9n Itz\u00e1"
+    ],
+    "name:glg_x_variant":[
+        "Chichen Itz\u00e1"
     ],
     "name:grn_x_preferred":[
         "Chich\u00e9n Itz\u00e1"
@@ -165,6 +180,9 @@
     "name:mzn_x_preferred":[
         "\u0686\u06cc\u0686\u0646 \u0627\u06cc\u062a\u0632\u0627"
     ],
+    "name:nah_x_preferred":[
+        "Chich\u00e9n Itz\u00e1"
+    ],
     "name:nds_nld_x_preferred":[
         "Chichen Itza"
     ],
@@ -173,6 +191,9 @@
     ],
     "name:nld_x_preferred":[
         "Chich\u00e9n Itz\u00e1"
+    ],
+    "name:nob_x_preferred":[
+        "Chichen Itza"
     ],
     "name:nor_x_preferred":[
         "Chichen Itza"
@@ -208,8 +229,14 @@
         "Chichen Itza",
         "Chich\u00e9n Itz\u00e1"
     ],
+    "name:sqi_x_preferred":[
+        "\u00c7i\u00e7en Ica"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0438\u0447\u0435\u043d \u0418\u0446\u0430"
+    ],
+    "name:stq_x_preferred":[
+        "Chich\u00e9n Itz\u00e1"
     ],
     "name:swe_x_preferred":[
         "Chich\u00e9n Itz\u00e1"
@@ -223,17 +250,26 @@
     "name:tha_x_preferred":[
         "\u0e0a\u0e35\u0e40\u0e0a\u0e19\u0e2d\u0e34\u0e15\u0e0b\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e0a\u0e34\u0e40\u0e0a\u0e19\u0e2d\u0e34\u0e15\u0e0b\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Chich\u00e9n Itz\u00e1"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0447\u0435\u043d-\u0406\u0446\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0427\u0456\u0447\u0435\u043d-\u0406\u0446\u0430"
+    ],
     "name:unk_x_variant":[
         "Chichen Itza"
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0686\u0646 \u0627\u06cc\u062a\u0632\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Chichen-itsa"
     ],
     "name:vie_x_preferred":[
         "Khu di t\u00edch Chich\u00e9n Itz\u00e1"
@@ -280,11 +316,11 @@
     "wd:longitude":-88.568611,
     "wd:wordcount":9208,
     "wof:belongsto":[
+        85686701,
         102191575,
         85633293,
         102001097,
-        102078971,
-        85686701
+        102078971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -309,7 +345,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874375,
+    "wof:lastmodified":1563375411,
     "wof:name":"Chichen Itza",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

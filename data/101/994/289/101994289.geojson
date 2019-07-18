@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000792,
-    "geom:area_square_m":8584867.436508,
+    "geom:area_square_m":8584867.436488,
     "geom:bbox":"-107.274630716,28.7489773868,-107.241523795,28.7960618346",
     "geom:latitude":28.774919,
     "geom:longitude":-107.256175,
@@ -15,14 +15,33 @@
     "mps:latitude":28.775703,
     "mps:longitude":-107.257298,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bachiniva"
+    ],
+    "name:deu_x_preferred":[
+        "Bach\u00edniva"
+    ],
+    "name:eng_x_preferred":[
+        "Bach\u00edniva"
+    ],
     "name:epo_x_preferred":[
         "Bach\u00edniva"
     ],
     "name:eus_x_preferred":[
         "Bach\u00edniva"
     ],
+    "name:fra_x_preferred":[
+        "Bach\u00edniva"
+    ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Bach\u00edniva"
+    ],
+    "name:nah_x_preferred":[
+        "Bach\u00edniva"
+    ],
+    "name:nld_x_preferred":[
+        "Bach\u00edniva"
     ],
     "name:por_x_preferred":[
         "Bach\u00edniva"
@@ -42,6 +61,12 @@
     "name:spa_x_variant":[
         "Bachimva",
         "Bachiniba",
+        "Bachiniva"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0447\u0438\u043d\u0438\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Bachiniva"
     ],
     "name:unk_x_variant":[
@@ -95,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1501269603,
+    "wof:lastmodified":1563398253,
     "wof:name":"Bach\u00edniva",
     "wof:parent_id":102075215,
     "wof:placetype":"locality",

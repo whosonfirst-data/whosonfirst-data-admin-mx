@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000636,
-    "geom:area_square_m":7346547.572975,
+    "geom:area_square_m":7346547.572986,
     "geom:bbox":"-97.6941728408,20.8903461861,-97.6611331395,20.9280171354",
     "geom:latitude":20.908777,
     "geom:longitude":-97.676887,
@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u064a\u0648\u0633 \u062f\u064a\u0644 \u0623\u0644\u0627\u0645\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09be\u09ae\u09cb"
     ],
     "name:cat_x_preferred":[
         "Narrillos del \u00c1lamo"
@@ -47,11 +50,20 @@
     "name:ita_x_preferred":[
         "Narrillos del \u00c1lamo"
     ],
+    "name:lad_x_preferred":[
+        "\u00c1lamo"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0430\u043c\u043e"
     ],
     "name:spa_x_preferred":[
         "Narrillos del \u00c1lamo"
+    ],
+    "name:spa_x_variant":[
+        "\u00c1lamo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0430\u043c\u043e"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":101998731,
-    "wof:lastmodified":1553815698,
+    "wof:lastmodified":1563397074,
     "wof:name":"\u00c1lamo",
     "wof:parent_id":102077729,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8127915.598831,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.129359,15.743373,-96.129359,15.743373",
     "geom:latitude":15.743373,
     "geom:longitude":-96.129359,
@@ -33,6 +33,9 @@
     "name:arg_x_preferred":[
         "Secta"
     ],
+    "name:ast_x_preferred":[
+        "Secta"
+    ],
     "name:aze_x_preferred":[
         "Sekta"
     ],
@@ -40,7 +43,8 @@
         "\u0421\u0435\u043a\u0442\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0421\u044d\u043a\u0442\u0430"
+        "\u0421\u044d\u043a\u0442\u0430",
+        "\u0441\u0435\u043a\u0442\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09c7\u09b0\u0995\u09be"
@@ -54,8 +58,17 @@
     "name:cat_x_preferred":[
         "Secta"
     ],
+    "name:cat_x_variant":[
+        "secta"
+    ],
     "name:ces_x_preferred":[
         "Sekta"
+    ],
+    "name:ces_x_variant":[
+        "sekta"
+    ],
+    "name:cym_x_preferred":[
+        "Sect"
     ],
     "name:dan_x_preferred":[
         "Sekt"
@@ -69,8 +82,14 @@
     "name:ell_x_preferred":[
         "\u03a3\u03ad\u03ba\u03c4\u03b1"
     ],
+    "name:eng_x_preferred":[
+        "sect"
+    ],
     "name:epo_x_preferred":[
         "Sekto"
+    ],
+    "name:epo_x_variant":[
+        "sekto"
     ],
     "name:est_x_preferred":[
         "Sekt"
@@ -84,6 +103,12 @@
     "name:fin_x_preferred":[
         "Lahko"
     ],
+    "name:fin_x_variant":[
+        "lahko"
+    ],
+    "name:fra_x_preferred":[
+        "secte"
+    ],
     "name:glg_x_preferred":[
         "Seita"
     ],
@@ -93,11 +118,20 @@
     "name:heb_x_preferred":[
         "\u05db\u05ea"
     ],
+    "name:heb_x_variant":[
+        "\u05db\u05ea \u05d3\u05ea\u05d9\u05ea"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u092e\u094d\u092a\u094d\u0930\u0926\u093e\u092f"
+    ],
     "name:hrv_x_preferred":[
         "Sekta"
     ],
     "name:hun_x_preferred":[
         "Szekta"
+    ],
+    "name:hun_x_variant":[
+        "szekta"
     ],
     "name:ido_x_preferred":[
         "Sekto"
@@ -108,11 +142,17 @@
     "name:ind_x_preferred":[
         "Sekte"
     ],
+    "name:ind_x_variant":[
+        "sekte"
+    ],
     "name:isl_x_preferred":[
         "S\u00e9rtr\u00faars\u00f6fnu\u00f0ur"
     ],
     "name:ita_x_preferred":[
         "Setta"
+    ],
+    "name:ita_x_variant":[
+        "setta"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30af\u30c8"
@@ -129,8 +169,17 @@
     "name:kor_x_preferred":[
         "\uacc4\ud30c"
     ],
+    "name:kor_x_variant":[
+        "\uceec\ud2b8"
+    ],
+    "name:lat_x_preferred":[
+        "Cultus"
+    ],
     "name:lav_x_preferred":[
         "Sekta"
+    ],
+    "name:lav_x_variant":[
+        "sekta"
     ],
     "name:lit_x_preferred":[
         "Sekta"
@@ -144,14 +193,35 @@
     "name:nld_x_preferred":[
         "Sekte"
     ],
+    "name:nld_x_variant":[
+        "sekte"
+    ],
+    "name:nno_x_preferred":[
+        "Sekt"
+    ],
+    "name:nob_x_preferred":[
+        "sekt"
+    ],
     "name:nor_x_preferred":[
+        "Sekt"
+    ],
+    "name:oci_x_preferred":[
+        "S\u00e8cta"
+    ],
+    "name:pih_x_preferred":[
         "Sekt"
     ],
     "name:pol_x_preferred":[
         "Sekta"
     ],
+    "name:pol_x_variant":[
+        "sekta"
+    ],
     "name:por_x_preferred":[
         "Seita"
+    ],
+    "name:por_x_variant":[
+        "seita"
     ],
     "name:ron_x_preferred":[
         "Sect\u0103"
@@ -159,8 +229,14 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u043a\u0442\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0441\u0435\u043a\u0442\u0430"
+    ],
     "name:sco_x_preferred":[
         "Sect"
+    ],
+    "name:sco_x_variant":[
+        "sect"
     ],
     "name:slk_x_preferred":[
         "Sekta"
@@ -172,17 +248,32 @@
         "Sect A",
         "Secta"
     ],
+    "name:spa_x_variant":[
+        "secta"
+    ],
     "name:sqi_x_preferred":[
         "Sekti"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043a\u0442\u0430"
     ],
+    "name:srp_x_variant":[
+        "\u0441\u0435\u043a\u0442\u0430"
+    ],
     "name:swe_x_preferred":[
         "Sekt"
     ],
+    "name:swe_x_variant":[
+        "sekt"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u0437\u04b3\u0430\u0431"
+    ],
     "name:tgl_x_preferred":[
         "Sekta"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e31\u0e17\u0e18\u0e34\u0e1a\u0e39\u0e0a\u0e32"
     ],
     "name:tur_x_preferred":[
         "Mezhep"
@@ -190,11 +281,17 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043a\u0442\u0430\u043d\u0442\u0441\u0442\u0432\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u0441\u0435\u043a\u0442\u0430\u043d\u0442\u0441\u0442\u0432\u043e"
+    ],
     "name:unk_x_variant":[
         "Sect A"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0631\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00f4n ph\u00e1i"
     ],
     "name:zho_x_preferred":[
         "\u6d3e\u7cfb"
@@ -227,10 +324,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":1777,
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
-        102075805,
-        85686623
+        102075805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -255,7 +352,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874734,
+    "wof:lastmodified":1563375426,
     "wof:name":"Sect A",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

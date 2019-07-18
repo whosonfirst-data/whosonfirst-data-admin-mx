@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":2511434.665586,
+    "geom:area_square_m":2511434.665585,
     "geom:bbox":"-99.1548041844,18.9640901385,-99.135372805,18.9822332948",
     "geom:latitude":18.973555,
     "geom:longitude":-99.144888,
@@ -17,8 +17,20 @@
     "mps:longitude":-99.143732,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0995\u09be\u09a4\u09be\u09b0\u09bf\u09a8\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Santa Catarina"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Catarina"
     ],
     "name:unk_x_variant":[
         "Santa Catarina Zacatepec"
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":101993259,
-    "wof:lastmodified":1507750811,
+    "wof:lastmodified":1563398111,
     "wof:name":"Santa Catarina",
     "wof:parent_id":102074233,
     "wof:placetype":"locality",
