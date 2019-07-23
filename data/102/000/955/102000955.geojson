@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013691,
-    "geom:area_square_m":152097808.724627,
+    "geom:area_square_m":152097808.724582,
     "geom:bbox":"-98.41958214,25.9397581923,-98.1728244955,26.1310467108",
     "geom:latitude":26.049803,
     "geom:longitude":-98.298464,
@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0646\u0648\u0633\u0627"
+    ],
     "name:bel_x_variant":[
         "\u0420\u044d\u0439\u043d\u043e\u0441\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c7\u09a8\u09cb\u09b8\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0435\u0439\u043d\u043e\u0441\u0430"
@@ -35,6 +41,9 @@
     "name:deu_x_preferred":[
         "Reynosa"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03ca\u03bd\u03cc\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Reynosa"
     ],
@@ -47,8 +56,14 @@
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0646\u0648\u0633\u0627 \u062a\u0627\u0645\u0627\u0626\u0648\u0644\u06cc\u067e\u0627\u0633"
     ],
+    "name:fin_x_preferred":[
+        "Reynosa"
+    ],
     "name:fra_x_preferred":[
         "Reynosa"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0ac7\u0aa8\u0acb\u0ab8\u0abe"
     ],
     "name:hbs_x_preferred":[
         "Reynosa"
@@ -56,7 +71,19 @@
     "name:heb_x_preferred":[
         "\u05e8\u05d9\u05d9\u05e0\u05d5\u05e1\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u0928\u094b\u0938\u093e"
+    ],
     "name:hun_x_preferred":[
+        "Reynosa"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u0575\u0576\u0578\u057d\u0561"
+    ],
+    "name:ilo_x_preferred":[
+        "Reynosa"
+    ],
+    "name:ind_x_preferred":[
         "Reynosa"
     ],
     "name:ita_x_preferred":[
@@ -65,16 +92,37 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30a4\u30ce\u30b5"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cc7\u0ca8\u0ccb\u0cb8\u0cbe"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10d8\u10dc\u10dd\u10e1\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub808\uc774\ub178\uc0ac"
     ],
+    "name:lad_x_preferred":[
+        "Reynosa"
+    ],
+    "name:lav_x_preferred":[
+        "Reinosa"
+    ],
     "name:lit_x_preferred":[
         "Reinosa"
     ],
+    "name:mar_x_preferred":[
+        "\u0930\u0947\u0928\u094b\u0938\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Reynosa"
+    ],
+    "name:nah_x_preferred":[
+        "Reynosa"
+    ],
     "name:nld_x_preferred":[
+        "Reynosa"
+    ],
+    "name:nob_x_preferred":[
         "Reynosa"
     ],
     "name:nor_x_preferred":[
@@ -88,6 +136,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0439\u043d\u043e\u0441\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dd9\u0db1\u0ddc\u0dc3\u0dcf"
+    ],
+    "name:slv_x_preferred":[
+        "Reynosa"
     ],
     "name:spa_x_preferred":[
         "Reynosa"
@@ -105,11 +159,23 @@
     "name:swe_x_preferred":[
         "Reynosa"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bc7\u0ba8\u0bcb\u0b9a\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c47\u0c28\u0c4b\u0c38"
+    ],
     "name:tgl_x_preferred":[
         "Reynosa"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e23\u0e22\u0e4c\u0e42\u0e19\u0e0b\u0e48\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Reynosa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0439\u043d\u043e\u0441\u0430"
     ],
     "name:und_x_preferred":[
         "REX"
@@ -125,6 +191,9 @@
     ],
     "name:war_x_preferred":[
         "Reynosa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10d4\u10d8\u10dc\u10dd\u10e1\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u96f7\u8afe\u85a9"
@@ -271,7 +340,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338907,
+    "wof:lastmodified":1563369647,
     "wof:name":"Reynosa",
     "wof:parent_id":102078965,
     "wof:placetype":"locality",

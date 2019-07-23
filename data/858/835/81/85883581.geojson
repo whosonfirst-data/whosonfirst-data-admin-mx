@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5206147.239824,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.040344,22.167906,-101.040344,22.167906",
     "geom:latitude":22.167906,
     "geom:longitude":-101.040344,
@@ -24,7 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Los Pirules"
+    ],
     "name:spa_x_preferred":[
+        "Los Pirules"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0441 \u041f\u0438\u0440\u0443\u043b\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
         "Los Pirules"
     ],
     "name:unk_x_variant":[
@@ -61,10 +70,10 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
-        102077193,
-        85686647
+        102077193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874378,
+    "wof:lastmodified":1563375412,
     "wof:name":"Los Pirules",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

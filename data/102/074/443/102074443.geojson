@@ -31,11 +31,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0630\u0628\u062d"
     ],
+    "name:ast_x_preferred":[
+        "Altar"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u0442\u0430\u0440"
     ],
-    "name:bel_x_variant":[
-        "\u0410\u043b\u0442\u0430\u0440"
+    "name:bre_x_preferred":[
+        "Aoter"
     ],
     "name:bul_x_preferred":[
         "\u041e\u043b\u0442\u0430\u0440"
@@ -43,8 +46,17 @@
     "name:cat_x_preferred":[
         "Altar"
     ],
+    "name:cat_x_variant":[
+        "altar"
+    ],
     "name:ces_x_preferred":[
         "Olt\u00e1\u0159"
+    ],
+    "name:ces_x_variant":[
+        "olt\u00e1\u0159"
+    ],
+    "name:cym_x_preferred":[
+        "Allor"
     ],
     "name:dan_x_preferred":[
         "Alter"
@@ -58,11 +70,20 @@
     "name:eng_x_preferred":[
         "Altar"
     ],
+    "name:eng_x_variant":[
+        "altar"
+    ],
     "name:epo_x_preferred":[
         "Altaro"
     ],
+    "name:epo_x_variant":[
+        "altaro"
+    ],
     "name:est_x_preferred":[
         "Altar"
+    ],
+    "name:est_x_variant":[
+        "altar"
     ],
     "name:eus_x_preferred":[
         "Aldare"
@@ -73,14 +94,26 @@
     "name:fin_x_preferred":[
         "Alttari"
     ],
+    "name:fin_x_variant":[
+        "alttari"
+    ],
     "name:fra_x_preferred":[
         "Autel"
+    ],
+    "name:fra_x_variant":[
+        "autel"
     ],
     "name:gla_x_preferred":[
         "Altair"
     ],
+    "name:gle_x_preferred":[
+        "alt\u00f3ir"
+    ],
     "name:glg_x_preferred":[
         "Altar"
+    ],
+    "name:glv_x_preferred":[
+        "altaragh"
     ],
     "name:got_x_preferred":[
         "\ud800\udf37\ud800\udf3f\ud800\udf3d\ud800\udf43\ud800\udf3b\ud800\udf30\ud800\udf43\ud800\udf44\ud800\udf30\ud800\udf38\ud800\udf43"
@@ -97,6 +130,9 @@
     "name:hun_x_preferred":[
         "Olt\u00e1r"
     ],
+    "name:hun_x_variant":[
+        "olt\u00e1r"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u057f\u0561\u0580\u0565"
     ],
@@ -112,6 +148,9 @@
     "name:ita_x_preferred":[
         "Altare"
     ],
+    "name:ita_x_variant":[
+        "altare"
+    ],
     "name:jpn_x_preferred":[
         "\u796d\u58c7"
     ],
@@ -121,6 +160,9 @@
     "name:kaz_x_preferred":[
         "\u0410\u043b\u0442\u0430\u0440\u044c"
     ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17b6\u179f\u1793\u17b6"
+    ],
     "name:kor_x_preferred":[
         "\uc81c\ub2e8"
     ],
@@ -129,6 +171,9 @@
     ],
     "name:lav_x_preferred":[
         "Alt\u0101ris"
+    ],
+    "name:lav_x_variant":[
+        "alt\u0101ris"
     ],
     "name:lim_x_preferred":[
         "Altaor"
@@ -145,23 +190,44 @@
     "name:mkd_x_preferred":[
         "\u041e\u043b\u0442\u0430\u0440"
     ],
+    "name:nap_x_preferred":[
+        "Avetale"
+    ],
     "name:nds_x_preferred":[
         "Altar"
     ],
     "name:nld_x_preferred":[
         "Altaar"
     ],
+    "name:nld_x_variant":[
+        "altaar"
+    ],
     "name:nno_x_preferred":[
         "Altar"
+    ],
+    "name:nno_x_variant":[
+        "altar"
+    ],
+    "name:nob_x_preferred":[
+        "alter"
     ],
     "name:nor_x_preferred":[
         "Alter"
     ],
+    "name:oci_x_preferred":[
+        "Altar"
+    ],
     "name:pol_x_preferred":[
         "O\u0142tarz"
     ],
+    "name:pol_x_variant":[
+        "o\u0142tarz"
+    ],
     "name:por_x_preferred":[
         "Altar"
+    ],
+    "name:por_x_variant":[
+        "altar"
     ],
     "name:ron_x_preferred":[
         "Altar"
@@ -181,8 +247,14 @@
     "name:spa_x_preferred":[
         "Altar"
     ],
+    "name:spa_x_variant":[
+        "altar"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043b\u0442\u0430\u0440"
+    ],
+    "name:srp_x_variant":[
+        "\u043e\u043b\u0442\u0430\u0440"
     ],
     "name:swa_x_preferred":[
         "Altare"
@@ -207,6 +279,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0432\u0442\u0430\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Altar"
     ],
     "name:zho_x_preferred":[
         "\u796d\u58c7"
@@ -260,7 +335,7 @@
         }
     ],
     "wof:id":102074443,
-    "wof:lastmodified":1560450167,
+    "wof:lastmodified":1563370110,
     "wof:name":"Altar",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

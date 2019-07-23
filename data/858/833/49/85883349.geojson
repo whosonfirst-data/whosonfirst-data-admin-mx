@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2875727.198321,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.604309,19.50802,-101.604309,19.50802",
     "geom:latitude":19.50802,
     "geom:longitude":-101.604309,
@@ -24,8 +24,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0641\u0646\u062a\u064a\u0646\u0648 \u0631\u0648\u0633\u0627\u0633"
+    ],
     "name:cat_x_preferred":[
         "Juventino Rosas"
+    ],
+    "name:cat_x_variant":[
+        "Juventino Rosas Cadenas"
     ],
     "name:dan_x_preferred":[
         "Juventino Rosas"
@@ -33,11 +39,17 @@
     "name:deu_x_preferred":[
         "Juventino Rosas"
     ],
+    "name:eng_x_preferred":[
+        "Juventino Rosas Cadenas"
+    ],
     "name:fin_x_preferred":[
         "Juventino Rosas"
     ],
     "name:fra_x_preferred":[
         "Juventino Rosas"
+    ],
+    "name:glg_x_preferred":[
+        "Juventino Rosas Cadenas"
     ],
     "name:hun_x_preferred":[
         "Juventino Rosas"
@@ -48,8 +60,20 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30d9\u30f3\u30c6\u30a3\u30fc\u30ce\u30fb\u30ed\u30fc\u30b5\u30b9"
     ],
+    "name:nah_x_preferred":[
+        "Juventino Rosas"
+    ],
     "name:nld_x_preferred":[
         "Juventino Rosas Cadenas"
+    ],
+    "name:nno_x_preferred":[
+        "Juventino Rosas"
+    ],
+    "name:nob_x_preferred":[
+        "Juventino Rosas"
+    ],
+    "name:pol_x_preferred":[
+        "Juventino Rosas"
     ],
     "name:por_x_preferred":[
         "Juventino Rosas"
@@ -57,8 +81,14 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0441\u0430\u0441"
     ],
+    "name:slv_x_preferred":[
+        "Juventino Rosas Cadenas"
+    ],
     "name:spa_x_preferred":[
         "Juventino Rosas"
+    ],
+    "name:spa_x_variant":[
+        "Juventino Rosas Cadenas"
     ],
     "name:swe_x_preferred":[
         "Juventino Rosas"
@@ -100,11 +130,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":783,
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997213,
-        102074965,
-        85686595
+        102074965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +160,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874301,
+    "wof:lastmodified":1563375440,
     "wof:name":"Juventino Rosas",
     "wof:parent_id":101997213,
     "wof:placetype":"neighbourhood",

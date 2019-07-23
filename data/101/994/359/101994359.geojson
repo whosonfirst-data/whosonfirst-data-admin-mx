@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001352,
-    "geom:area_square_m":16013722.3219,
+    "geom:area_square_m":16013722.321922,
     "geom:bbox":"-93.0582457565,16.6907080378,-92.9776691125,16.7529438583",
     "geom:latitude":16.725277,
     "geom:longitude":-93.019505,
@@ -17,6 +17,12 @@
     "mps:longitude":-93.0201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a2\u30d1\u30fb\u30c7\u30fb\u30b3\u30eb\u30bd"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\uc544\ud30c\ub370\ucf54\ub974\uc18c"
+    ],
     "name:lit_x_preferred":[
         "\u010ciapa de Korsas"
     ],
@@ -32,6 +38,9 @@
     "name:spa_x_variant":[
         "Chiapa",
         "Chiapa de Corza"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0458\u0430\u043f\u0430 \u0434\u0435 \u041a\u043e\u0440\u0437\u043e"
     ],
     "name:unk_x_variant":[
         "Chiapa"
@@ -88,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527714441,
+    "wof:lastmodified":1563398307,
     "wof:name":"Chiapa de Corzo",
     "wof:parent_id":102075515,
     "wof:placetype":"locality",

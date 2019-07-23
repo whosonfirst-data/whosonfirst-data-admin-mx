@@ -17,8 +17,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ceb_x_preferred":[
+        "Tula"
+    ],
+    "name:deu_x_preferred":[
+        "Tula"
+    ],
     "name:eng_x_preferred":[
         "Tula"
+    ],
+    "name:eng_x_variant":[
+        "Ciudad Tula"
     ],
     "name:epo_x_preferred":[
         "Tula"
@@ -35,11 +44,17 @@
     "name:rus_x_preferred":[
         "\u0422\u0443\u043b\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434-\u0422\u0443\u043b\u0430"
+    ],
     "name:spa_x_preferred":[
         "Ciudad Tula"
     ],
     "name:spa_x_variant":[
         "Tula"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u0443\u0434\u0430\u0434 \u0422\u0443\u043b\u0430"
     ],
     "name:swe_x_preferred":[
         "Tula"
@@ -182,7 +197,7 @@
         }
     ],
     "wof:id":102001033,
-    "wof:lastmodified":1561750215,
+    "wof:lastmodified":1563369855,
     "wof:name":"Ciudad Tula",
     "wof:parent_id":102078883,
     "wof:placetype":"locality",

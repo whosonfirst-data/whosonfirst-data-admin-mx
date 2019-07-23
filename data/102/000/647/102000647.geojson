@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00603,
-    "geom:area_square_m":67330741.600787,
+    "geom:area_square_m":67330741.600761,
     "geom:bbox":"-100.208630212,25.34642394,-100.080608645,25.5211688758",
     "geom:latitude":25.432756,
     "geom:longitude":-100.156197,
@@ -19,14 +19,29 @@
     "mps:longitude":-100.146558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Santiago"
+    ],
     "name:eng_x_preferred":[
+        "Santiago"
+    ],
+    "name:epo_x_preferred":[
+        "Santiago"
+    ],
+    "name:fur_x_preferred":[
         "Santiago"
     ],
     "name:hbs_x_preferred":[
         "Santiago"
     ],
+    "name:ita_x_preferred":[
+        "Santiago"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30c6\u30a3\u30a2\u30b4"
+    ],
+    "name:lad_x_preferred":[
+        "Santiago"
     ],
     "name:nah_x_preferred":[
         "Santiago"
@@ -51,6 +66,12 @@
     ],
     "name:spa_x_preferred":[
         "Villa de Santiago",
+        "Santiago"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago"
+    ],
+    "name:vec_x_preferred":[
         "Santiago"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527637043,
+    "wof:lastmodified":1563369735,
     "wof:name":"Santiago",
     "wof:parent_id":102078681,
     "wof:placetype":"locality",

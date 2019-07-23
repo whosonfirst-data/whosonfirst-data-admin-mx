@@ -24,8 +24,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":6.7,
     "mz:tier_locality":1,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u0997\u09cb\u09b8 \u09a6\u09c7 \u09ae\u09cb\u09b0\u09c7\u09a8\u09cb"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b3\u03bf\u03c2 \u03b4\u03b5 \u039c\u03bf\u03c1\u03ad\u03bd\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Lagos de Moreno"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06af\u0648\u0633 \u062f \u0645\u0648\u0631\u0646\u0648"
     ],
     "name:nld_x_preferred":[
         "Lagos de Moreno"
@@ -33,9 +42,15 @@
     "name:spa_x_preferred":[
         "Lagos de Moreno Centro"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0433\u043e\u0441 \u0434\u0435 \u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
     "name:unk_x_variant":[
         "Lagos de Moreno",
         "Lagos de Moreno Centro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06af\u0648\u0633 \u062f\u06d2 \u0645\u0648\u0631\u06cc\u0646\u0648"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -168,7 +183,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957723,
+    "wof:lastmodified":1563375474,
     "wof:name":"Lagos de Moreno Centro",
     "wof:parent_id":101998033,
     "wof:placetype":"neighbourhood",

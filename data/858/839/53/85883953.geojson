@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3180906.243386,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.281067,25.62456,-100.281067,25.62456",
     "geom:latitude":25.62456,
     "geom:longitude":-100.281067,
@@ -24,7 +24,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09ac\u09cd\u09b0\u09bf\u09b8\u09be\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "Las Brisas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Brisas"
+    ],
     "name:spa_x_preferred":[
+        "Las Brisas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441 \u0411\u0440\u0438\u0441\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
         "Las Brisas"
     ],
     "name:unk_x_variant":[
@@ -63,11 +78,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874424,
+    "wof:lastmodified":1563375575,
     "wof:name":"Las Brisas",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

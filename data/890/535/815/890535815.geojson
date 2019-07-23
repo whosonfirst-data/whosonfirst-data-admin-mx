@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.962971,19.225508,-98.962971,19.225508",
     "geom:latitude":19.225508,
     "geom:longitude":-98.962971,
@@ -15,6 +16,21 @@
     "mps:longitude":-98.962971,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "San Andr\u00e9s Mixquic"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s Mixquic"
+    ],
+    "name:nld_x_preferred":[
+        "San Andr\u00e9s Mixquic"
+    ],
+    "name:pol_x_preferred":[
+        "San Andr\u00e9s M\u00edxquic"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s M\u00edxquic"
+    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Distrito Federal",
     "qs:a1_lc":"09",
@@ -35,10 +51,10 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":2478,
     "wof:belongsto":[
+        85686515,
         102191575,
         85633293,
-        102073757,
-        85686515
+        102073757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +74,7 @@
         }
     ],
     "wof:id":890535815,
-    "wof:lastmodified":1531939964,
+    "wof:lastmodified":1563400024,
     "wof:name":"San Andr\u00e9s Mixquic",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

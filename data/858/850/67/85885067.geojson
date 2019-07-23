@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5996621.721442,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.341125,19.908801,-99.341125,19.908801",
     "geom:latitude":19.908801,
     "geom:longitude":-99.341125,
@@ -25,12 +25,18 @@
     "mz:max_zoom":0.0,
     "mz:min_zoom":0.0,
     "mz:tier_locality":1,
+    "name:nah_x_preferred":[
+        "Tep\u0113xitl \u0100t\u014dy\u0101mpa Ocampo"
+    ],
     "name:spa_x_preferred":[
         "Tepeji Del Rio de Ocampo"
     ],
     "name:spa_x_variant":[
         "Tepeji del Rio de Ocampo",
         "Tepeji del R\u00edo de Ocampo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0435\u043f\u0435\u0445\u0438 \u0434\u0435\u043b \u0420\u0438\u043e \u0434\u0435 \u041e\u043a\u0430\u043c\u043f\u043e"
     ],
     "name:unk_x_variant":[
         "Tepeji del R\u00edo",
@@ -68,11 +74,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686665,
         102191575,
         85633293,
         102000241,
-        102078623,
-        85686665
+        102078623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874706,
+    "wof:lastmodified":1563375401,
     "wof:name":"Tepeji Del Rio de Ocampo",
     "wof:parent_id":102000241,
     "wof:placetype":"neighbourhood",

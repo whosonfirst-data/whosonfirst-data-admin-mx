@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":2184278.376518,
+    "geom:area_square_m":2184278.376512,
     "geom:bbox":"-102.080403159,22.0840131509,-102.057955845,22.1025009749",
     "geom:latitude":22.094623,
     "geom:longitude":-102.069483,
@@ -17,7 +17,22 @@
     "mps:longitude":-102.069485,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0987\u09af\u09bc\u09be \u09b9\u09c1\u09af\u09bc\u09be\u09b0\u09c7\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa Ju\u00e1rez"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u0425\u0443\u0430\u0440\u0435\u0441"
+    ],
     "name:spa_x_preferred":[
+        "Villa Ju\u00e1rez"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0459\u0430 \u0425\u0443\u0430\u0440\u0435\u0437"
+    ],
+    "name:swe_x_preferred":[
         "Villa Ju\u00e1rez"
     ],
     "qs:a0":"Mexico",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":101996887,
-    "wof:lastmodified":1505338884,
+    "wof:lastmodified":1563397342,
     "wof:name":"Villa Ju\u00e1rez",
     "wof:parent_id":102077375,
     "wof:placetype":"locality",

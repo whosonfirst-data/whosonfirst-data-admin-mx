@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001107,
-    "geom:area_square_m":12179932.985766,
+    "geom:area_square_m":12179932.985747,
     "geom:bbox":"-104.936709472,27.1084941168,-104.892184693,27.154433541",
     "geom:latitude":27.128195,
     "geom:longitude":-104.91207,
@@ -15,6 +15,19 @@
     "mps:latitude":27.125543,
     "mps:longitude":-104.913935,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b9\u09cb\u09b8\u09c7 \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09a8\u09cb \u09b9\u09bf\u09ae\u09c7\u09a8\u09c7\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "Jos\u00e9 Mariano Jim\u00e9nez"
+    ],
+    "name:deu_x_preferred":[
+        "Ciudad Jim\u00e9nez"
+    ],
+    "name:eng_x_preferred":[
+        "Jos\u00e9 Mariano Jim\u00e9nez"
+    ],
     "name:eng_x_variant":[
         "Jiminez"
     ],
@@ -26,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u043c\u0435\u043d\u0435\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u0441\u0435-\u041c\u0430\u0440\u044c\u044f\u043d\u043e-\u0425\u0438\u043c\u0435\u043d\u0435\u0441"
     ],
     "name:sco_x_preferred":[
         "Ciudad Jim\u00e9nez"
@@ -41,7 +57,12 @@
     "name:spa_x_variant":[
         "Ciudad Jimenez",
         "Ciudad Jim\u00e9nez",
-        "Jim\u00e9nez",
+        "Jos\u00e9 Mariano Jim\u00e9nez"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0441\u0435 \u041c\u0430\u0440\u0438\u0458\u0430\u043d\u043e \u0425\u0438\u043c\u0435\u043d\u0435\u0437"
+    ],
+    "name:swe_x_preferred":[
         "Jos\u00e9 Mariano Jim\u00e9nez"
     ],
     "qs:a0":"Mexico",
@@ -93,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497291366,
+    "wof:lastmodified":1563398311,
     "wof:name":"Jos\u00e9 Mariano Jim\u00e9nez",
     "wof:parent_id":102075293,
     "wof:placetype":"locality",

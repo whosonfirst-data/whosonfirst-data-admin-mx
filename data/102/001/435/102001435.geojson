@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":4467086.442065,
+    "geom:area_square_m":4467086.442052,
     "geom:bbox":"-90.6229453183,19.7848218423,-90.5843140874,19.8173776588",
     "geom:latitude":19.79927,
     "geom:longitude":-90.60286,
@@ -21,8 +21,17 @@
     "name:eng_x_preferred":[
         "Lerma"
     ],
+    "name:lad_x_preferred":[
+        "Lerma"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0440\u043c\u0430"
+    ],
     "name:spa_x_preferred":[
         "Lerma"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0440\u043c\u0430"
     ],
     "name:unk_x_variant":[
         "Zerma de Villada"
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":102001435,
-    "wof:lastmodified":1514487389,
+    "wof:lastmodified":1563369859,
     "wof:name":"Lerma",
     "wof:parent_id":102079219,
     "wof:placetype":"locality",

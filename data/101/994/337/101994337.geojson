@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005241,
-    "geom:area_square_m":58447195.731768,
+    "geom:area_square_m":58447195.731753,
     "geom:bbox":"-103.543571859,25.535577352,-103.440578956,25.6348161788",
     "geom:latitude":25.583379,
     "geom:longitude":-103.487909,
@@ -18,19 +18,49 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0645\u064a\u0632 \u0628\u0627\u0644\u0627\u0633\u064a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09ae\u09c7\u09b8 \u09aa\u09be\u09b2\u09be\u09b8\u09bf\u0993"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u043c\u0435\u0441 \u041f\u0430\u043b\u0430\u0441\u0438\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Gomez Palacio"
     ],
     "name:dan_x_preferred":[
         "G\u00f3mez Palacio"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03bc\u03b5\u03c2 \u03a0\u03b1\u03bb\u03ac\u03c3\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Lerdo City"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0645\u0632 \u067e\u0627\u0644\u0627\u0633\u06cc\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "G\u00f3mez Palacio"
     ],
     "name:fra_x_preferred":[
         "G\u00f3mez Palacio"
     ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acb\u0aae\u0ac7\u0a9d \u0aaa\u0ab2\u0abe\u0ab8\u0abf\u0a93"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05de\u05e1 \u05e4\u05dc\u05e1\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u092e\u0947\u091c\u093c \u092a\u093e\u0932\u093e\u0938\u093f\u092f\u094b"
+    ],
     "name:hun_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:ind_x_preferred":[
         "G\u00f3mez Palacio"
     ],
     "name:ita_x_preferred":[
@@ -39,11 +69,50 @@
     "name:jpn_x_preferred":[
         "\u30b4\u30e1\u30b9\u30d1\u30e9\u30b7\u30aa"
     ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cca\u0cae\u0cc6\u0c9c\u0ccd \u0caa\u0cb2\u0cbe\u0cb6\u0cbf\u0caf\u0ccb"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10db\u10d4\u10e1-\u10de\u10d0\u10da\u10d0\u10e1\u10d8\u10dd"
     ],
     "name:kor_x_preferred":[
         "\uace0\uba54\uc2a4\ud314\ub77c\uc2dc\uc624"
+    ],
+    "name:lad_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:lav_x_preferred":[
+        "Gomez-Palasio"
+    ],
+    "name:lit_x_preferred":[
+        "Gomes Palasijus"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094b\u092e\u0947\u091d \u092a\u0945\u0932\u093e\u0938\u0940\u0913"
+    ],
+    "name:msa_x_preferred":[
+        "Gomez Palacio"
+    ],
+    "name:nah_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:nld_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:nob_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:pol_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:por_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043c\u0435\u0441-\u041f\u0430\u043b\u0430\u0441\u0438\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0ddd\u0db8\u0dd9\u0dc3\u0dca \u0db4\u0dbd\u0dc3\u0dd2\u0dba\u0ddd"
     ],
     "name:spa_x_colloquial":[
         "Gomez Palacio"
@@ -53,6 +122,45 @@
     ],
     "name:spa_x_variant":[
         "Gomez Palacio"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u043c\u0435\u0437 \u041f\u0430\u043b\u0430\u0441\u0438\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bae\u0bc7\u0bb8\u0bcd   \u0baa\u0bbe\u0bb2\u0b9a\u0bbf\u0baf\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4b\u0c2e\u0c46\u0c1c\u0c4d \u0c2a\u0c3e\u0c32\u0c3e\u0c38\u0c3f\u0c2f\u0c4b"
+    ],
+    "name:tgl_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e01\u0e40\u0e21\u0e0b \u0e1b\u0e32\u0e25\u0e32\u0e0b\u0e34\u0e42\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043c\u0435\u0441-\u041f\u0430\u043b\u0430\u0441\u0456\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0645\u06cc\u0632 \u067e\u0627\u0644\u0627\u0633\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:war_x_preferred":[
+        "G\u00f3mez Palacio"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u9ea5\u65af\u5e15\u62c9\u897f\u5967"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -197,7 +305,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527714436,
+    "wof:lastmodified":1563398235,
     "wof:name":"G\u00f3mez Palacio",
     "wof:parent_id":102075131,
     "wof:placetype":"locality",

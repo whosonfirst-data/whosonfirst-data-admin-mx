@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000898,
-    "geom:area_square_m":10535462.259708,
+    "geom:area_square_m":10535462.259743,
     "geom:bbox":"-95.23677175,18.4187588858,-95.1905715063,18.4648659405",
     "geom:latitude":18.446422,
     "geom:longitude":-95.21538,
@@ -17,11 +17,17 @@
     "mps:longitude":-95.213825,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Andres Tuxtla"
+    ],
     "name:deu_x_preferred":[
         "San Andr\u00e9s Tuxtla"
     ],
     "name:eng_x_preferred":[
         "S. Andres Tuxtla"
+    ],
+    "name:eng_x_variant":[
+        "San Andr\u00e9s Tuxtla"
     ],
     "name:epo_x_preferred":[
         "San Andr\u00e9s Tuxtla"
@@ -59,8 +65,17 @@
         "Tuxtla",
         "San Andres Tuxtla"
     ],
+    "name:swe_x_preferred":[
+        "San Andres Tuxtla"
+    ],
     "name:unk_x_variant":[
         "Tuxtla"
+    ],
+    "name:vie_x_preferred":[
+        "San Andr\u00e9s Tuxtla"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u5fb7\u70c8\u65af-\u5716\u65af\u7279\u62c9"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
@@ -112,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338895,
+    "wof:lastmodified":1563397186,
     "wof:name":"San Andr\u00e9s Tuxtla",
     "wof:parent_id":102077691,
     "wof:placetype":"locality",

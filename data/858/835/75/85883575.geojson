@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2582858.556008,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.941223,19.520963,-96.941223,19.520963",
     "geom:latitude":19.520963,
     "geom:longitude":-96.941223,
@@ -24,8 +24,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09b2\u09cb\u09a8\u09bf\u09af\u09bc\u09be \u09ac\u09c7\u09a8\u09bf\u09a4\u09cb \u09b9\u09c1\u09af\u09bc\u09be\u09b0\u09c7\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "Colonia Benito Ju\u00e1rez"
+    ],
+    "name:eng_x_preferred":[
+        "Colonia Benito Ju\u00e1rez"
+    ],
     "name:spa_x_preferred":[
         "Benito Juarez"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0438\u0458\u0430 \u0411\u0435\u043d\u0438\u0442\u043e \u0425\u0443\u0430\u0440\u0435\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia Benito Ju\u00e1rez"
     ],
     "name:unk_x_variant":[
         "Benito Juarez"
@@ -59,11 +74,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998437,
-        102077571,
-        85686671
+        102077571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874376,
+    "wof:lastmodified":1563375412,
     "wof:name":"Benito Juarez",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

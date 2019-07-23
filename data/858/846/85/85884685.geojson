@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6438825.166843,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.597588,19.109488,-99.597588,19.109488",
     "geom:latitude":19.109488,
     "geom:longitude":-99.597588,
@@ -26,8 +26,14 @@
     "name:deu_x_preferred":[
         "Teotenango"
     ],
+    "name:eng_x_preferred":[
+        "Teotenango"
+    ],
     "name:fin_x_preferred":[
         "Teotenango"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30aa\u30c6\u30ca\u30f3\u30b4"
     ],
     "name:spa_x_preferred":[
         "Teotenango"
@@ -70,10 +76,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":2918,
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102074043,
-        85686527
+        102074043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874589,
+    "wof:lastmodified":1563375469,
     "wof:name":"Teotenango",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

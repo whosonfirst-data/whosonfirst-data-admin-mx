@@ -37,6 +37,9 @@
     "name:ast_x_preferred":[
         "Oriente"
     ],
+    "name:ast_x_variant":[
+        "Oriental"
+    ],
     "name:bos_x_preferred":[
         "Orijent"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "Orient"
+    ],
+    "name:ceb_x_preferred":[
+        "Oriental"
     ],
     "name:ces_x_preferred":[
         "Orient"
@@ -60,6 +66,9 @@
     ],
     "name:eng_x_preferred":[
         "Oriental"
+    ],
+    "name:eng_x_variant":[
+        "Oriental Municipality"
     ],
     "name:epo_x_preferred":[
         "Oriental"
@@ -127,6 +136,9 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u041e\u0440\u044c\u0435\u043d\u0442\u0430\u043b\u044c"
+    ],
     "name:sco_x_preferred":[
         "Orient"
     ],
@@ -136,17 +148,29 @@
     "name:spa_x_preferred":[
         "Oriente"
     ],
+    "name:spa_x_variant":[
+        "Oriental"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0440\u0438\u0458\u0435\u043d\u0442"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041e\u0440\u0438\u0458\u0435\u043d\u0442\u0430\u043b"
+    ],
     "name:swe_x_preferred":[
         "Orienten"
+    ],
+    "name:swe_x_variant":[
+        "Oriental"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434"
     ],
     "name:vie_x_preferred":[
         "Orient"
+    ],
+    "name:vie_x_variant":[
+        "Oriental"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"Puebla",
@@ -195,7 +219,7 @@
         }
     ],
     "wof:id":102078223,
-    "wof:lastmodified":1561750190,
+    "wof:lastmodified":1563369554,
     "wof:name":"Oriental",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4599900.849241,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.267626,27.338018,-112.267626,27.338018",
     "geom:latitude":27.338018,
     "geom:longitude":-112.267626,
@@ -27,8 +27,20 @@
     "name:cat_x_preferred":[
         "Ranxeria"
     ],
+    "name:cat_x_variant":[
+        "ranxeria"
+    ],
+    "name:eng_x_preferred":[
+        "rancher\u00eda"
+    ],
     "name:fry_x_preferred":[
         "Rancher\u00eda"
+    ],
+    "name:fry_x_variant":[
+        "rancher\u00eda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30c1\u30a7\u30ea\u30a2"
     ],
     "name:pol_x_preferred":[
         "Rancher\u00eda"
@@ -70,11 +82,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":560,
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
         101993451,
-        102074521,
-        85686555
+        102074521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874320,
+    "wof:lastmodified":1563375443,
     "wof:name":"Rancheria",
     "wof:parent_id":101993451,
     "wof:placetype":"neighbourhood",

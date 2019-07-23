@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00113,
-    "geom:area_square_m":13034084.328299,
+    "geom:area_square_m":13034084.328309,
     "geom:bbox":"-89.3058725828,21.0779742438,-89.260733058,21.1178645359",
     "geom:latitude":21.09676,
     "geom:longitude":-89.282062,
@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Motul"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u091f\u0941\u0932 \u092f\u0942\u0915\u093e\u091f\u0928"
+    ],
     "name:hun_x_preferred":[
         "Motul de Carrillo Puerto"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "Motul"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u062a\u0648\u0644 "
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -181,7 +187,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338908,
+    "wof:lastmodified":1563369820,
     "wof:name":"Motul de Carrillo Puerto",
     "wof:parent_id":102079207,
     "wof:placetype":"locality",

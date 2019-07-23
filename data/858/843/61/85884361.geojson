@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6916147.502875,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.194399,19.539893,-99.194399,19.539893",
     "geom:latitude":19.539893,
     "geom:longitude":-99.194399,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Tlalnepantla"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043b\u0430\u043b\u043d\u0435\u043f\u0430\u043d\u0442\u043b\u0430"
     ],
@@ -33,6 +36,12 @@
     "name:spa_x_variant":[
         "Tlanepantla de baz",
         "Tlalnepantla de baz"
+    ],
+    "name:swe_x_preferred":[
+        "San Luis Potosi Centro"
+    ],
+    "name:swe_x_variant":[
+        "Tlalnepantla"
     ],
     "name:unk_x_variant":[
         "Tlalnepantla de Galeana",
@@ -70,11 +79,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991513,
-        102073949,
-        85686527
+        102073949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874514,
+    "wof:lastmodified":1563375383,
     "wof:name":"Tlalnepantla de Baz",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",
