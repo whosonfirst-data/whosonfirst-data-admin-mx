@@ -18,8 +18,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Areeta"
+    ],
+    "name:eus_x_preferred":[
+        "Areeta"
+    ],
+    "name:fra_x_preferred":[
+        "Areeta"
+    ],
+    "name:glg_x_preferred":[
+        "Areeta"
+    ],
+    "name:ita_x_preferred":[
+        "Las Arenas"
+    ],
     "name:spa_x_preferred":[
         "Las Canoas"
+    ],
+    "name:spa_x_variant":[
+        "Las Arenas"
     ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":"MX",
@@ -48,10 +66,10 @@
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686665,
         102191575,
         85633293,
-        102078553,
-        85686665
+        102078553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":1126100271,
-    "wof:lastmodified":1509412083,
+    "wof:lastmodified":1564173336,
     "wof:name":"Las Arenas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

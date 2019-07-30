@@ -26,6 +26,12 @@
     "iso:country":"MX",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0442\u043e-\u0434\u0435-\u0410\u0433\u0443\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u043b\u0442\u043e \u0434\u0435 \u0410\u0433\u0432\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +42,7 @@
         "gn:id":8919395
     },
     "wof:country":"MX",
-    "wof:geomhash":"facc19fef9e54d285cf4042730c29f04",
+    "wof:geomhash":"54bd2b3c5190048cb5f6f6ca57b62c07",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209513957,
-    "wof:lastmodified":1536284793,
+    "wof:lastmodified":1564160970,
     "wof:name":"Salto de Agua",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +63,9 @@
 },
   "bbox": [
     -93.45611,
-    16.401670000000006,
+    16.40167000000001,
     -93.45611,
-    16.401670000000006
+    16.40167000000001
 ],
   "geometry": {"coordinates":[-93.45611,16.40167000000001],"type":"Point"}
 }

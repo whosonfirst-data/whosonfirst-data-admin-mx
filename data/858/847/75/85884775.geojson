@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8040436.159963,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.94886,20.692214,-103.94886,20.692214",
     "geom:latitude":20.692214,
     "geom:longitude":-103.94886,
@@ -42,6 +42,12 @@
     "name:spa_x_preferred":[
         "La Floresta"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0424\u043b\u043e\u0440\u0435\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Floresta"
+    ],
     "name:unk_x_variant":[
         "La Floresta"
     ],
@@ -75,10 +81,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":72,
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
-        102074657,
-        85686603
+        102074657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874616,
+    "wof:lastmodified":1564147296,
     "wof:name":"La Floresta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

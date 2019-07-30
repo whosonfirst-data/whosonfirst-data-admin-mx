@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5266001.960229,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.951599,18.890695,-96.951599,18.890695",
     "geom:latitude":18.890695,
     "geom:longitude":-96.951599,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "La Esmeralda"
+    ],
     "name:deu_x_preferred":[
         "La Esmeralda"
     ],
@@ -34,6 +37,12 @@
         "La Esmeralda"
     ],
     "name:spa_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0415\u0441\u043c\u0435\u0440\u0430\u043b\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
         "La Esmeralda"
     ],
     "name:unk_x_variant":[
@@ -70,11 +79,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":60,
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998261,
-        102077479,
-        85686671
+        102077479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874386,
+    "wof:lastmodified":1564147341,
     "wof:name":"La Esmeralda",
     "wof:parent_id":101998261,
     "wof:placetype":"neighbourhood",

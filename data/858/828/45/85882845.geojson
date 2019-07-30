@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8187932.218077,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.063354,16.784382,-93.063354,16.784382",
     "geom:latitude":16.784382,
     "geom:longitude":-93.063354,
@@ -24,10 +24,34 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:epo_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:eus_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:hun_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:ita_x_preferred":[
+        "Loma Bonita"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0430-\u0411\u043e\u043d\u0438\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Loma Bonita"
+    ],
     "name:spa_x_preferred":[
         "Loma Bonita"
     ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u043e\u043c\u0430 \u0411\u043e\u043d\u0438\u0442\u0430"
+    ],
     "name:unk_x_variant":[
+        "Loma Bonita"
+    ],
+    "name:vie_x_preferred":[
         "Loma Bonita"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -59,10 +83,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
-        102075513,
-        85686611
+        102075513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874142,
+    "wof:lastmodified":1564147174,
     "wof:name":"Loma Bonita",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

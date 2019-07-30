@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2828189.832089,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.868713,19.660694,-98.868713,19.660694",
     "geom:latitude":19.660694,
     "geom:longitude":-98.868713,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "Del Valle"
+    ],
     "name:spa_x_preferred":[
         "Del Valle"
     ],
@@ -59,10 +62,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102074039,
-        85686527
+        102074039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874195,
+    "wof:lastmodified":1564147360,
     "wof:name":"Del Valle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

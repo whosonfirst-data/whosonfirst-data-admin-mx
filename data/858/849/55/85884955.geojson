@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3110270.644678,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.417053,20.774092,-103.417053,20.774092",
     "geom:latitude":20.774092,
     "geom:longitude":-103.417053,
@@ -23,11 +23,68 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "El Tigre"
+    ],
+    "name:dan_x_preferred":[
+        "El Tigre"
+    ],
+    "name:deu_x_preferred":[
+        "El Tigre"
+    ],
+    "name:epo_x_preferred":[
+        "El Tigre"
+    ],
+    "name:fra_x_preferred":[
+        "El Tigre"
+    ],
+    "name:glg_x_preferred":[
+        "El Tigre"
+    ],
+    "name:ita_x_preferred":[
+        "El Tigre"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e2\u10d8\u10d2\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ud2f0\uadf8\ub808"
+    ],
+    "name:lit_x_preferred":[
+        "El Tigr\u0117"
+    ],
+    "name:nor_x_preferred":[
+        "El Tigre"
+    ],
+    "name:pol_x_preferred":[
+        "El Tigre"
+    ],
+    "name:por_x_preferred":[
+        "El Tigre"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0438\u0433\u0440\u0435"
+    ],
     "name:spa_x_preferred":[
         "El Tigre"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u043b-\u0422\u0438\u0433\u0440\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e25\u0e15\u0e34\u0e40\u0e01\u0e23"
+    ],
     "name:unk_x_variant":[
         "El Tigre"
+    ],
+    "name:vol_x_preferred":[
+        "El Tigre"
+    ],
+    "name:war_x_preferred":[
+        "El Tigre"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u8482\u683c\u96f7"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -59,10 +116,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
-        102074709,
-        85686603
+        102074709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +143,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874674,
+    "wof:lastmodified":1564147289,
     "wof:name":"El Tigre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

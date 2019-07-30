@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3346420.522338,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.31838,25.678744,-100.31838,25.678744",
     "geom:latitude":25.678744,
     "geom:longitude":-100.31838,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Sarabia"
+    ],
     "name:deu_x_preferred":[
         "Sarabia"
     ],
@@ -36,7 +39,16 @@
     "name:ita_x_preferred":[
         "Sarabia"
     ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub77c\ube44\uc544"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0431\u0438\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Sarabia"
+    ],
+    "name:swe_x_preferred":[
         "Sarabia"
     ],
     "name:unk_x_variant":[
@@ -73,11 +85,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":133,
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874426,
+    "wof:lastmodified":1564147368,
     "wof:name":"Sarabia",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Lindavista"
+    ],
+    "name:nor_x_preferred":[
+        "Lindavista"
+    ],
     "name:spa_x_preferred":[
         "Linda Vista"
+    ],
+    "name:spa_x_variant":[
+        "Lindavista"
     ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":"MX",
@@ -50,10 +59,10 @@
     "woe:name_adm1":"Chiapas",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
-        102075545,
-        85686611
+        102075545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1126108435,
-    "wof:lastmodified":1509412488,
+    "wof:lastmodified":1564173264,
     "wof:name":"Lindavista",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

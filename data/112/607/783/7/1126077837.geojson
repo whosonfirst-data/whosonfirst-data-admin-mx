@@ -18,8 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0574\u0561 \u0532\u056c\u0561\u0576\u056f\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0430-\u0411\u043b\u0430\u043d\u043a\u0430"
+    ],
     "name:spa_x_preferred":[
         "U\u00f1a de Gato"
+    ],
+    "name:spa_x_variant":[
+        "Loma Blanca"
     ],
     "name:unk_x_variant":[
         "Rancho Loma Blanca"
@@ -51,10 +60,10 @@
     "woe:name_adm1":"Nuevo Leon",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
-        102078697,
-        85686681
+        102078697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1126077837,
-    "wof:lastmodified":1509411005,
+    "wof:lastmodified":1564173918,
     "wof:name":"Loma Blanca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

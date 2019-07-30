@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3414708.683747,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.662856,19.289566,-99.662856,19.289566",
     "geom:latitude":19.289566,
     "geom:longitude":-99.662856,
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "La Merced"
+    ],
     "name:deu_x_preferred":[
         "La Merced"
     ],
@@ -35,10 +38,16 @@
     "name:nld_x_preferred":[
         "La Merced"
     ],
+    "name:pol_x_preferred":[
+        "La Merced"
+    ],
     "name:por_x_preferred":[
         "La Merced"
     ],
     "name:spa_x_preferred":[
+        "La Merced"
+    ],
+    "name:swe_x_preferred":[
         "La Merced"
     ],
     "name:unk_x_variant":[
@@ -78,11 +87,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991705,
-        102074009,
-        85686527
+        102074009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874112,
+    "wof:lastmodified":1564147136,
     "wof:name":"La Merced",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",

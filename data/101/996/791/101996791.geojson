@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":3313043.247716,
+    "geom:area_square_m":3313043.247717,
     "geom:bbox":"-101.466703605,20.9361637593,-101.440991618,20.9515026978",
     "geom:latitude":20.944174,
     "geom:longitude":-101.452601,
@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "Franco"
     ],
+    "name:bel_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0440\u0430\u043d\u043a\u043e"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:deu_x_preferred":[
         "Franco"
+    ],
+    "name:eml_x_preferred":[
+        "Franch"
     ],
     "name:eus_x_preferred":[
         "Franco"
@@ -52,13 +58,22 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05e0\u05e7\u05d5"
     ],
+    "name:ind_x_preferred":[
+        "Franco"
+    ],
     "name:ita_x_preferred":[
         "Franco"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30e9\u30f3\u30b3"
     ],
+    "name:kor_x_preferred":[
+        "\ud504\ub791\ucf54"
+    ],
     "name:lit_x_preferred":[
+        "Franco"
+    ],
+    "name:nds_x_preferred":[
         "Franco"
     ],
     "name:nld_x_preferred":[
@@ -84,6 +99,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0424\u0440\u0430\u043d\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Franco"
     ],
     "name:tur_x_preferred":[
         "Franco"
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":101996791,
-    "wof:lastmodified":1527641804,
+    "wof:lastmodified":1564171217,
     "wof:name":"Franco",
     "wof:parent_id":102077327,
     "wof:placetype":"locality",

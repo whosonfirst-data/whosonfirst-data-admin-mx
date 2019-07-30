@@ -26,6 +26,15 @@
     "iso:country":"MX",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Delicias"
+    ],
+    "name:ita_x_preferred":[
+        "Las Delicias"
+    ],
+    "name:swe_x_preferred":[
+        "Las Delicias"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +45,7 @@
         "gn:id":3999963
     },
     "wof:country":"MX",
-    "wof:geomhash":"f60ced26528b43858bfa83b2ce46f5c0",
+    "wof:geomhash":"615bfbe5ec0a1ef5e8e2e2ad7735e882",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209262307,
-    "wof:lastmodified":1536292647,
+    "wof:lastmodified":1564161853,
     "wof:name":"Las Delicias",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +66,9 @@
 },
   "bbox": [
     -110.22303,
-    29.979340000000004,
+    29.97934,
     -110.22303,
-    29.979340000000004
+    29.97934
 ],
   "geometry": {"coordinates":[-110.22302999999999,29.97934],"type":"Point"}
 }

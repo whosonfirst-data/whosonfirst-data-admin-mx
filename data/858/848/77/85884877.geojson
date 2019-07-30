@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4157621.41253,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.449271,25.664959,-100.449271,25.664959",
     "geom:latitude":25.664959,
     "geom:longitude":-100.449271,
@@ -36,7 +36,16 @@
     "name:fra_x_preferred":[
         "Santa Catalina"
     ],
+    "name:glg_x_preferred":[
+        "Santa Catalina"
+    ],
     "name:hbs_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u053f\u0561\u057f\u0561\u056c\u056b\u0576\u0561"
+    ],
+    "name:ilo_x_preferred":[
         "Santa Catalina"
     ],
     "name:ita_x_preferred":[
@@ -107,11 +116,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000649,
-        102078685,
-        85686681
+        102078685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,7 +145,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874649,
+    "wof:lastmodified":1564147278,
     "wof:name":"Santa Catalina",
     "wof:parent_id":102000649,
     "wof:placetype":"neighbourhood",

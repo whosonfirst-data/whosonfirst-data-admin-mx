@@ -18,8 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:sco_x_preferred":[
+        "Cruz Grande"
+    ],
     "name:spa_x_preferred":[
         "Coro Grande"
+    ],
+    "name:spa_x_variant":[
+        "Cruz Grande"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0443\u0437 \u0413\u0440\u0430\u043d\u0434\u0435"
     ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":"MX",
@@ -48,10 +57,10 @@
     "woe:name_adm1":"Guanajuato",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
-        102075017,
-        85686595
+        102075017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1126077263,
-    "wof:lastmodified":1509410978,
+    "wof:lastmodified":1564173978,
     "wof:name":"Cruz Grande",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

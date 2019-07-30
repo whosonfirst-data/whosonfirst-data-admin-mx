@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2147778.827601,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.320557,25.646478,-100.320557,25.646478",
     "geom:latitude":25.646478,
     "geom:longitude":-100.320557,
@@ -23,12 +23,27 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Las Canteras"
+    ],
+    "name:deu_x_preferred":[
+        "Las Canteras"
+    ],
+    "name:pol_x_preferred":[
+        "Las Canteras"
+    ],
+    "name:sco_x_preferred":[
+        "Las Canteras"
+    ],
     "name:spa_x_preferred":[
         "Las Canteras"
     ],
     "name:unk_x_variant":[
         "Cantera",
         "Las Canteras"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u06a9\u0627\u0646\u0679\u06cc\u0631\u0627\u0633"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,11 +76,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000745,
-        102078689,
-        85686681
+        102078689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874419,
+    "wof:lastmodified":1564147326,
     "wof:name":"Las Canteras",
     "wof:parent_id":102000745,
     "wof:placetype":"neighbourhood",

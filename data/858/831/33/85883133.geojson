@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3366196.50789,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.728821,17.050949,-96.728821,17.050949",
     "geom:latitude":17.050949,
     "geom:longitude":-96.728821,
@@ -24,7 +24,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "El Pueblito"
+    ],
+    "name:deu_x_preferred":[
+        "El Pueblito"
+    ],
     "name:spa_x_preferred":[
+        "El Pueblito"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u041f\u0443\u0435\u0431\u043b\u0438\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
         "El Pueblito"
     ],
     "name:unk_x_variant":[
@@ -60,11 +72,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101995147,
-        102075881,
-        85686623
+        102075881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874235,
+    "wof:lastmodified":1564147328,
     "wof:name":"El Pueblito",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7335221.901004,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.218499,19.566945,-99.218499,19.566945",
     "geom:latitude":19.566945,
     "geom:longitude":-99.218499,
@@ -24,11 +24,47 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Arboledas"
+    ],
+    "name:fra_x_preferred":[
+        "Arboledas"
+    ],
+    "name:ita_x_preferred":[
+        "Arboledas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d1\u10dd\u10da\u10d4\u10d3\u10d0\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Arboledas"
+    ],
+    "name:nld_x_preferred":[
+        "Arboledas"
+    ],
+    "name:por_x_preferred":[
+        "Arboledas"
+    ],
     "name:spa_x_preferred":[
+        "Arboledas"
+    ],
+    "name:swe_x_preferred":[
+        "Arboledas"
+    ],
+    "name:tgl_x_preferred":[
         "Arboledas"
     ],
     "name:unk_x_variant":[
         "Arboledas"
+    ],
+    "name:vie_x_preferred":[
+        "Arboledas"
+    ],
+    "name:war_x_preferred":[
+        "Arboledas"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6c83\u840a\u9054\u65af"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -60,11 +96,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101993137,
-        102074201,
-        85686527
+        102074201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874178,
+    "wof:lastmodified":1564147152,
     "wof:name":"Arboledas",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",
