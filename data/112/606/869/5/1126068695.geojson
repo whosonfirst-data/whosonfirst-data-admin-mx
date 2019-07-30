@@ -18,8 +18,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:ceb_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:deu_x_preferred":[
+        "Los Naranjos"
+    ],
     "name:spa_x_preferred":[
         "El Naranjo"
+    ],
+    "name:spa_x_variant":[
+        "Los Naranjos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Naranjos"
     ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":"MX",
@@ -48,10 +63,10 @@
     "woe:name_adm1":"Nuevo Leon",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
-        102078775,
-        85686681
+        102078775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1126068695,
-    "wof:lastmodified":1509410559,
+    "wof:lastmodified":1564173735,
     "wof:name":"Los Naranjos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

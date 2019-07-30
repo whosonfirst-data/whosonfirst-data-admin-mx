@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4868688.428047,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.239589,20.596787,-105.239589,20.596787",
     "geom:latitude":20.596787,
     "geom:longitude":-105.239589,
@@ -23,11 +23,29 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "El Palmar"
+    ],
+    "name:fra_x_preferred":[
+        "El Palmar"
+    ],
+    "name:glg_x_preferred":[
+        "El Palmar"
+    ],
+    "name:lit_x_preferred":[
+        "El Palmaras"
+    ],
     "name:spa_x_preferred":[
         "El Palmar"
     ],
     "name:spa_x_variant":[
         "La Palma"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u041f\u0430\u043b\u043c\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "El Palmar"
     ],
     "name:unk_x_variant":[
         "El Palmar"
@@ -62,11 +80,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997965,
-        102074595,
-        85686603
+        102074595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874570,
+    "wof:lastmodified":1564147262,
     "wof:name":"El Palmar",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

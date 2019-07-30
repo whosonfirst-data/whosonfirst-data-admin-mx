@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4707081.530138,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.841111,20.885629,-103.841111,20.885629",
     "geom:latitude":20.885629,
     "geom:longitude":-103.841111,
@@ -23,7 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "La Villa"
+    ],
     "name:deu_x_preferred":[
+        "La Villa"
+    ],
+    "name:fra_x_preferred":[
         "La Villa"
     ],
     "name:hbs_x_preferred":[
@@ -39,6 +45,9 @@
         "La Villa"
     ],
     "name:srp_x_preferred":[
+        "La Villa"
+    ],
+    "name:swe_x_preferred":[
         "La Villa"
     ],
     "name:unk_x_variant":[
@@ -75,11 +84,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997951,
-        102074653,
-        85686603
+        102074653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874557,
+    "wof:lastmodified":1564147158,
     "wof:name":"La Villa",
     "wof:parent_id":101997951,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,18 @@
     "iso:country":"MX",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Bandera"
+    ],
+    "name:fra_x_preferred":[
+        "La Bandera"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0411\u0430\u043d\u0434\u0435\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Bandera"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +48,7 @@
         "gn:id":8928542
     },
     "wof:country":"MX",
-    "wof:geomhash":"579453375840ef3cf37245e071f17a81",
+    "wof:geomhash":"e35bb1bbdae2581ba62da4e9e6f0a808",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +56,7 @@
         }
     ],
     "wof:id":1209413559,
-    "wof:lastmodified":1536287760,
+    "wof:lastmodified":1564159486,
     "wof:name":"La Bandera",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +69,9 @@
 },
   "bbox": [
     -93.73028,
-    16.858610000000002,
+    16.85861,
     -93.73028,
-    16.858610000000002
+    16.85861
 ],
   "geometry": {"coordinates":[-93.73027999999999,16.85861],"type":"Point"}
 }

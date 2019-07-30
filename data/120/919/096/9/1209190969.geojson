@@ -26,6 +26,18 @@
     "iso:country":"MX",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Isla"
+    ],
+    "name:spa_x_preferred":[
+        "La isla"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0418\u0441\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Isla"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +48,7 @@
         "gn:id":8925755
     },
     "wof:country":"MX",
-    "wof:geomhash":"6509d435af7b6bcf9faebf896192b406",
+    "wof:geomhash":"21786701fdcf2ccc5ac80a19fc0b912f",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +56,7 @@
         }
     ],
     "wof:id":1209190969,
-    "wof:lastmodified":1536294936,
+    "wof:lastmodified":1564161879,
     "wof:name":"La Isla",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +69,9 @@
 },
   "bbox": [
     -99.16458,
-    16.798270000000002,
+    16.79827,
     -99.16458,
-    16.798270000000002
+    16.79827
 ],
   "geometry": {"coordinates":[-99.16458,16.79827],"type":"Point"}
 }

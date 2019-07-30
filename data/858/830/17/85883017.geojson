@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4259046.154069,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.920999,19.523961,-96.920999,19.523961",
     "geom:latitude":19.523961,
     "geom:longitude":-96.920999,
@@ -23,6 +23,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Felipe Carrillo"
+    ],
+    "name:fra_x_preferred":[
+        "Felipe Carrillo Puerto"
+    ],
+    "name:nld_x_preferred":[
+        "Felipe Carrillo Puerto"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0442\u0443\u043b\u044c"
     ],
@@ -62,11 +71,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998437,
-        102077571,
-        85686671
+        102077571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874197,
+    "wof:lastmodified":1564147358,
     "wof:name":"Felipe Carrillo Puerto",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

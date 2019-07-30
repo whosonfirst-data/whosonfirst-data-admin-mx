@@ -26,6 +26,27 @@
     "iso:country":"MX",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Iturbide"
+    ],
+    "name:deu_x_preferred":[
+        "Iturbide"
+    ],
+    "name:epo_x_preferred":[
+        "Iturbide"
+    ],
+    "name:sco_x_preferred":[
+        "Iturbide"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0442\u0443\u0440\u0431\u0438\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Iturbide"
+    ],
+    "name:vie_x_preferred":[
+        "Iturbide"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +57,7 @@
         "gn:id":8877897
     },
     "wof:country":"MX",
-    "wof:geomhash":"525fa19d46e080a00ea1b793c3690428",
+    "wof:geomhash":"ca15eda5855b1997f790b61a75f1d540",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1209080321,
-    "wof:lastmodified":1536298359,
+    "wof:lastmodified":1564158686,
     "wof:name":"Iturbide",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +78,9 @@
 },
   "bbox": [
     -97.57667,
-    16.733610000000002,
+    16.73361,
     -97.57667,
-    16.733610000000002
+    16.73361
 ],
   "geometry": {"coordinates":[-97.57666999999999,16.73361],"type":"Point"}
 }

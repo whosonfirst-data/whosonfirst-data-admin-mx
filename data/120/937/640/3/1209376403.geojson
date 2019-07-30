@@ -26,6 +26,15 @@
     "iso:country":"MX",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tres Cruces"
+    ],
+    "name:deu_x_preferred":[
+        "Tres Cruces"
+    ],
+    "name:spa_x_preferred":[
+        "Tres Cruces"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +45,7 @@
         "gn:id":8891344
     },
     "wof:country":"MX",
-    "wof:geomhash":"ead797edf5cd21c3e9798793301c0716",
+    "wof:geomhash":"e22c8bfb726459572830110b152fca5c",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209376403,
-    "wof:lastmodified":1536288935,
+    "wof:lastmodified":1564158756,
     "wof:name":"Tres Cruces",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +66,9 @@
 },
   "bbox": [
     -97.70167,
-    17.177220000000002,
+    17.17722,
     -97.70167,
-    17.177220000000002
+    17.17722
 ],
   "geometry": {"coordinates":[-97.70166999999999,17.17722],"type":"Point"}
 }

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3670664.273494,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.55658,18.007467,-94.55658,18.007467",
     "geom:latitude":18.007467,
     "geom:longitude":-94.55658,
@@ -24,11 +24,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ita_x_preferred":[
+        "Rosalinda"
+    ],
     "name:por_x_preferred":[
         "Rosalinda"
     ],
     "name:spa_x_preferred":[
         "Rosalinda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0441\u0430\u043b\u0438\u043d\u0434\u0430"
     ],
     "name:unk_x_variant":[
         "Rosalinda"
@@ -64,11 +70,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":67,
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         102000637,
-        102077489,
-        85686671
+        102077489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874198,
+    "wof:lastmodified":1564147359,
     "wof:name":"Rosalinda",
     "wof:parent_id":102000637,
     "wof:placetype":"neighbourhood",

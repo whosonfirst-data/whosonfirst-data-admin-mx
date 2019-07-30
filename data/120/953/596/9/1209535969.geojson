@@ -26,6 +26,18 @@
     "iso:country":"MX",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Leona"
+    ],
+    "name:spa_x_preferred":[
+        "La leona"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041b\u0435\u043e\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Leona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +47,7 @@
         "gn:id":4001626
     },
     "wof:country":"MX",
-    "wof:geomhash":"27bbb8b905152bf62c89080040939155",
+    "wof:geomhash":"ce599bea2ad1f1e56854b712d769a242",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209535969,
-    "wof:lastmodified":1536284141,
+    "wof:lastmodified":1564158134,
     "wof:name":"La Leona",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +66,9 @@
 },
   "bbox": [
     -101.08333,
-    25.866670000000006,
+    25.86667000000001,
     -101.08333,
-    25.866670000000006
+    25.86667000000001
 ],
   "geometry": {"coordinates":[-101.08333,25.86667000000001],"type":"Point"}
 }

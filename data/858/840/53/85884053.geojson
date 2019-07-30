@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2740444.141508,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.352783,25.697226,-100.352783,25.697226",
     "geom:latitude":25.697226,
     "geom:longitude":-100.352783,
@@ -24,7 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Leones"
+    ],
+    "name:ita_x_preferred":[
+        "Leones"
+    ],
     "name:spa_x_preferred":[
+        "Leones"
+    ],
+    "name:swe_x_preferred":[
         "Leones"
     ],
     "name:unk_x_variant":[
@@ -60,11 +69,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874432,
+    "wof:lastmodified":1564147305,
     "wof:name":"Leones",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

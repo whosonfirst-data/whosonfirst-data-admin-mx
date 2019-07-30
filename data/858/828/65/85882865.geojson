@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24885402.678097,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.03952,21.922058,-100.03952,21.922058",
     "geom:latitude":21.922058,
     "geom:longitude":-100.03952,
@@ -23,7 +23,28 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Refugio"
+    ],
+    "name:deu_x_preferred":[
+        "Refugio"
+    ],
+    "name:nld_x_preferred":[
+        "Refugio"
+    ],
+    "name:pol_x_preferred":[
+        "Refugio"
+    ],
+    "name:por_x_preferred":[
+        "Ref\u00fagio"
+    ],
     "name:spa_x_preferred":[
+        "Refugio"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0444\u0458\u0443\u0440\u0438\u043e"
+    ],
+    "name:swe_x_preferred":[
         "Refugio"
     ],
     "name:unk_x_variant":[
@@ -60,11 +81,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996455,
-        102077231,
-        85686647
+        102077231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874149,
+    "wof:lastmodified":1564147175,
     "wof:name":"Refugio",
     "wof:parent_id":101996455,
     "wof:placetype":"neighbourhood",

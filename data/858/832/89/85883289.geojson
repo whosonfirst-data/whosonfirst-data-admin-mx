@@ -24,11 +24,30 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Jardin"
+    ],
+    "name:deu_x_preferred":[
+        "Jardin"
+    ],
+    "name:fra_x_preferred":[
+        "Jardin"
+    ],
+    "name:ita_x_preferred":[
+        "Jardin"
+    ],
+    "name:pol_x_preferred":[
+        "Jardin"
+    ],
     "name:spa_x_preferred":[
         "Jardin"
     ],
     "name:spa_x_variant":[
-        "El Jard\u00edn"
+        "El Jard\u00edn",
+        "Jard\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "Jardin"
     ],
     "name:unk_x_variant":[
         "Jard\u00edn"
@@ -92,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1564147216,
     "wof:name":"Jardin",
     "wof:parent_id":102000455,
     "wof:placetype":"neighbourhood",

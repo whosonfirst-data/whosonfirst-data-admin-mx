@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4237196.235103,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.357335,20.581905,-100.357335,20.581905",
     "geom:latitude":20.581905,
     "geom:longitude":-100.357335,
@@ -23,10 +23,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:deu_x_preferred":[
+        "Vista Hermosa"
+    ],
     "name:spa_x_preferred":[
         "Vista Hermosa"
     ],
+    "name:swe_x_preferred":[
+        "Vista Hermosa"
+    ],
     "name:unk_x_variant":[
+        "Vista Hermosa"
+    ],
+    "name:vie_x_preferred":[
         "Vista Hermosa"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -60,11 +72,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874047,
+    "wof:lastmodified":1564147320,
     "wof:name":"Vista Hermosa",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",
