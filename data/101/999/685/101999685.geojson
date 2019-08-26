@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.029112,
     "lbl:longitude":-98.314325,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.029112,
     "mps:longitude":-98.314325,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u0986\u09a8\u09cd\u09a6\u09cd\u09b0\u09c7\u09b8 \u099a\u09cb\u09b2\u09c1\u09b2\u09be"
     ],
@@ -71,7 +74,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101999685,
-    "wof:lastmodified":1563397720,
+    "wof:lastmodified":1566632563,
     "wof:name":"San Andr\u00e9s Cholula",
     "wof:parent_id":102078247,
     "wof:placetype":"locality",

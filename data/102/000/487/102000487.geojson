@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.594027,
     "lbl:longitude":-98.763258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.594027,
     "mps:longitude":-98.763258,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Metztitl\u00e1n"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,6 @@
         "fct:id":"01b8ae04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3523287,
         "gp:id":133466,
-        "qs:id":270683,
         "qs_pg:id":270683,
         "wd:id":"Q1465498",
         "wk:page":"Metztitl\u00e1n"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369744,
+    "wof:lastmodified":1566615704,
     "wof:name":"Metztitl\u00e1n",
     "wof:parent_id":102078591,
     "wof:placetype":"locality",

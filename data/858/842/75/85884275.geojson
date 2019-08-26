@@ -11,8 +11,10 @@
     "geom:longitude":-101.252927,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.257927,21.011275,-101.247927,21.021275",
     "lbl:latitude":21.016275,
     "lbl:longitude":-101.252927,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.016265,
     "mps:longitude":-101.253184,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Barrio Calz de Guadalupe"
-    ],
-    "name:unk_x_variant":[
         "Barrio Calz de Guadalupe"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -70,7 +69,9 @@
     "wof:concordances":{
         "gn:id":4005514,
         "gp:id":55887525,
-        "qs:id":475412,
+        "qs_pg:id":475412
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":531167
     },
     "wof:country":"MX",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957719,
+    "wof:lastmodified":1566619563,
     "wof:name":"Barrio Calz de Guadalupe",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00008,
-    "geom:area_square_m":930413.564335,
+    "geom:area_square_m":930413.564336,
     "geom:bbox":"-101.261306396,20.4168861682,-101.240019065,20.4245315151",
     "geom:latitude":20.42157,
     "geom:longitude":-101.252296,
     "iso:country":"MX",
     "lbl:latitude":20.422032,
     "lbl:longitude":-101.252294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.422032,
     "mps:longitude":-101.252294,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "El Rincon"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101996813,
-    "wof:lastmodified":1501269513,
+    "wof:lastmodified":1566632409,
     "wof:name":"Rinc\u00f3n de Parangueo",
     "wof:parent_id":102077319,
     "wof:placetype":"locality",

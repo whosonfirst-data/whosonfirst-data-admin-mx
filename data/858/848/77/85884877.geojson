@@ -11,8 +11,10 @@
     "geom:longitude":-100.449271,
     "gn:population":254472,
     "iso:country":"MX",
+    "lbl:bbox":"-100.454271,25.659959,-100.444271,25.669959",
     "lbl:latitude":25.664959,
     "lbl:longitude":-100.449271,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.666517,
     "mps:longitude":-100.448814,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:swe_x_preferred":[
         "Santa Catalina"
     ],
-    "name:unk_x_variant":[
-        "Santa Catalina"
-    ],
     "name:vie_x_preferred":[
         "Santa Catalina"
     ],
@@ -113,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686681,
@@ -126,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3984583,
         "gp:id":55909294,
-        "qs:id":151274,
         "qs_pg:id":151274
     },
     "wof:country":"MX",
@@ -145,7 +143,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147278,
+    "wof:lastmodified":1566619644,
     "wof:name":"Santa Catalina",
     "wof:parent_id":102000649,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.424203,
     "lbl:longitude":-98.779004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.424203,
     "mps:longitude":-98.779004,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zapotitl\u00e1n Tablas"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101991281,
-    "wof:lastmodified":1564171193,
+    "wof:lastmodified":1566632307,
     "wof:name":"Zapotitl\u00e1n Tablas",
     "wof:parent_id":102073865,
     "wof:placetype":"locality",

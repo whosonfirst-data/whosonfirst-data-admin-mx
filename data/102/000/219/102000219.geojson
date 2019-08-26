@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.185978,
     "lbl:longitude":-99.272596,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.185978,
     "mps:longitude":-99.272596,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:epo_x_preferred":[
         "Tezontepec de Aldama"
     ],
@@ -48,9 +51,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0435\u0437\u043e\u043d\u0442\u0435\u043f\u0435\u043a \u0434\u0435 \u0410\u043b\u0434\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tezontepec"
-    ],
     "name:vie_x_preferred":[
         "Tezontepec de Aldama"
     ],
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -84,7 +84,6 @@
         "fct:id":"01b97f3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515690,
         "gp:id":149228,
-        "qs:id":883741,
         "qs_pg:id":883741,
         "wd:id":"Q2652286",
         "wk:page":"Tezontepec de Aldama"
@@ -104,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369661,
+    "wof:lastmodified":1566615667,
     "wof:name":"Tezontepec de Aldama",
     "wof:parent_id":102078611,
     "wof:placetype":"locality",

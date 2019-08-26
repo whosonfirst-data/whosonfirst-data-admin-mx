@@ -10,8 +10,10 @@
     "geom:latitude":27.499456,
     "geom:longitude":-99.504866,
     "iso:country":"MX",
+    "lbl:bbox":"-99.509866,27.494456,-99.499866,27.504456",
     "lbl:latitude":27.499456,
     "lbl:longitude":-99.504866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.49609,
     "mps:longitude":-99.505975,
     "mz:hierarchy_label":0,
@@ -68,9 +70,8 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Rancho Pendencia",
-        "Independencia"
+    "name:und_x_variant":[
+        "Rancho Pendencia"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -101,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -113,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3529810,
         "gp:id":55901789,
-        "qs:id":204878,
         "qs_pg:id":204878
     },
     "wof:country":"MX",
@@ -132,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147166,
+    "wof:lastmodified":1566619564,
     "wof:name":"Independencia",
     "wof:parent_id":102000965,
     "wof:placetype":"neighbourhood",

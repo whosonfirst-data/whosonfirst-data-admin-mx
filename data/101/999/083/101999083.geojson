@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.359502,
     "lbl:longitude":-98.149097,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.359502,
     "mps:longitude":-98.149097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santa Cruz Tlaxcala"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Santa Cruz Tlaxcala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Cruz"
     ],
     "name:vec_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,7 @@
         "fct:id":"01bb07f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517538,
         "gp:id":55889803,
-        "qs:id":1012909,
+        "qs_pg:id":1012909,
         "wd:id":"Q7419435"
     },
     "wof:country":"MX",
@@ -107,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397655,
+    "wof:lastmodified":1566632524,
     "wof:name":"Santa Cruz Tlaxcala",
     "wof:parent_id":102077925,
     "wof:placetype":"locality",

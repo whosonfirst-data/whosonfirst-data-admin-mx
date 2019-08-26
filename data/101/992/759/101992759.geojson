@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.201445,
     "lbl:longitude":-99.550444,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.201445,
     "mps:longitude":-99.550444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chapultepec"
     ],
@@ -40,9 +43,6 @@
     "name:swe_x_preferred":[
         "Chapultepec"
     ],
-    "name:unk_x_variant":[
-        "San Miguel Chapultepec"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +73,6 @@
         "fct:id":"01b92014-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518280,
         "gp:id":144614,
-        "qs:id":232594,
         "qs_pg:id":232594,
         "wd:id":"Q20237410"
     },
@@ -92,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398014,
+    "wof:lastmodified":1566632714,
     "wof:name":"Chapultepec",
     "wof:parent_id":102074169,
     "wof:placetype":"locality",

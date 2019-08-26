@@ -14,6 +14,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.375484,
     "lbl:longitude":-99.084179,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.375271,
     "mps:longitude":-99.079111,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Colonia Ramos Mill\u00e1n",
         "Gabriel Ramos Millan Seccion Tlacotal",
         "Ramos Millan Tlacotal"
-    ],
-    "name:unk_x_variant":[
-        "Gabriel Ramos Mill\u00e1n Tlacotal"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPLX",
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":3527521,
         "gp:id":123823,
-        "qs:id":474843,
         "qs_pg:id":474843
     },
     "wof:country":"MX",
@@ -112,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957708,
+    "wof:lastmodified":1566619456,
     "wof:name":"Gabriel Ramos Mill\u00e1n Tlacotal",
     "wof:parent_id":890535765,
     "wof:placetype":"neighbourhood",

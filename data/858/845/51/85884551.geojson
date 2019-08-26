@@ -10,8 +10,10 @@
     "geom:latitude":20.677817,
     "geom:longitude":-103.336019,
     "iso:country":"MX",
+    "lbl:bbox":"-103.341019,20.672817,-103.331019,20.682817",
     "lbl:latitude":20.677817,
     "lbl:longitude":-103.336019,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.680007,
     "mps:longitude":-103.334053,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:swe_x_preferred":[
         "La Perla"
     ],
-    "name:unk_x_variant":[
-        "La Perla"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":4005539,
@@ -82,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":3977040,
         "gp:id":55904245,
-        "qs:id":891675,
         "qs_pg:id":891675
     },
     "wof:country":"MX",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147157,
+    "wof:lastmodified":1566619556,
     "wof:name":"La Perla",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

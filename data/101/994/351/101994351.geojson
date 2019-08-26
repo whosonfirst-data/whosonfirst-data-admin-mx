@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":472283.929143,
+    "geom:area_square_m":472283.92914,
     "geom:bbox":"-92.311140351,14.8640259973,-92.3038450676,14.8760957682",
     "geom:latitude":14.869971,
     "geom:longitude":-92.307856,
     "iso:country":"MX",
     "lbl:latitude":14.873428,
     "lbl:longitude":-92.307192,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.873428,
     "mps:longitude":-92.307192,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90275176
     },
     "wof:country":"MX",
-    "wof:geomhash":"69f3b8c2d25fdfd322eb2ee0132f6626",
+    "wof:geomhash":"f3565c3b5071857d38fbc8ffc2eff8ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994351,
-    "wof:lastmodified":1479904248,
+    "wof:lastmodified":1566632874,
     "wof:name":"Vida Mejor I",
     "wof:parent_id":102075511,
     "wof:placetype":"locality",

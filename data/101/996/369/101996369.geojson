@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":20.604813,
     "lbl:longitude":-100.406992,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":20.604813,
     "mps:longitude":-100.406992,
     "mz:hierarchy_label":1,
@@ -169,11 +171,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435-\u041a\u0435\u0440\u0435\u0442\u0430\u0440\u043e"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "QRO"
-    ],
-    "name:unk_x_variant":[
-        "Ciudad Queretaro"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0627\u0631\u062a\u0627\u0631\u0648\u060c \u06a9\u0648\u0627\u0631\u062a\u0627\u0631\u0648"
@@ -302,7 +301,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -315,7 +314,6 @@
         "fct:id":"01af58ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3991164,
         "gp:id":55903790,
-        "qs:id":375801,
         "qs_pg:id":375801,
         "wd:id":"Q173121",
         "wk:page":"Quer\u00e9taro City"
@@ -335,7 +333,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397401,
+    "wof:lastmodified":1566632397,
     "wof:megacity":1,
     "wof:name":"Santiago de Quer\u00e9taro",
     "wof:parent_id":102077111,

@@ -11,8 +11,10 @@
     "geom:longitude":-104.671605,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.676605,24.026885,-104.666605,24.036885",
     "lbl:latitude":24.031885,
     "lbl:longitude":-104.671605,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.039749,
     "mps:longitude":-104.671362,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Zona Centro"
-    ],
-    "name:unk_x_variant":[
         "Zona Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686573,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900783,
-        "qs:id":1115848,
         "qs_pg:id":1115848
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619563,
     "wof:name":"Zona Centro",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

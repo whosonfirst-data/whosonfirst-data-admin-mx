@@ -9,19 +9,23 @@
     "geom:bbox":"-105.61667,28.4,-105.61667,28.4",
     "geom:latitude":28.4,
     "geom:longitude":-105.61667,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-105.63667,28.38,-105.59667,28.42",
     "lbl:latitude":28.4,
     "lbl:longitude":-105.61667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "C\u00e1rdenas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00e1zaro C\u00e1rdenas"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,7 +47,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55885101,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Chihuahua",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1126010963,
-    "wof:lastmodified":1509406674,
+    "wof:lastmodified":1566634187,
     "wof:name":"Lazaro Cardenas",
     "wof:parent_id":102075277,
     "wof:placetype":"locality",

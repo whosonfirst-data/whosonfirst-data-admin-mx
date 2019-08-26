@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.319437,
     "lbl:longitude":-97.922762,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.319437,
     "mps:longitude":-97.922762,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Huamantla"
     ],
@@ -174,9 +177,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0430\u043c\u0430\u043d\u0442\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "San Luis"
-    ],
     "name:vie_x_preferred":[
         "Huamantla"
     ],
@@ -203,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -216,7 +216,6 @@
         "fct:id":"01b85af8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3815324,
         "gp:id":125003,
-        "qs:id":507748,
         "qs_pg:id":507748,
         "wd:id":"Q576636",
         "wk:page":"Huamantla"
@@ -236,7 +235,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397635,
+    "wof:lastmodified":1566632512,
     "wof:name":"Huamantla",
     "wof:parent_id":102077951,
     "wof:placetype":"locality",

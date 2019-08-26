@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3136598.834476,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.216367,19.034431,-98.216367,19.034431",
     "geom:latitude":19.034431,
     "geom:longitude":-98.216367,
     "iso:country":"MX",
+    "lbl:bbox":"-98.221367,19.029431,-98.211367,19.039431",
     "lbl:latitude":19.034431,
     "lbl:longitude":-98.216367,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.034054,
     "mps:longitude":-98.218433,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "Gustavo D\u00edaz Ordaz"
-    ],
-    "name:unk_x_variant":[
-        "Gustavo Diaz Ordaz"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999639,
-        102078237,
-        85686657
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3814896,
         "gp:id":55888877,
-        "qs:id":995537,
         "qs_pg:id":995537
     },
     "wof:country":"MX",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874185,
+    "wof:lastmodified":1566619554,
     "wof:name":"Gustavo Diaz Ordaz",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

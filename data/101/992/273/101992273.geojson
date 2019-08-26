@@ -9,14 +9,17 @@
     "geom:bbox":"-102.003806474,22.2593657327,-101.96890615,22.2851433531",
     "geom:latitude":22.271516,
     "geom:longitude":-101.986331,
-    "geonames:id":"3998291,4021477",
+    "gn:id":"3998291,4021477",
     "iso:country":"MX",
     "lbl:latitude":22.269687,
     "lbl:longitude":-101.985137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.269687,
     "mps:longitude":-101.985137,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09cb\u09b0\u09c7\u099f\u09cb"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101992273,
-    "wof:lastmodified":1564171353,
+    "wof:lastmodified":1566632682,
     "wof:name":"Loreto",
     "wof:parent_id":102075391,
     "wof:placetype":"locality",

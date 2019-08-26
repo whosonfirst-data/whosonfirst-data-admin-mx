@@ -11,8 +11,10 @@
     "geom:longitude":-117.055839,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-117.060839,32.327352,-117.050839,32.337352",
     "lbl:latitude":32.332352,
     "lbl:longitude":-117.055839,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.324969,
     "mps:longitude":-117.052083,
     "mz:hierarchy_label":0,
@@ -88,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u0443\u0431\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Paloma"
-    ],
     "name:vie_x_preferred":[
         "C\u00e1nh bu\u1ed3m xa x\u01b0a"
     ],
@@ -126,14 +125,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1341,
-    "wof:belongs_to":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902971,
-        "qs:id":1342519,
+        "qs_pg:id":1342519,
         "wd:id":"Q1700350"
     },
     "wof:country":"MX",
@@ -151,7 +149,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375388,
+    "wof:lastmodified":1566619583,
     "wof:name":"La Paloma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

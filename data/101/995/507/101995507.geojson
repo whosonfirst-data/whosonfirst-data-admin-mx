@@ -9,14 +9,17 @@
     "geom:bbox":"-96.8238498253,17.1156503235,-96.7842617309,17.1380397896",
     "geom:latitude":17.127165,
     "geom:longitude":-96.80562,
-    "geonames:id":"3531875,3761883",
+    "gn:id":"3531875,3761883",
     "iso:country":"MX",
     "lbl:latitude":17.127427,
     "lbl:longitude":-96.805626,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.127427,
     "mps:longitude":-96.805626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Lorenzo Cacaotepec"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "San Lorenzo Cacaotepec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cacaotepec"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101995507,
-    "wof:lastmodified":1563397859,
+    "wof:lastmodified":1566632636,
     "wof:name":"San Lorenzo Cacaotepec",
     "wof:parent_id":102075963,
     "wof:placetype":"locality",

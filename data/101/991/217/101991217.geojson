@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.324286,
     "lbl:longitude":-100.699057,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.324286,
     "mps:longitude":-100.699057,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:hbs_x_preferred":[
         "Coyuca de Catal\u00e1n"
     ],
@@ -42,9 +45,6 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u0458\u0443\u043a\u0430 \u0434\u0435 \u041a\u0430\u0442\u0430\u043b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Coyuca"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Guerrero",
     "qs:a1_lc":"12",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":253.0,
     "wd:latitude":18.326111,
@@ -79,7 +79,6 @@
         "fct:id":"01b82b28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4012607,
         "gp:id":117588,
-        "qs:id":1047624,
         "qs_pg:id":1047624,
         "wd:id":"Q9176109",
         "wk:page":"Coyuca de Catal\u00e1n"
@@ -99,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397232,
+    "wof:lastmodified":1566632306,
     "wof:name":"Coyuca de Catal\u00e1n",
     "wof:parent_id":102073919,
     "wof:placetype":"locality",

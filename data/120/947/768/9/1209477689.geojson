@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Mazatlan",
     "iso:country":"MX",
+    "lbl:bbox":"-104.02,21.34667,-103.98,21.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":4018379
     },
     "wof:country":"MX",
-    "wof:geomhash":"3dd0b4e286d18ebaf3e906b8946f20b9",
+    "wof:geomhash":"16aaffe6c32501b246626e1619bd36fa",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209477689,
-    "wof:lastmodified":1536285884,
+    "wof:lastmodified":1566626202,
     "wof:name":"Apozolco",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -104.0,
-    21.366670000000006,
+    21.36667000000001,
     -104.0,
-    21.366670000000006
+    21.36667000000001
 ],
   "geometry": {"coordinates":[-104.0,21.36667000000001],"type":"Point"}
 }

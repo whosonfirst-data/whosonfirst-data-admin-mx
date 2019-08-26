@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.201709,
     "lbl:longitude":-96.219009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.201709,
     "mps:longitude":-96.219009,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062d\u0629"
     ],
@@ -274,7 +277,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":468,
     "wof:belongsto":[
         102191575,
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":101998873,
-    "wof:lastmodified":1563397089,
+    "wof:lastmodified":1566632233,
     "wof:name":"Oasis",
     "wof:parent_id":102078669,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3315326.647583,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.23172,19.491364,-99.23172,19.491364",
     "geom:latitude":19.491364,
     "geom:longitude":-99.23172,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.23672,19.486364,-99.22672,19.496364",
     "lbl:latitude":19.491364,
     "lbl:longitude":-99.23172,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.489897,
     "mps:longitude":-99.226101,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Hacienda de Echegaray"
-    ],
-    "name:unk_x_variant":[
         "Hacienda de Echegaray"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992499,
-        102074109,
-        85686527
+        102074109
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903603,
-        "qs:id":1294748
+        "qs_pg:id":1294748
     },
     "wof:country":"MX",
     "wof:geomhash":"de49a4c5a6c8430e3c9d1f4177546442",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874526,
+    "wof:lastmodified":1566619586,
     "wof:name":"Hacienda de Echegaray",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

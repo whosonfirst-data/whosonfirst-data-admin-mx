@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6791415.661692,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.691916,16.77918,-92.691916,16.77918",
     "geom:latitude":16.77918,
     "geom:longitude":-92.691916,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.696916,16.77418,-92.686916,16.78418",
     "lbl:latitude":16.77918,
     "lbl:longitude":-92.691916,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.77215,
     "mps:longitude":-92.686987,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Calvario San Juan"
-    ],
-    "name:unk_x_variant":[
         "Barrio Calvario San Juan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
-        102075591,
-        85686611
+        102075591
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55918233,
-        "qs:id":1344066
+        "qs_pg:id":1344066
     },
     "wof:country":"MX",
     "wof:geomhash":"67e92f20e9fcfda839d5668a1bd12cce",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874742,
+    "wof:lastmodified":1566619614,
     "wof:name":"Barrio Calvario San Juan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

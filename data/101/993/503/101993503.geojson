@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1325725.859268,
+    "geom:area_square_m":1325725.859267,
     "geom:bbox":"-115.927437044,30.4625173511,-115.913303442,30.4791125894",
     "geom:latitude":30.472079,
     "geom:longitude":-115.919651,
     "iso:country":"MX",
     "lbl:latitude":30.472524,
     "lbl:longitude":-115.918473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.472524,
     "mps:longitude":-115.918473,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56068560
     },
     "wof:country":"MX",
-    "wof:geomhash":"f16a8f7952562640e836d1a66ff98d69",
+    "wof:geomhash":"477e4579d52b71b01812704a846d3a17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993503,
-    "wof:lastmodified":1479931244,
+    "wof:lastmodified":1566632753,
     "wof:name":"Ejido Papalote",
     "wof:parent_id":102074509,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1657369.717753,
+    "geom:area_square_m":1657369.717752,
     "geom:bbox":"-93.5747193366,18.1683510562,-93.5585500619,18.1901257546",
     "geom:latitude":18.17872,
     "geom:longitude":-93.567987,
     "iso:country":"MX",
     "lbl:latitude":18.176946,
     "lbl:longitude":-93.567322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.176946,
     "mps:longitude":-93.567322,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891445
     },
     "wof:country":"MX",
-    "wof:geomhash":"673e9b427fa9292bbdb0334cee3888bf",
+    "wof:geomhash":"30eff81e4a1113169ae5d27ec083a8c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994851,
-    "wof:lastmodified":1479904397,
+    "wof:lastmodified":1566632852,
     "wof:name":"Poblado C-10 General L\u00e1zaro C\u00e1rdenas del R\u00edo",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

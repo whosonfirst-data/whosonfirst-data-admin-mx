@@ -9,20 +9,23 @@
     "geom:bbox":"-98.35133,19.90529,-98.35133,19.90529",
     "geom:latitude":19.90529,
     "geom:longitude":-98.35133,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":599,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.37133,19.88529,-98.33133,19.92529",
     "lbl:latitude":19.90529,
     "lbl:longitude":-98.35133,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Tecocomulco de Ju\u00e1rez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huipanguillo Tecocomulco"
     ],
     "qs_pg:aaroncc":"MX",
@@ -46,7 +49,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":148466,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126000753,
-    "wof:lastmodified":1509406123,
+    "wof:lastmodified":1566634193,
     "wof:name":"Tecocomulco",
     "wof:parent_id":102078491,
     "wof:placetype":"locality",

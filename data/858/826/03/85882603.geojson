@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6413418.335339,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.660155,21.115028,-101.660155,21.115028",
     "geom:latitude":21.115028,
     "geom:longitude":-101.660155,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.665155,21.110028,-101.655155,21.120028",
     "lbl:latitude":21.115028,
     "lbl:longitude":-101.660155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.108809,
     "mps:longitude":-101.65481,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "La Martinica"
-    ],
-    "name:unk_x_variant":[
         "La Martinica"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
         101996837,
-        102077349,
-        85686629
+        102077349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883839,
-        "qs:id":900871,
         "qs_pg:id":900871
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874058,
+    "wof:lastmodified":1566619573,
     "wof:name":"La Martinica",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":2232291.739454,
+    "geom:area_square_m":2232291.739473,
     "geom:bbox":"-107.857855221,28.3375799385,-107.835603097,28.3658328763",
     "geom:latitude":28.352214,
     "geom:longitude":-107.84667,
     "iso:country":"MX",
     "lbl:latitude":28.350536,
     "lbl:longitude":-107.849286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.350536,
     "mps:longitude":-107.849286,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chihuahua",
     "qs:a1_lc":"08",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":55899998
     },
     "wof:country":"MX",
-    "wof:geomhash":"5521becda068b50966b0369cb1b33640",
+    "wof:geomhash":"873a44ee2e24a707732b46edbd3e70f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101994233,
-    "wof:lastmodified":1479904411,
+    "wof:lastmodified":1566632856,
     "wof:name":"Tomochi",
     "wof:parent_id":102075333,
     "wof:placetype":"locality",

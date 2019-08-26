@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.562555,
     "lbl:longitude":-99.403076,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":17.562555,
     "mps:longitude":-99.403076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Tixtla"
     ],
@@ -50,9 +53,6 @@
     "name:srp_x_preferred":[
         "\u0422\u0438\u0441\u0442\u043b\u0430 \u0434\u0435 \u0413\u0435\u0440\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Tixtla"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Guerrero",
     "qs:a1_lc":"12",
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +83,6 @@
         "fct:id":"01b98414-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515510,
         "gp:id":149500,
-        "qs:id":469792,
         "qs_pg:id":469792,
         "wd:id":"Q2448156",
         "wk:page":"Tixtla"
@@ -103,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397281,
+    "wof:lastmodified":1566632335,
     "wof:name":"Tixtla de Guerrero",
     "wof:parent_id":102073803,
     "wof:placetype":"locality",

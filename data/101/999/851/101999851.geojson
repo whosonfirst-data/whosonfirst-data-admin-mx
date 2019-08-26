@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":1098140.64838,
+    "geom:area_square_m":1098140.648381,
     "geom:bbox":"-98.7832705514,18.4626519585,-98.7729311368,18.4766181493",
     "geom:latitude":18.468982,
     "geom:longitude":-98.777642,
     "iso:country":"MX",
     "lbl:latitude":18.468294,
     "lbl:longitude":-98.778148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.468294,
     "mps:longitude":-98.778148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Teotlalco"
     ],
@@ -37,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -66,7 +69,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1514489651,
+    "wof:lastmodified":1566632534,
     "wof:name":"Teotlalco",
     "wof:parent_id":102078337,
     "wof:placetype":"locality",

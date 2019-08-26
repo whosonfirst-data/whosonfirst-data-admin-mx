@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3303336.902044,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.690277,21.141637,-101.690277,21.141637",
     "geom:latitude":21.141637,
     "geom:longitude":-101.690277,
     "iso:country":"MX",
+    "lbl:bbox":"-101.695277,21.136637,-101.685277,21.146637",
     "lbl:latitude":21.141637,
     "lbl:longitude":-101.690277,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.140733,
     "mps:longitude":-101.688405,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:spa_x_variant":[
         "Los Patios"
-    ],
-    "name:unk_x_variant":[
-        "Los Paraisos"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
         101996837,
-        102077349,
-        85686629
+        102077349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4024918,
         "gp:id":55887956,
-        "qs:id":43670,
         "qs_pg:id":43670
     },
     "wof:country":"MX",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874160,
+    "wof:lastmodified":1566619571,
     "wof:name":"Los Paraisos",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

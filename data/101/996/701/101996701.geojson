@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.869787,
     "lbl:longitude":-101.517174,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.869787,
     "mps:longitude":-101.517174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Romita"
     ],
@@ -71,7 +74,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -84,7 +87,7 @@
         "fct:id":"01b8eb12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3988462,
         "gp:id":55901331,
-        "qs:id":207775,
+        "qs_pg:id":207775,
         "wd:id":"Q2651353",
         "wk:page":"Romita"
     },
@@ -103,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397319,
+    "wof:lastmodified":1566632355,
     "wof:name":"Romita",
     "wof:parent_id":102077345,
     "wof:placetype":"locality",

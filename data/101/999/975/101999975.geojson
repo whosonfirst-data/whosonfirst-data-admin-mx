@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.422279,
     "lbl:longitude":-98.029194,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.422279,
     "mps:longitude":-98.029194,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Tlaxco"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -53,7 +56,6 @@
         "fct:id":"01af1dda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515354,
         "gp:id":149680,
-        "qs:id":169386,
         "qs_pg:id":169386,
         "wd:id":"Q20232597"
     },
@@ -72,7 +74,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397765,
+    "wof:lastmodified":1566632589,
     "wof:name":"Tlaxco",
     "wof:parent_id":102078397,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
-    "geom:area_square_m":827338.582687,
+    "geom:area_square_m":827338.582689,
     "geom:bbox":"-99.0761521456,19.6987065186,-99.0669307054,19.7111242818",
     "geom:latitude":19.704871,
     "geom:longitude":-99.071167,
     "iso:country":"MX",
     "lbl:latitude":19.705038,
     "lbl:longitude":-99.071081,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.705038,
     "mps:longitude":-99.071081,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56068531
     },
     "wof:country":"MX",
-    "wof:geomhash":"703213d0ebab200b1054fa99993e4cb7",
+    "wof:geomhash":"7539930a5120a140486803aa67fb776e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992483,
-    "wof:lastmodified":1479929876,
+    "wof:lastmodified":1566632684,
     "wof:name":"Ex-Hacienda Santa In\u00e9s",
     "wof:parent_id":102074105,
     "wof:placetype":"locality",

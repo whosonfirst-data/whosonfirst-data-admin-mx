@@ -10,8 +10,10 @@
     "geom:latitude":19.029899,
     "geom:longitude":-98.320709,
     "iso:country":"MX",
+    "lbl:bbox":"-98.325709,19.024899,-98.315709,19.034899",
     "lbl:latitude":19.029899,
     "lbl:longitude":-98.320709,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.030106,
     "mps:longitude":-98.323022,
     "mz:hierarchy_label":0,
@@ -42,10 +44,6 @@
     "name:swe_x_preferred":[
         "San Isidro Buensuceso"
     ],
-    "name:unk_x_variant":[
-        "San Isidro Buensuceso",
-        "San Isidro Buenos Aires"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3530757,
@@ -75,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686657,
         102191575,
@@ -87,10 +85,12 @@
     "wof:concordances":{
         "gn:id":4016589,
         "gp:id":55920506,
-        "qs:id":907657,
         "qs_pg:id":533369,
         "wd:id":"Q20739905",
         "wk:page":"San Isidro Buensuceso"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":907657
     },
     "wof:country":"MX",
     "wof:geomhash":"d44533693db0d40ac2bf2945a07d5230",
@@ -108,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375469,
+    "wof:lastmodified":1566619637,
     "wof:name":"San Isidro Buenos Aires",
     "wof:parent_id":101999685,
     "wof:placetype":"neighbourhood",

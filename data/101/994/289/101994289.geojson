@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":28.775703,
     "lbl:longitude":-107.257298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.775703,
     "mps:longitude":-107.257298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bachiniva"
     ],
@@ -69,9 +72,6 @@
     "name:swe_x_preferred":[
         "Bachiniva"
     ],
-    "name:unk_x_variant":[
-        "Bachimva"
-    ],
     "name:vie_x_preferred":[
         "Bach\u00edniva"
     ],
@@ -90,7 +90,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -120,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398253,
+    "wof:lastmodified":1566632840,
     "wof:name":"Bach\u00edniva",
     "wof:parent_id":102075215,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-105.14422,25.10156,-105.14422,25.10156",
     "geom:latitude":25.10156,
     "geom:longitude":-105.14422,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":242,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-105.16422,25.08156,-105.12422,25.12156",
     "lbl:latitude":25.10156,
     "lbl:longitude":-105.14422,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "\u00c8l Salvador"
@@ -535,9 +538,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Salvador"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
     ],
@@ -606,7 +606,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":122359,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -637,7 +637,7 @@
         }
     ],
     "wof:id":1125979907,
-    "wof:lastmodified":1564173497,
+    "wof:lastmodified":1566634021,
     "wof:name":"El Salvador",
     "wof:parent_id":102075205,
     "wof:placetype":"locality",

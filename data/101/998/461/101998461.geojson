@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":2013937.484716,
+    "geom:area_square_m":2013937.484711,
     "geom:bbox":"-96.9780634252,19.4124429601,-96.9588151601,19.430270079",
     "geom:latitude":19.421191,
     "geom:longitude":-96.96745,
     "iso:country":"MX",
     "lbl:latitude":19.420947,
     "lbl:longitude":-96.967612,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.420947,
     "mps:longitude":-96.967612,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55892678
     },
     "wof:country":"MX",
-    "wof:geomhash":"819cc28a0fe38be2d4cf340d38a3361c",
+    "wof:geomhash":"8d75b396d70c5b4d51544b6f09811450",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998461,
-    "wof:lastmodified":1479906806,
+    "wof:lastmodified":1566632279,
     "wof:name":"San Marcos de Le\u00f3n (San Marcos)",
     "wof:parent_id":102077583,
     "wof:placetype":"locality",

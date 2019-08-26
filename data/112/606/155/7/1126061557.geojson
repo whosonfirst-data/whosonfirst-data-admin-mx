@@ -9,16 +9,19 @@
     "geom:bbox":"-114.79851,32.6462,-114.79851,32.6462",
     "geom:latitude":32.6462,
     "geom:longitude":-114.79851,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-114.80351,32.6412,-114.79351,32.6512",
     "lbl:latitude":32.6462,
     "lbl:longitude":-114.79851,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ejido Republica Mexicana"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55893181,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Baja California",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
-        102074507,
-        85686541
+        102074507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126061557,
-    "wof:lastmodified":1509410219,
+    "wof:lastmodified":1566634158,
     "wof:name":"Republica Mexicana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

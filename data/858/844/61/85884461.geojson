@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000642,
-    "geom:area_square_m":7494982.844178,
+    "geom:area_square_m":7494982.844189,
     "geom:bbox":"-99.058227539,19.2840446582,-99.0290014648,19.3185512639",
     "geom:latitude":19.302344,
     "geom:longitude":-99.041307,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.299842,
     "lbl:longitude":-99.042298,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.303155,
     "mps:longitude":-99.041028,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Santa Ana Zapotitlan"
-    ],
-    "name:unk_x_variant":[
         "Santa Ana Zapotitlan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903937,
-        "qs:id":1137621
+        "qs_pg:id":1137621
     },
     "wof:country":"MX",
     "wof:geomhash":"fd778be7bb74eaa9ded8f5f621cfa5d3",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270003,
+    "wof:lastmodified":1566619585,
     "wof:name":"Santa Ana Zapotitlan",
     "wof:parent_id":890535783,
     "wof:placetype":"neighbourhood",

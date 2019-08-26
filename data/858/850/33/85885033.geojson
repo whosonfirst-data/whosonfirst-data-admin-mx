@@ -11,8 +11,10 @@
     "geom:longitude":-105.285948,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.290948,21.535877,-105.280948,21.545877",
     "lbl:latitude":21.540877,
     "lbl:longitude":-105.285948,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.545428,
     "mps:longitude":-105.287143,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "San Blas Centro"
-    ],
-    "name:unk_x_variant":[
         "San Blas Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686591,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55912500,
-        "qs:id":1072389,
         "qs_pg:id":1072389
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619592,
     "wof:name":"San Blas Centro",
     "wof:parent_id":101997019,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.661526,
     "lbl:longitude":-97.853886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.661526,
     "mps:longitude":-97.853886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ozuluama"
     ],
@@ -29,9 +32,6 @@
         "Ozuluama"
     ],
     "name:swe_x_preferred":[
-        "Ozuluama"
-    ],
-    "name:unk_x_variant":[
         "Ozuluama"
     ],
     "name:vie_x_preferred":[
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101998559,
-    "wof:lastmodified":1563397069,
+    "wof:lastmodified":1566632225,
     "wof:name":"Ozuluama de Mascare\u00f1as",
     "wof:parent_id":102077645,
     "wof:placetype":"locality",

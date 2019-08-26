@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.672776,
     "lbl:longitude":-100.182492,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":23.672776,
     "mps:longitude":-100.182492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Doctor Arroyo"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,6 @@
         "fct:id":"01b834d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4011873,
         "gp:id":118234,
-        "qs:id":943568,
         "qs_pg:id":943568,
         "wd:id":"Q3849508"
     },
@@ -116,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369629,
+    "wof:lastmodified":1566615651,
     "wof:name":"Doctor Arroyo",
     "wof:parent_id":102078773,
     "wof:placetype":"locality",

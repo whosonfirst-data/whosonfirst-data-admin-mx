@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.328908,
     "lbl:longitude":-98.165125,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.328908,
     "mps:longitude":-98.165125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Contla"
     ],
@@ -27,9 +30,6 @@
         "Contla"
     ],
     "name:swe_x_preferred":[
-        "San Bernardino Contla"
-    ],
-    "name:unk_x_variant":[
         "San Bernardino Contla"
     ],
     "qs:a0":"Mexico",
@@ -47,7 +47,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3530276,
         "gp:id":55910582,
-        "qs:id":279796,
+        "qs_pg:id":279796,
         "wd:id":"Q5165559"
     },
     "wof:country":"MX",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101999125,
-    "wof:lastmodified":1561750570,
+    "wof:lastmodified":1566632586,
     "wof:name":"Contla",
     "wof:parent_id":102077941,
     "wof:placetype":"locality",

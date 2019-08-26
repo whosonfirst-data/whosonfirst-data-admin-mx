@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":3719275.090898,
+    "geom:area_square_m":3719275.090899,
     "geom:bbox":"-113.40291007,27.6318711897,-113.362143444,27.6535300721",
     "geom:latitude":27.641642,
     "geom:longitude":-113.383321,
     "iso:country":"MX",
     "lbl:latitude":27.640736,
     "lbl:longitude":-113.378229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.640736,
     "mps:longitude":-113.378229,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Muleg\u00e9"
     ],
@@ -57,7 +61,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +73,7 @@
         "gp:id":55908291
     },
     "wof:country":"MX",
-    "wof:geomhash":"9c26d2ec128eed74c6d4ee103572f44d",
+    "wof:geomhash":"c93f1b3067cf7ebb3f2cd3eaeca1a041",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101993433,
-    "wof:lastmodified":1479930231,
+    "wof:lastmodified":1566632808,
     "wof:name":"Villa Alberto Andr\u00e9s Alvarado Ar\u00e1mburo",
     "wof:parent_id":102074521,
     "wof:placetype":"locality",

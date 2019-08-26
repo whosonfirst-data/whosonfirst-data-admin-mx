@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5897311.52635,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.755147,19.209298,-98.755147,19.209298",
     "geom:latitude":19.209298,
     "geom:longitude":-98.755147,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.760147,19.204298,-98.750147,19.214298",
     "lbl:latitude":19.209298,
     "lbl:longitude":-98.755147,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.208885,
     "mps:longitude":-98.755377,
     "mz:hierarchy_label":0,
@@ -30,7 +32,7 @@
     "name:spa_x_preferred":[
         "Barrio de la Pe\u00f1a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pe\u00f1a"
     ],
     "qs:gn_id":0,
@@ -39,19 +41,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991713,
-        102074015,
-        85686527
+        102074015
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4000872,
         "gp:id":55884943,
-        "qs:id":475641,
+        "qs_pg:id":475641
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1199477
     },
     "wof:country":"MX",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874592,
+    "wof:lastmodified":1566619632,
     "wof:name":"Barrio de la Pe\u00f1a",
     "wof:parent_id":101991713,
     "wof:placetype":"neighbourhood",

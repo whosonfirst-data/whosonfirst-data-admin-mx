@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1969275.378858,
+    "geom:area_square_m":1969275.378861,
     "geom:bbox":"-98.2202736969,19.3213184522,-98.1939905408,19.3357365866",
     "geom:latitude":19.327682,
     "geom:longitude":-98.207217,
     "iso:country":"MX",
     "lbl:latitude":19.325329,
     "lbl:longitude":-98.204131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.325329,
     "mps:longitude":-98.204131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Santa Mar\u00eda Ixtulco"
     ],
     "name:spa_x_preferred":[
         "Santa Mar\u00eda Ixtulco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ixtulco"
     ],
     "qs:a0":"Mexico",
@@ -40,7 +43,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101999029,
-    "wof:lastmodified":1514489032,
+    "wof:lastmodified":1566632564,
     "wof:name":"Santa Mar\u00eda Ixtulco",
     "wof:parent_id":102077909,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.598743,
     "lbl:longitude":-103.50357,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.598743,
     "mps:longitude":-103.50357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Aquila"
     ],
@@ -80,7 +83,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397515,
+    "wof:lastmodified":1566632451,
     "wof:name":"Aquila",
     "wof:parent_id":102074883,
     "wof:placetype":"locality",

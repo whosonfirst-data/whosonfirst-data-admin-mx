@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.321559,
     "lbl:longitude":-99.222584,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.322363,
     "mps:longitude":-99.228219,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "San Jer\u00f3nimo L\u00eddice"
     ],
     "name:spa_x_preferred":[
-        "San Jeronimo Aculco"
-    ],
-    "name:unk_x_variant":[
         "San Jeronimo Aculco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -62,7 +60,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":217,
     "wof:belongsto":[
         102191575,
@@ -77,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902798,
-        "qs:id":1342484,
+        "qs_pg:id":1342484,
         "wd:id":"Q21010217"
     },
     "wof:country":"MX",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375391,
+    "wof:lastmodified":1566619585,
     "wof:name":"San Jeronimo Aculco",
     "wof:parent_id":890535777,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.953546,
     "lbl:longitude":-96.47575,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.953546,
     "mps:longitude":-96.47575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:epo_x_preferred":[
         "Tlacolula de Matamoros"
     ],
@@ -47,7 +50,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u043b\u0430\u043a\u043e\u043b\u0443\u043b\u0430 \u0434\u0435 \u041c\u0430\u0442\u0430\u043c\u043e\u0440\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tlacolula"
     ],
     "qs:a0":"Mexico",
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -80,10 +83,12 @@
         "fct:id":"01b98612-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515484,
         "gp:id":149532,
-        "qs:id":1051585,
         "qs_pg:id":889708,
         "wd:id":"Q3111976",
         "wk:page":"Tlacolula de Matamoros"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1051585
     },
     "wof:country":"MX",
     "wof:geomhash":"cd34af11993379b44ebe5bc150f5d8fa",
@@ -100,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397472,
+    "wof:lastmodified":1566632431,
     "wof:name":"Tlacolula de Matamoros",
     "wof:parent_id":102077069,
     "wof:placetype":"locality",

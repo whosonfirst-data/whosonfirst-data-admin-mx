@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.072524,
     "lbl:longitude":-96.830324,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.072524,
     "mps:longitude":-96.830324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Andr\u00e9s Ixtlahuaca"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "San Andr\u00e9s Ixtlahuaca"
     ],
-    "name:unk_x_variant":[
-        "Ixtlahuaca"
-    ],
     "name:vie_x_preferred":[
         "San Andr\u00e9s Ixtlahuaca"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -103,7 +103,6 @@
         "fct:id":"01b8f170-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519924,
         "gp:id":141456,
-        "qs:id":1155908,
         "qs_pg:id":1155908,
         "wd:id":"Q1193291",
         "wk:page":"San Andr\u00e9s Ixtlahuaca"
@@ -123,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397902,
+    "wof:lastmodified":1566632654,
     "wof:name":"San Andr\u00e9s Ixtlahuaca",
     "wof:parent_id":102075925,
     "wof:placetype":"locality",

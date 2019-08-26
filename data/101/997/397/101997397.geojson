@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":957911.525795,
+    "geom:area_square_m":957911.52579,
     "geom:bbox":"-102.05957181,19.8473524245,-102.050124905,19.8635008225",
     "geom:latitude":19.854983,
     "geom:longitude":-102.054689,
     "iso:country":"MX",
     "lbl:latitude":19.853949,
     "lbl:longitude":-102.054688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.853949,
     "mps:longitude":-102.054688,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55884827
     },
     "wof:country":"MX",
-    "wof:geomhash":"5d90197658e7647849f1d83b5b5238db",
+    "wof:geomhash":"79235ba63df599262f3d136bc614fd19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997397,
-    "wof:lastmodified":1479904506,
+    "wof:lastmodified":1566632440,
     "wof:name":"Ich\u00e1n",
     "wof:parent_id":102075033,
     "wof:placetype":"locality",

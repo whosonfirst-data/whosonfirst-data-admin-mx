@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.479307,
     "lbl:longitude":-97.923123,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.479307,
     "mps:longitude":-97.923123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Terrenate"
     ],
@@ -63,9 +66,6 @@
     "name:swe_x_preferred":[
         "Terrenate"
     ],
-    "name:unk_x_variant":[
-        "San Nicol\u00e1s Terrenate"
-    ],
     "name:vec_x_preferred":[
         "Terrenate"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":233,
     "wof:belongsto":[
@@ -100,7 +100,6 @@
         "fct:id":"01b97bae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515782,
         "gp:id":149061,
-        "qs:id":347292,
         "qs_pg:id":347292,
         "wd:id":"Q3892040",
         "wk:page":"Terrenate, Tlaxcala"
@@ -120,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397748,
+    "wof:lastmodified":1566632578,
     "wof:name":"Terrenate",
     "wof:parent_id":102077915,
     "wof:placetype":"locality",

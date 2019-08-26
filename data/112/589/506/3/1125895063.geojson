@@ -9,15 +9,18 @@
     "geom:bbox":"-107.21977,24.42395,-107.21977,24.42395",
     "geom:latitude":24.42395,
     "geom:longitude":-107.21977,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5603,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":5603,
     "iso:country":"MX",
+    "lbl:bbox":"-107.23977,24.40395,-107.19977,24.44395",
     "lbl:latitude":24.42395,
     "lbl:longitude":-107.21977,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Quila"
@@ -28,7 +31,7 @@
     "name:spa_x_preferred":[
         "Quila"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quilla"
     ],
     "qs_pg:aaroncc":"MX",
@@ -50,7 +53,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":138067,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125895063,
-    "wof:lastmodified":1563400314,
+    "wof:lastmodified":1566633995,
     "wof:name":"Quila",
     "wof:parent_id":102074307,
     "wof:placetype":"locality",

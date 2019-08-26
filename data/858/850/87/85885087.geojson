@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2746874.105437,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.719666,22.646967,-101.719666,22.646967",
     "geom:latitude":22.646967,
     "geom:longitude":-101.719666,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.724666,22.641967,-101.714666,22.651967",
     "lbl:latitude":22.646967,
     "lbl:longitude":-101.719666,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.649415,
     "mps:longitude":-101.72002,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio San Agustin"
-    ],
-    "name:unk_x_variant":[
         "Barrio San Agustin"
     ],
     "qs:gn_id":0,
@@ -55,17 +54,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
-        102077201,
-        85686647
+        102077201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55915163,
-        "qs:id":411848,
         "qs_pg:id":411848
     },
     "wof:country":"MX",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874710,
+    "wof:lastmodified":1566619593,
     "wof:name":"Barrio San Agustin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

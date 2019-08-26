@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000551,
-    "geom:area_square_m":6442299.186862,
+    "geom:area_square_m":6442299.18687,
     "geom:bbox":"-97.8122752932,18.9475191999,-97.7736149409,18.9746840606",
     "geom:latitude":18.961588,
     "geom:longitude":-97.793315,
     "iso:country":"MX",
     "lbl:latitude":18.962148,
     "lbl:longitude":-97.793327,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.962148,
     "mps:longitude":-97.793327,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Actipan de Morelos"
     ],
     "name:spa_x_variant":[
         "Santa Mar\u00eda Actipan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Actipan"
     ],
     "qs:a0":"Mexico",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101999243,
-    "wof:lastmodified":1504309881,
+    "wof:lastmodified":1566632528,
     "wof:name":"Actipan de Morelos (Santa Mar\u00eda Actipan)",
     "wof:parent_id":102078001,
     "wof:placetype":"locality",

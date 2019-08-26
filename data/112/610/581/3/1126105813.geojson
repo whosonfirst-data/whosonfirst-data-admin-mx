@@ -9,14 +9,17 @@
     "geom:bbox":"-110.42996,29.34272,-110.42996,29.34272",
     "geom:latitude":29.34272,
     "geom:longitude":-110.42996,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-110.43496,29.33772,-110.42496,29.34772",
     "lbl:latitude":29.34272,
     "lbl:longitude":-110.42996,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Las Iguanas"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55885977,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Sonora",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686549,
         102191575,
         85633293,
-        102074465,
-        85686549
+        102074465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126105813,
-    "wof:lastmodified":1509412369,
+    "wof:lastmodified":1566633918,
     "wof:name":"Las Granjas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

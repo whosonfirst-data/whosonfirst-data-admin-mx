@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
-    "geom:area_square_m":4592261.173259,
+    "geom:area_square_m":4592261.173238,
     "geom:bbox":"-103.031761059,19.9764818876,-103.012209354,20.0127269951",
     "geom:latitude":19.992422,
     "geom:longitude":-103.021398,
     "iso:country":"MX",
     "lbl:latitude":19.991625,
     "lbl:longitude":-103.021549,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.991625,
     "mps:longitude":-103.021549,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Jose de Gracia Ornelas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ornelas"
     ],
     "qs:a0":"Mexico",
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,7 +54,6 @@
         "fct:id":"01bb7f62-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3994104,
         "gp:id":143485,
-        "qs:id":1191572,
         "qs_pg:id":1191572
     },
     "wof:country":"MX",
@@ -68,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497301280,
+    "wof:lastmodified":1566632454,
     "wof:name":"San Jos\u00e9 de Gracia",
     "wof:parent_id":102075081,
     "wof:placetype":"locality",

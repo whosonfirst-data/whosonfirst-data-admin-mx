@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":728651.995765,
+    "geom:area_square_m":728651.995763,
     "geom:bbox":"-103.742569524,25.0604967742,-103.72683242,25.0696402907",
     "geom:latitude":25.064486,
     "geom:longitude":-103.735557,
     "iso:country":"MX",
     "lbl:latitude":25.064179,
     "lbl:longitude":-103.73675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.064179,
     "mps:longitude":-103.73675,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Durango",
     "qs:a1_lc":"10",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":150630
     },
     "wof:country":"MX",
-    "wof:geomhash":"d7b42d9539d9141ecfa35827022cff20",
+    "wof:geomhash":"e713a37b00d75d8c47bdfc6fd10a9fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101992983,
-    "wof:lastmodified":1479904345,
+    "wof:lastmodified":1566632696,
     "wof:name":"Velarde\u00f1a",
     "wof:parent_id":102075157,
     "wof:placetype":"locality",

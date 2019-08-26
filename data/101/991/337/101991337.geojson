@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1369633.240905,
+    "geom:area_square_m":1369633.240907,
     "geom:bbox":"-98.6476336907,16.7933873363,-98.6325296083,16.8055071572",
     "geom:latitude":16.800081,
     "geom:longitude":-98.638877,
     "iso:country":"MX",
     "lbl:latitude":16.800282,
     "lbl:longitude":-98.638268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.800282,
     "mps:longitude":-98.638268,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cuanacaxtitl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuanacastitl\u00e1n"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101991337,
-    "wof:lastmodified":1501268842,
+    "wof:lastmodified":1566632297,
     "wof:name":"Cuanacaxtitl\u00e1n",
     "wof:parent_id":102073853,
     "wof:placetype":"locality",

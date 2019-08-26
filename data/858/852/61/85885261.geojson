@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8630976.767123,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.720626,19.587164,-101.720626,19.587164",
     "geom:latitude":19.587164,
     "geom:longitude":-101.720626,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.725626,19.582164,-101.715626,19.592164",
     "lbl:latitude":19.587164,
     "lbl:longitude":-101.720626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.583926,
     "mps:longitude":-101.716672,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio San Francisco"
-    ],
-    "name:unk_x_variant":[
         "Barrio San Francisco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997245,
-        102074991,
-        85686595
+        102074991
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55920859,
-        "qs:id":476052,
         "qs_pg:id":476052
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874765,
+    "wof:lastmodified":1566619712,
     "wof:name":"Barrio San Francisco",
     "wof:parent_id":101997245,
     "wof:placetype":"neighbourhood",

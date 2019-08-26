@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":2459483.9629,
+    "geom:area_square_m":2459483.962906,
     "geom:bbox":"-97.4868813942,18.3233296186,-97.4655031419,18.3364402248",
     "geom:latitude":18.329587,
     "geom:longitude":-97.475667,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.330672,
     "lbl:longitude":-97.473309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.330672,
     "mps:longitude":-97.473309,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_colloquial":[
         "Zapotitlan Salinas"
     ],
@@ -27,9 +31,6 @@
         "Salinas",
         "Zapotitlan",
         "Zapotitl\u00e1n"
-    ],
-    "name:unk_x_variant":[
-        "Salinas"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
@@ -48,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +61,6 @@
         "fct:id":"01af6736-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514063,
         "gp:id":151669,
-        "qs:id":246324,
         "qs_pg:id":246324
     },
     "wof:country":"MX",
@@ -78,7 +78,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497300282,
+    "wof:lastmodified":1566615709,
     "wof:name":"Zapotitl\u00e1n Salinas",
     "wof:parent_id":102078445,
     "wof:placetype":"locality",

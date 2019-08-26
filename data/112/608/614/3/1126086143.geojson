@@ -9,20 +9,22 @@
     "geom:bbox":"-98.20551,20.88601,-98.20551,20.88601",
     "geom:latitude":20.88601,
     "geom:longitude":-98.20551,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13001,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":13001,
     "iso:country":"MX",
+    "lbl:bbox":"-98.21051,20.88101,-98.20051,20.89101",
     "lbl:latitude":20.88601,
     "lbl:longitude":-98.20551,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Santa Cruz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Cruz de Juarez"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,18 +44,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55915210,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"San Luis Potosi",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998199,
-        102077441,
-        85686671
+        102077441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126086143,
-    "wof:lastmodified":1509411410,
+    "wof:lastmodified":1566634098,
     "wof:name":"Benito Juarez",
     "wof:parent_id":101998199,
     "wof:placetype":"neighbourhood",

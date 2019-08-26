@@ -9,20 +9,23 @@
     "geom:bbox":"-98.66611,20.04959,-98.66611,20.04959",
     "geom:latitude":20.04959,
     "geom:longitude":-98.66611,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1457,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.68611,20.02959,-98.64611,20.06959",
     "lbl:latitude":20.04959,
     "lbl:longitude":-98.66611,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Juan Tizahuap\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan"
     ],
     "qs_pg:aaroncc":"MX",
@@ -46,7 +49,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":144002,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125812137,
-    "wof:lastmodified":1509393598,
+    "wof:lastmodified":1566633985,
     "wof:name":"San Juan Tizahuapan",
     "wof:parent_id":102078497,
     "wof:placetype":"locality",

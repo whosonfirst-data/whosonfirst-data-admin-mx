@@ -10,8 +10,10 @@
     "geom:latitude":32.532755,
     "geom:longitude":-117.022108,
     "iso:country":"MX",
+    "lbl:bbox":"-117.027108,32.527755,-117.017108,32.537755",
     "lbl:latitude":32.532755,
     "lbl:longitude":-117.022108,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.501314,
     "mps:longitude":-117.040641,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Colonia Buena Vista"
-    ],
-    "name:unk_x_variant":[
         "Colonia Buena Vista"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -87,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957707,
+    "wof:lastmodified":1566619457,
     "wof:name":"Colonia Buena Vista",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

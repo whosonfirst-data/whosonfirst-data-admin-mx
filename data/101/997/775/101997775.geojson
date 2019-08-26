@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.822455,
     "lbl:longitude":-105.097872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.822455,
     "mps:longitude":-105.097872,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101997775,
-    "wof:lastmodified":1497299919,
+    "wof:lastmodified":1566632502,
     "wof:name":"Las Palmas de Arriba",
     "wof:parent_id":102074595,
     "wof:placetype":"locality",

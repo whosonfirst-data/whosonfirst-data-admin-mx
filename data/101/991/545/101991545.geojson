@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.746844,
     "lbl:longitude":-98.978952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.746844,
     "mps:longitude":-98.978952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Santa Luc\u00eda"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":3517377,
         "gp:id":146333,
-        "qs:id":1313085,
         "qs_pg:id":1313085,
         "wd:id":"Q36936921"
     },
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":101991545,
-    "wof:lastmodified":1563397260,
+    "wof:lastmodified":1566632323,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":102073979,
     "wof:placetype":"locality",

@@ -5,22 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5664984.62421,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.326006,19.326311,-99.326006,19.326311",
     "geom:latitude":19.326311,
     "geom:longitude":-99.326006,
-    "geonames:id":"3533402,3827403",
+    "gn:id":"3533402,3827403",
     "iso:country":"MX",
+    "lbl:bbox":"-99.331006,19.321311,-99.321006,19.331311",
     "lbl:latitude":19.326311,
     "lbl:longitude":-99.326006,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.326311,
     "mps:longitude":-99.326006,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:spa_x_preferred":[
         "Acopinalco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Acopilco"
     ],
     "qs:a0":"Mexico",
@@ -41,12 +44,12 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85686515,
         102191575,
         85633293,
-        102073747,
-        85686515
+        102073747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890535833,
-    "wof:lastmodified":1531939969,
+    "wof:lastmodified":1566633864,
     "wof:name":"San Lorenzo Acopilco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

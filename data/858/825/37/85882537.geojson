@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6893063.181945,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.09762,32.429478,-117.09762,32.429478",
     "geom:latitude":32.429478,
     "geom:longitude":-117.09762,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-117.10262,32.424478,-117.09262,32.434478",
     "lbl:latitude":32.429478,
     "lbl:longitude":-117.09762,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.427113,
     "mps:longitude":-117.095554,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Los Delfines"
-    ],
-    "name:unk_x_variant":[
         "Los Delfines"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
-        102074501,
-        85686541
+        102074501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883114,
-        "qs:id":911865
+        "qs_pg:id":911865
     },
     "wof:country":"MX",
     "wof:geomhash":"1f90d40200dc0514565b65363c5346b6",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874036,
+    "wof:lastmodified":1566619669,
     "wof:name":"Los Delfines",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

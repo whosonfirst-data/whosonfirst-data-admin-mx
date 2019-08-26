@@ -11,8 +11,10 @@
     "geom:longitude":-100.309825,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.314825,25.674448,-100.304825,25.684448",
     "lbl:latitude":25.679448,
     "lbl:longitude":-100.309825,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.683851,
     "mps:longitude":-100.304453,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:sqi_x_preferred":[
         "Trevi\u00f1o"
     ],
-    "name:unk_x_variant":[
-        "Trevi\u00f1o"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3995465,
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":797,
     "wof:belongsto":[
         85686681,
@@ -91,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898649,
-        "qs:id":893084,
         "qs_pg:id":893084
     },
     "wof:country":"MX",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147323,
+    "wof:lastmodified":1566619675,
     "wof:name":"Trevi\u00f1o",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

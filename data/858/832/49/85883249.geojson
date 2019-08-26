@@ -11,8 +11,10 @@
     "geom:longitude":-106.12326,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.12826,28.605928,-106.11826,28.615928",
     "lbl:latitude":28.610928,
     "lbl:longitude":-106.12326,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.608563,
     "mps:longitude":-106.117844,
     "mz:hierarchy_label":0,
@@ -114,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0434\u0430\u043b\u044c\u0433\u043e"
     ],
-    "name:unk_x_variant":[
-        "Hidalgo"
-    ],
     "name:uzb_x_preferred":[
         "Idalgo"
     ],
@@ -156,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686581,
         102191575,
@@ -168,7 +167,7 @@
         "fct:id":"01c46e4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3975362,
         "gp:id":55892548,
-        "qs:id":1155288
+        "qs_pg:id":1155288
     },
     "wof:country":"MX",
     "wof:geomhash":"65ced244c5909335c59c079c9dcb6a1c",
@@ -186,7 +185,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147223,
+    "wof:lastmodified":1566619608,
     "wof:name":"Hidalgo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

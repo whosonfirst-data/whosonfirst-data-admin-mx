@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00058,
-    "geom:area_square_m":6827952.594285,
+    "geom:area_square_m":6827952.594284,
     "geom:bbox":"-93.0799606898,17.9466791805,-93.0198194468,17.97806147",
     "geom:latitude":17.964863,
     "geom:longitude":-93.054886,
     "iso:country":"MX",
     "lbl:latitude":17.963083,
     "lbl:longitude":-93.059439,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.963083,
     "mps:longitude":-93.059439,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900589
     },
     "wof:country":"MX",
-    "wof:geomhash":"eaeb9c95c08dd5212cd25c33155ab4bb",
+    "wof:geomhash":"2af024e57d4970ee34954f4251e86ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994771,
-    "wof:lastmodified":1479904113,
+    "wof:lastmodified":1566632862,
     "wof:name":"Buena Vista R\u00edo Nuevo 1ra. Secci\u00f3n",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

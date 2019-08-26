@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
-    "geom:area_square_m":76032.710041,
+    "geom:area_square_m":76032.710043,
     "geom:bbox":"-98.7326361882,20.0780227236,-98.730014908,20.0819159667",
     "geom:latitude":20.079949,
     "geom:longitude":-98.731182,
     "iso:country":"MX",
     "lbl:latitude":20.080032,
     "lbl:longitude":-98.731053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.080032,
     "mps:longitude":-98.731053,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jos\u00e9 Garc\u00eda Narezo"
     ],
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"e04ef82bec80c29ddacf17a99048f9b6",
+    "wof:geomhash":"b6c63b32be534308798ba5027ee02342",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":102000379,
-    "wof:lastmodified":1479907615,
+    "wof:lastmodified":1566615681,
     "wof:name":"Lomas del Chac\u00f3n",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

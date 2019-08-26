@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":2995558.267737,
+    "geom:area_square_m":2995558.267733,
     "geom:bbox":"-93.2657386288,18.2262573784,-93.2333673433,18.2537642297",
     "geom:latitude":18.239203,
     "geom:longitude":-93.252434,
     "iso:country":"MX",
     "lbl:latitude":18.237813,
     "lbl:longitude":-93.254884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.237813,
     "mps:longitude":-93.254884,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90279560
     },
     "wof:country":"MX",
-    "wof:geomhash":"6ea433fdb60eec71f3c2e7ebe0817537",
+    "wof:geomhash":"65f079a48b76af7482071b5e45907c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994897,
-    "wof:lastmodified":1479904442,
+    "wof:lastmodified":1566632895,
     "wof:name":"Reyes Hern\u00e1ndez 2da. Secci\u00f3n",
     "wof:parent_id":102075785,
     "wof:placetype":"locality",

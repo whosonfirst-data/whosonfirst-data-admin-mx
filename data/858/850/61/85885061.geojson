@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6029136.254954,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.020874,26.404909,-99.020874,26.404909",
     "geom:latitude":26.404909,
     "geom:longitude":-99.020874,
     "iso:country":"MX",
+    "lbl:bbox":"-99.025874,26.399909,-99.015874,26.409909",
     "lbl:latitude":26.404909,
     "lbl:longitude":-99.020874,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.40663,
     "mps:longitude":-99.019775,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Fracc Jardin"
     ],
     "name:spa_x_preferred":[
-        "Fracc Jardin"
-    ],
-    "name:unk_x_variant":[
         "Fracc Jardin"
     ],
     "qs:gn_id":0,
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686695,
         102191575,
         85633293,
         102000985,
-        102078969,
-        85686695
+        102078969
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55913290,
-        "qs:id":1113116,
         "qs_pg:id":1113116
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874704,
+    "wof:lastmodified":1566619591,
     "wof:name":"Fracc Jardin",
     "wof:parent_id":102000985,
     "wof:placetype":"neighbourhood",

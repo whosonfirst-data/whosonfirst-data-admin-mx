@@ -11,8 +11,10 @@
     "geom:longitude":-96.941223,
     "gn:population":694,
     "iso:country":"MX",
+    "lbl:bbox":"-96.946223,19.515963,-96.936223,19.525963",
     "lbl:latitude":19.520963,
     "lbl:longitude":-96.941223,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.524266,
     "mps:longitude":-96.946818,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:swe_x_preferred":[
         "Colonia Benito Ju\u00e1rez"
     ],
-    "name:unk_x_variant":[
-        "Benito Juarez"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"30",
@@ -71,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686671,
@@ -84,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3823231,
         "gp:id":55896747,
-        "qs:id":1104378,
+        "qs_pg:id":1104378,
         "wd:id":"Q20265107"
     },
     "wof:country":"MX",
@@ -103,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375412,
+    "wof:lastmodified":1566619599,
     "wof:name":"Benito Juarez",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

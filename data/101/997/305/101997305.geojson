@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.693748,
     "lbl:longitude":-100.556892,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.693748,
     "mps:longitude":-100.556892,
     "mz:hierarchy_label":1,
@@ -67,9 +69,6 @@
     ],
     "name:swe_x_preferred":[
         "Ciudad Hidalgo"
-    ],
-    "name:unk_x_variant":[
-        "Hidalgo"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u9054\u723e\u6208\u57ce"
@@ -183,7 +182,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2159,
     "wof:belongsto":[
@@ -197,7 +196,6 @@
         "fct:id":"01b8180e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013712,
         "gp:id":116554,
-        "qs:id":1071660,
         "qs_pg:id":1071660,
         "wd:id":"Q1962248",
         "wk:page":"Ciudad Hidalgo, Michoac\u00e1n"
@@ -217,7 +215,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397566,
+    "wof:lastmodified":1566632478,
     "wof:name":"Ciudad Hidalgo",
     "wof:parent_id":102075023,
     "wof:placetype":"locality",

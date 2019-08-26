@@ -24,8 +24,12 @@
     "gn:population":28,
     "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-110.40389,30.80472,-110.36389,30.84472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8899674
     },
     "wof:country":"MX",
-    "wof:geomhash":"13e167d18836647d3a5a9a1897f51b33",
+    "wof:geomhash":"29412137881184ce5400a8c218a0d71b",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209482465,
-    "wof:lastmodified":1536285739,
+    "wof:lastmodified":1566625844,
     "wof:name":"16 de Septiembre (Los Nogales)",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -110.38389,
-    30.824720000000006,
+    30.82472000000001,
     -110.38389,
-    30.824720000000006
+    30.82472000000001
 ],
   "geometry": {"coordinates":[-110.38388999999999,30.82472000000001],"type":"Point"}
 }

@@ -9,14 +9,17 @@
     "geom:bbox":"-100.262371883,19.066349082,-100.247699766,19.0821607707",
     "geom:latitude":19.07421,
     "geom:longitude":-100.255546,
-    "geonames:id":"3979825,4026541",
+    "gn:id":"3979825,4026541",
     "iso:country":"MX",
     "lbl:latitude":19.074285,
     "lbl:longitude":-100.255658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.074285,
     "mps:longitude":-100.255658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zacazonapan"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101991593,
-    "wof:lastmodified":1564171187,
+    "wof:lastmodified":1566632294,
     "wof:name":"Zacazonapan",
     "wof:parent_id":102073987,
     "wof:placetype":"locality",

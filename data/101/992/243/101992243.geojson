@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000509,
-    "geom:area_square_m":5816545.199174,
+    "geom:area_square_m":5816545.199168,
     "geom:bbox":"-102.270413168,22.553141798,-102.236559942,22.5894646049",
     "geom:latitude":22.571363,
     "geom:longitude":-102.254059,
     "iso:country":"MX",
     "lbl:latitude":22.568287,
     "lbl:longitude":-102.253815,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.568287,
     "mps:longitude":-102.253815,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55884278
     },
     "wof:country":"MX",
-    "wof:geomhash":"3b5117b499a2d02edabde7ece3f6df02",
+    "wof:geomhash":"087445762d041c836b6b22a29045006a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992243,
-    "wof:lastmodified":1479904046,
+    "wof:lastmodified":1566632686,
     "wof:name":"Ojocaliente",
     "wof:parent_id":102075405,
     "wof:placetype":"locality",

@@ -9,13 +9,17 @@
     "geom:bbox":"-99.6401312009,19.1132148462,-99.6299617627,19.1338187581",
     "geom:latitude":19.124189,
     "geom:longitude":-99.634415,
-    "geonames:id":"3520936,3827285",
+    "gn:id":"3520936,3827285",
     "iso:country":"MX",
     "lbl:latitude":19.122326,
     "lbl:longitude":-99.634757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.122326,
     "mps:longitude":-99.634757,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -31,7 +35,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":55906269
     },
     "wof:country":"MX",
-    "wof:geomhash":"2fa77c866e1b7e12c60a89d5479a1ec0",
+    "wof:geomhash":"7789e5304e9328b2e4ec943719cb6f80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101991927,
-    "wof:lastmodified":1479931297,
+    "wof:lastmodified":1566632345,
     "wof:name":"San Francisco Putla",
     "wof:parent_id":102074043,
     "wof:placetype":"locality",

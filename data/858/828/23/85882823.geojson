@@ -11,8 +11,10 @@
     "geom:longitude":-101.131422,
     "gn:population":49199,
     "iso:country":"MX",
+    "lbl:bbox":"-101.136422,27.852619,-101.126422,27.862619",
     "lbl:latitude":27.857619,
     "lbl:longitude":-101.131422,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.857619,
     "mps:longitude":-101.131422,
     "mz:hierarchy_label":0,
@@ -42,9 +44,8 @@
     "name:swe_x_preferred":[
         "Ciudad Sabinas"
     ],
-    "name:unk_x_variant":[
-        "Sabinas",
-        "Coahuila"
+    "name:und_x_variant":[
+        "Sabinas"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -73,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85686689,
@@ -86,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3988333,
         "gp:id":55887034,
-        "qs:id":1206909,
         "qs_pg:id":1206909,
         "wd:id":"Q20275847"
     },
@@ -106,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375373,
+    "wof:lastmodified":1566619572,
     "wof:name":"Coahuila",
     "wof:parent_id":102000877,
     "wof:placetype":"neighbourhood",

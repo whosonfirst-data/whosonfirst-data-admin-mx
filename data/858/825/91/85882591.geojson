@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7002802.602434,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.747365,19.257929,-103.747365,19.257929",
     "geom:latitude":19.257929,
     "geom:longitude":-103.747365,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.752365,19.252929,-103.742365,19.262929",
     "lbl:latitude":19.257929,
     "lbl:longitude":-103.747365,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.257623,
     "mps:longitude":-103.746906,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
         "Juan Jose Rios Ii",
         "Efra\u00edn R\u00edos Montt"
     ],
-    "name:unk_x_variant":[
-        "Juan Jose Rios Ii"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":59,
@@ -83,18 +82,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686587,
         102191575,
         85633293,
         101996947,
-        102074537,
-        85686587
+        102074537
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883666,
-        "qs:id":137185,
         "qs_pg:id":137185
     },
     "wof:country":"MX",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874054,
+    "wof:lastmodified":1566619669,
     "wof:name":"Juan Jose Rios Ii",
     "wof:parent_id":101996947,
     "wof:placetype":"neighbourhood",

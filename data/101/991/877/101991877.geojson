@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1149894.183923,
+    "geom:area_square_m":1149894.183918,
     "geom:bbox":"-98.8430680332,19.6837774305,-98.8286418867,19.6961581268",
     "geom:latitude":19.689751,
     "geom:longitude":-98.836099,
     "iso:country":"MX",
     "lbl:latitude":19.689918,
     "lbl:longitude":-98.834898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.689918,
     "mps:longitude":-98.834898,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55894673
     },
     "wof:country":"MX",
-    "wof:geomhash":"a108db68936a436c61de04e136cc97c6",
+    "wof:geomhash":"fdde9b366c691fdf9ebe34ec2e18de87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991877,
-    "wof:lastmodified":1479933446,
+    "wof:lastmodified":1566632333,
     "wof:name":"San Francisco Mazapa",
     "wof:parent_id":102074039,
     "wof:placetype":"locality",

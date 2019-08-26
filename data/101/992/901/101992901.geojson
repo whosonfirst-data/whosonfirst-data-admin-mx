@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.227756,
     "lbl:longitude":-102.844732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":23.227756,
     "mps:longitude":-102.844732,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Plateros"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3992327,
         "gp:id":136960,
-        "qs:id":363300,
         "qs_pg:id":363300,
         "wd:id":"Q20221969"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101992901,
-    "wof:lastmodified":1563397944,
+    "wof:lastmodified":1566632673,
     "wof:name":"Plateros",
     "wof:parent_id":102075379,
     "wof:placetype":"locality",

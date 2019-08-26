@@ -9,19 +9,22 @@
     "geom:bbox":"-98.19862,19.42392,-98.19862,19.42392",
     "geom:latitude":19.42392,
     "geom:longitude":-98.19862,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.20362,19.41892,-98.19362,19.42892",
     "lbl:latitude":19.42392,
     "lbl:longitude":-98.19862,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Topilco de Ju\u00e1rez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Topilco"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,16 +48,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55906312,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686653,
         102191575,
         85633293,
-        102077893,
-        85686653
+        102077893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126105835,
-    "wof:lastmodified":1509412370,
+    "wof:lastmodified":1566633959,
     "wof:name":"Texpilco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

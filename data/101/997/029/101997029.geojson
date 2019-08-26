@@ -9,14 +9,17 @@
     "geom:bbox":"-104.523366124,22.2431575393,-104.510704625,22.2607788632",
     "geom:latitude":22.251783,
     "geom:longitude":-104.516303,
-    "geonames:id":"3995013,4028601",
+    "gn:id":"3995013,4028601",
     "iso:country":"MX",
     "lbl:latitude":22.24896,
     "lbl:longitude":-104.516181,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.24896,
     "mps:longitude":-104.516181,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jes\u00fas Mar\u00eda"
     ],
@@ -59,7 +62,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101997029,
-    "wof:lastmodified":1564171286,
+    "wof:lastmodified":1566632485,
     "wof:name":"Jes\u00fas Mar\u00eda",
     "wof:parent_id":102074565,
     "wof:placetype":"locality",

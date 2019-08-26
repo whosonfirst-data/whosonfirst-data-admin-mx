@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.585903,
     "lbl:longitude":-98.944908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.585903,
     "mps:longitude":-98.944908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Santa Isabel Ixtapan"
     ],
@@ -31,7 +34,7 @@
     "name:spa_x_preferred":[
         "Santa Isabel Ixtapan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ixtapan"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191575,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101993147,
-    "wof:lastmodified":1561750608,
+    "wof:lastmodified":1566632820,
     "wof:name":"Santa Isabel Ixtapan",
     "wof:parent_id":102074205,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4243695.864092,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.959404,20.503984,-86.959404,20.503984",
     "geom:latitude":20.503984,
     "geom:longitude":-86.959404,
     "gn:id":"",
     "gn:population":96,
     "iso:country":"MX",
+    "lbl:bbox":"-86.964404,20.498984,-86.954404,20.508984",
     "lbl:latitude":20.503984,
     "lbl:longitude":-86.959404,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.514274,
     "mps:longitude":-86.972148,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Andres Quintana Roo"
-    ],
-    "name:unk_x_variant":[
         "Andres Quintana Roo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,9 +57,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575
     ],
@@ -69,7 +67,7 @@
         "fct:id":"01c56e5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3823137,
         "gp:id":55894053,
-        "qs:id":474923
+        "qs_pg:id":474923
     },
     "wof:country":"MX",
     "wof:geomhash":"af9bb194438c7a70560840f2dbeeb523",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874309,
+    "wof:lastmodified":1566619619,
     "wof:name":"Andres Quintana Roo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

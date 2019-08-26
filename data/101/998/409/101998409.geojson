@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
-    "geom:area_square_m":229633.859438,
+    "geom:area_square_m":229633.859442,
     "geom:bbox":"-97.1247390517,18.8652827969,-97.1194466278,18.8723155891",
     "geom:latitude":18.86829,
     "geom:longitude":-97.122297,
     "iso:country":"MX",
     "lbl:latitude":18.868808,
     "lbl:longitude":-97.122775,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.868808,
     "mps:longitude":-97.122775,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891397
     },
     "wof:country":"MX",
-    "wof:geomhash":"9a0c0febc25710f8384128a0909cf5bb",
+    "wof:geomhash":"1b0b5dab197c81148391c73a001f77d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998409,
-    "wof:lastmodified":1479907135,
+    "wof:lastmodified":1566632242,
     "wof:name":"Fraccionamiento Valle Dorado",
     "wof:parent_id":102077557,
     "wof:placetype":"locality",

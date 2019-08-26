@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.516979,
     "lbl:longitude":-101.610068,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.516979,
     "mps:longitude":-101.610068,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "P\u00e1tzcuaro"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -131,7 +134,6 @@
         "gn:id":3993179,
         "gp:id":136289,
         "nyt:id":"79591797007763611371",
-        "qs:id":507772,
         "qs_pg:id":507772,
         "wd:id":"Q1021051",
         "wk:page":"P\u00e1tzcuaro"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397590,
+    "wof:lastmodified":1566632490,
     "wof:name":"P\u00e1tzcuaro",
     "wof:parent_id":102074965,
     "wof:placetype":"locality",

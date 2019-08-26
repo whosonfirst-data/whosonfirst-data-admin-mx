@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.869163,
     "lbl:longitude":-99.057786,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.869163,
     "mps:longitude":-99.057786,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jilotzingo"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "Jilotzingo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jilotaingo"
     ],
     "qs:a0":"Mexico",
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3526499,
         "gp:id":125913,
-        "qs:id":748265,
+        "qs_pg:id":748265,
         "wd:id":"Q20284304"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101992705,
-    "wof:lastmodified":1563397999,
+    "wof:lastmodified":1566632704,
     "wof:name":"Jilotzingo",
     "wof:parent_id":102074149,
     "wof:placetype":"locality",

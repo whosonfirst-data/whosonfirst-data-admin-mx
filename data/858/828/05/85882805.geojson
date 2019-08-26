@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10892843.471372,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.947638,19.511664,-96.947638,19.511664",
     "geom:latitude":19.511664,
     "geom:longitude":-96.947638,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.952638,19.506664,-96.942638,19.516664",
     "lbl:latitude":19.511664,
     "lbl:longitude":-96.947638,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.502842,
     "mps:longitude":-96.963746,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Francisco Javier Clavijero Arenales"
-    ],
-    "name:unk_x_variant":[
         "Francisco Javier Clavijero Arenales"
     ],
     "qs:gn_id":0,
@@ -55,17 +54,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077465,
-        85686671
+        102077465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55886902,
-        "qs:id":243790,
         "qs_pg:id":243790
     },
     "wof:country":"MX",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874129,
+    "wof:lastmodified":1566619568,
     "wof:name":"Francisco Javier Clavijero Arenales",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

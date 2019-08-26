@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.310756,
     "lbl:longitude":-99.213401,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.306646,
     "mps:longitude":-99.21854,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "Jardines en la Montana"
-    ],
-    "name:unk_x_variant":[
-        "Jardines en la Monta\u00f1a"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -58,7 +56,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191575,
@@ -73,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898038,
-        "qs:id":1155326,
+        "qs_pg:id":1155326,
         "wd:id":"Q6159851"
     },
     "wof:country":"MX",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957715,
+    "wof:lastmodified":1566619692,
     "wof:name":"Jardines en la Monta\u00f1a",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

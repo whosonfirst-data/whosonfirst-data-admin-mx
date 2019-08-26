@@ -9,19 +9,22 @@
     "geom:bbox":"-100.79498,25.37698,-100.79498,25.37698",
     "geom:latitude":25.37698,
     "geom:longitude":-100.79498,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.79998,25.37198,-100.78998,25.38198",
     "lbl:latitude":25.37698,
     "lbl:longitude":-100.79498,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Vicente"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rancho San Vincente"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,16 +48,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55892001,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Nuevo Leon",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
-        102078865,
-        85686689
+        102078865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126100093,
-    "wof:lastmodified":1509412074,
+    "wof:lastmodified":1566633910,
     "wof:name":"Rancho San Vicente",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

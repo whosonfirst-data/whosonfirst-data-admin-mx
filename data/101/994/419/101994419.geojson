@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
-    "geom:area_square_m":275319.568986,
+    "geom:area_square_m":275319.568987,
     "geom:bbox":"-93.2788977672,17.281306581,-93.2698581286,17.2882147154",
     "geom:latitude":17.284854,
     "geom:longitude":-93.274488,
     "iso:country":"MX",
     "lbl:latitude":17.284455,
     "lbl:longitude":-93.274933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.284455,
     "mps:longitude":-93.274933,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":123731
     },
     "wof:country":"MX",
-    "wof:geomhash":"ae6d16b7d244ccfcd7ba2fb39eb48ff6",
+    "wof:geomhash":"1456b2377b36b6bc18859e69b1d2c79a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994419,
-    "wof:lastmodified":1479904478,
+    "wof:lastmodified":1566632879,
     "wof:name":"Rivera el Viejo Carmen",
     "wof:parent_id":102075553,
     "wof:placetype":"locality",

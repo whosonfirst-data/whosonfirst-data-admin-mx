@@ -10,8 +10,10 @@
     "geom:latitude":25.427344,
     "geom:longitude":-100.947876,
     "iso:country":"MX",
+    "lbl:bbox":"-100.952876,25.422344,-100.942876,25.432344",
     "lbl:latitude":25.427344,
     "lbl:longitude":-100.947876,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.430873,
     "mps:longitude":-100.949923,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Las Coquetas"
-    ],
-    "name:unk_x_variant":[
         "Las Coquetas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686689,
         102191575,
@@ -69,7 +68,6 @@
     "wof:concordances":{
         "gn:id":4000002,
         "gp:id":55891048,
-        "qs:id":1199601,
         "qs_pg:id":1199601
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619682,
     "wof:name":"Las Coquetas",
     "wof:parent_id":102000871,
     "wof:placetype":"neighbourhood",

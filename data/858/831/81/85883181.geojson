@@ -11,8 +11,10 @@
     "geom:longitude":-96.911774,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.916774,19.535307,-96.906774,19.545307",
     "lbl:latitude":19.540307,
     "lbl:longitude":-96.911774,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.540034,
     "mps:longitude":-96.907532,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "\u0414\u0438\u0432\u0438\u0441\u0430\u0434\u0435\u0440\u043e"
     ],
     "name:swe_x_preferred":[
-        "Divisadero"
-    ],
-    "name:unk_x_variant":[
         "Divisadero"
     ],
     "qs:gn_id":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":38,
     "wof:belongsto":[
         85686671,
@@ -76,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891699,
-        "qs:id":1294507,
         "qs_pg:id":1294507
     },
     "wof:country":"MX",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147329,
+    "wof:lastmodified":1566619681,
     "wof:name":"Divisadero",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

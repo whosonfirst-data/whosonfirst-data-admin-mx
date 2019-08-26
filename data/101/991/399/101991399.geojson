@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":17.203489,
     "lbl:longitude":-100.43697,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":17.203489,
     "mps:longitude":-100.43697,
     "mz:hierarchy_label":1,
@@ -39,9 +41,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u0442\u043e\u0458\u0430\u043a \u0434\u0435 \u0410\u043b\u0432\u0430\u0440\u0435\u0437"
-    ],
-    "name:unk_x_variant":[
-        "Atoyac"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -152,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -165,7 +164,6 @@
         "fct:id":"01b27b74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4017984,
         "gp:id":112694,
-        "qs:id":274582,
         "qs_pg:id":274582,
         "wd:id":"Q2279115",
         "wk:page":"Atoyac de \u00c1lvarez"
@@ -185,7 +183,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397219,
+    "wof:lastmodified":1566632298,
     "wof:name":"Atoyac de \u00c1lvarez",
     "wof:parent_id":102073901,
     "wof:placetype":"locality",

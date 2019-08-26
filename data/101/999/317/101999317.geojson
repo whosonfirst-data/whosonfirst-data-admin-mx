@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.105373,
     "lbl:longitude":-98.46649,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.105373,
     "mps:longitude":-98.46649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Calpan"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "San Andr\u00e9s Calpan"
     ],
-    "name:unk_x_variant":[
-        "Calpan"
-    ],
     "name:vec_x_preferred":[
         "Calpan"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -115,7 +115,6 @@
         "fct:id":"01b8f0da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519930,
         "gp:id":141447,
-        "qs:id":246726,
         "qs_pg:id":246726,
         "wd:id":"Q3893123"
     },
@@ -134,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397759,
+    "wof:lastmodified":1566632586,
     "wof:name":"San Andr\u00e9s Calpan",
     "wof:parent_id":102078051,
     "wof:placetype":"locality",

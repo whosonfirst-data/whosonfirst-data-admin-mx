@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.665394,
     "lbl:longitude":-102.10894,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":22.665394,
     "mps:longitude":-102.10894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "General P\u00e1nfilo Natera"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,6 @@
         "fct:id":"01ba6b36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3972429,
         "gp:id":55892126,
-        "qs:id":1012940,
         "qs_pg:id":1012940,
         "wd:id":"Q4497228"
     },
@@ -108,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397967,
+    "wof:lastmodified":1566632686,
     "wof:name":"General P\u00e1nfilo Natera",
     "wof:parent_id":102075387,
     "wof:placetype":"locality",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000675,
-    "geom:area_square_m":7879904.539451,
+    "geom:area_square_m":7879904.539475,
     "geom:bbox":"-98.253956818,19.2613178941,-98.2222397483,19.3039960826",
     "geom:latitude":19.280153,
     "geom:longitude":-98.238743,
     "iso:country":"MX",
     "lbl:latitude":19.27614,
     "lbl:longitude":-98.238984,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.27614,
     "mps:longitude":-98.238984,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Santa Maria"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101999031,
-    "wof:lastmodified":1497292961,
+    "wof:lastmodified":1566632533,
     "wof:name":"Santa Mar\u00eda Acuitlapilco",
     "wof:parent_id":102077909,
     "wof:placetype":"locality",

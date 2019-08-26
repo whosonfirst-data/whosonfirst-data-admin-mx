@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8756558.79707,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.721597,16.760244,-92.721597,16.760244",
     "geom:latitude":16.760244,
     "geom:longitude":-92.721597,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.726597,16.755244,-92.716597,16.765244",
     "lbl:latitude":16.760244,
     "lbl:longitude":-92.721597,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.760762,
     "mps:longitude":-92.720368,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Zona Centro"
-    ],
-    "name:unk_x_variant":[
         "Zona Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994707,
-        102075645,
-        85686611
+        102075645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55920961,
-        "qs:id":1344278,
         "qs_pg:id":1344278
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874767,
+    "wof:lastmodified":1566619712,
     "wof:name":"Zona Centro",
     "wof:parent_id":101994707,
     "wof:placetype":"neighbourhood",

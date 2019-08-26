@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":755813.45057,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.384049,20.600187,-100.384049,20.600187",
     "geom:latitude":20.600187,
     "geom:longitude":-100.384049,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.389049,20.595187,-100.379049,20.605187",
     "lbl:latitude":20.600187,
     "lbl:longitude":-100.384049,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.601223,
     "mps:longitude":-100.384648,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Conjunto Hab Arboledas Del Rio"
-    ],
-    "name:unk_x_variant":[
         "Conjunto Hab Arboledas Del Rio"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890183,
-        "qs:id":59287,
         "qs_pg:id":59287
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874215,
+    "wof:lastmodified":1566619701,
     "wof:name":"Conjunto Hab Arboledas Del Rio",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

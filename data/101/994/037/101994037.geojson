@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":424863.746507,
+    "geom:area_square_m":424863.746509,
     "geom:bbox":"-116.74597805,32.5098766739,-116.736756501,32.5171924603",
     "geom:latitude":32.51278,
     "geom:longitude":-116.741527,
     "iso:country":"MX",
     "lbl:latitude":32.512857,
     "lbl:longitude":-116.741442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.512857,
     "mps:longitude":-116.741442,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":150520
     },
     "wof:country":"MX",
-    "wof:geomhash":"084c7b7dac95ebadf10349d9194b8d6f",
+    "wof:geomhash":"417a88b69f22b01d15b2f030577c75e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994037,
-    "wof:lastmodified":1479931019,
+    "wof:lastmodified":1566632855,
     "wof:name":"Parajes del Valle",
     "wof:parent_id":102074501,
     "wof:placetype":"locality",

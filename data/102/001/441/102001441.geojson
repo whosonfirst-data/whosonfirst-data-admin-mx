@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.400982,
     "lbl:longitude":-90.145867,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.400982,
     "mps:longitude":-90.145867,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nunkin\u00ed"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":3522514,
         "gp:id":134882,
-        "qs:id":982620,
         "qs_pg:id":982620,
         "wd:id":"Q20258461"
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102001441,
-    "wof:lastmodified":1563369803,
+    "wof:lastmodified":1566615733,
     "wof:name":"Nunkin\u00ed",
     "wof:parent_id":102079213,
     "wof:placetype":"locality",

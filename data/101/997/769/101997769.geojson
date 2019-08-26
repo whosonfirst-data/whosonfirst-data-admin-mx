@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.32054,
     "lbl:longitude":-101.972846,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.32054,
     "mps:longitude":-101.972846,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"ca1dddea231c677a3571345d8868428a",
+    "wof:geomhash":"b0b0f1cde86c55f17994ea0513b99e67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101997769,
-    "wof:lastmodified":1479930117,
+    "wof:lastmodified":1566632473,
     "wof:name":"Fraccionamiento Cristeros",
     "wof:parent_id":102074729,
     "wof:placetype":"locality",

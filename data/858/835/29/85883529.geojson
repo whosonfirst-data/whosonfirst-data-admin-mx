@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3635620.201918,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.568093,22.779375,-102.568093,22.779375",
     "geom:latitude":22.779375,
     "geom:longitude":-102.568093,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.573093,22.774375,-102.563093,22.784375",
     "lbl:latitude":22.779375,
     "lbl:longitude":-102.568093,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.780508,
     "mps:longitude":-102.560775,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Barrio Del Tanquesito"
-    ],
-    "name:unk_x_variant":[
         "Barrio Del Tanquesito"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686567,
         102191575,
         85633293,
-        102075493,
-        85686567
+        102075493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895947,
-        "qs:id":475018
+        "qs_pg:id":475018
     },
     "wof:country":"MX",
     "wof:geomhash":"06123d90a92f94a3c57bae369b02f65e",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874361,
+    "wof:lastmodified":1566619598,
     "wof:name":"Barrio Del Tanquesito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

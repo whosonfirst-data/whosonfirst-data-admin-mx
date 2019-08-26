@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.071453,
     "lbl:longitude":-89.049924,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.071453,
     "mps:longitude":-89.049924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tzucacab"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Tzucacab"
     ],
-    "name:unk_x_variant":[
-        "Tzucaceb"
-    ],
     "name:vie_x_preferred":[
         "Tzucacab"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -100,7 +100,6 @@
         "fct:id":"01b99a30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514961,
         "gp:id":150322,
-        "qs:id":148619,
         "qs_pg:id":148619,
         "wd:id":"Q2656471"
     },
@@ -119,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369803,
+    "wof:lastmodified":1566615733,
     "wof:name":"Tzucacab",
     "wof:parent_id":102079105,
     "wof:placetype":"locality",

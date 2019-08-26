@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.081314,
     "lbl:longitude":-97.972845,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.081314,
     "mps:longitude":-97.972845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Tepatlaxco de Hidalgo Municipality"
     ],
@@ -45,9 +48,6 @@
     "name:swe_x_preferred":[
         "Tepatlaxco de Hidalgo"
     ],
-    "name:unk_x_variant":[
-        "Tepetlaxco"
-    ],
     "name:vie_x_preferred":[
         "Tepatlaxco de Hidalgo"
     ],
@@ -68,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -81,7 +81,6 @@
         "fct:id":"01b97672-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515906,
         "gp:id":148867,
-        "qs:id":1212863,
         "qs_pg:id":1212863,
         "wd:id":"Q6142090",
         "wk:page":"Tepatlaxco de Hidalgo (municipality)"
@@ -101,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397748,
+    "wof:lastmodified":1566632579,
     "wof:name":"Tepatlaxco de Hidalgo",
     "wof:parent_id":102078343,
     "wof:placetype":"locality",

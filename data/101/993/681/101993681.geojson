@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":25.566617,
     "lbl:longitude":-108.47247,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":25.566617,
     "mps:longitude":-108.47247,
     "mz:hierarchy_label":1,
@@ -66,9 +68,6 @@
     ],
     "name:swe_x_preferred":[
         "Guasave"
-    ],
-    "name:unk_x_variant":[
-        "Guasava"
     ],
     "name:vie_x_preferred":[
         "Guasave"
@@ -188,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -201,7 +200,6 @@
         "fct:id":"01b855a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4005219,
         "gp:id":124474,
-        "qs:id":274576,
         "qs_pg:id":274576,
         "wd:id":"Q588515",
         "wk:page":"Guasave"
@@ -221,7 +219,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398090,
+    "wof:lastmodified":1566632755,
     "wof:name":"Guasave",
     "wof:parent_id":102074321,
     "wof:placetype":"locality",

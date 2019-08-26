@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.142245,
     "lbl:longitude":-100.319625,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":21.142245,
     "mps:longitude":-100.319625,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09a6\u09cb\u0995\u09cd\u09a4\u09cb\u09b0 \u09ae\u09cb\u09b0\u09be"
     ],
@@ -66,9 +69,6 @@
     "name:swe_x_preferred":[
         "Doctor Mora"
     ],
-    "name:unk_x_variant":[
-        "Villa Doctor Mora"
-    ],
     "name:vec_x_preferred":[
         "Doctor Mora"
     ],
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -105,7 +105,6 @@
         "fct:id":"01b9a318-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4022983,
         "gp:id":150854,
-        "qs:id":375574,
         "qs_pg:id":375574,
         "wd:id":"Q2448224",
         "wk:page":"Doctor Mora"
@@ -125,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397316,
+    "wof:lastmodified":1566632353,
     "wof:name":"Doctor Mora",
     "wof:parent_id":102077267,
     "wof:placetype":"locality",

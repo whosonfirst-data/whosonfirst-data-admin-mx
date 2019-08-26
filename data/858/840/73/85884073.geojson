@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.288995,
     "lbl:longitude":-99.166799,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.289571,
     "mps:longitude":-99.166206,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
         "Barrio Nino Jesus"
     ],
     "name:spa_x_preferred":[
-        "Barrio Ni\u00f1o Jesus"
-    ],
-    "name:unk_x_variant":[
         "Barrio Ni\u00f1o Jesus"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -74,7 +72,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20219697,
-        "qs:id":475294,
+        "qs_pg:id":475294
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":500998
     },
     "wof:country":"MX",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957717,
+    "wof:lastmodified":1566619662,
     "wof:name":"Barrio Ni\u00f1o Jesus",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

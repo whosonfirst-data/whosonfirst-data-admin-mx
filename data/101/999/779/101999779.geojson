@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.269631,
     "lbl:longitude":-98.516493,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.269631,
     "mps:longitude":-98.516493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Salvador el Verde"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "San Salvador el Verde"
     ],
-    "name:unk_x_variant":[
-        "San Salvador"
-    ],
     "name:vie_x_preferred":[
         "San Salvador el Verde"
     ],
@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -79,7 +79,6 @@
         "fct:id":"01b92fd2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517830,
         "gp:id":145390,
-        "qs:id":245100,
         "qs_pg:id":245100,
         "wd:id":"Q7415287",
         "wk:page":"San Salvador el Verde (municipality)"
@@ -99,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397696,
+    "wof:lastmodified":1566632548,
     "wof:name":"San Salvador el Verde",
     "wof:parent_id":102078301,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000429,
-    "geom:area_square_m":5002559.060891,
+    "geom:area_square_m":5002559.060879,
     "geom:bbox":"-100.018132798,19.5952077957,-99.9890509522,19.6159827551",
     "geom:latitude":19.606527,
     "geom:longitude":-100.003084,
     "iso:country":"MX",
     "lbl:latitude":19.607605,
     "lbl:longitude":-100.000454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.607605,
     "mps:longitude":-100.000454,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55902929
     },
     "wof:country":"MX",
-    "wof:geomhash":"a56172ba95afdcf7be09a5da685f5c9c",
+    "wof:geomhash":"736792cec63828719213b05d789a76b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992165,
-    "wof:lastmodified":1479931063,
+    "wof:lastmodified":1566632705,
     "wof:name":"San Miguel la Labor",
     "wof:parent_id":102074073,
     "wof:placetype":"locality",

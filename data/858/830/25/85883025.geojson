@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3146610.759492,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.964,20.495483,-86.964,20.495483",
     "geom:latitude":20.495483,
     "geom:longitude":-86.964,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-86.969,20.490483,-86.959,20.500483",
     "lbl:latitude":20.495483,
     "lbl:longitude":-86.964,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.500457,
     "mps:longitude":-86.973668,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Colonos Cuzamil"
-    ],
-    "name:unk_x_variant":[
         "Colonos Cuzamil"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686711,
         102191575,
         85633293,
         102001507,
-        102079247,
-        85686711
+        102079247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889170,
-        "qs:id":474670,
         "qs_pg:id":474670
     },
     "wof:country":"MX",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874200,
+    "wof:lastmodified":1566619704,
     "wof:name":"Colonos Cuzamil",
     "wof:parent_id":102001507,
     "wof:placetype":"neighbourhood",

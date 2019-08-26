@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.637239,
     "lbl:longitude":-99.359042,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.637239,
     "mps:longitude":-99.359042,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Progreso Industrial"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "Progreso Industrial"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Progreso"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3521111,
         "gp:id":55900536,
-        "qs:id":1045437,
         "qs_pg:id":1045437,
         "wd:id":"Q20297164"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101992475,
-    "wof:lastmodified":1563398021,
+    "wof:lastmodified":1566632719,
     "wof:name":"Progreso Industrial",
     "wof:parent_id":102074101,
     "wof:placetype":"locality",

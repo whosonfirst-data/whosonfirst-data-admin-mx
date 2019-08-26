@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.572505,
     "lbl:longitude":-103.452414,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.572505,
     "mps:longitude":-103.452414,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Los Gavilanes negros"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101997677,
-    "wof:lastmodified":1563397590,
+    "wof:lastmodified":1566632490,
     "wof:name":"Los Gavilanes",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1742403.446492,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.367469,20.57817,-100.367469,20.57817",
     "geom:latitude":20.57817,
     "geom:longitude":-100.367469,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.372469,20.57317,-100.362469,20.58317",
     "lbl:latitude":20.57817,
     "lbl:longitude":-100.367469,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.577533,
     "mps:longitude":-100.371695,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Ex Hacienda la Providencia"
-    ],
-    "name:unk_x_variant":[
         "Ex Hacienda la Providencia"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,20 +57,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3827007,
         "gp:id":55909464,
-        "qs:id":1115838,
         "qs_pg:id":1115241
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1115838
     },
     "wof:country":"MX",
     "wof:geomhash":"b4705663d1c57eff30d12c6f54aa0498",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874019,
+    "wof:lastmodified":1566619648,
     "wof:name":"Ex Hacienda la Providencia",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

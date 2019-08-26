@@ -10,8 +10,10 @@
     "geom:latitude":19.632419,
     "geom:longitude":-98.912658,
     "iso:country":"MX",
+    "lbl:bbox":"-98.917658,19.627419,-98.907658,19.637419",
     "lbl:latitude":19.632419,
     "lbl:longitude":-98.912658,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.631387,
     "mps:longitude":-98.913356,
     "mz:hierarchy_label":0,
@@ -53,7 +55,7 @@
     "name:swe_x_preferred":[
         "Los Pinos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pocitos"
     ],
     "qs:gn_id":0,
@@ -81,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -111,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147168,
+    "wof:lastmodified":1566619566,
     "wof:name":"Los Pinos",
     "wof:parent_id":101993217,
     "wof:placetype":"neighbourhood",

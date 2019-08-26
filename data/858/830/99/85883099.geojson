@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2978951.396039,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.417053,25.594471,-103.417053,25.594471",
     "geom:latitude":25.594471,
     "geom:longitude":-103.417053,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.422053,25.589471,-103.412053,25.599471",
     "lbl:latitude":25.594471,
     "lbl:longitude":-103.417053,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.595007,
     "mps:longitude":-103.418962,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Frondoso"
-    ],
-    "name:unk_x_variant":[
         "Fracc Frondoso"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
         102000853,
-        102078789,
-        85686689
+        102078789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890548,
-        "qs:id":1070717,
         "qs_pg:id":1070717
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874223,
+    "wof:lastmodified":1566619703,
     "wof:name":"Fracc Frondoso",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

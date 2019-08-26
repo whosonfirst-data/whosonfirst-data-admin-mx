@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.02033,
     "lbl:longitude":-96.592689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.02033,
     "mps:longitude":-96.592689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Francisco Lachigol\u00f3"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "San Francisco Lachigol\u00f3"
     ],
-    "name:unk_x_variant":[
-        "Lachigol\u00f3"
-    ],
     "name:vie_x_preferred":[
         "San Francisco Lachigol\u00f3"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -99,7 +99,6 @@
         "fct:id":"01b9007a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519266,
         "gp:id":142653,
-        "qs:id":224567,
         "qs_pg:id":224567,
         "wd:id":"Q12354868",
         "wk:page":"San Francisco Lachigol\u00f3"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397926,
+    "wof:lastmodified":1566632664,
     "wof:name":"San Francisco Lachigol\u00f3",
     "wof:parent_id":102075879,
     "wof:placetype":"locality",

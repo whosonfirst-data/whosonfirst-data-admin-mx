@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":2172604.612759,
+    "geom:area_square_m":2172604.612766,
     "geom:bbox":"-98.9696785734,19.1991588986,-98.950740912,19.2154416148",
     "geom:latitude":19.207933,
     "geom:longitude":-98.960038,
     "iso:country":"MX",
     "lbl:latitude":19.207701,
     "lbl:longitude":-98.960039,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.207701,
     "mps:longitude":-98.960039,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55909731
     },
     "wof:country":"MX",
-    "wof:geomhash":"6b4619f72c242d21f463d6772ec43121",
+    "wof:geomhash":"a85dd5e391ebd42ea43b31c6f6678c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992789,
-    "wof:lastmodified":1479933491,
+    "wof:lastmodified":1566632742,
     "wof:name":"San Juan Tezompa",
     "wof:parent_id":102074173,
     "wof:placetype":"locality",

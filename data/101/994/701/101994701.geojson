@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.707622,
     "lbl:longitude":-92.736617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.707622,
     "mps:longitude":-92.736617,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Past\u00e9"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101994701,
-    "wof:lastmodified":1501268839,
+    "wof:lastmodified":1566632827,
     "wof:name":"Past\u00e9",
     "wof:parent_id":102075645,
     "wof:placetype":"locality",

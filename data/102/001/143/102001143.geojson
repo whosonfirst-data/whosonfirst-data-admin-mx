@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":20.123359,
     "lbl:longitude":-88.920225,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.123359,
     "mps:longitude":-88.920225,
     "mz:hierarchy_label":1,
@@ -150,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -163,7 +165,6 @@
         "fct:id":"01b8d744-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521596,
         "gp:id":136547,
-        "qs:id":971023,
         "qs_pg:id":971023,
         "wd:id":"Q1949370"
     },
@@ -182,7 +183,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750213,
+    "wof:lastmodified":1566615743,
     "wof:name":"Peto",
     "wof:parent_id":102079007,
     "wof:placetype":"locality",

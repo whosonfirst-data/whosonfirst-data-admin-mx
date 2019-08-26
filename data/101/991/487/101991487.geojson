@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":16.690457,
     "lbl:longitude":-98.411536,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.690457,
     "mps:longitude":-98.411536,
     "mz:hierarchy_label":1,
@@ -172,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -185,7 +187,6 @@
         "fct:id":"01b8c880-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522343,
         "gp:id":135272,
-        "qs:id":341810,
         "qs_pg:id":341810,
         "wd:id":"Q2991571",
         "wk:page":"Ometepec"
@@ -205,7 +206,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397282,
+    "wof:lastmodified":1566632336,
     "wof:name":"Ometepec",
     "wof:parent_id":102073849,
     "wof:placetype":"locality",

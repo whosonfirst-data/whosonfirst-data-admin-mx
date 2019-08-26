@@ -11,8 +11,10 @@
     "geom:longitude":-91.983624,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-91.988624,17.504308,-91.978624,17.514308",
     "lbl:latitude":17.509308,
     "lbl:longitude":-91.983624,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.510489,
     "mps:longitude":-91.978125,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Palenque Centro"
-    ],
-    "name:unk_x_variant":[
         "Palenque Centro"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686611,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919354,
-        "qs:id":66604,
         "qs_pg:id":66604
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957726,
+    "wof:lastmodified":1566619713,
     "wof:name":"Palenque Centro",
     "wof:parent_id":101994537,
     "wof:placetype":"neighbourhood",

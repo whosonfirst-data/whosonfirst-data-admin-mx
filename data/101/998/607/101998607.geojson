@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":2716496.570402,
+    "geom:area_square_m":2716496.57041,
     "geom:bbox":"-95.7736574441,17.7537208554,-95.7428988336,17.7755240189",
     "geom:latitude":17.764935,
     "geom:longitude":-95.756965,
     "iso:country":"MX",
     "lbl:latitude":17.762005,
     "lbl:longitude":-95.754399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.762005,
     "mps:longitude":-95.754399,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ignacio Ram\u00edrez"
     ],
@@ -42,7 +46,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -54,7 +58,7 @@
         "gp:id":55902236
     },
     "wof:country":"MX",
-    "wof:geomhash":"f6c9677e9f3b6f474727a8294af7fbeb",
+    "wof:geomhash":"6a7679682f23efa419592c9377513496",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":101998607,
-    "wof:lastmodified":1479907050,
+    "wof:lastmodified":1566632281,
     "wof:name":"El Nigromante",
     "wof:parent_id":102077665,
     "wof:placetype":"locality",

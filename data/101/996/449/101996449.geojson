@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.428175,
     "lbl:longitude":-100.282814,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":22.428175,
     "mps:longitude":-100.282814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Cerritos"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,6 @@
         "fct:id":"01b805da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4014795,
         "gp:id":115351,
-        "qs:id":321953,
         "qs_pg:id":321953,
         "wd:id":"Q2447563"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397337,
+    "wof:lastmodified":1566632363,
     "wof:name":"Cerritos",
     "wof:parent_id":102077239,
     "wof:placetype":"locality",

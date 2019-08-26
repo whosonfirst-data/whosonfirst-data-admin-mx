@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.89285,
     "lbl:longitude":-98.573936,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.89285,
     "mps:longitude":-98.573936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tochimilco"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "fct:id":"01b98f36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515332,
         "gp:id":149717,
-        "qs:id":264187,
         "qs_pg:id":264187,
         "wd:id":"Q7811997",
         "wk:page":"Tochimilco (municipality)"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397683,
+    "wof:lastmodified":1566632539,
     "wof:name":"Tochimilco",
     "wof:parent_id":102078399,
     "wof:placetype":"locality",

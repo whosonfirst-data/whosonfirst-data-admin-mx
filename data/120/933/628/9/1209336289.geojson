@@ -24,8 +24,12 @@
     "gn:population":7,
     "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-108.23883,27.91769,-108.19883,27.95769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8929345
     },
     "wof:country":"MX",
-    "wof:geomhash":"d03bda8fb12100f6c9d5ac00dd0fb754",
+    "wof:geomhash":"c7cf9ed8f9d752fe580e9525c4a2d5c6",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209336289,
-    "wof:lastmodified":1536290210,
+    "wof:lastmodified":1566626923,
     "wof:name":"Tres Ojitos",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -108.21883,
-    27.937690000000003,
+    27.93769,
     -108.21883,
-    27.937690000000003
+    27.93769
 ],
   "geometry": {"coordinates":[-108.21883,27.93769],"type":"Point"}
 }

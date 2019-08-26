@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":751501.764108,
+    "geom:area_square_m":751501.764106,
     "geom:bbox":"-103.780474891,20.6057390067,-103.767188762,20.6153032556",
     "geom:latitude":20.610022,
     "geom:longitude":-103.774637,
     "iso:country":"MX",
     "lbl:latitude":20.61005,
     "lbl:longitude":-103.774736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.61005,
     "mps:longitude":-103.774736,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Cuisillo"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101997793,
-    "wof:lastmodified":1501269591,
+    "wof:lastmodified":1566632472,
     "wof:name":"Cuisillos",
     "wof:parent_id":102074707,
     "wof:placetype":"locality",

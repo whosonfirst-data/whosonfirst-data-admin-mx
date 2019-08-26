@@ -24,8 +24,12 @@
     "gn:population":37,
     "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-107.71742,27.54964,-107.67742,27.58964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8894997
     },
     "wof:country":"MX",
-    "wof:geomhash":"05863dbde286fabca723f796453c351f",
+    "wof:geomhash":"43e30a8b1d0ea7b3808e99c1b5b524c2",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209513021,
-    "wof:lastmodified":1536284822,
+    "wof:lastmodified":1566626873,
     "wof:name":"Rohuerachi",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -107.69742,
-    27.569640000000003,
+    27.56964,
     -107.69742,
-    27.569640000000003
+    27.56964
 ],
   "geometry": {"coordinates":[-107.69741999999999,27.56964],"type":"Point"}
 }

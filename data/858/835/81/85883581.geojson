@@ -11,8 +11,10 @@
     "geom:longitude":-101.040344,
     "gn:population":169,
     "iso:country":"MX",
+    "lbl:bbox":"-101.045344,22.162906,-101.035344,22.172906",
     "lbl:latitude":22.167906,
     "lbl:longitude":-101.040344,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.167041,
     "mps:longitude":-101.041314,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "\u041b\u043e\u0441 \u041f\u0438\u0440\u0443\u043b\u0435\u0441"
     ],
     "name:swe_x_preferred":[
-        "Los Pirules"
-    ],
-    "name:unk_x_variant":[
         "Los Pirules"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -67,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686647,
@@ -79,7 +78,7 @@
     "wof:concordances":{
         "gn:id":4023473,
         "gp:id":55896813,
-        "qs:id":1104379,
+        "qs_pg:id":1104379,
         "wd:id":"Q20140382"
     },
     "wof:country":"MX",
@@ -98,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375412,
+    "wof:lastmodified":1566619599,
     "wof:name":"Los Pirules",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

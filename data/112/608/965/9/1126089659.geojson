@@ -9,20 +9,22 @@
     "geom:bbox":"-96.88033,17.25588,-96.88033,17.25588",
     "geom:latitude":17.25588,
     "geom:longitude":-96.88033,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6314,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":6314,
     "iso:country":"MX",
+    "lbl:bbox":"-96.88533,17.25088,-96.87533,17.26088",
     "lbl:latitude":17.25588,
     "lbl:longitude":-96.88033,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Santiago Xuchilquitongo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santiango Xuchilquitongo"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,18 +44,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55917461,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Oaxaca",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101996027,
-        102075889,
-        85686623
+        102075889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126089659,
-    "wof:lastmodified":1509411584,
+    "wof:lastmodified":1566634049,
     "wof:name":"Santiago Suchilquitongo Centro",
     "wof:parent_id":101996027,
     "wof:placetype":"neighbourhood",

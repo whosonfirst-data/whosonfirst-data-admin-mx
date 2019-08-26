@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
-    "geom:area_square_m":2001734.281869,
+    "geom:area_square_m":2001734.281871,
     "geom:bbox":"-98.3602332243,19.2845600382,-98.341328108,19.3032644494",
     "geom:latitude":19.292834,
     "geom:longitude":-98.348492,
     "iso:country":"MX",
     "lbl:latitude":19.292436,
     "lbl:longitude":-98.347557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.292436,
     "mps:longitude":-98.347557,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tecuescomac"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101999137,
-    "wof:lastmodified":1501267408,
+    "wof:lastmodified":1566632558,
     "wof:name":"Santa In\u00e9s Tecuexcomac",
     "wof:parent_id":102077947,
     "wof:placetype":"locality",

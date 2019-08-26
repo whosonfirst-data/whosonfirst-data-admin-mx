@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9856847.53937,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.420129,20.302792,-89.420129,20.302792",
     "geom:latitude":20.302792,
     "geom:longitude":-89.420129,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-89.425129,20.297792,-89.415129,20.307792",
     "lbl:latitude":20.302792,
     "lbl:longitude":-89.420129,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.299929,
     "mps:longitude":-89.418075,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Oxkutzcab Centro"
-    ],
-    "name:unk_x_variant":[
         "Oxkutzcab Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686701,
         102191575,
         85633293,
         102001353,
-        102079011,
-        85686701
+        102079011
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908678,
-        "qs:id":1343295,
         "qs_pg:id":1343295
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874633,
+    "wof:lastmodified":1566619644,
     "wof:name":"Oxkutzcab Centro",
     "wof:parent_id":102001353,
     "wof:placetype":"neighbourhood",

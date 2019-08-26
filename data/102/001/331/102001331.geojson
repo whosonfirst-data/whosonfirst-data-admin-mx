@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.010466,
     "lbl:longitude":-89.106451,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.010466,
     "mps:longitude":-89.106451,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tekanto"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
         "fct:id":"01af1362-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516078,
         "gp:id":148620,
-        "qs:id":180434,
         "qs_pg:id":180434,
         "wd:id":"Q20245527"
     },
@@ -83,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369786,
+    "wof:lastmodified":1566615726,
     "wof:name":"Tekant\u00f3",
     "wof:parent_id":102079151,
     "wof:placetype":"locality",

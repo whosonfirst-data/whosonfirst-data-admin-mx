@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.083354,
     "lbl:longitude":-86.854379,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":21.083354,
     "mps:longitude":-86.854379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Alfredo V. Bonfil"
     ],
@@ -58,7 +61,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         "fct:id":"01d6e798-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3822723,
         "gp:id":22723448,
-        "qs:id":150360,
+        "qs_pg:id":150360,
         "wd:id":"Q4063671",
         "wk:page":"Alfredo V. Bonfil, Quintana Roo"
     },
@@ -91,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369850,
+    "wof:lastmodified":1566615756,
     "wof:name":"Alfredo V. Bonfil",
     "wof:parent_id":102079237,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11599437.818284,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.269287,27.353229,-112.269287,27.353229",
     "geom:latitude":27.353229,
     "geom:longitude":-112.269287,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-112.274287,27.348229,-112.264287,27.358229",
     "lbl:latitude":27.353229,
     "lbl:longitude":-112.269287,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.355676,
     "mps:longitude":-112.268059,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Mesa Mexico"
-    ],
-    "name:unk_x_variant":[
         "Mesa Mexico"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,14 +56,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894069,
-        "qs:id":1341291
+        "qs_pg:id":1341291
     },
     "wof:country":"MX",
     "wof:geomhash":"71629f07cf2478c43d7eda9caf7d72e4",
@@ -81,7 +80,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874311,
+    "wof:lastmodified":1566619617,
     "wof:name":"Mesa Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

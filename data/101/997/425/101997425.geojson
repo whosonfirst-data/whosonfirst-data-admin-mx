@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.899581,
     "lbl:longitude":-101.33339,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":19.899581,
     "mps:longitude":-101.33339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Chuc\u00e1ndiro"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397499,
+    "wof:lastmodified":1566632444,
     "wof:name":"Chuc\u00e1ndiro",
     "wof:parent_id":102075045,
     "wof:placetype":"locality",

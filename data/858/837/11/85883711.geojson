@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.371819,
     "lbl:longitude":-99.166118,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.372045,
     "mps:longitude":-99.166402,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Del Valle sur"
-    ],
-    "name:unk_x_variant":[
         "Del Valle sur"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897923,
-        "qs:id":1091878
+        "qs_pg:id":1091878
     },
     "wof:country":"MX",
     "wof:geomhash":"ae3e3a0e301ec32ef69c2ba87732152e",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270506,
+    "wof:lastmodified":1566619692,
     "wof:name":"Del Valle sur",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

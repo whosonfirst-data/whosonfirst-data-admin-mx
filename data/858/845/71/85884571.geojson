@@ -11,8 +11,10 @@
     "geom:longitude":-103.325626,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.330626,20.668171,-103.320626,20.678171",
     "lbl:latitude":20.673171,
     "lbl:longitude":-103.325626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.67519,
     "mps:longitude":-103.326049,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "San Juan de Dios"
-    ],
-    "name:unk_x_variant":[
         "San Juan de Dios"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":127,
     "wof:belongsto":[
         85686603,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904308,
-        "qs:id":1155349,
         "qs_pg:id":1155349
     },
     "wof:country":"MX",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147162,
+    "wof:lastmodified":1566619560,
     "wof:name":"San Juan de Dios",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

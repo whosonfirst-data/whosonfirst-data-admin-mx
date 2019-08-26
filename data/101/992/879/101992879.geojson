@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1935039.056926,
+    "geom:area_square_m":1935039.05692,
     "geom:bbox":"-102.045041001,22.6676453113,-102.033157444,22.6911086885",
     "geom:latitude":22.679741,
     "geom:longitude":-102.039012,
     "iso:country":"MX",
     "lbl:latitude":22.681718,
     "lbl:longitude":-102.038302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.681718,
     "mps:longitude":-102.038302,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55916728
     },
     "wof:country":"MX",
-    "wof:geomhash":"bd3ecd9bfedfc867f899f5eb39ad4d3d",
+    "wof:geomhash":"b3d53645643f56da2ed01eb834117a58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992879,
-    "wof:lastmodified":1479904117,
+    "wof:lastmodified":1566632715,
     "wof:name":"San Jos\u00e9 el Saladillo (El Saladillo)",
     "wof:parent_id":102075387,
     "wof:placetype":"locality",

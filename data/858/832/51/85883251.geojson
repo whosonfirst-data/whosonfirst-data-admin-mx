@@ -11,8 +11,10 @@
     "geom:longitude":-100.855672,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.860672,20.512808,-100.850672,20.522808",
     "lbl:latitude":20.517808,
     "lbl:longitude":-100.855672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.518187,
     "mps:longitude":-100.855214,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "name:spa_x_preferred":[
         "Los Cucus",
         "El reloj cuc\u00fa"
-    ],
-    "name:unk_x_variant":[
-        "Los Cucus"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892560,
-        "qs:id":493744,
         "qs_pg:id":493744
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619603,
     "wof:name":"Los Cucus",
     "wof:parent_id":101993095,
     "wof:placetype":"neighbourhood",

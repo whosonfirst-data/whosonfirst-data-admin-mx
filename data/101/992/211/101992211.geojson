@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.864724,
     "lbl:longitude":-102.911695,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":21.864724,
     "mps:longitude":-102.911695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tabasco"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Tabasco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Garcia de la Cadena"
     ],
     "name:vie_x_preferred":[
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":19,
     "wof:belongsto":[
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3982729,
         "gp:id":147923,
-        "qs:id":469776,
         "qs_pg:id":469776,
         "wd:id":"Q3889100",
         "wk:page":"Tabasco, Zacatecas"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101992211,
-    "wof:lastmodified":1563397955,
+    "wof:lastmodified":1566632680,
     "wof:name":"Tabasco",
     "wof:parent_id":102075463,
     "wof:placetype":"locality",

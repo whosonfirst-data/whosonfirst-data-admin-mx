@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
-    "geom:area_square_m":2507585.628817,
+    "geom:area_square_m":2507585.628825,
     "geom:bbox":"-107.832062368,24.9319544409,-107.806735177,24.9513201903",
     "geom:latitude":24.939884,
     "geom:longitude":-107.819499,
     "iso:country":"MX",
     "lbl:latitude":24.939952,
     "lbl:longitude":-107.819688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.939952,
     "mps:longitude":-107.819688,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55897662
     },
     "wof:country":"MX",
-    "wof:geomhash":"822d378eab6141b75ca0dc097d004093",
+    "wof:geomhash":"53ba7d0f48e89d0c8b987ada7d9bff36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993599,
-    "wof:lastmodified":1479930270,
+    "wof:lastmodified":1566632787,
     "wof:name":"Juan Aldama (El Tigre)",
     "wof:parent_id":102074309,
     "wof:placetype":"locality",

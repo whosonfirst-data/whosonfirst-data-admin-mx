@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9875655.476496,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.931481,27.496731,-109.931481,27.496731",
     "geom:latitude":27.496731,
     "geom:longitude":-109.931481,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.936481,27.491731,-109.926481,27.501731",
     "lbl:latitude":27.496731,
     "lbl:longitude":-109.931481,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.492293,
     "mps:longitude":-109.93295,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fundo Legal"
-    ],
-    "name:unk_x_variant":[
         "Fundo Legal"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686549,
         102191575,
         85633293,
         101993827,
-        102074417,
-        85686549
+        102074417
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897167,
-        "qs:id":1155317,
         "qs_pg:id":1155317
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874386,
+    "wof:lastmodified":1566619686,
     "wof:name":"Fundo Legal",
     "wof:parent_id":101993827,
     "wof:placetype":"neighbourhood",

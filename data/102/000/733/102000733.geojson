@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":2111049.669897,
+    "geom:area_square_m":2111049.669892,
     "geom:bbox":"-99.7783589167,23.9506101509,-99.7633433551,23.9800107001",
     "geom:latitude":23.967032,
     "geom:longitude":-99.771687,
     "iso:country":"MX",
     "lbl:latitude":23.970308,
     "lbl:longitude":-99.773679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.970308,
     "mps:longitude":-99.773679,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Nuevo Le\u00f3n",
     "qs:a1_lc":"19",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90278877
     },
     "wof:country":"MX",
-    "wof:geomhash":"524e6e700123575cb041d7ba2a681585",
+    "wof:geomhash":"a71925db5d6eab8f12aff30a5ee22691",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000733,
-    "wof:lastmodified":1479908249,
+    "wof:lastmodified":1566615691,
     "wof:name":"General Zaragoza",
     "wof:parent_id":102078761,
     "wof:placetype":"locality",

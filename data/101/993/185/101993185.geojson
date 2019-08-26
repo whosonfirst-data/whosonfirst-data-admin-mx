@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
-    "geom:area_square_m":2157826.617543,
+    "geom:area_square_m":2157826.61754,
     "geom:bbox":"-99.7642240519,19.3346537186,-99.7382662475,19.3502817572",
     "geom:latitude":19.343996,
     "geom:longitude":-99.75305,
     "iso:country":"MX",
     "lbl:latitude":19.345694,
     "lbl:longitude":-99.754332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.345694,
     "mps:longitude":-99.754332,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "San Mateo Tlalchichilpa"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101993185,
-    "wof:lastmodified":1501268843,
+    "wof:lastmodified":1566632823,
     "wof:name":"San Mateo Tlalchichilpan",
     "wof:parent_id":102074219,
     "wof:placetype":"locality",

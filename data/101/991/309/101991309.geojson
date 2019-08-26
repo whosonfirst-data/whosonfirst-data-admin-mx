@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":17.215436,
     "lbl:longitude":-100.629832,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.215436,
     "mps:longitude":-100.629832,
     "mz:hierarchy_label":1,
@@ -30,9 +32,6 @@
     "name:spa_x_preferred":[
         "Tecpan",
         "T\u00e9cpan de Galeana"
-    ],
-    "name:unk_x_variant":[
-        "Tecpan"
     ],
     "name:zho_x_preferred":[
         "\u7279\u514b\u6f58\uff0d\u5fb7\u52a0\u840a\u963f\u7d0d\u5dff"
@@ -146,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -159,7 +158,6 @@
         "fct:id":"01b623a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3982170,
         "gp:id":148544,
-        "qs:id":1191892,
         "qs_pg:id":1191892,
         "wd:id":"Q4453847",
         "wk:page":"Tecp\u00e1n de Galeana (city)"
@@ -179,7 +177,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397211,
+    "wof:lastmodified":1566632293,
     "wof:name":"T\u00e9cpan de Galeana",
     "wof:parent_id":102073913,
     "wof:placetype":"locality",

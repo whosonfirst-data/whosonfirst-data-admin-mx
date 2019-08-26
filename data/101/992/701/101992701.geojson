@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.927356,
     "lbl:longitude":-98.98325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.927356,
     "mps:longitude":-98.98325,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Francisco Zacacalco"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_variant":[
         "San Francisco Zacacalco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zacacalco"
     ],
     "qs:a0":"Mexico",
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3519243,
         "gp:id":55898071,
-        "qs:id":73290,
+        "qs_pg:id":73290,
         "wd:id":"Q20138388"
     },
     "wof:country":"MX",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101992701,
-    "wof:lastmodified":1563397940,
+    "wof:lastmodified":1566632671,
     "wof:name":"San Francisco Zacacalco",
     "wof:parent_id":102074149,
     "wof:placetype":"locality",

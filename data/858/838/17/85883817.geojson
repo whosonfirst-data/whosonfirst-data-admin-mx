@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2747797.990193,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.358917,25.685467,-100.358917,25.685467",
     "geom:latitude":25.685467,
     "geom:longitude":-100.358917,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.363917,25.680467,-100.353917,25.690467",
     "lbl:latitude":25.685467,
     "lbl:longitude":-100.358917,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.688219,
     "mps:longitude":-100.359821,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Residencial San Jeronimo"
-    ],
-    "name:unk_x_variant":[
         "Residencial San Jeronimo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898374,
-        "qs:id":383303,
         "qs_pg:id":383303
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874414,
+    "wof:lastmodified":1566619674,
     "wof:name":"Residencial San Jeronimo",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

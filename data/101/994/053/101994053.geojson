@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.353184,
     "lbl:longitude":-101.714709,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":22.353184,
     "mps:longitude":-101.714709,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villa Hidalgo"
     ],
@@ -37,9 +40,6 @@
     "name:swe_x_preferred":[
         "Villa Hidalgo"
     ],
-    "name:unk_x_variant":[
-        "Santa Rita"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -70,7 +70,6 @@
         "fct:id":"01b9a480-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980167,
         "gp:id":150880,
-        "qs:id":341943,
         "qs_pg:id":341943,
         "wd:id":"Q7930360",
         "wk:page":"Villa Hidalgo (Santa Rita), Zacatecas"
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398273,
+    "wof:lastmodified":1566632849,
     "wof:name":"Villa Hidalgo",
     "wof:parent_id":102075427,
     "wof:placetype":"locality",

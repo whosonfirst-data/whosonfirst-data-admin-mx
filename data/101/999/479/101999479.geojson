@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.173941,
     "lbl:longitude":-98.062275,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.173941,
     "mps:longitude":-98.062275,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Huauchinango"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "fct:id":"01b85d6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526992,
         "gp:id":125068,
-        "qs:id":242621,
         "qs_pg:id":242621,
         "wd:id":"Q2984123",
         "wk:page":"Huauchinango (municipality)"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397660,
+    "wof:lastmodified":1566632527,
     "wof:name":"Huauchinango",
     "wof:parent_id":102078147,
     "wof:placetype":"locality",

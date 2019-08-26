@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.614661,
     "lbl:longitude":-95.658348,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.614661,
     "mps:longitude":-95.658348,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u043b\u0430\u043a\u043e\u0442\u0430\u043b\u043f\u0430\u043d"
     ],
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -155,7 +158,6 @@
         "fct:id":"01b98676-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515479,
         "gp:id":149538,
-        "qs:id":148628,
         "qs_pg:id":148628,
         "wd:id":"Q903792",
         "wk:page":"Tlacotalpan"
@@ -175,7 +177,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397143,
+    "wof:lastmodified":1566632257,
     "wof:name":"Tlacotalpan",
     "wof:parent_id":102077769,
     "wof:placetype":"locality",

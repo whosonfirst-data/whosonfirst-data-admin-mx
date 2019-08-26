@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.175983,
     "lbl:longitude":-102.339695,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":22.175983,
     "mps:longitude":-102.339695,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041f\u0430\u0431\u0435\u043b\u044c\u043e\u043d-\u0434\u0435-\u0418\u0434\u0430\u043b\u044c\u0433\u043e"
     ],
@@ -29,7 +32,7 @@
     "name:srp_x_preferred":[
         "\u041f\u0430\u0431\u0435\u0459\u043e\u043d \u0434\u0435 \u0418\u0434\u0430\u043b\u0433\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pabell\u00f3n"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,6 @@
         "fct:id":"01b8cbb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3993984,
         "gp:id":135453,
-        "qs:id":1047564,
         "qs_pg:id":1047564,
         "wd:id":"Q20291470"
     },
@@ -81,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397447,
+    "wof:lastmodified":1566632418,
     "wof:name":"Pabell\u00f3n de Hidalgo",
     "wof:parent_id":102077369,
     "wof:placetype":"locality",

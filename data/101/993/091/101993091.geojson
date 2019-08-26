@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
-    "geom:area_square_m":490707.051852,
+    "geom:area_square_m":490707.051854,
     "geom:bbox":"-100.529895414,20.5344543403,-100.522274096,20.5449938676",
     "geom:latitude":20.539726,
     "geom:longitude":-100.525646,
     "iso:country":"MX",
     "lbl:latitude":20.540469,
     "lbl:longitude":-100.526338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.540469,
     "mps:longitude":-100.526338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Balbanera"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101993091,
-    "wof:lastmodified":1504309908,
+    "wof:lastmodified":1566632766,
     "wof:name":"Fuentes de Balvanera",
     "wof:parent_id":102077293,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":727018.443244,
+    "geom:area_square_m":727018.443241,
     "geom:bbox":"-103.20742587,20.4970457046,-103.197379463,20.5066007619",
     "geom:latitude":20.501732,
     "geom:longitude":-103.202146,
     "iso:country":"MX",
     "lbl:latitude":20.501814,
     "lbl:longitude":-103.202143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.501814,
     "mps:longitude":-103.202143,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":122334
     },
     "wof:country":"MX",
-    "wof:geomhash":"bc947cc4a783e7eb8daf835ea5a7e110",
+    "wof:geomhash":"e1da776ccb80fb763493fbc5c4401cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997631,
-    "wof:lastmodified":1479931053,
+    "wof:lastmodified":1566632499,
     "wof:name":"Galaxia Bonito Jalisco",
     "wof:parent_id":102074711,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-103.312587,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.317587,20.634065,-103.307587,20.644065",
     "lbl:latitude":20.639065,
     "lbl:longitude":-103.312587,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.636362,
     "mps:longitude":-103.31149,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio de Santa Maria"
-    ],
-    "name:unk_x_variant":[
         "Barrio de Santa Maria"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55909931,
-        "qs:id":1343427,
         "qs_pg:id":1343427
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957723,
+    "wof:lastmodified":1566619654,
     "wof:name":"Barrio de Santa Maria",
     "wof:parent_id":101997863,
     "wof:placetype":"neighbourhood",

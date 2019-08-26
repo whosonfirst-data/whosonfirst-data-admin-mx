@@ -10,8 +10,10 @@
     "geom:latitude":20.691254,
     "geom:longitude":-103.350731,
     "iso:country":"MX",
+    "lbl:bbox":"-103.355731,20.686254,-103.345731,20.696254",
     "lbl:latitude":20.691254,
     "lbl:longitude":-103.350731,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.696623,
     "mps:longitude":-103.354693,
     "mz:hierarchy_label":0,
@@ -27,9 +29,8 @@
         "La Normal",
         "M\u00e1s fuerte de lo que pensaba"
     ],
-    "name:unk_x_variant":[
-        "Noria",
-        "La Normal"
+    "name:und_x_variant":[
+        "Noria"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -60,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -72,7 +73,6 @@
     "wof:concordances":{
         "gn:id":4001158,
         "gp:id":55910453,
-        "qs:id":73729,
         "qs_pg:id":73729
     },
     "wof:country":"MX",
@@ -91,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619653,
     "wof:name":"La Normal",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

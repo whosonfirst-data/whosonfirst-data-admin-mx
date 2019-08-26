@@ -11,8 +11,10 @@
     "geom:longitude":-105.233564,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.238564,20.633705,-105.228564,20.643705",
     "lbl:latitude":20.638705,
     "lbl:longitude":-105.233564,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.642212,
     "mps:longitude":-105.230062,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Los Tabachines"
-    ],
-    "name:unk_x_variant":[
         "Los Tabachines"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55905554,
-        "qs:id":1342954,
         "qs_pg:id":1342954
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957722,
+    "wof:lastmodified":1566619637,
     "wof:name":"Los Tabachines",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

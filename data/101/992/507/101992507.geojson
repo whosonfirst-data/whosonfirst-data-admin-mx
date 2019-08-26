@@ -9,14 +9,17 @@
     "geom:bbox":"-99.677525875,19.7768801957,-99.6601672893,19.807105237",
     "geom:latitude":19.79,
     "geom:longitude":-99.668478,
-    "geonames:id":"3827138,3519635",
+    "gn:id":"3827138,3519635",
     "iso:country":"MX",
     "lbl:latitude":19.783082,
     "lbl:longitude":-99.671956,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.783082,
     "mps:longitude":-99.671956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0645\u0648\u0631\u064a\u0644\u0648\u0633"
     ],
@@ -123,7 +126,7 @@
         "Morelos"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcb\u0bb0\u0bc6\u0bb2\u0bcb\u0bb8\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0bae\u0bcb\u0bb0\u0bc6\u0bb2\u0bcb\u0bb8\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c30\u0c46\u0c32\u0c4b\u0c38\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -136,9 +139,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041c\u043e\u0440\u0435\u043b\u043e\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Morelos"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u0644\u0648\u0633 \u0645\u06cc\u0648\u0646\u0633\u067e\u0644\u0679\u06cc"
@@ -163,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":101992507,
-    "wof:lastmodified":1563398007,
+    "wof:lastmodified":1566632709,
     "wof:name":"San Bartolo Morelos",
     "wof:parent_id":102073965,
     "wof:placetype":"locality",

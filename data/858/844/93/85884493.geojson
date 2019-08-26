@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.49184,
     "lbl:longitude":-99.11705,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.496494,
     "mps:longitude":-99.115099,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Rosas Del Tepeyac"
-    ],
-    "name:unk_x_variant":[
         "Rosas Del Tepeyac"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904054,
-        "qs:id":1342681
+        "qs_pg:id":1342681
     },
     "wof:country":"MX",
     "wof:geomhash":"03adafcbf910a57cd362f6c1d3a442f0",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957720,
+    "wof:lastmodified":1566619586,
     "wof:name":"Rosas Del Tepeyac",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

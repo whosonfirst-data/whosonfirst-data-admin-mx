@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":4902519.213181,
+    "geom:area_square_m":4902519.213179,
     "geom:bbox":"-99.6069510437,19.2755867866,-99.5631985779,19.2871671287",
     "geom:latitude":19.281739,
     "geom:longitude":-99.586643,
     "iso:country":"MX",
     "lbl:latitude":19.281687,
     "lbl:longitude":-99.58664,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.281687,
     "mps:longitude":-99.58664,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chicahualco"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3519076,
         "gp:id":55901120,
-        "qs:id":908194
+        "qs_pg:id":908194
     },
     "wof:country":"MX",
     "wof:geomhash":"700f62ea071073ae195d4ad0af879f01",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101992529,
-    "wof:lastmodified":1501267419,
+    "wof:lastmodified":1566632700,
     "wof:name":"San Jer\u00f3nimo Chicahualco",
     "wof:parent_id":102074113,
     "wof:placetype":"locality",

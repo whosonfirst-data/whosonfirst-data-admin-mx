@@ -9,17 +9,19 @@
     "geom:bbox":"-98.60694,18.30556,-98.60694,18.30556",
     "geom:latitude":18.30556,
     "geom:longitude":-98.60694,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":10320,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.61194,18.30056,-98.60194,18.31056",
     "lbl:latitude":18.30556,
     "lbl:longitude":-98.60694,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiautla de Tapia"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,18 +45,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55906925,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999391,
-        102077981,
-        85686657
+        102077981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1126093441,
-    "wof:lastmodified":1509411770,
+    "wof:lastmodified":1566634304,
     "wof:name":"Villa Chiautla de Tapia",
     "wof:parent_id":101999391,
     "wof:placetype":"neighbourhood",

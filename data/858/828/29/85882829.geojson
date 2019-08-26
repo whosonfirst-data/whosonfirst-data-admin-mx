@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8588882.192414,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.955387,22.109267,-100.955387,22.109267",
     "geom:latitude":22.109267,
     "geom:longitude":-100.955387,
     "iso:country":"MX",
+    "lbl:bbox":"-100.960387,22.104267,-100.950387,22.114267",
     "lbl:latitude":22.109267,
     "lbl:longitude":-100.955387,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.103863,
     "mps:longitude":-100.956814,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:swe_x_preferred":[
         "Tepeyac"
     ],
-    "name:unk_x_variant":[
-        "Tepeyac"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3985606,
@@ -95,20 +94,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":261,
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996483,
-        102077193,
-        85686647
+        102077193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4023352,
         "gp:id":55894221,
-        "qs:id":233573,
+        "qs_pg:id":233573
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":775947
     },
     "wof:country":"MX",
@@ -127,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874138,
+    "wof:lastmodified":1566619568,
     "wof:name":"Tepeyac",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

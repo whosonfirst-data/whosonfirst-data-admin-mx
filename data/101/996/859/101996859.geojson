@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.229607,
     "lbl:longitude":-102.321154,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":22.229607,
     "mps:longitude":-102.321154,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:hbs_x_preferred":[
         "Rinc\u00f3n de Romos"
     ],
@@ -41,9 +44,6 @@
     "name:srp_x_preferred":[
         "\u0420\u0438\u043d\u043a\u043e\u043d \u0434\u0435 \u0420\u043e\u043c\u043e\u0441"
     ],
-    "name:unk_x_variant":[
-        "Rincon de Romos"
-    ],
     "name:vie_x_preferred":[
         "Rinc\u00f3n de Romos"
     ],
@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -80,7 +80,6 @@
         "fct:id":"01b8e8b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3988651,
         "gp:id":140710,
-        "qs:id":961020,
         "qs_pg:id":961020,
         "wd:id":"Q2720335",
         "wk:page":"Rinc\u00f3n de Romos"
@@ -100,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397354,
+    "wof:lastmodified":1566632372,
     "wof:name":"Rinc\u00f3n de Romos",
     "wof:parent_id":102077369,
     "wof:placetype":"locality",

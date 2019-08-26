@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3534198.406948,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.998798,22.160801,-100.998798,22.160801",
     "geom:latitude":22.160801,
     "geom:longitude":-100.998798,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.003798,22.155801,-100.993798,22.165801",
     "lbl:latitude":22.160801,
     "lbl:longitude":-100.998798,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.162606,
     "mps:longitude":-101.002749,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fovissste"
-    ],
-    "name:unk_x_variant":[
         "Fovissste"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996483,
-        102077193,
-        85686647
+        102077193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888919,
-        "qs:id":1340812,
         "qs_pg:id":1340812
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874187,
+    "wof:lastmodified":1566619554,
     "wof:name":"Fovissste",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

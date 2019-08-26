@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":1128621.86373,
+    "geom:area_square_m":1128621.863733,
     "geom:bbox":"-109.034073521,26.3265180534,-109.021688314,26.3401512607",
     "geom:latitude":26.333355,
     "geom:longitude":-109.028507,
     "iso:country":"MX",
     "lbl:latitude":26.333153,
     "lbl:longitude":-109.028625,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.333153,
     "mps:longitude":-109.028625,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55892283
     },
     "wof:country":"MX",
-    "wof:geomhash":"b36a5272616b825be8a1d2e19c989453",
+    "wof:geomhash":"e8aaf476b026b7a45201068417c0877d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993773,
-    "wof:lastmodified":1479930415,
+    "wof:lastmodified":1566632818,
     "wof:name":"Guillermo Ch\u00e1vez Talamantes",
     "wof:parent_id":102074339,
     "wof:placetype":"locality",

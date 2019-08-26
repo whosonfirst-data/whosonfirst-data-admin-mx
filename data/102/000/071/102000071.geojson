@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.710352,
     "lbl:longitude":-97.596787,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.710352,
     "mps:longitude":-97.596787,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Miguel Tenextatiloyan"
     ],
@@ -31,7 +34,7 @@
     "name:swe_x_preferred":[
         "San Miguel Tenextatiloyan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tenextatiloyan"
     ],
     "qs:a0":"Mexico",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":3518235,
         "gp:id":144685,
-        "qs:id":193679,
         "qs_pg:id":193679,
         "wd:id":"Q20231815"
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102000071,
-    "wof:lastmodified":1563369664,
+    "wof:lastmodified":1566615668,
     "wof:name":"San Miguel Tenextatiloyan",
     "wof:parent_id":102078451,
     "wof:placetype":"locality",

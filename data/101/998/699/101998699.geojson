@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":1177434.413533,
+    "geom:area_square_m":1177434.413527,
     "geom:bbox":"-94.9197991713,18.2331585519,-94.9068647473,18.2503747528",
     "geom:latitude":18.242772,
     "geom:longitude":-94.914062,
     "iso:country":"MX",
     "lbl:latitude":18.242505,
     "lbl:longitude":-94.915238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.242505,
     "mps:longitude":-94.915238,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895709
     },
     "wof:country":"MX",
-    "wof:geomhash":"823bdd9338db9067ed0a0d2e2a09640f",
+    "wof:geomhash":"91b52946636bc9e689563f060dc675d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998699,
-    "wof:lastmodified":1479907269,
+    "wof:lastmodified":1566632274,
     "wof:name":"Colonia Benito Ju\u00e1rez",
     "wof:parent_id":102077709,
     "wof:placetype":"locality",

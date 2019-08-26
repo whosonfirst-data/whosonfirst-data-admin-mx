@@ -9,19 +9,22 @@
     "geom:bbox":"-100.18301,18.84,-100.18301,18.84",
     "geom:latitude":18.84,
     "geom:longitude":-100.18301,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.18801,18.835,-100.17801,18.845",
     "lbl:latitude":18.84,
     "lbl:longitude":-100.18301,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Campanario de Ixtapan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Campanario"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,16 +48,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55901198,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102073947,
-        85686527
+        102073947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126081115,
-    "wof:lastmodified":1509411166,
+    "wof:lastmodified":1566634080,
     "wof:name":"Fracc El Campanario",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

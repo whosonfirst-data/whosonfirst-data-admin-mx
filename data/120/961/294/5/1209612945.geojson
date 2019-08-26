@@ -24,8 +24,12 @@
     "gn:population":115,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-92.31556,17.26861,-92.27556,17.30861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8879061
     },
     "wof:country":"MX",
-    "wof:geomhash":"4e92be6c00514b35f45e0d65bfc1da7a",
+    "wof:geomhash":"cfb26ccd8d8304a5badae8028e5f09e9",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209612945,
-    "wof:lastmodified":1536281787,
+    "wof:lastmodified":1566626508,
     "wof:name":"Francisco Villa",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -92.29556,
-    17.288610000000002,
+    17.28861,
     -92.29556,
-    17.288610000000002
+    17.28861
 ],
   "geometry": {"coordinates":[-92.29555999999999,17.28861],"type":"Point"}
 }

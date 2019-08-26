@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.618136,
     "lbl:longitude":-100.286747,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.618136,
     "mps:longitude":-100.286747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Angangueo"
     ],
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Mineral de Angangueo"
     ],
-    "name:unk_x_variant":[
-        "Angangueo"
-    ],
     "name:vie_x_preferred":[
         "Angangueo"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +86,6 @@
         "fct:id":"01b549ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3995789,
         "gp:id":112150,
-        "qs:id":151339,
         "qs_pg:id":151339,
         "wd:id":"Q3844842",
         "wk:page":"Angangueo"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397513,
+    "wof:lastmodified":1566632451,
     "wof:name":"Mineral de Angangueo",
     "wof:parent_id":102074987,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.941375,
     "lbl:longitude":-97.877599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.941375,
     "mps:longitude":-97.877599,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Hip\u00f3lito Xochiltenango"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Hip\u00f3lito Xochiltenango"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xochiltenango"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3519207,
         "gp:id":142759,
-        "qs:id":978910,
         "qs_pg:id":978910,
         "wd:id":"Q20231621"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101999867,
-    "wof:lastmodified":1563397678,
+    "wof:lastmodified":1566632537,
     "wof:name":"San Hip\u00f3lito Xochiltenango",
     "wof:parent_id":102078345,
     "wof:placetype":"locality",

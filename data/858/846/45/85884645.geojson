@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3190640.748061,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.489441,18.947855,-99.489441,18.947855",
     "geom:latitude":18.947855,
     "geom:longitude":-99.489441,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.494441,18.942855,-99.484441,18.952855",
     "lbl:latitude":18.947855,
     "lbl:longitude":-99.489441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.947856,
     "mps:longitude":-99.486291,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Santa Maria"
-    ],
-    "name:unk_x_variant":[
         "Barrio Santa Maria"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992543,
-        102074117,
-        85686527
+        102074117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55905577,
-        "qs:id":1294783
+        "qs_pg:id":1294783
     },
     "wof:country":"MX",
     "wof:geomhash":"9517697d76b4d4c505d14f530968413b",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874575,
+    "wof:lastmodified":1566619634,
     "wof:name":"Barrio Santa Maria",
     "wof:parent_id":101992543,
     "wof:placetype":"neighbourhood",

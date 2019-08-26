@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4695098.278141,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.180017,19.698376,-101.180017,19.698376",
     "geom:latitude":19.698376,
     "geom:longitude":-101.180017,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.185017,19.693376,-101.175017,19.703376",
     "lbl:latitude":19.698376,
     "lbl:longitude":-101.180017,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.693871,
     "mps:longitude":-101.177542,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Cuauhtemoc"
-    ],
-    "name:unk_x_variant":[
         "Cuauhtemoc"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997341,
-        102075017,
-        85686595
+        102075017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895466,
-        "qs:id":1199366,
         "qs_pg:id":1199366
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874344,
+    "wof:lastmodified":1566619625,
     "wof:name":"Cuauhtemoc",
     "wof:parent_id":101997341,
     "wof:placetype":"neighbourhood",

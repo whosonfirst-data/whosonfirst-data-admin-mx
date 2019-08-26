@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000562,
-    "geom:area_square_m":6569318.418439,
+    "geom:area_square_m":6569318.418407,
     "geom:bbox":"-97.9578751638,19.0392290347,-97.9237646425,19.0706615258",
     "geom:latitude":19.052628,
     "geom:longitude":-97.942083,
     "iso:country":"MX",
     "lbl:latitude":19.050131,
     "lbl:longitude":-97.940411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.050131,
     "mps:longitude":-97.940411,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55896155
     },
     "wof:country":"MX",
-    "wof:geomhash":"956c4fa6a7dfb65924a46ebd8a5b0b3f",
+    "wof:geomhash":"41bb243bb453bc4e126a5efc52f14fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999217,
-    "wof:lastmodified":1479908102,
+    "wof:lastmodified":1566632527,
     "wof:name":"La Magdalena Tetela Morelos",
     "wof:parent_id":102077997,
     "wof:placetype":"locality",

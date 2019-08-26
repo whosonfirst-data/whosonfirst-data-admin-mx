@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6076527.11052,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.617008,31.846055,-116.617008,31.846055",
     "geom:latitude":31.846055,
     "geom:longitude":-116.617008,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.622008,31.841055,-116.612008,31.851055",
     "lbl:latitude":31.846055,
     "lbl:longitude":-116.617008,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.841968,
     "mps:longitude":-116.615999,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Playa de Ensenada"
-    ],
-    "name:unk_x_variant":[
         "Fracc Playa de Ensenada"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,13 +54,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900298,
-        "qs:id":973916
+        "qs_pg:id":973916
     },
     "wof:country":"MX",
     "wof:geomhash":"844a15bcdcdf084ec4f74b4c3d3204f2",
@@ -78,7 +76,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874463,
+    "wof:lastmodified":1566619627,
     "wof:name":"Fracc Playa de Ensenada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

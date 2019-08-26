@@ -9,15 +9,18 @@
     "geom:bbox":"-92.72379,15.87198,-92.72379,15.87198",
     "geom:latitude":15.87198,
     "geom:longitude":-92.72379,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8880,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":8880,
     "iso:country":"MX",
+    "lbl:bbox":"-92.74379,15.85198,-92.70379,15.89198",
     "lbl:latitude":15.87198,
     "lbl:longitude":-92.72379,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "\u00c1ngel Albino Corzo"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "\u00c1ngel Albino Corzo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosa Jaltenango"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":112153,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125993891,
-    "wof:lastmodified":1563400349,
+    "wof:lastmodified":1566634015,
     "wof:name":"\u00c1ngel Albino Corzo",
     "wof:parent_id":102075613,
     "wof:placetype":"locality",

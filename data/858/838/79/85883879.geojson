@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.262878,
     "lbl:longitude":-99.089166,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.262639,
     "mps:longitude":-99.082586,
     "mz:hierarchy_label":1,
@@ -43,9 +44,6 @@
     "name:swe_x_preferred":[
         "Santiago Atlatongo"
     ],
-    "name:unk_x_variant":[
-        "Caltongo"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3530597,
@@ -74,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +84,6 @@
     "wof:concordances":{
         "gn:id":3532602,
         "gp:id":55898654,
-        "qs:id":26685,
         "qs_pg:id":26685,
         "wd:id":"Q20264766"
     },
@@ -105,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375528,
+    "wof:lastmodified":1566619676,
     "wof:name":"Caltongo",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

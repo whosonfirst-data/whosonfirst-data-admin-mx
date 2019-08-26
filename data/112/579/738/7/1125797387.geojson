@@ -9,15 +9,18 @@
     "geom:bbox":"-99.75836,19.36915,-99.75836,19.36915",
     "geom:latitude":19.36915,
     "geom:longitude":-99.75836,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":3091,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.77836,19.34915,-99.73836,19.38915",
     "lbl:latitude":19.36915,
     "lbl:longitude":-99.75836,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Almoloya de Ju\u00e1rez"
@@ -73,7 +76,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0410\u043b\u043c\u043e\u043b\u043e\u0458\u0430 \u0434\u0435 \u0425\u0443\u0430\u0440\u0435\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Almoloya"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55901259,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125797387,
-    "wof:lastmodified":1563400956,
+    "wof:lastmodified":1566634317,
     "wof:name":"Villa de Almoloya de Juarez",
     "wof:parent_id":102074219,
     "wof:placetype":"locality",

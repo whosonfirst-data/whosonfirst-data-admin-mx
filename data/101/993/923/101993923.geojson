@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.822166,
     "lbl:longitude":-109.608578,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":26.822166,
     "mps:longitude":-109.608578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "La Uni\u00f3n"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3998913,
         "gp:id":129474,
-        "qs:id":489500,
         "qs_pg:id":489500,
         "wd:id":"Q20255971"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101993923,
-    "wof:lastmodified":1563398136,
+    "wof:lastmodified":1566632780,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":102074349,
     "wof:placetype":"locality",

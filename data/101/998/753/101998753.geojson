@@ -13,15 +13,18 @@
     "iso:country":"MX",
     "lbl:latitude":21.165172,
     "lbl:longitude":-97.852687,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.165172,
     "mps:longitude":-97.852687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tepetzintla"
     ],
     "name:eng_x_preferred":[
-        "Tepetzintla  Municipality"
+        "Tepetzintla Municipality"
     ],
     "name:eng_x_variant":[
         "Tepetzintla"
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,6 @@
         "fct:id":"01b978ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515853,
         "gp:id":148945,
-        "qs:id":180443,
         "qs_pg:id":180443,
         "wd:id":"Q4455218"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397070,
+    "wof:lastmodified":1566632226,
     "wof:name":"Tepetzintla",
     "wof:parent_id":102077745,
     "wof:placetype":"locality",

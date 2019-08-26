@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.322114,
     "lbl:longitude":-90.056075,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.322114,
     "mps:longitude":-90.056075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Dzitbalch\u00e9"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Dzitbalch\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tzitbalch\u00e9"
     ],
     "qs:a0":"Mexico",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":3529650,
         "gp:id":118432,
-        "qs:id":148806,
         "qs_pg:id":148806,
         "wd:id":"Q4505924",
         "wk:page":"Dzitbalch\u00e9"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":102001443,
-    "wof:lastmodified":1563369840,
+    "wof:lastmodified":1566615751,
     "wof:name":"Dzitbalch\u00e9",
     "wof:parent_id":102079213,
     "wof:placetype":"locality",

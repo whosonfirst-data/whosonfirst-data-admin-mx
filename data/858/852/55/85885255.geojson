@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5899799.714901,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.221484,19.148373,-102.221484,19.148373",
     "geom:latitude":19.148373,
     "geom:longitude":-102.221484,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.226484,19.143373,-102.216484,19.153373",
     "lbl:latitude":19.148373,
     "lbl:longitude":-102.221484,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.148901,
     "mps:longitude":-102.223017,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Paracuaro Centro"
-    ],
-    "name:unk_x_variant":[
         "Paracuaro Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997139,
-        102074919,
-        85686595
+        102074919
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55920721,
-        "qs:id":1137775,
         "qs_pg:id":1137775
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874763,
+    "wof:lastmodified":1566619715,
     "wof:name":"Paracuaro Centro",
     "wof:parent_id":101997139,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":817126.700825,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.388821,20.592896,-100.388821,20.592896",
     "geom:latitude":20.592896,
     "geom:longitude":-100.388821,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.393821,20.587896,-100.383821,20.597896",
     "lbl:latitude":20.592896,
     "lbl:longitude":-100.388821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.594223,
     "mps:longitude":-100.384069,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Barrio la Cruz"
-    ],
-    "name:unk_x_variant":[
         "Barrio la Cruz"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,20 +57,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3525914,
         "gp:id":55886383,
-        "qs:id":1340741,
         "qs_pg:id":33119
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1340741
     },
     "wof:country":"MX",
     "wof:geomhash":"27d45fd496d6d91f8867f75567939184",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874164,
+    "wof:lastmodified":1566619554,
     "wof:name":"Barrio la Cruz",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

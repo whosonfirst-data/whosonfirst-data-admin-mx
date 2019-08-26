@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.364356,
     "lbl:longitude":-97.29346,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.364356,
     "mps:longitude":-97.29346,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Agua Dulce"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3533268,
         "gp:id":55902170,
-        "qs:id":148893,
         "qs_pg:id":148893
     },
     "wof:country":"MX",
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101998573,
-    "wof:lastmodified":1564171168,
+    "wof:lastmodified":1566632254,
     "wof:name":"Agua Dulce",
     "wof:parent_id":102077653,
     "wof:placetype":"locality",

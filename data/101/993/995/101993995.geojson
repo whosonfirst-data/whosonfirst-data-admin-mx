@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":27.368164,
     "lbl:longitude":-109.892469,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.368164,
     "mps:longitude":-109.892469,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sonora",
     "qs:a1_lc":"26",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"ba28d68e80e1a7d2d8d6b05925d0459a",
+    "wof:geomhash":"ebd823a341e13b5e6e361be576d6baa9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101993995,
-    "wof:lastmodified":1479930069,
+    "wof:lastmodified":1566632785,
     "wof:name":"Marte R. G\u00f3mez (Tobarito)",
     "wof:parent_id":102074417,
     "wof:placetype":"locality",

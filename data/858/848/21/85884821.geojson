@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17618239.995075,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.694756,19.216643,-104.694756,19.216643",
     "geom:latitude":19.216643,
     "geom:longitude":-104.694756,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.699756,19.211643,-104.689756,19.221643",
     "lbl:latitude":19.216643,
     "lbl:longitude":-104.694756,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.22163,
     "mps:longitude":-104.703722,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Presidentes"
-    ],
-    "name:unk_x_variant":[
         "Presidentes"
     ],
     "qs:gn_id":0,
@@ -54,14 +53,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908676,
-        "qs:id":475715
+        "qs_pg:id":475715
     },
     "wof:country":"MX",
     "wof:geomhash":"d0a97862f56c8bf3ff5c1d8418bce4f0",
@@ -78,7 +77,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874633,
+    "wof:lastmodified":1566619641,
     "wof:name":"Presidentes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.527292,
     "lbl:longitude":-104.791075,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.527292,
     "mps:longitude":-104.791075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mascota"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,6 @@
         "fct:id":"01b8a83c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3996472,
         "gp:id":133078,
-        "qs:id":454357,
         "qs_pg:id":454357,
         "wd:id":"Q3056144"
     },
@@ -126,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397558,
+    "wof:lastmodified":1566632474,
     "wof:name":"Mascota",
     "wof:parent_id":102074819,
     "wof:placetype":"locality",

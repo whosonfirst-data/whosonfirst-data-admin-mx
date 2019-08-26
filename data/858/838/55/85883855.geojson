@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000782,
-    "geom:area_square_m":9125222.798601,
+    "geom:area_square_m":9125222.798619,
     "geom:bbox":"-99.1204125977,19.2836883976,-99.0803202322,19.3237353641",
     "geom:latitude":19.305066,
     "geom:longitude":-99.101165,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.301806,
     "lbl:longitude":-99.103209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.309647,
     "mps:longitude":-99.099796,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Fracc Villa Quietud"
-    ],
-    "name:unk_x_variant":[
         "Fracc Villa Quietud"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898567,
-        "qs:id":242375
+        "qs_pg:id":242375
     },
     "wof:country":"MX",
     "wof:geomhash":"1de1a2ed6ba9cc7659a33d15392ea2fd",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270469,
+    "wof:lastmodified":1566619676,
     "wof:name":"Fracc Villa Quietud",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

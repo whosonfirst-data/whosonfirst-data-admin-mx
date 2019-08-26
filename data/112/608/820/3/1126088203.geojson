@@ -9,14 +9,17 @@
     "geom:bbox":"-99.22542,19.30341,-99.22542,19.30341",
     "geom:latitude":19.30341,
     "geom:longitude":-99.22542,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.23042,19.29841,-99.22042,19.30841",
     "lbl:latitude":19.30341,
     "lbl:longitude":-99.22542,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Nicol\u00e1s Totolapan"
@@ -38,18 +41,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55899303,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Distrito Federal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85686515,
         102191575,
         85633293,
         101991157,
         890535779,
-        102073729
+        102073729,
+        85686515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1126088203,
-    "wof:lastmodified":1509411510,
+    "wof:lastmodified":1566634056,
     "wof:name":"San Nicolas Totolapan",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

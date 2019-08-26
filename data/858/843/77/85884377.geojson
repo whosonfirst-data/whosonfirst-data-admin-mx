@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1634125.999114,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.241276,19.506672,-99.241276,19.506672",
     "geom:latitude":19.506672,
     "geom:longitude":-99.241276,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.246276,19.501672,-99.236276,19.511672",
     "lbl:latitude":19.506672,
     "lbl:longitude":-99.241276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.507445,
     "mps:longitude":-99.244377,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Cuicalli"
-    ],
-    "name:unk_x_variant":[
         "Cuicalli"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992499,
-        102074109,
-        85686527
+        102074109
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903464,
-        "qs:id":244140
+        "qs_pg:id":244140
     },
     "wof:country":"MX",
     "wof:geomhash":"267aebce6d434efe5ce9f44046d21cf6",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874519,
+    "wof:lastmodified":1566619584,
     "wof:name":"Cuicalli",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.320654,
     "lbl:longitude":-103.757196,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.320654,
     "mps:longitude":-103.757196,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comala"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":600.0,
     "wd:latitude":19.320833,
@@ -108,7 +111,6 @@
         "fct:id":"01b8220e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013130,
         "gp:id":117071,
-        "qs:id":242583,
         "qs_pg:id":242583,
         "wd:id":"Q1113251",
         "wk:page":"Comala"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397389,
+    "wof:lastmodified":1566632391,
     "wof:name":"Comala",
     "wof:parent_id":102074539,
     "wof:placetype":"locality",

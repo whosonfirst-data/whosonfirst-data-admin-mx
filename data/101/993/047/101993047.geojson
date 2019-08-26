@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.451714,
     "lbl:longitude":-101.528846,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.451714,
     "mps:longitude":-101.528846,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09be\u09b8\u09cb\u09b2\u09cb"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0430\u0441\u043e\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Cuitzeo de Abasolo"
-    ],
     "name:vec_x_preferred":[
         "Abasolo"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -112,7 +112,6 @@
         "fct:id":"01b7c5fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4019869,
         "gp:id":110912,
-        "qs:id":218118,
         "qs_pg:id":218118,
         "wd:id":"Q2991444"
     },
@@ -131,7 +130,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398107,
+    "wof:lastmodified":1566632764,
     "wof:name":"Abasolo",
     "wof:parent_id":102077329,
     "wof:placetype":"locality",

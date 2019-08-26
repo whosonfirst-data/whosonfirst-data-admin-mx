@@ -9,22 +9,23 @@
     "geom:bbox":"-98.2,19.03333,-98.2,19.03333",
     "geom:latitude":19.03333,
     "geom:longitude":-98.2,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.22,19.01333,-98.18,19.05333",
     "lbl:latitude":19.03333,
     "lbl:longitude":-98.2,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Baltasar"
     ],
     "name:tgl_x_preferred":[
-        "San Baltazar"
-    ],
-    "name:unk_x_variant":[
         "San Baltazar"
     ],
     "qs_pg:aaroncc":"MX",
@@ -48,7 +49,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":141904,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1125788441,
-    "wof:lastmodified":1564174101,
+    "wof:lastmodified":1566634314,
     "wof:name":"San Baltasar",
     "wof:parent_id":102078237,
     "wof:placetype":"locality",

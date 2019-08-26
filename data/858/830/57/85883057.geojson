@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27400782.727937,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.765198,21.102744,-86.765198,21.102744",
     "geom:latitude":21.102744,
     "geom:longitude":-86.765198,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-86.770198,21.097744,-86.760198,21.107744",
     "lbl:latitude":21.102744,
     "lbl:longitude":-86.765198,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.110191,
     "mps:longitude":-86.76169,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Zona Hotelera"
-    ],
-    "name:unk_x_variant":[
         "Zona Hotelera"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686711,
         102191575,
         85633293,
         102001471,
-        102079237,
-        85686711
+        102079237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889747,
-        "qs:id":1340929,
         "qs_pg:id":1340929
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874210,
+    "wof:lastmodified":1566619698,
     "wof:name":"Zona Hotelera",
     "wof:parent_id":102001471,
     "wof:placetype":"neighbourhood",

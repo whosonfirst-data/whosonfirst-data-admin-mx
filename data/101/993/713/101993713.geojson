@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1112693.434188,
+    "geom:area_square_m":1112693.434187,
     "geom:bbox":"-107.156146574,24.2858723197,-107.143605438,24.3022078316",
     "geom:latitude":24.292679,
     "geom:longitude":-107.150714,
     "iso:country":"MX",
     "lbl:latitude":24.290399,
     "lbl:longitude":-107.150191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.290399,
     "mps:longitude":-107.150191,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55903229
     },
     "wof:country":"MX",
-    "wof:geomhash":"2afea22a7c17d4fd09e3f00b497c9249",
+    "wof:geomhash":"b56426a2116d5f22335159a8d2f0a5ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993713,
-    "wof:lastmodified":1479929941,
+    "wof:lastmodified":1566632777,
     "wof:name":"Pueblos Unidos",
     "wof:parent_id":102074307,
     "wof:placetype":"locality",

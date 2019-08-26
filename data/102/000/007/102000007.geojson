@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":2397243.194628,
+    "geom:area_square_m":2397243.194619,
     "geom:bbox":"-97.2081711796,18.5310427604,-97.1807581152,18.5519519898",
     "geom:latitude":18.541974,
     "geom:longitude":-97.197188,
@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.540004,
     "lbl:longitude":-97.200822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.540004,
     "mps:longitude":-97.200822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Mar\u00eda del Monte de Cea"
     ],
@@ -66,7 +69,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191575,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":102000007,
-    "wof:lastmodified":1527637041,
+    "wof:lastmodified":1566615674,
     "wof:name":"Santa Mar\u00eda del Monte",
     "wof:parent_id":102078415,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.960069,
     "lbl:longitude":-100.167509,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":25.960069,
     "mps:longitude":-100.167509,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09af\u09bc\u09c7\u09a8\u09c7\u0997\u09be \u09a6\u09c7 \u09ab\u09cd\u09b2\u09cb\u09b0\u09c7\u09b8"
     ],
@@ -50,9 +53,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0438\u0458\u0435\u043d\u0435\u0433\u0430 \u0434\u0435 \u0424\u043b\u043e\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Ci\u00e9naga de Flores"
-    ],
     "name:vie_x_preferred":[
         "Ci\u00e9nega de Flores"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +86,6 @@
         "fct:id":"01b8146c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013892,
         "gp:id":116363,
-        "qs:id":469619,
         "qs_pg:id":469619,
         "wd:id":"Q3308035",
         "wk:page":"Ci\u00e9nega de Flores"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369776,
+    "wof:lastmodified":1566615721,
     "wof:name":"Ci\u00e9nega de Flores",
     "wof:parent_id":102078703,
     "wof:placetype":"locality",

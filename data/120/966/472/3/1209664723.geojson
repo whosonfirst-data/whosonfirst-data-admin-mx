@@ -24,8 +24,12 @@
     "gn:population":85,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-93.83611,17.65917,-93.79611,17.69917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8883300
     },
     "wof:country":"MX",
-    "wof:geomhash":"90c947908b2c72098ca8a0295053dee7",
+    "wof:geomhash":"0b7f69549d3b098fc67b0b5e8f7c8ab8",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209664723,
-    "wof:lastmodified":1536280138,
+    "wof:lastmodified":1566626553,
     "wof:name":"La Nueva Independencia",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -93.81611,
-    17.679170000000006,
+    17.67917000000001,
     -93.81611,
-    17.679170000000006
+    17.67917000000001
 ],
   "geometry": {"coordinates":[-93.81610999999999,17.67917000000001],"type":"Point"}
 }

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4208673.877771,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.005059,19.195219,-99.005059,19.195219",
     "geom:latitude":19.195219,
     "geom:longitude":-99.005059,
     "iso:country":"MX",
+    "lbl:bbox":"-99.010059,19.190219,-99.000059,19.200219",
     "lbl:latitude":19.195219,
     "lbl:longitude":-99.005059,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.195219,
     "mps:longitude":-99.005059,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Distrito Federal",
     "qs:a1_lc":"09",
@@ -33,12 +36,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85686515,
         102191575,
         85633293,
-        102073763,
-        85686515
+        102073763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890535801,
-    "wof:lastmodified":1531939960,
+    "wof:lastmodified":1566633867,
     "wof:name":"San Francisco Tecoxpa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015513,
-    "geom:area_square_m":178932736.951737,
+    "geom:area_square_m":178932736.952141,
     "geom:bbox":"-101.770234211,21.0304049532,-101.561788878,21.2134292733",
     "geom:latitude":21.121776,
     "geom:longitude":-101.663243,
@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":21.127738,
     "lbl:longitude":-101.672015,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":21.127738,
     "mps:longitude":-101.672015,
     "mz:hierarchy_label":1,
@@ -97,9 +99,6 @@
     ],
     "name:swe_x_preferred":[
         "Le\u00f3n de los Aldama"
-    ],
-    "name:unk_x_variant":[
-        "Ciudad de Le\u00f3n"
     ],
     "name:zho_x_preferred":[
         "\u83b1\u6602"
@@ -213,7 +212,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -226,7 +225,6 @@
         "fct:id":"01b8991e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3998655,
         "gp:id":131068,
-        "qs:id":775623,
         "qs_pg:id":775623,
         "wd:id":"Q189128",
         "wk:page":"Le\u00f3n, Guanajuato"
@@ -246,7 +244,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338883,
+    "wof:lastmodified":1566632414,
     "wof:megacity":1,
     "wof:name":"Le\u00f3n de los Aldama",
     "wof:parent_id":102077349,

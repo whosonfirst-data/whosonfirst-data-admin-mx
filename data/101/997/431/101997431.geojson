@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1947101.514322,
+    "geom:area_square_m":1947101.514325,
     "geom:bbox":"-102.264918238,19.9232744747,-102.241852082,19.937624655",
     "geom:latitude":19.930395,
     "geom:longitude":-102.253882,
     "iso:country":"MX",
     "lbl:latitude":19.931324,
     "lbl:longitude":-102.255016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.931324,
     "mps:longitude":-102.255016,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":121524
     },
     "wof:country":"MX",
-    "wof:geomhash":"b29a4e4e50ae49e12a28a99229fdfd7a",
+    "wof:geomhash":"41e02fe6e130f36e1c9c21f72ad26de8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997431,
-    "wof:lastmodified":1479930078,
+    "wof:lastmodified":1566632455,
     "wof:name":"El Platanal (La Planta)",
     "wof:parent_id":102075059,
     "wof:placetype":"locality",

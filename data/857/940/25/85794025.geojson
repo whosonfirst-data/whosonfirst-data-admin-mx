@@ -14,6 +14,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.359307,
     "lbl:longitude":-99.039183,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.35017,
     "mps:longitude":-99.06213,
     "mz:hierarchy_label":1,
@@ -40,10 +41,6 @@
         "Aztahuacan",
         "Sta Mar\u00eda Aztahuac\u00e1n",
         "Sta. Mar\u00eda Aztahuac\u00e1n"
-    ],
-    "name:unk_x_variant":[
-        "Aztahuacan",
-        "Santa Mar\u00eda Aztahuac\u00e1n"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPLX",
@@ -73,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -88,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3517279,
         "gp:id":146462,
-        "qs:id":466779,
         "qs_pg:id":466779
     },
     "wof:country":"MX",
@@ -117,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957726,
+    "wof:lastmodified":1566619459,
     "wof:name":"Santa Mar\u00eda Aztahuac\u00e1n",
     "wof:parent_id":890535765,
     "wof:placetype":"neighbourhood",

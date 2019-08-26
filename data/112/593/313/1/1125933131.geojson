@@ -9,19 +9,23 @@
     "geom:bbox":"-97.75704,21.33519,-97.75704,21.33519",
     "geom:latitude":21.33519,
     "geom:longitude":-97.75704,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-97.77704,21.31519,-97.73704,21.35519",
     "lbl:latitude":21.33519,
     "lbl:longitude":-97.75704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Amatl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amatlan"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,7 +47,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":112061,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125933131,
-    "wof:lastmodified":1509401517,
+    "wof:lastmodified":1566633877,
     "wof:name":"Amatl\u00e1n Tuxpan",
     "wof:parent_id":102077411,
     "wof:placetype":"locality",

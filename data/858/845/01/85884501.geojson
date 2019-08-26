@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000491,
-    "geom:area_square_m":5731289.514237,
+    "geom:area_square_m":5731289.51425,
     "geom:bbox":"-99.3016870117,19.3185146625,-99.2707006836,19.3422447911",
     "geom:latitude":19.330867,
     "geom:longitude":-99.284203,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.330074,
     "lbl:longitude":-99.28606,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.330482,
     "mps:longitude":-99.281105,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Santa Rosa Xochiac"
-    ],
-    "name:unk_x_variant":[
         "Santa Rosa Xochiac"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -71,8 +69,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894217,
-        "qs:id":1342709,
         "qs_pg:id":889561
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1342709
     },
     "wof:country":"MX",
     "wof:geomhash":"b4b4df7712ffff301abb7d14ce540e65",
@@ -100,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527269926,
+    "wof:lastmodified":1566619559,
     "wof:name":"Santa Rosa Xochiac",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

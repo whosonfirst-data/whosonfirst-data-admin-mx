@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":29.487405,
     "lbl:longitude":-110.724757,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":29.487405,
     "mps:longitude":-110.724757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "San Miguel de Horcasitas"
     ],
@@ -38,9 +41,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0438\u0433\u0435\u043b \u0434\u0435 \u041e\u0440\u043a\u0430\u0441\u0438\u0442\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Horcasitas"
-    ],
     "name:vie_x_preferred":[
         "San Miguel de Horcasitas"
     ],
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -74,9 +74,11 @@
         "fct:id":"01b414b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3985338,
         "gp:id":124921,
-        "qs:id":22880,
-        "qs_pg:id":44438,
+        "qs_pg:id":22880,
         "wd:id":"Q3311516"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":44438
     },
     "wof:country":"MX",
     "wof:geomhash":"2e78a8fbbb1d9d209586b308a6811003",
@@ -93,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398171,
+    "wof:lastmodified":1566632799,
     "wof:name":"San Miguel de Horcasitas",
     "wof:parent_id":102074487,
     "wof:placetype":"locality",

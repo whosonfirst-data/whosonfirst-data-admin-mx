@@ -10,8 +10,10 @@
     "geom:latitude":20.814378,
     "geom:longitude":-102.759862,
     "iso:country":"MX",
+    "lbl:bbox":"-102.764862,20.809378,-102.754862,20.819378",
     "lbl:latitude":20.814378,
     "lbl:longitude":-102.759862,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.814063,
     "mps:longitude":-102.759899,
     "mz:hierarchy_label":0,
@@ -116,9 +118,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0456\u0433\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "San Miguel"
-    ],
     "name:war_x_preferred":[
         "San Miguel"
     ],
@@ -151,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -163,8 +162,10 @@
     "wof:concordances":{
         "gn:id":3985464,
         "gp:id":55904954,
-        "qs:id":1199970,
         "qs_pg:id":1018888
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1199970
     },
     "wof:country":"MX",
     "wof:geomhash":"f3a55d6035d772ca96cf9cbb46da7074",
@@ -182,7 +183,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147301,
+    "wof:lastmodified":1566619660,
     "wof:name":"San Miguel",
     "wof:parent_id":101998045,
     "wof:placetype":"neighbourhood",

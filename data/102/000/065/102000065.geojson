@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.772203,
     "lbl:longitude":-97.55499,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.772203,
     "mps:longitude":-97.55499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Zaragoza"
     ],
@@ -59,9 +62,6 @@
     "name:swe_x_preferred":[
         "Zaragoza"
     ],
-    "name:unk_x_variant":[
-        "Zaragosa"
-    ],
     "name:vie_x_preferred":[
         "Zaragoza"
     ],
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -95,7 +95,6 @@
         "fct:id":"01b69600-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514051,
         "gp:id":151680,
-        "qs:id":148602,
         "qs_pg:id":148602,
         "wd:id":"Q4408246"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369670,
+    "wof:lastmodified":1566615671,
     "wof:name":"Zaragoza",
     "wof:parent_id":102078449,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":848552.498106,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.946747,20.734282,-99.946747,20.734282",
     "geom:latitude":20.734282,
     "geom:longitude":-99.946747,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.951747,20.729282,-99.941747,20.739282",
     "lbl:latitude":20.734282,
     "lbl:longitude":-99.946747,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.733581,
     "mps:longitude":-99.950961,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio El Gallito"
-    ],
-    "name:unk_x_variant":[
         "Barrio El Gallito"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
-        102077105,
-        85686641
+        102077105
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908785,
-        "qs:id":232457,
         "qs_pg:id":232457
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874641,
+    "wof:lastmodified":1566619639,
     "wof:name":"Barrio El Gallito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

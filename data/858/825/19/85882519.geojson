@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7671202.608373,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.837447,18.66706,-91.837447,18.66706",
     "geom:latitude":18.66706,
     "geom:longitude":-91.837447,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-91.842447,18.66206,-91.832447,18.67206",
     "lbl:latitude":18.66706,
     "lbl:longitude":-91.837447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.664885,
     "mps:longitude":-91.83766,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Playa Norte"
-    ],
-    "name:unk_x_variant":[
         "Playa Norte"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,13 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882812,
-        "qs:id":1115839
+        "qs_pg:id":1115839
     },
     "wof:country":"MX",
     "wof:geomhash":"708862aaba98b50eddda4fc6fcfc5932",
@@ -80,7 +78,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874030,
+    "wof:lastmodified":1566619668,
     "wof:name":"Playa Norte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

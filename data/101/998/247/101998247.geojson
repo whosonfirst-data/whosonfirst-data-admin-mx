@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":637233.831678,
+    "geom:area_square_m":637233.83168,
     "geom:bbox":"-94.523225642,18.1444365335,-94.5123818999,18.1513970512",
     "geom:latitude":18.147755,
     "geom:longitude":-94.517449,
     "iso:country":"MX",
     "lbl:latitude":18.14755,
     "lbl:longitude":-94.517346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.14755,
     "mps:longitude":-94.517346,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90278850
     },
     "wof:country":"MX",
-    "wof:geomhash":"82c7873570d1cac5d9884ce0cc16763b",
+    "wof:geomhash":"7246df018e611e6aa407dea1e85039c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998247,
-    "wof:lastmodified":1479906713,
+    "wof:lastmodified":1566632268,
     "wof:name":"Puerto Esmeralda",
     "wof:parent_id":102077467,
     "wof:placetype":"locality",

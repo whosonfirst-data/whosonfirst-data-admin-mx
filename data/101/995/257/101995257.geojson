@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":15.970884,
     "lbl:longitude":-96.710525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.970884,
     "mps:longitude":-96.710525,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Bartolom\u00e9 Loxicha"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "San Bartolom\u00e9 Loxicha"
     ],
-    "name:unk_x_variant":[
-        "Santa Catarina Loxicha"
-    ],
     "name:vie_x_preferred":[
         "San Bartolom\u00e9 Loxicha"
     ],
@@ -96,7 +96,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -126,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397806,
+    "wof:lastmodified":1566632610,
     "wof:name":"San Bartolom\u00e9 Loxicha",
     "wof:parent_id":102076361,
     "wof:placetype":"locality",

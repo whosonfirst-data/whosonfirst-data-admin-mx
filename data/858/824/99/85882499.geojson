@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2642144.669962,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.238622,19.315674,-98.238622,19.315674",
     "geom:latitude":19.315674,
     "geom:longitude":-98.238622,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.243622,19.310674,-98.233622,19.320674",
     "lbl:latitude":19.315674,
     "lbl:longitude":-98.238622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.309799,
     "mps:longitude":-98.241351,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Huertas de San Francisco"
-    ],
-    "name:unk_x_variant":[
         "Fracc Huertas de San Francisco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686653,
         102191575,
         85633293,
         101999051,
-        102077909,
-        85686653
+        102077909
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882524,
-        "qs:id":1340061,
         "qs_pg:id":1340061
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874024,
+    "wof:lastmodified":1566619647,
     "wof:name":"Fracc Huertas de San Francisco",
     "wof:parent_id":101999051,
     "wof:placetype":"neighbourhood",

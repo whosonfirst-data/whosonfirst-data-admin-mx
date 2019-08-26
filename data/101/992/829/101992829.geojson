@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.192379,
     "lbl:longitude":-99.586014,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.192379,
     "mps:longitude":-99.586014,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Andr\u00e9s Ocotl\u00e1n"
     ],
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3827283,
         "gp:id":55904739,
-        "qs:id":73546,
+        "qs_pg:id":73546,
         "wd:id":"Q20240027"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101992829,
-    "wof:lastmodified":1563397956,
+    "wof:lastmodified":1566632680,
     "wof:name":"San Andr\u00e9s Ocotl\u00e1n",
     "wof:parent_id":102074189,
     "wof:placetype":"locality",

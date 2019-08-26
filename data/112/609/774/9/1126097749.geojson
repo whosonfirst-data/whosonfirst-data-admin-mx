@@ -9,14 +9,17 @@
     "geom:bbox":"-100.00879,19.63406,-100.00879,19.63406",
     "geom:latitude":19.63406,
     "geom:longitude":-100.00879,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.01379,19.62906,-100.00379,19.63906",
     "lbl:latitude":19.63406,
     "lbl:longitude":-100.00879,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Calvario del Carmen"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55897859,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Distrito Federal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992181,
-        102074073,
-        85686527
+        102074073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126097749,
-    "wof:lastmodified":1509411966,
+    "wof:lastmodified":1566634303,
     "wof:name":"Maria Del Carmen",
     "wof:parent_id":101992181,
     "wof:placetype":"neighbourhood",

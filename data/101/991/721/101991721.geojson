@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.191469,
     "lbl:longitude":-99.423878,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.191469,
     "mps:longitude":-99.423878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santiago T\u00edlapa"
     ],
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3827335,
         "gp:id":55892189,
-        "qs:id":1061988,
+        "qs_pg:id":1061988,
         "wd:id":"Q20240440"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101991721,
-    "wof:lastmodified":1563397304,
+    "wof:lastmodified":1566632346,
     "wof:name":"Santiago Tilapa",
     "wof:parent_id":102074019,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"-103.26706,25.64127,-103.26706,25.64127",
     "geom:latitude":25.64127,
     "geom:longitude":-103.26706,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-103.28706,25.62127,-103.24706,25.66127",
     "lbl:latitude":25.64127,
     "lbl:longitude":-103.26706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Granada"
@@ -291,7 +295,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gordonices"
     ],
     "name:urd_x_preferred":[
@@ -332,7 +336,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":124079,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Coahuila de Zaragoza",
@@ -362,7 +366,7 @@
         }
     ],
     "wof:id":1125908885,
-    "wof:lastmodified":1564173487,
+    "wof:lastmodified":1566634017,
     "wof:name":"Granada",
     "wof:parent_id":102078793,
     "wof:placetype":"locality",

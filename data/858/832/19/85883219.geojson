@@ -10,8 +10,10 @@
     "geom:latitude":28.651609,
     "geom:longitude":-106.082634,
     "iso:country":"MX",
+    "lbl:bbox":"-106.087634,28.646609,-106.077634,28.656609",
     "lbl:latitude":28.651609,
     "lbl:longitude":-106.082634,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.654174,
     "mps:longitude":-106.087203,
     "mz:hierarchy_label":0,
@@ -203,9 +205,8 @@
     "name:ukr_x_preferred":[
         "\u0415\u043c\u0456\u043b\u0456\u0430\u043d\u043e \u0421\u0430\u043f\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "San Ygnacio",
-        "Emiliano Zapata"
+    "name:und_x_variant":[
+        "San Ygnacio"
     ],
     "name:vie_x_preferred":[
         "Emiliano Zapata"
@@ -245,7 +246,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686581,
         102191575,
@@ -257,8 +258,10 @@
     "wof:concordances":{
         "gn:id":4029459,
         "gp:id":55912321,
-        "qs:id":1104336,
         "qs_pg:id":776208
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1104336
     },
     "wof:country":"MX",
     "wof:geomhash":"66e44779c1d17b54c85a7da0c0ad5a7a",
@@ -276,7 +279,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147218,
+    "wof:lastmodified":1566619605,
     "wof:name":"Emiliano Zapata",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

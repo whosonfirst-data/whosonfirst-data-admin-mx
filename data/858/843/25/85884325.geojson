@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
-    "geom:area_square_m":751010.651572,
+    "geom:area_square_m":751010.651574,
     "geom:bbox":"-99.191361685,19.307255208,-99.1831970215,19.3189193205",
     "geom:latitude":19.312966,
     "geom:longitude":-99.187363,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.313958,
     "lbl:longitude":-99.185365,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.312384,
     "mps:longitude":-99.187693,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Ampl Insurgentes Cuicuilco"
-    ],
-    "name:unk_x_variant":[
         "Ampl Insurgentes Cuicuilco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902714,
-        "qs:id":225200
+        "qs_pg:id":225200
     },
     "wof:country":"MX",
     "wof:geomhash":"36bc32476b0aa6fec532f24c6281ab06",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527269998,
+    "wof:lastmodified":1566619585,
     "wof:name":"Ampl Insurgentes Cuicuilco",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

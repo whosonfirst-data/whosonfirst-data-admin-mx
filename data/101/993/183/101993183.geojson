@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
-    "geom:area_square_m":3729326.090668,
+    "geom:area_square_m":3729326.090677,
     "geom:bbox":"-99.8167598763,19.3421668385,-99.7890619138,19.3701279145",
     "geom:latitude":19.358036,
     "geom:longitude":-99.802763,
     "iso:country":"MX",
     "lbl:latitude":19.357019,
     "lbl:longitude":-99.800454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.357019,
     "mps:longitude":-99.800454,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Almoloyan"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101993183,
-    "wof:lastmodified":1501267414,
+    "wof:lastmodified":1566632816,
     "wof:name":"San Miguel Almoloy\u00e1n",
     "wof:parent_id":102074219,
     "wof:placetype":"locality",

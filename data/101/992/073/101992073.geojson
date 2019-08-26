@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.804697,
     "lbl:longitude":-98.852448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.804697,
     "mps:longitude":-98.852448,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"08ebd01d02f86f6e046b3f06ba733b11",
+    "wof:geomhash":"7dd2d20e203c78bd32591e5104004833",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101992073,
-    "wof:lastmodified":1479930755,
+    "wof:lastmodified":1566632716,
     "wof:name":"San Juan Teacalco",
     "wof:parent_id":102074055,
     "wof:placetype":"locality",

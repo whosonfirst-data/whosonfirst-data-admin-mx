@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9225075.01745,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.037457,22.124397,-101.037457,22.124397",
     "geom:latitude":22.124397,
     "geom:longitude":-101.037457,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.042457,22.119397,-101.032457,22.129397",
     "lbl:latitude":22.124397,
     "lbl:longitude":-101.037457,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.122824,
     "mps:longitude":-101.043227,
     "mz:hierarchy_label":0,
@@ -30,7 +32,7 @@
     "name:spa_x_variant":[
         "El Predregal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Pedregal"
     ],
     "qs:gn_id":0,
@@ -39,19 +41,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996483,
-        102077193,
-        85686647
+        102077193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3823526,
         "gp:id":55920340,
-        "qs:id":10568,
+        "qs_pg:id":10568
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":776363
     },
     "wof:country":"MX",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531931925,
+    "wof:lastmodified":1566619627,
     "wof:name":"Fracc El Pedregal",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

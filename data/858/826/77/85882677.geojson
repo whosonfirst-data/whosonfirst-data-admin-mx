@@ -10,8 +10,10 @@
     "geom:latitude":28.640111,
     "geom:longitude":-106.089271,
     "iso:country":"MX",
+    "lbl:bbox":"-106.094271,28.635111,-106.084271,28.645111",
     "lbl:latitude":28.640111,
     "lbl:longitude":-106.089271,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.636237,
     "mps:longitude":-106.091327,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
         "El Palomar",
         "Palomar"
     ],
-    "name:unk_x_variant":[
-        "El Palomar"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":4014338,
@@ -83,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686581,
         102191575,
@@ -95,7 +94,6 @@
     "wof:concordances":{
         "gn:id":4008773,
         "gp:id":55885504,
-        "qs:id":1199490,
         "qs_pg:id":1199490
     },
     "wof:country":"MX",
@@ -114,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619578,
     "wof:name":"El Palomar",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

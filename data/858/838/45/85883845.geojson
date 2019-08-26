@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.432626,
     "lbl:longitude":-99.186209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.432716,
     "mps:longitude":-99.187314,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Chapultepec Morales"
-    ],
-    "name:unk_x_variant":[
         "Chapultepec Morales"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898493,
-        "qs:id":1341958
+        "qs_pg:id":1341958
     },
     "wof:country":"MX",
     "wof:geomhash":"a96cd3adf821441bf0e610cf892bbf71",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957716,
+    "wof:lastmodified":1566619674,
     "wof:name":"Chapultepec Morales",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

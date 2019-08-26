@@ -14,6 +14,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.34356,
     "lbl:longitude":-99.190667,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.346777,
     "mps:longitude":-99.20201,
     "mz:hierarchy_label":1,
@@ -40,10 +41,6 @@
         "Altavista",
         "S \u00c1ngel Inn",
         "S. \u00c1ngel Inn"
-    ],
-    "name:unk_x_variant":[
-        "Altavista",
-        "San \u00c1ngel Inn"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPLX",
@@ -73,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":492,
     "wof:belongsto":[
         102191575,
@@ -89,7 +86,6 @@
     "wof:concordances":{
         "gn:id":3519897,
         "gp:id":141489,
-        "qs:id":247334,
         "qs_pg:id":247334,
         "wd:id":"Q7415412"
     },
@@ -119,7 +115,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375221,
+    "wof:lastmodified":1566619459,
     "wof:name":"San \u00c1ngel Inn",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

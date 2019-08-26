@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.58793,
     "lbl:longitude":-102.470051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.58793,
     "mps:longitude":-102.470051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Los Reyes"
     ],
@@ -58,9 +61,6 @@
     "name:srp_x_preferred":[
         "\u041b\u043e\u0441 \u0420\u0435\u0458\u0435\u0441 \u0434\u0435 \u0421\u0430\u043b\u0433\u0430\u0434\u043e"
     ],
-    "name:unk_x_variant":[
-        "Reyes"
-    ],
     "name:vec_x_preferred":[
         "Los Reyes"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -96,7 +96,6 @@
         "fct:id":"01b89ffe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3997211,
         "gp:id":132380,
-        "qs:id":180219,
         "qs_pg:id":180219,
         "wd:id":"Q992162",
         "wk:page":"Los Reyes, Michoac\u00e1n"
@@ -116,7 +115,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397575,
+    "wof:lastmodified":1566632481,
     "wof:name":"Los Reyes de Salgado",
     "wof:parent_id":102075007,
     "wof:placetype":"locality",

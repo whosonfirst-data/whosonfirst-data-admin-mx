@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.251865,
     "lbl:longitude":-97.227144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.251865,
     "mps:longitude":-97.227144,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u0645\u0627\u062f\u064a\u0631\u0648"
     ],
@@ -157,7 +160,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101999437,
-    "wof:lastmodified":1564171308,
+    "wof:lastmodified":1566632532,
     "wof:name":"Francisco I. Madero",
     "wof:parent_id":102078119,
     "wof:placetype":"locality",

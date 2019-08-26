@@ -10,8 +10,10 @@
     "geom:latitude":28.648267,
     "geom:longitude":-106.110333,
     "iso:country":"MX",
+    "lbl:bbox":"-106.115333,28.643267,-106.105333,28.653267",
     "lbl:latitude":28.648267,
     "lbl:longitude":-106.110333,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.6448,
     "mps:longitude":-106.111603,
     "mz:hierarchy_label":0,
@@ -71,9 +73,6 @@
     "name:swe_x_preferred":[
         "Progreso"
     ],
-    "name:unk_x_variant":[
-        "Progreso"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":4014338,
@@ -103,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686581,
         102191575,
@@ -115,7 +114,9 @@
     "wof:concordances":{
         "gn:id":3991667,
         "gp:id":55899077,
-        "qs:id":1182695,
+        "qs_pg:id":1182695
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1342056
     },
     "wof:country":"MX",
@@ -134,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147216,
+    "wof:lastmodified":1566619604,
     "wof:name":"Progreso",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

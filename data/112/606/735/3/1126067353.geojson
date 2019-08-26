@@ -9,15 +9,17 @@
     "geom:bbox":"-93.2094,16.87198,-93.2094,16.87198",
     "geom:latitude":16.87198,
     "geom:longitude":-93.2094,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9024,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":9024,
     "iso:country":"MX",
+    "lbl:bbox":"-93.2144,16.86698,-93.2044,16.87698",
     "lbl:latitude":16.87198,
     "lbl:longitude":-93.2094,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "San Fernando"
@@ -121,7 +123,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Allende"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +149,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55903857,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":1126067353,
-    "wof:lastmodified":1564173763,
+    "wof:lastmodified":1566634158,
     "wof:name":"San Fernando",
     "wof:parent_id":101994409,
     "wof:placetype":"neighbourhood",

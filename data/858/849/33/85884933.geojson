@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5026761.37263,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.254447,21.03707,-105.254447,21.03707",
     "geom:latitude":21.03707,
     "geom:longitude":-105.254447,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.259447,21.03207,-105.249447,21.04207",
     "lbl:latitude":21.03707,
     "lbl:longitude":-105.254447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.042018,
     "mps:longitude":-105.251296,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Paraiso"
-    ],
-    "name:unk_x_variant":[
         "Paraiso"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686591,
         102191575,
         85633293,
         101997049,
-        102074585,
-        85686591
+        102074585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910071,
-        "qs:id":993116,
         "qs_pg:id":993116
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874666,
+    "wof:lastmodified":1566619649,
     "wof:name":"Paraiso",
     "wof:parent_id":101997049,
     "wof:placetype":"neighbourhood",

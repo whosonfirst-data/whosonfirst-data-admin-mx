@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.994115,
     "lbl:longitude":-101.99499,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.994115,
     "mps:longitude":-101.99499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "San Diego de Alejandr\u00eda"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "fct:id":"01aedcda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3987310,
         "gp:id":142226,
-        "qs:id":151302,
         "qs_pg:id":151302,
         "wd:id":"Q3311254"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397564,
+    "wof:lastmodified":1566632477,
     "wof:name":"San Diego de Alejandr\u00eda",
     "wof:parent_id":102074629,
     "wof:placetype":"locality",

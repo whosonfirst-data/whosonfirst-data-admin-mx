@@ -24,8 +24,12 @@
     "gn:population":210,
     "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-110.89778,30.97194,-110.85778,31.01194",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8871507
     },
     "wof:country":"MX",
-    "wof:geomhash":"70b6b6d8186c63fb25956957179797e6",
+    "wof:geomhash":"6fc07fd83d020eb268a8afc3a6a6885d",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209168789,
-    "wof:lastmodified":1536295652,
+    "wof:lastmodified":1566626958,
     "wof:name":"Ganfer (Invernadero)",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -110.87778,
-    30.991940000000003,
+    30.99194,
     -110.87778,
-    30.991940000000003
+    30.99194
 ],
   "geometry": {"coordinates":[-110.87778,30.99194],"type":"Point"}
 }

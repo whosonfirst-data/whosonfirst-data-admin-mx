@@ -9,14 +9,17 @@
     "geom:bbox":"-100.23333,26.2,-100.23333,26.2",
     "geom:latitude":26.2,
     "geom:longitude":-100.23333,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.23833,26.195,-100.22833,26.205",
     "lbl:latitude":26.2,
     "lbl:longitude":-100.23333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:hye_x_preferred":[
         "\u053c\u0578\u0574\u0561 \u0532\u056c\u0561\u0576\u056f\u0561"
@@ -30,7 +33,7 @@
     "name:spa_x_variant":[
         "Loma Blanca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rancho Loma Blanca"
     ],
     "qs_pg:aaroncc":"MX",
@@ -54,7 +57,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55901101,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Nuevo Leon",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1126077837,
-    "wof:lastmodified":1564173918,
+    "wof:lastmodified":1566634229,
     "wof:name":"Loma Blanca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

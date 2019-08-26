@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":2326858.117117,
+    "geom:area_square_m":2326858.117114,
     "geom:bbox":"-103.204708856,25.7766860471,-103.185894114,25.8044522991",
     "geom:latitude":25.788687,
     "geom:longitude":-103.19424,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.788789,
     "lbl:longitude":-103.193595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.788789,
     "mps:longitude":-103.193595,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Coahuila de Zaragoza",
     "qs:a1_lc":"05",
@@ -32,7 +36,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,7 +49,7 @@
         "gp:id":55892044
     },
     "wof:country":"MX",
-    "wof:geomhash":"5d26380241de238bd55bdb4956efabc8",
+    "wof:geomhash":"0726f8b980abe819aac9f8abb966bee5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":102000857,
-    "wof:lastmodified":1479907608,
+    "wof:lastmodified":1566615673,
     "wof:name":"Luchana",
     "wof:parent_id":102078805,
     "wof:placetype":"locality",

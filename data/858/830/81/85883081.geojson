@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4519208.376759,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.294722,18.497769,-88.294722,18.497769",
     "geom:latitude":18.497769,
     "geom:longitude":-88.294722,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-88.299722,18.492769,-88.289722,18.502769",
     "lbl:latitude":18.497769,
     "lbl:longitude":-88.294722,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.488298,
     "mps:longitude":-88.291985,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Plutarco Elias Calles"
-    ],
-    "name:unk_x_variant":[
         "Plutarco Elias Calles"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686711,
         102191575,
         85633293,
         102001489,
-        102079235,
-        85686711
+        102079235
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890330,
-        "qs:id":474715,
         "qs_pg:id":474715
     },
     "wof:country":"MX",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874217,
+    "wof:lastmodified":1566619702,
     "wof:name":"Plutarco Elias Calles",
     "wof:parent_id":102001489,
     "wof:placetype":"neighbourhood",

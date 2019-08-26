@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.673089,
     "lbl:longitude":-98.958174,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.673089,
     "mps:longitude":-98.958174,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Pablo Tecalco"
     ],
@@ -26,7 +29,7 @@
     "name:swe_x_preferred":[
         "San Pablo Tecalco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tecalco"
     ],
     "name:vie_x_preferred":[
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3518122,
         "gp:id":144893,
-        "qs:id":1045413,
         "qs_pg:id":1045413,
         "wd:id":"Q20264734"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101992125,
-    "wof:lastmodified":1563398060,
+    "wof:lastmodified":1566632741,
     "wof:name":"San Pablo Tecalco",
     "wof:parent_id":102074059,
     "wof:placetype":"locality",

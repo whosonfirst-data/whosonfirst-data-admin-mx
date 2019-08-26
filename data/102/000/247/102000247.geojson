@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.784766,
     "lbl:longitude":-98.552187,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.784766,
     "mps:longitude":-98.552187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Tepeapulco"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -88,7 +91,6 @@
         "fct:id":"01b976e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515902,
         "gp:id":148869,
-        "qs:id":1051538,
         "qs_pg:id":1051538,
         "wd:id":"Q513016",
         "wk:page":"Tepeapulco"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369740,
+    "wof:lastmodified":1566615703,
     "wof:name":"Tepeapulco",
     "wof:parent_id":102078595,
     "wof:placetype":"locality",

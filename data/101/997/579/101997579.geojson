@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.804742,
     "lbl:longitude":-104.217753,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.804742,
     "mps:longitude":-104.217753,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "El Grullo"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -65,7 +68,6 @@
         "fct:id":"01b37920-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4009697,
         "gp:id":120377,
-        "qs:id":1208360,
         "qs_pg:id":1208360,
         "wd:id":"Q20219580"
     },
@@ -84,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397622,
+    "wof:lastmodified":1566632506,
     "wof:name":"El Grullo",
     "wof:parent_id":102074761,
     "wof:placetype":"locality",

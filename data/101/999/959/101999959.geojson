@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.122898,
     "lbl:longitude":-97.852351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.122898,
     "mps:longitude":-97.852351,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tlapacoya"
     ],
@@ -25,7 +28,7 @@
     "name:swe_x_preferred":[
         "Tlapacoya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tlapacoyan"
     ],
     "qs:a0":"Mexico",
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101999959,
-    "wof:lastmodified":1564171317,
+    "wof:lastmodified":1566632552,
     "wof:name":"Tlapacoya",
     "wof:parent_id":102078391,
     "wof:placetype":"locality",

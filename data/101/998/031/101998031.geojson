@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1544464.864962,
+    "geom:area_square_m":1544464.864958,
     "geom:bbox":"-101.765677908,21.4961605248,-101.746719185,21.5118883983",
     "geom:latitude":21.503828,
     "geom:longitude":-101.755612,
     "iso:country":"MX",
     "lbl:latitude":21.5029,
     "lbl:longitude":-101.755611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.5029,
     "mps:longitude":-101.755611,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":117746
     },
     "wof:country":"MX",
-    "wof:geomhash":"20dcf0bb1a4935cd800cc7c61a7c8fef",
+    "wof:geomhash":"d7954720e1be1495d17a432db4ddf209",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998031,
-    "wof:lastmodified":1479930117,
+    "wof:lastmodified":1566632242,
     "wof:name":"Paso de Cuarenta (San Miguel de Cuarenta)",
     "wof:parent_id":102074729,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.886954,
     "lbl:longitude":-98.690902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.886954,
     "mps:longitude":-98.690902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hueyapan"
     ],
@@ -32,9 +35,6 @@
         "San Andr\u00e9s Hueyapan"
     ],
     "name:swe_x_preferred":[
-        "Hueyapan"
-    ],
-    "name:unk_x_variant":[
         "Hueyapan"
     ],
     "name:vie_x_preferred":[
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101993279,
-    "wof:lastmodified":1563398165,
+    "wof:lastmodified":1566632796,
     "wof:name":"Hueyapan (San Andr\u00e9s Hueyapan)",
     "wof:parent_id":102074255,
     "wof:placetype":"locality",

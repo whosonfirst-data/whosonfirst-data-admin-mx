@@ -9,14 +9,17 @@
     "geom:bbox":"-104.61861,24.00844,-104.61861,24.00844",
     "geom:latitude":24.00844,
     "geom:longitude":-104.61861,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-104.62361,24.00344,-104.61361,24.01344",
     "lbl:latitude":24.00844,
     "lbl:longitude":-104.61861,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Benito Ju\u00e1rez"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55900774,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Durango",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686573,
         102191575,
         85633293,
         101994335,
-        102075159,
-        85686573
+        102075159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126068683,
-    "wof:lastmodified":1509410558,
+    "wof:lastmodified":1566634139,
     "wof:name":"Benito Juarez",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.283689,
     "lbl:longitude":-93.333023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.283689,
     "mps:longitude":-93.333023,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villa Tecolutilla"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3516149,
         "gp:id":148496,
-        "qs:id":1191885,
         "qs_pg:id":1191885,
         "wd:id":"Q20228546"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101994887,
-    "wof:lastmodified":1563398253,
+    "wof:lastmodified":1566632840,
     "wof:name":"Tecolutilla",
     "wof:parent_id":102075785,
     "wof:placetype":"locality",

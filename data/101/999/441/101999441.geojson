@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":3025954.472015,
+    "geom:area_square_m":3025954.472011,
     "geom:bbox":"-98.272559645,18.1974194509,-98.2526415351,18.2152381865",
     "geom:latitude":18.206376,
     "geom:longitude":-98.26241,
     "iso:country":"MX",
     "lbl:latitude":18.206373,
     "lbl:longitude":-98.262586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.206373,
     "mps:longitude":-98.262586,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chinantla"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,7 +51,7 @@
         "gp:id":116063
     },
     "wof:country":"MX",
-    "wof:geomhash":"a0e56cf4574fcccc6c3c6af94b7faccc",
+    "wof:geomhash":"1acabdb76d43f9b54eb6eb613e805c82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +65,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1479908263,
+    "wof:lastmodified":1566632528,
     "wof:name":"Chinantla",
     "wof:parent_id":102078121,
     "wof:placetype":"locality",

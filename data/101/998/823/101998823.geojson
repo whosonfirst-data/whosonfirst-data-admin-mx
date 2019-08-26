@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.960517,
     "lbl:longitude":-97.402275,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":20.960517,
     "mps:longitude":-97.402275,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:eng_x_preferred":[
         "Tuxpan Municipality"
     ],
@@ -35,9 +38,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0443\u0441\u043f\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Tuxpan"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -87,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397163,
+    "wof:lastmodified":1566632265,
     "wof:name":"T\u00faxpam de Rodr\u00edguez Cano",
     "wof:parent_id":102077795,
     "wof:placetype":"locality",

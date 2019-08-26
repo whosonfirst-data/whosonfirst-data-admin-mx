@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.397449,
     "lbl:longitude":-94.458137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.397449,
     "mps:longitude":-94.458137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Reforma de Pineda"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Reforma de Pineda"
     ],
-    "name:unk_x_variant":[
-        "Reforma"
-    ],
     "name:vie_x_preferred":[
         "Reforma de Pineda"
     ],
@@ -65,7 +65,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -95,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397415,
+    "wof:lastmodified":1566632403,
     "wof:name":"Reforma de Pineda",
     "wof:parent_id":102075823,
     "wof:placetype":"locality",

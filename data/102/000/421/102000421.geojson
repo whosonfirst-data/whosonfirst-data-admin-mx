@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.082199,
     "lbl:longitude":-98.736831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.082199,
     "mps:longitude":-98.736831,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"f830f8fc132b938769c7d03103c2aab1",
+    "wof:geomhash":"f8e0574b69cb830d803c967065b623ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":102000421,
-    "wof:lastmodified":1479907615,
+    "wof:lastmodified":1566615699,
     "wof:name":"PRI Chac\u00f3n",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

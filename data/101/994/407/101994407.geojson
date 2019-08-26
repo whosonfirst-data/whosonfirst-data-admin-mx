@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1549456.962495,
+    "geom:area_square_m":1549456.96249,
     "geom:bbox":"-92.9850042345,16.0301301678,-92.9710747918,16.0449063799",
     "geom:latitude":16.038527,
     "geom:longitude":-92.977065,
     "iso:country":"MX",
     "lbl:latitude":16.038488,
     "lbl:longitude":-92.977193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.038488,
     "mps:longitude":-92.977193,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":134872
     },
     "wof:country":"MX",
-    "wof:geomhash":"c8aaddc2c25cd3e6ba142b67411fecc8",
+    "wof:geomhash":"3ffce6d73003006375e7d9f45734941d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994407,
-    "wof:lastmodified":1479904523,
+    "wof:lastmodified":1566632853,
     "wof:name":"Nuevo Vicente Guerrero",
     "wof:parent_id":102075655,
     "wof:placetype":"locality",

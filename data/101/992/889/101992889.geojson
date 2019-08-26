@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.995629,
     "lbl:longitude":-102.74306,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":22.995629,
     "mps:longitude":-102.74306,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "General Enrique Estrada"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,6 @@
         "fct:id":"01af7f78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3972702,
         "gp:id":26803007,
-        "qs:id":151213,
         "qs_pg:id":151213,
         "wd:id":"Q3847464",
         "wk:page":"General Enrique Estrada"
@@ -97,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397960,
+    "wof:lastmodified":1566632682,
     "wof:name":"General Enrique Estrada",
     "wof:parent_id":102075385,
     "wof:placetype":"locality",

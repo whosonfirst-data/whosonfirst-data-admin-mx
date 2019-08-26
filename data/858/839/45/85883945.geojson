@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.409041,
     "lbl:longitude":-99.115289,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.400789,
     "mps:longitude":-99.115065,
     "mz:hierarchy_label":1,
@@ -36,9 +37,8 @@
     "name:swe_x_preferred":[
         "\u00c1lvaro Obreg\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "San Angel",
-        "Alvaro Obregon"
+    "name:und_x_variant":[
+        "San Angel"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -68,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -84,7 +84,6 @@
     "wof:concordances":{
         "gn:id":3514663,
         "gp:id":55898924,
-        "qs:id":897241,
         "qs_pg:id":897241,
         "wd:id":"Q20251521"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375572,
+    "wof:lastmodified":1566619707,
     "wof:name":"Alvaro Obregon",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

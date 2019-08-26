@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4127432.005912,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.106305,19.100724,-96.106305,19.100724",
     "geom:latitude":19.100724,
     "geom:longitude":-96.106305,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.111305,19.095724,-96.101305,19.105724",
     "lbl:latitude":19.100724,
     "lbl:longitude":-96.106305,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.100058,
     "mps:longitude":-96.108354,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Boca Del Rio Centro"
-    ],
-    "name:unk_x_variant":[
         "Boca Del Rio Centro"
     ],
     "qs:gn_id":0,
@@ -55,18 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998201,
-        102077443,
-        85686671
+        102077443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895811,
-        "qs:id":1262979,
         "qs_pg:id":1262979
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874354,
+    "wof:lastmodified":1566619602,
     "wof:name":"Boca Del Rio Centro",
     "wof:parent_id":101998201,
     "wof:placetype":"neighbourhood",

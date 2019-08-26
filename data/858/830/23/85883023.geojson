@@ -11,8 +11,10 @@
     "geom:longitude":-101.131167,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.136167,20.20848,-101.126167,20.21848",
     "lbl:latitude":20.21348,
     "lbl:longitude":-101.131167,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.212113,
     "mps:longitude":-101.133041,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Yuriria Centro"
-    ],
-    "name:unk_x_variant":[
         "Yuriria Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889151,
-        "qs:id":474669,
         "qs_pg:id":474669
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619704,
     "wof:name":"Yuriria Centro",
     "wof:parent_id":101996827,
     "wof:placetype":"neighbourhood",

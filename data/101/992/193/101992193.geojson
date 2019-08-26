@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.225405,
     "lbl:longitude":-99.817955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.225405,
     "mps:longitude":-99.817955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Polotitl\u00e1n"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Polotitl\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Polotitlan"
-    ],
     "name:vie_x_preferred":[
         "Polotitl\u00e1n"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":523,
     "wof:belongsto":[
         102191575,
@@ -101,7 +101,6 @@
         "fct:id":"01b8dadc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521297,
         "gp:id":137063,
-        "qs:id":422652,
         "qs_pg:id":422652,
         "wd:id":"Q3308505",
         "wk:page":"Polotitl\u00e1n de la Ilustraci\u00f3n"
@@ -121,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397950,
+    "wof:lastmodified":1566632677,
     "wof:name":"Polotitl\u00e1n de la Ilustraci\u00f3n",
     "wof:parent_id":102074079,
     "wof:placetype":"locality",

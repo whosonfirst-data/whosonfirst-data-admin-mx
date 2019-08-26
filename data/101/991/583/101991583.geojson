@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.271116,
     "lbl:longitude":-99.773893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.271116,
     "mps:longitude":-99.773893,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "San Antonio Acahualco"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Antonio Acahualco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Acahualco"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3533490,
         "gp:id":55901266,
-        "qs:id":148898,
         "qs_pg:id":148898,
         "wd:id":"Q20287258"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101991583,
-    "wof:lastmodified":1563397309,
+    "wof:lastmodified":1566632349,
     "wof:name":"San Antonio Acahualco",
     "wof:parent_id":102073983,
     "wof:placetype":"locality",

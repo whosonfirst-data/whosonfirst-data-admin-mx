@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.594509,
     "lbl:longitude":-95.442272,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.594509,
     "mps:longitude":-95.442272,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Angel R. Cabadas"
     ],
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "Angel R. Cabadas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meson"
     ],
     "name:vie_x_preferred":[
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -87,7 +90,6 @@
         "fct:id":"01af3e28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532852,
         "gp:id":112156,
-        "qs:id":1186253,
         "qs_pg:id":1186253,
         "wd:id":"Q8076888",
         "wk:page":"\u00c1ngel R. Cabada"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397064,
+    "wof:lastmodified":1566632224,
     "wof:name":"Angel R. Cabada",
     "wof:parent_id":102077417,
     "wof:placetype":"locality",

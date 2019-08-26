@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.832635,
     "lbl:longitude":-97.457614,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.832635,
     "mps:longitude":-97.457614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Atempan"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,6 @@
         "fct:id":"01b7e5c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532639,
         "gp:id":112595,
-        "qs:id":1116064,
         "qs_pg:id":1116064,
         "wd:id":"Q3893117"
     },
@@ -114,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397716,
+    "wof:lastmodified":1566632560,
     "wof:name":"Atempan",
     "wof:parent_id":102078031,
     "wof:placetype":"locality",

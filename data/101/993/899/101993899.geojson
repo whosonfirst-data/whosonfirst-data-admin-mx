@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":29.909647,
     "lbl:longitude":-112.690401,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":29.909647,
     "mps:longitude":-112.690401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Puerto Libertad"
     ],
@@ -26,7 +29,7 @@
     "name:spa_x_preferred":[
         "Puerto Libertad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto de la Libertad"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":270,
     "wof:belongsto":[
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":4001610,
         "gp:id":128043,
-        "qs:id":1152411,
+        "qs_pg:id":1152411,
         "wd:id":"Q6092093",
         "wk:page":"Puerto Libertad, Sonora"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101993899,
-    "wof:lastmodified":1561750607,
+    "wof:lastmodified":1566632811,
     "wof:name":"Puerto Libertad",
     "wof:parent_id":102074363,
     "wof:placetype":"locality",

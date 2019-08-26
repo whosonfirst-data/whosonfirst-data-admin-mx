@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000383,
-    "geom:area_square_m":4135545.759736,
+    "geom:area_square_m":4135545.759733,
     "geom:bbox":"-107.399254989,29.1554375716,-107.37059321,29.1919942693",
     "geom:latitude":29.177085,
     "geom:longitude":-107.387745,
     "iso:country":"MX",
     "lbl:latitude":29.182044,
     "lbl:longitude":-107.388721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.182044,
     "mps:longitude":-107.388721,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chihuahua",
     "qs:a1_lc":"08",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":122721
     },
     "wof:country":"MX",
-    "wof:geomhash":"df9091662075082614619ba16e4de32c",
+    "wof:geomhash":"c679e21ed6f5945f8d48a9b73627c19a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101994197,
-    "wof:lastmodified":1479904060,
+    "wof:lastmodified":1566632874,
     "wof:name":"El Terrero",
     "wof:parent_id":102075343,
     "wof:placetype":"locality",

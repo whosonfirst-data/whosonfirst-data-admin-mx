@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6030523.76916,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.121355,15.761253,-96.121355,15.761253",
     "geom:latitude":15.761253,
     "geom:longitude":-96.121355,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.126355,15.756253,-96.116355,15.766253",
     "lbl:latitude":15.761253,
     "lbl:longitude":-96.121355,
+    "lbl:max_zoom":18.0,
     "mps:latitude":15.76022,
     "mps:longitude":-96.119536,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Sect P Chahue"
-    ],
-    "name:unk_x_variant":[
         "Sect P Chahue"
     ],
     "qs:gn_id":0,
@@ -54,18 +53,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101995865,
-        102075805,
-        85686623
+        102075805
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55917187,
-        "qs:id":475930
+        "qs_pg:id":475930
     },
     "wof:country":"MX",
     "wof:geomhash":"8ac91172d968b6f9305fd0a22d756b96",
@@ -83,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874732,
+    "wof:lastmodified":1566619612,
     "wof:name":"Sect P Chahue",
     "wof:parent_id":101995865,
     "wof:placetype":"neighbourhood",

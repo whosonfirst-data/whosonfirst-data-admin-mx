@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1477006.110991,
+    "geom:area_square_m":1477006.111001,
     "geom:bbox":"-96.009839014,16.6531137913,-95.9948678776,16.6682523076",
     "geom:latitude":16.66181,
     "geom:longitude":-96.001705,
     "iso:country":"MX",
     "lbl:latitude":16.662241,
     "lbl:longitude":-96.001704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.662241,
     "mps:longitude":-96.001704,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Oaxaca",
     "qs:a1_lc":"20",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55915447
     },
     "wof:country":"MX",
-    "wof:geomhash":"c1aa43b66d8a167ce0d04f11afc75953",
+    "wof:geomhash":"b091bce49c87e573c52d55ad91362466",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101995737,
-    "wof:lastmodified":1479904808,
+    "wof:lastmodified":1566632595,
     "wof:name":"La Soledad Salinas",
     "wof:parent_id":102076517,
     "wof:placetype":"locality",

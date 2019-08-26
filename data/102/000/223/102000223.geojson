@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.882707,
     "lbl:longitude":-98.816605,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.882707,
     "mps:longitude":-98.816605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tezontepec"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":3515691,
         "gp:id":149227,
-        "qs:id":148636,
         "qs_pg:id":148636,
         "wd:id":"Q4967683",
         "wk:page":"Tezontepec"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":102000223,
-    "wof:lastmodified":1563369736,
+    "wof:lastmodified":1566615702,
     "wof:name":"Tezontepec",
     "wof:parent_id":102078607,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000232,
-    "geom:area_square_m":2707041.171765,
+    "geom:area_square_m":2707041.171767,
     "geom:bbox":"-99.1359407649,19.3186006744,-99.1160701361,19.3387564328",
     "geom:latitude":19.328991,
     "geom:longitude":-99.127733,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.326825,
     "lbl:longitude":-99.129868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.329018,
     "mps:longitude":-99.127884,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Presidentes Ejidales"
-    ],
-    "name:unk_x_variant":[
         "Presidentes Ejidales"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898793,
-        "qs:id":972519
+        "qs_pg:id":972519
     },
     "wof:country":"MX",
     "wof:geomhash":"0e7c33f4c8f978ca868ee840b2525c08",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270525,
+    "wof:lastmodified":1566619706,
     "wof:name":"Presidentes Ejidales",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

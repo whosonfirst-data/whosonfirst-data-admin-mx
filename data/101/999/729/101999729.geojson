@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1451142.169568,
+    "geom:area_square_m":1451142.169567,
     "geom:bbox":"-98.4303507631,19.2344758426,-98.4184959971,19.2503470459",
     "geom:latitude":19.241678,
     "geom:longitude":-98.424182,
     "iso:country":"MX",
     "lbl:latitude":19.239723,
     "lbl:longitude":-98.42359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.239723,
     "mps:longitude":-98.42359,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889811
     },
     "wof:country":"MX",
-    "wof:geomhash":"e92edb975d91e21002c4dbd9a41bdee4",
+    "wof:geomhash":"6a0e1789e73201307bdaf568ebab5dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999729,
-    "wof:lastmodified":1479908226,
+    "wof:lastmodified":1566632589,
     "wof:name":"San Jer\u00f3nimo Tianguismanalco",
     "wof:parent_id":102078275,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.688931,
     "lbl:longitude":-97.727398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.688931,
     "mps:longitude":-97.727398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Andr\u00e9s Dinicuiti"
     ],
@@ -78,7 +81,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":2045.0,
     "wd:latitude":17.683333,
@@ -114,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397774,
+    "wof:lastmodified":1566632595,
     "wof:name":"San Andr\u00e9s Dinicuiti",
     "wof:parent_id":102076311,
     "wof:placetype":"locality",

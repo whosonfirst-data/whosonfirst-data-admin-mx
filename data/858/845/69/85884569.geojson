@@ -11,8 +11,10 @@
     "geom:longitude":-103.349304,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.354304,20.645776,-103.344304,20.655776",
     "lbl:latitude":20.650776,
     "lbl:longitude":-103.349304,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.647155,
     "mps:longitude":-103.349227,
     "mz:hierarchy_label":0,
@@ -36,7 +38,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -48,8 +50,10 @@
     "wof:concordances":{
         "gn:id":4011382,
         "gp:id":55905251,
-        "qs:id":1155348,
         "qs_pg:id":398861
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155348
     },
     "wof:country":"MX",
     "wof:geomhash":"e42e0157cdf44f85f521ecc6382d79ad",
@@ -67,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957721,
+    "wof:lastmodified":1566619555,
     "wof:name":"Rincon de Agua Azul",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,18 @@
     "geom:bbox":"-98.25395,19.12015,-98.25395,19.12015",
     "geom:latitude":19.12015,
     "geom:longitude":-98.25395,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13563,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":13563,
     "iso:country":"MX",
+    "lbl:bbox":"-98.27395,19.10015,-98.23395,19.14015",
     "lbl:latitude":19.12015,
     "lbl:longitude":-98.25395,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u0648\u0631\u0648\u0646\u0627\u063a\u0648"
@@ -64,7 +67,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u0440\u043e\u043d\u0430\u043d\u0433\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coronanco"
     ],
     "name:vec_x_preferred":[
@@ -95,7 +98,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":146477,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1126034483,
-    "wof:lastmodified":1563400277,
+    "wof:lastmodified":1566633973,
     "wof:name":"Santa Mar\u00eda Coronanco",
     "wof:parent_id":102078083,
     "wof:placetype":"locality",

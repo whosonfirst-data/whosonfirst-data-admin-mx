@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.028058,
     "lbl:longitude":-97.964874,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.028058,
     "mps:longitude":-97.964874,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Jer\u00f3nimo Ocotitl\u00e1n"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_preferred":[
         "San Jer\u00f3nimo Ocotitl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ocotitl\u00e1n"
     ],
     "qs:a0":"Mexico",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3519061,
         "gp:id":143134,
-        "qs:id":1117231,
         "qs_pg:id":1117231,
         "wd:id":"Q20231654"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101999221,
-    "wof:lastmodified":1563397657,
+    "wof:lastmodified":1566632526,
     "wof:name":"San Jer\u00f3nimo Ocotitl\u00e1n",
     "wof:parent_id":102077997,
     "wof:placetype":"locality",

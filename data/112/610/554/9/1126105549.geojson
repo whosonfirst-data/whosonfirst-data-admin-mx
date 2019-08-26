@@ -9,17 +9,19 @@
     "geom:bbox":"-98.37746,19.32661,-98.37746,19.32661",
     "geom:latitude":19.32661,
     "geom:longitude":-98.37746,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6160,
-    "gn:population":6527,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":6160,
     "iso:country":"MX",
+    "lbl:bbox":"-98.38246,19.32161,-98.37246,19.33161",
     "lbl:latitude":19.32661,
     "lbl:longitude":-98.37746,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Mariano Matamoros"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,18 +45,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55896740,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686653,
         102191575,
         85633293,
         101999143,
-        102077947,
-        85686653
+        102077947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1126105549,
-    "wof:lastmodified":1509412351,
+    "wof:lastmodified":1566633931,
     "wof:name":"San Felipe Ixtacala",
     "wof:parent_id":101999143,
     "wof:placetype":"neighbourhood",

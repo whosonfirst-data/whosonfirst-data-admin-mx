@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.054743,
     "lbl:longitude":-97.052818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.054743,
     "mps:longitude":-97.052818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Independ\u00e8ncia"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -90,7 +93,6 @@
         "fct:id":"01c09f38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526785,
         "gp:id":125406,
-        "qs:id":271515,
         "qs_pg:id":271515
     },
     "wof:country":"MX",
@@ -108,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564171181,
+    "wof:lastmodified":1566632278,
     "wof:name":"Independencia",
     "wof:parent_id":102077605,
     "wof:placetype":"locality",

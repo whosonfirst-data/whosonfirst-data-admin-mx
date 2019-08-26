@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":24.132766,
     "lbl:longitude":-110.32305,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":24.132766,
     "mps:longitude":-110.32305,
     "mz:hierarchy_label":1,
@@ -179,7 +181,7 @@
         "La Paz"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2  \u0baa\u0bbe\u0bb8\u0bcd"
+        "\u0bb2 \u0baa\u0bbe\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c2a\u0c3e\u0c1c\u0c4d"
@@ -196,10 +198,8 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u0441"
     ],
-    "name:und_x_preferred":[
-        "LAP"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "LAP",
         "Paz"
     ],
     "name:urd_x_preferred":[
@@ -326,7 +326,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -340,9 +340,11 @@
         "gn:id":4000900,
         "gp:id":128688,
         "loc:id":"n81005100",
-        "qs:id":353407,
         "qs_pg:id":313931,
         "wd:id":"Q20130801"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":353407
     },
     "wof:country":"MX",
     "wof:geomhash":"0bb9ae1b786fad00c4371d8f7c5cce2f",
@@ -359,7 +361,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398337,
+    "wof:lastmodified":1566632882,
     "wof:name":"La Paz",
     "wof:parent_id":102074519,
     "wof:placetype":"locality",

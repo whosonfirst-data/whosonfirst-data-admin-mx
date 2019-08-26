@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000403,
-    "geom:area_square_m":4704609.954409,
+    "geom:area_square_m":4704609.954401,
     "geom:bbox":"-99.6086029467,19.3359521386,-99.5751037864,19.375128696",
     "geom:latitude":19.353114,
     "geom:longitude":-99.592783,
     "iso:country":"MX",
     "lbl:latitude":19.346017,
     "lbl:longitude":-99.598614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.346017,
     "mps:longitude":-99.598614,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55903443
     },
     "wof:country":"MX",
-    "wof:geomhash":"f9715563ed40ace42625b973b98b6d38",
+    "wof:geomhash":"6e8766c74ee4085df1f00edf1b02786c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991679,
-    "wof:lastmodified":1479930243,
+    "wof:lastmodified":1566632337,
     "wof:name":"San Jos\u00e9 Guadalupe Otzacatipan",
     "wof:parent_id":102074009,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.971033,
     "lbl:longitude":-99.1712,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.971033,
     "mps:longitude":-99.1712,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:nah_x_preferred":[
         "\u0100p\u0101tzco Ocampo"
     ],
@@ -24,9 +27,6 @@
         "Apaxco de Ocampo"
     ],
     "name:spa_x_variant":[
-        "Apaxco"
-    ],
-    "name:unk_x_variant":[
         "Apaxco"
     ],
     "qs:a0":"Mexico",
@@ -46,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +59,6 @@
         "fct:id":"01b7de70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532803,
         "gp:id":112247,
-        "qs:id":874689,
         "qs_pg:id":874689,
         "wd:id":"Q20251948"
     },
@@ -78,7 +77,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398157,
+    "wof:lastmodified":1566632790,
     "wof:name":"Apaxco de Ocampo",
     "wof:parent_id":102074207,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.715544,
     "lbl:longitude":-93.0201,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":16.715544,
     "mps:longitude":-93.0201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:jpn_x_preferred":[
         "\u30c1\u30a2\u30d1\u30fb\u30c7\u30fb\u30b3\u30eb\u30bd"
     ],
@@ -42,9 +45,6 @@
     "name:srp_x_preferred":[
         "\u0427\u0438\u0458\u0430\u043f\u0430 \u0434\u0435 \u041a\u043e\u0440\u0437\u043e"
     ],
-    "name:unk_x_variant":[
-        "Chiapa"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4953,
     "wof:belongsto":[
@@ -77,10 +77,12 @@
         "gn:id":3531012,
         "gp:id":115836,
         "loc:id":"n91004274",
-        "qs:id":148837,
-        "qs_pg:id":318426,
+        "qs_pg:id":148837,
         "wd:id":"Q2085574",
         "wk:page":"Chiapa de Corzo, Chiapas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":318426
     },
     "wof:country":"MX",
     "wof:geomhash":"9b36f6e8721bd36fbe2ed02c8f38274f",
@@ -97,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398307,
+    "wof:lastmodified":1566632868,
     "wof:name":"Chiapa de Corzo",
     "wof:parent_id":102075515,
     "wof:placetype":"locality",

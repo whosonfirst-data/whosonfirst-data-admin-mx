@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":4030375.247992,
+    "geom:area_square_m":4030375.248,
     "geom:bbox":"-99.2183748603,19.3562580051,-99.1955566406,19.3785225501",
     "geom:latitude":19.367993,
     "geom:longitude":-99.205286,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.363332,
     "lbl:longitude":-99.202241,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.368468,
     "mps:longitude":-99.205501,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Sociedad Cooperativa Poder Popular"
-    ],
-    "name:unk_x_variant":[
         "Sociedad Cooperativa Poder Popular"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898361,
-        "qs:id":899369
+        "qs_pg:id":899369
     },
     "wof:country":"MX",
     "wof:geomhash":"518c904a9a9c2aea454b03b873a56e9d",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270469,
+    "wof:lastmodified":1566619677,
     "wof:name":"Sociedad Cooperativa Poder Popular",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

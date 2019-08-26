@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.203159,
     "lbl:longitude":-89.269546,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.203159,
     "mps:longitude":-89.269546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Telchac Pueblo"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3516066,
         "gp:id":55899776,
-        "qs:id":95836,
         "qs_pg:id":95836,
         "wd:id":"Q2669527"
     },
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":102001235,
-    "wof:lastmodified":1563369810,
+    "wof:lastmodified":1566615737,
     "wof:name":"Telchac",
     "wof:parent_id":102079141,
     "wof:placetype":"locality",

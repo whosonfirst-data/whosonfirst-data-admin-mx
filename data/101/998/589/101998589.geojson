@@ -9,14 +9,17 @@
     "geom:bbox":"-97.136876786,18.9227891159,-97.1278812799,18.9323923506",
     "geom:latitude":18.928297,
     "geom:longitude":-97.133283,
-    "geonames:id":"3525203,3823863",
+    "gn:id":"3525203,3823863",
     "iso:country":"MX",
     "lbl:latitude":18.928233,
     "lbl:longitude":-97.133589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.928233,
     "mps:longitude":-97.133589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Perla"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "La Perla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perla"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101998589,
-    "wof:lastmodified":1563397135,
+    "wof:lastmodified":1566632254,
     "wof:name":"La Perla",
     "wof:parent_id":102077659,
     "wof:placetype":"locality",

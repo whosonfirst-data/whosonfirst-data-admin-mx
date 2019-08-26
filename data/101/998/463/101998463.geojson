@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.611387,
     "lbl:longitude":-96.950442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.611387,
     "mps:longitude":-96.950442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Jilotepec"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,6 @@
         "fct:id":"01b87470-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526505,
         "gp:id":125904,
-        "qs:id":180185,
         "qs_pg:id":180185,
         "wd:id":"Q5931073"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397107,
+    "wof:lastmodified":1566632240,
     "wof:name":"Jilotepec",
     "wof:parent_id":102077585,
     "wof:placetype":"locality",

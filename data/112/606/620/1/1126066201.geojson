@@ -9,19 +9,22 @@
     "geom:bbox":"-116.29721,32.50904,-116.29721,32.50904",
     "geom:latitude":32.50904,
     "geom:longitude":-116.29721,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-116.30221,32.50404,-116.29221,32.51404",
     "lbl:latitude":32.50904,
     "lbl:longitude":-116.29721,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Luis Echeverr\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luis Echeverr\u00eda \u00c1lvarez"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,17 +48,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55900240,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Baja California",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
         101993545,
-        102074503,
-        85686541
+        102074503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126066201,
-    "wof:lastmodified":1509410437,
+    "wof:lastmodified":1566634136,
     "wof:name":"Luis Echeverria Alvarez",
     "wof:parent_id":101993545,
     "wof:placetype":"neighbourhood",

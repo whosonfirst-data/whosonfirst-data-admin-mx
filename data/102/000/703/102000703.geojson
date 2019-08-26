@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":804971.100262,
+    "geom:area_square_m":804971.100267,
     "geom:bbox":"-100.163403285,25.6192424968,-100.150107179,25.6343410033",
     "geom:latitude":25.626658,
     "geom:longitude":-100.157026,
     "iso:country":"MX",
     "lbl:latitude":25.625894,
     "lbl:longitude":-100.158231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.625894,
     "mps:longitude":-100.158231,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Nuevo Le\u00f3n",
     "qs:a1_lc":"19",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55910018
     },
     "wof:country":"MX",
-    "wof:geomhash":"6b25604c526829a1085e5694b0658181",
+    "wof:geomhash":"21e8665b468ce55afeaa173b65e97c67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000703,
-    "wof:lastmodified":1479908193,
+    "wof:lastmodified":1566615696,
     "wof:name":"Monte Kristal",
     "wof:parent_id":102078677,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.388669,
     "lbl:longitude":-98.024177,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.388669,
     "mps:longitude":-98.024177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tocatl\u00e1n"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "Tocatl\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Santa Mar\u00eda Tocatl\u00e1n"
-    ],
     "name:vec_x_preferred":[
         "Tocatl\u00e1n"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -106,7 +106,6 @@
         "fct:id":"01b98f04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515333,
         "gp:id":149715,
-        "qs:id":341924,
         "qs_pg:id":341924,
         "wd:id":"Q7811955",
         "wk:page":"Tocatl\u00e1n (municipality)"
@@ -126,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397729,
+    "wof:lastmodified":1566632568,
     "wof:name":"Tocatl\u00e1n",
     "wof:parent_id":102077905,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-99.056678,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.061678,18.893337,-99.051678,18.903337",
     "lbl:latitude":18.898337,
     "lbl:longitude":-99.056678,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.898763,
     "mps:longitude":-99.05531,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Ixtlahuacan"
-    ],
-    "name:unk_x_variant":[
         "Barrio Ixtlahuacan"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686531,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55884775,
-        "qs:id":486677,
         "qs_pg:id":486677
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619573,
     "wof:name":"Barrio Ixtlahuacan",
     "wof:parent_id":101993225,
     "wof:placetype":"neighbourhood",

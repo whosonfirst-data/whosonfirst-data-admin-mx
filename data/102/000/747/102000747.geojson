@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":3015773.954333,
+    "geom:area_square_m":3015773.954335,
     "geom:bbox":"-100.443284177,25.7621231765,-100.42156235,25.787443241",
     "geom:latitude":25.775544,
     "geom:longitude":-100.431057,
     "iso:country":"MX",
     "lbl:latitude":25.776997,
     "lbl:longitude":-100.429083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.776997,
     "mps:longitude":-100.429083,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Nuevo Le\u00f3n",
     "qs:a1_lc":"19",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55894137
     },
     "wof:country":"MX",
-    "wof:geomhash":"2b0b8d9edd1c95b0f5bd6037516990c1",
+    "wof:geomhash":"1e971cba475a2b8e3218bcc86ed76d80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000747,
-    "wof:lastmodified":1479907430,
+    "wof:lastmodified":1566615684,
     "wof:name":"Villas del Poniente",
     "wof:parent_id":102078683,
     "wof:placetype":"locality",

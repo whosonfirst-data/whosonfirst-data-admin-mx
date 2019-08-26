@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2914367.43852,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.884523,19.523008,-96.884523,19.523008",
     "geom:latitude":19.523008,
     "geom:longitude":-96.884523,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.889523,19.518008,-96.879523,19.528008",
     "lbl:latitude":19.523008,
     "lbl:longitude":-96.884523,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.526732,
     "mps:longitude":-96.880087,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Dos Vistas"
-    ],
-    "name:unk_x_variant":[
         "Dos Vistas"
     ],
     "qs:gn_id":0,
@@ -55,18 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998437,
-        102077571,
-        85686671
+        102077571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889063,
-        "qs:id":1155270,
         "qs_pg:id":1155270
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874196,
+    "wof:lastmodified":1566619704,
     "wof:name":"Dos Vistas",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

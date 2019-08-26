@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6571521.278989,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.398595,25.517584,-103.398595,25.517584",
     "geom:latitude":25.517584,
     "geom:longitude":-103.398595,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.403595,25.512584,-103.393595,25.522584",
     "lbl:latitude":25.517584,
     "lbl:longitude":-103.398595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.518665,
     "mps:longitude":-103.397575,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Florida Blanca"
-    ],
-    "name:unk_x_variant":[
         "Fracc Florida Blanca"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
         102000853,
-        102078789,
-        85686689
+        102078789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888494,
-        "qs:id":1340765,
         "qs_pg:id":1340765
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874171,
+    "wof:lastmodified":1566619550,
     "wof:name":"Fracc Florida Blanca",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

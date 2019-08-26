@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.213914,
     "lbl:longitude":-102.588521,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.213914,
     "mps:longitude":-102.588521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Buenavista"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Buenavista"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tomatlan"
     ],
     "name:vec_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,6 @@
         "fct:id":"01ae8cbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4016599,
         "gp:id":113867,
-        "qs:id":1047637,
         "qs_pg:id":1047637,
         "wd:id":"Q4985488"
     },
@@ -117,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397482,
+    "wof:lastmodified":1566632435,
     "wof:name":"Buenavista Tomatl\u00e1n",
     "wof:parent_id":102074939,
     "wof:placetype":"locality",

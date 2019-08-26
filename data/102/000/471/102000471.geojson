@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.768143,
     "lbl:longitude":-99.150321,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":20.768143,
     "mps:longitude":-99.150321,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0995\u09cb\u09b2\u09be\u09b8 \u09ab\u09cd\u09b2\u09cb\u09b0\u09c7\u09b8"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "Nicol\u00e1s Flores"
     ],
-    "name:unk_x_variant":[
-        "Santa Maria Tepexi"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -75,7 +75,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -105,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369652,
+    "wof:lastmodified":1566615662,
     "wof:name":"Nicol\u00e1s Flores",
     "wof:parent_id":102078533,
     "wof:placetype":"locality",

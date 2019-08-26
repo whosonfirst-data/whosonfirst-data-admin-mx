@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.082873,
     "lbl:longitude":-98.365695,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":20.082873,
     "mps:longitude":-98.365695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:cat_x_preferred":[
         "Tulancingo de Bravo"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4833,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
         "fct:id":"01b994fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515062,
         "gp:id":150182,
-        "qs:id":666140,
         "qs_pg:id":666140,
         "wd:id":"Q1962590",
         "wk:page":"Tulancingo"
@@ -152,7 +154,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369698,
+    "wof:lastmodified":1566615685,
     "wof:name":"Tulancingo",
     "wof:parent_id":102078569,
     "wof:placetype":"locality",

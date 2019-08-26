@@ -11,8 +11,10 @@
     "geom:longitude":-106.073473,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.078473,28.63168,-106.068473,28.64168",
     "lbl:latitude":28.63668,
     "lbl:longitude":-106.073473,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.632224,
     "mps:longitude":-106.066998,
     "mz:hierarchy_label":0,
@@ -93,9 +95,6 @@
     "name:swe_x_preferred":[
         "Centro"
     ],
-    "name:unk_x_variant":[
-        "Centro"
-    ],
     "name:vie_x_preferred":[
         "Centro"
     ],
@@ -127,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686581,
         102191575,
@@ -138,7 +137,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888238,
-        "qs:id":474589,
         "qs_pg:id":474589
     },
     "wof:country":"MX",
@@ -157,7 +155,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147156,
+    "wof:lastmodified":1566619555,
     "wof:name":"Centro",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

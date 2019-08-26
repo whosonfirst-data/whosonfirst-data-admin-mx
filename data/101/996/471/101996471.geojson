@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.27186,
     "lbl:longitude":-101.118142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.27186,
     "mps:longitude":-101.118142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mexquitic de Carmona"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Mexquitic de Carmona"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mezquitic"
     ],
     "name:vec_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101996471,
-    "wof:lastmodified":1563397336,
+    "wof:lastmodified":1566632363,
     "wof:name":"Mexquitic de Carmona",
     "wof:parent_id":102077209,
     "wof:placetype":"locality",

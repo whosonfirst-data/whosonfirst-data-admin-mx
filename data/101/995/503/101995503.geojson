@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.394574,
     "lbl:longitude":-97.873696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.394574,
     "mps:longitude":-97.873696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Lorenzo"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":68,
     "wof:belongsto":[
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101995503,
-    "wof:lastmodified":1563397782,
+    "wof:lastmodified":1566632599,
     "wof:name":"San Lorenzo",
     "wof:parent_id":102076795,
     "wof:placetype":"locality",

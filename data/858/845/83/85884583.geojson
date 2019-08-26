@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7314870.372554,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.845529,25.192972,-99.845529,25.192972",
     "geom:latitude":25.192972,
     "geom:longitude":-99.845529,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.850529,25.187972,-99.840529,25.197972",
     "lbl:latitude":25.192972,
     "lbl:longitude":-99.845529,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.193392,
     "mps:longitude":-99.846946,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     ],
     "name:srp_x_preferred":[
         "Lola"
-    ],
-    "name:unk_x_variant":[
-        "Universidad la Carlota"
     ],
     "name:vie_x_preferred":[
         "Gi\u1ea5c m\u01a1 L\u1ecd Lem"
@@ -77,18 +76,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000683,
-        102078739,
-        85686681
+        102078739
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904351,
-        "qs:id":1342766,
         "qs_pg:id":1342766
     },
     "wof:country":"MX",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874555,
+    "wof:lastmodified":1566619560,
     "wof:name":"Universidad la Carlota",
     "wof:parent_id":102000683,
     "wof:placetype":"neighbourhood",

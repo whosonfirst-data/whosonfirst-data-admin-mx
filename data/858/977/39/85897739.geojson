@@ -11,8 +11,10 @@
     "geom:longitude":-115.392151,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-115.397151,32.632062,-115.387151,32.642062",
     "lbl:latitude":32.637062,
     "lbl:longitude":-115.392151,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.637062,
     "mps:longitude":-115.391004,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Hacienda Dorada"
-    ],
-    "name:unk_x_variant":[
         "Fracc Hacienda Dorada"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56068771,
-        "qs:id":796034
+        "qs_pg:id":796034
     },
     "wof:country":"MX",
     "wof:geomhash":"c647c1bd4db57e2595361c84b0c50c0b",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957726,
+    "wof:lastmodified":1566619627,
     "wof:name":"Fracc Hacienda Dorada",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

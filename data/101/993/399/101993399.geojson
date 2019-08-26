@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.750779,
     "lbl:longitude":-98.776089,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.750779,
     "mps:longitude":-98.776089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Huazulco"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3526977,
         "gp:id":125088,
-        "qs:id":244781,
         "qs_pg:id":244781,
         "wd:id":"Q20145616"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101993399,
-    "wof:lastmodified":1563398083,
+    "wof:lastmodified":1566632752,
     "wof:name":"Huazulco",
     "wof:parent_id":102074287,
     "wof:placetype":"locality",

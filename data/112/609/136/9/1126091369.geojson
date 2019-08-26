@@ -9,14 +9,17 @@
     "geom:bbox":"-101.28078,20.68248,-101.28078,20.68248",
     "geom:latitude":20.68248,
     "geom:longitude":-101.28078,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-101.28578,20.67748,-101.27578,20.68748",
     "lbl:latitude":20.68248,
     "lbl:longitude":-101.28078,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Luis"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55902263,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Guanajuato",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
-        102077341,
-        85686629
+        102077341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126091369,
-    "wof:lastmodified":1509411670,
+    "wof:lastmodified":1566634285,
     "wof:name":"San Luisito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

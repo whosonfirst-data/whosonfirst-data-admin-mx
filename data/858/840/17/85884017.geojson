@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":2639275.006354,
+    "geom:area_square_m":2639275.006351,
     "geom:bbox":"-99.1873168945,19.315295656,-99.1598510742,19.3318784408",
     "geom:latitude":19.325263,
     "geom:longitude":-99.174463,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.324625,
     "lbl:longitude":-99.179742,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.323742,
     "mps:longitude":-99.17696,
     "mz:hierarchy_label":1,
@@ -27,7 +28,7 @@
     "name:spa_x_preferred":[
         "Copilco El Alto"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cerro Alto"
     ],
     "qs:gn_id":0,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,7 +51,9 @@
     "wof:concordances":{
         "gn:id":3529460,
         "gp:id":55910894,
-        "qs:id":242167,
+        "qs_pg:id":242167
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1014722
     },
     "wof:country":"MX",
@@ -79,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270429,
+    "wof:lastmodified":1566619662,
     "wof:name":"Copilco El Alto",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

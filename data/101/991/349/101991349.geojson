@@ -9,10 +9,12 @@
     "geom:bbox":"-100.688877664,18.3346174199,-100.639627085,18.3748823755",
     "geom:latitude":18.353155,
     "geom:longitude":-100.668872,
-    "geonames:id":"4013727,4025652",
+    "gn:id":"4013727,4025652",
     "iso:country":"MX",
     "lbl:latitude":18.3548,
     "lbl:longitude":-100.667193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.3548,
     "mps:longitude":-100.667193,
     "mz:hierarchy_label":1,
@@ -198,7 +200,7 @@
     "name:swe_x_preferred":[
         "Ciudad Altamirano"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pungarabato"
     ],
     "name:vec_x_preferred":[
@@ -331,7 +333,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191575,
@@ -358,7 +360,7 @@
         }
     ],
     "wof:id":101991349,
-    "wof:lastmodified":1563397257,
+    "wof:lastmodified":1566632320,
     "wof:name":"Ciudad Altamirano",
     "wof:parent_id":102073939,
     "wof:placetype":"locality",

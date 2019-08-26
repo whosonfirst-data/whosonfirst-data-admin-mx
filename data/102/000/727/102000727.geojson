@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.916645,
     "lbl:longitude":-100.181436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.916645,
     "mps:longitude":-100.181436,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Nuevo Le\u00f3n",
     "qs:a1_lc":"19",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90276580
     },
     "wof:country":"MX",
-    "wof:geomhash":"298c28a210ff0d31977e733553756246",
+    "wof:geomhash":"7f93246f9333286f2a338c263ebc644c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000727,
-    "wof:lastmodified":1479907943,
+    "wof:lastmodified":1566615724,
     "wof:name":"Villas de Alcal\u00e1",
     "wof:parent_id":102078699,
     "wof:placetype":"locality",

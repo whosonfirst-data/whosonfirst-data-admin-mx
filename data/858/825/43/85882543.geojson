@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6074168.979115,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.022135,32.269428,-117.022135,32.269428",
     "geom:latitude":32.269428,
     "geom:longitude":-117.022135,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-117.027135,32.264428,-117.017135,32.274428",
     "lbl:latitude":32.269428,
     "lbl:longitude":-117.022135,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.268443,
     "mps:longitude":-117.020028,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Terrazas Del Pacifico"
-    ],
-    "name:unk_x_variant":[
         "Terrazas Del Pacifico"
     ],
     "qs:gn_id":0,
@@ -54,17 +53,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
-        102074505,
-        85686541
+        102074505
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883144,
-        "qs:id":232448
+        "qs_pg:id":232448
     },
     "wof:country":"MX",
     "wof:geomhash":"0ba9c7b7e519a8476c1f5a56987a9fad",
@@ -82,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874039,
+    "wof:lastmodified":1566619668,
     "wof:name":"Terrazas Del Pacifico",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

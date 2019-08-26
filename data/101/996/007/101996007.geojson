@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":2597065.423686,
+    "geom:area_square_m":2597065.423687,
     "geom:bbox":"-96.4512941276,16.791936913,-96.4287911924,16.8119722068",
     "geom:latitude":16.801896,
     "geom:longitude":-96.439511,
     "iso:country":"MX",
     "lbl:latitude":16.801015,
     "lbl:longitude":-96.438577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.801015,
     "mps:longitude":-96.438577,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Zapotekeg G\u00fcil\u00e1"
     ],
@@ -30,7 +34,7 @@
     "name:sco_x_preferred":[
         "G\u00fcil\u00e1 Zapotec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fcila"
     ],
     "qs:a0":"Mexico",
@@ -48,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101996007,
-    "wof:lastmodified":1501267413,
+    "wof:lastmodified":1566632374,
     "wof:name":"San Pablo Guil\u00e1",
     "wof:parent_id":102076041,
     "wof:placetype":"locality",

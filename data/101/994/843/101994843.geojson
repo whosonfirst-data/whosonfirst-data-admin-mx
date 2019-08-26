@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":18.401749,
     "lbl:longitude":-93.21352,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.401749,
     "mps:longitude":-93.21352,
     "mz:hierarchy_label":1,
@@ -166,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3489,
     "wof:belongsto":[
@@ -180,7 +182,6 @@
         "fct:id":"01b8d1b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521912,
         "gp:id":136001,
-        "qs:id":221691,
         "qs_pg:id":221691,
         "wd:id":"Q2072540",
         "wk:page":"Para\u00edso, Tabasco"
@@ -200,7 +201,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398264,
+    "wof:lastmodified":1566632845,
     "wof:name":"Para\u00edso",
     "wof:parent_id":102075775,
     "wof:placetype":"locality",

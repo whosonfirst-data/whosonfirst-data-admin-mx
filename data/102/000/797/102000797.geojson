@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
-    "geom:area_square_m":227471.482728,
+    "geom:area_square_m":227471.482725,
     "geom:bbox":"-100.24767131,25.8222879742,-100.243701568,25.8308939911",
     "geom:latitude":25.826872,
     "geom:longitude":-100.245739,
     "iso:country":"MX",
     "lbl:latitude":25.82687,
     "lbl:longitude":-100.245739,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.82687,
     "mps:longitude":-100.245739,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Nuevo Le\u00f3n",
     "qs:a1_lc":"19",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":112266
     },
     "wof:country":"MX",
-    "wof:geomhash":"9fe907efe79fb1c8d52153a467ef59be",
+    "wof:geomhash":"6c78e0db512e09806269aed8639443c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000797,
-    "wof:lastmodified":1479908195,
+    "wof:lastmodified":1566615651,
     "wof:name":"Fraccionamiento Cosm\u00f3polis Octavo Sector",
     "wof:parent_id":102078701,
     "wof:placetype":"locality",

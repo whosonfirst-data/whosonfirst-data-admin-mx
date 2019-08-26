@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1910365.497021,
+    "geom:area_square_m":1910365.497014,
     "geom:bbox":"-97.3605596865,19.4951222918,-97.3408735202,19.5111008558",
     "geom:latitude":19.502756,
     "geom:longitude":-97.350164,
     "iso:country":"MX",
     "lbl:latitude":19.503004,
     "lbl:longitude":-97.350306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.503004,
     "mps:longitude":-97.350306,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891689
     },
     "wof:country":"MX",
-    "wof:geomhash":"21779c9ec99f0c983dffa206257ff5e7",
+    "wof:geomhash":"c6a3902be9fb2b89f0edf4be15bf3e42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998595,
-    "wof:lastmodified":1479906717,
+    "wof:lastmodified":1566632225,
     "wof:name":"San Antonio Lim\u00f3n (Totalco)",
     "wof:parent_id":102077661,
     "wof:placetype":"locality",

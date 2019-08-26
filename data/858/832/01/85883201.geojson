@@ -10,8 +10,10 @@
     "geom:latitude":19.053755,
     "geom:longitude":-104.313122,
     "iso:country":"MX",
+    "lbl:bbox":"-104.318122,19.048755,-104.308122,19.058755",
     "lbl:latitude":19.053755,
     "lbl:longitude":-104.313122,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.053287,
     "mps:longitude":-104.31334,
     "mz:hierarchy_label":0,
@@ -54,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686587,
         102191575,
@@ -84,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619606,
     "wof:name":"Cuauhtemoc",
     "wof:parent_id":101996931,
     "wof:placetype":"neighbourhood",

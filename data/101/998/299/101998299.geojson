@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":777746.425295,
+    "geom:area_square_m":777746.425296,
     "geom:bbox":"-94.6094754608,17.9937929037,-94.6004899616,18.0050682651",
     "geom:latitude":18.000541,
     "geom:longitude":-94.605464,
     "iso:country":"MX",
     "lbl:latitude":18.000739,
     "lbl:longitude":-94.60555,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.000739,
     "mps:longitude":-94.60555,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Soledad"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101998299,
-    "wof:lastmodified":1504309904,
+    "wof:lastmodified":1566632282,
     "wof:name":"El Naranjito",
     "wof:parent_id":102077489,
     "wof:placetype":"locality",

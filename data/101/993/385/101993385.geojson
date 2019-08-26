@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.72849,
     "lbl:longitude":-99.401398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.72849,
     "mps:longitude":-99.401398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tetecala"
     ],
@@ -71,7 +74,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -84,7 +87,7 @@
         "fct:id":"01b97c12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515767,
         "gp:id":55901914,
-        "qs:id":207774,
+        "qs_pg:id":207774,
         "wd:id":"Q2651761",
         "wk:page":"Tetecala"
     },
@@ -103,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398137,
+    "wof:lastmodified":1566632780,
     "wof:name":"Tetecala",
     "wof:parent_id":102074281,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-100.980018,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.985018,25.43137,-100.975018,25.44137",
     "lbl:latitude":25.43637,
     "lbl:longitude":-100.980018,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.441901,
     "mps:longitude":-100.978309,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc El Olmo"
-    ],
-    "name:unk_x_variant":[
         "Fracc El Olmo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686689,
         102191575,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897570,
-        "qs:id":226468,
         "qs_pg:id":226468
     },
     "wof:country":"MX",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957715,
+    "wof:lastmodified":1566619686,
     "wof:name":"Fracc El Olmo",
     "wof:parent_id":102000871,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.653452,
     "lbl:longitude":-98.898695,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.653452,
     "mps:longitude":-98.898695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Bartolo"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191575,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":3817755,
         "gp:id":55901912,
-        "qs:id":1016603,
         "qs_pg:id":1016603
     },
     "wof:country":"MX",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101993215,
-    "wof:lastmodified":1564171414,
+    "wof:lastmodified":1566632796,
     "wof:name":"San Bartolo",
     "wof:parent_id":102074223,
     "wof:placetype":"locality",

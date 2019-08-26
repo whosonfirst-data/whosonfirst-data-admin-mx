@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.41341,
     "lbl:longitude":-99.169191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.41285,
     "mps:longitude":-99.168642,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
         "Hip\u00f3dromo"
     ],
     "name:spa_x_preferred":[
-        "Hipodromo"
-    ],
-    "name:unk_x_variant":[
         "Hipodromo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +56,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191575,
@@ -73,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898379,
-        "qs:id":1247352
+        "qs_pg:id":1247352
     },
     "wof:country":"MX",
     "wof:geomhash":"75b76c44755e547abcf1311a838754bf",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270469,
+    "wof:lastmodified":1566619674,
     "wof:name":"Hipodromo",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":702122.825447,
+    "geom:area_square_m":702122.825445,
     "geom:bbox":"-99.1845703125,19.3648795247,-99.1735839844,19.3733407134",
     "geom:latitude":19.369376,
     "geom:longitude":-99.179272,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.369523,
     "lbl:longitude":-99.179348,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.369477,
     "mps:longitude":-99.179376,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Actipan"
-    ],
-    "name:unk_x_variant":[
         "Actipan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -56,7 +54,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899498,
-        "qs:id":230844
+        "qs_pg:id":230844
     },
     "wof:country":"MX",
     "wof:geomhash":"ea62bda20f996c0fe629be4e3ce1f62f",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1507659910,
+    "wof:lastmodified":1566619661,
     "wof:name":"Actipan",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

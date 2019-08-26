@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.424966,
     "lbl:longitude":-95.113261,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.424966,
     "mps:longitude":-95.113261,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648 \u062a\u0648\u0643\u0633\u062a\u0644\u0627"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -164,7 +167,6 @@
         "fct:id":"01b8038c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531416,
         "gp:id":115183,
-        "qs:id":664146,
         "qs_pg:id":664146,
         "wd:id":"Q4769997",
         "wk:page":"Santiago Tuxtla"
@@ -184,7 +186,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397079,
+    "wof:lastmodified":1566632230,
     "wof:name":"Catemaco",
     "wof:parent_id":102077453,
     "wof:placetype":"locality",

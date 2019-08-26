@@ -11,8 +11,10 @@
     "geom:longitude":-103.386921,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.391921,20.66655,-103.381921,20.67655",
     "lbl:latitude":20.67155,
     "lbl:longitude":-103.386921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.667853,
     "mps:longitude":-103.385348,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Vallarta"
     ],
     "name:spa_x_preferred":[
-        "Vallarta"
-    ],
-    "name:unk_x_variant":[
         "Vallarta"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":43,
     "wof:belongsto":[
         85686603,
@@ -79,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904341,
-        "qs:id":1342765,
         "qs_pg:id":1342765
     },
     "wof:country":"MX",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957721,
+    "wof:lastmodified":1566619558,
     "wof:name":"Vallarta",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

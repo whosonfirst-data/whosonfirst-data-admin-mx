@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.895749,
     "lbl:longitude":-98.726885,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.895749,
     "mps:longitude":-98.726885,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Tetela del Volc\u00e1n"
     ],
@@ -47,9 +50,6 @@
     "name:spa_x_variant":[
         "Telela del Volcan"
     ],
-    "name:unk_x_variant":[
-        "Telela del Volcan"
-    ],
     "name:vie_x_preferred":[
         "Tetela del Volc\u00e1n"
     ],
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +83,6 @@
         "fct:id":"01b97c94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515763,
         "gp:id":149145,
-        "qs:id":442757,
         "qs_pg:id":442757,
         "wd:id":"Q2652196",
         "wk:page":"Tetela del Volc\u00e1n"
@@ -103,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398120,
+    "wof:lastmodified":1566632771,
     "wof:name":"Tetela del Volc\u00e1n",
     "wof:parent_id":102074255,
     "wof:placetype":"locality",

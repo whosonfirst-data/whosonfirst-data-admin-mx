@@ -10,8 +10,10 @@
     "geom:latitude":32.508702,
     "geom:longitude":-116.931286,
     "iso:country":"MX",
+    "lbl:bbox":"-116.936286,32.503702,-116.926286,32.513702",
     "lbl:latitude":32.508702,
     "lbl:longitude":-116.931286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.510076,
     "mps:longitude":-116.933778,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "El Milagro"
-    ],
-    "name:unk_x_variant":[
-        "El Lago"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -60,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -72,7 +71,7 @@
     "wof:concordances":{
         "gn:id":4020869,
         "gp:id":55883088,
-        "qs:id":224271
+        "qs_pg:id":224271
     },
     "wof:country":"MX",
     "wof:geomhash":"b3c1d500b23ed1a205e42aa396031c87",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957708,
+    "wof:lastmodified":1566619666,
     "wof:name":"El Lago",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

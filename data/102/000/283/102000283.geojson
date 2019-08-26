@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":279480.753949,
+    "geom:area_square_m":279480.75395,
     "geom:bbox":"-98.7136286977,20.0947306946,-98.7049704834,20.1007333727",
     "geom:latitude":20.098002,
     "geom:longitude":-98.709151,
     "iso:country":"MX",
     "lbl:latitude":20.097995,
     "lbl:longitude":-98.709152,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.097995,
     "mps:longitude":-98.709152,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":133715
     },
     "wof:country":"MX",
-    "wof:geomhash":"c72d152dbdf59264610cd1ced77950d6",
+    "wof:geomhash":"ba57114fc11fc0f59332d7a04a6d212d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000283,
-    "wof:lastmodified":1479907614,
+    "wof:lastmodified":1566615699,
     "wof:name":"Villas del \u00c1lamo",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

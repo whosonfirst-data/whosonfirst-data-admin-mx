@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6543228.629369,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.722946,16.803884,-96.722946,16.803884",
     "geom:latitude":16.803884,
     "geom:longitude":-96.722946,
     "iso:country":"MX",
+    "lbl:bbox":"-96.727946,16.798884,-96.717946,16.808884",
     "lbl:latitude":16.803884,
     "lbl:longitude":-96.722946,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.804541,
     "mps:longitude":-96.723633,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Ap\u00f3stol Santiago"
     ],
     "name:spa_x_preferred":[
-        "Santiago Apostol Centro"
-    ],
-    "name:unk_x_variant":[
         "Santiago Apostol Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -63,13 +62,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101994979,
-        102075851,
-        85686623
+        102075851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874718,
+    "wof:lastmodified":1566619610,
     "wof:name":"Santiago Apostol Centro",
     "wof:parent_id":101994979,
     "wof:placetype":"neighbourhood",

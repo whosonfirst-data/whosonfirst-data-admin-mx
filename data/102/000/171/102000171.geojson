@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.989613,
     "lbl:longitude":-98.65875,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.989613,
     "mps:longitude":-98.65875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tlanchinol"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -94,7 +97,6 @@
         "fct:id":"01b98a86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515397,
         "gp:id":149627,
-        "qs:id":1244299,
         "qs_pg:id":1244299,
         "wd:id":"Q3845211"
     },
@@ -113,7 +115,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369784,
+    "wof:lastmodified":1566615724,
     "wof:name":"Tlanchinol",
     "wof:parent_id":102078565,
     "wof:placetype":"locality",

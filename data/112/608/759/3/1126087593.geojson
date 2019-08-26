@@ -9,14 +9,17 @@
     "geom:bbox":"-96.25454,18.76658,-96.25454,18.76658",
     "geom:latitude":18.76658,
     "geom:longitude":-96.25454,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-96.25954,18.76158,-96.24954,18.77158",
     "lbl:latitude":18.76658,
     "lbl:longitude":-96.25454,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Las Trancas"
@@ -38,16 +41,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55911143,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077777,
-        85686671
+        102077777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1126087593,
-    "wof:lastmodified":1509411479,
+    "wof:lastmodified":1566634098,
     "wof:name":"Las Granjas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

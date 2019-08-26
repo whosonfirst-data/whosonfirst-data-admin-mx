@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.628551,
     "lbl:longitude":-101.899586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.628551,
     "mps:longitude":-101.899586,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0438\u043d\u0430"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101997265,
-    "wof:lastmodified":1563397600,
+    "wof:lastmodified":1566632495,
     "wof:name":"Sevina",
     "wof:parent_id":102074995,
     "wof:placetype":"locality",

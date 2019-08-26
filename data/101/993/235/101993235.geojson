@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.862446,
     "lbl:longitude":-99.323712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.862446,
     "mps:longitude":-99.323712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cuentepec"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,6 @@
     "wof:concordances":{
         "gn:id":3529951,
         "gp:id":117862,
-        "qs:id":1014457,
         "qs_pg:id":1014457,
         "wd:id":"Q16890760",
         "wk:page":"Cuentepec"
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101993235,
-    "wof:lastmodified":1561750600,
+    "wof:lastmodified":1566632768,
     "wof:name":"Cuentepec",
     "wof:parent_id":102074235,
     "wof:placetype":"locality",

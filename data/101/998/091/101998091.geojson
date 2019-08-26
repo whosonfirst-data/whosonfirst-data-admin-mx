@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.154421,
     "lbl:longitude":-103.184921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.154421,
     "mps:longitude":-103.184921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Tuxcueca"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -108,7 +111,6 @@
         "fct:id":"01af206e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980847,
         "gp:id":150264,
-        "qs:id":271251,
         "qs_pg:id":271251,
         "wd:id":"Q3310867"
     },
@@ -127,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397103,
+    "wof:lastmodified":1566632239,
     "wof:name":"Tuxcueca",
     "wof:parent_id":102074789,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.36233,
     "lbl:longitude":-99.28258,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":19.36233,
     "mps:longitude":-99.28258,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Cuajimalpa"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
         "fct:id":"01d854b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530049,
         "gp:id":117718,
-        "qs:id":239705,
         "qs_pg:id":239705,
         "wd:id":"Q20136808"
     },
@@ -80,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397223,
+    "wof:lastmodified":1566632300,
     "wof:name":"Cuajimalpa de Morelos",
     "wof:parent_id":102073747,
     "wof:placetype":"locality",

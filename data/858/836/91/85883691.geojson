@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.446445,
     "lbl:longitude":-99.075184,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.439301,
     "mps:longitude":-99.067501,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "San Juan de Aragon 4ta Y 5ta Secc"
-    ],
-    "name:unk_x_variant":[
         "San Juan de Aragon 4ta Y 5ta Secc"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897822,
-        "qs:id":127630
+        "qs_pg:id":127630
     },
     "wof:country":"MX",
     "wof:geomhash":"944297649617516f142d621a64c0f3c4",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957715,
+    "wof:lastmodified":1566619687,
     "wof:name":"San Juan de Aragon 4ta Y 5ta Secc",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

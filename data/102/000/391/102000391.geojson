@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.088014,
     "lbl:longitude":-98.72947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.088014,
     "mps:longitude":-98.72947,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"00911d9e80180dc664713a3dd5ddaa99",
+    "wof:geomhash":"56f32a5b338961c90a74c24f98b856dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":102000391,
-    "wof:lastmodified":1479907912,
+    "wof:lastmodified":1566615654,
     "wof:name":"Uni\u00f3n Chac\u00f3n",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

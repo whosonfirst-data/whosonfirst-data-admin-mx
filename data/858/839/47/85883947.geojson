@@ -14,6 +14,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.286332,
     "lbl:longitude":-99.187317,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.285498,
     "mps:longitude":-99.187326,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0438\u0433\u0435\u043b \u0418\u0434\u0430\u043b\u0433\u043e"
     ],
     "name:swe_x_preferred":[
-        "Miguel Hidalgo"
-    ],
-    "name:unk_x_variant":[
         "Miguel Hidalgo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -69,7 +67,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +84,7 @@
         "fct:id":"01d79878-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3827408,
         "gp:id":55898927,
-        "qs:id":475219,
+        "qs_pg:id":475219,
         "wd:id":"Q20237100"
     },
     "wof:country":"MX",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375578,
+    "wof:lastmodified":1566619711,
     "wof:name":"Miguel Hidalgo",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

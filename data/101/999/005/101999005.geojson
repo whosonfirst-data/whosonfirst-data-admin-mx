@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001135,
-    "geom:area_square_m":13244214.682804,
+    "geom:area_square_m":13244214.682774,
     "geom:bbox":"-98.1302334799,19.3631232117,-98.0947791875,19.412291068",
     "geom:latitude":19.385587,
     "geom:longitude":-98.112913,
     "iso:country":"MX",
     "lbl:latitude":19.383926,
     "lbl:longitude":-98.110809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.383926,
     "mps:longitude":-98.110809,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ahuahuastepec"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3815201,
         "gp:id":55893609,
-        "qs:id":368269
+        "qs_pg:id":368269
     },
     "wof:country":"MX",
     "wof:geomhash":"e04b7282b46f1a26833d56321ec001b4",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101999005,
-    "wof:lastmodified":1501268836,
+    "wof:lastmodified":1566632575,
     "wof:name":"San Andr\u00e9s Ahuashuatepec",
     "wof:parent_id":102077897,
     "wof:placetype":"locality",

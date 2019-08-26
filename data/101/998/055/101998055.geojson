@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.432354,
     "lbl:longitude":-103.30939,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.432354,
     "mps:longitude":-103.30939,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cajititl\u00e1n"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":4016272,
         "gp:id":114092,
-        "qs:id":113352,
         "qs_pg:id":113352,
         "wd:id":"Q20241361"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101998055,
-    "wof:lastmodified":1563397113,
+    "wof:lastmodified":1566632243,
     "wof:name":"Cajititl\u00e1n",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

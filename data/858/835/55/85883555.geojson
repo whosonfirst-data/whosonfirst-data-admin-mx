@@ -11,8 +11,10 @@
     "geom:longitude":-100.742815,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.747815,20.914114,-100.737815,20.924114",
     "lbl:latitude":20.919114,
     "lbl:longitude":-100.742815,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.919114,
     "mps:longitude":-100.741435,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Santa Maria Del Obraje"
-    ],
-    "name:unk_x_variant":[
         "Santa Maria Del Obraje"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55896531,
-        "qs:id":1341649,
         "qs_pg:id":1341649
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619601,
     "wof:name":"Santa Maria Del Obraje",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

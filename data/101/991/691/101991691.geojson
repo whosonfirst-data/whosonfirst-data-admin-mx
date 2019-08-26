@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000535,
-    "geom:area_square_m":6237987.996836,
+    "geom:area_square_m":6237987.996839,
     "geom:bbox":"-99.6375908175,19.3416798497,-99.6010306804,19.3644128782",
     "geom:latitude":19.354081,
     "geom:longitude":-99.622828,
     "iso:country":"MX",
     "lbl:latitude":19.354141,
     "lbl:longitude":-99.624304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.354141,
     "mps:longitude":-99.624304,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "San Andr\u00e9s Cuescontitl\u00e1n"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101991691,
-    "wof:lastmodified":1501268843,
+    "wof:lastmodified":1566632341,
     "wof:name":"San Andr\u00e9s Cuexcontitl\u00e1n",
     "wof:parent_id":102074009,
     "wof:placetype":"locality",

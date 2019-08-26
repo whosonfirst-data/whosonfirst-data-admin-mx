@@ -24,8 +24,12 @@
     "gn:population":6,
     "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-110.02778,27.54194,-109.98778,27.58194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8936994
     },
     "wof:country":"MX",
-    "wof:geomhash":"c5bfa2bc4843a2d59c5ece8cef75fd11",
+    "wof:geomhash":"5acc624d0c4b683c290ef0d0755b2c7a",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209369243,
-    "wof:lastmodified":1536289164,
+    "wof:lastmodified":1566625149,
     "wof:name":"Margarita Valenzuela",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -110.00778,
-    27.561940000000003,
+    27.56194,
     -110.00778,
-    27.561940000000003
+    27.56194
 ],
   "geometry": {"coordinates":[-110.00778,27.56194],"type":"Point"}
 }

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11354746.412404,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.274531,25.754722,-100.274531,25.754722",
     "geom:latitude":25.754722,
     "geom:longitude":-100.274531,
     "iso:country":"MX",
+    "lbl:bbox":"-100.279531,25.749722,-100.269531,25.759722",
     "lbl:latitude":25.754722,
     "lbl:longitude":-100.274531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.751613,
     "mps:longitude":-100.271163,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "La Luz"
-    ],
-    "name:unk_x_variant":[
-        "Villa Luz"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000653,
-        102078723,
-        85686681
+        102078723
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3525438,
         "gp:id":55906437,
-        "qs:id":1001201,
         "qs_pg:id":1001201
     },
     "wof:country":"MX",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874591,
+    "wof:lastmodified":1566619635,
     "wof:name":"Villa Luz",
     "wof:parent_id":102000653,
     "wof:placetype":"neighbourhood",

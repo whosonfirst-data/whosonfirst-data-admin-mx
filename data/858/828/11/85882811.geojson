@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1321743.422406,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.91636,19.52922,-96.91636,19.52922",
     "geom:latitude":19.52922,
     "geom:longitude":-96.91636,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.92136,19.52422,-96.91136,19.53422",
     "lbl:latitude":19.52922,
     "lbl:longitude":-96.91636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.528319,
     "mps:longitude":-96.911736,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
         "Maria Esther",
         "Mar\u00eda Capovilla"
     ],
-    "name:unk_x_variant":[
-        "Maria Esther"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":899,
@@ -83,18 +82,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998437,
-        102077571,
-        85686671
+        102077571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887002,
-        "qs:id":474546,
         "qs_pg:id":474546
     },
     "wof:country":"MX",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874131,
+    "wof:lastmodified":1566619568,
     "wof:name":"Maria Esther",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1474730.278362,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.398799,20.592968,-100.398799,20.592968",
     "geom:latitude":20.592968,
     "geom:longitude":-100.398799,
     "iso:country":"MX",
+    "lbl:bbox":"-100.403799,20.587968,-100.393799,20.597968",
     "lbl:latitude":20.592968,
     "lbl:longitude":-100.398799,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.597095,
     "mps:longitude":-100.401414,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Res Santa Anita"
-    ],
-    "name:unk_x_variant":[
         "Res Santa Anita"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874585,
+    "wof:lastmodified":1566619634,
     "wof:name":"Res Santa Anita",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

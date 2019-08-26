@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.565876,
     "lbl:longitude":-97.65342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.565876,
     "mps:longitude":-97.65342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santiago Ixtayutla"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Santiago Ixtayutla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ixtayutla"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397839,
+    "wof:lastmodified":1566632627,
     "wof:name":"Santiago Ixtayutla",
     "wof:parent_id":102076763,
     "wof:placetype":"locality",

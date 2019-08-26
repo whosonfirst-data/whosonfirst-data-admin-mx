@@ -12,13 +12,17 @@
     "iso:country":"MX",
     "lbl:latitude":19.87659,
     "lbl:longitude":-97.370901,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.87659,
     "mps:longitude":-97.370901,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Acateno"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Acateno"
     ],
     "qs:a0":"Mexico",
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":3518743,
         "gp:id":143801,
-        "qs:id":494756,
         "qs_pg:id":494756
     },
     "wof:country":"MX",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101999905,
-    "wof:lastmodified":1497297096,
+    "wof:lastmodified":1566632557,
     "wof:name":"San Juan Acateno",
     "wof:parent_id":102078367,
     "wof:placetype":"locality",

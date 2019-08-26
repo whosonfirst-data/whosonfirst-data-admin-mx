@@ -11,8 +11,10 @@
     "geom:longitude":-106.115431,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.120431,28.621033,-106.110431,28.631033",
     "lbl:latitude":28.626033,
     "lbl:longitude":-106.115431,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.627162,
     "mps:longitude":-106.108633,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Las Aguilas"
-    ],
-    "name:unk_x_variant":[
         "Fracc Las Aguilas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686581,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55885080,
-        "qs:id":239567,
         "qs_pg:id":239567
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619573,
     "wof:name":"Fracc Las Aguilas",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5583289.956099,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.675276,16.790652,-96.675276,16.790652",
     "geom:latitude":16.790652,
     "geom:longitude":-96.675276,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.680276,16.785652,-96.670276,16.795652",
     "lbl:latitude":16.790652,
     "lbl:longitude":-96.675276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.791394,
     "mps:longitude":-96.675225,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:spa_x_preferred":[
         "Ocotlan de Morelos Centro",
         "Distrito de Ocotl\u00e1n"
-    ],
-    "name:unk_x_variant":[
-        "Ocotlan de Morelos Centro"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -62,20 +61,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101995151,
-        102075859,
-        85686623
+        102075859
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3522964,
         "gp:id":55916436,
-        "qs:id":1343970,
         "qs_pg:id":1292513
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1343970
     },
     "wof:country":"MX",
     "wof:geomhash":"cf0d3b63de63f82ca38da2bee605feec",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874725,
+    "wof:lastmodified":1566619612,
     "wof:name":"Ocotlan de Morelos Centro",
     "wof:parent_id":101995151,
     "wof:placetype":"neighbourhood",

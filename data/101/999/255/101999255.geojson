@@ -9,14 +9,17 @@
     "geom:bbox":"-98.264062493,18.5643355222,-98.2485305256,18.5806175484",
     "geom:latitude":18.571152,
     "geom:longitude":-98.256539,
-    "geonames:id":"3533153,3533154",
+    "gn:id":"3533153,3533154",
     "iso:country":"MX",
     "lbl:latitude":18.570269,
     "lbl:longitude":-98.256656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.570269,
     "mps:longitude":-98.256656,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ahuatl\u00e1n"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101999255,
-    "wof:lastmodified":1564171331,
+    "wof:lastmodified":1566632578,
     "wof:name":"Ahuatl\u00e1n",
     "wof:parent_id":102078007,
     "wof:placetype":"locality",

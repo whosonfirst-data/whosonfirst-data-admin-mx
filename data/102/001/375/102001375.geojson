@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.836384,
     "lbl:longitude":-89.371898,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.836384,
     "mps:longitude":-89.371898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sey\u00e9"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Sey\u00e9"
     ],
-    "name:unk_x_variant":[
-        "Seve"
-    ],
     "name:vie_x_preferred":[
         "Sey\u00e9"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -100,7 +100,6 @@
         "fct:id":"01af0cfa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516683,
         "gp:id":147542,
-        "qs:id":341877,
         "qs_pg:id":341877,
         "wd:id":"Q2588093"
     },
@@ -119,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369868,
+    "wof:lastmodified":1566615764,
     "wof:name":"Sey\u00e9",
     "wof:parent_id":102078989,
     "wof:placetype":"locality",

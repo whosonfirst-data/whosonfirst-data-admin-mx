@@ -11,8 +11,10 @@
     "geom:longitude":-108.991346,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-108.996346,25.787283,-108.986346,25.797283",
     "lbl:latitude":25.792283,
     "lbl:longitude":-108.991346,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.788929,
     "mps:longitude":-108.9884,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Los Mochis Centro"
-    ],
-    "name:unk_x_variant":[
         "Los Mochis Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686535,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892944,
-        "qs:id":71313,
         "qs_pg:id":71313
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619605,
     "wof:name":"Los Mochis Centro",
     "wof:parent_id":101993793,
     "wof:placetype":"neighbourhood",

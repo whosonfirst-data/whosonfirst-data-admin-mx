@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.875831,
     "lbl:longitude":-99.735101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.875831,
     "mps:longitude":-99.735101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Timilpan"
     ],
@@ -79,9 +82,6 @@
     "name:swe_x_preferred":[
         "Timilpan"
     ],
-    "name:unk_x_variant":[
-        "Timilpan"
-    ],
     "name:vie_x_preferred":[
         "Timilpan"
     ],
@@ -100,7 +100,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -130,7 +130,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397304,
+    "wof:lastmodified":1566632345,
     "wof:name":"San Andr\u00e9s Timilpan",
     "wof:parent_id":102074017,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8036140.53058,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.499564,18.949456,-99.499564,18.949456",
     "geom:latitude":18.949456,
     "geom:longitude":-99.499564,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.504564,18.944456,-99.494564,18.954456",
     "lbl:latitude":18.949456,
     "lbl:longitude":-99.499564,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.950962,
     "mps:longitude":-99.503987,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Santa Monica"
-    ],
-    "name:unk_x_variant":[
         "Barrio Santa Monica"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992543,
-        102074117,
-        85686527
+        102074117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55905573,
-        "qs:id":475610
+        "qs_pg:id":475610
     },
     "wof:country":"MX",
     "wof:geomhash":"be27b757fb6a8172967a93e9dfb85807",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874575,
+    "wof:lastmodified":1566619635,
     "wof:name":"Barrio Santa Monica",
     "wof:parent_id":101992543,
     "wof:placetype":"neighbourhood",

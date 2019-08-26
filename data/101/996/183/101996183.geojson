@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":3125080.9042,
+    "geom:area_square_m":3125080.904212,
     "geom:bbox":"-96.5540449991,16.9999470805,-96.5289835956,17.0219298616",
     "geom:latitude":17.011628,
     "geom:longitude":-96.539437,
     "iso:country":"MX",
     "lbl:latitude":17.012257,
     "lbl:longitude":-96.540478,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.012257,
     "mps:longitude":-96.540478,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Oaxaca",
     "qs:a1_lc":"20",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55916887
     },
     "wof:country":"MX",
-    "wof:geomhash":"6849e998520591516a8e1ed6ca6b1d06",
+    "wof:geomhash":"8e80d538387902784f16236c81da6fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996183,
-    "wof:lastmodified":1479904320,
+    "wof:lastmodified":1566632424,
     "wof:name":"Macuilx\u00f3chitl de Artigas Carranza",
     "wof:parent_id":102075877,
     "wof:placetype":"locality",

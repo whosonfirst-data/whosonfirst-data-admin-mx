@@ -11,8 +11,10 @@
     "geom:longitude":-98.304291,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.309291,19.050628,-98.299291,19.060628",
     "lbl:latitude":19.055628,
     "lbl:longitude":-98.304291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.055628,
     "mps:longitude":-98.306875,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio San Miguel"
-    ],
-    "name:unk_x_variant":[
         "Barrio San Miguel"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686657,
         102191575,
@@ -69,8 +68,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55907597,
-        "qs:id":1294694,
         "qs_pg:id":1018826
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294694
     },
     "wof:country":"MX",
     "wof:geomhash":"0f86b60a82ba0029cf4323c1c90ddb1f",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957722,
+    "wof:lastmodified":1566619638,
     "wof:name":"Barrio San Miguel",
     "wof:parent_id":101999761,
     "wof:placetype":"neighbourhood",

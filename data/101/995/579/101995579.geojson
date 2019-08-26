@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.252147,
     "lbl:longitude":-96.153529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.252147,
     "mps:longitude":-96.153529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Melchor Betaza"
     ],
@@ -69,9 +72,6 @@
     "name:swe_x_preferred":[
         "San Melchor Betaza"
     ],
-    "name:unk_x_variant":[
-        "Betaza"
-    ],
     "name:vie_x_preferred":[
         "San Melchor Betaza"
     ],
@@ -90,7 +90,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -120,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397925,
+    "wof:lastmodified":1566632663,
     "wof:name":"San Melchor Betaza",
     "wof:parent_id":102076459,
     "wof:placetype":"locality",

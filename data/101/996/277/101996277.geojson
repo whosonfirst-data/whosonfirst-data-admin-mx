@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.691865,
     "lbl:longitude":-99.820104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.691865,
     "mps:longitude":-99.820104,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:hbs_x_preferred":[
         "Cadereyta de Montes"
     ],
@@ -39,9 +42,6 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u0434\u0435\u0440\u0435\u0458\u0442\u0430 \u0434\u0435 \u041c\u043e\u043d\u0442\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Cadereyta"
-    ],
     "name:vie_x_preferred":[
         "Cadereyta de Montes"
     ],
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -75,7 +75,6 @@
         "fct:id":"01b7f9b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531863,
         "gp:id":114055,
-        "qs:id":188618,
         "qs_pg:id":188618,
         "wd:id":"Q2878559",
         "wk:page":"Cadereyta de Montes"
@@ -95,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397414,
+    "wof:lastmodified":1566632402,
     "wof:name":"Cadereyta de Montes",
     "wof:parent_id":102077095,
     "wof:placetype":"locality",

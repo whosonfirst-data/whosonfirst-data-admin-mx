@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1574630.341001,
+    "geom:area_square_m":1574630.340999,
     "geom:bbox":"-98.53325531,19.3550871162,-98.5138984719,19.3674095108",
     "geom:latitude":19.361602,
     "geom:longitude":-98.525057,
     "iso:country":"MX",
     "lbl:latitude":19.361315,
     "lbl:longitude":-98.525049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.361315,
     "mps:longitude":-98.525049,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55885229
     },
     "wof:country":"MX",
-    "wof:geomhash":"0c9db942688ba24fdcf38ffdde62818b",
+    "wof:geomhash":"118eeb2134c2f0b17c5c39749768db3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999741,
-    "wof:lastmodified":1479908269,
+    "wof:lastmodified":1566632549,
     "wof:name":"Ju\u00e1rez Coronaco",
     "wof:parent_id":102078281,
     "wof:placetype":"locality",

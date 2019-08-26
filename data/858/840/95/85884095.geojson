@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13286628.856276,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.301777,24.191498,-110.301777,24.191498",
     "geom:latitude":24.191498,
     "geom:longitude":-110.301777,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.306777,24.186498,-110.296777,24.196498",
     "lbl:latitude":24.191498,
     "lbl:longitude":-110.301777,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.198559,
     "mps:longitude":-110.301745,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "La Calavera"
-    ],
-    "name:unk_x_variant":[
         "La Calavera"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,18 +54,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
-        102074519,
-        85686555
+        102074519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899877,
-        "qs:id":1342152
+        "qs_pg:id":1342152
     },
     "wof:country":"MX",
     "wof:geomhash":"771b30643aaa02a6c0b9d76c62af2f59",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874438,
+    "wof:lastmodified":1566619660,
     "wof:name":"La Calavera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

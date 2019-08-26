@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.477243,
     "lbl:longitude":-103.884343,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":23.477243,
     "mps:longitude":-103.884343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Chalchihuites"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Chalchihuites"
     ],
-    "name:unk_x_variant":[
-        "Calchihuites"
-    ],
     "name:vec_x_preferred":[
         "Chalchihuites"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +104,6 @@
         "fct:id":"01b807a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4014603,
         "gp:id":115564,
-        "qs:id":151447,
         "qs_pg:id":151447,
         "wd:id":"Q2652043",
         "wk:page":"Chalchihuites"
@@ -124,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398050,
+    "wof:lastmodified":1566632736,
     "wof:name":"Chalchihuites",
     "wof:parent_id":102075475,
     "wof:placetype":"locality",

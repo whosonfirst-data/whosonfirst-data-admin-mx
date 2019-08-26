@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4835715.890317,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.493729,25.554419,-103.493729,25.554419",
     "geom:latitude":25.554419,
     "geom:longitude":-103.493729,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.498729,25.549419,-103.488729,25.559419",
     "lbl:latitude":25.554419,
     "lbl:longitude":-103.493729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.552342,
     "mps:longitude":-103.493422,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "El Campestre"
-    ],
-    "name:unk_x_variant":[
         "El Campestre"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686573,
         102191575,
         85633293,
         101994337,
-        102075131,
-        85686573
+        102075131
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903534,
-        "qs:id":1319576,
         "qs_pg:id":1319576
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874521,
+    "wof:lastmodified":1566619581,
     "wof:name":"El Campestre",
     "wof:parent_id":101994337,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.108798,
     "lbl:longitude":-99.651988,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.108798,
     "mps:longitude":-99.651988,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Miguel Balderas"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Miguel Balderas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balderas"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3518286,
         "gp:id":144608,
-        "qs:id":193668,
         "qs_pg:id":193668,
         "wd:id":"Q20293701"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101991919,
-    "wof:lastmodified":1563397307,
+    "wof:lastmodified":1566632348,
     "wof:name":"San Miguel Balderas",
     "wof:parent_id":102074043,
     "wof:placetype":"locality",

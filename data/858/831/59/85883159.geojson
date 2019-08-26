@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2710763.235612,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.93142,19.550864,-96.93142,19.550864",
     "geom:latitude":19.550864,
     "geom:longitude":-96.93142,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.93642,19.545864,-96.92642,19.555864",
     "lbl:latitude":19.550864,
     "lbl:longitude":-96.93142,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.554405,
     "mps:longitude":-96.93579,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Unidad Magisterial"
-    ],
-    "name:unk_x_variant":[
         "Unidad Magisterial"
     ],
     "qs:gn_id":0,
@@ -55,18 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998437,
-        102077571,
-        85686671
+        102077571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891220,
-        "qs:id":474764,
         "qs_pg:id":474764
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874242,
+    "wof:lastmodified":1566619678,
     "wof:name":"Unidad Magisterial",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

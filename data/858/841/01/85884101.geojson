@@ -10,8 +10,10 @@
     "geom:latitude":25.445755,
     "geom:longitude":-100.846252,
     "iso:country":"MX",
+    "lbl:bbox":"-100.851252,25.440755,-100.841252,25.450755",
     "lbl:latitude":25.445755,
     "lbl:longitude":-100.846252,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.445755,
     "mps:longitude":-100.846252,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:spa_x_preferred":[
         "Fracc Potrero de Abrego"
     ],
-    "name:unk_x_variant":[
-        "Potrero Abrego",
-        "Fracc Potrero de Abrego"
+    "name:und_x_variant":[
+        "Potrero Abrego"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -59,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686689,
         102191575,
@@ -71,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3992045,
         "gp:id":55899930,
-        "qs:id":531868,
         "qs_pg:id":531868
     },
     "wof:country":"MX",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957717,
+    "wof:lastmodified":1566619630,
     "wof:name":"Fracc Potrero de Abrego",
     "wof:parent_id":102000839,
     "wof:placetype":"neighbourhood",

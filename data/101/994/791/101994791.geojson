@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1627868.547082,
+    "geom:area_square_m":1627868.547077,
     "geom:bbox":"-93.5751675624,18.0166329508,-93.5558705001,18.0269277966",
     "geom:latitude":18.021703,
     "geom:longitude":-93.563067,
     "iso:country":"MX",
     "lbl:latitude":18.022012,
     "lbl:longitude":-93.562288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.022012,
     "mps:longitude":-93.562288,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90277415
     },
     "wof:country":"MX",
-    "wof:geomhash":"38c92da4cab2708403a24ed08df41aca",
+    "wof:geomhash":"7a6d43d1aee55960e8002e4e711e69ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994791,
-    "wof:lastmodified":1479904398,
+    "wof:lastmodified":1566632831,
     "wof:name":"Poblado C-27 Ingeniero Eduardo Ch\u00e1vez Ram\u00edrez",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

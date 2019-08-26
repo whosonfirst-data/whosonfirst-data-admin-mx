@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.726928,
     "lbl:longitude":-98.737029,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":23.726928,
     "mps:longitude":-98.737029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Casas"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "Casas"
     ],
-    "name:unk_x_variant":[
-        "Villa de Casas"
-    ],
     "name:vec_x_preferred":[
         "Casas"
     ],
@@ -91,7 +91,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -121,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369645,
+    "wof:lastmodified":1566615659,
     "wof:name":"Casas",
     "wof:parent_id":102078885,
     "wof:placetype":"locality",

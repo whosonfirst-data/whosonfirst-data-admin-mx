@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.014027,
     "lbl:longitude":-88.947121,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.014027,
     "mps:longitude":-88.947121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tekal de Venegas Municipality"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "Tekal de Venegas"
     ],
-    "name:unk_x_variant":[
-        "Tekal"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Yucat\u00e1n",
     "qs:a1_lc":"31",
@@ -75,7 +75,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":424,
     "wof:belongsto":[
         102191575,
@@ -105,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369834,
+    "wof:lastmodified":1566615747,
     "wof:name":"Tekal de Venegas",
     "wof:parent_id":102079153,
     "wof:placetype":"locality",

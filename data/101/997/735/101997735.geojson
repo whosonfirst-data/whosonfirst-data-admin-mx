@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
-    "geom:area_square_m":390989.753769,
+    "geom:area_square_m":390989.75377,
     "geom:bbox":"-102.53021391,20.5233680406,-102.52009821,20.53032015",
     "geom:latitude":20.526973,
     "geom:longitude":-102.524998,
     "iso:country":"MX",
     "lbl:latitude":20.527416,
     "lbl:longitude":-102.526262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.527416,
     "mps:longitude":-102.526262,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":112685
     },
     "wof:country":"MX",
-    "wof:geomhash":"e3a0d529be9f6630fc2ef060ef754121",
+    "wof:geomhash":"9e5adbbceaa3f1b1fb1ae048b9352926",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997735,
-    "wof:lastmodified":1479931073,
+    "wof:lastmodified":1566632475,
     "wof:name":"Fraccionamiento Vistas del Maguey",
     "wof:parent_id":102074677,
     "wof:placetype":"locality",

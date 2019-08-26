@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":27.125543,
     "lbl:longitude":-104.913935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.125543,
     "mps:longitude":-104.913935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09b8\u09c7 \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09a8\u09cb \u09b9\u09bf\u09ae\u09c7\u09a8\u09c7\u09b8"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -94,7 +97,6 @@
         "fct:id":"01b81840-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013710,
         "gp:id":116555,
-        "qs:id":151427,
         "qs_pg:id":151427,
         "wd:id":"Q3699278",
         "wk:page":"Ciudad Jim\u00e9nez"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398311,
+    "wof:lastmodified":1566632871,
     "wof:name":"Jos\u00e9 Mariano Jim\u00e9nez",
     "wof:parent_id":102075293,
     "wof:placetype":"locality",

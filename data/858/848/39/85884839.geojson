@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5689190.968342,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.477264,21.200746,-99.477264,21.200746",
     "geom:latitude":21.200746,
     "geom:longitude":-99.477264,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.482264,21.195746,-99.472264,21.205746",
     "lbl:latitude":21.200746,
     "lbl:longitude":-99.477264,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.201465,
     "mps:longitude":-99.474775,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Ortigas"
-    ],
-    "name:unk_x_variant":[
         "Barrio Ortigas"
     ],
     "qs:gn_id":0,
@@ -55,17 +54,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
-        102077087,
-        85686641
+        102077087
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908762,
-        "qs:id":996308,
         "qs_pg:id":996308
     },
     "wof:country":"MX",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874638,
+    "wof:lastmodified":1566619643,
     "wof:name":"Barrio Ortigas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

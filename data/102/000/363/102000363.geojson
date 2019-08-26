@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.064638,
     "lbl:longitude":-98.765545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.064638,
     "mps:longitude":-98.765545,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56075124
     },
     "wof:country":"MX",
-    "wof:geomhash":"8893a2ef66a98f9dc3541449a30d1d7d",
+    "wof:geomhash":"331ebdbc2cc713d55f58fc188940973d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000363,
-    "wof:lastmodified":1479907613,
+    "wof:lastmodified":1566615659,
     "wof:name":"Privadas Bosques del Venado",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":465195.862701,
+    "geom:area_square_m":465195.862703,
     "geom:bbox":"-98.1389857691,19.4211420114,-98.1260969791,19.4279079877",
     "geom:latitude":19.424365,
     "geom:longitude":-98.132314,
     "iso:country":"MX",
     "lbl:latitude":19.42392,
     "lbl:longitude":-98.129743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.42392,
     "mps:longitude":-98.129743,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cerrito de Guadalupe"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3815193,
         "gp:id":55916771,
-        "qs:id":382336
+        "qs_pg:id":382336
     },
     "wof:country":"MX",
     "wof:geomhash":"baca6ab94e195fd9b8059342e1ea1f73",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101999195,
-    "wof:lastmodified":1501268836,
+    "wof:lastmodified":1566632514,
     "wof:name":"Cerrito de Guadalupe",
     "wof:parent_id":102077969,
     "wof:placetype":"locality",

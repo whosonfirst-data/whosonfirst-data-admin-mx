@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.488348,
     "lbl:longitude":-99.133688,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.485285,
     "mps:longitude":-99.139131,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Revolucion Imss"
-    ],
-    "name:unk_x_variant":[
         "Revolucion Imss"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -71,8 +69,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56068716,
-        "qs:id":1294776,
         "qs_pg:id":10576
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294776
     },
     "wof:country":"MX",
     "wof:geomhash":"12fe963ee0011301df426eec49500e83",
@@ -100,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957720,
+    "wof:lastmodified":1566619589,
     "wof:name":"Revolucion Imss",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

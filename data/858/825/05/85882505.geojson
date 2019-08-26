@@ -10,8 +10,10 @@
     "geom:latitude":23.733347,
     "geom:longitude":-99.145106,
     "iso:country":"MX",
+    "lbl:bbox":"-99.150106,23.728347,-99.140106,23.738347",
     "lbl:latitude":23.733347,
     "lbl:longitude":-99.145106,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.734373,
     "mps:longitude":-99.145239,
     "mz:hierarchy_label":0,
@@ -236,7 +238,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0435\u043b\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Estero"
     ],
     "name:urd_x_preferred":[
@@ -259,7 +261,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -271,8 +273,10 @@
     "wof:concordances":{
         "gn:id":3483454,
         "gp:id":55901763,
-        "qs:id":1199421,
         "qs_pg:id":1017103
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1199421
     },
     "wof:country":"MX",
     "wof:geomhash":"e28047c5a63d021c47bc1cbb09bb06b0",
@@ -290,7 +294,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147313,
+    "wof:lastmodified":1566619667,
     "wof:name":"Morelos",
     "wof:parent_id":102000959,
     "wof:placetype":"neighbourhood",

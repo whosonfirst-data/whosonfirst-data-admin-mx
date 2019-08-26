@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.824689,
     "lbl:longitude":-108.221886,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":25.824689,
     "mps:longitude":-108.221886,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Sinaloa de Leyva"
     ],
@@ -51,7 +54,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0438\u043d\u0430\u043b\u043e\u0430 \u0434\u0435 \u041b\u0435\u0458\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cinaloa"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +75,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":246,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         "fct:id":"01af0d68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3983032,
         "gp:id":55913749,
-        "qs:id":906018,
+        "qs_pg:id":906018,
         "wd:id":"Q766307",
         "wk:page":"Sinaloa de Leyva"
     },
@@ -105,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398163,
+    "wof:lastmodified":1566632794,
     "wof:name":"Sinaloa de Leyva",
     "wof:parent_id":102074305,
     "wof:placetype":"locality",

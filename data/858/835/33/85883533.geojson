@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4196912.768549,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.472699,25.544704,-103.472699,25.544704",
     "geom:latitude":25.544704,
     "geom:longitude":-103.472699,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.477699,25.539704,-103.467699,25.549704",
     "lbl:latitude":25.544704,
     "lbl:longitude":-103.472699,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.541266,
     "mps:longitude":-103.479629,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Plano de Ayala"
     ],
     "name:spa_x_preferred":[
-        "Plan de Ayala"
-    ],
-    "name:unk_x_variant":[
         "Plan de Ayala"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -70,20 +69,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
         102000853,
-        102078789,
-        85686689
+        102078789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3992370,
         "gp:id":55884868,
-        "qs:id":1341602,
         "qs_pg:id":398575
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1341602
     },
     "wof:country":"MX",
     "wof:geomhash":"f0bf5733322c36ad02b0ed253b7bac7a",
@@ -101,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874362,
+    "wof:lastmodified":1566619598,
     "wof:name":"Plan de Ayala",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

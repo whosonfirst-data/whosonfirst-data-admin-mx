@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.092767,
     "lbl:longitude":-98.717646,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.092767,
     "mps:longitude":-98.717646,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Abundio Mart\u00ednez"
     ],
@@ -58,7 +61,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":240,
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102000417,
-    "wof:lastmodified":1563369730,
+    "wof:lastmodified":1566615700,
     "wof:name":"Abundio Mart\u00ednez",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

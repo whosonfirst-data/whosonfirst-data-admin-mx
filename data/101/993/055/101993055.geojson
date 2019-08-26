@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.963545,
     "lbl:longitude":-100.921466,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.963545,
     "mps:longitude":-100.921466,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ir\u00e1muco"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":4004331,
         "gp:id":125437,
-        "qs:id":251473,
         "qs_pg:id":251473,
         "wd:id":"Q20147493"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101993055,
-    "wof:lastmodified":1563398119,
+    "wof:lastmodified":1566632771,
     "wof:name":"Ir\u00e1muco",
     "wof:parent_id":102077309,
     "wof:placetype":"locality",

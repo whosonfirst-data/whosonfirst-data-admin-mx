@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-94.15667,17.84389,-94.11667,17.88389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":3824026
     },
     "wof:country":"MX",
-    "wof:geomhash":"18d5b84ffa1455a07b1eac856893259a",
+    "wof:geomhash":"8eb019b3c98923c0f2055a006febdd9b",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209474643,
-    "wof:lastmodified":1536285974,
+    "wof:lastmodified":1566626186,
     "wof:name":"El Gavilan",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -94.13667,
-    17.863889999999994,
+    17.86388999999999,
     -94.13667,
-    17.863889999999994
+    17.86388999999999
 ],
   "geometry": {"coordinates":[-94.13667,17.86388999999999],"type":"Point"}
 }

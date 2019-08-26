@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1893886.089788,
+    "geom:area_square_m":1893886.089803,
     "geom:bbox":"-97.7255222352,24.6110801011,-97.7079737162,24.6587805339",
     "geom:latitude":24.628592,
     "geom:longitude":-97.717239,
     "iso:country":"MX",
     "lbl:latitude":24.623443,
     "lbl:longitude":-97.720019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.623443,
     "mps:longitude":-97.720019,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tamaulipas",
     "qs:a1_lc":"28",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":114818
     },
     "wof:country":"MX",
-    "wof:geomhash":"c1ca3b5d385a0fbcaa3cd3c5e6600d40",
+    "wof:geomhash":"01b005b176f89727df6734f9a7321392",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102001031,
-    "wof:lastmodified":1479907687,
+    "wof:lastmodified":1566615737,
     "wof:name":"Carboneras (La Carbonera)",
     "wof:parent_id":102078937,
     "wof:placetype":"locality",

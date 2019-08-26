@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5483719.53666,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.951985,29.142968,-110.951985,29.142968",
     "geom:latitude":29.142968,
     "geom:longitude":-110.951985,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.956985,29.137968,-110.946985,29.147968",
     "lbl:latitude":29.142968,
     "lbl:longitude":-110.951985,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.145194,
     "mps:longitude":-110.942788,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Res Cumbres"
-    ],
-    "name:unk_x_variant":[
         "Res Cumbres"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686549,
         102191575,
         85633293,
-        102074513,
-        85686549
+        102074513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891105,
-        "qs:id":474758
+        "qs_pg:id":474758
     },
     "wof:country":"MX",
     "wof:geomhash":"44cc2c500818e7f91b70724d764c88d0",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874237,
+    "wof:lastmodified":1566619683,
     "wof:name":"Res Cumbres",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

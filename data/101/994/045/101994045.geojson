@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.737368,
     "lbl:longitude":-102.365535,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":22.737368,
     "mps:longitude":-102.365535,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Trancoso"
     ],
@@ -31,9 +34,6 @@
     ],
     "name:swe_x_preferred":[
         "Trancoso"
-    ],
-    "name:unk_x_variant":[
-        "Troncoso"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
@@ -52,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -65,7 +65,6 @@
         "fct:id":"01b6bbd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3981145,
         "gp:id":150158,
-        "qs:id":1255557,
         "qs_pg:id":1255557,
         "wd:id":"Q20222585"
     },
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398327,
+    "wof:lastmodified":1566632880,
     "wof:name":"Trancoso",
     "wof:parent_id":102075431,
     "wof:placetype":"locality",

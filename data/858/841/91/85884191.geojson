@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4117943.193688,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.228679,19.714583,-99.228679,19.714583",
     "geom:latitude":19.714583,
     "geom:longitude":-99.228679,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.233679,19.709583,-99.223679,19.719583",
     "lbl:latitude":19.714583,
     "lbl:longitude":-99.228679,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.713976,
     "mps:longitude":-99.233254,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Conjunto Hab Paseo Del Virrey"
-    ],
-    "name:unk_x_variant":[
         "Conjunto Hab Paseo Del Virrey"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991839,
-        102074033,
-        85686527
+        102074033
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900504,
-        "qs:id":475334
+        "qs_pg:id":475334
     },
     "wof:country":"MX",
     "wof:geomhash":"f087ae093297cd5ef14e4cd19cf45fcc",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874472,
+    "wof:lastmodified":1566619630,
     "wof:name":"Conjunto Hab Paseo Del Virrey",
     "wof:parent_id":101991839,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":1083030.108991,
+    "geom:area_square_m":1083030.10899,
     "geom:bbox":"-100.382744732,20.8588304991,-100.368794603,20.8712663883",
     "geom:latitude":20.86563,
     "geom:longitude":-100.375578,
     "iso:country":"MX",
     "lbl:latitude":20.865307,
     "lbl:longitude":-100.375468,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.865307,
     "mps:longitude":-100.375468,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Gotera"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,7 +51,7 @@
         "gp:id":55897106
     },
     "wof:country":"MX",
-    "wof:geomhash":"d2665821f674443e4bb8c624554dde44",
+    "wof:geomhash":"918122cadd90c7510e09301f18405ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +65,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1479907212,
+    "wof:lastmodified":1566632425,
     "wof:name":"La Gotera",
     "wof:parent_id":102077111,
     "wof:placetype":"locality",

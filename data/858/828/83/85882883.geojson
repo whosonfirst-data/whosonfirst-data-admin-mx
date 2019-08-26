@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9728209.901222,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.404166,20.952779,-97.404166,20.952779",
     "geom:latitude":20.952779,
     "geom:longitude":-97.404166,
     "gn:population":134394,
     "iso:country":"MX",
+    "lbl:bbox":"-97.409166,20.947779,-97.399166,20.957779",
     "lbl:latitude":20.952779,
     "lbl:longitude":-97.404166,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.951054,
     "mps:longitude":-97.402981,
     "mz:hierarchy_label":0,
@@ -31,9 +33,8 @@
         "T\u00faxpam",
         "T\u00faxpam de Rodr\u00edguez Cano"
     ],
-    "name:unk_x_variant":[
-        "Tuxpan",
-        "Tuxpan de Rodriguez Cano Centro"
+    "name:und_x_variant":[
+        "Tuxpan"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -64,20 +65,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998823,
-        102077795,
-        85686671
+        102077795
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3515011,
         "gp:id":55887847,
-        "qs:id":375549,
         "qs_pg:id":375549,
         "wd:id":"Q6154758",
         "wk:page":"Tuxpan"
@@ -98,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874156,
+    "wof:lastmodified":1566619572,
     "wof:name":"Tuxpan de Rodriguez Cano Centro",
     "wof:parent_id":101998823,
     "wof:placetype":"neighbourhood",

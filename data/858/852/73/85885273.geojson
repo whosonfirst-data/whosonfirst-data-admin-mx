@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":773258.574993,
+    "geom:area_square_m":773258.574994,
     "geom:bbox":"-99.187965923,19.3266949097,-99.1790771484,19.3370617954",
     "geom:latitude":19.332284,
     "geom:longitude":-99.183908,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.332664,
     "lbl:longitude":-99.185111,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.332164,
     "mps:longitude":-99.183116,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Conds Para Empleados Federales"
-    ],
-    "name:unk_x_variant":[
         "Conds Para Empleados Federales"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55920995,
-        "qs:id":1344311
+        "qs_pg:id":1344311
     },
     "wof:country":"MX",
     "wof:geomhash":"2f367cc48c4b823e60ad15dd23178830",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270540,
+    "wof:lastmodified":1566619713,
     "wof:name":"Conds Para Empleados Federales",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

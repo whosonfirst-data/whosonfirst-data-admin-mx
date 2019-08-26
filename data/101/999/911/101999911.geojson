@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1517277.131083,
+    "geom:area_square_m":1517277.131086,
     "geom:bbox":"-97.3814562941,19.8164764266,-97.3632771558,19.8386610947",
     "geom:latitude":19.826841,
     "geom:longitude":-97.371332,
     "iso:country":"MX",
     "lbl:latitude":19.826283,
     "lbl:longitude":-97.370435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.826283,
     "mps:longitude":-97.370435,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90276922
     },
     "wof:country":"MX",
-    "wof:geomhash":"ab91efbb2e4b13ad1f681642f6a1f352",
+    "wof:geomhash":"f4c6732161b8d6419ffad425601686d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999911,
-    "wof:lastmodified":1479908118,
+    "wof:lastmodified":1566632580,
     "wof:name":"Xoloateno",
     "wof:parent_id":102078367,
     "wof:placetype":"locality",

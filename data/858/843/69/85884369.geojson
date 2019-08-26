@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4995254.152178,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.883441,19.514652,-98.883441,19.514652",
     "geom:latitude":19.514652,
     "geom:longitude":-98.883441,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.888441,19.509652,-98.878441,19.519652",
     "lbl:latitude":19.514652,
     "lbl:longitude":-98.883441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.515787,
     "mps:longitude":-98.882185,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Centro Ote"
-    ],
-    "name:unk_x_variant":[
         "Centro Ote"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991795,
-        102074023,
-        85686527
+        102074023
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903339,
-        "qs:id":1004267
+        "qs_pg:id":1004267
     },
     "wof:country":"MX",
     "wof:geomhash":"0bed44322e72ad849d5f486c27a06a2b",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874516,
+    "wof:lastmodified":1566619580,
     "wof:name":"Centro Ote",
     "wof:parent_id":101991795,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.915703,
     "lbl:longitude":-92.688216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.915703,
     "mps:longitude":-92.688216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Aldama"
     ],
@@ -88,7 +91,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -117,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563398350,
+    "wof:lastmodified":1566632887,
     "wof:name":"Aldama",
     "wof:parent_id":102075641,
     "wof:placetype":"locality",

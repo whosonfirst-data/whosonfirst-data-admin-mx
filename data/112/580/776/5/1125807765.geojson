@@ -9,15 +9,18 @@
     "geom:bbox":"-97.79609,19.43171,-97.79609,19.43171",
     "geom:latitude":19.43171,
     "geom:longitude":-97.79609,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3353,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":3353,
     "iso:country":"MX",
+    "lbl:bbox":"-97.81609,19.41171,-97.77609,19.45171",
     "lbl:latitude":19.43171,
     "lbl:longitude":-97.79609,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Altzayanca"
@@ -52,7 +55,7 @@
     "name:spa_x_variant":[
         "Altzayanca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alzayac\u00e1n"
     ],
     "name:vec_x_preferred":[
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":111076,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125807765,
-    "wof:lastmodified":1563400325,
+    "wof:lastmodified":1566634001,
     "wof:name":"Actlzayanca de Hidalgo",
     "wof:parent_id":102077971,
     "wof:placetype":"locality",

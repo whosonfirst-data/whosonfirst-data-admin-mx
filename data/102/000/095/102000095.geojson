@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":4115221.886974,
+    "geom:area_square_m":4115221.886975,
     "geom:bbox":"-97.6017044098,19.8869556043,-97.5824785695,19.9228062651",
     "geom:latitude":19.906729,
     "geom:longitude":-97.592072,
@@ -14,10 +14,14 @@
     "iso:country":"MX",
     "lbl:latitude":19.908347,
     "lbl:longitude":-97.593675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.908347,
     "mps:longitude":-97.593675,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Xalacapan de Lucke"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102000095,
-    "wof:lastmodified":1501268841,
+    "wof:lastmodified":1566615709,
     "wof:name":"Xalacapan",
     "wof:parent_id":102078439,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":866856.46759,
+    "geom:area_square_m":866856.467587,
     "geom:bbox":"-88.0972897407,20.8472691158,-88.0845148722,20.8581290026",
     "geom:latitude":20.852761,
     "geom:longitude":-88.090012,
@@ -14,13 +14,17 @@
     "iso:country":"MX",
     "lbl:latitude":20.852753,
     "lbl:longitude":-88.090109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.852753,
     "mps:longitude":-88.090109,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hunuku"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kunuku"
     ],
     "qs:a0":"Mexico",
@@ -38,7 +42,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":102001093,
-    "wof:lastmodified":1501267459,
+    "wof:lastmodified":1566615761,
     "wof:name":"Hunuk\u00fa",
     "wof:parent_id":102079135,
     "wof:placetype":"locality",

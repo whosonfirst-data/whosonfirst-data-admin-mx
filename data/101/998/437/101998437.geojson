@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.537322,
     "lbl:longitude":-96.913366,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.537322,
     "mps:longitude":-96.913366,
     "mz:hierarchy_label":1,
@@ -204,11 +206,8 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043b\u0430\u043f\u0430"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "JAL"
-    ],
-    "name:unk_x_variant":[
-        "Xalapa"
     ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u0644\u0627\u067e\u0627"
@@ -334,7 +333,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -350,7 +349,6 @@
         "gn:id":3526617,
         "gp:id":125675,
         "nyt:id":"N38384739194517593731",
-        "qs:id":775543,
         "qs_pg:id":775543,
         "wd:id":"Q221051",
         "wk:page":"Xalapa"
@@ -370,7 +368,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397105,
+    "wof:lastmodified":1566632239,
     "wof:name":"Xalapa-Enr\u00edquez",
     "wof:parent_id":102077571,
     "wof:placetype":"locality",

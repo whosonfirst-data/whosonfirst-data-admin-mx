@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":6613584.588927,
+    "geom:area_square_m":6613584.588915,
     "geom:bbox":"-98.1929896899,19.3858620569,-98.172185161,19.4330917036",
     "geom:latitude":19.412966,
     "geom:longitude":-98.182246,
     "iso:country":"MX",
     "lbl:latitude":19.41309,
     "lbl:longitude":-98.182408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.41309,
     "mps:longitude":-98.182408,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Dionisio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yauhquemehcan"
     ],
     "qs:a0":"Mexico",
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":3519477,
         "gp:id":142253,
-        "qs:id":907849,
         "qs_pg:id":907849
     },
     "wof:country":"MX",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101998981,
-    "wof:lastmodified":1497299556,
+    "wof:lastmodified":1566632290,
     "wof:name":"San Dionisio Yauhquemehcan",
     "wof:parent_id":102077887,
     "wof:placetype":"locality",

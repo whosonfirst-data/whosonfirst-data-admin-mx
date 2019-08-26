@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":722582.300469,
+    "geom:area_square_m":722582.300472,
     "geom:bbox":"-100.861433612,20.4929785473,-100.847574704,20.5035643127",
     "geom:latitude":20.49699,
     "geom:longitude":-100.855014,
     "iso:country":"MX",
     "lbl:latitude":20.496476,
     "lbl:longitude":-100.854909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.496476,
     "mps:longitude":-100.854909,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Guanajuato",
     "qs:a1_lc":"11",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895566
     },
     "wof:country":"MX",
-    "wof:geomhash":"439c05e2e6cae616d5064190b315d4de",
+    "wof:geomhash":"dff41a78b601ff190921a38f9374c715",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993123,
-    "wof:lastmodified":1479906837,
+    "wof:lastmodified":1566632814,
     "wof:name":"Primera Fracci\u00f3n de Crespo (El Molino)",
     "wof:parent_id":102077259,
     "wof:placetype":"locality",

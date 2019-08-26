@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":3397503.584865,
+    "geom:area_square_m":3397503.584864,
     "geom:bbox":"-99.9436066626,19.6893738734,-99.916377723,19.7097440292",
     "geom:latitude":19.699531,
     "geom:longitude":-99.930599,
     "iso:country":"MX",
     "lbl:latitude":19.699038,
     "lbl:longitude":-99.93193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.699038,
     "mps:longitude":-99.93193,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":142371
     },
     "wof:country":"MX",
-    "wof:geomhash":"80eca02d190cf853b7c2ab740658b3f2",
+    "wof:geomhash":"bf9f888a09ccac0a80ebf0ae76b9961a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992171,
-    "wof:lastmodified":1479931063,
+    "wof:lastmodified":1566632744,
     "wof:name":"San Juan Jalpa Centro",
     "wof:parent_id":102074073,
     "wof:placetype":"locality",

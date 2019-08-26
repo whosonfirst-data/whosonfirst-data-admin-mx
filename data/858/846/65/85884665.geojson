@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6285974.602565,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.2424,20.648229,-105.2424,20.648229",
     "geom:latitude":20.648229,
     "geom:longitude":-105.2424,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.2474,20.643229,-105.2374,20.653229",
     "lbl:latitude":20.648229,
     "lbl:longitude":-105.2424,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.642208,
     "mps:longitude":-105.249685,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Zona Hotelera Nte"
-    ],
-    "name:unk_x_variant":[
         "Zona Hotelera Nte"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,19 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997965,
-        102074595,
-        85686603
+        102074595
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55905655,
-        "qs:id":1155355
+        "qs_pg:id":1155355
     },
     "wof:country":"MX",
     "wof:geomhash":"d2b193d0bcdbf8ce16c33f1d4469bd81",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874583,
+    "wof:lastmodified":1566619635,
     "wof:name":"Zona Hotelera Nte",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

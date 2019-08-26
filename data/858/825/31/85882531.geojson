@@ -10,8 +10,10 @@
     "geom:latitude":20.92339,
     "geom:longitude":-100.740688,
     "iso:country":"MX",
+    "lbl:bbox":"-100.745688,20.91839,-100.735688,20.92839",
     "lbl:latitude":20.92339,
     "lbl:longitude":-100.740688,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.927305,
     "mps:longitude":-100.740836,
     "mz:hierarchy_label":0,
@@ -267,9 +269,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u044f\u0440\u043d\u0435 \u0441\u044f\u0439\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Aurora"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0648\u0627\u0631 \u0642\u0637\u0628\u06cc"
     ],
@@ -311,7 +310,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -323,7 +322,6 @@
     "wof:concordances":{
         "gn:id":4003573,
         "gp:id":55883051,
-        "qs:id":204797,
         "qs_pg:id":204797
     },
     "wof:country":"MX",
@@ -342,7 +340,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147317,
+    "wof:lastmodified":1566619669,
     "wof:name":"Aurora",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

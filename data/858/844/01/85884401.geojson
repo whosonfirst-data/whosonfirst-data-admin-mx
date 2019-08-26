@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4347854.666624,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.223881,19.43963,-99.223881,19.43963",
     "geom:latitude":19.43963,
     "geom:longitude":-99.223881,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.228881,19.43463,-99.218881,19.44463",
     "lbl:latitude":19.43963,
     "lbl:longitude":-99.223881,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.442779,
     "mps:longitude":-99.229457,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Campo Militar Num 1"
-    ],
-    "name:unk_x_variant":[
         "Campo Militar Num 1"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,19 +56,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85686515,
         102191575,
         85633293,
         101991171,
         890535785,
-        102073749
+        102073749,
+        85686515
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903562,
-        "qs:id":225206
+        "qs_pg:id":225206
     },
     "wof:country":"MX",
     "wof:geomhash":"12df521045bad4958180f353a9f33658",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874525,
+    "wof:lastmodified":1566619589,
     "wof:name":"Campo Militar Num 1",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

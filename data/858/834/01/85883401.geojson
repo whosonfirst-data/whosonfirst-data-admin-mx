@@ -11,8 +11,10 @@
     "geom:longitude":-100.753393,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.758393,20.897785,-100.748393,20.907785",
     "lbl:latitude":20.902785,
     "lbl:longitude":-100.753393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.897289,
     "mps:longitude":-100.756621,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Villas de Allende"
-    ],
-    "name:unk_x_variant":[
         "Villas de Allende"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894336,
-        "qs:id":1091864,
         "qs_pg:id":1091864
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619624,
     "wof:name":"Villas de Allende",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

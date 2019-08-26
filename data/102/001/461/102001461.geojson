@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.10259,
     "lbl:longitude":-87.487638,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":21.10259,
     "mps:longitude":-87.487638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0442\u0443\u043d\u0438\u043b\u043a\u0438\u043d"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3822702,
         "gp:id":55890331,
-        "qs:id":1046710,
         "qs_pg:id":1046710,
         "wd:id":"Q1709319",
         "wk:page":"Kantunilk\u00edn"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":102001461,
-    "wof:lastmodified":1563369857,
+    "wof:lastmodified":1566615760,
     "wof:name":"Kantunilk\u00edn",
     "wof:parent_id":102079249,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.621371,
     "lbl:longitude":-103.067844,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.621371,
     "mps:longitude":-103.067844,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Zapotlanejo"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +107,6 @@
         "fct:id":"01b9b498-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3979717,
         "gp:id":151677,
-        "qs:id":895892,
         "qs_pg:id":895892,
         "wd:id":"Q3052268",
         "wk:page":"Zapotlanejo"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397100,
+    "wof:lastmodified":1566632237,
     "wof:name":"Zapotlanejo",
     "wof:parent_id":102074773,
     "wof:placetype":"locality",

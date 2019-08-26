@@ -11,8 +11,10 @@
     "geom:longitude":-90.889618,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-90.894618,16.818734,-90.884618,16.828734",
     "lbl:latitude":16.823734,
     "lbl:longitude":-90.889618,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.824689,
     "mps:longitude":-90.886853,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Nuevo Tila"
-    ],
-    "name:unk_x_variant":[
         "Barrio Nuevo Tila"
     ],
     "qs:gn_id":0,
@@ -54,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686611,
         102191575,
@@ -64,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55918123,
-        "qs:id":1079193
+        "qs_pg:id":1079193
     },
     "wof:country":"MX",
     "wof:geomhash":"46788601b3f3a17af69ecfcdfcbe491f",
@@ -82,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619613,
     "wof:name":"Barrio Nuevo Tila",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

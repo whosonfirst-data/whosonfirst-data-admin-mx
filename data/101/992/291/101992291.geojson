@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000568,
-    "geom:area_square_m":6425394.437259,
+    "geom:area_square_m":6425394.437274,
     "geom:bbox":"-104.000831184,23.7118199565,-103.964677804,23.7474251117",
     "geom:latitude":23.732868,
     "geom:longitude":-103.981194,
@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.735592,
     "lbl:longitude":-103.983939,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":23.735592,
     "mps:longitude":-103.983939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:dan_x_preferred":[
         "Vicente Guerrero"
     ],
@@ -39,7 +42,7 @@
         "Nueva Espa\u00f1a",
         "Vicente Guerrero"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muleros"
     ],
     "qs:a0":"Mexico",
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -73,10 +76,12 @@
         "fct:id":"01d6876c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514738,
         "gp:id":150757,
-        "qs:id":1212844,
         "qs_pg:id":992294,
         "wd:id":"Q10390252",
         "wk:page":"Vicente Guerrero, Durango"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1212844
     },
     "wof:country":"MX",
     "wof:geomhash":"ab197a2fc124c98dcbff3029b746b4f1",
@@ -93,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527688663,
+    "wof:lastmodified":1566632730,
     "wof:name":"Vicente Guerrero",
     "wof:parent_id":102075137,
     "wof:placetype":"locality",

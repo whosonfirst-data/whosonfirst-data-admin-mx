@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
-    "geom:area_square_m":2906521.145302,
+    "geom:area_square_m":2906521.145292,
     "geom:bbox":"-102.30096203,19.7931564449,-102.275857088,19.8128887666",
     "geom:latitude":19.804177,
     "geom:longitude":-102.287382,
     "iso:country":"MX",
     "lbl:latitude":19.805274,
     "lbl:longitude":-102.28825,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.805274,
     "mps:longitude":-102.28825,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55892149
     },
     "wof:country":"MX",
-    "wof:geomhash":"b83381ddec6f1bfc9df29ee28ee8f136",
+    "wof:geomhash":"f775fa4c383c138864d5e4c438ff6ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997373,
-    "wof:lastmodified":1479930078,
+    "wof:lastmodified":1566632504,
     "wof:name":"Patamban (Patambam)",
     "wof:parent_id":102074879,
     "wof:placetype":"locality",

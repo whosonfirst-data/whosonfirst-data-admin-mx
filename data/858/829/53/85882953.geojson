@@ -11,8 +11,10 @@
     "geom:longitude":-99.218499,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.223499,19.561945,-99.213499,19.571945",
     "lbl:latitude":19.566945,
     "lbl:longitude":-99.218499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.565925,
     "mps:longitude":-99.21843,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:tgl_x_preferred":[
         "Arboledas"
     ],
-    "name:unk_x_variant":[
-        "Arboledas"
-    ],
     "name:vie_x_preferred":[
         "Arboledas"
     ],
@@ -94,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -105,8 +104,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882407,
-        "qs:id":975464,
         "qs_pg:id":71215
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":975464
     },
     "wof:country":"MX",
     "wof:geomhash":"fcfbe212a8db9573b59a7013eb15a013",
@@ -124,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147152,
+    "wof:lastmodified":1566619553,
     "wof:name":"Arboledas",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

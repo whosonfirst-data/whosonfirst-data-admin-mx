@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.527807,
     "lbl:longitude":-92.435356,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.527807,
     "mps:longitude":-92.435356,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Amatenango del Valle"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "Amatenango del Valle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amatenango"
     ],
     "qs:a0":"Mexico",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -71,9 +74,11 @@
         "fct:id":"01ae83f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516005,
         "gp:id":112036,
-        "qs:id":95854,
-        "qs_pg:id":148639,
+        "qs_pg:id":95854,
         "wd:id":"Q20210241"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":148639
     },
     "wof:country":"MX",
     "wof:geomhash":"5dadddfe0b917e6debd31df179c5f7b2",
@@ -90,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398260,
+    "wof:lastmodified":1566632843,
     "wof:name":"Amatenango del Valle",
     "wof:parent_id":102075617,
     "wof:placetype":"locality",

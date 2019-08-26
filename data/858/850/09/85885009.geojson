@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10468577.127825,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.992364,19.409748,-96.992364,19.409748",
     "geom:latitude":19.409748,
     "geom:longitude":-96.992364,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.997364,19.404748,-96.987364,19.414748",
     "lbl:latitude":19.409748,
     "lbl:longitude":-96.992364,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.409611,
     "mps:longitude":-96.990589,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "El Haya"
-    ],
-    "name:unk_x_variant":[
         "El Haya"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077583,
-        85686671
+        102077583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55912092,
-        "qs:id":264855,
         "qs_pg:id":264855
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874689,
+    "wof:lastmodified":1566619594,
     "wof:name":"El Haya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

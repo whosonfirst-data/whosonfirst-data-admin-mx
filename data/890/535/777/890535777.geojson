@@ -13,10 +13,12 @@
     "iso:country":"MX",
     "lbl:latitude":19.311346,
     "lbl:longitude":-99.242886,
+    "lbl:max_zoom":13.0,
     "mps:latitude":19.311346,
     "mps:longitude":-99.242886,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Magdalena Contreras"
     ],
@@ -24,9 +26,6 @@
         "Magdalena Contreras"
     ],
     "name:swe_x_preferred":[
-        "Magdalena Contreras"
-    ],
-    "name:unk_x_variant":[
         "Magdalena Contreras"
     ],
     "name:vie_x_preferred":[
@@ -47,7 +46,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85686515,
@@ -62,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3523760,
         "gp:id":55918976,
-        "qs:id":207818,
+        "qs_pg:id":207818,
         "wd:id":"Q20237086"
     },
     "wof:country":"MX",
@@ -86,7 +85,7 @@
         }
     ],
     "wof:id":890535777,
-    "wof:lastmodified":1563400019,
+    "wof:lastmodified":1566633864,
     "wof:name":"La Magdalena Contreras",
     "wof:parent_id":-1,
     "wof:placetype":"borough",

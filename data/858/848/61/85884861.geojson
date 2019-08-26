@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4621444.15988,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.239203,21.529064,-102.239203,21.529064",
     "geom:latitude":21.529064,
     "geom:longitude":-102.239203,
     "iso:country":"MX",
+    "lbl:bbox":"-102.244203,21.524064,-102.234203,21.534064",
     "lbl:latitude":21.529064,
     "lbl:longitude":-102.239203,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.52936,
     "mps:longitude":-102.235588,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "La Villita"
-    ],
-    "name:unk_x_variant":[
         "La Villita"
     ],
     "qs:gn_fcode":"PPL",
@@ -56,19 +55,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101998023,
-        102074725,
-        85686603
+        102074725
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3971775,
         "gp:id":55908962,
-        "qs:id":1182765,
         "qs_pg:id":1182765
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874645,
+    "wof:lastmodified":1566619638,
     "wof:name":"La Villita",
     "wof:parent_id":101998023,
     "wof:placetype":"neighbourhood",

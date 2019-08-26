@@ -10,8 +10,10 @@
     "geom:latitude":21.483211,
     "geom:longitude":-104.879606,
     "iso:country":"MX",
+    "lbl:bbox":"-104.884606,21.478211,-104.874606,21.488211",
     "lbl:latitude":21.483211,
     "lbl:longitude":-104.879606,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.490251,
     "mps:longitude":-104.86565,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "El Molino"
-    ],
-    "name:unk_x_variant":[
         "El Molino"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686591,
         102191575,
@@ -70,8 +69,10 @@
     "wof:concordances":{
         "gn:id":3976183,
         "gp:id":55907962,
-        "qs:id":1002175,
         "qs_pg:id":995553
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1002175
     },
     "wof:country":"MX",
     "wof:geomhash":"3b8cf58757f71aee7ebd4117bb763485",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619631,
     "wof:name":"El Molino",
     "wof:parent_id":101996983,
     "wof:placetype":"neighbourhood",

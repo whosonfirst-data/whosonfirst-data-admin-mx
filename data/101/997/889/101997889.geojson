@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":1182009.004773,
+    "geom:area_square_m":1182009.004772,
     "geom:bbox":"-103.030955045,20.3320320227,-103.008099501,20.339988471",
     "geom:latitude":20.33553,
     "geom:longitude":-103.018997,
     "iso:country":"MX",
     "lbl:latitude":20.336403,
     "lbl:longitude":-103.020123,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.336403,
     "mps:longitude":-103.020123,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,6 @@
     "wof:concordances":{
         "gn:id":3996039,
         "gp:id":133503,
-        "qs:id":1155869,
         "qs_pg:id":1155869
     },
     "wof:country":"MX",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101997889,
-    "wof:lastmodified":1497298459,
+    "wof:lastmodified":1566632444,
     "wof:name":"Mezcala",
     "wof:parent_id":102074829,
     "wof:placetype":"locality",

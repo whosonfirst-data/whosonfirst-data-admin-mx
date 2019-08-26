@@ -11,8 +11,10 @@
     "geom:longitude":-96.141308,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.146308,19.203597,-96.136308,19.213597",
     "lbl:latitude":19.208597,
     "lbl:longitude":-96.141308,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.211512,
     "mps:longitude":-96.149514,
     "mz:hierarchy_label":0,
@@ -90,9 +92,6 @@
     "name:swe_x_preferred":[
         "Manuel Contreras"
     ],
-    "name:unk_x_variant":[
-        "Manuel Contreras"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3514783,
@@ -121,7 +120,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1631,
     "wof:belongsto":[
         85686671,
@@ -133,7 +132,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55886583,
-        "qs:id":269056,
         "qs_pg:id":269056,
         "wd:id":"Q929085"
     },
@@ -153,7 +151,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375333,
+    "wof:lastmodified":1566619549,
     "wof:name":"Manuel Contreras",
     "wof:parent_id":101998843,
     "wof:placetype":"neighbourhood",

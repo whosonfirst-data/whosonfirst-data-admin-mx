@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.98268,
     "lbl:longitude":-102.34706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.98268,
     "mps:longitude":-102.34706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Playa Azul"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":4026072,
         "gp:id":136966,
-        "qs:id":1047678,
         "qs_pg:id":1047678,
         "wd:id":"Q6078297"
     },
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101997065,
-    "wof:lastmodified":1563397514,
+    "wof:lastmodified":1566632451,
     "wof:name":"Playa Azul",
     "wof:parent_id":102074881,
     "wof:placetype":"locality",

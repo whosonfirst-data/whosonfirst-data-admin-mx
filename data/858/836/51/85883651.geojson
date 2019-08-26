@@ -11,8 +11,10 @@
     "geom:longitude":-115.452576,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-115.457576,32.641313,-115.447576,32.651313",
     "lbl:latitude":32.646313,
     "lbl:longitude":-115.452576,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.646313,
     "mps:longitude":-115.452576,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Cantu"
-    ],
-    "name:unk_x_variant":[
         "Cantu"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897663,
-        "qs:id":776026
+        "qs_pg:id":776026
     },
     "wof:country":"MX",
     "wof:geomhash":"73216ad941466459bdd381b4d6656849",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957715,
+    "wof:lastmodified":1566619685,
     "wof:name":"Cantu",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
-    "geom:area_square_m":2050760.767481,
+    "geom:area_square_m":2050760.767503,
     "geom:bbox":"-99.0875625488,26.3761983141,-99.0674016438,26.3964783732",
     "geom:latitude":26.388357,
     "geom:longitude":-99.078179,
@@ -14,13 +14,17 @@
     "iso:country":"MX",
     "lbl:latitude":26.392273,
     "lbl:longitude":-99.07917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.392273,
     "mps:longitude":-99.07917,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Guerra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Los Guerras"
     ],
     "qs:a0":"Mexico",
@@ -38,7 +42,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":102000983,
-    "wof:lastmodified":1501267453,
+    "wof:lastmodified":1566615681,
     "wof:name":"Los Guerra",
     "wof:parent_id":102078969,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4886141.331236,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.241328,19.021615,-98.241328,19.021615",
     "geom:latitude":19.021615,
     "geom:longitude":-98.241328,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.246328,19.016615,-98.236328,19.026615",
     "lbl:latitude":19.021615,
     "lbl:longitude":-98.241328,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.026339,
     "mps:longitude":-98.242761,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Momosa"
-    ],
-    "name:unk_x_variant":[
         "Momosa"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999639,
-        102078237,
-        85686657
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889862,
-        "qs:id":474698,
         "qs_pg:id":474698
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874213,
+    "wof:lastmodified":1566619702,
     "wof:name":"Momosa",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

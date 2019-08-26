@@ -11,8 +11,10 @@
     "geom:longitude":-100.996138,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.001138,25.429416,-100.991138,25.439416",
     "lbl:latitude":25.434416,
     "lbl:longitude":-100.996138,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.434818,
     "mps:longitude":-100.997425,
     "mz:hierarchy_label":0,
@@ -69,9 +71,6 @@
     "name:swe_x_preferred":[
         "Republica"
     ],
-    "name:unk_x_variant":[
-        "Republica"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3988086,
@@ -98,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1284,
     "wof:belongsto":[
         85686689,
@@ -110,7 +109,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899740,
-        "qs:id":991449,
         "qs_pg:id":991449,
         "wd:id":"Q2139991"
     },
@@ -130,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375503,
+    "wof:lastmodified":1566619662,
     "wof:name":"Republica",
     "wof:parent_id":102000871,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.965896,
     "lbl:longitude":-97.864616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.965896,
     "mps:longitude":-97.864616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chila"
     ],
@@ -28,7 +31,7 @@
     "name:swe_x_preferred":[
         "Chila"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chila de las Flores"
     ],
     "name:vie_x_preferred":[
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":3801163,
         "gp:id":115979,
-        "qs:id":907549,
         "qs_pg:id":907549
     },
     "wof:country":"MX",
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101999429,
-    "wof:lastmodified":1564171323,
+    "wof:lastmodified":1566632565,
     "wof:name":"Chila",
     "wof:parent_id":102078111,
     "wof:placetype":"locality",

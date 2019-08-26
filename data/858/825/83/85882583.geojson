@@ -11,8 +11,10 @@
     "geom:longitude":-101.181335,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.186335,20.594365,-101.176335,20.604365",
     "lbl:latitude":20.599365,
     "lbl:longitude":-101.181335,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.599365,
     "mps:longitude":-101.181335,
     "mz:hierarchy_label":0,
@@ -84,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Primavera"
-    ],
     "name:vol_x_preferred":[
         "Primavera"
     ],
@@ -118,7 +117,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -129,8 +128,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899269,
-        "qs:id":1112943,
         "qs_pg:id":907534
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1112943
     },
     "wof:country":"MX",
     "wof:geomhash":"e9416bc76280f41eabd0444ba1eb6488",
@@ -148,7 +149,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147319,
+    "wof:lastmodified":1566619670,
     "wof:name":"Primavera",
     "wof:parent_id":101996705,
     "wof:placetype":"neighbourhood",

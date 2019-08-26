@@ -11,8 +11,10 @@
     "geom:longitude":-109.57489,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.57989,31.327525,-109.56989,31.337525",
     "lbl:latitude":31.332525,
     "lbl:longitude":-109.57489,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.332889,
     "mps:longitude":-109.578459,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Ferrocarril"
-    ],
-    "name:unk_x_variant":[
         "Ferrocarril"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686549,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55912953,
-        "qs:id":475865,
         "qs_pg:id":475865
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619595,
     "wof:name":"Ferrocarril",
     "wof:parent_id":101993867,
     "wof:placetype":"neighbourhood",

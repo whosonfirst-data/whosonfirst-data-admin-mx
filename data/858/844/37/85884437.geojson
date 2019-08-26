@@ -11,8 +11,10 @@
     "geom:longitude":-103.425522,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.430522,20.625,-103.420522,20.635",
     "lbl:latitude":20.63,
     "lbl:longitude":-103.425522,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.625846,
     "mps:longitude":-103.428705,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:spa_x_preferred":[
         "Res Arboledas",
         "Jos\u00e9 Ram\u00f3n Pin Arboledas"
-    ],
-    "name:unk_x_variant":[
-        "Res Arboledas"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -76,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903796,
-        "qs:id":1136687,
         "qs_pg:id":1136687
     },
     "wof:country":"MX",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957719,
+    "wof:lastmodified":1566619589,
     "wof:name":"Res Arboledas",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

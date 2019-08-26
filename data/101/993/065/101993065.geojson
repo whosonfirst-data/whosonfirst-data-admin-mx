@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.456726,
     "lbl:longitude":-100.619371,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.456726,
     "mps:longitude":-100.619371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Apaseo el Alto"
     ],
@@ -56,9 +59,6 @@
     "name:swe_x_preferred":[
         "Apaseo el Alto"
     ],
-    "name:unk_x_variant":[
-        "Apaseo"
-    ],
     "name:vec_x_preferred":[
         "Apaseo el Alto"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -98,7 +98,6 @@
         "fct:id":"01b7de0c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4018404,
         "gp:id":112238,
-        "qs:id":469605,
         "qs_pg:id":469605,
         "wd:id":"Q2651599",
         "wk:page":"Apaseo el Alto"
@@ -118,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398109,
+    "wof:lastmodified":1566632765,
     "wof:name":"Apaseo el Alto",
     "wof:parent_id":102077291,
     "wof:placetype":"locality",

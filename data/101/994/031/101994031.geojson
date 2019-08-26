@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.930078,
     "lbl:longitude":-109.930511,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":22.930078,
     "mps:longitude":-109.930511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Colonia del Sol"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":22.9125,
     "wd:longitude":-109.920833,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101994031,
-    "wof:lastmodified":1561750613,
+    "wof:lastmodified":1566632851,
     "wof:name":"Colonia del Sol",
     "wof:parent_id":102074525,
     "wof:placetype":"locality",

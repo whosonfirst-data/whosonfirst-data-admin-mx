@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13539128.42718,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.293099,20.688715,-105.293099,20.688715",
     "geom:latitude":20.688715,
     "geom:longitude":-105.293099,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.298099,20.683715,-105.288099,20.693715",
     "lbl:latitude":20.688715,
     "lbl:longitude":-105.293099,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.686553,
     "mps:longitude":-105.294451,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Ejido Las Jarretaderas"
-    ],
-    "name:unk_x_variant":[
         "Ejido Las Jarretaderas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686591,
         102191575,
         85633293,
-        102074583,
-        85686591
+        102074583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910151,
-        "qs:id":1343449
+        "qs_pg:id":1343449
     },
     "wof:country":"MX",
     "wof:geomhash":"5746b3faf29641b797db84a2a002e176",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874670,
+    "wof:lastmodified":1566619651,
     "wof:name":"Ejido Las Jarretaderas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

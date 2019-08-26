@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6758709.084648,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.593507,21.022229,-89.593507,21.022229",
     "geom:latitude":21.022229,
     "geom:longitude":-89.593507,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-89.598507,21.017229,-89.588507,21.027229",
     "lbl:latitude":21.022229,
     "lbl:longitude":-89.593507,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.022105,
     "mps:longitude":-89.590832,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Priv Monterreal Plus"
-    ],
-    "name:unk_x_variant":[
         "Priv Monterreal Plus"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686701,
         102191575,
         85633293,
         102001097,
-        102078971,
-        85686701
+        102078971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894538,
-        "qs:id":1341371,
         "qs_pg:id":1341371
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874324,
+    "wof:lastmodified":1566619623,
     "wof:name":"Priv Monterreal Plus",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-103.41353,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.41853,20.703786,-103.40853,20.713786",
     "lbl:latitude":20.708786,
     "lbl:longitude":-103.41353,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.704516,
     "mps:longitude":-103.416906,
     "mz:hierarchy_label":0,
@@ -72,9 +74,6 @@
     "name:tgl_x_preferred":[
         "San Bernardo"
     ],
-    "name:unk_x_variant":[
-        "San Bernardo"
-    ],
     "name:vie_x_preferred":[
         "San Bernardo"
     ],
@@ -109,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -120,7 +119,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55909988,
-        "qs:id":1115852,
         "qs_pg:id":1115852
     },
     "wof:country":"MX",
@@ -139,7 +137,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147292,
+    "wof:lastmodified":1566619654,
     "wof:name":"San Bernardo",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

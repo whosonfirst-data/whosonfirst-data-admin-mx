@@ -11,8 +11,10 @@
     "geom:longitude":-99.232178,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.237178,18.929,-99.227178,18.939",
     "lbl:latitude":18.934,
     "lbl:longitude":-99.232178,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.939549,
     "mps:longitude":-99.230381,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Lomas de la Selva"
-    ],
-    "name:unk_x_variant":[
         "Lomas de la Selva"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686531,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890346,
-        "qs:id":903283,
         "qs_pg:id":903283
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619703,
     "wof:name":"Lomas de la Selva",
     "wof:parent_id":101993267,
     "wof:placetype":"neighbourhood",

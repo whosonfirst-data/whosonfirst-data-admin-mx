@@ -9,14 +9,17 @@
     "geom:bbox":"-97.41446,18.58805,-97.41446,18.58805",
     "geom:latitude":18.58805,
     "geom:longitude":-97.41446,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-97.41946,18.58305,-97.40946,18.59305",
     "lbl:latitude":18.58805,
     "lbl:longitude":-97.41446,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Francisco I. Madero"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55907447,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999389,
-        102078093,
-        85686657
+        102078093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126090663,
-    "wof:lastmodified":1509411629,
+    "wof:lastmodified":1566634296,
     "wof:name":"Francisco I Madero",
     "wof:parent_id":101999389,
     "wof:placetype":"neighbourhood",

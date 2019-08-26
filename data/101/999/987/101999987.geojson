@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":2793706.968211,
+    "geom:area_square_m":2793706.968213,
     "geom:bbox":"-97.8640990437,18.8457349774,-97.8427761693,18.8651044642",
     "geom:latitude":18.854864,
     "geom:longitude":-97.853847,
     "iso:country":"MX",
     "lbl:latitude":18.855186,
     "lbl:longitude":-97.85401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.855186,
     "mps:longitude":-97.85401,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ometepec"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101999987,
-    "wof:lastmodified":1501267416,
+    "wof:lastmodified":1566632582,
     "wof:name":"San Lorenzo Ometepec",
     "wof:parent_id":102078401,
     "wof:placetype":"locality",

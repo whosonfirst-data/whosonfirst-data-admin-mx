@@ -24,8 +24,12 @@
     "gn:population":1,
     "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-106.78152,30.24314,-106.74152,30.28314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":3975566
     },
     "wof:country":"MX",
-    "wof:geomhash":"14aa9bab07798907b49c18a141de37b8",
+    "wof:geomhash":"1ec932444c70716c16755f9c7b4277d7",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209312255,
-    "wof:lastmodified":1536290986,
+    "wof:lastmodified":1566625186,
     "wof:name":"El Sacrificio",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -106.76152,
-    30.263140000000003,
+    30.26314,
     -106.76152,
-    30.263140000000003
+    30.26314
 ],
   "geometry": {"coordinates":[-106.76152,30.26314],"type":"Point"}
 }

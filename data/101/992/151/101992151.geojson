@@ -9,14 +9,17 @@
     "geom:bbox":"-100.012187078,19.0126244502,-100.001616095,19.0285536033",
     "geom:latitude":19.021613,
     "geom:longitude":-100.006668,
-    "geonames:id":"3984772,4026527",
+    "gn:id":"3984772,4026527",
     "iso:country":"MX",
     "lbl:latitude":19.020997,
     "lbl:longitude":-100.006584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.020997,
     "mps:longitude":-100.006584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "San Sim\u00f3n de Guerrero"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101992151,
-    "wof:lastmodified":1563397953,
+    "wof:lastmodified":1566632678,
     "wof:name":"San Sim\u00f3n de Guerrero",
     "wof:parent_id":102074069,
     "wof:placetype":"locality",

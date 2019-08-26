@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.595121,
     "lbl:longitude":-98.845659,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.595121,
     "mps:longitude":-98.845659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Tepalcingo"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "Tepalcingo"
     ],
-    "name:unk_x_variant":[
-        "Tepaltzingo"
-    ],
     "name:vie_x_preferred":[
         "Tepalcingo"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -93,7 +93,6 @@
         "fct:id":"01b97514-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515921,
         "gp:id":148843,
-        "qs:id":247234,
         "qs_pg:id":247234,
         "wd:id":"Q3310718"
     },
@@ -112,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398165,
+    "wof:lastmodified":1566632795,
     "wof:name":"Tepalcingo",
     "wof:parent_id":102074297,
     "wof:placetype":"locality",

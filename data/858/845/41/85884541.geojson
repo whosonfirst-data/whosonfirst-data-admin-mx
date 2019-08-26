@@ -11,8 +11,10 @@
     "geom:longitude":-103.369982,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.374982,20.700268,-103.364982,20.710268",
     "lbl:latitude":20.705268,
     "lbl:longitude":-103.369982,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.702125,
     "mps:longitude":-103.366868,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
         "Country Club",
         "Club de campo"
     ],
-    "name:unk_x_variant":[
-        "Country Club"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":4005539,
@@ -80,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -91,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904201,
-        "qs:id":1155343,
         "qs_pg:id":1155343
     },
     "wof:country":"MX",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957721,
+    "wof:lastmodified":1566619559,
     "wof:name":"Country Club",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

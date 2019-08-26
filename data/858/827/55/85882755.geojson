@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10653482.43715,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.799596,16.778369,-99.799596,16.778369",
     "geom:latitude":16.778369,
     "geom:longitude":-99.799596,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.804596,16.773369,-99.794596,16.783369",
     "lbl:latitude":16.778369,
     "lbl:longitude":-99.799596,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.778544,
     "mps:longitude":-99.794412,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Copacabana"
-    ],
-    "name:unk_x_variant":[
         "Fracc Copacabana"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
         101991509,
-        102073945,
-        85686517
+        102073945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55886358,
-        "qs:id":508441,
         "qs_pg:id":508441
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874113,
+    "wof:lastmodified":1566619548,
     "wof:name":"Fracc Copacabana",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

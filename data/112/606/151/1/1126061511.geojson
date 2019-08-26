@@ -9,14 +9,17 @@
     "geom:bbox":"-97.06521,18.8725,-97.06521,18.8725",
     "geom:latitude":18.8725,
     "geom:longitude":-97.06521,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-97.07021,18.8675,-97.06021,18.8775",
     "lbl:latitude":18.8725,
     "lbl:longitude":-97.06521,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Potrerillo"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55911641,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998421,
-        102077567,
-        85686671
+        102077567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126061511,
-    "wof:lastmodified":1509410217,
+    "wof:lastmodified":1566634128,
     "wof:name":"Potrerillo",
     "wof:parent_id":101998421,
     "wof:placetype":"neighbourhood",

@@ -9,16 +9,19 @@
     "geom:bbox":"-97.40103,17.87778,-97.40103,17.87778",
     "geom:latitude":17.87778,
     "geom:longitude":-97.40103,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-97.40603,17.87278,-97.39603,17.88278",
     "lbl:latitude":17.87778,
     "lbl:longitude":-97.40103,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concepci\u00f3n"
     ],
     "qs_pg:aaroncc":"MX",
@@ -38,17 +41,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55895629,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101995027,
-        102076145,
-        85686623
+        102076145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1126103601,
-    "wof:lastmodified":1509412252,
+    "wof:lastmodified":1566633929,
     "wof:name":"Concepcion",
     "wof:parent_id":101995027,
     "wof:placetype":"neighbourhood",

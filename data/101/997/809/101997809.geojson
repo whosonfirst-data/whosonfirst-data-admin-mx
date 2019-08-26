@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":2742773.572456,
+    "geom:area_square_m":2742773.572444,
     "geom:bbox":"-102.579964152,20.6647758926,-102.55634895,20.6844182438",
     "geom:latitude":20.673359,
     "geom:longitude":-102.569484,
@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.672812,
     "lbl:longitude":-102.572257,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.672812,
     "mps:longitude":-102.572257,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:hbs_x_preferred":[
         "San Jos\u00e9 de Gracia"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":756,
     "wof:belongsto":[
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":3986228,
         "gp:id":143483,
-        "qs:id":1191569,
         "qs_pg:id":1191569,
         "wd:id":"Q7414503",
         "wk:page":"San Jose de Gracia, Jalisco"
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101997809,
-    "wof:lastmodified":1527642070,
+    "wof:lastmodified":1566632493,
     "wof:name":"San Jos\u00e9 de Gracia",
     "wof:parent_id":102074723,
     "wof:placetype":"locality",

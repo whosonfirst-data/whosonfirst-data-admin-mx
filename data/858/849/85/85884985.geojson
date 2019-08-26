@@ -11,8 +11,10 @@
     "geom:longitude":-99.518404,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.523404,27.477663,-99.513404,27.487663",
     "lbl:latitude":27.482663,
     "lbl:longitude":-99.518404,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.485362,
     "mps:longitude":-99.523557,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Nuevo Laredo Centro"
-    ],
-    "name:unk_x_variant":[
         "Nuevo Laredo Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -70,8 +69,10 @@
     "wof:concordances":{
         "gn:id":3525081,
         "gp:id":55882546,
-        "qs:id":1294863,
         "qs_pg:id":1068857
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294863
     },
     "wof:country":"MX",
     "wof:geomhash":"f336a717686fd8d92efb254f1f1eda6f",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619654,
     "wof:name":"Nuevo Laredo Centro",
     "wof:parent_id":102000965,
     "wof:placetype":"neighbourhood",

@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":618575.373627,
+    "geom:area_square_m":618575.373631,
     "geom:bbox":"-101.457016385,20.9723936931,-101.446872388,20.9854780609",
     "geom:latitude":20.97928,
     "geom:longitude":-101.452048,
     "iso:country":"MX",
     "lbl:latitude":20.980241,
     "lbl:longitude":-101.453815,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.980241,
     "mps:longitude":-101.453815,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Monte del Coecillo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monte de Coecillo"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101996783,
-    "wof:lastmodified":1501269610,
+    "wof:lastmodified":1566632389,
     "wof:name":"Coecillo",
     "wof:parent_id":102077327,
     "wof:placetype":"locality",

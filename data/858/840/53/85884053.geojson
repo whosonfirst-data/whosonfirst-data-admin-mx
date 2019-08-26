@@ -11,8 +11,10 @@
     "geom:longitude":-100.352783,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.357783,25.692226,-100.347783,25.702226",
     "lbl:latitude":25.697226,
     "lbl:longitude":-100.352783,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.695091,
     "mps:longitude":-100.349382,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Leones"
     ],
     "name:swe_x_preferred":[
-        "Leones"
-    ],
-    "name:unk_x_variant":[
         "Leones"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686681,
         102191575,
@@ -78,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899581,
-        "qs:id":1342117,
         "qs_pg:id":1342117
     },
     "wof:country":"MX",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147305,
+    "wof:lastmodified":1566619664,
     "wof:name":"Leones",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

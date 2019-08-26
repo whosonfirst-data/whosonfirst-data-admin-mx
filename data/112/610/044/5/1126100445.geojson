@@ -9,14 +9,17 @@
     "geom:bbox":"-91.77085,17.4429,-91.77085,17.4429",
     "geom:latitude":17.4429,
     "geom:longitude":-91.77085,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-91.77585,17.4379,-91.76585,17.4479",
     "lbl:latitude":17.4429,
     "lbl:longitude":-91.77085,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "La Primavera"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55919349,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Chiapas",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
-        102075717,
-        85686611
+        102075717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126100445,
-    "wof:lastmodified":1509412091,
+    "wof:lastmodified":1566633939,
     "wof:name":"La Primavera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

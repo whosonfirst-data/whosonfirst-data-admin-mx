@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.057723,
     "lbl:longitude":-104.050503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.057723,
     "mps:longitude":-104.050503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Hostotipaquillo"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,6 @@
         "fct:id":"01aeaea4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4004738,
         "gp:id":124960,
-        "qs:id":1235109,
         "qs_pg:id":1235109,
         "wd:id":"Q3141042"
     },
@@ -117,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397568,
+    "wof:lastmodified":1566632479,
     "wof:name":"Hostotipaquillo",
     "wof:parent_id":102074641,
     "wof:placetype":"locality",

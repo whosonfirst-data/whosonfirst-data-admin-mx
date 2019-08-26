@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.798888,
     "lbl:longitude":-100.738935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":21.798888,
     "mps:longitude":-100.738935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Santa Mar\u00eda del R\u00edo"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "Santa Mar\u00eda del R\u00edo"
     ],
-    "name:unk_x_variant":[
-        "Rio"
-    ],
     "name:vec_x_preferred":[
         "Santa Mar\u00eda del R\u00edo"
     ],
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -114,7 +114,6 @@
         "fct:id":"01b944b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3984074,
         "gp:id":146507,
-        "qs:id":943671,
         "qs_pg:id":943671,
         "wd:id":"Q3846862",
         "wk:page":"Santa Mar\u00eda del R\u00edo, San Luis Potos\u00ed"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398164,
+    "wof:lastmodified":1566632795,
     "wof:name":"Santa Mar\u00eda del R\u00edo",
     "wof:parent_id":102077185,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1578505.185398,
+    "geom:area_square_m":1578505.185397,
     "geom:bbox":"-100.453781855,20.5897617147,-100.442294029,20.6043196661",
     "geom:latitude":20.597035,
     "geom:longitude":-100.447914,
     "iso:country":"MX",
     "lbl:latitude":20.596044,
     "lbl:longitude":-100.448024,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.596044,
     "mps:longitude":-100.448024,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Maria Magdalena"
     ],
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,7 +54,6 @@
         "fct:id":"01b9fa66-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4029456,
         "gp:id":55887920,
-        "qs:id":1062031,
         "qs_pg:id":1062031
     },
     "wof:country":"MX",
@@ -68,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497303162,
+    "wof:lastmodified":1566632399,
     "wof:name":"Santa Mar\u00eda Magdalena",
     "wof:parent_id":102077111,
     "wof:placetype":"locality",

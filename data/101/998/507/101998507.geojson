@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.030622,
     "lbl:longitude":-96.136286,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.030622,
     "mps:longitude":-96.136286,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b8\u09cb \u09a6\u09c7\u09b2 \u09a4\u09cb\u09b0\u09cb"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3521830,
         "gp:id":136184,
-        "qs:id":1224104,
         "qs_pg:id":1224104,
         "wd:id":"Q20271245"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101998507,
-    "wof:lastmodified":1563397147,
+    "wof:lastmodified":1566632259,
     "wof:name":"Paso del Toro",
     "wof:parent_id":102077609,
     "wof:placetype":"locality",

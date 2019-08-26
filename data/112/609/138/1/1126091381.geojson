@@ -9,14 +9,17 @@
     "geom:bbox":"-110.26514,29.74917,-110.26514,29.74917",
     "geom:latitude":29.74917,
     "geom:longitude":-110.26514,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-110.27014,29.74417,-110.26014,29.75417",
     "lbl:latitude":29.74917,
     "lbl:longitude":-110.26514,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Alameda"
@@ -78,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0430\u043c\u0435\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alamedita"
     ],
     "qs_pg:aaroncc":"MX",
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55895651,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Sonora",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1126091381,
-    "wof:lastmodified":1564174040,
+    "wof:lastmodified":1566634285,
     "wof:name":"Alameda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

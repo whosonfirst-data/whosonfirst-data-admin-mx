@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.746152,
     "lbl:longitude":-96.783431,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.746152,
     "mps:longitude":-96.783431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Omealca"
     ],
@@ -56,9 +59,6 @@
     "name:swe_x_preferred":[
         "Omealca"
     ],
-    "name:unk_x_variant":[
-        "Omealco"
-    ],
     "name:vie_x_preferred":[
         "Omealca"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -92,7 +92,6 @@
         "fct:id":"01b8c84e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522347,
         "gp:id":135269,
-        "qs:id":760920,
         "qs_pg:id":760920,
         "wd:id":"Q3846876",
         "wk:page":"Omealca, Veracruz"
@@ -112,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397193,
+    "wof:lastmodified":1566632283,
     "wof:name":"Omealca",
     "wof:parent_id":102077637,
     "wof:placetype":"locality",

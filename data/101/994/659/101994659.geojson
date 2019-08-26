@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":14.992802,
     "lbl:longitude":-92.16508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":14.992802,
     "mps:longitude":-92.16508,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Cacahoat\u00e1n"
     ],
@@ -42,9 +45,6 @@
     "name:swe_x_preferred":[
         "Cacahoat\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Cacahuat\u00e1n"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -75,7 +75,6 @@
         "fct:id":"01b7f982-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531904,
         "gp:id":113997,
-        "qs:id":1222380,
         "qs_pg:id":1222380,
         "wd:id":"Q20254830"
     },
@@ -94,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398282,
+    "wof:lastmodified":1566632855,
     "wof:name":"Cacahoat\u00e1n",
     "wof:parent_id":102075605,
     "wof:placetype":"locality",

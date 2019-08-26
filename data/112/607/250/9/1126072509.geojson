@@ -9,19 +9,22 @@
     "geom:bbox":"-98.30909,19.44621,-98.30909,19.44621",
     "geom:latitude":19.44621,
     "geom:longitude":-98.30909,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.31409,19.44121,-98.30409,19.45121",
     "lbl:latitude":19.44621,
     "lbl:longitude":-98.30909,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Manuel Tlalpan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Manuel"
     ],
     "qs_pg:aaroncc":"MX",
@@ -41,16 +44,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55885823,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686653,
         102191575,
         85633293,
-        102077949,
-        85686653
+        102077949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1126072509,
-    "wof:lastmodified":1509410750,
+    "wof:lastmodified":1566634214,
     "wof:name":"San Angel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

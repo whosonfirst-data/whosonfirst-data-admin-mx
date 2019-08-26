@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3804954.17511,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.047768,19.429003,-102.047768,19.429003",
     "geom:latitude":19.429003,
     "geom:longitude":-102.047768,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.052768,19.424003,-102.042768,19.434003",
     "lbl:latitude":19.429003,
     "lbl:longitude":-102.047768,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.430009,
     "mps:longitude":-102.044627,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Espinoza"
-    ],
-    "name:unk_x_variant":[
         "Fracc Espinoza"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997187,
-        102074973,
-        85686595
+        102074973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893919,
-        "qs:id":474901,
         "qs_pg:id":474901
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874304,
+    "wof:lastmodified":1566619615,
     "wof:name":"Fracc Espinoza",
     "wof:parent_id":101997187,
     "wof:placetype":"neighbourhood",

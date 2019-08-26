@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.554626,
     "lbl:longitude":-99.608924,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":19.554626,
     "mps:longitude":-99.608924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Jiquipilco"
     ],
@@ -81,9 +84,6 @@
     "name:swe_x_preferred":[
         "Jiquipilco"
     ],
-    "name:unk_x_variant":[
-        "San Juan Jiquipilco"
-    ],
     "name:vie_x_preferred":[
         "Jiquipilco"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -117,7 +117,6 @@
         "fct:id":"01b8759c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526487,
         "gp:id":125936,
-        "qs:id":908623,
         "qs_pg:id":908623,
         "wd:id":"Q3300374",
         "wk:page":"Jiquipilco"
@@ -137,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397938,
+    "wof:lastmodified":1566632670,
     "wof:name":"Jiquipilco",
     "wof:parent_id":102074127,
     "wof:placetype":"locality",

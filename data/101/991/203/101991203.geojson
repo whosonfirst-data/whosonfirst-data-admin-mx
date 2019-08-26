@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.036461,
     "lbl:longitude":-99.039823,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.036461,
     "mps:longitude":-99.039823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Copalillo"
     ],
@@ -68,7 +71,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -81,7 +84,7 @@
         "fct:id":"01b82574-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530259,
         "gp:id":55914360,
-        "qs:id":532829,
+        "qs_pg:id":532829,
         "wd:id":"Q3311281",
         "wk:page":"Copalillo"
     },
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397242,
+    "wof:lastmodified":1566632311,
     "wof:name":"Copalillo",
     "wof:parent_id":102073829,
     "wof:placetype":"locality",

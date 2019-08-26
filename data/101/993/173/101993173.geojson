@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
-    "geom:area_square_m":503257.241586,
+    "geom:area_square_m":503257.241583,
     "geom:bbox":"-99.7446358289,19.3645351878,-99.7366336195,19.3740614925",
     "geom:latitude":19.369884,
     "geom:longitude":-99.740922,
     "iso:country":"MX",
     "lbl:latitude":19.370734,
     "lbl:longitude":-99.741258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.370734,
     "mps:longitude":-99.741258,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90275472
     },
     "wof:country":"MX",
-    "wof:geomhash":"774b49e7213f39ca4d0031deb2af5441",
+    "wof:geomhash":"6a605f68d00702d7c0a30e38d2cec2d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993173,
-    "wof:lastmodified":1479930413,
+    "wof:lastmodified":1566632776,
     "wof:name":"Fraccionamiento Colinas del Sol",
     "wof:parent_id":102074219,
     "wof:placetype":"locality",

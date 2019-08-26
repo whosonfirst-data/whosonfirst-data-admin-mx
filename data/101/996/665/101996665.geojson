@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":1101184.868716,
+    "geom:area_square_m":1101184.868715,
     "geom:bbox":"-101.641548572,21.0493293181,-101.628796884,21.0597848879",
     "geom:latitude":21.055505,
     "geom:longitude":-101.635161,
     "iso:country":"MX",
     "lbl:latitude":21.056233,
     "lbl:longitude":-101.635161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.056233,
     "mps:longitude":-101.635161,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Juan de Abajo"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":4023244,
         "gp:id":55896705,
-        "qs:id":1014713
+        "qs_pg:id":1014713
     },
     "wof:country":"MX",
     "wof:geomhash":"b496a42c3db5ca359e7cb1c05800f0e2",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101996665,
-    "wof:lastmodified":1501269610,
+    "wof:lastmodified":1566632416,
     "wof:name":"San Juan de Abajo",
     "wof:parent_id":102077349,
     "wof:placetype":"locality",

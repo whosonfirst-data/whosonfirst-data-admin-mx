@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.431297,
     "lbl:longitude":-95.732972,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.431297,
     "mps:longitude":-95.732972,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043c\u0430\u0442\u0438\u0442\u043b\u0430\u043d"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Amatitl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amatlan"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +85,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101998147,
-    "wof:lastmodified":1564171185,
+    "wof:lastmodified":1566632289,
     "wof:name":"Amatitl\u00e1n",
     "wof:parent_id":102077409,
     "wof:placetype":"locality",

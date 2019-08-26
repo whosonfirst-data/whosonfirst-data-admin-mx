@@ -5,19 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2533137.51179,
+    "geom:area_square_m":2533137.511803,
     "geom:bbox":"-98.3050293668,20.0324770353,-98.2793297403,20.0477595736",
     "geom:latitude":20.040233,
     "geom:longitude":-98.29381,
-    "geonames:id":"3522793,3814303",
+    "gn:id":"3522793,3814303",
     "iso:country":"MX",
     "lbl:latitude":20.040641,
     "lbl:longitude":-98.293998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.040641,
     "mps:longitude":-98.293998,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Nat\u00edvitas"
     ],
     "qs:a0":"Mexico",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102000559,
-    "wof:lastmodified":1507750817,
+    "wof:lastmodified":1566615656,
     "wof:name":"Santa Mar\u00eda Nativitas",
     "wof:parent_id":102078491,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7906390.742582,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.000374,22.132031,-101.000374,22.132031",
     "geom:latitude":22.132031,
     "geom:longitude":-101.000374,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.005374,22.127031,-100.995374,22.137031",
     "lbl:latitude":22.132031,
     "lbl:longitude":-101.000374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.133987,
     "mps:longitude":-100.995819,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Prados de San Luis"
-    ],
-    "name:unk_x_variant":[
         "Prados de San Luis"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996483,
-        102077193,
-        85686647
+        102077193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897132,
-        "qs:id":1341728,
         "qs_pg:id":1341728
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874384,
+    "wof:lastmodified":1566619688,
     "wof:name":"Prados de San Luis",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

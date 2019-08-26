@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.464808,
     "lbl:longitude":-97.276856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.464808,
     "mps:longitude":-97.276856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Andr\u00e9s Sinaxtla"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "San Andr\u00e9s Sinaxtla"
     ],
-    "name:unk_x_variant":[
-        "Sinaxtla"
-    ],
     "name:vie_x_preferred":[
         "San Andr\u00e9s Sinaxtla"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -102,7 +102,6 @@
         "fct:id":"01af6b3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519916,
         "gp:id":141465,
-        "qs:id":1238946,
         "qs_pg:id":1238946,
         "wd:id":"Q3889141",
         "wk:page":"San Andr\u00e9s Sinaxtla"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397788,
+    "wof:lastmodified":1566632601,
     "wof:name":"San Andr\u00e9s Sinaxtla",
     "wof:parent_id":102076129,
     "wof:placetype":"locality",

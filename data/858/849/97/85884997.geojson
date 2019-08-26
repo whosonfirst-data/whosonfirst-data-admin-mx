@@ -10,8 +10,10 @@
     "geom:latitude":20.912701,
     "geom:longitude":-97.676697,
     "iso:country":"MX",
+    "lbl:bbox":"-97.681697,20.907701,-97.671697,20.917701",
     "lbl:latitude":20.912701,
     "lbl:longitude":-97.676697,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.9127,
     "mps:longitude":-97.676697,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Vista Hermosa de Madero"
     ],
     "name:swe_x_preferred":[
-        "Vista Hermosa"
-    ],
-    "name:unk_x_variant":[
         "Vista Hermosa"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686671,
         102191575,
@@ -82,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3824658,
         "gp:id":55910901,
-        "qs:id":1014723
+        "qs_pg:id":1014723
     },
     "wof:country":"MX",
     "wof:geomhash":"7e566c8012e40fd65e3dc85ae2d5d807",
@@ -100,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147290,
+    "wof:lastmodified":1566619652,
     "wof:name":"Vista Hermosa",
     "wof:parent_id":101998731,
     "wof:placetype":"neighbourhood",

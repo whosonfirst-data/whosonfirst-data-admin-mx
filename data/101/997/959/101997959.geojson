@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":1223672.264876,
+    "geom:area_square_m":1223672.264874,
     "geom:bbox":"-105.329442217,20.312368594,-105.313361615,20.3237426258",
     "geom:latitude":20.318374,
     "geom:longitude":-105.321604,
-    "geonames:id":"4007101,4007102",
+    "gn:id":"4007101,4007102",
     "iso:country":"MX",
     "lbl:latitude":20.317136,
     "lbl:longitude":-105.321722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.317136,
     "mps:longitude":-105.321722,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Tuito"
     ],
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101997959,
-    "wof:lastmodified":1504309904,
+    "wof:lastmodified":1566632471,
     "wof:name":"El Tuito",
     "wof:parent_id":102074799,
     "wof:placetype":"locality",

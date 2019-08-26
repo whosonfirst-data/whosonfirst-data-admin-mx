@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7159299.013954,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.926807,20.931763,-101.926807,20.931763",
     "geom:latitude":20.931763,
     "geom:longitude":-101.926807,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.931807,20.926763,-101.921807,20.936763",
     "lbl:latitude":20.931763,
     "lbl:longitude":-101.926807,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.930184,
     "mps:longitude":-101.924076,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Fracc Canada Del Campestre"
     ],
     "name:spa_x_preferred":[
-        "Fracc Ca\u00f1ada Del Campestre"
-    ],
-    "name:unk_x_variant":[
         "Fracc Ca\u00f1ada Del Campestre"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -61,18 +60,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
-        102077261,
-        85686629
+        102077261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898621,
-        "qs:id":1155272,
         "qs_pg:id":972517
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155272
     },
     "wof:country":"MX",
     "wof:geomhash":"5d7735e8c731541e82240a750b5663b2",
@@ -90,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874209,
+    "wof:lastmodified":1566619702,
     "wof:name":"Fracc Ca\u00f1ada Del Campestre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

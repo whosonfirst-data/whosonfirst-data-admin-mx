@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5995236.009096,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.558167,21.046054,-101.558167,21.046054",
     "geom:latitude":21.046054,
     "geom:longitude":-101.558167,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.563167,21.041054,-101.553167,21.051054",
     "lbl:latitude":21.046054,
     "lbl:longitude":-101.558167,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.046055,
     "mps:longitude":-101.554871,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Campestre San Jose"
-    ],
-    "name:unk_x_variant":[
         "Campestre San Jose"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
-        102077349,
-        85686629
+        102077349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889901,
-        "qs:id":71297
+        "qs_pg:id":71297
     },
     "wof:country":"MX",
     "wof:geomhash":"1eddf3e494139f3c475c3458e8c6a70a",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874214,
+    "wof:lastmodified":1566619699,
     "wof:name":"Campestre San Jose",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

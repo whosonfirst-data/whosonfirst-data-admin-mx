@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.676125,
     "lbl:longitude":-102.586383,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":21.676125,
     "mps:longitude":-102.586383,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Villa Hidalgo"
     ],
@@ -57,9 +60,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0438\u0459\u0430 \u0418\u0434\u0430\u043b\u0433\u043e"
     ],
-    "name:unk_x_variant":[
-        "Raso de Sotos"
-    ],
     "name:vie_x_preferred":[
         "Villa Hidalgo"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -94,7 +94,6 @@
         "fct:id":"01b9a44e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980169,
         "gp:id":150876,
-        "qs:id":180495,
         "qs_pg:id":180495,
         "wd:id":"Q3844956",
         "wk:page":"Villa Hidalgo, Jalisco"
@@ -114,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397175,
+    "wof:lastmodified":1566632273,
     "wof:name":"Villa Hidalgo",
     "wof:parent_id":102074615,
     "wof:placetype":"locality",

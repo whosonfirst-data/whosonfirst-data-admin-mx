@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.669479,
     "lbl:longitude":-98.221792,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.669479,
     "mps:longitude":-98.221792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Santiago Tamazola"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101996029,
-    "wof:lastmodified":1563397420,
+    "wof:lastmodified":1566632406,
     "wof:name":"Santiago Tamazola",
     "wof:parent_id":102076171,
     "wof:placetype":"locality",

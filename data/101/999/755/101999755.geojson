@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":1108330.672051,
+    "geom:area_square_m":1108330.672052,
     "geom:bbox":"-98.5256940643,19.0765795379,-98.5079445899,19.0857552206",
     "geom:latitude":19.081467,
     "geom:longitude":-98.516475,
     "iso:country":"MX",
     "lbl:latitude":19.082029,
     "lbl:longitude":-98.516341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.082029,
     "mps:longitude":-98.516341,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santiago Xalitzintla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xolitzintla"
     ],
     "qs:a0":"Mexico",
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101999755,
-    "wof:lastmodified":1504309852,
+    "wof:lastmodified":1566632511,
     "wof:name":"Santiago Xalitzintla",
     "wof:parent_id":102078289,
     "wof:placetype":"locality",

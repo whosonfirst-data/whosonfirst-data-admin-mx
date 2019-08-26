@@ -11,8 +11,10 @@
     "geom:longitude":-96.92817,
     "gn:population":1541,
     "iso:country":"MX",
+    "lbl:bbox":"-96.93317,19.528396,-96.92317,19.538396",
     "lbl:latitude":19.533396,
     "lbl:longitude":-96.92817,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.537279,
     "mps:longitude":-96.935325,
     "mz:hierarchy_label":0,
@@ -39,9 +41,8 @@
     "name:swe_x_preferred":[
         "Las Lomas"
     ],
-    "name:unk_x_variant":[
-        "Loma",
-        "La Loma"
+    "name:und_x_variant":[
+        "Loma"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -70,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686671,
@@ -83,9 +84,11 @@
     "wof:concordances":{
         "gn:id":3823444,
         "gp:id":55920603,
-        "qs:id":1182693,
-        "qs_pg:id":1344257,
+        "qs_pg:id":1182693,
         "wd:id":"Q20146031"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1344257
     },
     "wof:country":"MX",
     "wof:geomhash":"ec22d7717802fcfa67366df55c5f7e6d",
@@ -103,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375530,
+    "wof:lastmodified":1566619678,
     "wof:name":"La Loma",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

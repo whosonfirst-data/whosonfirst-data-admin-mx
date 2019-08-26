@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":15.146662,
     "lbl:longitude":-92.422644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.146662,
     "mps:longitude":-92.422644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Tuzant\u00e1n"
     ],
@@ -73,9 +76,6 @@
     "name:swe_x_preferred":[
         "Tuzant\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Tuzant\u00e1n de Morelos"
-    ],
     "name:vie_x_preferred":[
         "Tuzant\u00e1n"
     ],
@@ -94,7 +94,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -124,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398333,
+    "wof:lastmodified":1566632881,
     "wof:name":"Tuzant\u00e1n",
     "wof:parent_id":102075663,
     "wof:placetype":"locality",

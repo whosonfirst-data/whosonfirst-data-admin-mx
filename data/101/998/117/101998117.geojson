@@ -9,14 +9,17 @@
     "geom:bbox":"-95.0047328573,17.9352763605,-94.9914718671,17.9479886563",
     "geom:latitude":17.941587,
     "geom:longitude":-94.998064,
-    "geonames:id":"3824119,3825184",
+    "gn:id":"3824119,3825184",
     "iso:country":"MX",
     "lbl:latitude":17.941589,
     "lbl:longitude":-94.998066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.941589,
     "mps:longitude":-94.998066,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Defesa"
     ],
@@ -86,7 +89,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":831,
     "wof:belongsto":[
         102191575,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101998117,
-    "wof:lastmodified":1563397137,
+    "wof:lastmodified":1566632254,
     "wof:name":"Dehesa",
     "wof:parent_id":102077389,
     "wof:placetype":"locality",

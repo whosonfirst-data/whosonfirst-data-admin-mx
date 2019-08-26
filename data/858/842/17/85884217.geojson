@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4738830.331704,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.18156,19.67104,-99.18156,19.67104",
     "geom:latitude":19.67104,
     "geom:longitude":-99.18156,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.18656,19.66604,-99.17656,19.67604",
     "lbl:latitude":19.67104,
     "lbl:longitude":-99.18156,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.671039,
     "mps:longitude":-99.177859,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Necapa"
-    ],
-    "name:unk_x_variant":[
         "Necapa"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992805,
-        102074177,
-        85686527
+        102074177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900718,
-        "qs:id":997177
+        "qs_pg:id":997177
     },
     "wof:country":"MX",
     "wof:geomhash":"f1a78215ebdb3792daca04a810e983e7",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874480,
+    "wof:lastmodified":1566619563,
     "wof:name":"Necapa",
     "wof:parent_id":101992805,
     "wof:placetype":"neighbourhood",

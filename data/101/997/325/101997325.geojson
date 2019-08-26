@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000346,
-    "geom:area_square_m":4023117.645689,
+    "geom:area_square_m":4023117.645673,
     "geom:bbox":"-101.152876286,19.7319415657,-101.127042088,19.7553503734",
     "geom:latitude":19.742982,
     "geom:longitude":-101.1393,
     "iso:country":"MX",
     "lbl:latitude":19.740415,
     "lbl:longitude":-101.140179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.740415,
     "mps:longitude":-101.140179,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56075089
     },
     "wof:country":"MX",
-    "wof:geomhash":"cdc0c3146c04c6c49a162a211f09f00f",
+    "wof:geomhash":"569bfda3f5cbb64f48f7b9523d6b6009",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997325,
-    "wof:lastmodified":1479904076,
+    "wof:lastmodified":1566632469,
     "wof:name":"La Aldea",
     "wof:parent_id":102075017,
     "wof:placetype":"locality",

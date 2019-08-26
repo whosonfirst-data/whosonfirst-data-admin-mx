@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.468534,
     "lbl:longitude":-100.873638,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":21.468534,
     "mps:longitude":-100.873638,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09a6\u09bf\u09af\u09bc\u09c7\u0997\u09cb \u09a6\u09c7 \u09b2\u09be \u0989\u09a8\u09bf\u0993\u09a8"
     ],
@@ -49,9 +52,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u0414\u0438\u0458\u0435\u0433\u043e \u0434\u0435 \u043b\u0430 \u0423\u043d\u0438\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Diego de la Union"
-    ],
     "name:vie_x_preferred":[
         "San Diego de la Uni\u00f3n"
     ],
@@ -70,7 +70,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +83,7 @@
         "fct:id":"01b8fb70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3987309,
         "gp:id":55887408,
-        "qs:id":1047528,
+        "qs_pg:id":1047528,
         "wd:id":"Q2651955",
         "wk:page":"San Diego de la Uni\u00f3n"
     },
@@ -102,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397403,
+    "wof:lastmodified":1566632398,
     "wof:name":"San Diego de la Uni\u00f3n",
     "wof:parent_id":102077333,
     "wof:placetype":"locality",

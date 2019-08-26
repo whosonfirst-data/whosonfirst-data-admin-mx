@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.961769,
     "lbl:longitude":-99.971662,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":16.961769,
     "mps:longitude":-99.971662,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b9\u09cb\u09b8 \u09a6\u09c7\u09b2 \u098f\u09b9\u09bf\u09a6\u09cb"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3532446,
         "gp:id":112983,
-        "qs:id":264494,
         "qs_pg:id":264494,
         "wd:id":"Q20205553"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101991209,
-    "wof:lastmodified":1563397288,
+    "wof:lastmodified":1566632338,
     "wof:name":"Bajos del Ejido",
     "wof:parent_id":102073811,
     "wof:placetype":"locality",

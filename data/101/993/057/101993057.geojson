@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.143508,
     "lbl:longitude":-100.763723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.143508,
     "mps:longitude":-100.763723,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Par\u00e1cuaro"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":3993455,
         "gp:id":135976,
-        "qs:id":251501,
         "qs_pg:id":251501,
         "wd:id":"Q20209278"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101993057,
-    "wof:lastmodified":1563398191,
+    "wof:lastmodified":1566632807,
     "wof:name":"Par\u00e1cuaro",
     "wof:parent_id":102077309,
     "wof:placetype":"locality",

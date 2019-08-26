@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.761992,
     "lbl:longitude":-104.852989,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.761992,
     "mps:longitude":-104.852989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Sebasti\u00e1n del Oeste"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -93,9 +96,11 @@
         "fct:id":"01b04386-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3984795,
         "gp:id":145392,
-        "qs:id":1176352,
         "qs_pg:id":1018067,
         "wd:id":"Q3051746"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1176352
     },
     "wof:country":"MX",
     "wof:geomhash":"8738a6a1582e6d42be06a71c4f7c4a6f",
@@ -112,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397486,
+    "wof:lastmodified":1566632437,
     "wof:name":"San Sebasti\u00e1n del Oeste",
     "wof:parent_id":102074663,
     "wof:placetype":"locality",

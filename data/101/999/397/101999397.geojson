@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":3884704.681748,
+    "geom:area_square_m":3884704.681744,
     "geom:bbox":"-98.5180891154,19.2012546958,-98.4922723424,19.2234741644",
     "geom:latitude":19.213499,
     "geom:longitude":-98.504874,
     "iso:country":"MX",
     "lbl:latitude":19.212901,
     "lbl:longitude":-98.505754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.212901,
     "mps:longitude":-98.505754,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tetla"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3518613,
         "gp:id":55894472,
-        "qs:id":1019894
+        "qs_pg:id":1019894
     },
     "wof:country":"MX",
     "wof:geomhash":"542e90c4679e3238586b55b07c796493",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101999397,
-    "wof:lastmodified":1501267416,
+    "wof:lastmodified":1566632518,
     "wof:name":"San Juan Tetla",
     "wof:parent_id":102078095,
     "wof:placetype":"locality",

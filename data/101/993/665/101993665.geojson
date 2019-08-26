@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":1072243.611144,
+    "geom:area_square_m":1072243.611143,
     "geom:bbox":"-108.455525012,25.5612014804,-108.438003542,25.5761571662",
     "geom:latitude":25.569257,
     "geom:longitude":-108.44515,
     "iso:country":"MX",
     "lbl:latitude":25.570044,
     "lbl:longitude":-108.444288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.570044,
     "mps:longitude":-108.444288,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55893373
     },
     "wof:country":"MX",
-    "wof:geomhash":"ecad1f561df95543fca1a3335ce531f7",
+    "wof:geomhash":"c3abaca5254cc0a2d6b6f2187497fe4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993665,
-    "wof:lastmodified":1479929992,
+    "wof:lastmodified":1566632809,
     "wof:name":"Callejones de Guasavito",
     "wof:parent_id":102074321,
     "wof:placetype":"locality",

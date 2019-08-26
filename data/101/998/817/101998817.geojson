@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.029467,
     "lbl:longitude":-97.009938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.029467,
     "mps:longitude":-97.009938,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tomatl\u00e1n"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,6 @@
         "fct:id":"01b990d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515290,
         "gp:id":149786,
-        "qs:id":341911,
         "qs_pg:id":341911,
         "wd:id":"Q20273616"
     },
@@ -81,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397092,
+    "wof:lastmodified":1566632235,
     "wof:name":"Tomatl\u00e1n",
     "wof:parent_id":102077787,
     "wof:placetype":"locality",

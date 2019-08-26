@@ -11,8 +11,10 @@
     "geom:longitude":-103.299255,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.304255,20.660397,-103.294255,20.670397",
     "lbl:latitude":20.665397,
     "lbl:longitude":-103.299255,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.663026,
     "mps:longitude":-103.29563,
     "mz:hierarchy_label":0,
@@ -43,7 +45,7 @@
     "name:spa_x_variant":[
         "San Andr\u00e9s Mixquic"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Andr\u00e9s"
     ],
     "qs:gn_id":0,
@@ -52,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -64,7 +66,6 @@
     "wof:concordances":{
         "gn:id":3523124,
         "gp:id":55910570,
-        "qs:id":1343498,
         "qs_pg:id":1343498
     },
     "wof:country":"MX",
@@ -83,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619649,
     "wof:name":"Fracc San Andres",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

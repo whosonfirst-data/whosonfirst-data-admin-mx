@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.409172,
     "lbl:longitude":-101.602168,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.409172,
     "mps:longitude":-101.602168,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u043f\u043e\u043f\u0435\u043e"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3994164,
         "gp:id":135299,
-        "qs:id":151330,
         "qs_pg:id":151330,
         "wd:id":"Q20290329"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101997179,
-    "wof:lastmodified":1563397620,
+    "wof:lastmodified":1566632505,
     "wof:name":"Opopeo",
     "wof:parent_id":102074945,
     "wof:placetype":"locality",

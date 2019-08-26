@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1345980.272522,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.889199,16.860392,-99.889199,16.860392",
     "geom:latitude":16.860392,
     "geom:longitude":-99.889199,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.894199,16.855392,-99.884199,16.865392",
     "lbl:latitude":16.860392,
     "lbl:longitude":-99.889199,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.866055,
     "mps:longitude":-99.889111,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Hornos Insurgentes"
-    ],
-    "name:unk_x_variant":[
         "Hornos Insurgentes"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
         101991509,
-        102073945,
-        85686517
+        102073945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889521,
-        "qs:id":474686,
         "qs_pg:id":474686
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874207,
+    "wof:lastmodified":1566619700,
     "wof:name":"Hornos Insurgentes",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

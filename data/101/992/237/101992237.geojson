@@ -13,17 +13,20 @@
     "iso:country":"MX",
     "lbl:latitude":22.947431,
     "lbl:longitude":-102.570346,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":22.947431,
     "mps:longitude":-102.570346,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Pozos de Gamboa"
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0437\u043e \u0413\u0430\u043c\u0431\u043e\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pozo Gamboa"
     ],
     "qs:a0":"Mexico",
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":3991930,
         "gp:id":137377,
-        "qs:id":585966,
         "qs_pg:id":585966,
         "wd:id":"Q20264912"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101992237,
-    "wof:lastmodified":1563398044,
+    "wof:lastmodified":1566632732,
     "wof:name":"Pozo de Gamboa",
     "wof:parent_id":102075407,
     "wof:placetype":"locality",

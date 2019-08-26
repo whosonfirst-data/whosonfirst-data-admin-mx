@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.905459,
     "lbl:longitude":-99.341126,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.906803,
     "mps:longitude":-99.342473,
     "mz:hierarchy_label":1,
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -80,10 +82,12 @@
         "fct:id":"01d179de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515887,
         "gp:id":148898,
-        "qs:id":964489,
-        "qs_pg:id":1074444,
+        "qs_pg:id":964489,
         "wd:id":"Q2450298",
         "wk:page":"Tepeji"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074444
     },
     "wof:country":"MX",
     "wof:geomhash":"675e50bf1e6520a9ba17a59b815796f4",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":102000241,
-    "wof:lastmodified":1563369729,
+    "wof:lastmodified":1566615699,
     "wof:name":"Tepeji de Ocampo",
     "wof:parent_id":102078623,
     "wof:placetype":"locality",

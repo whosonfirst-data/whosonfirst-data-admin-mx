@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.397908,
     "lbl:longitude":-99.312574,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.397908,
     "mps:longitude":-99.312574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Bartolom\u00e9 Coatepec"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_preferred":[
         "San Bartolom\u00e9 Coatepec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Bartolito"
     ],
     "qs:a0":"Mexico",
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3827418,
         "gp:id":55898156,
-        "qs:id":150376,
+        "qs_pg:id":150376,
         "wd:id":"Q20288197"
     },
     "wof:country":"MX",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101992687,
-    "wof:lastmodified":1563397966,
+    "wof:lastmodified":1566632685,
     "wof:name":"San Bartolom\u00e9 Coatepec",
     "wof:parent_id":102074147,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-99.538729,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.543729,18.340343,-99.533729,18.350343",
     "lbl:latitude":18.345343,
     "lbl:longitude":-99.538729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.343611,
     "mps:longitude":-99.537808,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Educacion"
-    ],
-    "name:unk_x_variant":[
         "Educacion"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686517,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887141,
-        "qs:id":474561,
         "qs_pg:id":474561
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619568,
     "wof:name":"Educacion",
     "wof:parent_id":101991385,
     "wof:placetype":"neighbourhood",

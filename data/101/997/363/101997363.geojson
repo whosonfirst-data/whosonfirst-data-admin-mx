@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.795508,
     "lbl:longitude":-100.927925,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.795508,
     "mps:longitude":-100.927925,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55896971
     },
     "wof:country":"MX",
-    "wof:geomhash":"b0bd51ad9ca9b60bab047be4b6b2b2a7",
+    "wof:geomhash":"9be7bbc010f294797b0f23a716917cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997363,
-    "wof:lastmodified":1479904334,
+    "wof:lastmodified":1566632440,
     "wof:name":"San Lucas P\u00edo",
     "wof:parent_id":102075025,
     "wof:placetype":"locality",

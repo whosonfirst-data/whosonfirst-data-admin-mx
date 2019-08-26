@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1762191.380835,
+    "geom:area_square_m":1762191.380833,
     "geom:bbox":"-99.1680908203,19.4199731542,-99.1516113281,19.4355143334",
     "geom:latitude":19.427008,
     "geom:longitude":-99.160079,
     "iso:country":"MX",
     "lbl:latitude":19.428287,
     "lbl:longitude":-99.161564,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.426802,
     "mps:longitude":-99.159921,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Juarez"
-    ],
-    "name:unk_x_variant":[
         "Juarez"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -96,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270004,
+    "wof:lastmodified":1566619586,
     "wof:name":"Juarez",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

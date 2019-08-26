@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.039199,
     "lbl:longitude":-104.367262,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":21.039199,
     "mps:longitude":-104.367262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Ixtl\u00e1n del R\u00edo"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "Ixtl\u00e1n del R\u00edo"
     ],
-    "name:unk_x_variant":[
-        "Dei Rio Ixtlan"
-    ],
     "name:vie_x_preferred":[
         "Ixtl\u00e1n del R\u00edo"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -103,7 +103,6 @@
         "fct:id":"01b86c6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4004267,
         "gp:id":125579,
-        "qs:id":151372,
         "qs_pg:id":151372,
         "wd:id":"Q151450"
     },
@@ -122,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397529,
+    "wof:lastmodified":1566632458,
     "wof:name":"Ixtl\u00e1n del R\u00edo",
     "wof:parent_id":102074559,
     "wof:placetype":"locality",

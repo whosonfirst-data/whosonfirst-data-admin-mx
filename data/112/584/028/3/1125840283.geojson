@@ -9,15 +9,18 @@
     "geom:bbox":"-97.68053,17.26916,-97.68053,17.26916",
     "geom:latitude":17.26916,
     "geom:longitude":-97.68053,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14608,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":14608,
     "iso:country":"MX",
+    "lbl:bbox":"-97.70053,17.24916,-97.66053,17.28916",
     "lbl:latitude":17.26916,
     "lbl:longitude":-97.68053,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tlaxiaco"
@@ -55,9 +58,6 @@
     "name:tur_x_preferred":[
         "Tlaxiaco"
     ],
-    "name:unk_x_variant":[
-        "Tlaxiaco"
-    ],
     "name:vie_x_preferred":[
         "Heroica Ciudad de Tlaxiaco"
     ],
@@ -80,7 +80,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":146456,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125840283,
-    "wof:lastmodified":1563400966,
+    "wof:lastmodified":1566634322,
     "wof:name":"Santa Mar\u00eda Asunci\u00f3n Tlaxiaco",
     "wof:parent_id":102076697,
     "wof:placetype":"locality",

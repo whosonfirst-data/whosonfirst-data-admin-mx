@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.183434,
     "lbl:longitude":-92.191419,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.183434,
     "mps:longitude":-92.191419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tzimol"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,6 @@
         "fct:id":"01bacdf6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514972,
         "gp:id":150310,
-        "qs:id":975478,
         "qs_pg:id":975478,
         "wd:id":"Q1769090"
     },
@@ -114,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398259,
+    "wof:lastmodified":1566632843,
     "wof:name":"Tzimol",
     "wof:parent_id":102075661,
     "wof:placetype":"locality",

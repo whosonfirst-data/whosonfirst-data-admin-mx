@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6111174.783664,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.645034,16.734893,-92.645034,16.734893",
     "geom:latitude":16.734893,
     "geom:longitude":-92.645034,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.650034,16.729893,-92.640034,16.739893",
     "lbl:latitude":16.734893,
     "lbl:longitude":-92.645034,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.737988,
     "mps:longitude":-92.651992,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Barrio de la Merced"
-    ],
-    "name:unk_x_variant":[
         "Barrio de la Merced"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994509,
-        102075763,
-        85686611
+        102075763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919098,
-        "qs:id":475974,
         "qs_pg:id":475974
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874752,
+    "wof:lastmodified":1566619713,
     "wof:name":"Barrio de la Merced",
     "wof:parent_id":101994509,
     "wof:placetype":"neighbourhood",

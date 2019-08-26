@@ -11,8 +11,10 @@
     "geom:longitude":-103.366585,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.371585,20.70507,-103.361585,20.71507",
     "lbl:latitude":20.71007,
     "lbl:longitude":-103.366585,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.714013,
     "mps:longitude":-103.362558,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Jardines Del Country"
-    ],
-    "name:unk_x_variant":[
         "Jardines Del Country"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904243,
-        "qs:id":1316544,
         "qs_pg:id":1316544
     },
     "wof:country":"MX",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957721,
+    "wof:lastmodified":1566619561,
     "wof:name":"Jardines Del Country",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

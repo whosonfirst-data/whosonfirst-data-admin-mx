@@ -11,8 +11,10 @@
     "geom:longitude":-104.89563,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.90063,21.481722,-104.89063,21.491722",
     "lbl:latitude":21.486722,
     "lbl:longitude":-104.89563,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.485771,
     "mps:longitude":-104.897878,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Moctezuma"
-    ],
-    "name:unk_x_variant":[
         "Moctezuma"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686591,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900388,
-        "qs:id":1137742,
         "qs_pg:id":1137742
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619629,
     "wof:name":"Moctezuma",
     "wof:parent_id":101996983,
     "wof:placetype":"neighbourhood",

@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":4178825.407225,
+    "geom:area_square_m":4178825.407226,
     "geom:bbox":"-99.7208709699,19.6945584707,-99.6883076817,19.7148330645",
     "geom:latitude":19.704525,
     "geom:longitude":-99.704564,
     "iso:country":"MX",
     "lbl:latitude":19.706164,
     "lbl:longitude":-99.704809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.706164,
     "mps:longitude":-99.704809,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santiago Yeche"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yech\u00e9"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101992575,
-    "wof:lastmodified":1501267403,
+    "wof:lastmodified":1566632698,
     "wof:name":"Santiago Yeche",
     "wof:parent_id":102074125,
     "wof:placetype":"locality",

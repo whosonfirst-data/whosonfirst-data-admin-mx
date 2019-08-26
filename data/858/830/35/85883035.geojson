@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2877303.6792,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.445709,20.697031,-100.445709,20.697031",
     "geom:latitude":20.697031,
     "geom:longitude":-100.445709,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.450709,20.692031,-100.440709,20.702031",
     "lbl:latitude":20.697031,
     "lbl:longitude":-100.445709,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.693387,
     "mps:longitude":-100.446697,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Jurica San Francisco"
-    ],
-    "name:unk_x_variant":[
         "Fracc Jurica San Francisco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996375,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889292,
-        "qs:id":269986,
         "qs_pg:id":269986
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874202,
+    "wof:lastmodified":1566619699,
     "wof:name":"Fracc Jurica San Francisco",
     "wof:parent_id":101996375,
     "wof:placetype":"neighbourhood",

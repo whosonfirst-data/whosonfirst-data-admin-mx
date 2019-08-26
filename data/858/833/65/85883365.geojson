@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4115921.431611,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.964747,22.155793,-100.964747,22.155793",
     "geom:latitude":22.155793,
     "geom:longitude":-100.964747,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.969747,22.150793,-100.959747,22.160793",
     "lbl:latitude":22.155793,
     "lbl:longitude":-100.964747,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.159897,
     "mps:longitude":-100.960949,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Librado Rivera"
-    ],
-    "name:unk_x_variant":[
         "Fracc Librado Rivera"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996483,
-        102077193,
-        85686647
+        102077193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893924,
-        "qs:id":1341288,
         "qs_pg:id":1341288
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874306,
+    "wof:lastmodified":1566619618,
     "wof:name":"Fracc Librado Rivera",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

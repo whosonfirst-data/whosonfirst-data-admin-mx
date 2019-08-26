@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":2688212.55459,
+    "geom:area_square_m":2688212.554584,
     "geom:bbox":"-98.3751695856,19.0591608617,-98.3537908222,19.0765805599",
     "geom:latitude":19.067913,
     "geom:longitude":-98.365009,
     "iso:country":"MX",
     "lbl:latitude":19.067899,
     "lbl:longitude":-98.365008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.067899,
     "mps:longitude":-98.365008,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa \u00darsula Coapa"
     ],
     "name:spa_x_variant":[
         "Pedregal de Santa \u00darsula Coapa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coapa"
     ],
     "qs:a0":"Mexico",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101999765,
-    "wof:lastmodified":1504309870,
+    "wof:lastmodified":1566632516,
     "wof:name":"San Francisco Coapa",
     "wof:parent_id":102078293,
     "wof:placetype":"locality",

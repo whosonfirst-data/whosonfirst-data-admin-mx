@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":3757786.307858,
+    "geom:area_square_m":3757786.307848,
     "geom:bbox":"-99.4795567291,19.3126676803,-99.4547141572,19.3436421737",
     "geom:latitude":19.32852,
     "geom:longitude":-99.468708,
     "iso:country":"MX",
     "lbl:latitude":19.33216,
     "lbl:longitude":-99.469932,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.33216,
     "mps:longitude":-99.469932,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Atarasquillo"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3517284,
         "gp:id":146457,
-        "qs:id":1163141,
         "qs_pg:id":1163141
     },
     "wof:country":"MX",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101992551,
-    "wof:lastmodified":1497291009,
+    "wof:lastmodified":1566632669,
     "wof:name":"Santa Mar\u00eda Atarasquillo",
     "wof:parent_id":102074119,
     "wof:placetype":"locality",

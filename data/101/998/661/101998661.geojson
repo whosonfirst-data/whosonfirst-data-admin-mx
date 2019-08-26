@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":865359.35189,
+    "geom:area_square_m":865359.351889,
     "geom:bbox":"-95.1841788017,18.4301690803,-95.172726623,18.4431087433",
     "geom:latitude":18.436972,
     "geom:longitude":-95.177705,
     "iso:country":"MX",
     "lbl:latitude":18.437157,
     "lbl:longitude":-95.177317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.437157,
     "mps:longitude":-95.177317,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":26804438
     },
     "wof:country":"MX",
-    "wof:geomhash":"a8b5bcddf3e2a43c05515d5b3363f101",
+    "wof:geomhash":"8592b2f021bc02e039b61faabdda9d49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101998661,
-    "wof:lastmodified":1479907045,
+    "wof:lastmodified":1566632245,
     "wof:name":"Sihuapan",
     "wof:parent_id":102077691,
     "wof:placetype":"locality",

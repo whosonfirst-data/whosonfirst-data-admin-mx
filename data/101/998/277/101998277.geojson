@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.277107,
     "lbl:longitude":-95.998947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.277107,
     "mps:longitude":-95.998947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nopaltepec"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":3522647,
         "gp:id":134609,
-        "qs:id":180257,
         "qs_pg:id":180257,
         "wd:id":"Q7049967",
         "wk:page":"Nopaltepec, Veracruz"
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101998277,
-    "wof:lastmodified":1561750536,
+    "wof:lastmodified":1566632264,
     "wof:name":"Nopaltepec",
     "wof:parent_id":102077481,
     "wof:placetype":"locality",

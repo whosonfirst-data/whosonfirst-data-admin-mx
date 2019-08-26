@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5949422.590013,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.259597,19.509716,-99.259597,19.509716",
     "geom:latitude":19.509716,
     "geom:longitude":-99.259597,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.264597,19.504716,-99.254597,19.514716",
     "lbl:latitude":19.509716,
     "lbl:longitude":-99.259597,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.507861,
     "mps:longitude":-99.25968,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Altena 3ra"
     ],
     "name:spa_x_preferred":[
-        "Alte\u00f1a 3ra"
-    ],
-    "name:unk_x_variant":[
         "Alte\u00f1a 3ra"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -60,18 +59,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992499,
-        102074109,
-        85686527
+        102074109
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903546,
-        "qs:id":232455
+        "qs_pg:id":232455
     },
     "wof:country":"MX",
     "wof:geomhash":"c65407222da51e08308bda77f9abe7c5",
@@ -89,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874523,
+    "wof:lastmodified":1566619583,
     "wof:name":"Alte\u00f1a 3ra",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

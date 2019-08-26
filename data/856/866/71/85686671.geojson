@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":19.118317,
     "lbl:longitude":-96.628436,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.118317,
     "mps:longitude":-96.628436,
     "mz:hierarchy_label":1,
@@ -284,9 +285,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
     ],
-    "name:unk_x_variant":[
-        "Veracruz-Llave"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0631\u0627\u06a9\u0631\u0648\u0632"
     ],
@@ -372,9 +370,9 @@
     "qs:source":"Mexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-31",
+    "src:population_date":"2010-05-31",
     "statoids:area_km":"71,699",
     "statoids:area_mi":"27,683",
     "statoids:as_of_date":"2010-05-31",
@@ -418,11 +416,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561750423,
+    "wof:lastmodified":1566619491,
     "wof:name":"Veracruz de Ignacio de la Llave",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":7643194,
     "wof:population_rank":13,

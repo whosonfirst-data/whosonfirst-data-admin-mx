@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":689459.693496,
+    "geom:area_square_m":689459.693497,
     "geom:bbox":"-102.005816505,19.5888458909,-101.994505525,19.5988006068",
     "geom:latitude":19.593615,
     "geom:longitude":-102.000194,
     "iso:country":"MX",
     "lbl:latitude":19.593897,
     "lbl:longitude":-102.000753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.593897,
     "mps:longitude":-102.000753,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Quinceo"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101997253,
-    "wof:lastmodified":1497290936,
+    "wof:lastmodified":1566632494,
     "wof:name":"Quinceo",
     "wof:parent_id":102074993,
     "wof:placetype":"locality",

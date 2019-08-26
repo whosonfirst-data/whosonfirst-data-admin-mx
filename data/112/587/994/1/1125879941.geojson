@@ -9,15 +9,18 @@
     "geom:bbox":"-97.57251,17.67694,-97.57251,17.67694",
     "geom:latitude":17.67694,
     "geom:longitude":-97.57251,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5028,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":5028,
     "iso:country":"MX",
+    "lbl:bbox":"-97.59251,17.65694,-97.55251,17.69694",
     "lbl:latitude":17.67694,
     "lbl:longitude":-97.57251,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tamazulapam del Progreso"
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Villa de Tamazul\u00e1pam del Progreso"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Tamazulapan"
     ],
     "name:vie_x_preferred":[
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":148094,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125879941,
-    "wof:lastmodified":1561750689,
+    "wof:lastmodified":1566634008,
     "wof:name":"Tamazulapan del Progreso",
     "wof:parent_id":102076231,
     "wof:placetype":"locality",

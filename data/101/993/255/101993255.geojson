@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":1375664.882795,
+    "geom:area_square_m":1375664.882796,
     "geom:bbox":"-99.2748388538,18.9468931239,-99.2499242956,18.9670851757",
     "geom:latitude":18.957697,
     "geom:longitude":-99.260887,
     "iso:country":"MX",
     "lbl:latitude":18.958721,
     "lbl:longitude":-99.261069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.958721,
     "mps:longitude":-99.261069,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Morelos",
     "qs:a1_lc":"17",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55890750
     },
     "wof:country":"MX",
-    "wof:geomhash":"5dcbb1edc5ee44556f2adc1d23bc13c8",
+    "wof:geomhash":"9004950f5bb7feaa2f58aa9a440f70e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993255,
-    "wof:lastmodified":1479931280,
+    "wof:lastmodified":1566632812,
     "wof:name":"Fraccionamiento Lomas de Ahuatl\u00e1n",
     "wof:parent_id":102074237,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.570675,
     "lbl:longitude":-92.721246,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.570675,
     "mps:longitude":-92.721246,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Chiapilla"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3531010,
         "gp:id":115837,
-        "qs:id":1201944,
         "qs_pg:id":1201944,
         "wd:id":"Q2543857",
         "wk:page":"Chiapilla"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101994627,
-    "wof:lastmodified":1563398261,
+    "wof:lastmodified":1566632844,
     "wof:name":"Chiapilla",
     "wof:parent_id":102075585,
     "wof:placetype":"locality",

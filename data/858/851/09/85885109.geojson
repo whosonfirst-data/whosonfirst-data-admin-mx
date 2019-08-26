@@ -11,8 +11,10 @@
     "geom:longitude":-98.667343,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.672343,20.133954,-98.662343,20.143954",
     "lbl:latitude":20.138954,
     "lbl:longitude":-98.667343,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.135539,
     "mps:longitude":-98.663576,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Panteon"
-    ],
-    "name:unk_x_variant":[
         "Barrio Panteon"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686665,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55915819,
-        "qs:id":1343925,
         "qs_pg:id":1343925
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619611,
     "wof:name":"Barrio Panteon",
     "wof:parent_id":102000481,
     "wof:placetype":"neighbourhood",

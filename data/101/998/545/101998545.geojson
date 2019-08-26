@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
-    "geom:area_square_m":489784.442636,
+    "geom:area_square_m":489784.44263,
     "geom:bbox":"-97.2019274758,18.7888467562,-97.1827243512,18.7975366799",
     "geom:latitude":18.792254,
     "geom:longitude":-97.194161,
     "iso:country":"MX",
     "lbl:latitude":18.791272,
     "lbl:longitude":-97.197213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.791272,
     "mps:longitude":-97.197213,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
         "gp:id":55902252
     },
     "wof:country":"MX",
-    "wof:geomhash":"260bd66a87b9e095d823ff8a652aa85b",
+    "wof:geomhash":"b096039672ccdddd5eb0234e90c8c549",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101998545,
-    "wof:lastmodified":1479907113,
+    "wof:lastmodified":1566632253,
     "wof:name":"Paseo Nuevo",
     "wof:parent_id":102077633,
     "wof:placetype":"locality",

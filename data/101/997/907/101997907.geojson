@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
-    "geom:area_square_m":1001686.098442,
+    "geom:area_square_m":1001686.098434,
     "geom:bbox":"-102.388033087,20.8724771165,-102.374394057,20.8849727058",
     "geom:latitude":20.878142,
     "geom:longitude":-102.380325,
     "iso:country":"MX",
     "lbl:latitude":20.877123,
     "lbl:longitude":-102.38043,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.877123,
     "mps:longitude":-102.38043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Santa Mariya Qichwachaw jisk'a t'aqa suyu"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3984072,
         "gp:id":55891243,
-        "qs:id":1062032
+        "qs_pg:id":1062032
     },
     "wof:country":"MX",
     "wof:geomhash":"da715ca3a01794092effd12b7c768d99",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101997907,
-    "wof:lastmodified":1527642064,
+    "wof:lastmodified":1566632432,
     "wof:name":"Santa Mar\u00eda del Valle",
     "wof:parent_id":102074703,
     "wof:placetype":"locality",

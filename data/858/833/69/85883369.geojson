@@ -11,8 +11,10 @@
     "geom:longitude":-98.327118,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.332118,19.059862,-98.322118,19.069862",
     "lbl:latitude":19.064862,
     "lbl:longitude":-98.327118,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.065404,
     "mps:longitude":-98.326529,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Zerezotla"
-    ],
-    "name:unk_x_variant":[
         "Fracc Zerezotla"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686657,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893958,
-        "qs:id":1155303,
         "qs_pg:id":1155303
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619615,
     "wof:name":"Fracc Zerezotla",
     "wof:parent_id":101999761,
     "wof:placetype":"neighbourhood",

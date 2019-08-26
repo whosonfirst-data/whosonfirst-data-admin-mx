@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007749,
-    "geom:area_square_m":90437255.587677,
+    "geom:area_square_m":90437255.5877,
     "geom:bbox":"-99.7064854813,19.2424987131,-99.5559416409,19.345726154",
     "geom:latitude":19.294688,
     "geom:longitude":-99.642425,
@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.298161,
     "lbl:longitude":-99.643562,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":19.298161,
     "mps:longitude":-99.643562,
     "mz:hierarchy_label":1,
@@ -96,11 +98,8 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e15\u0e25\u0e39\u0e01\u0e32"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "TLC"
-    ],
-    "name:unk_x_variant":[
-        "Toluca"
     ],
     "name:zho_x_preferred":[
         "\u6258\u5362\u5361"
@@ -214,7 +213,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -227,7 +226,6 @@
         "fct:id":"01af6272-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515302,
         "gp:id":149769,
-        "qs:id":239713,
         "qs_pg:id":239713
     },
     "wof:country":"MX",
@@ -245,7 +243,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338859,
+    "wof:lastmodified":1566632324,
     "wof:megacity":1,
     "wof:name":"Toluca de Lerdo",
     "wof:parent_id":102074009,

@@ -24,8 +24,12 @@
     "gn:population":14,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-98.11417,16.38056,-98.07417,16.42056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8912519
     },
     "wof:country":"MX",
-    "wof:geomhash":"93d8aeba1a6190b08fbfd4994c739270",
+    "wof:geomhash":"9055fc46c2e54bf5e66984f09846aa12",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209178729,
-    "wof:lastmodified":1536295332,
+    "wof:lastmodified":1566627353,
     "wof:name":"La Garrapata",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -98.09417,
-    16.400560000000002,
+    16.40056,
     -98.09417,
-    16.400560000000002
+    16.40056
 ],
   "geometry": {"coordinates":[-98.09417000000001,16.40056],"type":"Point"}
 }

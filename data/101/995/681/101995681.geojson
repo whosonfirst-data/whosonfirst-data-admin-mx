@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.736394,
     "lbl:longitude":-96.726466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.736394,
     "mps:longitude":-96.726466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Pedro Ap\u00f3stol"
     ],
@@ -66,9 +69,6 @@
     "name:swe_x_preferred":[
         "San Pedro Ap\u00f3stol"
     ],
-    "name:unk_x_variant":[
-        "Pedro Apostol"
-    ],
     "name:vie_x_preferred":[
         "San Pedro Ap\u00f3stol"
     ],
@@ -87,7 +87,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -116,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397788,
+    "wof:lastmodified":1566632602,
     "wof:name":"San Pedro Ap\u00f3stol",
     "wof:parent_id":102075857,
     "wof:placetype":"locality",

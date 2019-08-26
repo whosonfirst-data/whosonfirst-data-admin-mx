@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":1139404.198552,
+    "geom:area_square_m":1139404.198556,
     "geom:bbox":"-99.4254101352,19.5511533352,-99.4082750173,19.564693399",
     "geom:latitude":19.557585,
     "geom:longitude":-99.41622,
     "iso:country":"MX",
     "lbl:latitude":19.556699,
     "lbl:longitude":-99.416347,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.556699,
     "mps:longitude":-99.416347,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Santiago Tlazala"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3515339,
         "gp:id":149697,
-        "qs:id":1080365,
         "qs_pg:id":1080365
     },
     "wof:country":"MX",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101992667,
-    "wof:lastmodified":1497290860,
+    "wof:lastmodified":1566632691,
     "wof:name":"Tlazala de Fabela",
     "wof:parent_id":102074145,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.74128,
     "lbl:longitude":-100.447667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.74128,
     "mps:longitude":-100.447667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Santa Rosa Jauregui"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Santa Rosa Jauregui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosa"
     ],
     "qs:a0":"Mexico",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":972,
     "wof:belongsto":[
@@ -89,7 +92,6 @@
         "fct:id":"01b94b70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3983820,
         "gp:id":146882,
-        "qs:id":893516,
         "qs_pg:id":893516,
         "wd:id":"Q7419898",
         "wk:page":"Santa Rosa J\u00e1uregui"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397393,
+    "wof:lastmodified":1566632392,
     "wof:name":"Santa Rosa J\u00e1uregui",
     "wof:parent_id":102077111,
     "wof:placetype":"locality",

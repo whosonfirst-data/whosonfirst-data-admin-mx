@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10537024.669256,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.165269,19.319204,-99.165269,19.319204",
     "geom:latitude":19.319204,
     "geom:longitude":-99.165269,
     "iso:country":"MX",
+    "lbl:bbox":"-99.170269,19.314204,-99.160269,19.324204",
     "lbl:latitude":19.319204,
     "lbl:longitude":-99.165269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.221299,
     "mps:longitude":-99.205774,
     "mz:hierarchy_label":0,
@@ -21,9 +23,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "name:spa_x_preferred":[
-        "Ajusco"
-    ],
-    "name:unk_x_variant":[
         "Ajusco"
     ],
     "qs:a0":"Mexico",
@@ -43,14 +42,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85686515,
         102191575,
         85633293,
         101991175,
         890535773,
-        102073753
+        102073753,
+        85686515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +74,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531939963,
+    "wof:lastmodified":1566633863,
     "wof:name":"San Miguel Ajusco",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

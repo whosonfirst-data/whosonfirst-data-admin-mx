@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.954838,
     "lbl:longitude":-96.544933,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.954838,
     "mps:longitude":-96.544933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Juan Guelav\u00eda"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "San Juan Guelav\u00eda"
     ],
-    "name:unk_x_variant":[
-        "Guelaria"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646 \u06af\u06cc\u0644\u0627\u0648\u06cc\u0627"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -109,7 +109,6 @@
         "fct:id":"01b9110a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518677,
         "gp:id":143941,
-        "qs:id":148696,
         "qs_pg:id":148696,
         "wd:id":"Q7414582",
         "wk:page":"San Juan Guelav\u00eda"
@@ -129,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397809,
+    "wof:lastmodified":1566632612,
     "wof:name":"San Juan Guelav\u00eda",
     "wof:parent_id":102075959,
     "wof:placetype":"locality",

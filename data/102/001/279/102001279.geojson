@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.12746,
     "lbl:longitude":-88.890978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.12746,
     "mps:longitude":-88.890978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Dzoncauich"
     ],
@@ -69,9 +72,6 @@
     "name:swe_x_preferred":[
         "Dzoncauich"
     ],
-    "name:unk_x_variant":[
-        "Tzonkauich"
-    ],
     "name:vie_x_preferred":[
         "Dzoncauich"
     ],
@@ -90,7 +90,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":418,
     "wof:belongsto":[
         102191575,
@@ -120,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369838,
+    "wof:lastmodified":1566615750,
     "wof:name":"Dzoncauich",
     "wof:parent_id":102079057,
     "wof:placetype":"locality",

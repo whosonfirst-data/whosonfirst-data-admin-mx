@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":3696937.726001,
+    "geom:area_square_m":3696937.725995,
     "geom:bbox":"-99.2212823908,18.7732608634,-99.194381034,18.7964939227",
     "geom:latitude":18.782949,
     "geom:longitude":-99.206638,
     "iso:country":"MX",
     "lbl:latitude":18.780551,
     "lbl:longitude":-99.209086,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.780551,
     "mps:longitude":-99.209086,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Su\u00e1rez"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101993233,
-    "wof:lastmodified":1507750811,
+    "wof:lastmodified":1566632774,
     "wof:name":"Chiconcuac",
     "wof:parent_id":102074239,
     "wof:placetype":"locality",

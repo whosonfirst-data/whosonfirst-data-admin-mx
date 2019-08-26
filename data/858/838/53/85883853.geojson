@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":2523978.140214,
+    "geom:area_square_m":2523978.140211,
     "geom:bbox":"-99.1516113281,19.3012649057,-99.1314365017,19.3189192178",
     "geom:latitude":19.310838,
     "geom:longitude":-99.140486,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.307948,
     "lbl:longitude":-99.139411,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.310898,
     "mps:longitude":-99.139285,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Santa Ursula Coapa"
-    ],
-    "name:unk_x_variant":[
         "Santa Ursula Coapa"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898564,
-        "qs:id":1294638
+        "qs_pg:id":1294638
     },
     "wof:country":"MX",
     "wof:geomhash":"26798693e7bc7cf011c0b34ca99d114c",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270469,
+    "wof:lastmodified":1566619675,
     "wof:name":"Santa Ursula Coapa",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

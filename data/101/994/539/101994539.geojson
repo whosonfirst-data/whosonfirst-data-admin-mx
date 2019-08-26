@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000376,
-    "geom:area_square_m":4445141.285909,
+    "geom:area_square_m":4445141.285895,
     "geom:bbox":"-92.4561581043,16.8357172204,-92.4335046358,16.8612741113",
     "geom:latitude":16.848983,
     "geom:longitude":-92.44423,
     "iso:country":"MX",
     "lbl:latitude":16.849889,
     "lbl:longitude":-92.445147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.849889,
     "mps:longitude":-92.445147,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55899918
     },
     "wof:country":"MX",
-    "wof:geomhash":"30b96ee91977d41d8d7e9f46f3897062",
+    "wof:geomhash":"9a69f34927ede1a0156f88073b276b53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994539,
-    "wof:lastmodified":1479904470,
+    "wof:lastmodified":1566632869,
     "wof:name":"Yoshib",
     "wof:parent_id":102075719,
     "wof:placetype":"locality",

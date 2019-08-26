@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":970384.596697,
+    "geom:area_square_m":970384.596693,
     "geom:bbox":"-115.925871692,30.5042020196,-115.906544867,30.5130399691",
     "geom:latitude":30.508621,
     "geom:longitude":-115.916228,
     "iso:country":"MX",
     "lbl:latitude":30.508623,
     "lbl:longitude":-115.916228,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.508623,
     "mps:longitude":-115.916228,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900165
     },
     "wof:country":"MX",
-    "wof:geomhash":"8dc910e6d268019b48af08057e994f30",
+    "wof:geomhash":"913b8f70e6ad10e6f33c25d760cbe4e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993501,
-    "wof:lastmodified":1479931244,
+    "wof:lastmodified":1566632786,
     "wof:name":"Colonia Nueva Era",
     "wof:parent_id":102074509,
     "wof:placetype":"locality",

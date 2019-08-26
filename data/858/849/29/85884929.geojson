@@ -11,8 +11,10 @@
     "geom:longitude":-103.323666,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.328666,20.619138,-103.318666,20.629138",
     "lbl:latitude":20.624138,
     "lbl:longitude":-103.323666,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.620889,
     "mps:longitude":-103.323932,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Alamo Industrial"
-    ],
-    "name:unk_x_variant":[
         "Alamo Industrial"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910068,
-        "qs:id":1092423,
         "qs_pg:id":1092423
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619649,
     "wof:name":"Alamo Industrial",
     "wof:parent_id":101997863,
     "wof:placetype":"neighbourhood",

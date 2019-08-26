@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":784090.304989,
+    "geom:area_square_m":784090.304983,
     "geom:bbox":"-96.4977678365,17.3144107876,-96.4884467312,17.3283632117",
     "geom:latitude":17.320292,
     "geom:longitude":-96.493628,
     "iso:country":"MX",
     "lbl:latitude":17.319409,
     "lbl:longitude":-96.49331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.319409,
     "mps:longitude":-96.49331,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Guelatao de Ju\u00e1rez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Pablo"
     ],
     "qs:a0":"Mexico",
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101995063,
-    "wof:lastmodified":1504309867,
+    "wof:lastmodified":1566632617,
     "wof:name":"Guelatao de Ju\u00e1rez",
     "wof:parent_id":102076091,
     "wof:placetype":"locality",

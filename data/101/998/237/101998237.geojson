@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":18.129229,
     "lbl:longitude":-94.455826,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.129229,
     "mps:longitude":-94.455826,
     "mz:hierarchy_label":1,
@@ -275,7 +277,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":3.0,
     "wd:latitude":18.135833,
@@ -293,7 +295,6 @@
         "fct:id":"01b81cdc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530517,
         "gp:id":116655,
-        "qs:id":479069,
         "qs_pg:id":479069,
         "wd:id":"Q502023",
         "wk:page":"Coatzacoalcos"
@@ -313,7 +314,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397188,
+    "wof:lastmodified":1566632279,
     "wof:name":"Coatzacoalcos",
     "wof:parent_id":102077467,
     "wof:placetype":"locality",

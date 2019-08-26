@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1341589.543649,
+    "geom:area_square_m":1341589.543647,
     "geom:bbox":"-102.336454304,21.9362248164,-102.324146296,21.9532333832",
     "geom:latitude":21.945722,
     "geom:longitude":-102.329282,
     "iso:country":"MX",
     "lbl:latitude":21.945773,
     "lbl:longitude":-102.329375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.945773,
     "mps:longitude":-102.329375,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Jes\u00fas Mar\u00eda"
     ],
@@ -57,7 +61,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +73,7 @@
         "gp:id":56075251
     },
     "wof:country":"MX",
-    "wof:geomhash":"b773c8fc4dcf4e541f8ef460595a2faa",
+    "wof:geomhash":"c7110326e7327060b0e9968dbbbf26f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101996875,
-    "wof:lastmodified":1479906959,
+    "wof:lastmodified":1566632370,
     "wof:name":"Corral de Barrancos",
     "wof:parent_id":102077359,
     "wof:placetype":"locality",

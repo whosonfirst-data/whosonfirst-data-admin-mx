@@ -11,8 +11,10 @@
     "geom:longitude":-96.475502,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.480502,16.953555,-96.470502,16.963555",
     "lbl:latitude":16.958555,
     "lbl:longitude":-96.475502,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.957703,
     "mps:longitude":-96.47542,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "El Tepeyac"
-    ],
-    "name:unk_x_variant":[
         "El Tepeyac"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686623,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55915516,
-        "qs:id":475906,
         "qs_pg:id":475906
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619595,
     "wof:name":"El Tepeyac",
     "wof:parent_id":101996185,
     "wof:placetype":"neighbourhood",

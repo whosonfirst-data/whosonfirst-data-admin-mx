@@ -9,17 +9,19 @@
     "geom:bbox":"-98.45751,19.14064,-98.45751,19.14064",
     "geom:latitude":19.14064,
     "geom:longitude":-98.45751,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5812,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":5812,
     "iso:country":"MX",
+    "lbl:bbox":"-98.46251,19.13564,-98.45251,19.14564",
     "lbl:latitude":19.14064,
     "lbl:longitude":-98.45751,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Domingo Arenas"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,18 +45,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55907069,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999443,
-        102078123,
-        85686657
+        102078123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1126086571,
-    "wof:lastmodified":1509411429,
+    "wof:lastmodified":1566634076,
     "wof:name":"Ampl Domingo Arenas",
     "wof:parent_id":101999443,
     "wof:placetype":"neighbourhood",

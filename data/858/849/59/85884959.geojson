@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6494191.967425,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.402405,20.763439,-103.402405,20.763439",
     "geom:latitude":20.763439,
     "geom:longitude":-103.402405,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.407405,20.758439,-103.397405,20.768439",
     "lbl:latitude":20.763439,
     "lbl:longitude":-103.402405,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.764514,
     "mps:longitude":-103.401195,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Haciendas Del Valle"
-    ],
-    "name:unk_x_variant":[
         "Fracc Haciendas Del Valle"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
-        102074709,
-        85686603
+        102074709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910244,
-        "qs:id":225707
+        "qs_pg:id":225707
     },
     "wof:country":"MX",
     "wof:geomhash":"66a12945b0b6e59a03420ecf40dd5600",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874675,
+    "wof:lastmodified":1566619649,
     "wof:name":"Fracc Haciendas Del Valle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

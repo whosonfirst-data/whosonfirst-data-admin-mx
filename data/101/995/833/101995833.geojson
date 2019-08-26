@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.237949,
     "lbl:longitude":-97.290936,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":16.237949,
     "mps:longitude":-97.290936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santa Catarina Juquila"
     ],
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Santa Catarina Juquila"
     ],
-    "name:unk_x_variant":[
-        "Juquila"
-    ],
     "name:vie_x_preferred":[
         "Santa Catarina Juquila"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +86,6 @@
         "fct:id":"01d30538-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517669,
         "gp:id":145830,
-        "qs:id":148679,
         "qs_pg:id":148679,
         "wd:id":"Q3890910",
         "wk:page":"Santa Catarina Juquila"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397822,
+    "wof:lastmodified":1566632618,
     "wof:name":"Santa Catarina Juquila",
     "wof:parent_id":102076909,
     "wof:placetype":"locality",

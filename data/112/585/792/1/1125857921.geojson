@@ -9,14 +9,18 @@
     "geom:bbox":"-98.82485,19.47757,-98.82485,19.47757",
     "geom:latitude":19.47757,
     "geom:longitude":-98.82485,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.84485,19.45757,-98.80485,19.49757",
     "lbl:latitude":19.47757,
     "lbl:longitude":-98.82485,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tequexquinahuac"
@@ -29,9 +33,6 @@
     ],
     "name:spa_x_preferred":[
         "Tequexquin\u00e1huac"
-    ],
-    "name:unk_x_variant":[
-        "Tequexquinahuac"
     ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":"MX",
@@ -52,7 +53,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55903414,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1125857921,
-    "wof:lastmodified":1561750706,
+    "wof:lastmodified":1566634312,
     "wof:name":"Tequexquinauac",
     "wof:parent_id":102074023,
     "wof:placetype":"locality",

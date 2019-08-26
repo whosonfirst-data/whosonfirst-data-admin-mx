@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1908038.023653,
+    "geom:area_square_m":1908038.023654,
     "geom:bbox":"-103.496908351,20.3172650924,-103.469637685,20.3314347441",
     "geom:latitude":20.324279,
     "geom:longitude":-103.48218,
     "iso:country":"MX",
     "lbl:latitude":20.327057,
     "lbl:longitude":-103.481044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.327057,
     "mps:longitude":-103.481044,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Zapotit\u00e1n"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101997767,
-    "wof:lastmodified":1501269484,
+    "wof:lastmodified":1566632471,
     "wof:name":"Zapotit\u00e1n de Hidalgo",
     "wof:parent_id":102074827,
     "wof:placetype":"locality",

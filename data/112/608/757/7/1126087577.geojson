@@ -9,14 +9,17 @@
     "geom:bbox":"-110.56667,29.61667,-110.56667,29.61667",
     "geom:latitude":29.61667,
     "geom:longitude":-110.56667,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-110.57167,29.61167,-110.56167,29.62167",
     "lbl:latitude":29.61667,
     "lbl:longitude":-110.56667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "La Huerta"
@@ -27,7 +30,7 @@
     "name:swe_x_preferred":[
         "La Huerta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rancho Huerta"
     ],
     "qs_pg:aaroncc":"MX",
@@ -51,7 +54,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55896253,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Sonora",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1126087577,
-    "wof:lastmodified":1564173640,
+    "wof:lastmodified":1566634096,
     "wof:name":"La Huerta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

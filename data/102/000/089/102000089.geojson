@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.877449,
     "lbl:longitude":-97.588159,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.877449,
     "mps:longitude":-97.588159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zacapoaxtla"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -100,7 +103,6 @@
         "fct:id":"01b9b16e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514179,
         "gp:id":151483,
-        "qs:id":241765,
         "qs_pg:id":241765,
         "wd:id":"Q2449230",
         "wk:page":"Zacapoaxtla (municipality)"
@@ -120,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369727,
+    "wof:lastmodified":1566615698,
     "wof:name":"Zacapoaxtla",
     "wof:parent_id":102078439,
     "wof:placetype":"locality",

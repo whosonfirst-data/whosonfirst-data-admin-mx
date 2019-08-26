@@ -11,8 +11,10 @@
     "geom:longitude":-100.933583,
     "gn:population":59240,
     "iso:country":"MX",
+    "lbl:bbox":"-100.938583,21.152307,-100.928583,21.162307",
     "lbl:latitude":21.157307,
     "lbl:longitude":-100.933583,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.156239,
     "mps:longitude":-100.934143,
     "mz:hierarchy_label":0,
@@ -90,9 +92,8 @@
     "name:swe_x_preferred":[
         "Dolores Hidalgo"
     ],
-    "name:unk_x_variant":[
-        "Ciudad de Dolores Hidalgo",
-        "Dolores Hidalgo Centro"
+    "name:und_x_variant":[
+        "Ciudad de Dolores Hidalgo"
     ],
     "name:vie_x_preferred":[
         "Dolores Hidalgo"
@@ -129,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":424,
     "wof:belongsto":[
@@ -143,10 +144,12 @@
     "wof:concordances":{
         "gn:id":4011865,
         "gp:id":55901523,
-        "qs:id":26692,
-        "qs_pg:id":1104411,
+        "qs_pg:id":26692,
         "wd:id":"Q958153",
         "wk:page":"Dolores Hidalgo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1104411
     },
     "wof:country":"MX",
     "wof:geomhash":"3eb1e092157ac7364c605e4eb4a80814",
@@ -164,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375359,
+    "wof:lastmodified":1566619565,
     "wof:name":"Dolores Hidalgo Centro",
     "wof:parent_id":101996597,
     "wof:placetype":"neighbourhood",

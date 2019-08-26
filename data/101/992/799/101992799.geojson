@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000067,
-    "geom:area_square_m":778630.327579,
+    "geom:area_square_m":778630.327581,
     "geom:bbox":"-99.1496852414,19.7453253779,-99.1435485526,19.7641622085",
     "geom:latitude":19.755177,
     "geom:longitude":-99.146941,
     "iso:country":"MX",
     "lbl:latitude":19.755467,
     "lbl:longitude":-99.146638,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.755467,
     "mps:longitude":-99.146638,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":148809
     },
     "wof:country":"MX",
-    "wof:geomhash":"a736a983ea8cecce8a5b75f3a823d803",
+    "wof:geomhash":"d35bba0fa8e96778a467992286dea2b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992799,
-    "wof:lastmodified":1479931293,
+    "wof:lastmodified":1566632669,
     "wof:name":"La Providencia",
     "wof:parent_id":102074177,
     "wof:placetype":"locality",

@@ -12,10 +12,14 @@
     "iso:country":"MX",
     "lbl:latitude":20.526763,
     "lbl:longitude":-100.113506,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.526763,
     "mps:longitude":-100.113506,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Guadalupe"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101996353,
-    "wof:lastmodified":1501269577,
+    "wof:lastmodified":1566632356,
     "wof:name":"Guadalupe Septi\u00e9n",
     "wof:parent_id":102077119,
     "wof:placetype":"locality",

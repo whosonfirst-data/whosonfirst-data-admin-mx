@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.844671,
     "lbl:longitude":-97.425897,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":17.844671,
     "mps:longitude":-97.425897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Santiago Ihuitl\u00e1n Plumas"
     ],
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Santiago Ihuitl\u00e1n Plumas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iguitlan Plumas"
     ],
     "name:vie_x_preferred":[
@@ -71,7 +74,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101995979,
-    "wof:lastmodified":1563397829,
+    "wof:lastmodified":1566632622,
     "wof:name":"Santiago Ihuitl\u00e1n Plumas",
     "wof:parent_id":102076761,
     "wof:placetype":"locality",

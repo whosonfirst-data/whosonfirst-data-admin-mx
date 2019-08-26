@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2823843.51237,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.83551,16.849234,-99.83551,16.849234",
     "geom:latitude":16.849234,
     "geom:longitude":-99.83551,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.84051,16.844234,-99.83051,16.854234",
     "lbl:latitude":16.849234,
     "lbl:longitude":-99.83551,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.849234,
     "mps:longitude":-99.833379,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Alta Icacos"
-    ],
-    "name:unk_x_variant":[
         "Alta Icacos"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
-        102073945,
-        85686517
+        102073945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888687,
-        "qs:id":1340797,
         "qs_pg:id":1340797
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874181,
+    "wof:lastmodified":1566619554,
     "wof:name":"Alta Icacos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

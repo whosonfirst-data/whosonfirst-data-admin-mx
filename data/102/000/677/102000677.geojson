@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.501993,
     "lbl:longitude":-99.524394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.501993,
     "mps:longitude":-99.524394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Par\u00e1s"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -92,7 +95,6 @@
         "fct:id":"01aed0dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521898,
         "gp:id":136020,
-        "qs:id":1045438,
         "qs_pg:id":1045438,
         "wd:id":"Q3311878",
         "wk:page":"Par\u00e1s, Nuevo Le\u00f3n"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369750,
+    "wof:lastmodified":1566615706,
     "wof:name":"Par\u00e1s",
     "wof:parent_id":102078737,
     "wof:placetype":"locality",

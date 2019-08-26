@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.33769,
     "lbl:longitude":-97.813414,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.33769,
     "mps:longitude":-97.813414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tamal\u00edn"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "fct:id":"01b960e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516410,
         "gp:id":148061,
-        "qs:id":193793,
         "qs_pg:id":193793,
         "wd:id":"Q3846458"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397077,
+    "wof:lastmodified":1566632229,
     "wof:name":"Tamal\u00edn",
     "wof:parent_id":102078665,
     "wof:placetype":"locality",

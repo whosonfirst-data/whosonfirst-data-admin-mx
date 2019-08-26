@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.563443,
     "lbl:longitude":-99.224569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":26.563443,
     "mps:longitude":-99.224569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nueva Ciudad Guerrero"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Nueva Ciudad Guerrero"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad Nueva Guerrero"
     ],
     "qs:a0":"Mexico",
@@ -70,7 +73,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":295,
     "wof:belongsto":[
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3522617,
         "gp:id":55913204,
-        "qs:id":532707,
+        "qs_pg:id":532707,
         "wd:id":"Q1015375",
         "wk:page":"Nueva Ciudad Guerrero"
     },
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":102000977,
-    "wof:lastmodified":1563369689,
+    "wof:lastmodified":1566615681,
     "wof:name":"Nueva Ciudad Guerrero",
     "wof:parent_id":102078939,
     "wof:placetype":"locality",

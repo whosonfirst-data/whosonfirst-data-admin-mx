@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.90466,
     "lbl:longitude":-96.559978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.90466,
     "mps:longitude":-96.559978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Magdalena Teitipac"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "Magdalena Teitipac"
     ],
-    "name:unk_x_variant":[
-        "Teitipac"
-    ],
     "name:vec_x_preferred":[
         "Magdalena Teitipac"
     ],
@@ -91,7 +91,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +104,7 @@
         "fct:id":"01b8a364-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3523745,
         "gp:id":132681,
-        "qs:id":148759,
+        "qs_pg:id":148759,
         "wd:id":"Q3889608",
         "wk:page":"Magdalena Teitipac"
     },
@@ -123,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397854,
+    "wof:lastmodified":1566632634,
     "wof:name":"Magdalena Teitipac",
     "wof:parent_id":102075931,
     "wof:placetype":"locality",

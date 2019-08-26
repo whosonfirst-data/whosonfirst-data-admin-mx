@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3036042.119682,
+    "geom:area_square_m":3036042.119683,
     "geom:bbox":"-97.805364611,25.7691958008,-97.765687521,25.7828449055",
     "geom:latitude":25.776429,
     "geom:longitude":-97.783067,
@@ -14,17 +14,20 @@
     "iso:country":"MX",
     "lbl:latitude":25.778043,
     "lbl:longitude":-97.781732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.778043,
     "mps:longitude":-97.781732,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "An\u00e1huac"
     ],
     "name:spa_x_variant":[
         "Anahuac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Humo"
     ],
     "qs:a0":"Mexico",
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -55,7 +58,9 @@
     "wof:concordances":{
         "gn:id":3532870,
         "gp:id":112124,
-        "qs:id":180021,
+        "qs_pg:id":180021
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1064462
     },
     "wof:country":"MX",
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":102000993,
-    "wof:lastmodified":1507750818,
+    "wof:lastmodified":1566615694,
     "wof:name":"An\u00e1huac",
     "wof:parent_id":102078913,
     "wof:placetype":"locality",

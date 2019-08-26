@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1526973.420769,
+    "geom:area_square_m":1526973.420764,
     "geom:bbox":"-106.788718675,23.7164747908,-106.77155224,23.728306852",
     "geom:latitude":23.722439,
     "geom:longitude":-106.780114,
     "iso:country":"MX",
     "lbl:latitude":23.722252,
     "lbl:longitude":-106.780279,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.722252,
     "mps:longitude":-106.780279,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":118206
     },
     "wof:country":"MX",
-    "wof:geomhash":"33f517bec4dd2445b64b74c443ef3205",
+    "wof:geomhash":"31a43bd43cd24a7bfe32b5c10dfb7b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993615,
-    "wof:lastmodified":1479929977,
+    "wof:lastmodified":1566632800,
     "wof:name":"Dimas (Estaci\u00f3n Dimas)",
     "wof:parent_id":102074311,
     "wof:placetype":"locality",

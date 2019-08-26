@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.784965,
     "lbl:longitude":-103.970738,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.784965,
     "mps:longitude":-103.970738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tonaya"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,6 @@
         "fct:id":"01af1e16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3981365,
         "gp:id":149813,
-        "qs:id":180474,
         "qs_pg:id":180474,
         "wd:id":"Q3844600",
         "wk:page":"Tonaya"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397588,
+    "wof:lastmodified":1566632489,
     "wof:name":"Tonaya",
     "wof:parent_id":102074739,
     "wof:placetype":"locality",

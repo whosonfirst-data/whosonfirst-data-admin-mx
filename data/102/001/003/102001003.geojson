@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":1070998.146115,
+    "geom:area_square_m":1070998.146117,
     "geom:bbox":"-99.0315748958,22.874820083,-99.0171370163,22.8908589197",
     "geom:latitude":22.884306,
     "geom:longitude":-99.025961,
     "iso:country":"MX",
     "lbl:latitude":22.886662,
     "lbl:longitude":-99.02547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.886662,
     "mps:longitude":-99.02547,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tamaulipas",
     "qs:a1_lc":"28",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55921032
     },
     "wof:country":"MX",
-    "wof:geomhash":"fd9425117c684d3437691a489b6feed4",
+    "wof:geomhash":"fbf461c0e66da1be35c71e768bdc9ce7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102001003,
-    "wof:lastmodified":1479907654,
+    "wof:lastmodified":1566615755,
     "wof:name":"Loma Alta (Loma Alta de G\u00f3mez Far\u00edas)",
     "wof:parent_id":102078953,
     "wof:placetype":"locality",

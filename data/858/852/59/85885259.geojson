@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3578019.232227,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.719666,19.606368,-101.719666,19.606368",
     "geom:latitude":19.606368,
     "geom:longitude":-101.719666,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.724666,19.601368,-101.714666,19.611368",
     "lbl:latitude":19.606368,
     "lbl:longitude":-101.719666,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.610072,
     "mps:longitude":-101.719608,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Santo Santiago"
-    ],
-    "name:unk_x_variant":[
         "Barrio Santo Santiago"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
-        102074991,
-        85686595
+        102074991
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55920857,
-        "qs:id":776333,
         "qs_pg:id":776333
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874764,
+    "wof:lastmodified":1566619712,
     "wof:name":"Barrio Santo Santiago",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

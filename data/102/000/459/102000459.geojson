@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1232638.501776,
+    "geom:area_square_m":1232638.501778,
     "geom:bbox":"-98.66302013,21.1655679893,-98.6512981546,21.1798714906",
     "geom:latitude":21.172316,
     "geom:longitude":-98.656277,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.172321,
     "lbl:longitude":-98.656166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.172321,
     "mps:longitude":-98.656166,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Huitzitzilingo"
     ],
@@ -35,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":102000459,
-    "wof:lastmodified":1501268835,
+    "wof:lastmodified":1566615713,
     "wof:name":"Huitzitzilingo",
     "wof:parent_id":102078537,
     "wof:placetype":"locality",

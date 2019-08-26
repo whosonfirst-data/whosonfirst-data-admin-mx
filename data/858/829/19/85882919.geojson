@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8788548.581163,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.069695,19.424682,-102.069695,19.424682",
     "geom:latitude":19.424682,
     "geom:longitude":-102.069695,
     "iso:country":"MX",
+    "lbl:bbox":"-102.074695,19.419682,-102.064695,19.429682",
     "lbl:latitude":19.424682,
     "lbl:longitude":-102.069695,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.426851,
     "mps:longitude":-102.070954,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:spa_x_preferred":[
         "El Parico"
     ],
-    "name:unk_x_variant":[
-        "Guaricho",
-        "El Parico"
+    "name:und_x_variant":[
+        "Guaricho"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -59,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997187,
-        102074973,
-        85686595
+        102074973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4009679,
         "gp:id":55888218,
-        "qs:id":204810,
         "qs_pg:id":204810
     },
     "wof:country":"MX",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874166,
+    "wof:lastmodified":1566619551,
     "wof:name":"El Parico",
     "wof:parent_id":101997187,
     "wof:placetype":"neighbourhood",

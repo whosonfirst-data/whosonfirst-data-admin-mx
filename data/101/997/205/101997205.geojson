@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.490182,
     "lbl:longitude":-101.59473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.490182,
     "mps:longitude":-101.59473,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90275409
     },
     "wof:country":"MX",
-    "wof:geomhash":"9972390c76eb5904435d5f8a3294918c",
+    "wof:geomhash":"f4f2d9286edeb9d92dd0af47d3cf1441",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997205,
-    "wof:lastmodified":1479931042,
+    "wof:lastmodified":1566632457,
     "wof:name":"Colonia Vista Bella (Lomas del Peaje)",
     "wof:parent_id":102074965,
     "wof:placetype":"locality",

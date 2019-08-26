@@ -24,8 +24,12 @@
     "gn:population":66,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-96.40972,16.78972,-96.36972,16.82972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8886779
     },
     "wof:country":"MX",
-    "wof:geomhash":"4d4b58907c6269ddc4179924f1520dbe",
+    "wof:geomhash":"87d442478635297261afb61f3e3414c9",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209188387,
-    "wof:lastmodified":1536295020,
+    "wof:lastmodified":1566627109,
     "wof:name":"Barrio Linda Vista",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -96.38972,
-    16.809720000000002,
+    16.80972,
     -96.38972,
-    16.809720000000002
+    16.80972
 ],
   "geometry": {"coordinates":[-96.38972,16.80972],"type":"Point"}
 }

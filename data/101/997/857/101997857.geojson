@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000718,
-    "geom:area_square_m":8315576.716852,
+    "geom:area_square_m":8315576.716867,
     "geom:bbox":"-103.317196175,20.540878864,-103.289221647,20.5810388449",
     "geom:latitude":20.558746,
     "geom:longitude":-103.304,
     "iso:country":"MX",
     "lbl:latitude":20.557226,
     "lbl:longitude":-103.303742,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.557226,
     "mps:longitude":-103.303742,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gn:id":8858098
     },
     "wof:country":"MX",
-    "wof:geomhash":"aca9c54710468693733401198c21922b",
+    "wof:geomhash":"d00054fff2948d2324dd6b5ed319e1e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997857,
-    "wof:lastmodified":1479931054,
+    "wof:lastmodified":1566632452,
     "wof:name":"Las Pintitas",
     "wof:parent_id":102074711,
     "wof:placetype":"locality",

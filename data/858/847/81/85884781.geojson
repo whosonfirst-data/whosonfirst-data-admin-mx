@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7051648.247405,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.724993,20.838425,-103.724993,20.838425",
     "geom:latitude":20.838425,
     "geom:longitude":-103.724993,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.729993,20.833425,-103.719993,20.843425",
     "lbl:latitude":20.838425,
     "lbl:longitude":-103.724993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.832215,
     "mps:longitude":-103.730342,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio El Cerrito"
-    ],
-    "name:unk_x_variant":[
         "Barrio El Cerrito"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997931,
-        102074717,
-        85686603
+        102074717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55918979,
-        "qs:id":1294809,
         "qs_pg:id":1018834
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294809
     },
     "wof:country":"MX",
     "wof:geomhash":"00e6cada076eb54039aaa03365c0dcd5",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874617,
+    "wof:lastmodified":1566619657,
     "wof:name":"Barrio El Cerrito",
     "wof:parent_id":101997931,
     "wof:placetype":"neighbourhood",

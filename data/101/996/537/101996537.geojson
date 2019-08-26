@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.43997,
     "lbl:longitude":-98.873864,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.43997,
     "mps:longitude":-98.873864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Axtla de Terrazas"
     ],
@@ -73,7 +76,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101996537,
-    "wof:lastmodified":1563397392,
+    "wof:lastmodified":1566632392,
     "wof:name":"Axtla de Terrazas",
     "wof:parent_id":102077137,
     "wof:placetype":"locality",

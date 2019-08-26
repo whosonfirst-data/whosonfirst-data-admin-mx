@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.487767,
     "lbl:longitude":-99.181362,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.487767,
     "mps:longitude":-99.181362,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Azcapotzalco"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,6 @@
         "fct:id":"01af32f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532497,
         "gp:id":112794,
-        "qs:id":943673,
         "qs_pg:id":943673,
         "wd:id":"Q20236918"
     },
@@ -90,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397311,
+    "wof:lastmodified":1566632350,
     "wof:name":"Azcapotzalco",
     "wof:parent_id":102073735,
     "wof:placetype":"locality",

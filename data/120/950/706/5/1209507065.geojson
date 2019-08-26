@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-107.78667,31.34667,-107.74667,31.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":3990710
     },
     "wof:country":"MX",
-    "wof:geomhash":"74ad93df4748b89c4c0daadea4a9de3c",
+    "wof:geomhash":"0dee2750b3e7de53d2542d8e71097ed7",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209507065,
-    "wof:lastmodified":1536285001,
+    "wof:lastmodified":1566626360,
     "wof:name":"Rancho de las Lilas",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -107.76667,
-    31.366670000000006,
+    31.36667000000001,
     -107.76667,
-    31.366670000000006
+    31.36667000000001
 ],
   "geometry": {"coordinates":[-107.76667,31.36667000000001],"type":"Point"}
 }

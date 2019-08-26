@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7423127.373361,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.664609,31.864417,-116.664609,31.864417",
     "geom:latitude":31.864417,
     "geom:longitude":-116.664609,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.669609,31.859417,-116.659609,31.869417",
     "lbl:latitude":31.864417,
     "lbl:longitude":-116.664609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.863505,
     "mps:longitude":-116.671061,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Univ Autonoma de Baja California"
-    ],
-    "name:unk_x_variant":[
         "Univ Autonoma de Baja California"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,19 +54,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
         101993465,
-        102074509,
-        85686541
+        102074509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900184,
-        "qs:id":244066
+        "qs_pg:id":244066
     },
     "wof:country":"MX",
     "wof:geomhash":"c639ae7e553d2a7af5d2cea9dcc6c5a8",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874457,
+    "wof:lastmodified":1566619629,
     "wof:name":"Univ Autonoma de Baja California",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

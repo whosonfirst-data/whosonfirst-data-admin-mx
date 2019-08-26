@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":2330497.325903,
+    "geom:area_square_m":2330497.325897,
     "geom:bbox":"-100.115843654,19.3822980124,-100.094329377,19.3988221849",
     "geom:latitude":19.389375,
     "geom:longitude":-100.105366,
     "iso:country":"MX",
     "lbl:latitude":19.389211,
     "lbl:longitude":-100.105519,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.389211,
     "mps:longitude":-100.105519,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889403
     },
     "wof:country":"MX",
-    "wof:geomhash":"3d47d883a56f25ddf6d13d0dd0590fa6",
+    "wof:geomhash":"e4aeedbde13d4204419bfe966505d3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991613,
-    "wof:lastmodified":1479933364,
+    "wof:lastmodified":1566632332,
     "wof:name":"San Felipe Santiago",
     "wof:parent_id":102073999,
     "wof:placetype":"locality",

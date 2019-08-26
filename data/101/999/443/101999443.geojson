@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.138687,
     "lbl:longitude":-98.448694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.138687,
     "mps:longitude":-98.448694,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Domingo Arenas"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -78,7 +81,7 @@
         "fct:id":"01ae9ec8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529730,
         "gp:id":55907069,
-        "qs:id":533548,
+        "qs_pg:id":533548,
         "wd:id":"Q5290343",
         "wk:page":"Domingo Arenas (municipality)"
     },
@@ -97,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397721,
+    "wof:lastmodified":1566632563,
     "wof:name":"Domingo Arenas",
     "wof:parent_id":102078123,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-92.338127,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.343127,16.781135,-92.333127,16.791135",
     "lbl:latitude":16.786135,
     "lbl:longitude":-92.338127,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.786135,
     "mps:longitude":-92.340088,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Centro"
-    ],
-    "name:unk_x_variant":[
         "Barrio Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686611,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55918647,
-        "qs:id":264861,
         "qs_pg:id":264861
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957726,
+    "wof:lastmodified":1566619715,
     "wof:name":"Barrio Centro",
     "wof:parent_id":101994541,
     "wof:placetype":"neighbourhood",

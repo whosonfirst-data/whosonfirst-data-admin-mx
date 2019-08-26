@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000482,
-    "geom:area_square_m":5589125.083426,
+    "geom:area_square_m":5589125.083433,
     "geom:bbox":"-99.0133867853,20.2410975369,-98.9859244593,20.2663883762",
     "geom:latitude":20.253235,
     "geom:longitude":-99.001973,
@@ -14,10 +14,14 @@
     "iso:country":"MX",
     "lbl:latitude":20.251383,
     "lbl:longitude":-99.00445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.251383,
     "mps:longitude":-99.00445,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "San Antonio"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102000271,
-    "wof:lastmodified":1501267422,
+    "wof:lastmodified":1566615704,
     "wof:name":"San Antonio Zaragoza",
     "wof:parent_id":102078645,
     "wof:placetype":"locality",

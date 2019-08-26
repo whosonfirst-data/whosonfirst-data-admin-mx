@@ -9,14 +9,17 @@
     "geom:bbox":"-98.78764,20.04974,-98.78764,20.04974",
     "geom:latitude":20.04974,
     "geom:longitude":-98.78764,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.79264,20.04474,-98.78264,20.05474",
     "lbl:latitude":20.04974,
     "lbl:longitude":-98.78764,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Antonio del Desmonte"
@@ -45,17 +48,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55884121,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Hidalgo",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686665,
         102191575,
         85633293,
         102000455,
-        102078641,
-        85686665
+        102078641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126071713,
-    "wof:lastmodified":1509410709,
+    "wof:lastmodified":1566634261,
     "wof:name":"Ampl San Antonio El Desmonte",
     "wof:parent_id":102000455,
     "wof:placetype":"neighbourhood",

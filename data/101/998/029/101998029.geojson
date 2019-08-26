@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":871869.557703,
+    "geom:area_square_m":871869.557705,
     "geom:bbox":"-101.657668839,21.8848271394,-101.642804296,21.8971560957",
     "geom:latitude":21.89106,
     "geom:longitude":-101.650754,
     "iso:country":"MX",
     "lbl:latitude":21.891293,
     "lbl:longitude":-101.650023,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.891293,
     "mps:longitude":-101.650023,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":133142
     },
     "wof:country":"MX",
-    "wof:geomhash":"39369c12d24fe71542c36cfba142ecdb",
+    "wof:geomhash":"ce4fd0fe3115e30b25c771b5940e45cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998029,
-    "wof:lastmodified":1479930451,
+    "wof:lastmodified":1566632267,
     "wof:name":"Matancillas (San Isidro Matancillas)",
     "wof:parent_id":102074617,
     "wof:placetype":"locality",

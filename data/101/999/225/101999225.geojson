@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2843662.107,
+    "geom:area_square_m":2843662.107002,
     "geom:bbox":"-97.9805969469,19.0428040504,-97.9610041475,19.0630736284",
     "geom:latitude":19.053112,
     "geom:longitude":-97.9701,
     "iso:country":"MX",
     "lbl:latitude":19.053881,
     "lbl:longitude":-97.969306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.053881,
     "mps:longitude":-97.969306,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889486
     },
     "wof:country":"MX",
-    "wof:geomhash":"4e0e14e1792e9b5aed62820d3381b20f",
+    "wof:geomhash":"42891d77d0d4762663cfedf8f1aee6f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999225,
-    "wof:lastmodified":1479907610,
+    "wof:lastmodified":1566632567,
     "wof:name":"Santa Mar\u00eda Nenetzintla",
     "wof:parent_id":102077997,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3142890.506218,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.664246,19.23077,-103.664246,19.23077",
     "geom:latitude":19.23077,
     "geom:longitude":-103.664246,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.669246,19.22577,-103.659246,19.23577",
     "lbl:latitude":19.23077,
     "lbl:longitude":-103.664246,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.230231,
     "mps:longitude":-103.662376,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     "name:spa_x_preferred":[
         "Burocratas",
         "Muerte de un bur\u00f3crata"
-    ],
-    "name:unk_x_variant":[
-        "Burocratas"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -71,17 +70,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686587,
         102191575,
         85633293,
-        102074547,
-        85686587
+        102074547
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887025,
-        "qs:id":1340625,
         "qs_pg:id":1340625
     },
     "wof:country":"MX",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874133,
+    "wof:lastmodified":1566619569,
     "wof:name":"Burocratas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

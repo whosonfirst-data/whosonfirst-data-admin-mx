@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.216602,
     "lbl:longitude":-100.799308,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.216602,
     "mps:longitude":-100.799308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cerro de San Pedro"
     ],
@@ -62,9 +65,6 @@
     "name:swe_x_preferred":[
         "Cerro de San Pedro"
     ],
-    "name:unk_x_variant":[
-        "San Pedro"
-    ],
     "name:vec_x_preferred":[
         "Cerro de San Pedro"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -100,7 +100,6 @@
         "fct:id":"01af6a74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4014742,
         "gp:id":115389,
-        "qs:id":1155832,
         "qs_pg:id":1155832,
         "wd:id":"Q3311798",
         "wk:page":"Cerro de San Pedro"
@@ -120,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398113,
+    "wof:lastmodified":1566632768,
     "wof:name":"Cerro de San Pedro",
     "wof:parent_id":102077237,
     "wof:placetype":"locality",

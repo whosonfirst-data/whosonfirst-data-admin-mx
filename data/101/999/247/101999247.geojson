@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.060534,
     "lbl:longitude":-97.720821,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.060534,
     "mps:longitude":-97.720821,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Sebasti\u00e1n Villanueva"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Sebasti\u00e1n Villanueva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villanueva"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3517797,
         "gp:id":145438,
-        "qs:id":1117311,
         "qs_pg:id":1117311,
         "wd:id":"Q20231891"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101999247,
-    "wof:lastmodified":1563397725,
+    "wof:lastmodified":1566632565,
     "wof:name":"San Sebasti\u00e1n Villanueva",
     "wof:parent_id":102078001,
     "wof:placetype":"locality",

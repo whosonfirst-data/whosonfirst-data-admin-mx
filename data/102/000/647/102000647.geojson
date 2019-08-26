@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.418261,
     "lbl:longitude":-100.146558,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":25.418261,
     "mps:longitude":-100.146558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Santiago"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -108,10 +111,12 @@
         "fct:id":"01b6772e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3983671,
         "gp:id":147007,
-        "qs:id":151265,
-        "qs_pg:id":1074335,
+        "qs_pg:id":151265,
         "wd:id":"Q3241435",
         "wk:page":"Santiago, Nuevo Le\u00f3n"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074335
     },
     "wof:country":"MX",
     "wof:geomhash":"95658aaf905c8ba5598ec29152800d95",
@@ -128,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369735,
+    "wof:lastmodified":1566615702,
     "wof:name":"Santiago",
     "wof:parent_id":102078681,
     "wof:placetype":"locality",

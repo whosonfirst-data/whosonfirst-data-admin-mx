@@ -9,14 +9,17 @@
     "geom:bbox":"-108.106545608,25.4302441884,-108.045405857,25.4890267946",
     "geom:latitude":25.459326,
     "geom:longitude":-108.078045,
-    "geonames:id":"4005297,4005298",
+    "gn:id":"4005297,4005298",
     "iso:country":"MX",
     "lbl:latitude":25.460771,
     "lbl:longitude":-108.078586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.460771,
     "mps:longitude":-108.078586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Guam\u00fachil"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":302,
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101993621,
-    "wof:lastmodified":1561750599,
+    "wof:lastmodified":1566632758,
     "wof:name":"Guam\u00fachil",
     "wof:parent_id":102074313,
     "wof:placetype":"locality",

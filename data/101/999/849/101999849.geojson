@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.713619,
     "lbl:longitude":-98.262076,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.713619,
     "mps:longitude":-98.262076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Teopantl\u00e1n"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,6 @@
         "fct:id":"01b973de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515939,
         "gp:id":148814,
-        "qs:id":1204035,
         "qs_pg:id":1204035,
         "wd:id":"Q2449105",
         "wk:page":"Teopantl\u00e1n (municipality)"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397724,
+    "wof:lastmodified":1566632565,
     "wof:name":"Teopantl\u00e1n",
     "wof:parent_id":102078335,
     "wof:placetype":"locality",

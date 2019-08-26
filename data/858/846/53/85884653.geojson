@@ -10,8 +10,10 @@
     "geom:latitude":20.610414,
     "geom:longitude":-105.228988,
     "iso:country":"MX",
+    "lbl:bbox":"-105.233988,20.605414,-105.223988,20.615414",
     "lbl:latitude":20.610414,
     "lbl:longitude":-105.228988,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.610314,
     "mps:longitude":-105.223612,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Palito Verde"
-    ],
-    "name:unk_x_variant":[
         "Palito Verde"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -70,8 +69,10 @@
     "wof:concordances":{
         "gn:id":3993575,
         "gp:id":55884826,
-        "qs:id":1119094,
         "qs_pg:id":1002826
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1119094
     },
     "wof:country":"MX",
     "wof:geomhash":"f8763dbd475753d7fab85dc19cba3e29",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957722,
+    "wof:lastmodified":1566619635,
     "wof:name":"Palito Verde",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":20.727101,
     "geom:longitude":-103.308524,
     "iso:country":"MX",
+    "lbl:bbox":"-103.313524,20.722101,-103.303524,20.732101",
     "lbl:latitude":20.727101,
     "lbl:longitude":-103.308524,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.72191,
     "mps:longitude":-103.30929,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:spa_x_preferred":[
         "Huentitan El Bajo"
     ],
-    "name:unk_x_variant":[
-        "Huentitan",
-        "Huentitan El Bajo"
+    "name:und_x_variant":[
+        "Huentitan"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -59,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -71,7 +72,6 @@
     "wof:concordances":{
         "gn:id":4004614,
         "gp:id":55904225,
-        "qs:id":239300,
         "qs_pg:id":239300
     },
     "wof:country":"MX",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957721,
+    "wof:lastmodified":1566619561,
     "wof:name":"Huentitan El Bajo",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

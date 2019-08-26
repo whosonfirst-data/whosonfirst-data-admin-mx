@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2405866.996553,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.213318,20.60965,-105.213318,20.60965",
     "geom:latitude":20.60965,
     "geom:longitude":-105.213318,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.218318,20.60465,-105.208318,20.61465",
     "lbl:latitude":20.60965,
     "lbl:longitude":-105.213318,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.609649,
     "mps:longitude":-105.210353,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Gastronomicos"
-    ],
-    "name:unk_x_variant":[
         "Gastronomicos"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
-        102074595,
-        85686603
+        102074595
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55905384,
-        "qs:id":970552,
         "qs_pg:id":970552
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874572,
+    "wof:lastmodified":1566619636,
     "wof:name":"Gastronomicos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-99.501719,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.506719,17.548309,-99.496719,17.558309",
     "lbl:latitude":17.553309,
     "lbl:longitude":-99.501719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.552391,
     "mps:longitude":-99.500427,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Chilpancingo de Los Bravo Centro"
-    ],
-    "name:unk_x_variant":[
         "Chilpancingo de Los Bravo Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686517,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891347,
-        "qs:id":474768,
         "qs_pg:id":474768
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619682,
     "wof:name":"Chilpancingo de Los Bravo Centro",
     "wof:parent_id":101991453,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,18 @@
     "geom:bbox":"-91.81667,16.16667,-91.81667,16.16667",
     "geom:latitude":16.16667,
     "geom:longitude":-91.81667,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-91.83667,16.14667,-91.79667,16.18667",
     "lbl:latitude":16.16667,
     "lbl:longitude":-91.81667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "San Rafael"
@@ -84,7 +88,7 @@
     "name:swe_x_preferred":[
         "San Rafael"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Rafael el Arco"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +118,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":145276,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Chiapas",
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1125886821,
-    "wof:lastmodified":1564173453,
+    "wof:lastmodified":1566633989,
     "wof:name":"San Rafael",
     "wof:parent_id":102075519,
     "wof:placetype":"locality",

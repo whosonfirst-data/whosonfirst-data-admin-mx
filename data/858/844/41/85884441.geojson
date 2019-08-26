@@ -11,8 +11,10 @@
     "geom:longitude":-103.318176,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.323176,20.681754,-103.313176,20.691754",
     "lbl:latitude":20.686754,
     "lbl:longitude":-103.318176,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.686374,
     "mps:longitude":-103.315878,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Fracc Belisario Dominguez"
-    ],
-    "name:unk_x_variant":[
         "Fracc Belisario Dominguez"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903807,
-        "qs:id":226427,
         "qs_pg:id":226427
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957719,
+    "wof:lastmodified":1566619590,
     "wof:name":"Fracc Belisario Dominguez",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

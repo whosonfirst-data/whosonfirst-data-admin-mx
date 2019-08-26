@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1929440.718671,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.280969,25.682411,-100.280969,25.682411",
     "geom:latitude":25.682411,
     "geom:longitude":-100.280969,
     "iso:country":"MX",
+    "lbl:bbox":"-100.285969,25.677411,-100.275969,25.687411",
     "lbl:latitude":25.682411,
     "lbl:longitude":-100.280969,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.687278,
     "mps:longitude":-100.282242,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Acero"
-    ],
-    "name:unk_x_variant":[
         "Acero"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3991086,
         "gp:id":55899203,
-        "qs:id":73339,
         "qs_pg:id":73339
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874426,
+    "wof:lastmodified":1566619710,
     "wof:name":"Acero",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

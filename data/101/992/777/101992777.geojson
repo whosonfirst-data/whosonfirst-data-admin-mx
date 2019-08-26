@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.224344,
     "lbl:longitude":-98.812417,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.224344,
     "mps:longitude":-98.812417,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Miraflores"
     ],
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3761194,
         "gp:id":144449,
-        "qs:id":150297,
+        "qs_pg:id":150297,
         "wd:id":"Q20146611"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101992777,
-    "wof:lastmodified":1563397995,
+    "wof:lastmodified":1566632702,
     "wof:name":"San Mateo Tezoquipan",
     "wof:parent_id":102074173,
     "wof:placetype":"locality",

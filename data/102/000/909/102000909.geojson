@@ -9,14 +9,17 @@
     "geom:bbox":"-103.336172348,25.6356773733,-103.317926538,25.6454359066",
     "geom:latitude":25.640649,
     "geom:longitude":-103.327567,
-    "geonames:id":"3977506,4010787",
+    "gn:id":"3977506,4010787",
     "iso:country":"MX",
     "lbl:latitude":25.640542,
     "lbl:longitude":-103.328476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.640542,
     "mps:longitude":-103.328476,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "El Cambio"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":333,
     "wof:belongsto":[
         102191575,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102000909,
-    "wof:lastmodified":1563369629,
+    "wof:lastmodified":1566615651,
     "wof:name":"El Cambio",
     "wof:parent_id":102078793,
     "wof:placetype":"locality",

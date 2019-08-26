@@ -5,19 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":3971243.731082,
+    "geom:area_square_m":3971243.731078,
     "geom:bbox":"-100.347847465,20.6013920386,-100.311963622,20.6242574811",
     "geom:latitude":20.611361,
     "geom:longitude":-100.328858,
-    "geonames:id":"4003210,4003211",
+    "gn:id":"4003210,4003211",
     "iso:country":"MX",
     "lbl:latitude":20.607451,
     "lbl:longitude":-100.334562,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.607451,
     "mps:longitude":-100.334562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "El Marques"
     ],
     "qs:a0":"Mexico",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":321,
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101996313,
-    "wof:lastmodified":1527641806,
+    "wof:lastmodified":1566632389,
     "wof:name":"La Ca\u00f1ada",
     "wof:parent_id":102077107,
     "wof:placetype":"locality",

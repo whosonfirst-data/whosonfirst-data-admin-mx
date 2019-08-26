@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.91208,
     "lbl:longitude":-99.07576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.91208,
     "mps:longitude":-99.07576,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hueypoxtla"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,6 @@
         "fct:id":"01b861b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526928,
         "gp:id":125183,
-        "qs:id":982621,
         "qs_pg:id":982621,
         "wd:id":"Q2606751",
         "wk:page":"Hueypoxtla"
@@ -115,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397948,
+    "wof:lastmodified":1566632676,
     "wof:name":"Hueypoxtla",
     "wof:parent_id":102074149,
     "wof:placetype":"locality",

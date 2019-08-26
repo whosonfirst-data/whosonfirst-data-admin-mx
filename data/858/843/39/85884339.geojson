@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.374261,
     "lbl:longitude":-99.172636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.37613,
     "mps:longitude":-99.171345,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Centro Urbano Presidente Aleman"
-    ],
-    "name:unk_x_variant":[
         "Centro Urbano Presidente Aleman"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902789,
-        "qs:id":383360
+        "qs_pg:id":383360
     },
     "wof:country":"MX",
     "wof:geomhash":"d4dc313ffdb40af5f70a2e0613db4cb5",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527269997,
+    "wof:lastmodified":1566619583,
     "wof:name":"Centro Urbano Presidente Aleman",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

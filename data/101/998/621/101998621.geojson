@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.202502,
     "lbl:longitude":-97.853875,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":22.202502,
     "mps:longitude":-97.853875,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Anahuac"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_preferred":[
         "Anahuac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Humo"
     ],
     "qs:a0":"Mexico",
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         "fct:id":"01c3c366-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532870,
         "gp:id":112124,
-        "qs:id":1064462,
+        "qs_pg:id":1064462,
         "wd:id":"Q20136240"
     },
     "wof:country":"MX",
@@ -81,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397086,
+    "wof:lastmodified":1566632232,
     "wof:name":"An\u00e1huac",
     "wof:parent_id":102077673,
     "wof:placetype":"locality",

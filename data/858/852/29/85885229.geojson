@@ -11,8 +11,10 @@
     "geom:longitude":-91.992779,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-91.997779,17.518341,-91.987779,17.528341",
     "lbl:latitude":17.523341,
     "lbl:longitude":-91.992779,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.525802,
     "mps:longitude":-91.992782,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Guayacan la Lomita"
-    ],
-    "name:unk_x_variant":[
         "Fracc Guayacan la Lomita"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686611,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919331,
-        "qs:id":581763,
         "qs_pg:id":581763
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957726,
+    "wof:lastmodified":1566619713,
     "wof:name":"Fracc Guayacan la Lomita",
     "wof:parent_id":101994537,
     "wof:placetype":"neighbourhood",

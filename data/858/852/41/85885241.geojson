@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6966361.223482,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.054986,19.972593,-102.054986,19.972593",
     "geom:latitude":19.972593,
     "geom:longitude":-102.054986,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.059986,19.967593,-102.049986,19.977593",
     "lbl:latitude":19.972593,
     "lbl:longitude":-102.054986,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.972027,
     "mps:longitude":-102.054373,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Tlazazalca Centro"
-    ],
-    "name:unk_x_variant":[
         "Tlazazalca Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997443,
-        102075077,
-        85686595
+        102075077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919708,
-        "qs:id":1120083,
         "qs_pg:id":1120083
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874759,
+    "wof:lastmodified":1566619715,
     "wof:name":"Tlazazalca Centro",
     "wof:parent_id":101997443,
     "wof:placetype":"neighbourhood",

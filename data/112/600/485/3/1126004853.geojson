@@ -9,15 +9,18 @@
     "geom:bbox":"-103.15,18.78333,-103.15,18.78333",
     "geom:latitude":18.78333,
     "geom:longitude":-103.15,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10715,
-    "gn:population":10784,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":10715,
     "iso:country":"MX",
+    "lbl:bbox":"-103.17,18.76333,-103.13,18.80333",
     "lbl:latitude":18.78333,
     "lbl:longitude":-103.15,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Coalcom\u00e1n de V\u00e1zquez Pallares"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Coalcom\u00e1n de V\u00e1zquez Pallares"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matamoros"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":116610,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1126004853,
-    "wof:lastmodified":1563400699,
+    "wof:lastmodified":1566634191,
     "wof:name":"Coalcom\u00e1n de Matamoros",
     "wof:parent_id":102074901,
     "wof:placetype":"locality",

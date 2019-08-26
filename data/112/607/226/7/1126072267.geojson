@@ -9,14 +9,17 @@
     "geom:bbox":"-100.4137,21.2357,-100.4137,21.2357",
     "geom:latitude":21.2357,
     "geom:longitude":-100.4137,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.4187,21.2307,-100.4087,21.2407",
     "lbl:latitude":21.2357,
     "lbl:longitude":-100.4137,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "La Semita"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55882476,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Queretaro de Arteaga",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
-        102077321,
-        85686629
+        102077321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126072267,
-    "wof:lastmodified":1509410736,
+    "wof:lastmodified":1566634210,
     "wof:name":"La Sierrita",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

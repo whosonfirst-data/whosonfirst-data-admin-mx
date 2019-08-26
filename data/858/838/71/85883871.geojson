@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.481456,
     "lbl:longitude":-99.125139,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.479125,
     "mps:longitude":-99.124549,
     "mz:hierarchy_label":1,
@@ -42,9 +43,6 @@
     "name:tur_x_preferred":[
         "End\u00fcstriyel"
     ],
-    "name:unk_x_variant":[
-        "Industrial"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0646\u0639\u062a\u06cc"
     ],
@@ -73,7 +71,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -87,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898640,
-        "qs:id":1341994
+        "qs_pg:id":1341994
     },
     "wof:country":"MX",
     "wof:geomhash":"0197b5481618b8cb3f08a5e26f4375b3",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147326,
+    "wof:lastmodified":1566619677,
     "wof:name":"Industrial",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

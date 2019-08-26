@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.913037,
     "lbl:longitude":-109.627909,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":26.913037,
     "mps:longitude":-109.627909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Etchojoa"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Etchojoa"
     ],
-    "name:unk_x_variant":[
-        "Elchojoa"
-    ],
     "name:vec_x_preferred":[
         "Etchojoa"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +104,6 @@
         "fct:id":"01b84da6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4006388,
         "gp:id":123570,
-        "qs:id":180135,
         "qs_pg:id":180135,
         "wd:id":"Q1360265",
         "wk:page":"Etchojoa"
@@ -124,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398146,
+    "wof:lastmodified":1566632785,
     "wof:name":"Etchojoa",
     "wof:parent_id":102074343,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
-    "geom:area_square_m":551136.917317,
+    "geom:area_square_m":551136.917319,
     "geom:bbox":"-97.2522784792,20.6392928456,-97.2459295937,20.6472431567",
     "geom:latitude":20.643206,
     "geom:longitude":-97.249144,
     "iso:country":"MX",
     "lbl:latitude":20.6432,
     "lbl:longitude":-97.249144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.6432,
     "mps:longitude":-97.249144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cerro El Volador"
     ],
@@ -31,7 +34,7 @@
     "name:swe_x_preferred":[
         "Cerro El Volador"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Volador"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101998581,
-    "wof:lastmodified":1527641759,
+    "wof:lastmodified":1566632249,
     "wof:name":"El Volador",
     "wof:parent_id":102077653,
     "wof:placetype":"locality",

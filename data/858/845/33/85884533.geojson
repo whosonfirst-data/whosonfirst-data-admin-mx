@@ -11,8 +11,10 @@
     "geom:longitude":-103.398041,
     "gn:population":20323,
     "iso:country":"MX",
+    "lbl:bbox":"-103.403041,20.659946,-103.393041,20.669946",
     "lbl:latitude":20.664946,
     "lbl:longitude":-103.398041,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.66455,
     "mps:longitude":-103.400927,
     "mz:hierarchy_label":0,
@@ -54,10 +56,6 @@
     "name:srp_x_preferred":[
         "\u0427\u0430\u043f\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Chapala",
-        "Chapalita"
-    ],
     "name:vie_x_preferred":[
         "Chapala"
     ],
@@ -90,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686603,
@@ -103,7 +101,6 @@
     "wof:concordances":{
         "gn:id":4014553,
         "gp:id":55904188,
-        "qs:id":1258608,
         "qs_pg:id":1258608,
         "wd:id":"Q1062635"
     },
@@ -123,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375348,
+    "wof:lastmodified":1566619556,
     "wof:name":"Chapalita",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

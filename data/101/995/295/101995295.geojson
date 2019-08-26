@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.06307,
     "lbl:longitude":-97.672397,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.06307,
     "mps:longitude":-97.672397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Esteban Atatlahuca"
     ],
@@ -55,9 +58,6 @@
     "name:swe_x_preferred":[
         "San Esteban Atatlahuca"
     ],
-    "name:unk_x_variant":[
-        "Aiatlahuca"
-    ],
     "name:vie_x_preferred":[
         "San Esteban Atatlahuca"
     ],
@@ -76,7 +76,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397810,
+    "wof:lastmodified":1566632613,
     "wof:name":"San Esteban Atatlahuca",
     "wof:parent_id":102076959,
     "wof:placetype":"locality",

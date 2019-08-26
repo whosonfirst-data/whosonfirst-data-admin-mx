@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5556011.257983,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.281387,25.639134,-100.281387,25.639134",
     "geom:latitude":25.639134,
     "geom:longitude":-100.281387,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.286387,25.634134,-100.276387,25.644134",
     "lbl:latitude":25.639134,
     "lbl:longitude":-100.281387,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.63891,
     "mps:longitude":-100.275719,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Contry"
-    ],
-    "name:unk_x_variant":[
         "Contry"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897855,
-        "qs:id":270027,
         "qs_pg:id":270027
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874406,
+    "wof:lastmodified":1566619684,
     "wof:name":"Contry",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

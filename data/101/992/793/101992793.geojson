@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1860723.208384,
+    "geom:area_square_m":1860723.208377,
     "geom:bbox":"-98.8561734237,19.2338612442,-98.8379612519,19.2490290075",
     "geom:latitude":19.241374,
     "geom:longitude":-98.847637,
     "iso:country":"MX",
     "lbl:latitude":19.240372,
     "lbl:longitude":-98.847496,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.240372,
     "mps:longitude":-98.847496,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Candelaria Tlapala"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101992793,
-    "wof:lastmodified":1504309911,
+    "wof:lastmodified":1566632706,
     "wof:name":"La Candelaria Tlapala",
     "wof:parent_id":102074173,
     "wof:placetype":"locality",

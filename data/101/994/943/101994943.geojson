@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2954144.367434,
+    "geom:area_square_m":2954144.367438,
     "geom:bbox":"-93.4934194272,17.6565085041,-93.4677562409,17.6778631791",
     "geom:latitude":17.667305,
     "geom:longitude":-93.481165,
     "iso:country":"MX",
     "lbl:latitude":17.666944,
     "lbl:longitude":-93.481162,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.666944,
     "mps:longitude":-93.481162,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "La Chontalpa"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101994943,
-    "wof:lastmodified":1504309871,
+    "wof:lastmodified":1566632904,
     "wof:name":"Chontalpa (Estaci\u00f3n Chontalpa)",
     "wof:parent_id":102075769,
     "wof:placetype":"locality",

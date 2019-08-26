@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":2722700.322865,
+    "geom:area_square_m":2722700.322863,
     "geom:bbox":"-89.8285778603,21.2484807595,-89.7765633219,21.2632354967",
     "geom:latitude":21.255855,
     "geom:longitude":-89.800821,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.255834,
     "lbl:longitude":-89.800465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.255834,
     "mps:longitude":-89.800465,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chuburn\u00e1"
     ],
@@ -37,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,7 +52,6 @@
     "wof:concordances":{
         "gn:id":3530735,
         "gp:id":116216,
-        "qs:id":1316908,
         "qs_pg:id":1316908
     },
     "wof:country":"MX",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102001259,
-    "wof:lastmodified":1497298374,
+    "wof:lastmodified":1566615735,
     "wof:name":"Chuburn\u00e1",
     "wof:parent_id":102078975,
     "wof:placetype":"locality",

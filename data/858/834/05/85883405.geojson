@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3246496.237665,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.023621,32.465744,-117.023621,32.465744",
     "geom:latitude":32.465744,
     "geom:longitude":-117.023621,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-117.028621,32.460744,-117.018621,32.470744",
     "lbl:latitude":32.465744,
     "lbl:longitude":-117.023621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.465743,
     "mps:longitude":-117.023629,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Valle Del sur"
-    ],
-    "name:unk_x_variant":[
         "Valle Del sur"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
-        102074501,
-        85686541
+        102074501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894385,
-        "qs:id":1092408
+        "qs_pg:id":1092408
     },
     "wof:country":"MX",
     "wof:geomhash":"91f0ad204ebd5602f4c907218ae0b77a",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874321,
+    "wof:lastmodified":1566619622,
     "wof:name":"Valle Del sur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

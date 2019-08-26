@@ -9,14 +9,17 @@
     "geom:bbox":"-99.33008,19.41909,-99.33008,19.41909",
     "geom:latitude":19.41909,
     "geom:longitude":-99.33008,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.33508,19.41409,-99.32508,19.42409",
     "lbl:latitude":19.41909,
     "lbl:longitude":-99.33008,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "La Magdalena Chichicaspa"
@@ -24,7 +27,7 @@
     "name:spa_x_variant":[
         "Magdalena Chichicaspa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chichicaspa"
     ],
     "qs_pg:aaroncc":"MX",
@@ -44,7 +47,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55898994,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126061137,
-    "wof:lastmodified":1564173827,
+    "wof:lastmodified":1566634184,
     "wof:name":"La Magdalena Chichicaspa",
     "wof:parent_id":101992691,
     "wof:placetype":"neighbourhood",

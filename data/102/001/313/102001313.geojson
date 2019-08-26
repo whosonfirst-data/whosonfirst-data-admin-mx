@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.717411,
     "lbl:longitude":-88.317141,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.717411,
     "mps:longitude":-88.317141,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Uayma"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Uayma"
     ],
-    "name:unk_x_variant":[
-        "Uaym\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Uayma"
     ],
@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -80,7 +80,6 @@
         "fct:id":"01af20a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514952,
         "gp:id":150328,
-        "qs:id":246725,
         "qs_pg:id":246725,
         "wd:id":"Q1999633",
         "wk:page":"Uayma"
@@ -100,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369823,
+    "wof:lastmodified":1566615743,
     "wof:name":"Uayma",
     "wof:parent_id":102079103,
     "wof:placetype":"locality",

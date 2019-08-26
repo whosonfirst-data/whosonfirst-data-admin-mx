@@ -9,14 +9,17 @@
     "geom:bbox":"-104.123628381,25.2128380764,-104.098860712,25.235531942",
     "geom:latitude":25.223891,
     "geom:longitude":-104.11225,
-    "geonames:id":"3995006,3995005",
+    "gn:id":"3995006,3995005",
     "iso:country":"MX",
     "lbl:latitude":25.221913,
     "lbl:longitude":-104.11553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.221913,
     "mps:longitude":-104.11553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nazas"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101994127,
-    "wof:lastmodified":1563398295,
+    "wof:lastmodified":1566632862,
     "wof:name":"Nazas",
     "wof:parent_id":102075173,
     "wof:placetype":"locality",

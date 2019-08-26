@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":1126607.306625,
+    "geom:area_square_m":1126607.306623,
     "geom:bbox":"-93.5715532339,18.1074838929,-93.5588924419,18.1172931378",
     "geom:latitude":18.11205,
     "geom:longitude":-93.565816,
     "iso:country":"MX",
     "lbl:latitude":18.112116,
     "lbl:longitude":-93.565695,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.112116,
     "mps:longitude":-93.565695,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55896479
     },
     "wof:country":"MX",
-    "wof:geomhash":"c7ed670a943449ce63e827323c8c2598",
+    "wof:geomhash":"831a04eebaaae7c71355f818b825cf54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994863,
-    "wof:lastmodified":1479904397,
+    "wof:lastmodified":1566632895,
     "wof:name":"Poblado C-15 Adolfo L\u00f3pez Mateos",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.104436,
     "lbl:longitude":-101.93332,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.104436,
     "mps:longitude":-101.93332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Penjamillo"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Penjamillo de Degollado"
     ],
-    "name:unk_x_variant":[
-        "Penjamillo"
-    ],
     "name:vie_x_preferred":[
         "Penjamillo"
     ],
@@ -68,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -81,7 +81,7 @@
         "fct:id":"01b8d514-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3992987,
         "gp:id":55919664,
-        "qs:id":1047555,
+        "qs_pg:id":1047555,
         "wd:id":"Q3888788",
         "wk:page":"Penjamillo"
     },
@@ -100,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397520,
+    "wof:lastmodified":1566632454,
     "wof:name":"Penjamillo de Degollado",
     "wof:parent_id":102075091,
     "wof:placetype":"locality",

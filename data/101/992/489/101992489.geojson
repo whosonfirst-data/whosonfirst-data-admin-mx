@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.423081,
     "lbl:longitude":-99.041199,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":19.403363,
     "mps:longitude":-99.021564,
     "mz:hierarchy_label":1,
@@ -416,7 +418,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":3936,
     "wof:belongsto":[
@@ -430,7 +432,7 @@
         "fct:id":"01c1640e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530589,
         "gp:id":116564,
-        "qs:id":274399,
+        "qs_pg:id":274399,
         "wd:id":"Q210307",
         "wk:page":"Ciudad Nezahualc\u00f3yotl"
     },
@@ -449,7 +451,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398030,
+    "wof:lastmodified":1566632724,
     "wof:name":"Ciudad Nezahualc\u00f3yotl",
     "wof:parent_id":102074107,
     "wof:placetype":"locality",

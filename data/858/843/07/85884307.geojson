@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":836116.59361,
+    "geom:area_square_m":836116.593612,
     "geom:bbox":"-99.1989519689,19.3982175309,-99.1873168945,19.4070210383",
     "geom:latitude":19.402856,
     "geom:longitude":-99.192815,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.404186,
     "lbl:longitude":-99.190531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.402892,
     "mps:longitude":-99.192926,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Sears Roebuck"
-    ],
-    "name:unk_x_variant":[
         "Sears Roebuck"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902656,
-        "qs:id":1342440
+        "qs_pg:id":1342440
     },
     "wof:country":"MX",
     "wof:geomhash":"937347bc362686e3c917ce5e7b5a5bcf",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527269997,
+    "wof:lastmodified":1566619582,
     "wof:name":"Sears Roebuck",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

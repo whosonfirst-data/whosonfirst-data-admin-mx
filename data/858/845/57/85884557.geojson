@@ -11,8 +11,10 @@
     "geom:longitude":-103.372271,
     "gn:population":250,
     "iso:country":"MX",
+    "lbl:bbox":"-103.377271,20.673947,-103.367271,20.683947",
     "lbl:latitude":20.678947,
     "lbl:longitude":-103.372271,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.684139,
     "mps:longitude":-103.376903,
     "mz:hierarchy_label":0,
@@ -30,9 +32,8 @@
     "name:spa_x_preferred":[
         "Ladron de Guevara"
     ],
-    "name:unk_x_variant":[
-        "Guevara",
-        "Ladron de Guevara"
+    "name:und_x_variant":[
+        "Guevara"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -63,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686603,
@@ -76,7 +77,6 @@
     "wof:concordances":{
         "gn:id":3998409,
         "gp:id":55904253,
-        "qs:id":891676,
         "qs_pg:id":891676,
         "wd:id":"Q20282626"
     },
@@ -96,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375347,
+    "wof:lastmodified":1566619555,
     "wof:name":"Ladron de Guevara",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

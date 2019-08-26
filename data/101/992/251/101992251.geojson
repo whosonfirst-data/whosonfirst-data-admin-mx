@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1625606.035231,
+    "geom:area_square_m":1625606.035234,
     "geom:bbox":"-102.618424086,22.819304907,-102.59269399,22.8299031586",
     "geom:latitude":22.824888,
     "geom:longitude":-102.606544,
     "iso:country":"MX",
     "lbl:latitude":22.824495,
     "lbl:longitude":-102.607425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.824495,
     "mps:longitude":-102.607425,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":90275379
     },
     "wof:country":"MX",
-    "wof:geomhash":"25423931c1c05ad130495d704b6a33a0",
+    "wof:geomhash":"f982ba44c429fc72838ba6dabca1c5b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101992251,
-    "wof:lastmodified":1479904103,
+    "wof:lastmodified":1566632693,
     "wof:name":"Hacienda Nueva",
     "wof:parent_id":102075401,
     "wof:placetype":"locality",

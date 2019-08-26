@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5687184.216542,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.054326,19.410474,-102.054326,19.410474",
     "geom:latitude":19.410474,
     "geom:longitude":-102.054326,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.059326,19.405474,-102.049326,19.415474",
     "lbl:latitude":19.410474,
     "lbl:longitude":-102.054326,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.407199,
     "mps:longitude":-102.053572,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Casa Del Nino"
     ],
     "name:spa_x_preferred":[
-        "Casa Del Ni\u00f1o"
-    ],
-    "name:unk_x_variant":[
         "Casa Del Ni\u00f1o"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -61,18 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997187,
-        102074973,
-        85686595
+        102074973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887089,
-        "qs:id":411608,
         "qs_pg:id":411608
     },
     "wof:country":"MX",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874137,
+    "wof:lastmodified":1566619568,
     "wof:name":"Casa Del Ni\u00f1o",
     "wof:parent_id":101997187,
     "wof:placetype":"neighbourhood",

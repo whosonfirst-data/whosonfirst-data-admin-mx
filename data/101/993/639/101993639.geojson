@@ -9,14 +9,17 @@
     "geom:bbox":"-106.212136878,23.2401971937,-106.195557933,23.2513232843",
     "geom:latitude":23.245731,
     "geom:longitude":-106.204824,
-    "geonames:id":"4007858,3976323",
+    "gn:id":"4007858,3976323",
     "iso:country":"MX",
     "lbl:latitude":23.2459,
     "lbl:longitude":-106.204698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.2459,
     "mps:longitude":-106.204698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Roble"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101993639,
-    "wof:lastmodified":1564171420,
+    "wof:lastmodified":1566632807,
     "wof:name":"El Roble",
     "wof:parent_id":102074303,
     "wof:placetype":"locality",

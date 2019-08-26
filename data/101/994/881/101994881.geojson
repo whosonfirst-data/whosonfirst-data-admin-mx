@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
-    "geom:area_square_m":1135172.350523,
+    "geom:area_square_m":1135172.350521,
     "geom:bbox":"-93.49766066,18.1695612745,-93.4848975282,18.1811466704",
     "geom:latitude":18.175104,
     "geom:longitude":-93.490399,
     "iso:country":"MX",
     "lbl:latitude":18.175352,
     "lbl:longitude":-93.489881,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.175352,
     "mps:longitude":-93.489881,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889685
     },
     "wof:country":"MX",
-    "wof:geomhash":"fc0b431e4abfac9878e477345670e0cb",
+    "wof:geomhash":"01e18a28959895a839425c7cd8fe80d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994881,
-    "wof:lastmodified":1479904397,
+    "wof:lastmodified":1566632844,
     "wof:name":"Poblado C-09 Licenciado Francisco I. Madero",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000566,
-    "geom:area_square_m":6616860.388985,
+    "geom:area_square_m":6616860.388982,
     "geom:bbox":"-98.9553429253,18.9024061898,-98.9193680592,18.9287484585",
     "geom:latitude":18.916372,
     "geom:longitude":-98.938534,
     "iso:country":"MX",
     "lbl:latitude":18.919561,
     "lbl:longitude":-98.940319,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.919561,
     "mps:longitude":-98.940319,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Morelos",
     "qs:a1_lc":"17",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55902765
     },
     "wof:country":"MX",
-    "wof:geomhash":"c2c1a83aeec02578b1459839c7674643",
+    "wof:geomhash":"3d636261ed00a0f2745c703d45368404",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993311,
-    "wof:lastmodified":1479930393,
+    "wof:lastmodified":1566632814,
     "wof:name":"Fraccionamiento Lomas de Cocoyoc",
     "wof:parent_id":102074267,
     "wof:placetype":"locality",

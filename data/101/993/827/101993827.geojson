@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":27.484654,
     "lbl:longitude":-109.935961,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.484654,
     "mps:longitude":-109.935961,
     "mz:hierarchy_label":1,
@@ -165,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u044e\u0434\u0430\u0434 \u041e\u0431\u0440\u0435\u0433\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obregon"
     ],
     "name:urd_x_preferred":[
@@ -289,7 +291,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2076,
     "wof:belongsto":[
@@ -303,7 +305,6 @@
         "fct:id":"01c0e8ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013704,
         "gp:id":116565,
-        "qs:id":1047631,
         "qs_pg:id":1047631,
         "wd:id":"Q681340",
         "wk:page":"Ciudad Obreg\u00f3n"
@@ -323,7 +324,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398088,
+    "wof:lastmodified":1566632755,
     "wof:name":"Ciudad Obreg\u00f3n",
     "wof:parent_id":102074417,
     "wof:placetype":"locality",

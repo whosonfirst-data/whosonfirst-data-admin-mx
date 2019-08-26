@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.162448,
     "lbl:longitude":-99.617366,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.162448,
     "mps:longitude":-99.617366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Calimaya"
     ],
@@ -70,9 +73,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u043b\u0438\u043c\u0430\u0458\u0430"
     ],
-    "name:unk_x_variant":[
-        "Calimaya D\u00edaz Gonz\u00e1lez"
-    ],
     "name:vie_x_preferred":[
         "Calimaya"
     ],
@@ -91,7 +91,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +104,7 @@
         "fct:id":"01b7fb12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531798,
         "gp:id":55904805,
-        "qs:id":148858,
+        "qs_pg:id":148858,
         "wd:id":"Q3300431",
         "wk:page":"Calimaya"
     },
@@ -123,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398034,
+    "wof:lastmodified":1566632726,
     "wof:name":"Calimaya de D\u00edaz Gonz\u00e1lez",
     "wof:parent_id":102074189,
     "wof:placetype":"locality",

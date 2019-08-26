@@ -9,15 +9,18 @@
     "geom:bbox":"-98.77458,24.87737,-98.77458,24.87737",
     "geom:latitude":24.87737,
     "geom:longitude":-98.77458,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":123,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.79458,24.85737,-98.75458,24.89737",
     "lbl:latitude":24.87737,
     "lbl:longitude":-98.77458,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "San-\u0130sidro"
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "San Isidro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rancho San Isidro"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":142909,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125984199,
-    "wof:lastmodified":1564173530,
+    "wof:lastmodified":1566634042,
     "wof:name":"San Isidro",
     "wof:parent_id":102078899,
     "wof:placetype":"locality",

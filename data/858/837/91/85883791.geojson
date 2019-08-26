@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.457115,
     "lbl:longitude":-99.0732,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.45808,
     "mps:longitude":-99.064609,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "San Juan de Aragon 3ra Secc"
-    ],
-    "name:unk_x_variant":[
         "San Juan de Aragon 3ra Secc"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898236,
-        "qs:id":966321
+        "qs_pg:id":966321
     },
     "wof:country":"MX",
     "wof:geomhash":"dbba3a66ae6085cb9c5b639a8d2797bd",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957716,
+    "wof:lastmodified":1566619695,
     "wof:name":"San Juan de Aragon 3ra Secc",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11335122.80367,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.710215,19.284129,-103.710215,19.284129",
     "geom:latitude":19.284129,
     "geom:longitude":-103.710215,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.715215,19.279129,-103.705215,19.289129",
     "lbl:latitude":19.284129,
     "lbl:longitude":-103.710215,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.293191,
     "mps:longitude":-103.708532,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Res Esmeralda"
-    ],
-    "name:unk_x_variant":[
         "Fracc Res Esmeralda"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686587,
         102191575,
         85633293,
-        102074543,
-        85686587
+        102074543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56068689,
-        "qs:id":10575
+        "qs_pg:id":10575
     },
     "wof:country":"MX",
     "wof:geomhash":"f18082355b396c37c5abccdd580ea830",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531931927,
+    "wof:lastmodified":1566619627,
     "wof:name":"Fracc Res Esmeralda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":2318660.36956,
+    "geom:area_square_m":2318660.369548,
     "geom:bbox":"-97.7968245477,25.9390682729,-97.7649787956,25.9568265693",
     "geom:latitude":25.948615,
     "geom:longitude":-97.779065,
@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.950842,
     "lbl:longitude":-97.784088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.950842,
     "mps:longitude":-97.784088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Ram\u00edrez"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":64,
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102000991,
-    "wof:lastmodified":1527637039,
+    "wof:lastmodified":1566615655,
     "wof:name":"Ram\u00edrez",
     "wof:parent_id":102078961,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.935295,
     "lbl:longitude":-103.09396,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.935295,
     "mps:longitude":-103.09396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "El Plateado de Joaqu\u00edn Amaro"
     ],
@@ -48,7 +51,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0415\u043b \u041f\u043b\u0430\u0442\u0435\u0430\u0434\u043e \u0434\u0435 \u0425\u043e\u0430\u043a\u0438\u043d \u0410\u043c\u0430\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "General Joaquin Amaro"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +72,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -99,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398018,
+    "wof:lastmodified":1566632717,
     "wof:name":"El Plateado de Joaqu\u00edn Amaro",
     "wof:parent_id":102075445,
     "wof:placetype":"locality",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
-    "geom:area_square_m":2107324.151454,
+    "geom:area_square_m":2107324.15145,
     "geom:bbox":"-98.5451698011,19.2485072692,-98.5267117558,19.2662289893",
     "geom:latitude":19.258299,
     "geom:longitude":-98.536056,
     "iso:country":"MX",
     "lbl:latitude":19.258202,
     "lbl:longitude":-98.535913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.258202,
     "mps:longitude":-98.535913,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Hueyacatitla"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101999785,
-    "wof:lastmodified":1501267423,
+    "wof:lastmodified":1566632544,
     "wof:name":"San Andr\u00e9s Hueyacatitla",
     "wof:parent_id":102078301,
     "wof:placetype":"locality",

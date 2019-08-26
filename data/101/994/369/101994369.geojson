@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.892023,
     "lbl:longitude":-92.925385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.892023,
     "mps:longitude":-92.925385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Soyal\u00f3"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,6 @@
         "fct:id":"01b20748-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516511,
         "gp:id":147823,
-        "qs:id":1203916,
         "qs_pg:id":1203916,
         "wd:id":"Q2607132"
     },
@@ -117,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398316,
+    "wof:lastmodified":1566632874,
     "wof:name":"Soyal\u00f3",
     "wof:parent_id":102075751,
     "wof:placetype":"locality",

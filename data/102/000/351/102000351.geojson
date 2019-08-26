@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.060392,
     "lbl:longitude":-98.755865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.060392,
     "mps:longitude":-98.755865,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56068678
     },
     "wof:country":"MX",
-    "wof:geomhash":"b775916d4b3341f777805f440415f087",
+    "wof:geomhash":"155e4310ff0d446c7325e8d9637f50e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000351,
-    "wof:lastmodified":1479907614,
+    "wof:lastmodified":1566615695,
     "wof:name":"Privada Don Francisco",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

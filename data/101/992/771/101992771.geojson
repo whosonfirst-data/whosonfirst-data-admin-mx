@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":3963232.339292,
+    "geom:area_square_m":3963232.339284,
     "geom:bbox":"-98.8323619958,19.2474753048,-98.8044676498,19.2661675598",
     "geom:latitude":19.257405,
     "geom:longitude":-98.818849,
     "iso:country":"MX",
     "lbl:latitude":19.256672,
     "lbl:longitude":-98.81884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.256672,
     "mps:longitude":-98.81884,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Santa Mar\u00eda Huxoculco"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101992771,
-    "wof:lastmodified":1501268839,
+    "wof:lastmodified":1566632699,
     "wof:name":"Santa Mar\u00eda Huexoculco",
     "wof:parent_id":102074173,
     "wof:placetype":"locality",

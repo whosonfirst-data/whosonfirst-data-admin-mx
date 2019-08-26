@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.617594,
     "lbl:longitude":-99.321184,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.617594,
     "mps:longitude":-99.321184,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:epo_x_preferred":[
         "Puente de Ixtla"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -75,7 +78,6 @@
         "fct:id":"01b8e054-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521051,
         "gp:id":137683,
-        "qs:id":895128,
         "qs_pg:id":895128,
         "wd:id":"Q2991369",
         "wk:page":"Puente de Ixtla"
@@ -95,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398129,
+    "wof:lastmodified":1566632776,
     "wof:name":"Puente de Ixtla",
     "wof:parent_id":102074285,
     "wof:placetype":"locality",

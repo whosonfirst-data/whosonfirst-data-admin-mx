@@ -11,8 +11,10 @@
     "geom:longitude":-103.389587,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.394587,25.547708,-103.384587,25.557708",
     "lbl:latitude":25.552708,
     "lbl:longitude":-103.389587,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.552354,
     "mps:longitude":-103.389587,
     "mz:hierarchy_label":0,
@@ -114,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0433\u0435\u043b\u044c \u0434\u0435 \u043b\u0430 \u041c\u0430\u0434\u0440\u0438\u0434"
     ],
-    "name:unk_x_variant":[
-        "Miguel de la Madrid"
-    ],
     "name:yor_x_preferred":[
         "Miguel de la Madrid"
     ],
@@ -151,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1571,
     "wof:belongsto":[
         85686689,
@@ -163,7 +162,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55884403,
-        "qs:id":137207,
         "qs_pg:id":137207,
         "wd:id":"Q296691"
     },
@@ -183,7 +181,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375376,
+    "wof:lastmodified":1566619574,
     "wof:name":"Miguel de la Madrid",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

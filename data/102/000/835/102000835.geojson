@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":28.692225,
     "lbl:longitude":-100.542974,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":28.692225,
     "mps:longitude":-100.542974,
     "mz:hierarchy_label":1,
@@ -140,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u041f'\u0454\u0434\u0440\u0430\u0441-\u041d\u0435\u0433\u0440\u0430\u0441"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "PDS"
     ],
     "name:urd_x_preferred":[
@@ -267,7 +269,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2244,
     "wof:belongsto":[
@@ -281,7 +283,6 @@
         "fct:id":"01b8d7a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3992619,
         "gp:id":136719,
-        "qs:id":1317879,
         "qs_pg:id":1317879,
         "wd:id":"Q1856408",
         "wk:page":"Piedras Negras, Coahuila"
@@ -301,7 +302,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369676,
+    "wof:lastmodified":1566615675,
     "wof:name":"Piedras Negras",
     "wof:parent_id":102078823,
     "wof:placetype":"locality",

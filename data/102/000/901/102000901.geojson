@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":2165029.968346,
+    "geom:area_square_m":2165029.968347,
     "geom:bbox":"-101.366913443,27.7347248644,-101.339496708,27.7492494075",
     "geom:latitude":27.741087,
     "geom:longitude":-101.352618,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":27.742281,
     "lbl:longitude":-101.352831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.742281,
     "mps:longitude":-101.352831,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Enrique Mart\u00edn Monreal Lizarraga"
     ],
@@ -35,7 +39,7 @@
     "name:spa_x_variant":[
         "Villa Las Esperanzas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esperanzas"
     ],
     "qs:a0":"Mexico",
@@ -53,7 +57,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":102000901,
-    "wof:lastmodified":1501269561,
+    "wof:lastmodified":1566615656,
     "wof:name":"Las Esperanzas",
     "wof:parent_id":102078831,
     "wof:placetype":"locality",

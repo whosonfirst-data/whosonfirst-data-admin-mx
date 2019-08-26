@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4266055.961958,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.703838,19.809346,-102.703838,19.809346",
     "geom:latitude":19.809346,
     "geom:longitude":-102.703838,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.708838,19.804346,-102.698838,19.814346",
     "lbl:latitude":19.809346,
     "lbl:longitude":-102.703838,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.809346,
     "mps:longitude":-102.702942,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Cotija Centro"
-    ],
-    "name:unk_x_variant":[
         "Cotija Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997371,
-        102075031,
-        85686595
+        102075031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919736,
-        "qs:id":1120080,
         "qs_pg:id":1120080
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874759,
+    "wof:lastmodified":1566619714,
     "wof:name":"Cotija Centro",
     "wof:parent_id":101997371,
     "wof:placetype":"neighbourhood",

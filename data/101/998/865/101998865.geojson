@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":325632.046574,
+    "geom:area_square_m":325632.046573,
     "geom:bbox":"-96.2222086248,19.2037915709,-96.2176353829,19.2121211039",
     "geom:latitude":19.20753,
     "geom:longitude":-96.219978,
     "iso:country":"MX",
     "lbl:latitude":19.207587,
     "lbl:longitude":-96.220163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.207587,
     "mps:longitude":-96.220163,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90276421
     },
     "wof:country":"MX",
-    "wof:geomhash":"8fec1f987ca98415a557836aa513e61e",
+    "wof:geomhash":"bcc153c12202446fc4fbd3f48ef3804f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998865,
-    "wof:lastmodified":1479907870,
+    "wof:lastmodified":1566632276,
     "wof:name":"Fraccionamiento el Campanario",
     "wof:parent_id":102078669,
     "wof:placetype":"locality",

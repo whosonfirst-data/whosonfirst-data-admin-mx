@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000776,
-    "geom:area_square_m":9124229.620739,
+    "geom:area_square_m":9124229.620734,
     "geom:bbox":"-102.232718333,18.0030096182,-102.186051511,18.0368006638",
     "geom:latitude":18.02066,
     "geom:longitude":-102.213917,
@@ -13,17 +13,20 @@
     "iso:country":"MX",
     "lbl:latitude":18.020941,
     "lbl:longitude":-102.215501,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.020941,
     "mps:longitude":-102.215501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Las Guacamayas"
     ],
     "name:spa_x_preferred":[
         "Las Guacamayas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guacamayas"
     ],
     "qs:a0":"Mexico",
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":4026075,
         "gp:id":55902685,
-        "qs:id":207779,
         "qs_pg:id":207779,
         "wd:id":"Q17072520"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101997071,
-    "wof:lastmodified":1514487384,
+    "wof:lastmodified":1566632447,
     "wof:name":"Las Guacamayas",
     "wof:parent_id":102074881,
     "wof:placetype":"locality",

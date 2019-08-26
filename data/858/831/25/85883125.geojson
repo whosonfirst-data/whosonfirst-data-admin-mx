@@ -11,8 +11,10 @@
     "geom:longitude":-116.973185,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.978185,32.540341,-116.968185,32.550341",
     "lbl:latitude":32.545341,
     "lbl:longitude":-116.973185,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.544497,
     "mps:longitude":-116.970628,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Aeropuerto Abelardo L Rodriguez"
-    ],
-    "name:unk_x_variant":[
         "Aeropuerto Abelardo L Rodriguez"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -68,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890842,
-        "qs:id":411614
+        "qs_pg:id":411614
     },
     "wof:country":"MX",
     "wof:geomhash":"cd10435236209e9bf6b8255b93d95bc1",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619684,
     "wof:name":"Aeropuerto Abelardo L Rodriguez",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

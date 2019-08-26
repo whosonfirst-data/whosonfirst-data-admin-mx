@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.147711,
     "lbl:longitude":-99.582468,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.147711,
     "mps:longitude":-99.582468,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santa Mar\u00eda Ray\u00f3n"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Santa Mar\u00eda Ray\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Maria"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -77,7 +77,6 @@
         "fct:id":"01b947b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517217,
         "gp:id":146551,
-        "qs:id":1045406,
         "qs_pg:id":1045406,
         "wd:id":"Q20284668"
     },
@@ -96,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398002,
+    "wof:lastmodified":1566632706,
     "wof:name":"Santa Mar\u00eda Ray\u00f3n",
     "wof:parent_id":102074077,
     "wof:placetype":"locality",

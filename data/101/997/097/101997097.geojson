@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.698284,
     "lbl:longitude":-103.663778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.698284,
     "mps:longitude":-103.663778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Coahuayana"
     ],
@@ -52,9 +55,6 @@
     "name:swe_x_preferred":[
         "Coahuayana"
     ],
-    "name:unk_x_variant":[
-        "Coahuayana"
-    ],
     "name:vec_x_preferred":[
         "Coahuayana"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101997097,
-    "wof:lastmodified":1563397525,
+    "wof:lastmodified":1566632456,
     "wof:name":"Coahuayana de Hidalgo",
     "wof:parent_id":102074891,
     "wof:placetype":"locality",

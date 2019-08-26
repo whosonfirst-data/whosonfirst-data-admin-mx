@@ -11,8 +11,10 @@
     "geom:longitude":-104.684359,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.689359,24.023118,-104.679359,24.033118",
     "lbl:latitude":24.028118,
     "lbl:longitude":-104.684359,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.025492,
     "mps:longitude":-104.691711,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:spa_x_preferred":[
         "Los Sauces"
     ],
-    "name:unk_x_variant":[
-        "Los Sauces"
-    ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u7d39\u585e\u65af"
     ],
@@ -85,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686573,
         102191575,
@@ -96,7 +95,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900812,
-        "qs:id":1342315,
         "qs_pg:id":1342315
     },
     "wof:country":"MX",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147169,
+    "wof:lastmodified":1566619566,
     "wof:name":"Los Sauces",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

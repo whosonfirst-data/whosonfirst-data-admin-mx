@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.929587,
     "lbl:longitude":-97.673667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.929587,
     "mps:longitude":-97.673667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Asunci\u00f3n Cuyotepeji"
     ],
@@ -76,7 +79,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101994999,
-    "wof:lastmodified":1563398241,
+    "wof:lastmodified":1566632834,
     "wof:name":"Asunci\u00f3n Cuyotepeji",
     "wof:parent_id":102076257,
     "wof:placetype":"locality",

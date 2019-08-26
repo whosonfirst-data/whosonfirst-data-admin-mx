@@ -9,14 +9,17 @@
     "geom:bbox":"-102.293027435,22.1366061251,-102.268796225,22.1575110192",
     "geom:latitude":22.146707,
     "geom:longitude":-102.279042,
-    "geonames:id":"3993985,3993984",
+    "gn:id":"3993985,3993984",
     "iso:country":"MX",
     "lbl:latitude":22.146604,
     "lbl:longitude":-102.277847,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.146604,
     "mps:longitude":-102.277847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pabell\u00f3n de Arteaga"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101996863,
-    "wof:lastmodified":1563397451,
+    "wof:lastmodified":1566632420,
     "wof:name":"Pabell\u00f3n de Arteaga",
     "wof:parent_id":102077383,
     "wof:placetype":"locality",

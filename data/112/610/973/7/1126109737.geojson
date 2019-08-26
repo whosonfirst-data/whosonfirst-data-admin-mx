@@ -9,16 +9,19 @@
     "geom:bbox":"-114.88982,32.49866,-114.88982,32.49866",
     "geom:latitude":32.49866,
     "geom:longitude":-114.88982,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-114.89482,32.49366,-114.88482,32.50366",
     "lbl:latitude":32.49866,
     "lbl:longitude":-114.88982,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ejido Mezquital"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":56068723,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Baja California",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
-        102074507,
-        85686541
+        102074507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126109737,
-    "wof:lastmodified":1509412546,
+    "wof:lastmodified":1566633956,
     "wof:name":"Mezquital",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

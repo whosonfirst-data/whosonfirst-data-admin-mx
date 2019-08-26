@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1920196.840302,
+    "geom:area_square_m":1920196.8403,
     "geom:bbox":"-100.66621141,20.4778627095,-100.645537757,20.4941197145",
     "geom:latitude":20.48592,
     "geom:longitude":-100.65703,
     "iso:country":"MX",
     "lbl:latitude":20.487903,
     "lbl:longitude":-100.654604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.487903,
     "mps:longitude":-100.654604,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Guanajuato",
     "qs:a1_lc":"11",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895730
     },
     "wof:country":"MX",
-    "wof:geomhash":"ebf1522640463b862a376ae6cf120f9f",
+    "wof:geomhash":"09939d66a3636bb51ef25b1c8413831e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993083,
-    "wof:lastmodified":1479906990,
+    "wof:lastmodified":1566632759,
     "wof:name":"San Jos\u00e9 Agua Azul",
     "wof:parent_id":102077293,
     "wof:placetype":"locality",

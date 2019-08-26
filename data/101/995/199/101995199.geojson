@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.094412,
     "lbl:longitude":-96.680477,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.094412,
     "mps:longitude":-96.680477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Andr\u00e9s Huayapam"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "San Andr\u00e9s Huay\u00e1pam"
     ],
-    "name:unk_x_variant":[
-        "Huayapan"
-    ],
     "name:vie_x_preferred":[
         "San Andr\u00e9s Huayapam"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -113,7 +113,6 @@
         "fct:id":"01b8f10c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519926,
         "gp:id":141454,
-        "qs:id":774509,
         "qs_pg:id":774509,
         "wd:id":"Q1193971",
         "wk:page":"San Andr\u00e9s Huayapam"
@@ -133,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397862,
+    "wof:lastmodified":1566632638,
     "wof:name":"San Andr\u00e9s Huay\u00e1pam",
     "wof:parent_id":102075883,
     "wof:placetype":"locality",

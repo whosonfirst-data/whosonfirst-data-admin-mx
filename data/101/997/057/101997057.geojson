@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.493883,
     "lbl:longitude":-105.362603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":22.493883,
     "mps:longitude":-105.362603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Acaponeta"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,6 @@
         "fct:id":"01b7c82c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4019819,
         "gp:id":110975,
-        "qs:id":1047665,
         "qs_pg:id":1047665,
         "wd:id":"Q429995",
         "wk:page":"Acaponeta"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397601,
+    "wof:lastmodified":1566632495,
     "wof:name":"Acaponeta",
     "wof:parent_id":102074549,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-102.422956451,22.1375097228,-102.405537771,22.1583974772",
     "geom:latitude":22.148304,
     "geom:longitude":-102.414493,
-    "geonames:id":"4013459,4021223",
+    "gn:id":"4013459,4021223",
     "iso:country":"MX",
     "lbl:latitude":22.147196,
     "lbl:longitude":-102.413173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.147196,
     "mps:longitude":-102.413173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7 \u09a6\u09c7 \u0997\u09cd\u09b0\u09be\u09b8\u09bf\u09af\u09bc\u09be"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101996853,
-    "wof:lastmodified":1563397438,
+    "wof:lastmodified":1566632413,
     "wof:name":"San Jos\u00e9 de Gracia",
     "wof:parent_id":102077367,
     "wof:placetype":"locality",

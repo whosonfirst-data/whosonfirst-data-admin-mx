@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.234018,
     "lbl:longitude":-99.544459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.234018,
     "mps:longitude":-99.544459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0633\u064a\u0628\u0627\u0633\u062a\u064a\u0627\u0646"
     ],
@@ -271,7 +274,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":101992515,
-    "wof:lastmodified":1564171386,
+    "wof:lastmodified":1566632744,
     "wof:name":"San Sebasti\u00e1n",
     "wof:parent_id":102074113,
     "wof:placetype":"locality",

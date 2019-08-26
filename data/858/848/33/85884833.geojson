@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16714520.976499,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.742371,21.268558,-89.742371,21.268558",
     "geom:latitude":21.268558,
     "geom:longitude":-89.742371,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-89.747371,21.263558,-89.737371,21.273558",
     "lbl:latitude":21.268558,
     "lbl:longitude":-89.742371,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.267772,
     "mps:longitude":-89.739934,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
         "Chelem Puerto",
         "Municipio de Progreso"
     ],
-    "name:unk_x_variant":[
-        "Chelem Puerto"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3521108,
@@ -80,18 +79,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686701,
         102191575,
         85633293,
         102001263,
-        102078975,
-        85686701
+        102078975
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908717,
-        "qs:id":1320537,
         "qs_pg:id":1320537
     },
     "wof:country":"MX",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874636,
+    "wof:lastmodified":1566619640,
     "wof:name":"Chelem Puerto",
     "wof:parent_id":102001263,
     "wof:placetype":"neighbourhood",

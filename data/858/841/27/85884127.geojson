@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2296833.90862,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.431058,23.201051,-106.431058,23.201051",
     "geom:latitude":23.201051,
     "geom:longitude":-106.431058,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.436058,23.196051,-106.426058,23.206051",
     "lbl:latitude":23.201051,
     "lbl:longitude":-106.431058,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.199174,
     "mps:longitude":-106.439669,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Balcones de Loma Linda"
-    ],
-    "name:unk_x_variant":[
         "Balcones de Loma Linda"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,16 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55906557,
-        "qs:id":475311,
         "qs_pg:id":287971
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":475311
     },
     "wof:country":"MX",
     "wof:geomhash":"c64f3d5dcda2fc2411b33621fca038eb",
@@ -84,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874451,
+    "wof:lastmodified":1566619628,
     "wof:name":"Balcones de Loma Linda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

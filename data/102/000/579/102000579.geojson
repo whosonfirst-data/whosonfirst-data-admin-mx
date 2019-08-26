@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.007602,
     "lbl:longitude":-99.219455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.007602,
     "mps:longitude":-99.219455,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0410\u0442\u043e\u0442\u043e\u043d\u0438\u043b\u044c\u043a\u043e-\u0434\u0435-\u0422\u0443\u043b\u0430"
     ],
@@ -25,7 +28,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0410\u0442\u043e\u0442\u043e\u043d\u0438\u043b\u043a\u043e \u0434\u0435 \u0422\u0443\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atotonilco"
     ],
     "qs:a0":"Mexico",
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102000579,
-    "wof:lastmodified":1564141419,
+    "wof:lastmodified":1566615722,
     "wof:name":"Atotonilco de Tula",
     "wof:parent_id":102078629,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.748418,
     "lbl:longitude":-97.636042,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.748418,
     "mps:longitude":-97.636042,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:hbs_x_preferred":[
         "Castillo de Teayo"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -56,7 +59,6 @@
         "fct:id":"01b8031e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531434,
         "gp:id":115161,
-        "qs:id":180053,
         "qs_pg:id":180053,
         "wd:id":"Q5049941",
         "wk:page":"Castillo de Teayo, Veracruz"
@@ -76,7 +78,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397132,
+    "wof:lastmodified":1566632252,
     "wof:name":"Castillo de Teayo",
     "wof:parent_id":102077723,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.637514,
     "lbl:longitude":-96.536775,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.637514,
     "mps:longitude":-96.536775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Pedro Taviche"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "San Pedro Taviche"
     ],
-    "name:unk_x_variant":[
-        "Taviche"
-    ],
     "name:vie_x_preferred":[
         "San Pedro Taviche"
     ],
@@ -78,7 +78,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -108,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397913,
+    "wof:lastmodified":1566632658,
     "wof:name":"San Pedro Taviche",
     "wof:parent_id":102075985,
     "wof:placetype":"locality",

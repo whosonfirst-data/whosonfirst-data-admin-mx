@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.252403,
     "lbl:longitude":-95.937774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.252403,
     "mps:longitude":-95.937774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Para\u00edso Novillero"
     ],
@@ -37,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101998279,
-    "wof:lastmodified":1514488278,
+    "wof:lastmodified":1566632265,
     "wof:name":"Para\u00edso Novillero",
     "wof:parent_id":102077481,
     "wof:placetype":"locality",

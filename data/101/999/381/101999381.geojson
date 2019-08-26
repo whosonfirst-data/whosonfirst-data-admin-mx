@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000315,
-    "geom:area_square_m":3671453.0357,
+    "geom:area_square_m":3671453.035711,
     "geom:bbox":"-97.6301193225,19.5166949599,-97.6022020644,19.5358485892",
     "geom:latitude":19.525384,
     "geom:longitude":-97.615966,
     "iso:country":"MX",
     "lbl:latitude":19.524863,
     "lbl:longitude":-97.612917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.524863,
     "mps:longitude":-97.612917,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Payuca"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101999381,
-    "wof:lastmodified":1501267423,
+    "wof:lastmodified":1566632589,
     "wof:name":"San Andr\u00e9s Payuca",
     "wof:parent_id":102078089,
     "wof:placetype":"locality",

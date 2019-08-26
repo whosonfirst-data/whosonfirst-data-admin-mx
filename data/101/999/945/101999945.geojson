@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":1241012.39776,
+    "geom:area_square_m":1241012.397744,
     "geom:bbox":"-98.5411270176,19.3757199392,-98.5250566853,19.3916218136",
     "geom:latitude":19.3823,
     "geom:longitude":-98.533848,
     "iso:country":"MX",
     "lbl:latitude":19.381741,
     "lbl:longitude":-98.533965,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.381741,
     "mps:longitude":-98.533965,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Coltzingo"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101999945,
-    "wof:lastmodified":1501267405,
+    "wof:lastmodified":1566632585,
     "wof:name":"Santiago Coltzingo",
     "wof:parent_id":102078381,
     "wof:placetype":"locality",

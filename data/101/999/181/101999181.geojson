@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1447721.6656,
+    "geom:area_square_m":1447721.665609,
     "geom:bbox":"-98.6588239035,19.5910816247,-98.6412008677,19.6078264494",
     "geom:latitude":19.59936,
     "geom:longitude":-98.648409,
     "iso:country":"MX",
     "lbl:latitude":19.600747,
     "lbl:longitude":-98.648282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.600747,
     "mps:longitude":-98.648282,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Cuautla"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101999181,
-    "wof:lastmodified":1501267405,
+    "wof:lastmodified":1566632546,
     "wof:name":"Santiago Cuaula",
     "wof:parent_id":102077967,
     "wof:placetype":"locality",

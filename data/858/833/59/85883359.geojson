@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2841605.879588,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.373362,20.592407,-100.373362,20.592407",
     "geom:latitude":20.592407,
     "geom:longitude":-100.373362,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.378362,20.587407,-100.368362,20.597407",
     "lbl:latitude":20.592407,
     "lbl:longitude":-100.373362,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.591652,
     "mps:longitude":-100.371649,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Carretas"
-    ],
-    "name:unk_x_variant":[
         "Carretas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893879,
-        "qs:id":60090,
         "qs_pg:id":60090
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874304,
+    "wof:lastmodified":1566619615,
     "wof:name":"Carretas",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

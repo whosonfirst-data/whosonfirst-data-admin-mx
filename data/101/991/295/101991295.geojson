@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.986464,
     "lbl:longitude":-101.806081,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.986464,
     "mps:longitude":-101.806081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "La Uni\u00f3n"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -78,7 +81,6 @@
         "fct:id":"01b88f6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3998919,
         "gp:id":129489,
-        "qs:id":260522,
         "qs_pg:id":260522,
         "wd:id":"Q5398211",
         "wk:page":"La Uni\u00f3n, Guerrero"
@@ -98,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397239,
+    "wof:lastmodified":1566632309,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":102073925,
     "wof:placetype":"locality",

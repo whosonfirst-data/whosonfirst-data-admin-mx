@@ -11,8 +11,10 @@
     "geom:longitude":-116.600397,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.605397,31.816689,-116.595397,31.826689",
     "lbl:latitude":31.821689,
     "lbl:longitude":-116.600397,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.820956,
     "mps:longitude":-116.601081,
     "mz:hierarchy_label":0,
@@ -31,7 +33,7 @@
         "Loma",
         "Lomas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loma Cajones"
     ],
     "qs:gn_id":0,
@@ -40,7 +42,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -52,7 +54,9 @@
     "wof:concordances":{
         "gn:id":3792057,
         "gp:id":55897714,
-        "qs:id":973917,
+        "qs_pg:id":973917
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1341807
     },
     "wof:country":"MX",
@@ -71,7 +75,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619631,
     "wof:name":"Lomas Del Mar",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

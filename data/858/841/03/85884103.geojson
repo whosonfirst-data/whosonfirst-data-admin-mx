@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14483890.50876,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.973987,20.481606,-86.973987,20.481606",
     "geom:latitude":20.481606,
     "geom:longitude":-86.973987,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-86.978987,20.476606,-86.968987,20.486606",
     "lbl:latitude":20.481606,
     "lbl:longitude":-86.973987,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.483395,
     "mps:longitude":-86.978107,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Ix Chil"
-    ],
-    "name:unk_x_variant":[
         "Ix Chil"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,15 +56,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899942,
-        "qs:id":244057
+        "qs_pg:id":244057
     },
     "wof:country":"MX",
     "wof:geomhash":"6dc0b6f82200604c3f281b285927c343",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874442,
+    "wof:lastmodified":1566619628,
     "wof:name":"Ix Chil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

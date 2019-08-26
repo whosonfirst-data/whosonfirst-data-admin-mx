@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.416722,
     "lbl:longitude":-103.389901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.416722,
     "mps:longitude":-103.389901,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Miguel Cuyutl\u00e1n"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Miguel Cuyutl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuyutl\u00e1n"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":4012080,
         "gp:id":118068,
-        "qs:id":1047622,
         "qs_pg:id":1047622,
         "wd:id":"Q20248637"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101998057,
-    "wof:lastmodified":1563397182,
+    "wof:lastmodified":1566632277,
     "wof:name":"San Miguel Cuyutl\u00e1n",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

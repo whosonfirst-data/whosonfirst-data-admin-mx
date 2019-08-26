@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.139707,
     "lbl:longitude":-90.172591,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.139707,
     "mps:longitude":-90.172591,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u043c\u0443\u0447"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Pomuch"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pumuch"
     ],
     "qs:a0":"Mexico",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":3521283,
         "gp:id":137087,
-        "qs:id":1221397,
         "qs_pg:id":1221397,
         "wd:id":"Q20247146"
     },
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":102001403,
-    "wof:lastmodified":1563369860,
+    "wof:lastmodified":1566615761,
     "wof:name":"Pomuch",
     "wof:parent_id":102079217,
     "wof:placetype":"locality",

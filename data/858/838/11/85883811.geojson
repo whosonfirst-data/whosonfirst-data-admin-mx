@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3709569.627419,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.335599,25.648597,-100.335599,25.648597",
     "geom:latitude":25.648597,
     "geom:longitude":-100.335599,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.340599,25.643597,-100.330599,25.653597",
     "lbl:latitude":25.648597,
     "lbl:longitude":-100.335599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.645997,
     "mps:longitude":-100.334528,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Pio X"
-    ],
-    "name:unk_x_variant":[
         "Pio X"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000745,
-        102078689,
-        85686681
+        102078689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898356,
-        "qs:id":1091877,
         "qs_pg:id":1091877
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874412,
+    "wof:lastmodified":1566619673,
     "wof:name":"Pio X",
     "wof:parent_id":102000745,
     "wof:placetype":"neighbourhood",

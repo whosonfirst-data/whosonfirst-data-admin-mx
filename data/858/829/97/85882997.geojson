@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":947448.48595,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.85042,16.842729,-99.85042,16.842729",
     "geom:latitude":16.842729,
     "geom:longitude":-99.85042,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.85542,16.837729,-99.84542,16.847729",
     "lbl:latitude":16.842729,
     "lbl:longitude":-99.85042,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.843977,
     "mps:longitude":-99.846464,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Balcones de Costa Azul"
-    ],
-    "name:unk_x_variant":[
         "Balcones de Costa Azul"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
         101991509,
-        102073945,
-        85686517
+        102073945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888987,
-        "qs:id":1319079,
         "qs_pg:id":1319079
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874191,
+    "wof:lastmodified":1566619554,
     "wof:name":"Balcones de Costa Azul",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

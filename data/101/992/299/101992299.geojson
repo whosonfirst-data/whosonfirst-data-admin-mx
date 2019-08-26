@@ -9,17 +9,19 @@
     "geom:bbox":"-105.735055984,25.3225108783,-105.712485918,25.3515427906",
     "geom:latitude":25.337857,
     "geom:longitude":-105.723668,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4800,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":4800,
     "iso:country":"MX",
     "lbl:latitude":25.342048,
     "lbl:longitude":-105.725716,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":25.342048,
     "mps:longitude":-105.725716,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:hbs_x_preferred":[
         "Santa Catarina de Tepehuanes"
     ],
@@ -34,7 +36,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430 \u0434\u0435 \u0422\u0435\u043f\u0435\u0432\u0430\u043d\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tepehuanes"
     ],
     "qs:a0":"Mexico",
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -84,7 +86,6 @@
         "fct:id":"01b939d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3984592,
         "gp:id":145799,
-        "qs:id":1203754,
         "qs_pg:id":180389,
         "wd:id":"Q20296265",
         "wk:page":"Santa Catarina de Tepehuanes"
@@ -109,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398049,
+    "wof:lastmodified":1566632736,
     "wof:name":"Santa Catarina de Tepehuanes",
     "wof:parent_id":102075141,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-94.90333,17.59667,-94.86333,17.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":3532960
     },
     "wof:country":"MX",
-    "wof:geomhash":"4e68e0a8eecea1fc1c5126c7d0e98baf",
+    "wof:geomhash":"d8e59f98d976eebebf868925447acea0",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209052353,
-    "wof:lastmodified":1536299209,
+    "wof:lastmodified":1566626888,
     "wof:name":"Alvaro Diaz",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -94.88333,
-    17.616670000000006,
+    17.61667000000001,
     -94.88333,
-    17.616670000000006
+    17.61667000000001
 ],
   "geometry": {"coordinates":[-94.88333,17.61667000000001],"type":"Point"}
 }

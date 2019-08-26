@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":2427474.654883,
+    "geom:area_square_m":2427474.654882,
     "geom:bbox":"-101.754767056,19.9139270478,-101.729060146,19.9328677385",
     "geom:latitude":19.923719,
     "geom:longitude":-101.744922,
     "iso:country":"MX",
     "lbl:latitude":19.924473,
     "lbl:longitude":-101.745797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.924473,
     "mps:longitude":-101.745797,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55920955
     },
     "wof:country":"MX",
-    "wof:geomhash":"ef098b1c2e26f0f401b3fef7c4f0f111",
+    "wof:geomhash":"31d693980b383908ffa14ed12a8c43d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997429,
-    "wof:lastmodified":1479904299,
+    "wof:lastmodified":1566632486,
     "wof:name":"Villa Jim\u00e9nez",
     "wof:parent_id":102075049,
     "wof:placetype":"locality",

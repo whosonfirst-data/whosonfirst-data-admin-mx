@@ -9,14 +9,17 @@
     "geom:bbox":"-95.705613014,17.329867879,-95.6951066791,17.3424052386",
     "geom:latitude":17.336762,
     "geom:longitude":-95.699828,
-    "geonames:id":"3516908,3801486",
+    "gn:id":"3516908,3801486",
     "iso:country":"MX",
     "lbl:latitude":17.337198,
     "lbl:longitude":-95.700251,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.337198,
     "mps:longitude":-95.700251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santiago Yaveo"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101996061,
-    "wof:lastmodified":1563397437,
+    "wof:lastmodified":1566632413,
     "wof:name":"Santiago Yaveo",
     "wof:parent_id":102076621,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1620300.962849,
+    "geom:area_square_m":1620300.962846,
     "geom:bbox":"-99.5911510055,19.3755485309,-99.5742585634,19.3933307768",
     "geom:latitude":19.384792,
     "geom:longitude":-99.582841,
     "iso:country":"MX",
     "lbl:latitude":19.384908,
     "lbl:longitude":-99.582969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.384908,
     "mps:longitude":-99.582969,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55886471
     },
     "wof:country":"MX",
-    "wof:geomhash":"23f65cc8569e9adb5bf4914fa14fcb99",
+    "wof:geomhash":"005bcdecded8c3499af1d8e1e494c982",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992427,
-    "wof:lastmodified":1479930300,
+    "wof:lastmodified":1566632722,
     "wof:name":"Colonia Guadalupe Victoria",
     "wof:parent_id":102074089,
     "wof:placetype":"locality",

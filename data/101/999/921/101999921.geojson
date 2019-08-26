@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.600492,
     "lbl:longitude":-97.65853,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.600492,
     "mps:longitude":-97.65853,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be \u09b2\u09be \u0986\u09b2\u09a4\u09be"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_preferred":[
         "Santa Mar\u00eda la Alta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Mar\u00eda"
     ],
     "qs:a0":"Mexico",
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3517241,
         "gp:id":55888880,
-        "qs:id":72948,
+        "qs_pg:id":72948,
         "wd:id":"Q20232053"
     },
     "wof:country":"MX",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101999921,
-    "wof:lastmodified":1563397761,
+    "wof:lastmodified":1566632587,
     "wof:name":"Santa Mar\u00eda la Alta",
     "wof:parent_id":102078375,
     "wof:placetype":"locality",

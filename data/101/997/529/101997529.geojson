@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
-    "geom:area_square_m":812341.523279,
+    "geom:area_square_m":812341.523284,
     "geom:bbox":"-102.185217832,20.2029007206,-102.173822141,20.2167720446",
     "geom:latitude":20.210955,
     "geom:longitude":-102.178654,
     "iso:country":"MX",
     "lbl:latitude":20.210776,
     "lbl:longitude":-102.177144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.210776,
     "mps:longitude":-102.177144,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889209
     },
     "wof:country":"MX",
-    "wof:geomhash":"9420d81bd01e545182c993daf3d0015f",
+    "wof:geomhash":"06c7416b1ce376c875d9c53ff419240d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997529,
-    "wof:lastmodified":1479904454,
+    "wof:lastmodified":1566632465,
     "wof:name":"Quiringuicharo (La Hacienda)",
     "wof:parent_id":102075109,
     "wof:placetype":"locality",

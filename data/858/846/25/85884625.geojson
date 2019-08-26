@@ -11,8 +11,10 @@
     "geom:longitude":-105.244967,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.249967,20.652332,-105.239967,20.662332",
     "lbl:latitude":20.657332,
     "lbl:longitude":-105.244967,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.661056,
     "mps:longitude":-105.241513,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Cond Isla Iguana"
-    ],
-    "name:unk_x_variant":[
         "Cond Isla Iguana"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55905285,
-        "qs:id":1342934,
         "qs_pg:id":1342934
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957722,
+    "wof:lastmodified":1566619638,
     "wof:name":"Cond Isla Iguana",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

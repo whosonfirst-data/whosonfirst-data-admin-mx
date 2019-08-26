@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7967532.040449,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.1076,16.758404,-93.1076,16.758404",
     "geom:latitude":16.758404,
     "geom:longitude":-93.1076,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-93.1126,16.753404,-93.1026,16.763404",
     "lbl:latitude":16.758404,
     "lbl:longitude":-93.1076,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.752884,
     "mps:longitude":-93.1008,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Brasilia"
-    ],
-    "name:unk_x_variant":[
         "Fracc Brasilia"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994357,
-        102075513,
-        85686611
+        102075513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888897,
-        "qs:id":474634,
         "qs_pg:id":474634
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874187,
+    "wof:lastmodified":1566619554,
     "wof:name":"Fracc Brasilia",
     "wof:parent_id":101994357,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.150976,
     "lbl:longitude":-101.711911,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.150976,
     "mps:longitude":-101.711911,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_colloquial":[
         "Angamacutiro de la Union"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u043d\u0433\u0430\u043c\u0430\u043a\u0443\u0442\u0438\u0440\u043e \u0434\u0435 \u043b\u0430 \u0423\u043d\u0438\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Angamacutiro"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
@@ -48,7 +48,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +61,7 @@
         "fct:id":"01b7dc4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4018518,
         "gp:id":55918653,
-        "qs:id":1047650,
+        "qs_pg:id":1047650,
         "wd:id":"Q20136404"
     },
     "wof:country":"MX",
@@ -79,7 +79,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397562,
+    "wof:lastmodified":1566632477,
     "wof:name":"Angamacutiro de la Uni\u00f3n",
     "wof:parent_id":102075095,
     "wof:placetype":"locality",

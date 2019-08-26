@@ -10,8 +10,10 @@
     "geom:latitude":31.880105,
     "geom:longitude":-112.819361,
     "iso:country":"MX",
+    "lbl:bbox":"-112.824361,31.875105,-112.814361,31.885105",
     "lbl:latitude":31.880105,
     "lbl:longitude":-112.819361,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.878594,
     "mps:longitude":-112.820147,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Barrio Hombres Blancos"
     ],
     "name:spa_x_preferred":[
-        "Barrio Hombres Blancos"
-    ],
-    "name:unk_x_variant":[
         "Barrio Hombres Blancos"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686549,
         102191575,
         85633293,
         101993825,
-        102074457,
-        85686549
+        102074457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55913115,
-        "qs:id":1343709,
         "qs_pg:id":1343709
     },
     "wof:country":"MX",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536955955,
+    "wof:lastmodified":1566619591,
     "wof:name":"Barrio Hombres Blancos",
     "wof:parent_id":101993825,
     "wof:placetype":"neighbourhood",

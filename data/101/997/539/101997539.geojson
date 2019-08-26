@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2884456.299799,
+    "geom:area_square_m":2884456.299786,
     "geom:bbox":"-102.555094677,20.2586357581,-102.527623527,20.280809416",
     "geom:latitude":20.270708,
     "geom:longitude":-102.542175,
     "iso:country":"MX",
     "lbl:latitude":20.271293,
     "lbl:longitude":-102.541978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.271293,
     "mps:longitude":-102.541978,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":136133
     },
     "wof:country":"MX",
-    "wof:geomhash":"897da4a092372dc05303c6cb03f0e8bc",
+    "wof:geomhash":"fd8c7b78ca192ef448928571016e9340",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997539,
-    "wof:lastmodified":1479930513,
+    "wof:lastmodified":1566632470,
     "wof:name":"Paso de Hidalgo (Paso de \u00c1lamos)",
     "wof:parent_id":102075115,
     "wof:placetype":"locality",

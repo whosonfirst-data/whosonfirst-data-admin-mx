@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.099436,
     "lbl:longitude":-99.82748,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.099436,
     "mps:longitude":-99.82748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Aculco"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Aculco"
     ],
-    "name:unk_x_variant":[
-        "Aculco"
-    ],
     "name:vie_x_preferred":[
         "Aculco"
     ],
@@ -103,7 +103,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -132,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398193,
+    "wof:lastmodified":1566632809,
     "wof:name":"Aculco de Espinoza",
     "wof:parent_id":102074221,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":1273775.285603,
+    "geom:area_square_m":1273775.285604,
     "geom:bbox":"-98.9786937396,19.5838032063,-98.9653770075,19.5965233115",
     "geom:latitude":19.589516,
     "geom:longitude":-98.971234,
     "iso:country":"MX",
     "lbl:latitude":19.588534,
     "lbl:longitude":-98.971233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.588534,
     "mps:longitude":-98.971233,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55901934
     },
     "wof:country":"MX",
-    "wof:geomhash":"ff3d9bc67e82ffe26b89cf85cbfc11fa",
+    "wof:geomhash":"a5e25b4b875df1de1c83ba07564152ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993143,
-    "wof:lastmodified":1479931076,
+    "wof:lastmodified":1566632781,
     "wof:name":"Granjas Ampliaci\u00f3n Santa Rosa",
     "wof:parent_id":102074205,
     "wof:placetype":"locality",

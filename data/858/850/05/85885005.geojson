@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13059400.98087,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.992493,19.062118,-95.992493,19.062118",
     "geom:latitude":19.062118,
     "geom:longitude":-95.992493,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-95.997493,19.057118,-95.987493,19.067118",
     "lbl:latitude":19.062118,
     "lbl:longitude":-95.992493,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.062118,
     "mps:longitude":-95.993276,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Z Milit Hca Escuela Naval Militar"
-    ],
-    "name:unk_x_variant":[
         "Z Milit Hca Escuela Naval Militar"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998145,
-        102077407,
-        85686671
+        102077407
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892669,
-        "qs:id":475832,
         "qs_pg:id":22731
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":475832
     },
     "wof:country":"MX",
     "wof:geomhash":"264bdea2ad98783b8716e78b509806f1",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874688,
+    "wof:lastmodified":1566619592,
     "wof:name":"Z Milit Hca Escuela Naval Militar",
     "wof:parent_id":101998145,
     "wof:placetype":"neighbourhood",

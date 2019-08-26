@@ -9,20 +9,23 @@
     "geom:bbox":"-97.65579,19.32545,-97.65579,19.32545",
     "geom:latitude":19.32545,
     "geom:longitude":-97.65579,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12548,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":12548,
     "iso:country":"MX",
+    "lbl:bbox":"-97.67579,19.30545,-97.63579,19.34545",
     "lbl:latitude":19.32545,
     "lbl:longitude":-97.65579,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "El Carmen Tequesquitla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Carmen"
     ],
     "qs_pg:aaroncc":"MX",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":150347,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125928299,
-    "wof:lastmodified":1509401226,
+    "wof:lastmodified":1566633880,
     "wof:name":"Tequixquitla",
     "wof:parent_id":102077965,
     "wof:placetype":"locality",

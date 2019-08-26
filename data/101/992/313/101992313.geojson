@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.0536,
     "lbl:longitude":-96.684588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.0536,
     "mps:longitude":-96.684588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santa Cruz Amilpas"
     ],
@@ -70,7 +73,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101992313,
-    "wof:lastmodified":1563397994,
+    "wof:lastmodified":1566632702,
     "wof:name":"Santa Cruz Amilpas",
     "wof:parent_id":102076009,
     "wof:placetype":"locality",

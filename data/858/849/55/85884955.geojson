@@ -10,8 +10,10 @@
     "geom:latitude":20.774092,
     "geom:longitude":-103.417053,
     "iso:country":"MX",
+    "lbl:bbox":"-103.422053,20.769092,-103.412053,20.779092",
     "lbl:latitude":20.774092,
     "lbl:longitude":-103.417053,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.77463,
     "mps:longitude":-103.418928,
     "mz:hierarchy_label":0,
@@ -74,9 +76,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e25\u0e15\u0e34\u0e40\u0e01\u0e23"
     ],
-    "name:unk_x_variant":[
-        "El Tigre"
-    ],
     "name:vol_x_preferred":[
         "El Tigre"
     ],
@@ -114,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -125,7 +124,7 @@
     "wof:concordances":{
         "gn:id":4007238,
         "gp:id":55910242,
-        "qs:id":1104491
+        "qs_pg:id":1104491
     },
     "wof:country":"MX",
     "wof:geomhash":"a17208b0f958dc13a55018398ef4e430",
@@ -143,7 +142,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147289,
+    "wof:lastmodified":1566619652,
     "wof:name":"El Tigre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

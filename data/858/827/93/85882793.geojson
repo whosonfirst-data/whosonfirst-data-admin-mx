@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11617054.217036,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.005781,19.59799,-99.005781,19.59799",
     "geom:latitude":19.59799,
     "geom:longitude":-99.005781,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.010781,19.59299,-99.000781,19.60299",
     "lbl:latitude":19.59799,
     "lbl:longitude":-99.005781,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.59651,
     "mps:longitude":-99.00162,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:spa_x_preferred":[
         "Jardines de Morelos",
         "Ferrocarril Suburbano de la Zona Metropolitana del Valle de M\u00e9xico"
-    ],
-    "name:unk_x_variant":[
-        "Jardines de Morelos"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -64,18 +63,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992735,
-        102074155,
-        85686527
+        102074155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55886770,
-        "qs:id":1070714
+        "qs_pg:id":1070714
     },
     "wof:country":"MX",
     "wof:geomhash":"f4c07f4a8514b293bf6b9bde65c75b1b",
@@ -93,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874125,
+    "wof:lastmodified":1566619544,
     "wof:name":"Jardines de Morelos",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

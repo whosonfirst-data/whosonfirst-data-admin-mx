@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":829417.619268,
+    "geom:area_square_m":829417.619264,
     "geom:bbox":"-97.4929822372,20.5688260871,-97.4814342283,20.5801661399",
     "geom:latitude":20.574596,
     "geom:longitude":-97.486251,
     "iso:country":"MX",
     "lbl:latitude":20.5746,
     "lbl:longitude":-97.484899,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.5746,
     "mps:longitude":-97.484899,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55886993
     },
     "wof:country":"MX",
-    "wof:geomhash":"9311bec9da94c21d50be32741b62304e",
+    "wof:geomhash":"5ee5a0fc27c222a30b8352388fc6982c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998781,
-    "wof:lastmodified":1479907029,
+    "wof:lastmodified":1566632284,
     "wof:name":"General L\u00e1zaro C\u00e1rdenas del R\u00edo",
     "wof:parent_id":102077763,
     "wof:placetype":"locality",

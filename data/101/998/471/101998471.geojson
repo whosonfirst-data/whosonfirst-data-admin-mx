@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":1402419.384195,
+    "geom:area_square_m":1402419.384192,
     "geom:bbox":"-95.3568708815,17.883864867,-95.3422189047,17.8974742744",
     "geom:latitude":17.890958,
     "geom:longitude":-95.35015,
     "iso:country":"MX",
     "lbl:latitude":17.890657,
     "lbl:longitude":-95.350289,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.890657,
     "mps:longitude":-95.350289,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":132485
     },
     "wof:country":"MX",
-    "wof:geomhash":"7af71e14471a1e6b579debcc42d51992",
+    "wof:geomhash":"229459ca5217a045a4ce355ed8f89062",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998471,
-    "wof:lastmodified":1479907167,
+    "wof:lastmodified":1566632231,
     "wof:name":"Los Tigres (San Marcos)",
     "wof:parent_id":102077587,
     "wof:placetype":"locality",

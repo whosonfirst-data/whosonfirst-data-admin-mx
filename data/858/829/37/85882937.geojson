@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13586047.027083,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.089106,18.984568,-99.089106,18.984568",
     "geom:latitude":18.984568,
     "geom:longitude":-99.089106,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.094106,18.979568,-99.084106,18.989568",
     "lbl:latitude":18.984568,
     "lbl:longitude":-99.089106,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.984075,
     "mps:longitude":-99.081354,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio de Los Reyes"
-    ],
-    "name:unk_x_variant":[
         "Barrio de Los Reyes"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686531,
         102191575,
         85633293,
         101993257,
-        102074233,
-        85686531
+        102074233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888505,
-        "qs:id":1115843,
         "qs_pg:id":1115843
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874172,
+    "wof:lastmodified":1566619553,
     "wof:name":"Barrio de Los Reyes",
     "wof:parent_id":101993257,
     "wof:placetype":"neighbourhood",

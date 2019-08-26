@@ -12,6 +12,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.435561,
     "lbl:longitude":-99.19286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.434219,
     "mps:longitude":-99.191436,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
     ],
     "name:spa_x_variant":[
         "La Reforma"
-    ],
-    "name:unk_x_variant":[
-        "Polanco Reforma"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -75,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3815082,
         "gp:id":55897763,
-        "qs:id":1123206,
         "qs_pg:id":1123206
     },
     "wof:country":"MX",
@@ -104,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957715,
+    "wof:lastmodified":1566619685,
     "wof:name":"Polanco Reforma",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

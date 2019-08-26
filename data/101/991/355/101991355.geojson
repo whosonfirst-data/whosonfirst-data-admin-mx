@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.779207,
     "lbl:longitude":-98.739755,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":17.779207,
     "mps:longitude":-98.739755,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Olinal\u00e1"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,10 +86,12 @@
         "fct:id":"01b8c7b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522364,
         "gp:id":55898036,
-        "qs:id":890887,
-        "qs_pg:id":1155334,
+        "qs_pg:id":890887,
         "wd:id":"Q1999562",
         "wk:page":"Olinal\u00e1"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155334
     },
     "wof:country":"MX",
     "wof:geomhash":"eca6f9e2cb4a7ccba3bc0d61dd2c78df",
@@ -103,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397220,
+    "wof:lastmodified":1566632299,
     "wof:name":"Olinal\u00e1",
     "wof:parent_id":102073847,
     "wof:placetype":"locality",

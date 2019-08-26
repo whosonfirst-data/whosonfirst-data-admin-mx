@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.699076,
     "lbl:longitude":-101.199996,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":19.699076,
     "mps:longitude":-101.199996,
     "mz:hierarchy_label":1,
@@ -222,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0435\u043b\u0456\u044f"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "MLM"
     ],
     "name:urd_x_preferred":[
@@ -355,7 +357,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -372,7 +374,6 @@
         "gp:id":134091,
         "loc:id":"n80129080",
         "nyt:id":"N14740498275943481531",
-        "qs:id":775698,
         "qs_pg:id":775698,
         "wd:id":"Q200252",
         "wk:page":"Morelia"
@@ -392,7 +393,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397532,
+    "wof:lastmodified":1566632460,
     "wof:name":"Morelia",
     "wof:parent_id":102075017,
     "wof:placetype":"locality",

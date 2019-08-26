@@ -9,20 +9,23 @@
     "geom:bbox":"-100.94192,22.18778,-100.94192,22.18778",
     "geom:latitude":22.18778,
     "geom:longitude":-100.94192,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":194006,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":194006,
     "iso:country":"MX",
+    "lbl:bbox":"-100.96192,22.16778,-100.92192,22.20778",
     "lbl:latitude":22.18778,
     "lbl:longitude":-100.94192,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Soledad de Graciano S\u00e1nchez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00edaz Guti\u00e9rrez"
     ],
     "qs_pg:aaroncc":"MX",
@@ -44,7 +47,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":147738,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125911155,
-    "wof:lastmodified":1509400175,
+    "wof:lastmodified":1566634039,
     "wof:name":"Soledad D\u00edez Guti\u00e9rrez",
     "wof:parent_id":102077177,
     "wof:placetype":"locality",

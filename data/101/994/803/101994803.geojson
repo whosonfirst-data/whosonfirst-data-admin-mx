@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":1003882.374924,
+    "geom:area_square_m":1003882.374922,
     "geom:bbox":"-92.9862156287,18.162168707,-92.9724612889,18.175652328",
     "geom:latitude":18.167297,
     "geom:longitude":-92.978371,
     "iso:country":"MX",
     "lbl:latitude":18.166551,
     "lbl:longitude":-92.978371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.166551,
     "mps:longitude":-92.978371,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55920291
     },
     "wof:country":"MX",
-    "wof:geomhash":"0c9bd3b91ed0728e183f62ce7444dc2d",
+    "wof:geomhash":"b57c6ff7c26eb221372ca4310370e783",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994803,
-    "wof:lastmodified":1479904138,
+    "wof:lastmodified":1566632850,
     "wof:name":"Guatacalca",
     "wof:parent_id":102075767,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":22.742815,
     "geom:longitude":-98.976426,
     "iso:country":"MX",
+    "lbl:bbox":"-98.981426,22.737815,-98.971426,22.747815",
     "lbl:latitude":22.742815,
     "lbl:longitude":-98.976426,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.741451,
     "mps:longitude":-98.974872,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "Benito Ju\u00e1rez"
-    ],
-    "name:unk_x_variant":[
-        "Benito Juarez"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -73,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3482985,
         "gp:id":55891460,
-        "qs:id":1182696,
         "qs_pg:id":1182696
     },
     "wof:country":"MX",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619679,
     "wof:name":"Benito Juarez",
     "wof:parent_id":102000957,
     "wof:placetype":"neighbourhood",

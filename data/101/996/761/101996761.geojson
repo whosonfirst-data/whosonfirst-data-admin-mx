@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1762086.750703,
+    "geom:area_square_m":1762086.750719,
     "geom:bbox":"-100.505005654,21.2109013698,-100.488409693,21.2350008226",
     "geom:latitude":21.220596,
     "geom:longitude":-100.495433,
     "iso:country":"MX",
     "lbl:latitude":21.222069,
     "lbl:longitude":-100.493919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.222069,
     "mps:longitude":-100.493919,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Guanajuato",
     "qs:a1_lc":"11",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":137408
     },
     "wof:country":"MX",
-    "wof:geomhash":"6ae2bc48b457a2ebe05f581a749b1c01",
+    "wof:geomhash":"8398ad076c6e6e8772194c6be9bc8f78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996761,
-    "wof:lastmodified":1479906728,
+    "wof:lastmodified":1566632401,
     "wof:name":"San Pedro de los Pozos (Mineral de Pozos)",
     "wof:parent_id":102077321,
     "wof:placetype":"locality",

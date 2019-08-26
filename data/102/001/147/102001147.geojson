@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.585681,
     "lbl:longitude":-90.001015,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.585681,
     "mps:longitude":-90.001015,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Maxcan\u00fa"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -85,7 +88,6 @@
         "fct:id":"01b8a9d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3523436,
         "gp:id":133193,
-        "qs:id":267176,
         "qs_pg:id":267176,
         "wd:id":"Q2000119",
         "wk:page":"Maxcan\u00fa"
@@ -105,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369867,
+    "wof:lastmodified":1566615764,
     "wof:name":"Maxcan\u00fa",
     "wof:parent_id":102079025,
     "wof:placetype":"locality",

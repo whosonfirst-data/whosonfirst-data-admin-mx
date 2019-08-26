@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":28.272806,
     "lbl:longitude":-105.482571,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":28.272806,
     "mps:longitude":-105.482571,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bar_x_preferred":[
         "Meoqui"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Pedro Meoqui"
     ],
-    "name:unk_x_variant":[
-        "Meoqui"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Chihuahua",
     "qs:a1_lc":"08",
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -102,10 +102,12 @@
         "fct:id":"01aec614-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3996234,
         "gp:id":55900314,
-        "qs:id":151342,
-        "qs_pg:id":1294698,
+        "qs_pg:id":151342,
         "wd:id":"Q1921059",
         "wk:page":"Pedro Meoqui"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294698
     },
     "wof:country":"MX",
     "wof:geomhash":"6cae03b71b076eb2b58d22dc08f64b95",
@@ -122,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398353,
+    "wof:lastmodified":1566632889,
     "wof:name":"Pedro Meoqui",
     "wof:parent_id":102075277,
     "wof:placetype":"locality",

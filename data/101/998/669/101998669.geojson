@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
-    "geom:area_square_m":2096055.349261,
+    "geom:area_square_m":2096055.349264,
     "geom:bbox":"-95.2263635351,17.7999681591,-95.2080966608,17.818330652",
     "geom:latitude":17.809036,
     "geom:longitude":-95.218861,
     "iso:country":"MX",
     "lbl:latitude":17.808969,
     "lbl:longitude":-95.218725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.808969,
     "mps:longitude":-95.218725,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55912015
     },
     "wof:country":"MX",
-    "wof:geomhash":"78aba690668394c3c48e129faec86881",
+    "wof:geomhash":"66e174a3dbb5717f5a27c86cedac6204",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998669,
-    "wof:lastmodified":1479906770,
+    "wof:lastmodified":1566632241,
     "wof:name":"Estaci\u00f3n Juanita",
     "wof:parent_id":102077693,
     "wof:placetype":"locality",

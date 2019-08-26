@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.600878,
     "lbl:longitude":-99.873112,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.600878,
     "mps:longitude":-99.873112,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0986\u09a8\u09be \u09b2\u09be \u09b2\u09be\u09a6\u09c7\u09b0\u09be"
     ],
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101992621,
-    "wof:lastmodified":1563397961,
+    "wof:lastmodified":1566632683,
     "wof:name":"Santa Ana la Ladera",
     "wof:parent_id":102074135,
     "wof:placetype":"locality",

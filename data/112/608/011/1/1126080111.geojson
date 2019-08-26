@@ -9,16 +9,19 @@
     "geom:bbox":"-97.57745,21.74464,-97.57745,21.74464",
     "geom:latitude":21.74464,
     "geom:longitude":-97.57745,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-97.58245,21.73964,-97.57245,21.74964",
     "lbl:latitude":21.74464,
     "lbl:longitude":-97.57745,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cabo Rojo"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55881874,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Tamaulipas",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077711,
-        85686671
+        102077711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126080111,
-    "wof:lastmodified":1509411119,
+    "wof:lastmodified":1566634103,
     "wof:name":"Moctezuma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

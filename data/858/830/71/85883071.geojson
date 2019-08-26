@@ -10,8 +10,10 @@
     "geom:latitude":20.906503,
     "geom:longitude":-100.738735,
     "iso:country":"MX",
+    "lbl:bbox":"-100.743735,20.901503,-100.733735,20.911503",
     "lbl:latitude":20.906503,
     "lbl:longitude":-100.738735,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.902629,
     "mps:longitude":-100.729674,
     "mz:hierarchy_label":0,
@@ -35,9 +37,8 @@
     "name:spa_x_preferred":[
         "Ojo de Agua"
     ],
-    "name:unk_x_variant":[
-        "Ojo de Agua de Ixtla",
-        "Ojo de Agua"
+    "name:und_x_variant":[
+        "Ojo de Agua de Ixtla"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -68,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -80,8 +81,10 @@
     "wof:concordances":{
         "gn:id":4024162,
         "gp:id":55906213,
-        "qs:id":1199569,
         "qs_pg:id":1113073
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1199569
     },
     "wof:country":"MX",
     "wof:geomhash":"b0c42b289501fa3d83fada1ff6d33e16",
@@ -99,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619704,
     "wof:name":"Ojo de Agua",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

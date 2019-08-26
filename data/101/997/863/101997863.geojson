@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.614256,
     "lbl:longitude":-103.305333,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":20.614256,
     "mps:longitude":-103.305333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ast_x_preferred":[
         "Tlaquepaque"
     ],
@@ -119,7 +122,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":1870.0,
     "wd:latitude":20.65,
@@ -137,7 +140,7 @@
         "fct:id":"01b98c52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3981461,
         "gp:id":134733,
-        "qs:id":1139066,
+        "qs_pg:id":1139066,
         "wd:id":"Q155277",
         "wk:page":"Tlaquepaque"
     },
@@ -156,7 +159,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397610,
+    "wof:lastmodified":1566632499,
     "wof:name":"Tlaquepaque",
     "wof:parent_id":102074763,
     "wof:placetype":"locality",

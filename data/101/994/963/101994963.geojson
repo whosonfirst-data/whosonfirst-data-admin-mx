@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.224056,
     "lbl:longitude":-93.107739,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.224056,
     "mps:longitude":-93.107739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ayapa"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "Ayapa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anapa"
     ],
     "qs:a0":"Mexico",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3532526,
         "gp:id":112754,
-        "qs:id":251434,
         "qs_pg:id":251434,
         "wd:id":"Q20261220"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101994963,
-    "wof:lastmodified":1563398238,
+    "wof:lastmodified":1566632832,
     "wof:name":"Ayapa",
     "wof:parent_id":102075783,
     "wof:placetype":"locality",

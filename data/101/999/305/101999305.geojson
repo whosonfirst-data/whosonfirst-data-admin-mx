@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.836694,
     "lbl:longitude":-98.659047,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.836694,
     "mps:longitude":-98.659047,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Juan Amecac"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Juan Amecac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amecac"
     ],
     "qs:a0":"Mexico",
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3518739,
         "gp:id":55900705,
-        "qs:id":1045423,
+        "qs_pg:id":1045423,
         "wd:id":"Q20143465"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101999305,
-    "wof:lastmodified":1563397714,
+    "wof:lastmodified":1566632558,
     "wof:name":"San Juan Amecac",
     "wof:parent_id":102078041,
     "wof:placetype":"locality",

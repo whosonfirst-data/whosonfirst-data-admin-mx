@@ -11,8 +11,10 @@
     "geom:longitude":-102.54114,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.54614,22.753572,-102.53614,22.763572",
     "lbl:latitude":22.758572,
     "lbl:longitude":-102.54114,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.754093,
     "mps:longitude":-102.544196,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Medicos Veterinarios Ii"
-    ],
-    "name:unk_x_variant":[
         "Fracc Medicos Veterinarios Ii"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686567,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900593,
-        "qs:id":1342264,
         "qs_pg:id":1342264
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619630,
     "wof:name":"Fracc Medicos Veterinarios Ii",
     "wof:parent_id":101992875,
     "wof:placetype":"neighbourhood",

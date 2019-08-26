@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000375,
-    "geom:area_square_m":4383637.260859,
+    "geom:area_square_m":4383637.26086,
     "geom:bbox":"-98.5663449006,18.9384349638,-98.538244184,18.9681862931",
     "geom:latitude":18.952859,
     "geom:longitude":-98.55205,
     "iso:country":"MX",
     "lbl:latitude":18.952991,
     "lbl:longitude":-98.552265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.952991,
     "mps:longitude":-98.552265,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Popocat\u00e9petl"
     ],
@@ -60,7 +64,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -72,7 +76,7 @@
         "gp:id":55888557
     },
     "wof:country":"MX",
-    "wof:geomhash":"078f8089bc65276da2d84ebd4894c3cd",
+    "wof:geomhash":"9c80237b6ecccd8cae8007793e262d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101999293,
-    "wof:lastmodified":1479907908,
+    "wof:lastmodified":1566632536,
     "wof:name":"San Pedro Benito Ju\u00e1rez",
     "wof:parent_id":102078035,
     "wof:placetype":"locality",

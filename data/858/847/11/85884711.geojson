@@ -11,8 +11,10 @@
     "geom:longitude":-103.263301,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.268301,20.293584,-103.258301,20.303584",
     "lbl:latitude":20.298584,
     "lbl:longitude":-103.263301,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.298265,
     "mps:longitude":-103.268176,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Ajijic Centro"
-    ],
-    "name:unk_x_variant":[
         "Ajijic Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55906612,
-        "qs:id":221582,
         "qs_pg:id":221582
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957722,
+    "wof:lastmodified":1566619656,
     "wof:name":"Ajijic Centro",
     "wof:parent_id":101998065,
     "wof:placetype":"neighbourhood",

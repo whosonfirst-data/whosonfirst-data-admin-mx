@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000517,
-    "geom:area_square_m":5980109.157416,
+    "geom:area_square_m":5980109.157417,
     "geom:bbox":"-103.293018327,20.5465544589,-103.266060077,20.5798265359",
     "geom:latitude":20.560275,
     "geom:longitude":-103.27944,
     "iso:country":"MX",
     "lbl:latitude":20.559604,
     "lbl:longitude":-103.278121,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.559604,
     "mps:longitude":-103.278121,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Relacions entre Cap Verd i Estats Units"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101997853,
-    "wof:lastmodified":1497289860,
+    "wof:lastmodified":1566632495,
     "wof:name":"San Jos\u00e9 el Verde (El Verde)",
     "wof:parent_id":102074711,
     "wof:placetype":"locality",

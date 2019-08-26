@@ -9,20 +9,22 @@
     "geom:bbox":"-97.14435,16.10694,-97.14435,16.10694",
     "geom:latitude":16.10694,
     "geom:longitude":-97.14435,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4830,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":4830,
     "iso:country":"MX",
+    "lbl:bbox":"-97.14935,16.10194,-97.13935,16.11194",
     "lbl:latitude":16.10694,
     "lbl:longitude":-97.14435,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Santos Reyes Nopala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nopala"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,18 +44,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55917431,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Oaxaca",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101996123,
-        102076217,
-        85686623
+        102076217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126097977,
-    "wof:lastmodified":1509411976,
+    "wof:lastmodified":1566634262,
     "wof:name":"Santos Reyes Nopala Centro",
     "wof:parent_id":101996123,
     "wof:placetype":"neighbourhood",

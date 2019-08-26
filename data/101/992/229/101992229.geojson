@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001204,
-    "geom:area_square_m":13613399.506438,
+    "geom:area_square_m":13613399.506405,
     "geom:bbox":"-103.070179779,23.8026165252,-103.010720354,23.8450466791",
     "geom:latitude":23.825206,
     "geom:longitude":-103.036506,
-    "geonames:id":"3973202,3988594",
+    "gn:id":"3973202,3988594",
     "iso:country":"MX",
     "lbl:latitude":23.826686,
     "lbl:longitude":-103.031576,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.826686,
     "mps:longitude":-103.031576,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "R\u00edo Grande"
     ],
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101992229,
-    "wof:lastmodified":1504309892,
+    "wof:lastmodified":1566632679,
     "wof:name":"R\u00edo Grande",
     "wof:parent_id":102075411,
     "wof:placetype":"locality",

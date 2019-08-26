@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002065,
-    "geom:area_square_m":24264493.62367,
+    "geom:area_square_m":24264493.623685,
     "geom:bbox":"-94.4159119088,18.0998752379,-94.3456256666,18.1665981048",
     "geom:latitude":18.138647,
     "geom:longitude":-94.384581,
@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.145188,
     "lbl:longitude":-94.386922,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.145188,
     "mps:longitude":-94.386922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Allende"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -55,9 +58,11 @@
     "wof:concordances":{
         "gn:id":4018762,
         "gp:id":111869,
-        "qs:id":975251,
-        "qs_pg:id":1103629,
+        "qs_pg:id":975251,
         "wd:id":"Q23901371"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1103629
     },
     "wof:country":"MX",
     "wof:geomhash":"66150c3b802cae53a0625e156469b8c4",
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":101998239,
-    "wof:lastmodified":1514485502,
+    "wof:lastmodified":1566632277,
     "wof:name":"Allende",
     "wof:parent_id":102077467,
     "wof:placetype":"locality",

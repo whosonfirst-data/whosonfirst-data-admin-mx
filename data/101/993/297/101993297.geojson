@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.791723,
     "lbl:longitude":-98.768195,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.791723,
     "mps:longitude":-98.768195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zacualpan"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191575,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101993297,
-    "wof:lastmodified":1563398198,
+    "wof:lastmodified":1566632811,
     "wof:name":"Zacualpan de Amilpas",
     "wof:parent_id":102074253,
     "wof:placetype":"locality",

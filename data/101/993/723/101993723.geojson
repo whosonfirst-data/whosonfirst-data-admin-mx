@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":24.446292,
     "lbl:longitude":-107.376621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.446292,
     "mps:longitude":-107.376621,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Leopoldo S\u00e1nchez Celis"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101993723,
-    "wof:lastmodified":1563398141,
+    "wof:lastmodified":1566632782,
     "wof:name":"Leopoldo S\u00e1nchez Celis",
     "wof:parent_id":102074307,
     "wof:placetype":"locality",

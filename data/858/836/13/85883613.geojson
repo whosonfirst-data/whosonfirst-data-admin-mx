@@ -11,8 +11,10 @@
     "geom:longitude":-99.227993,
     "gn:population":788,
     "iso:country":"MX",
+    "lbl:bbox":"-99.232993,19.522498,-99.222993,19.532498",
     "lbl:latitude":19.527498,
     "lbl:longitude":-99.227993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.531127,
     "mps:longitude":-99.226058,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:swe_x_preferred":[
         "San Lucas Teacalco"
-    ],
-    "name:unk_x_variant":[
-        "Ampl San Lucas Tepetlacalco"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686527,
@@ -84,7 +83,6 @@
     "wof:concordances":{
         "gn:id":3827534,
         "gp:id":55897168,
-        "qs:id":968973,
         "qs_pg:id":968973,
         "wd:id":"Q20145217"
     },
@@ -104,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375548,
+    "wof:lastmodified":1566619690,
     "wof:name":"Ampl San Lucas Tepetlacalco",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",

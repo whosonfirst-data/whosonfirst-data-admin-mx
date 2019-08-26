@@ -11,8 +11,10 @@
     "geom:longitude":-116.979653,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.984653,32.496674,-116.974653,32.506674",
     "lbl:latitude":32.501674,
     "lbl:longitude":-116.979653,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.501517,
     "mps:longitude":-116.978195,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
         "Alcala",
         "Alcal\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Alcala"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3981609,
@@ -85,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -96,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888038,
-        "qs:id":243817
+        "qs_pg:id":243817
     },
     "wof:country":"MX",
     "wof:geomhash":"53f2843215e9a8975ed38f11edb31781",
@@ -114,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619549,
     "wof:name":"Alcala",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

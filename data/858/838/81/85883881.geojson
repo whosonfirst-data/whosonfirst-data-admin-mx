@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":581114.611343,
+    "geom:area_square_m":581114.611344,
     "geom:bbox":"-99.1625976562,19.3681584989,-99.1543579102,19.3759317497",
     "geom:latitude":19.372045,
     "geom:longitude":-99.159263,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.372242,
     "lbl:longitude":-99.158672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.372045,
     "mps:longitude":-99.159675,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Fracc Res Emperadores"
-    ],
-    "name:unk_x_variant":[
         "Fracc Res Emperadores"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898663,
-        "qs:id":972518
+        "qs_pg:id":972518
     },
     "wof:country":"MX",
     "wof:geomhash":"e1132a907a52cb6e58c9795ecefac6d2",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270469,
+    "wof:lastmodified":1566619675,
     "wof:name":"Fracc Res Emperadores",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

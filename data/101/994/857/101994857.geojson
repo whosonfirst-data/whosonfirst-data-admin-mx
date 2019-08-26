@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000339,
-    "geom:area_square_m":3984533.071129,
+    "geom:area_square_m":3984533.071121,
     "geom:bbox":"-92.8948132395,18.04911102,-92.8620528656,18.0714032661",
     "geom:latitude":18.059284,
     "geom:longitude":-92.877257,
     "iso:country":"MX",
     "lbl:latitude":18.059334,
     "lbl:longitude":-92.877258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.059334,
     "mps:longitude":-92.877258,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895527
     },
     "wof:country":"MX",
-    "wof:geomhash":"8db071ed73fab303830d98395f3adbc4",
+    "wof:geomhash":"d1d49b14b837acfa4325a42defe29800",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994857,
-    "wof:lastmodified":1479904113,
+    "wof:lastmodified":1566632848,
     "wof:name":"Medell\u00edn y Pigua 3ra. Secci\u00f3n",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

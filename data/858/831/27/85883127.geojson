@@ -11,8 +11,10 @@
     "geom:longitude":-97.864937,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.869937,22.248967,-97.859937,22.258967",
     "lbl:latitude":22.253967,
     "lbl:longitude":-97.864937,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.2551,
     "mps:longitude":-97.865663,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Petrolera"
-    ],
-    "name:unk_x_variant":[
         "Petrolera"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890869,
-        "qs:id":261431,
         "qs_pg:id":261431
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619680,
     "wof:name":"Petrolera",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",

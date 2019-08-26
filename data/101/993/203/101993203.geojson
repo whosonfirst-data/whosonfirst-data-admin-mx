@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
-    "geom:area_square_m":2073848.250342,
+    "geom:area_square_m":2073848.250331,
     "geom:bbox":"-98.8926730501,19.6310439137,-98.8685916584,19.650982465",
     "geom:latitude":19.640395,
     "geom:longitude":-98.882019,
     "iso:country":"MX",
     "lbl:latitude":19.64321,
     "lbl:longitude":-98.878187,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.64321,
     "mps:longitude":-98.878187,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Xametla"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101993203,
-    "wof:lastmodified":1504309852,
+    "wof:lastmodified":1566632769,
     "wof:name":"San Miguel Xometla",
     "wof:parent_id":102074223,
     "wof:placetype":"locality",

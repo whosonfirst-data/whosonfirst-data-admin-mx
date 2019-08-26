@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.036387,
     "lbl:longitude":-99.576382,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.036387,
     "mps:longitude":-99.576382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Pedro Zictepec"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3827299,
         "gp:id":55885776,
-        "qs:id":150375,
         "qs_pg:id":150375,
         "wd:id":"Q20240295"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101991909,
-    "wof:lastmodified":1563397210,
+    "wof:lastmodified":1566632292,
     "wof:name":"San Pedro Zictepec",
     "wof:parent_id":102074043,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":21.098761,
     "lbl:longitude":-89.281634,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":21.098761,
     "mps:longitude":-89.281634,
     "mz:hierarchy_label":1,
@@ -41,9 +43,6 @@
     "name:spa_x_preferred":[
         "Motul",
         "Motul de Carrillo Puerto"
-    ],
-    "name:unk_x_variant":[
-        "Motul"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u062a\u0648\u0644 "
@@ -155,7 +154,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -168,7 +167,7 @@
         "fct:id":"01af50ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522924,
         "gp:id":55897669,
-        "qs:id":207756,
+        "qs_pg:id":207756,
         "wd:id":"Q944292",
         "wk:page":"Motul, Yucat\u00e1n"
     },
@@ -187,7 +186,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369820,
+    "wof:lastmodified":1566615742,
     "wof:name":"Motul de Carrillo Puerto",
     "wof:parent_id":102079207,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11535595.942231,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.708363,23.050703,-109.708363,23.050703",
     "geom:latitude":23.050703,
     "geom:longitude":-109.708363,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.713363,23.045703,-109.703363,23.055703",
     "lbl:latitude":23.050703,
     "lbl:longitude":-109.708363,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.051878,
     "mps:longitude":-109.723545,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Jesus Castro Agundes"
-    ],
-    "name:unk_x_variant":[
         "Jesus Castro Agundes"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
         101993435,
-        102074525,
-        85686555
+        102074525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908445,
-        "qs:id":775670,
         "qs_pg:id":775670
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874629,
+    "wof:lastmodified":1566619644,
     "wof:name":"Jesus Castro Agundes",
     "wof:parent_id":101993435,
     "wof:placetype":"neighbourhood",

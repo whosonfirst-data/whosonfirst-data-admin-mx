@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":24.819203,
     "lbl:longitude":-100.074863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":24.819203,
     "mps:longitude":-100.074863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Galeana"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":322,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
         "fct:id":"01b850e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4006081,
         "gp:id":123837,
-        "qs:id":242613,
         "qs_pg:id":242613,
         "wd:id":"Q3849545",
         "wk:page":"Galeana, Nuevo Le\u00f3n"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369722,
+    "wof:lastmodified":1566615697,
     "wof:name":"Galeana",
     "wof:parent_id":102078769,
     "wof:placetype":"locality",

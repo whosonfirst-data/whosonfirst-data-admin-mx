@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.238949,
     "lbl:longitude":-99.624251,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.238949,
     "mps:longitude":-99.624251,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santa Mar\u00eda Magdalena Ocotitl\u00e1n"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "Santa Mar\u00eda Magdalena Ocotitl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ocotitl\u00e1n"
     ],
     "qs:a0":"Mexico",
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3522459,
         "gp:id":55901154,
-        "qs:id":148740,
+        "qs_pg:id":148740,
         "wd:id":"Q20297777"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101992513,
-    "wof:lastmodified":1563398054,
+    "wof:lastmodified":1566632739,
     "wof:name":"Santa Mar\u00eda Magdalena Ocotitl\u00e1n",
     "wof:parent_id":102074113,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":4317941.499452,
+    "geom:area_square_m":4317941.499471,
     "geom:bbox":"-98.9193242967,19.4241806018,-98.8912386379,19.4450673533",
     "geom:latitude":19.435625,
     "geom:longitude":-98.903832,
     "iso:country":"MX",
     "lbl:latitude":19.436394,
     "lbl:longitude":-98.900764,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.436394,
     "mps:longitude":-98.900764,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santiago Cuautlalpan"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3817685,
         "gp:id":55898025,
-        "qs:id":1014443
+        "qs_pg:id":1014443
     },
     "wof:country":"MX",
     "wof:geomhash":"3ee31820992472870222da12d19b309b",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101991745,
-    "wof:lastmodified":1501268840,
+    "wof:lastmodified":1566632349,
     "wof:name":"Santiago Cuautlalpan",
     "wof:parent_id":102074023,
     "wof:placetype":"locality",

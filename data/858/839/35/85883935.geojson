@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5616226.980215,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.345594,25.655666,-100.345594,25.655666",
     "geom:latitude":25.655666,
     "geom:longitude":-100.345594,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.350594,25.650666,-100.340594,25.660666",
     "lbl:latitude":25.655666,
     "lbl:longitude":-100.345594,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.655275,
     "mps:longitude":-100.3486,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     "name:spa_x_preferred":[
         "Lomas de San Francisco",
         "San Francisco de Dos R\u00edos"
-    ],
-    "name:unk_x_variant":[
-        "Lomas de San Francisco"
     ],
     "name:zho_x_preferred":[
         "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u591a\u65af\u91cc\u5967\u65af\u5340"
@@ -71,18 +70,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000745,
-        102078689,
-        85686681
+        102078689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898881,
-        "qs:id":973267,
         "qs_pg:id":973267
     },
     "wof:country":"MX",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874422,
+    "wof:lastmodified":1566619705,
     "wof:name":"Lomas de San Francisco",
     "wof:parent_id":102000745,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-97.803278,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.808278,22.253928,-97.798278,22.263928",
     "lbl:latitude":22.258928,
     "lbl:longitude":-97.803278,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.255183,
     "mps:longitude":-97.806559,
     "mz:hierarchy_label":0,
@@ -39,7 +41,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -51,8 +53,10 @@
     "wof:concordances":{
         "gn:id":3761660,
         "gp:id":55898954,
-        "qs:id":1112919,
         "qs_pg:id":905299
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1112919
     },
     "wof:country":"MX",
     "wof:geomhash":"8d583d4aa507df43e98341f47209ef38",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147282,
+    "wof:lastmodified":1566619647,
     "wof:name":"Hermenegildo Galeana",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

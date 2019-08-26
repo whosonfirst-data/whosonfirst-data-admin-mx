@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.120946,
     "lbl:longitude":-98.711763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.120946,
     "mps:longitude":-98.711763,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"c4a1cd2b579d1a0945591cb0f10d919f",
+    "wof:geomhash":"09195c9e11ce69cb19d754849e097fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":102000419,
-    "wof:lastmodified":1479907913,
+    "wof:lastmodified":1566615698,
     "wof:name":"El Huizachal",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.923792,
     "lbl:longitude":-96.727434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.923792,
     "mps:longitude":-96.727434,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Colipa"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -81,7 +84,6 @@
         "fct:id":"01b82074-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530450,
         "gp:id":116794,
-        "qs:id":180086,
         "qs_pg:id":180086,
         "wd:id":"Q3847092"
     },
@@ -100,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397191,
+    "wof:lastmodified":1566632281,
     "wof:name":"Colipa",
     "wof:parent_id":102077475,
     "wof:placetype":"locality",

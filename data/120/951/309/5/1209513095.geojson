@@ -24,8 +24,12 @@
     "gn:population":13,
     "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-107.96583,27.47944,-107.92583,27.51944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8913386
     },
     "wof:country":"MX",
-    "wof:geomhash":"9f1064eda87081406e27d601a9276b23",
+    "wof:geomhash":"402dee30485bfc57b61eb3cce0a7a705",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209513095,
-    "wof:lastmodified":1536284819,
+    "wof:lastmodified":1566626854,
     "wof:name":"Mesa del Sombrero",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -107.94583,
-    27.499440000000003,
+    27.49944,
     -107.94583,
-    27.499440000000003
+    27.49944
 ],
   "geometry": {"coordinates":[-107.94583,27.49944],"type":"Point"}
 }

@@ -9,14 +9,17 @@
     "geom:bbox":"-100.93502,25.42688,-100.93502,25.42688",
     "geom:latitude":25.42688,
     "geom:longitude":-100.93502,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.94002,25.42188,-100.93002,25.43188",
     "lbl:latitude":25.42688,
     "lbl:longitude":-100.93502,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Los Cerritos"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55899754,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Coahuila de Zaragoza",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
         102000871,
-        102078811,
-        85686689
+        102078811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126066199,
-    "wof:lastmodified":1509410437,
+    "wof:lastmodified":1566634131,
     "wof:name":"Cerritos",
     "wof:parent_id":102000871,
     "wof:placetype":"neighbourhood",

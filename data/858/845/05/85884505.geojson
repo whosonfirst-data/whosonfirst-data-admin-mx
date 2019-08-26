@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000815,
-    "geom:area_square_m":9513501.238531,
+    "geom:area_square_m":9513501.238533,
     "geom:bbox":"-99.323659668,19.2985512639,-99.2817268651,19.3278724143",
     "geom:latitude":19.313369,
     "geom:longitude":-99.30527,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.31236,
     "lbl:longitude":-99.309163,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.311859,
     "mps:longitude":-99.309863,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Zona Rustica"
-    ],
-    "name:unk_x_variant":[
         "Zona Rustica"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686515,
         102191575,
@@ -65,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904110,
-        "qs:id":475549
+        "qs_pg:id":475549
     },
     "wof:country":"MX",
     "wof:geomhash":"715d383fa2db51e4bf855caf9e39aa9e",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527269926,
+    "wof:lastmodified":1566619556,
     "wof:name":"Zona Rustica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

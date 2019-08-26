@@ -11,8 +11,10 @@
     "geom:longitude":-97.800102,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.805102,22.280471,-97.795102,22.290471",
     "lbl:latitude":22.285471,
     "lbl:longitude":-97.800102,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.285562,
     "mps:longitude":-97.800183,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Res Pemex"
-    ],
-    "name:unk_x_variant":[
         "Res Pemex"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55886611,
-        "qs:id":508444,
         "qs_pg:id":508444
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619545,
     "wof:name":"Res Pemex",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

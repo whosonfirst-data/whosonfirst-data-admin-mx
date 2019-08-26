@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":24.799455,
     "lbl:longitude":-107.39945,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":24.799455,
     "mps:longitude":-107.39945,
     "mz:hierarchy_label":1,
@@ -205,7 +207,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u044c\u044f\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuilacan"
     ],
     "name:urd_x_preferred":[
@@ -332,7 +334,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -345,10 +347,12 @@
         "fct:id":"01ca2e18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4012176,
         "gp:id":117994,
-        "qs:id":274579,
-        "qs_pg:id":1120213,
+        "qs_pg:id":274579,
         "wd:id":"Q211760",
         "wk:page":"Culiac\u00e1n"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1120213
     },
     "wof:country":"MX",
     "wof:geomhash":"cdcadba6179ba017332f817ed19659d4",
@@ -365,7 +369,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398084,
+    "wof:lastmodified":1566632753,
     "wof:megacity":1,
     "wof:name":"Culiac\u00e1n Rosales",
     "wof:parent_id":102074307,

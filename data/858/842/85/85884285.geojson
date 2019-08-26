@@ -10,8 +10,10 @@
     "geom:latitude":19.642588,
     "geom:longitude":-98.896179,
     "iso:country":"MX",
+    "lbl:bbox":"-98.901179,19.637588,-98.891179,19.647588",
     "lbl:latitude":19.642588,
     "lbl:longitude":-98.896179,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.64373,
     "mps:longitude":-98.89518,
     "mz:hierarchy_label":0,
@@ -131,9 +133,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Santa Maria"
-    ],
     "name:vol_x_preferred":[
         "Santa Maria"
     ],
@@ -171,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -199,7 +198,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147170,
+    "wof:lastmodified":1566619566,
     "wof:name":"Santa Maria",
     "wof:parent_id":101993217,
     "wof:placetype":"neighbourhood",

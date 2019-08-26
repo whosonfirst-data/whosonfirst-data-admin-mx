@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.897216,
     "lbl:longitude":-97.147452,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.897216,
     "mps:longitude":-97.147452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ixhuatlancillo"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,6 @@
         "fct:id":"01b868ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526714,
         "gp:id":125512,
-        "qs:id":1045471,
         "qs_pg:id":1045471,
         "wd:id":"Q3391844"
     },
@@ -114,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397179,
+    "wof:lastmodified":1566632275,
     "wof:name":"Ixhuatlancillo",
     "wof:parent_id":102077557,
     "wof:placetype":"locality",

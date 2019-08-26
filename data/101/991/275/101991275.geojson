@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1682701.634709,
+    "geom:area_square_m":1682701.634708,
     "geom:bbox":"-99.2326746939,17.657187792,-99.2171784088,17.6721974153",
     "geom:latitude":17.665668,
     "geom:longitude":-99.225573,
     "iso:country":"MX",
     "lbl:latitude":17.66567,
     "lbl:longitude":-99.225721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.66567,
     "mps:longitude":-99.225721,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Guerrero",
     "qs:a1_lc":"12",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891781
     },
     "wof:country":"MX",
-    "wof:geomhash":"f7203a929e1db34707a9482f42de9381",
+    "wof:geomhash":"27955320ac0c7e66c4c6d33de86633bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991275,
-    "wof:lastmodified":1479933009,
+    "wof:lastmodified":1566632307,
     "wof:name":"Pochahuizco",
     "wof:parent_id":102073805,
     "wof:placetype":"locality",

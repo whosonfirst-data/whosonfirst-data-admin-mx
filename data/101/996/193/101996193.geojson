@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.922166,
     "lbl:longitude":-96.764032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.922166,
     "mps:longitude":-96.764032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Trinidad Zaachila"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Trinidad Zaachila"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trinidad"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101996193,
-    "wof:lastmodified":1563397327,
+    "wof:lastmodified":1566632359,
     "wof:name":"Trinidad Zaachila",
     "wof:parent_id":102076055,
     "wof:placetype":"locality",

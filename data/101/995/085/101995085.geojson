@@ -5,16 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001369,
-    "geom:area_square_m":16233914.795076,
+    "geom:area_square_m":16233914.795062,
     "geom:bbox":"-95.0401793521,16.40913434,-94.9963415092,16.4679659863",
     "geom:latitude":16.438982,
     "geom:longitude":-95.021081,
     "iso:country":"MX",
     "lbl:latitude":16.438728,
     "lbl:longitude":-95.02075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.438728,
     "mps:longitude":-95.02075,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:min_zoom":7.0,
     "name:eng_x_preferred":[
         "Juchit\u00e1n de Zaragoza"
@@ -37,7 +40,7 @@
     "name:spa_x_preferred":[
         "Juchit\u00e1n de Zaragoza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Juchitan"
     ],
     "ne:ADM0CAP":0.0,
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101995085,
-    "wof:lastmodified":1497298650,
+    "wof:lastmodified":1566632609,
     "wof:name":"Heroica Ciudad de Juchit\u00e1n de Zaragoza",
     "wof:parent_id":102075829,
     "wof:placetype":"locality",

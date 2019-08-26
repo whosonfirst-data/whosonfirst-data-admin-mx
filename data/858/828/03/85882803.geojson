@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7788267.554969,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.768533,19.131748,-98.768533,19.131748",
     "geom:latitude":19.131748,
     "geom:longitude":-98.768533,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.773533,19.126748,-98.763533,19.136748",
     "lbl:latitude":19.131748,
     "lbl:longitude":-98.768533,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.141074,
     "mps:longitude":-98.765828,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Panohaya"
-    ],
-    "name:unk_x_variant":[
         "Barrio Panohaya"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101993163,
-        102074209,
-        85686527
+        102074209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55886856,
-        "qs:id":900876
+        "qs_pg:id":900876
     },
     "wof:country":"MX",
     "wof:geomhash":"e57bdeb89a372e810e4a85e4d2b194f4",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874128,
+    "wof:lastmodified":1566619567,
     "wof:name":"Barrio Panohaya",
     "wof:parent_id":101993163,
     "wof:placetype":"neighbourhood",

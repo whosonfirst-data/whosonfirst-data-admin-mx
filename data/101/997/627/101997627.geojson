@@ -9,14 +9,17 @@
     "geom:bbox":"-103.512276059,19.4408856307,-103.499157827,19.4505735007",
     "geom:latitude":19.445511,
     "geom:longitude":-103.50605,
-    "geonames:id":"3985576,3985577",
+    "gn:id":"3985576,3985577",
     "iso:country":"MX",
     "lbl:latitude":19.446797,
     "lbl:longitude":-103.506695,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.446797,
     "mps:longitude":-103.506695,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Marcos"
     ],
@@ -107,7 +110,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101997627,
-    "wof:lastmodified":1564171264,
+    "wof:lastmodified":1566632448,
     "wof:name":"San Marcos",
     "wof:parent_id":102074855,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":3943686.349885,
+    "geom:area_square_m":3943686.349891,
     "geom:bbox":"-98.2652265558,18.88824616,-98.2393302496,18.9120182569",
     "geom:latitude":18.900579,
     "geom:longitude":-98.254279,
     "iso:country":"MX",
     "lbl:latitude":18.898274,
     "lbl:longitude":-98.256643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.898274,
     "mps:longitude":-98.256643,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55909563
     },
     "wof:country":"MX",
-    "wof:geomhash":"7f03edff1c14467bc40d434dcf39eda2",
+    "wof:geomhash":"4503d626306e43997d4d74ba7facd5c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999641,
-    "wof:lastmodified":1479908276,
+    "wof:lastmodified":1566632567,
     "wof:name":"San Andr\u00e9s Azumiatla",
     "wof:parent_id":102078237,
     "wof:placetype":"locality",

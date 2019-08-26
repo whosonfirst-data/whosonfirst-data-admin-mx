@@ -5,19 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000321,
-    "geom:area_square_m":3740070.131046,
+    "geom:area_square_m":3740070.131032,
     "geom:bbox":"-99.7922482564,19.5787216147,-99.76838117,19.6048296249",
     "geom:latitude":19.592593,
     "geom:longitude":-99.778622,
-    "geonames:id":"3817985,3516881",
+    "gn:id":"3817985,3516881",
     "iso:country":"MX",
     "lbl:latitude":19.592962,
     "lbl:longitude":-99.77844,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.592962,
     "mps:longitude":-99.77844,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Santo Domingo"
     ],
     "qs:a0":"Mexico",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101992613,
-    "wof:lastmodified":1504309856,
+    "wof:lastmodified":1566632714,
     "wof:name":"Santo Domingo de Guzm\u00e1n",
     "wof:parent_id":102074135,
     "wof:placetype":"locality",

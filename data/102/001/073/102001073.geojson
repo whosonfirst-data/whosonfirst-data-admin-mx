@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.770269,
     "lbl:longitude":-98.206108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":23.770269,
     "mps:longitude":-98.206108,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Soto la Marina"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -82,7 +85,6 @@
         "fct:id":"01b95db8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516522,
         "gp:id":147809,
-        "qs:id":1191804,
         "qs_pg:id":1191804,
         "wd:id":"Q3921788",
         "wk:page":"Soto la Marina, Tamaulipas"
@@ -102,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369837,
+    "wof:lastmodified":1566615750,
     "wof:name":"Soto la Marina",
     "wof:parent_id":102078911,
     "wof:placetype":"locality",

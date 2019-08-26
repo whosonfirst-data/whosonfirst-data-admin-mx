@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
-    "geom:area_square_m":1326585.1174,
+    "geom:area_square_m":1326585.117399,
     "geom:bbox":"-98.9056726278,18.7144854794,-98.892394308,18.7308976071",
     "geom:latitude":18.722629,
     "geom:longitude":-98.898401,
     "iso:country":"MX",
     "lbl:latitude":18.724561,
     "lbl:longitude":-98.896289,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.724561,
     "mps:longitude":-98.896289,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Mar\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xaloxtoc"
     ],
     "qs:a0":"Mexico",
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":3526607,
         "gp:id":125691,
-        "qs:id":1330683,
         "qs_pg:id":1330683
     },
     "wof:country":"MX",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101993321,
-    "wof:lastmodified":1497296699,
+    "wof:lastmodified":1566632819,
     "wof:name":"Jaloxtoc",
     "wof:parent_id":102074269,
     "wof:placetype":"locality",

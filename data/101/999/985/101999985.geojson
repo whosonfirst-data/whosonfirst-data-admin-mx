@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.838306,
     "lbl:longitude":-97.821488,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.838306,
     "mps:longitude":-97.821488,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tochtepec"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,6 @@
         "fct:id":"01b98f68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515330,
         "gp:id":149720,
-        "qs:id":180465,
         "qs_pg:id":180465,
         "wd:id":"Q7812015",
         "wk:page":"Tochtepec (municipality)"
@@ -97,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397693,
+    "wof:lastmodified":1566632546,
     "wof:name":"Tochtepec",
     "wof:parent_id":102078401,
     "wof:placetype":"locality",

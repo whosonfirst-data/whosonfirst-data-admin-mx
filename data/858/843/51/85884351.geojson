@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5224748.06802,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.849351,19.685788,-98.849351,19.685788",
     "geom:latitude":19.685788,
     "geom:longitude":-98.849351,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.854351,19.680788,-98.844351,19.690788",
     "lbl:latitude":19.685788,
     "lbl:longitude":-98.849351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.678682,
     "mps:longitude":-98.851678,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Zona Arqueologica de Teotihuacan"
-    ],
-    "name:unk_x_variant":[
         "Zona Arqueologica de Teotihuacan"
     ],
     "qs:gn_id":0,
@@ -54,17 +53,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102074039,
-        85686527
+        102074039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902910,
-        "qs:id":1342498
+        "qs_pg:id":1342498
     },
     "wof:country":"MX",
     "wof:geomhash":"1325ece486e00060aa613c1fdd008426",
@@ -82,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874510,
+    "wof:lastmodified":1566619580,
     "wof:name":"Zona Arqueologica de Teotihuacan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

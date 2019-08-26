@@ -11,8 +11,10 @@
     "geom:longitude":-96.123996,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.128996,19.170276,-96.118996,19.180276",
     "lbl:latitude":19.175276,
     "lbl:longitude":-96.123996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.175216,
     "mps:longitude":-96.128555,
     "mz:hierarchy_label":0,
@@ -36,7 +38,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686671,
         102191575,
@@ -48,8 +50,10 @@
     "wof:concordances":{
         "gn:id":3814139,
         "gp:id":55898777,
-        "qs:id":1341331,
         "qs_pg:id":342803
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1341331
     },
     "wof:country":"MX",
     "wof:geomhash":"2258617dbb8f5f7f2a38ecfdf1971b5b",
@@ -67,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619616,
     "wof:name":"Fracc Ignacio Zaragoza",
     "wof:parent_id":101998843,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":30.171864,
     "lbl:longitude":-111.109326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":30.171864,
     "mps:longitude":-111.109326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Benjam\u00edn Hill"
     ],
@@ -63,9 +66,6 @@
     "name:swe_x_preferred":[
         "Benjamin Hill"
     ],
-    "name:unk_x_variant":[
-        "Benjamin Hil"
-    ],
     "name:vie_x_preferred":[
         "Benjam\u00edn Hill"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -100,7 +100,6 @@
         "fct:id":"01af33c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4017152,
         "gp:id":113390,
-        "qs:id":1191300,
         "qs_pg:id":1191300,
         "wd:id":"Q817772",
         "wk:page":"Benjam\u00edn Hill, Sonora"
@@ -120,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398344,
+    "wof:lastmodified":1566632884,
     "wof:name":"Benjam\u00edn Hill",
     "wof:parent_id":102074419,
     "wof:placetype":"locality",

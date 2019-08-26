@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001205,
-    "geom:area_square_m":14036969.661572,
+    "geom:area_square_m":14036969.661537,
     "geom:bbox":"-99.8292327721,19.5418238203,-99.7740682327,19.6007517365",
     "geom:latitude":19.57592,
     "geom:longitude":-99.803192,
     "iso:country":"MX",
     "lbl:latitude":19.578721,
     "lbl:longitude":-99.802779,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.578721,
     "mps:longitude":-99.802779,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55910591
     },
     "wof:country":"MX",
-    "wof:geomhash":"6fd98fbd149dcac50e82a2f4ac1c44f9",
+    "wof:geomhash":"8cbd470f65935e6b500ff1062573cf66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992615,
-    "wof:lastmodified":1479930206,
+    "wof:lastmodified":1566632722,
     "wof:name":"Emiliano Zapata (Santo Domingo)",
     "wof:parent_id":102074135,
     "wof:placetype":"locality",

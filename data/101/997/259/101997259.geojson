@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":4611840.901252,
+    "geom:area_square_m":4611840.90124,
     "geom:bbox":"-102.505230298,19.6194930953,-102.481825968,19.6518279987",
     "geom:latitude":19.637984,
     "geom:longitude":-102.491816,
     "iso:country":"MX",
     "lbl:latitude":19.643289,
     "lbl:longitude":-102.490665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.643289,
     "mps:longitude":-102.490665,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55920907
     },
     "wof:country":"MX",
-    "wof:geomhash":"9150df1ef3094f6f859149ce9509e877",
+    "wof:geomhash":"248183c7f6a363f8733350dc7d84e9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997259,
-    "wof:lastmodified":1479903973,
+    "wof:lastmodified":1566632452,
     "wof:name":"Santa Clara de Valladares",
     "wof:parent_id":102075015,
     "wof:placetype":"locality",

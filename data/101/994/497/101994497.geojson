@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.624637,
     "lbl:longitude":-93.099594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.624637,
     "mps:longitude":-93.099594,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Suchiapa"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "fct:id":"01b95e8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516499,
         "gp:id":147865,
-        "qs:id":341876,
         "qs_pg:id":341876
     },
     "wof:country":"MX",
@@ -104,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564171443,
+    "wof:lastmodified":1566632850,
     "wof:name":"Suchiapa",
     "wof:parent_id":102075679,
     "wof:placetype":"locality",

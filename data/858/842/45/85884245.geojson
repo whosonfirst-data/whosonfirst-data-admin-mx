@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1985901.455227,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.259517,21.03516,-101.259517,21.03516",
     "geom:latitude":21.03516,
     "geom:longitude":-101.259517,
     "iso:country":"MX",
+    "lbl:bbox":"-101.264517,21.03016,-101.254517,21.04016",
     "lbl:latitude":21.03516,
     "lbl:longitude":-101.259517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.032428,
     "mps:longitude":-101.266408,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:spa_x_preferred":[
         "Lomas de Valenciana"
     ],
-    "name:unk_x_variant":[
-        "Valenciana",
-        "Lomas de Valenciana"
+    "name:und_x_variant":[
+        "Valenciana"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -59,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
         101996599,
-        102077347,
-        85686629
+        102077347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3998883,
         "gp:id":55901609,
-        "qs:id":245466,
         "qs_pg:id":245466
     },
     "wof:country":"MX",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874488,
+    "wof:lastmodified":1566619563,
     "wof:name":"Lomas de Valenciana",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

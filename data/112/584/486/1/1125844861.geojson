@@ -9,14 +9,18 @@
     "geom:bbox":"-103.1586,20.31746,-103.1586,20.31746",
     "geom:latitude":20.31746,
     "geom:longitude":-103.1586,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-103.1786,20.29746,-103.1386,20.33746",
     "lbl:latitude":20.31746,
     "lbl:longitude":-103.1586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Santa Cruz de la Soledad"
@@ -27,7 +31,7 @@
     "name:spa_x_preferred":[
         "Santa Cruz de la Soledad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Cruz"
     ],
     "qs_pg:aaroncc":"MX",
@@ -51,7 +55,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":146023,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Jalisco",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1125844861,
-    "wof:lastmodified":1561750706,
+    "wof:lastmodified":1566634322,
     "wof:name":"Santa Cruz de la Soledad",
     "wof:parent_id":102074825,
     "wof:placetype":"locality",

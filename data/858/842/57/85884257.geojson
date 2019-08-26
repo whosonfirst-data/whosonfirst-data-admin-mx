@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5693368.393716,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.258388,21.041044,-101.258388,21.041044",
     "geom:latitude":21.041044,
     "geom:longitude":-101.258388,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.263388,21.036044,-101.253388,21.046044",
     "lbl:latitude":21.041044,
     "lbl:longitude":-101.258388,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.048102,
     "mps:longitude":-101.273708,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Cerro Del Erizo"
-    ],
-    "name:unk_x_variant":[
         "Cerro Del Erizo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
         101996599,
-        102077347,
-        85686629
+        102077347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55901641,
-        "qs:id":244101,
         "qs_pg:id":244101
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874491,
+    "wof:lastmodified":1566619561,
     "wof:name":"Cerro Del Erizo",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

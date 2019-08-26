@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7505298.699339,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.029171,19.613586,-99.029171,19.613586",
     "geom:latitude":19.613586,
     "geom:longitude":-99.029171,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.034171,19.608586,-99.024171,19.618586",
     "lbl:latitude":19.613586,
     "lbl:longitude":-99.029171,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.612989,
     "mps:longitude":-99.032265,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Izcalli Jardines"
-    ],
-    "name:unk_x_variant":[
         "Izcalli Jardines"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992735,
-        102074155,
-        85686527
+        102074155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888999,
-        "qs:id":775779
+        "qs_pg:id":775779
     },
     "wof:country":"MX",
     "wof:geomhash":"85149c9bca8d3d6b19750ea55a5f8c3a",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874192,
+    "wof:lastmodified":1566619702,
     "wof:name":"Izcalli Jardines",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

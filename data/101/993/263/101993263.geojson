@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.897562,
     "lbl:longitude":-99.131465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.897562,
     "mps:longitude":-99.131465,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Morelos",
     "qs:a1_lc":"17",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"0c03d23d3d12a7990a6c93b88c9d45ea",
+    "wof:geomhash":"0e77b63280f0332026360cc98621d08d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":101993263,
-    "wof:lastmodified":1479930059,
+    "wof:lastmodified":1566632811,
     "wof:name":"Unidad Habitacional Rinconada Acolapa",
     "wof:parent_id":102074233,
     "wof:placetype":"locality",

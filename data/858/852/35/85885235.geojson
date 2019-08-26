@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11259701.520365,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.211647,19.895036,-102.211647,19.895036",
     "geom:latitude":19.895036,
     "geom:longitude":-102.211647,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.216647,19.890036,-102.206647,19.900036",
     "lbl:latitude":19.895036,
     "lbl:longitude":-102.211647,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.896231,
     "mps:longitude":-102.207311,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
         "Las Arboledas",
         "Luis Barrag\u00e1n Morf\u00edn"
     ],
-    "name:unk_x_variant":[
-        "Las Arboledas"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3982545,
@@ -86,18 +85,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997407,
-        102074879,
-        85686595
+        102074879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919457,
-        "qs:id":475979,
         "qs_pg:id":475979
     },
     "wof:country":"MX",
@@ -116,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874757,
+    "wof:lastmodified":1566619712,
     "wof:name":"Las Arboledas",
     "wof:parent_id":101997407,
     "wof:placetype":"neighbourhood",

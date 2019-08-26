@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.276664,
     "lbl:longitude":-96.800657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.276664,
     "mps:longitude":-96.800657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Juan del Estado"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -91,7 +94,6 @@
         "fct:id":"01b90fd4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518700,
         "gp:id":143913,
-        "qs:id":266466,
         "qs_pg:id":266466,
         "wd:id":"Q1656559",
         "wk:page":"San Juan del Estado"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397818,
+    "wof:lastmodified":1566632616,
     "wof:name":"San Juan del Estado",
     "wof:parent_id":102075895,
     "wof:placetype":"locality",

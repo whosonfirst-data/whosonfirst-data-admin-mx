@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1684390.942649,
+    "geom:area_square_m":1684390.94265,
     "geom:bbox":"-98.5946658158,21.0971655308,-98.5749478424,21.1119246615",
     "geom:latitude":21.105445,
     "geom:longitude":-98.584781,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.106053,
     "lbl:longitude":-98.58463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.106053,
     "mps:longitude":-98.58463,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Coacuilco"
     ],
@@ -35,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102000521,
-    "wof:lastmodified":1501267472,
+    "wof:lastmodified":1566615683,
     "wof:name":"Coacuilco",
     "wof:parent_id":102078507,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10322241.060457,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.108186,19.159598,-96.108186,19.159598",
     "geom:latitude":19.159598,
     "geom:longitude":-96.108186,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.113186,19.154598,-96.103186,19.164598",
     "lbl:latitude":19.159598,
     "lbl:longitude":-96.108186,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.167654,
     "mps:longitude":-96.096771,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Sutsem"
-    ],
-    "name:unk_x_variant":[
         "Fracc Sutsem"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998203,
-        102077443,
-        85686671
+        102077443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897150,
-        "qs:id":1341720,
         "qs_pg:id":1341720
     },
     "wof:country":"MX",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874385,
+    "wof:lastmodified":1566619686,
     "wof:name":"Fracc Sutsem",
     "wof:parent_id":101998203,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2443511.976774,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.28569,18.497842,-88.28569,18.497842",
     "geom:latitude":18.497842,
     "geom:longitude":-88.28569,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-88.29069,18.492842,-88.28069,18.502842",
     "lbl:latitude":18.497842,
     "lbl:longitude":-88.28569,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.498672,
     "mps:longitude":-88.280685,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Bravo"
-    ],
-    "name:unk_x_variant":[
         "Barrio Bravo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686711,
         102191575,
         85633293,
         102001489,
-        102079235,
-        85686711
+        102079235
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895759,
-        "qs:id":1136677,
         "qs_pg:id":1136677
     },
     "wof:country":"MX",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874353,
+    "wof:lastmodified":1566619600,
     "wof:name":"Barrio Bravo",
     "wof:parent_id":102001489,
     "wof:placetype":"neighbourhood",

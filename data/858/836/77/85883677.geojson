@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.26965,
     "lbl:longitude":-99.103112,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.273664,
     "mps:longitude":-99.10558,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "La Concepcion Tlacoapa"
-    ],
-    "name:unk_x_variant":[
         "La Concepcion Tlacoapa"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         857683023,
@@ -69,7 +67,9 @@
     "wof:concordances":{
         "gn:id":3827268,
         "gp:id":55905137,
-        "qs:id":475103,
+        "qs_pg:id":475103
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1342870
     },
     "wof:country":"MX",
@@ -87,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957715,
+    "wof:lastmodified":1566619689,
     "wof:name":"La Concepcion Tlacoapa",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

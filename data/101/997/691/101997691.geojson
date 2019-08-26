@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.458014,
     "lbl:longitude":-103.437913,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.458014,
     "mps:longitude":-103.437913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Tlajomulco de Zu\u00f1iga"
     ],
@@ -54,9 +57,6 @@
     "name:swe_x_preferred":[
         "Tlajomulco de Zu\u00f1iga"
     ],
-    "name:unk_x_variant":[
-        "Tlajomulco"
-    ],
     "name:vie_x_preferred":[
         "Tlajomulco de Z\u00fa\u00f1iga"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -93,7 +93,6 @@
         "fct:id":"01b64d12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3981467,
         "gp:id":149570,
-        "qs:id":776160,
         "qs_pg:id":776160,
         "wd:id":"Q1962285",
         "wk:page":"Tlajomulco de Z\u00fa\u00f1iga"
@@ -113,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397602,
+    "wof:lastmodified":1566632496,
     "wof:name":"Tlajomulco de Z\u00fa\u00f1iga",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-104.780823,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.785823,20.515634,-104.775823,20.525634",
     "lbl:latitude":20.520634,
     "lbl:longitude":-104.780823,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.524646,
     "mps:longitude":-104.786596,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Mascota Centro"
-    ],
-    "name:unk_x_variant":[
         "Mascota Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -67,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904657,
-        "qs:id":992369
+        "qs_pg:id":992369
     },
     "wof:country":"MX",
     "wof:geomhash":"866f8d5966788fb2779472c459d26a63",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957721,
+    "wof:lastmodified":1566619633,
     "wof:name":"Mascota Centro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

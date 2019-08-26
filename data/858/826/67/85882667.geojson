@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6075667.926003,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.453837,31.740131,-106.453837,31.740131",
     "geom:latitude":31.740131,
     "geom:longitude":-106.453837,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.458837,31.735131,-106.448837,31.745131",
     "lbl:latitude":31.740131,
     "lbl:longitude":-106.453837,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.73697,
     "mps:longitude":-106.451014,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Zona Pronaf"
-    ],
-    "name:unk_x_variant":[
         "Zona Pronaf"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686581,
         102191575,
         85633293,
         101994153,
-        102075223,
-        85686581
+        102075223
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55885070,
-        "qs:id":1340342,
         "qs_pg:id":1340342
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874083,
+    "wof:lastmodified":1566619574,
     "wof:name":"Zona Pronaf",
     "wof:parent_id":101994153,
     "wof:placetype":"neighbourhood",

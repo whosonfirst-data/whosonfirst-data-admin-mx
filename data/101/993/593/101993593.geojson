@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
-    "geom:area_square_m":3702628.759282,
+    "geom:area_square_m":3702628.759275,
     "geom:bbox":"-107.558378845,24.6486857188,-107.522721768,24.6672609548",
     "geom:latitude":24.658326,
     "geom:longitude":-107.542311,
     "iso:country":"MX",
     "lbl:latitude":24.658245,
     "lbl:longitude":-107.545539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.658245,
     "mps:longitude":-107.545539,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Villa Ju\u00e1rez"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101993593,
-    "wof:lastmodified":1504309908,
+    "wof:lastmodified":1566632747,
     "wof:name":"Licenciado Benito Ju\u00e1rez (Campo Gobierno)",
     "wof:parent_id":102074309,
     "wof:placetype":"locality",

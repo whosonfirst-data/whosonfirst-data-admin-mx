@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.65396,
     "lbl:longitude":-99.675702,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.65396,
     "mps:longitude":-99.675702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Chichihualco"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":159,
     "wof:belongsto":[
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3530955,
         "gp:id":115890,
-        "qs:id":279797,
         "qs_pg:id":279797,
         "wd:id":"Q2889052",
         "wk:page":"Chichihualco"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101991369,
-    "wof:lastmodified":1563397267,
+    "wof:lastmodified":1566632326,
     "wof:name":"Chichihualco",
     "wof:parent_id":102073785,
     "wof:placetype":"locality",

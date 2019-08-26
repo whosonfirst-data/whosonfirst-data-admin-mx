@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
-    "geom:area_square_m":563323.604239,
+    "geom:area_square_m":563323.604238,
     "geom:bbox":"-99.1911544421,19.8168073198,-99.1771413775,19.8236034288",
     "geom:latitude":19.821039,
     "geom:longitude":-99.182989,
     "iso:country":"MX",
     "lbl:latitude":19.820444,
     "lbl:longitude":-99.181716,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.820444,
     "mps:longitude":-99.181716,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900565
     },
     "wof:country":"MX",
-    "wof:geomhash":"f113f4d6254b02a368d8b1fba544d8fc",
+    "wof:geomhash":"f3f8dba3b23c6df71da755a3011721b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992717,
-    "wof:lastmodified":1479933534,
+    "wof:lastmodified":1566632739,
     "wof:name":"Ex-Hacienda de Jalpa",
     "wof:parent_id":102074151,
     "wof:placetype":"locality",

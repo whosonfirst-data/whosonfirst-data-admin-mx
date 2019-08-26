@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.952255,
     "lbl:longitude":-106.349286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.952255,
     "mps:longitude":-106.349286,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mariano Balleza"
     ],
@@ -61,7 +64,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":201,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101994275,
-    "wof:lastmodified":1563398266,
+    "wof:lastmodified":1566632846,
     "wof:name":"Mariano Balleza",
     "wof:parent_id":102075303,
     "wof:placetype":"locality",

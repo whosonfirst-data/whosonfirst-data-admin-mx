@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":2498917.942256,
+    "geom:area_square_m":2498917.942257,
     "geom:bbox":"-99.1969299316,19.3564979105,-99.1781037702,19.3739060106",
     "geom:latitude":19.3649,
     "geom:longitude":-99.188523,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.365281,
     "lbl:longitude":-99.185821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.365787,
     "mps:longitude":-99.18946,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "San Jose Insurgentes"
-    ],
-    "name:unk_x_variant":[
         "San Jose Insurgentes"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897886,
-        "qs:id":1155325
+        "qs_pg:id":1155325
     },
     "wof:country":"MX",
     "wof:geomhash":"47ee39d9df5935a4dd9702f97c384be1",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270506,
+    "wof:lastmodified":1566619695,
     "wof:name":"San Jose Insurgentes",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

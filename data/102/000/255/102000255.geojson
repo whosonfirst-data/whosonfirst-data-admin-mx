@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.550183,
     "lbl:longitude":-99.312166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.550183,
     "mps:longitude":-99.312166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tasquillo"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,6 @@
         "fct:id":"01b967b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516236,
         "gp:id":148362,
-        "qs:id":1254643,
         "qs_pg:id":1254643,
         "wd:id":"Q3845599",
         "wk:page":"Tasquillo"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369766,
+    "wof:lastmodified":1566615714,
     "wof:name":"Tasquillo",
     "wof:parent_id":102078555,
     "wof:placetype":"locality",

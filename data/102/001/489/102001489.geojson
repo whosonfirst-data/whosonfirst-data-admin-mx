@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":18.514317,
     "lbl:longitude":-88.300503,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":18.514317,
     "mps:longitude":-88.300503,
     "mz:hierarchy_label":1,
@@ -179,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0442\u0443\u043c\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Payo Obispo"
     ],
     "name:urd_x_preferred":[
@@ -303,7 +305,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":10.0,
     "wd:latitude":18.503611,
@@ -319,7 +321,6 @@
     "wof:concordances":{
         "gn:id":3531023,
         "gp:id":115828,
-        "qs:id":353356,
         "qs_pg:id":353356,
         "wd:id":"Q459553",
         "wk:page":"Chetumal"
@@ -336,7 +337,7 @@
         }
     ],
     "wof:id":102001489,
-    "wof:lastmodified":1563369848,
+    "wof:lastmodified":1566615754,
     "wof:name":"Chetumal",
     "wof:parent_id":102079235,
     "wof:placetype":"locality",

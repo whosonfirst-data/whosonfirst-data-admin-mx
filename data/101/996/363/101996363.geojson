@@ -12,17 +12,20 @@
     "iso:country":"MX",
     "lbl:latitude":20.476677,
     "lbl:longitude":-100.115945,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.476677,
     "mps:longitude":-100.115945,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Sa\u00faz"
     ],
     "name:spa_x_variant":[
         "Sa\u00faz Bajo S\u00faz Alto"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Sauz"
     ],
     "qs:a0":"Mexico",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101996363,
-    "wof:lastmodified":1504309904,
+    "wof:lastmodified":1566632360,
     "wof:name":"El Sauz (Sauz Alto, Sauz Bajo)",
     "wof:parent_id":102077119,
     "wof:placetype":"locality",

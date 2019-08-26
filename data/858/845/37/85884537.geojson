@@ -11,8 +11,10 @@
     "geom:longitude":-103.345952,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.350952,20.695964,-103.340952,20.705964",
     "lbl:latitude":20.700964,
     "lbl:longitude":-103.345952,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.706027,
     "mps:longitude":-103.342723,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Colinas de la Normal"
-    ],
-    "name:unk_x_variant":[
         "Colinas de la Normal"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904194,
-        "qs:id":33259,
         "qs_pg:id":33259
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957721,
+    "wof:lastmodified":1566619559,
     "wof:name":"Colinas de la Normal",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

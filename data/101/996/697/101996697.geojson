@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.526085,
     "lbl:longitude":-101.37223,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.526085,
     "mps:longitude":-101.37223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pueblo Nuevo"
     ],
@@ -86,7 +89,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         "fct:id":"01b8df5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3991567,
         "gp:id":55901959,
-        "qs:id":73446,
+        "qs_pg:id":73446,
         "wd:id":"Q2651165"
     },
     "wof:country":"MX",
@@ -117,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397434,
+    "wof:lastmodified":1566632412,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":102077285,
     "wof:placetype":"locality",

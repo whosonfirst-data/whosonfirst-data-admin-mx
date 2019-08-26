@@ -11,8 +11,10 @@
     "geom:longitude":-96.147108,
     "gn:population":7701,
     "iso:country":"MX",
+    "lbl:bbox":"-96.152108,19.170704,-96.142108,19.180704",
     "lbl:latitude":19.175704,
     "lbl:longitude":-96.147108,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.175704,
     "mps:longitude":-96.147108,
     "mz:hierarchy_label":0,
@@ -60,10 +62,6 @@
     "name:swe_x_preferred":[
         "Playa Vicente"
     ],
-    "name:unk_x_variant":[
-        "Playa Vicente",
-        "Venustiano Carranza"
-    ],
     "name:vie_x_preferred":[
         "Playa Vicente"
     ],
@@ -96,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85686671,
@@ -109,10 +107,12 @@
     "wof:concordances":{
         "gn:id":3521334,
         "gp:id":55890538,
-        "qs:id":148724,
-        "qs_pg:id":286925,
+        "qs_pg:id":148724,
         "wd:id":"Q2449320",
         "wk:page":"Playa Vicente"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":286925
     },
     "wof:country":"MX",
     "wof:geomhash":"186c9f3de4ff8e820c081f91fa5f12f5",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":85882807,
-    "wof:lastmodified":1563375368,
+    "wof:lastmodified":1566619570,
     "wof:name":"Venustiano Carranza",
     "wof:parent_id":101998843,
     "wof:placetype":"neighbourhood",

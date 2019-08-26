@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.600105,
     "lbl:longitude":-103.914818,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":19.600105,
     "mps:longitude":-103.914818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tolim\u00e1n"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397594,
+    "wof:lastmodified":1566632492,
     "wof:name":"Tolim\u00e1n",
     "wof:parent_id":102074873,
     "wof:placetype":"locality",

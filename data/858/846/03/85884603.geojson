@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5828018.8237,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.078293,20.770239,-104.078293,20.770239",
     "geom:latitude":20.770239,
     "geom:longitude":-104.078293,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.083293,20.765239,-104.073293,20.775239",
     "lbl:latitude":20.770239,
     "lbl:longitude":-104.078293,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.770066,
     "mps:longitude":-104.078258,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:spa_x_variant":[
         "Fracc Revolucion"
-    ],
-    "name:unk_x_variant":[
-        "Fracc Revoluci\u00f3n"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -61,18 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997941,
-        102074655,
-        85686603
+        102074655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904613,
-        "qs:id":139146,
         "qs_pg:id":139146
     },
     "wof:country":"MX",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874561,
+    "wof:lastmodified":1566619633,
     "wof:name":"Fracc Revoluci\u00f3n",
     "wof:parent_id":101997941,
     "wof:placetype":"neighbourhood",

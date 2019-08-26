@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.621754,
     "lbl:longitude":-88.414115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.621754,
     "mps:longitude":-88.414115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Kaua"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,6 @@
         "fct:id":"01aeb5f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526296,
         "gp:id":126267,
-        "qs:id":1141695,
         "qs_pg:id":1141695,
         "wd:id":"Q2466571"
     },
@@ -108,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369786,
+    "wof:lastmodified":1566615726,
     "wof:name":"Kaua",
     "wof:parent_id":102079037,
     "wof:placetype":"locality",

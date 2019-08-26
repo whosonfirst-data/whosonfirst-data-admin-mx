@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5821368.758198,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.188164,25.778504,-100.188164,25.778504",
     "geom:latitude":25.778504,
     "geom:longitude":-100.188164,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.193164,25.773504,-100.183164,25.783504",
     "lbl:latitude":25.778504,
     "lbl:longitude":-100.188164,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.779493,
     "mps:longitude":-100.187718,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Apodaca Centro"
-    ],
-    "name:unk_x_variant":[
         "Apodaca Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000809,
-        102078701,
-        85686681
+        102078701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55896852,
-        "qs:id":1091873,
         "qs_pg:id":1091873
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874378,
+    "wof:lastmodified":1566619601,
     "wof:name":"Apodaca Centro",
     "wof:parent_id":102000809,
     "wof:placetype":"neighbourhood",

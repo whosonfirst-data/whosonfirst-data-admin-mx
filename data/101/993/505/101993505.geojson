@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":554584.682086,
+    "geom:area_square_m":554584.682088,
     "geom:bbox":"-116.007310794,30.6981471139,-115.996576197,30.7085135816",
     "geom:latitude":30.702357,
     "geom:longitude":-116.002068,
     "iso:country":"MX",
     "lbl:latitude":30.701634,
     "lbl:longitude":-116.001258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.701634,
     "mps:longitude":-116.001258,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900241
     },
     "wof:country":"MX",
-    "wof:geomhash":"7dfb6c8ed848ac67cf62c282ef118ef4",
+    "wof:geomhash":"0ee932a58bbbacbaeb2b1634522350ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993505,
-    "wof:lastmodified":1479931245,
+    "wof:lastmodified":1566632749,
     "wof:name":"Colonia Lomas de San Ram\u00f3n (Triquis)",
     "wof:parent_id":102074509,
     "wof:placetype":"locality",

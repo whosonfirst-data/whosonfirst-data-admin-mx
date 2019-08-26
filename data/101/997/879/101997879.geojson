@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.539455,
     "lbl:longitude":-104.040968,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.539455,
     "mps:longitude":-104.040968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Ameca"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1915,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
         "fct:id":"01b7da7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4018582,
         "gp:id":112070,
-        "qs:id":213457,
         "qs_pg:id":213457,
         "wd:id":"Q2842525",
         "wk:page":"Ameca, Jalisco"
@@ -137,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397571,
+    "wof:lastmodified":1566632481,
     "wof:name":"Ameca",
     "wof:parent_id":102074681,
     "wof:placetype":"locality",

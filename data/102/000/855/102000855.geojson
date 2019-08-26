@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":27.290245,
     "lbl:longitude":-103.701118,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":27.290245,
     "mps:longitude":-103.701118,
     "mz:hierarchy_label":1,
@@ -162,7 +164,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -193,7 +195,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369764,
+    "wof:lastmodified":1566615713,
     "wof:name":"Sierra Mojada",
     "wof:parent_id":102078803,
     "wof:placetype":"locality",

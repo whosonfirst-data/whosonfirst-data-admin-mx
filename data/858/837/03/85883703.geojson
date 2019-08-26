@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.363325,
     "lbl:longitude":-99.170701,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.36168,
     "mps:longitude":-99.174012,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Acacias"
-    ],
-    "name:unk_x_variant":[
         "Acacias"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897899,
-        "qs:id":1155333
+        "qs_pg:id":1155333
     },
     "wof:country":"MX",
     "wof:geomhash":"2cc6c53630735b009c7b1d205c2268c3",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270506,
+    "wof:lastmodified":1566619692,
     "wof:name":"Acacias",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

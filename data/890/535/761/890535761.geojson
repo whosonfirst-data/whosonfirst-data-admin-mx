@@ -13,10 +13,12 @@
     "iso:country":"MX",
     "lbl:latitude":19.394213,
     "lbl:longitude":-99.103888,
+    "lbl:max_zoom":13.0,
     "mps:latitude":19.394213,
     "mps:longitude":-99.103888,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Iztacalco"
     ],
@@ -43,9 +45,6 @@
     "name:swe_x_preferred":[
         "Iztacalco"
     ],
-    "name:unk_x_variant":[
-        "Ixtacalco"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Distrito Federal",
     "qs:a1_lc":"09",
@@ -61,7 +60,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85686515,
@@ -77,7 +76,7 @@
         "fct:id":"01aeb322-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526700,
         "gp:id":125525,
-        "qs:id":239711,
+        "qs_pg:id":239711,
         "wd:id":"Q20237037"
     },
     "wof:country":"MX",
@@ -104,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563400024,
+    "wof:lastmodified":1566633866,
     "wof:name":"Iztacalco",
     "wof:parent_id":-1,
     "wof:placetype":"borough",

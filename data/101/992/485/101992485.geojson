@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.719694,
     "lbl:longitude":-99.04931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.719694,
     "mps:longitude":-99.04931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Miguel Jaltocan"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101992485,
-    "wof:lastmodified":1563397957,
+    "wof:lastmodified":1566632681,
     "wof:name":"San Miguel Jaltocan",
     "wof:parent_id":102074105,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":2039877.321116,
+    "geom:area_square_m":2039877.321126,
     "geom:bbox":"-98.4702629549,19.2382809833,-98.4502609788,19.2515769861",
     "geom:latitude":19.245188,
     "geom:longitude":-98.461097,
     "iso:country":"MX",
     "lbl:latitude":19.245044,
     "lbl:longitude":-98.461096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.245044,
     "mps:longitude":-98.461096,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55885247
     },
     "wof:country":"MX",
-    "wof:geomhash":"c2431cfb7a2b3587441a28c7f6331bc1",
+    "wof:geomhash":"fd73aa6be4e247d1a91165836cb20969",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999723,
-    "wof:lastmodified":1479907773,
+    "wof:lastmodified":1566632547,
     "wof:name":"San Buenaventura Tecaltzingo",
     "wof:parent_id":102078275,
     "wof:placetype":"locality",

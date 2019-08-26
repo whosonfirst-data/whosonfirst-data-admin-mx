@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1920190.967899,
+    "geom:area_square_m":1920190.967896,
     "geom:bbox":"-99.1544444357,19.5990847833,-99.1400882015,19.6203237001",
     "geom:latitude":19.611052,
     "geom:longitude":-99.148904,
     "iso:country":"MX",
     "lbl:latitude":19.611443,
     "lbl:longitude":-99.148418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.611443,
     "mps:longitude":-99.148418,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55907937
     },
     "wof:country":"MX",
-    "wof:geomhash":"07449d52bdc7cd309c37c7c04d19fca0",
+    "wof:geomhash":"bb7c6722e7514a2a1f1571e8fe0851ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991625,
-    "wof:lastmodified":1479931139,
+    "wof:lastmodified":1566632333,
     "wof:name":"Ampliaci\u00f3n San Mateo (Colonia Solidaridad)",
     "wof:parent_id":102074003,
     "wof:placetype":"locality",

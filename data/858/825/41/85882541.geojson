@@ -11,8 +11,10 @@
     "geom:longitude":-116.943676,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.948676,32.530532,-116.938676,32.540532",
     "lbl:latitude":32.535532,
     "lbl:longitude":-116.943676,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.532227,
     "mps:longitude":-116.946427,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Campos Deportivos"
-    ],
-    "name:unk_x_variant":[
         "Campos Deportivos"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -68,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883138,
-        "qs:id":1112939
+        "qs_pg:id":1112939
     },
     "wof:country":"MX",
     "wof:geomhash":"fc212555567c6aafe328faea7f0d5347",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619670,
     "wof:name":"Campos Deportivos",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

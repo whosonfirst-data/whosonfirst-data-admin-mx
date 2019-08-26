@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-105.98667,24.84667,-105.94667,24.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":3978544
     },
     "wof:country":"MX",
-    "wof:geomhash":"8fb861feb11e067f5c8ea38525b2d84f",
+    "wof:geomhash":"6176b7499400c776be1a9c4f31bb6c2b",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209493635,
-    "wof:lastmodified":1536285406,
+    "wof:lastmodified":1566626270,
     "wof:name":"Las Hacienditas y Anexas",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -105.96667,
-    24.866670000000006,
+    24.86667000000001,
     -105.96667,
-    24.866670000000006
+    24.86667000000001
 ],
   "geometry": {"coordinates":[-105.96666999999999,24.86667000000001],"type":"Point"}
 }

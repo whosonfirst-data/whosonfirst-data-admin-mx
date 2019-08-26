@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.803647,
     "lbl:longitude":-100.13136,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.803647,
     "mps:longitude":-100.13136,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "El Oro"
     ],
@@ -70,9 +73,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0415\u043b \u041e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Oro de Hidalgo"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -103,7 +103,6 @@
         "fct:id":"01b84090-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4008868,
         "gp:id":121229,
-        "qs:id":221592,
         "qs_pg:id":221592,
         "wd:id":"Q2115222",
         "wk:page":"El Oro, State of Mexico"
@@ -123,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398020,
+    "wof:lastmodified":1566632718,
     "wof:name":"El Oro de Hidalgo",
     "wof:parent_id":102074093,
     "wof:placetype":"locality",

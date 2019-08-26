@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
-    "geom:area_square_m":740366.737292,
+    "geom:area_square_m":740366.737295,
     "geom:bbox":"-103.773927573,20.4029599303,-103.762685915,20.4159438987",
     "geom:latitude":20.408602,
     "geom:longitude":-103.768498,
     "iso:country":"MX",
     "lbl:latitude":20.407495,
     "lbl:longitude":-103.76849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.407495,
     "mps:longitude":-103.76849,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Cofrad\u00eda"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101997749,
-    "wof:lastmodified":1504309901,
+    "wof:lastmodified":1566632463,
     "wof:name":"La Cofrad\u00eda de la Luz",
     "wof:parent_id":102074807,
     "wof:placetype":"locality",

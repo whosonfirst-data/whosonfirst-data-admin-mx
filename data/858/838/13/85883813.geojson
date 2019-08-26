@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9648911.569309,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.312788,25.727659,-100.312788,25.727659",
     "geom:latitude":25.727659,
     "geom:longitude":-100.312788,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.317788,25.722659,-100.307788,25.732659",
     "lbl:latitude":25.727659,
     "lbl:longitude":-100.312788,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.728851,
     "mps:longitude":-100.309154,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Valle de Anahuac"
-    ],
-    "name:unk_x_variant":[
         "Valle de Anahuac"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000653,
-        102078723,
-        85686681
+        102078723
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898359,
-        "qs:id":899368,
         "qs_pg:id":899368
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874413,
+    "wof:lastmodified":1566619678,
     "wof:name":"Valle de Anahuac",
     "wof:parent_id":102000653,
     "wof:placetype":"neighbourhood",

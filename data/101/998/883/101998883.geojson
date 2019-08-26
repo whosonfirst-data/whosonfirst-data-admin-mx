@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.831462,
     "lbl:longitude":-96.799902,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.831462,
     "mps:longitude":-96.799902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Yanga"
     ],
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Yanga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Lorenzo"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +83,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -93,7 +96,7 @@
         "fct:id":"01c2fb2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514329,
         "gp:id":55912337,
-        "qs:id":207813,
+        "qs_pg:id":207813,
         "wd:id":"Q2652465"
     },
     "wof:country":"MX",
@@ -111,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397162,
+    "wof:lastmodified":1566632265,
     "wof:name":"Yanga",
     "wof:parent_id":102077807,
     "wof:placetype":"locality",

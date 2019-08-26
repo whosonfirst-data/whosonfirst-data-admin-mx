@@ -11,8 +11,10 @@
     "geom:longitude":-116.630095,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.635095,31.858439,-116.625095,31.868439",
     "lbl:latitude":31.863439,
     "lbl:longitude":-116.630095,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.866887,
     "mps:longitude":-116.637246,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Ignacio Altamirano"
-    ],
-    "name:unk_x_variant":[
         "Ignacio Altamirano"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900259,
-        "qs:id":1115846
+        "qs_pg:id":1115846
     },
     "wof:country":"MX",
     "wof:geomhash":"5b01e30a091aa82df53ec1826631ccbb",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619628,
     "wof:name":"Ignacio Altamirano",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

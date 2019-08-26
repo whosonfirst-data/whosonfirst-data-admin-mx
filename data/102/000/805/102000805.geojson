@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":686593.215667,
+    "geom:area_square_m":686593.215669,
     "geom:bbox":"-100.138483725,25.7071020834,-100.128782659,25.7210282999",
     "geom:latitude":25.712147,
     "geom:longitude":-100.133282,
     "iso:country":"MX",
     "lbl:latitude":25.710402,
     "lbl:longitude":-100.132948,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.710402,
     "mps:longitude":-100.132948,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Partido de Jos\u00e9 C. Paz"
     ],
@@ -57,7 +61,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"32ec93ad82172a69bdeb413dbaa5d84c",
+    "wof:geomhash":"272a337eab3e021acf0b7352594f966e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102000805,
-    "wof:lastmodified":1479908195,
+    "wof:lastmodified":1566615681,
     "wof:name":"Loma la Paz",
     "wof:parent_id":102078701,
     "wof:placetype":"locality",

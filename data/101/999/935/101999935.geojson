@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1944621.396682,
+    "geom:area_square_m":1944621.39669,
     "geom:bbox":"-98.5474560427,19.3478458702,-98.5301595349,19.3634570104",
     "geom:latitude":19.356389,
     "geom:longitude":-98.53893,
     "iso:country":"MX",
     "lbl:latitude":19.357451,
     "lbl:longitude":-98.539959,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.357451,
     "mps:longitude":-98.539959,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55886690
     },
     "wof:country":"MX",
-    "wof:geomhash":"2b1dc33f8f927fabeda70136ff8c0810",
+    "wof:geomhash":"f955d336afbb1ec42959fe4a98151add",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999935,
-    "wof:lastmodified":1479908269,
+    "wof:lastmodified":1566632553,
     "wof:name":"Guadalupe Zaragoza",
     "wof:parent_id":102078381,
     "wof:placetype":"locality",

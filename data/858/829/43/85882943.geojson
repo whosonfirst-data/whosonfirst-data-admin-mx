@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5763421.171047,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.933044,22.138058,-100.933044,22.138058",
     "geom:latitude":22.138058,
     "geom:longitude":-100.933044,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.938044,22.133058,-100.928044,22.143058",
     "lbl:latitude":22.138058,
     "lbl:longitude":-100.933044,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.13726,
     "mps:longitude":-100.932357,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Estrella de Oriente"
-    ],
-    "name:unk_x_variant":[
         "Estrella de Oriente"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":25,
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996483,
-        102077193,
-        85686647
+        102077193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888531,
-        "qs:id":1111482,
         "qs_pg:id":1111482,
         "wd:id":"Q6462371"
     },
@@ -90,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874173,
+    "wof:lastmodified":1566619552,
     "wof:name":"Estrella de Oriente",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

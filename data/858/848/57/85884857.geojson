@@ -10,8 +10,10 @@
     "geom:latitude":18.653252,
     "geom:longitude":-99.27056,
     "iso:country":"MX",
+    "lbl:bbox":"-99.27556,18.648252,-99.26556,18.658252",
     "lbl:latitude":18.653252,
     "lbl:longitude":-99.27056,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.65145,
     "mps:longitude":-99.272461,
     "mz:hierarchy_label":0,
@@ -82,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686531,
         102191575,
@@ -94,7 +96,9 @@
     "wof:concordances":{
         "gn:id":3827244,
         "gp:id":55911955,
-        "qs:id":532399,
+        "qs_pg:id":532399
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1137762
     },
     "wof:country":"MX",
@@ -113,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147269,
+    "wof:lastmodified":1566619639,
     "wof:name":"Buenavista",
     "wof:parent_id":101993363,
     "wof:placetype":"neighbourhood",

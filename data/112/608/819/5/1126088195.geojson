@@ -9,14 +9,17 @@
     "geom:bbox":"-99.93866,18.9489,-99.93866,18.9489",
     "geom:latitude":18.9489,
     "geom:longitude":-99.93866,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.94366,18.9439,-99.93366,18.9539",
     "lbl:latitude":18.9489,
     "lbl:longitude":-99.93866,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "El Pedregal"
@@ -78,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041f\u0435\u0434\u0440\u0435\u0433\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pedregal"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55897253,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Morelos",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1126088195,
-    "wof:lastmodified":1564173576,
+    "wof:lastmodified":1566634065,
     "wof:name":"El Pedregal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

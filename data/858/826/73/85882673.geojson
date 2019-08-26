@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2661651.8584,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.272793,14.909129,-92.272793,14.909129",
     "geom:latitude":14.909129,
     "geom:longitude":-92.272793,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.277793,14.904129,-92.267793,14.914129",
     "lbl:latitude":14.909129,
     "lbl:longitude":-92.272793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.912163,
     "mps:longitude":-92.275748,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Brisas Del Cohoatan"
-    ],
-    "name:unk_x_variant":[
         "Brisas Del Cohoatan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994355,
-        102075511,
-        85686611
+        102075511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55885357,
-        "qs:id":1340356,
         "qs_pg:id":1340356
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874085,
+    "wof:lastmodified":1566619575,
     "wof:name":"Brisas Del Cohoatan",
     "wof:parent_id":101994355,
     "wof:placetype":"neighbourhood",

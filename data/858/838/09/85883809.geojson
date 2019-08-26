@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.283615,
     "lbl:longitude":-99.180623,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.284109,
     "mps:longitude":-99.180651,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Parque Nacional Fuentes Brotantes"
-    ],
-    "name:unk_x_variant":[
         "Parque Nacional Fuentes Brotantes"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898335,
-        "qs:id":1341932
+        "qs_pg:id":1341932
     },
     "wof:country":"MX",
     "wof:geomhash":"b91103e540c50f3b1aebc499ad188ac1",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957716,
+    "wof:lastmodified":1566619675,
     "wof:name":"Parque Nacional Fuentes Brotantes",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

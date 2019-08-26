@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.573295,
     "lbl:longitude":-100.747864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.573295,
     "mps:longitude":-100.747864,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "San Miguel Octopan"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Miguel Octopan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Octopan"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3985307,
         "gp:id":144658,
-        "qs:id":151282,
         "qs_pg:id":151282,
         "wd:id":"Q20147160"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101993111,
-    "wof:lastmodified":1563398133,
+    "wof:lastmodified":1566632779,
     "wof:name":"San Miguel Octopan",
     "wof:parent_id":102077259,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.33577,
     "lbl:longitude":-98.582061,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.33577,
     "mps:longitude":-98.582061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tlahuapan"
     ],
@@ -53,9 +56,6 @@
     "name:swe_x_preferred":[
         "Tlahuapan"
     ],
-    "name:unk_x_variant":[
-        "Tlahuapan"
-    ],
     "name:vec_x_preferred":[
         "Tlahuapan"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -92,9 +92,11 @@
         "fct:id":"01af613c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517095,
         "gp:id":149562,
-        "qs:id":322204,
-        "qs_pg:id":1074477,
+        "qs_pg:id":322204,
         "wd:id":"Q7810695"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074477
     },
     "wof:country":"MX",
     "wof:geomhash":"65e66e68d3b8cc04fbb8a1c98fc1a472",
@@ -111,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397715,
+    "wof:lastmodified":1566632559,
     "wof:name":"Santa Rita Tlahuapan",
     "wof:parent_id":102078381,
     "wof:placetype":"locality",

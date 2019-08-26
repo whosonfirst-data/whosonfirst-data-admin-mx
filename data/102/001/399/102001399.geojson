@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.747514,
     "lbl:longitude":-89.844837,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.747514,
     "mps:longitude":-89.844837,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hopelch\u00e9n"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,6 @@
         "fct:id":"01b859a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3527065,
         "gp:id":124918,
-        "qs:id":507747,
         "qs_pg:id":507747,
         "wd:id":"Q2748569",
         "wk:page":"Hopelch\u00e9n"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369791,
+    "wof:lastmodified":1566615728,
     "wof:name":"Hopelch\u00e9n",
     "wof:parent_id":102079229,
     "wof:placetype":"locality",

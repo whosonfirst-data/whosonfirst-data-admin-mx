@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.946685,
     "lbl:longitude":-103.758471,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.946685,
     "mps:longitude":-103.758471,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Tapalpa"
     ],
@@ -178,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -191,7 +194,6 @@
         "fct:id":"01b965ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3982461,
         "gp:id":148267,
-        "qs:id":1051412,
         "qs_pg:id":1051412,
         "wd:id":"Q2270558",
         "wk:page":"Tapalpa"
@@ -211,7 +213,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397486,
+    "wof:lastmodified":1566632436,
     "wof:name":"Tapalpa",
     "wof:parent_id":102074741,
     "wof:placetype":"locality",

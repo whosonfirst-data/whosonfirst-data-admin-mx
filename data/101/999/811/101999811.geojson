@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.891042,
     "lbl:longitude":-97.867076,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.891042,
     "mps:longitude":-97.867076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Santo Tom\u00e1s Hueyotlipan"
     ],
@@ -60,9 +63,6 @@
     "name:swe_x_preferred":[
         "Santo Tom\u00e1s Hueyotlipan"
     ],
-    "name:unk_x_variant":[
-        "Hueyotlipan"
-    ],
     "name:vie_x_preferred":[
         "Santo Tom\u00e1s Hueyotlipan"
     ],
@@ -83,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -96,7 +96,6 @@
         "fct:id":"01b957a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516813,
         "gp:id":147289,
-        "qs:id":148661,
         "qs_pg:id":148661,
         "wd:id":"Q7420560",
         "wk:page":"Santo Tom\u00e1s Hueyotlipan (municipality)"
@@ -116,7 +115,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397651,
+    "wof:lastmodified":1566632522,
     "wof:name":"Santo Tom\u00e1s Hueyotlipan",
     "wof:parent_id":102078319,
     "wof:placetype":"locality",

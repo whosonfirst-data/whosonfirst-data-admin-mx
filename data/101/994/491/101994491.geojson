@@ -9,14 +9,17 @@
     "geom:bbox":"-93.2461019727,17.486264043,-93.2394493617,17.4960076903",
     "geom:latitude":17.49151,
     "geom:longitude":-93.243102,
-    "geonames:id":"3815803,3516472",
+    "gn:id":"3815803,3516472",
     "iso:country":"MX",
     "lbl:latitude":17.491344,
     "lbl:longitude":-93.243497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.491344,
     "mps:longitude":-93.243497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Sunuapa"
     ],
@@ -80,7 +83,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101994491,
-    "wof:lastmodified":1563398286,
+    "wof:lastmodified":1566632857,
     "wof:name":"Sunuapa",
     "wof:parent_id":102075535,
     "wof:placetype":"locality",

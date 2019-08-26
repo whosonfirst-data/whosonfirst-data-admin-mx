@@ -9,14 +9,17 @@
     "geom:bbox":"-99.25729,19.6074,-99.25729,19.6074",
     "geom:latitude":19.6074,
     "geom:longitude":-99.25729,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.26229,19.6024,-99.25229,19.6124",
     "lbl:latitude":19.6074,
     "lbl:longitude":-99.25729,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Emiliano Zapata"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55894095,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101993137,
-        102074201,
-        85686527
+        102074201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126091181,
-    "wof:lastmodified":1509411659,
+    "wof:lastmodified":1566634279,
     "wof:name":"Ejido Emiliano Zapata",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

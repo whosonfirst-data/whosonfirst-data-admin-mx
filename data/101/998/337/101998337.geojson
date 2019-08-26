@@ -9,14 +9,17 @@
     "geom:bbox":"-94.1186151069,17.8714619221,-94.0793088218,17.9453927375",
     "geom:latitude":17.907631,
     "geom:longitude":-94.098554,
-    "geonames:id":"3802538,3524903",
+    "gn:id":"3802538,3524903",
     "iso:country":"MX",
     "lbl:latitude":17.89889,
     "lbl:longitude":-94.09885,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.89889,
     "mps:longitude":-94.09885,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Choapas"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101998337,
-    "wof:lastmodified":1564171151,
+    "wof:lastmodified":1566632226,
     "wof:name":"Las Choapas",
     "wof:parent_id":102077513,
     "wof:placetype":"locality",

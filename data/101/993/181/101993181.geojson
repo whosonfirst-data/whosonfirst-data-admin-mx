@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.365231,
     "lbl:longitude":-99.765014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.365231,
     "mps:longitude":-99.765014,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55901267
     },
     "wof:country":"MX",
-    "wof:geomhash":"26e0a501067753285204a3b299ffb663",
+    "wof:geomhash":"5429a62bb075c798bd6946819dcd306d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993181,
-    "wof:lastmodified":1479930412,
+    "wof:lastmodified":1566632782,
     "wof:name":"Barrio San Pedro (La Concepci\u00f3n San Pedro)",
     "wof:parent_id":102074219,
     "wof:placetype":"locality",

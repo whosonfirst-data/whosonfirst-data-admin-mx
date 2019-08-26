@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":24.639679,
     "lbl:longitude":-101.554334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.639679,
     "mps:longitude":-101.554334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mazapil"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -84,7 +87,6 @@
         "fct:id":"01b8aa76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3996332,
         "gp:id":133220,
-        "qs:id":1159311,
         "qs_pg:id":1159311,
         "wd:id":"Q4283742"
     },
@@ -103,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397978,
+    "wof:lastmodified":1566632692,
     "wof:name":"Mazapil",
     "wof:parent_id":102075395,
     "wof:placetype":"locality",

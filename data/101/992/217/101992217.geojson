@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":2333068.817888,
+    "geom:area_square_m":2333068.817879,
     "geom:bbox":"-103.462487449,23.9519079803,-103.440994978,23.9750302675",
     "geom:latitude":23.960462,
     "geom:longitude":-103.453275,
     "iso:country":"MX",
     "lbl:latitude":23.958753,
     "lbl:longitude":-103.455961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.958753,
     "mps:longitude":-103.455961,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55920166
     },
     "wof:country":"MX",
-    "wof:geomhash":"15650fb8e79a497cde1257b066c717ed",
+    "wof:geomhash":"bef13d387c31fd7551e82dae0c8755b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992217,
-    "wof:lastmodified":1479904378,
+    "wof:lastmodified":1566632685,
     "wof:name":"Colonia Gonz\u00e1lez Ortega",
     "wof:parent_id":102075415,
     "wof:placetype":"locality",

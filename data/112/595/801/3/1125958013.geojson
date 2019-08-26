@@ -9,19 +9,23 @@
     "geom:bbox":"-97.6285,19.96845,-97.6285,19.96845",
     "geom:latitude":19.96845,
     "geom:longitude":-97.6285,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-97.6485,19.94845,-97.6085,19.98845",
     "lbl:latitude":19.96845,
     "lbl:longitude":-97.6285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Xochitlan de Romero Rubio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Romero Rubio"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":151193,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1125958013,
-    "wof:lastmodified":1509403115,
+    "wof:lastmodified":1566633885,
     "wof:name":"Xochitl\u00e1n de Romero Rubio",
     "wof:parent_id":102078429,
     "wof:placetype":"locality",

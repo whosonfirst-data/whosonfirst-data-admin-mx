@@ -9,16 +9,19 @@
     "geom:bbox":"-102.27629,21.80973,-102.27629,21.80973",
     "geom:latitude":21.80973,
     "geom:longitude":-102.27629,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-102.28129,21.80473,-102.27129,21.81473",
     "lbl:latitude":21.80973,
     "lbl:longitude":-102.27629,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mosca"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55909162,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Jalisco",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686637,
         102191575,
         85633293,
-        102077365,
-        85686637
+        102077365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126100309,
-    "wof:lastmodified":1509412085,
+    "wof:lastmodified":1566633914,
     "wof:name":"El Mosaico",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

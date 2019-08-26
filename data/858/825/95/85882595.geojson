@@ -11,8 +11,10 @@
     "geom:longitude":-86.954041,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-86.959041,20.491492,-86.949041,20.501492",
     "lbl:latitude":20.496492,
     "lbl:longitude":-86.954041,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.496492,
     "mps:longitude":-86.954181,
     "mz:hierarchy_label":0,
@@ -66,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Independencia"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3530103,
@@ -97,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686711,
         102191575,
@@ -108,7 +107,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883758,
-        "qs:id":474457,
         "qs_pg:id":474457
     },
     "wof:country":"MX",
@@ -127,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147310,
+    "wof:lastmodified":1566619666,
     "wof:name":"Independencia",
     "wof:parent_id":102001507,
     "wof:placetype":"neighbourhood",

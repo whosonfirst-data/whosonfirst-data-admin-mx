@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":6607184.707173,
+    "geom:area_square_m":6607184.707153,
     "geom:bbox":"-99.7704847376,19.4480994304,-99.7328314185,19.4809207912",
     "geom:latitude":19.465041,
     "geom:longitude":-99.754035,
     "iso:country":"MX",
     "lbl:latitude":19.46806,
     "lbl:longitude":-99.754314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.46806,
     "mps:longitude":-99.754314,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55901268
     },
     "wof:country":"MX",
-    "wof:geomhash":"863eb17fa60c1d370891828055f992ca",
+    "wof:geomhash":"708a119f7c6d526ea9c7e0742320b5db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993189,
-    "wof:lastmodified":1479930412,
+    "wof:lastmodified":1566632778,
     "wof:name":"Mayorazgo de Le\u00f3n (Estaci\u00f3n R\u00edo M\u00e9xico)",
     "wof:parent_id":102074219,
     "wof:placetype":"locality",

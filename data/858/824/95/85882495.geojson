@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1233999.502968,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.39032,20.619932,-100.39032,20.619932",
     "geom:latitude":20.619932,
     "geom:longitude":-100.39032,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.39532,20.614932,-100.38532,20.624932",
     "lbl:latitude":20.619932,
     "lbl:longitude":-100.39032,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.624131,
     "mps:longitude":-100.388126,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Villas Del Parque"
-    ],
-    "name:unk_x_variant":[
         "Fracc Villas Del Parque"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882480,
-        "qs:id":993083,
         "qs_pg:id":993083
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874022,
+    "wof:lastmodified":1566619645,
     "wof:name":"Fracc Villas Del Parque",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

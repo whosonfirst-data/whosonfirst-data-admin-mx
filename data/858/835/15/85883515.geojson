@@ -10,8 +10,10 @@
     "geom:latitude":20.546086,
     "geom:longitude":-97.450818,
     "iso:country":"MX",
+    "lbl:bbox":"-97.455818,20.541086,-97.445818,20.551086",
     "lbl:latitude":20.546086,
     "lbl:longitude":-97.450818,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.548333,
     "mps:longitude":-97.447343,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:spa_x_preferred":[
         "Lomas Del Rio"
     ],
-    "name:unk_x_variant":[
-        "Malpilca",
-        "Lomas Del Rio"
+    "name:und_x_variant":[
+        "Malpilca"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -59,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686671,
         102191575,
@@ -71,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3524225,
         "gp:id":55895814,
-        "qs:id":1104371,
         "qs_pg:id":1104371
     },
     "wof:country":"MX",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619602,
     "wof:name":"Lomas Del Rio",
     "wof:parent_id":101998613,
     "wof:placetype":"neighbourhood",

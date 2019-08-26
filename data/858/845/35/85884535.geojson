@@ -11,8 +11,10 @@
     "geom:longitude":-103.376294,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.381294,20.695744,-103.371294,20.705744",
     "lbl:latitude":20.700744,
     "lbl:longitude":-103.376294,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.700341,
     "mps:longitude":-103.37654,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Circunvalacion Americas"
-    ],
-    "name:unk_x_variant":[
         "Circunvalacion Americas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904191,
-        "qs:id":238749,
         "qs_pg:id":238749
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957721,
+    "wof:lastmodified":1566619555,
     "wof:name":"Circunvalacion Americas",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

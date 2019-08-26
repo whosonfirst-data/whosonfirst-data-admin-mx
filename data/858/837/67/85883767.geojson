@@ -11,8 +11,10 @@
     "geom:longitude":-100.271628,
     "gn:population":4,
     "iso:country":"MX",
+    "lbl:bbox":"-100.276628,25.615831,-100.266628,25.625831",
     "lbl:latitude":25.620831,
     "lbl:longitude":-100.271628,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.624752,
     "mps:longitude":-100.262144,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0430 \u041f\u043e\u043d\u0434\u0435\u0440\u043e\u0441\u0430"
-    ],
-    "name:unk_x_variant":[
-        "La Condesa"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686681,
@@ -81,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3792025,
         "gp:id":55898171,
-        "qs:id":772331,
         "qs_pg:id":772331,
         "wd:id":"Q20234521"
     },
@@ -101,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375553,
+    "wof:lastmodified":1566619692,
     "wof:name":"La Condesa",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

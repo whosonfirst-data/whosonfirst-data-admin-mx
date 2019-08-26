@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5773308.439174,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.034527,32.284078,-117.034527,32.284078",
     "geom:latitude":32.284078,
     "geom:longitude":-117.034527,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-117.039527,32.279078,-117.029527,32.289078",
     "lbl:latitude":32.284078,
     "lbl:longitude":-117.034527,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.287131,
     "mps:longitude":-117.035529,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Ciudad Popotla"
-    ],
-    "name:unk_x_variant":[
         "Ciudad Popotla"
     ],
     "qs:gn_id":0,
@@ -54,17 +53,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
-        102074505,
-        85686541
+        102074505
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891647,
-        "qs:id":1341093
+        "qs_pg:id":1341093
     },
     "wof:country":"MX",
     "wof:geomhash":"69cccdbe6485aa22f1e0b668f653058a",
@@ -82,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874247,
+    "wof:lastmodified":1566619683,
     "wof:name":"Ciudad Popotla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":28.34004,
     "lbl:longitude":-106.375098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.34004,
     "mps:longitude":-106.375098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Isabel"
     ],
@@ -87,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0406\u0437\u0430\u0431\u0435\u043b"
     ],
-    "name:unk_x_variant":[
-        "General Tr\u00edas"
-    ],
     "name:vol_x_preferred":[
         "Santa Isabel"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -125,7 +125,6 @@
         "fct:id":"01aeaa80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4005858,
         "gp:id":123995,
-        "qs:id":1047598,
         "qs_pg:id":1047598
     },
     "wof:country":"MX",
@@ -143,7 +142,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564171434,
+    "wof:lastmodified":1566632832,
     "wof:name":"Santa Isabel",
     "wof:parent_id":102075325,
     "wof:placetype":"locality",

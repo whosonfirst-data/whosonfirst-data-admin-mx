@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.153456,
     "lbl:longitude":-101.735587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.153456,
     "mps:longitude":-101.735587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Ermita"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101996681,
-    "wof:lastmodified":1564171219,
+    "wof:lastmodified":1566632362,
     "wof:name":"La Ermita",
     "wof:parent_id":102077349,
     "wof:placetype":"locality",

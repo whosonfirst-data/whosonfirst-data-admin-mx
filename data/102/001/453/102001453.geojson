@@ -9,16 +9,19 @@
     "geom:bbox":"-86.924496381,20.8233806476,-86.8582574179,20.8939117955",
     "geom:latitude":20.857706,
     "geom:longitude":-86.89578,
-    "gn:gn_country":"MX",
+    "gn:country":"MX",
     "gn:latitude":20.84169,
     "gn:longitude":-86.88237,
     "iso:country":"MX",
     "lbl:latitude":20.855329,
     "lbl:longitude":-86.872921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.855329,
     "mps:longitude":-86.872921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puerto Morelos"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":621,
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,6 @@
         "gn:id":3739628,
         "gp:id":137869,
         "nyt:id":"N34075404278923793001",
-        "qs:id":1046686,
         "qs_pg:id":1046686,
         "wd:id":"Q2117481",
         "wk:page":"Puerto Morelos"
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":102001453,
-    "wof:lastmodified":1563369815,
+    "wof:lastmodified":1566615739,
     "wof:name":"Puerto Morelos",
     "wof:parent_id":102079237,
     "wof:placetype":"locality",

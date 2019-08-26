@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004343,
-    "geom:area_square_m":50513381.82861,
+    "geom:area_square_m":50513381.828639,
     "geom:bbox":"-90.5865838961,19.7925234188,-90.4681014091,19.8763653227",
     "geom:latitude":19.831367,
     "geom:longitude":-90.515489,
@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.835017,
     "lbl:longitude":-90.519526,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.835017,
     "mps:longitude":-90.519526,
     "mz:hierarchy_label":1,
@@ -56,11 +58,8 @@
     "name:swe_x_preferred":[
         "Campeche"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "CPE"
-    ],
-    "name:unk_x_variant":[
-        "Campeche"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -171,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -184,8 +183,10 @@
         "fct:id":"01b7fd88-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3820946,
         "gp:id":142546,
-        "qs:id":353366,
         "qs_pg:id":180337
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":353366
     },
     "wof:country":"MX",
     "wof:geomhash":"8b4ca7d1bb6ffdf86c0de4d48bea95cc",
@@ -202,7 +203,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1507750818,
+    "wof:lastmodified":1566615741,
     "wof:name":"San Francisco de Campeche",
     "wof:parent_id":102079219,
     "wof:placetype":"locality",

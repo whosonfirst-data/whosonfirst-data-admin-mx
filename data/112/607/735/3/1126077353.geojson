@@ -9,14 +9,17 @@
     "geom:bbox":"-98.64862,20.31535,-98.64862,20.31535",
     "geom:latitude":20.31535,
     "geom:longitude":-98.64862,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.65362,20.31035,-98.64362,20.32035",
     "lbl:latitude":20.31535,
     "lbl:longitude":-98.64862,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Los Sabinos"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55905599,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686665,
         102191575,
         85633293,
-        102078485,
-        85686665
+        102078485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126077353,
-    "wof:lastmodified":1509410982,
+    "wof:lastmodified":1566634236,
     "wof:name":"Res Los Sabinos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

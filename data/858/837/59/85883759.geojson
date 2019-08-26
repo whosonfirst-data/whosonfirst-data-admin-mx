@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.221863,
     "lbl:longitude":-99.150276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.221997,
     "mps:longitude":-99.151136,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
     ],
     "name:spa_x_variant":[
         "San Mateo"
-    ],
-    "name:unk_x_variant":[
-        "Tepetitla"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -65,7 +63,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686515,
@@ -77,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3515870,
         "gp:id":55898120,
-        "qs:id":1045400,
+        "qs_pg:id":1045400,
         "wd:id":"Q20232383"
     },
     "wof:country":"MX",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375552,
+    "wof:lastmodified":1566619691,
     "wof:name":"Tepetitla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

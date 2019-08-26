@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10065151.121735,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.01844,22.143468,-101.01844,22.143468",
     "geom:latitude":22.143468,
     "geom:longitude":-101.01844,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.02344,22.138468,-101.01344,22.148468",
     "lbl:latitude":22.143468,
     "lbl:longitude":-101.01844,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.147685,
     "mps:longitude":-101.024849,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Lomas de Los Filtros"
-    ],
-    "name:unk_x_variant":[
         "Lomas de Los Filtros"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996483,
-        102077193,
-        85686647
+        102077193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890373,
-        "qs:id":474733,
         "qs_pg:id":474733
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874219,
+    "wof:lastmodified":1566619701,
     "wof:name":"Lomas de Los Filtros",
     "wof:parent_id":101996483,
     "wof:placetype":"neighbourhood",

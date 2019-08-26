@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":27.972363,
     "lbl:longitude":-107.601261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.972363,
     "mps:longitude":-107.601261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Juanito"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3985819,
         "gp:id":144052,
-        "qs:id":151287,
         "qs_pg:id":151287
     },
     "wof:country":"MX",
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101994269,
-    "wof:lastmodified":1564171446,
+    "wof:lastmodified":1566632855,
     "wof:name":"San Juanito",
     "wof:parent_id":102075307,
     "wof:placetype":"locality",

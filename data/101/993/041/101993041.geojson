@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
-    "geom:area_square_m":803287.723362,
+    "geom:area_square_m":803287.723361,
     "geom:bbox":"-98.67661824,21.203369975,-98.6650382007,21.2169072864",
     "geom:latitude":21.209603,
     "geom:longitude":-98.671066,
     "iso:country":"MX",
     "lbl:latitude":21.209189,
     "lbl:longitude":-98.670584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.209189,
     "mps:longitude":-98.670584,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chapuhuacanito"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3531117,
         "gp:id":115683,
-        "qs:id":494017,
         "qs_pg:id":494017
     },
     "wof:country":"MX",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101993041,
-    "wof:lastmodified":1497297008,
+    "wof:lastmodified":1566632757,
     "wof:name":"Chapulhuacanito",
     "wof:parent_id":102077173,
     "wof:placetype":"locality",

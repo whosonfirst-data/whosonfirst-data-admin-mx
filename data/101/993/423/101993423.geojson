@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.502377,
     "lbl:longitude":-98.753184,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.502377,
     "mps:longitude":-98.753184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Axochiapan"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "fct:id":"01b7ecf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532545,
         "gp:id":112742,
-        "qs:id":347224,
         "qs_pg:id":347224,
         "wd:id":"Q2651949",
         "wk:page":"Axochiapan"
@@ -106,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398107,
+    "wof:lastmodified":1566632764,
     "wof:name":"Axochiapan",
     "wof:parent_id":102074299,
     "wof:placetype":"locality",

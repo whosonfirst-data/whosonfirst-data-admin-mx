@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000386,
-    "geom:area_square_m":4482954.811643,
+    "geom:area_square_m":4482954.81166,
     "geom:bbox":"-100.384845675,19.899380658,-100.350637461,19.9312768471",
     "geom:latitude":19.916172,
     "geom:longitude":-100.36635,
     "iso:country":"MX",
     "lbl:latitude":19.91799,
     "lbl:longitude":-100.363753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.91799,
     "mps:longitude":-100.363753,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889232
     },
     "wof:country":"MX",
-    "wof:geomhash":"39899c47ac28fc0c868bd8512e19102f",
+    "wof:geomhash":"92248bf664e49f6cab0cc743705b0c93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997427,
-    "wof:lastmodified":1479903923,
+    "wof:lastmodified":1566632488,
     "wof:name":"Tungareo",
     "wof:parent_id":102075061,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-87.037753,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-87.042753,20.657113,-87.032753,20.667113",
     "lbl:latitude":20.662113,
     "lbl:longitude":-87.037753,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.664891,
     "mps:longitude":-87.043132,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Nicte - Ha"
-    ],
-    "name:unk_x_variant":[
         "Nicte - Ha"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686711,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883286,
-        "qs:id":474446,
         "qs_pg:id":474446
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619669,
     "wof:name":"Nicte - Ha",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

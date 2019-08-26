@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":1251791.32611,
+    "geom:area_square_m":1251791.32612,
     "geom:bbox":"-109.563641737,27.1954956697,-109.54936551,27.2124781948",
     "geom:latitude":27.204653,
     "geom:longitude":-109.555849,
     "iso:country":"MX",
     "lbl:latitude":27.205296,
     "lbl:longitude":-109.556341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.205296,
     "mps:longitude":-109.556341,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sonora",
     "qs:a1_lc":"26",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55888904
     },
     "wof:country":"MX",
-    "wof:geomhash":"257f566ba7b7167c2434a03037b4c614",
+    "wof:geomhash":"404a9699a3f363054ec6bc151307f62a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993909,
-    "wof:lastmodified":1479930956,
+    "wof:lastmodified":1566632745,
     "wof:name":"Pueblo Mayo",
     "wof:parent_id":102074345,
     "wof:placetype":"locality",

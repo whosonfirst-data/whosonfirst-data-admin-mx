@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.760867,
     "lbl:longitude":-98.982136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.760867,
     "mps:longitude":-98.982136,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ciudad Ayala"
     ],
@@ -46,9 +49,6 @@
     "name:swe_x_preferred":[
         "Ciudad Ayala"
     ],
-    "name:unk_x_variant":[
-        "Ayala"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u4e9e\u62c9\u57ce\u5e02"
     ],
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":199,
     "wof:belongsto":[
         102191575,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101993329,
-    "wof:lastmodified":1563398206,
+    "wof:lastmodified":1566632815,
     "wof:name":"Ciudad Ayala",
     "wof:parent_id":102074269,
     "wof:placetype":"locality",

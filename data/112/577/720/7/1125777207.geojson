@@ -9,17 +9,20 @@
     "geom:bbox":"-101.06125,20.52192,-101.06125,20.52192",
     "geom:latitude":20.52192,
     "geom:longitude":-101.06125,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5091,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":5091,
     "iso:country":"MX",
+    "lbl:bbox":"-101.08125,20.50192,-101.04125,20.54192",
     "lbl:latitude":20.52192,
     "lbl:longitude":-101.06125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sarabia"
     ],
     "qs_pg:aaroncc":"MX",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":1047675,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125777207,
-    "wof:lastmodified":1509391356,
+    "wof:lastmodified":1566634327,
     "wof:name":"C. Militar Sarabia",
     "wof:parent_id":102077335,
     "wof:placetype":"locality",

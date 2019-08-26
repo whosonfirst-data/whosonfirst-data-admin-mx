@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.627269,
     "lbl:longitude":-100.757724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.627269,
     "mps:longitude":-100.757724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Aurora"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "La Aurora"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aurora"
     ],
     "qs:a0":"Mexico",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101993119,
-    "wof:lastmodified":1564171408,
+    "wof:lastmodified":1566632783,
     "wof:name":"La Aurora",
     "wof:parent_id":102077259,
     "wof:placetype":"locality",

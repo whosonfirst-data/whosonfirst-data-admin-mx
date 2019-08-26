@@ -9,19 +9,23 @@
     "geom:bbox":"-115.18827,32.41103,-115.18827,32.41103",
     "geom:latitude":32.41103,
     "geom:longitude":-115.18827,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-115.20827,32.39103,-115.16827,32.43103",
     "lbl:latitude":32.41103,
     "lbl:longitude":-115.18827,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041d\u0443\u044d\u0432\u043e-\u041b\u0435\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ejido Nuevo Le\u00f3n"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,7 +47,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55888277,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Baja California",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1126047351,
-    "wof:lastmodified":1509408958,
+    "wof:lastmodified":1566633969,
     "wof:name":"Nuevo Leon",
     "wof:parent_id":102074507,
     "wof:placetype":"locality",

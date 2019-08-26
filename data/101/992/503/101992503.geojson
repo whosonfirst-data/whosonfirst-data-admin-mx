@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000371,
-    "geom:area_square_m":4313782.916773,
+    "geom:area_square_m":4313782.916796,
     "geom:bbox":"-99.6258184566,19.7050944462,-99.5933237196,19.7343580208",
     "geom:latitude":19.721351,
     "geom:longitude":-99.610915,
     "iso:country":"MX",
     "lbl:latitude":19.72477,
     "lbl:longitude":-99.613368,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.72477,
     "mps:longitude":-99.613368,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Clara de Ju\u00e1rez"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3827158,
         "gp:id":55906099,
-        "qs:id":905304
+        "qs_pg:id":905304
     },
     "wof:country":"MX",
     "wof:geomhash":"59e95da916e143f6a42fa41d908157e0",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101992503,
-    "wof:lastmodified":1501268843,
+    "wof:lastmodified":1566632677,
     "wof:name":"Santa Clara de Ju\u00e1rez",
     "wof:parent_id":102073965,
     "wof:placetype":"locality",

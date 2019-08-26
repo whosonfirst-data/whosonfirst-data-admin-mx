@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":29.68515,
     "lbl:longitude":-108.979935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.68515,
     "mps:longitude":-108.979935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "N\u00e1cori Chico"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,7 +70,6 @@
         "fct:id":"01bbe902-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3995165,
         "gp:id":134269,
-        "qs:id":978790,
         "qs_pg:id":978790,
         "wd:id":"Q3844441",
         "wk:page":"N\u00e1cori Chico"
@@ -87,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750608,
+    "wof:lastmodified":1566632813,
     "wof:name":"N\u00e1cori Chico",
     "wof:parent_id":102074377,
     "wof:placetype":"locality",

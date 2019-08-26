@@ -9,14 +9,18 @@
     "geom:bbox":"-99.05962,19.25598,-99.05962,19.25598",
     "geom:latitude":19.25598,
     "geom:longitude":-99.05962,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.07962,19.23598,-99.03962,19.27598",
     "lbl:latitude":19.25598,
     "lbl:longitude":-99.05962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "San Gregorio Atlapulco"
@@ -24,7 +28,7 @@
     "name:spa_x_preferred":[
         "San Gregorio Atlapulco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atlapulco"
     ],
     "qs_pg:aaroncc":"MX",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":142747,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Distrito Federal",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1125800535,
-    "wof:lastmodified":1514488803,
+    "wof:lastmodified":1566633999,
     "wof:name":"San Gregorio Atlapulco",
     "wof:parent_id":102073731,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
-    "geom:area_square_m":5109156.662598,
+    "geom:area_square_m":5109156.662592,
     "geom:bbox":"-98.5345554462,18.8838833931,-98.510218472,18.9186071777",
     "geom:latitude":18.901279,
     "geom:longitude":-98.52308,
     "iso:country":"MX",
     "lbl:latitude":18.900762,
     "lbl:longitude":-98.523243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.900762,
     "mps:longitude":-98.523243,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55886283
     },
     "wof:country":"MX",
-    "wof:geomhash":"d830a77aeea07f5cdf9eed34fa970039",
+    "wof:geomhash":"348ddca6a35575e503d4fd0e6fcdbe70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999291,
-    "wof:lastmodified":1479907860,
+    "wof:lastmodified":1566632573,
     "wof:name":"San Jer\u00f3nimo Coyula",
     "wof:parent_id":102078035,
     "wof:placetype":"locality",

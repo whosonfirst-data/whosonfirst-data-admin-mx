@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-99.76785,25.62022,-99.72785,25.66022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":3529419
     },
     "wof:country":"MX",
-    "wof:geomhash":"b5d171b5d58c951a5faaba4f1537ff04",
+    "wof:geomhash":"906c75dd9e149ac35f0f6c58112ee6ff",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209376887,
-    "wof:lastmodified":1536288919,
+    "wof:lastmodified":1566625610,
     "wof:name":"El Ayancual",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -99.74785,
-    25.640220000000006,
+    25.64022000000001,
     -99.74785,
-    25.640220000000006
+    25.64022000000001
 ],
   "geometry": {"coordinates":[-99.74785,25.64022000000001],"type":"Point"}
 }

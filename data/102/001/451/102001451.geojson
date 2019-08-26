@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.1944,
     "lbl:longitude":-87.439798,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.1944,
     "mps:longitude":-87.439798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u0648\u0645"
     ],
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043b\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tul\u00fan"
     ],
     "name:zho_x_preferred":[
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -147,7 +150,6 @@
         "gn:id":3515040,
         "gp:id":150215,
         "nyt:id":"N38403829331942392851",
-        "qs:id":666139,
         "qs_pg:id":666139,
         "wd:id":"Q277408"
     },
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":102001451,
-    "wof:lastmodified":1563369851,
+    "wof:lastmodified":1566615756,
     "wof:name":"Tulum",
     "wof:parent_id":102079243,
     "wof:placetype":"locality",

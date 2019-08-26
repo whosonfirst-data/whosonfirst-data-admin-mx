@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.311717,
     "lbl:longitude":-98.27306,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.311717,
     "mps:longitude":-98.27306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Panotla"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "Panotla"
     ],
-    "name:unk_x_variant":[
-        "San Nicol\u00e1s Panotla"
-    ],
     "name:vec_x_preferred":[
         "Panotla"
     ],
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -114,7 +114,6 @@
         "fct:id":"01aed000-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521951,
         "gp:id":135921,
-        "qs:id":148735,
         "qs_pg:id":148735,
         "wd:id":"Q173191",
         "wk:page":"Panotla"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397747,
+    "wof:lastmodified":1566632578,
     "wof:name":"Panotla",
     "wof:parent_id":102077929,
     "wof:placetype":"locality",

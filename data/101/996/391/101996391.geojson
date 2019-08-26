@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.617606,
     "lbl:longitude":-100.469366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.617606,
     "mps:longitude":-100.469366,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "San Pedro M\u00e1rtir"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +60,6 @@
         "fct:id":"01bac4d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4029453,
         "gp:id":55897075,
-        "qs:id":888008,
         "qs_pg:id":888008
     },
     "wof:country":"MX",
@@ -75,7 +77,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564171215,
+    "wof:lastmodified":1566632355,
     "wof:name":"San Pedro M\u00e1rtir",
     "wof:parent_id":102077111,
     "wof:placetype":"locality",

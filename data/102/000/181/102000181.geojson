@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1983852.685784,
+    "geom:area_square_m":1983852.685786,
     "geom:bbox":"-99.2110407458,20.1210422392,-99.1912688367,20.1366807923",
     "geom:latitude":20.128151,
     "geom:longitude":-99.20107,
     "iso:country":"MX",
     "lbl:latitude":20.128064,
     "lbl:longitude":-99.201223,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.128064,
     "mps:longitude":-99.201223,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55896027
     },
     "wof:country":"MX",
-    "wof:geomhash":"820cb55d5f8b462107125594c62f1a15",
+    "wof:geomhash":"214af0a276f84f38fdbe20263ef61325",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000181,
-    "wof:lastmodified":1479907761,
+    "wof:lastmodified":1566615686,
     "wof:name":"Munitepec de Madero",
     "wof:parent_id":102078613,
     "wof:placetype":"locality",

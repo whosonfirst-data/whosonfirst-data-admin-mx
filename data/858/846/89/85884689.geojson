@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7893793.602051,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.960729,19.933522,-97.960729,19.933522",
     "geom:latitude":19.933522,
     "geom:longitude":-97.960729,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.965729,19.928522,-97.955729,19.938522",
     "lbl:latitude":19.933522,
     "lbl:longitude":-97.960729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.935508,
     "mps:longitude":-97.961275,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Zacatlan Centro"
-    ],
-    "name:unk_x_variant":[
         "Zacatlan Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         102000055,
-        102078443,
-        85686657
+        102078443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55906231,
-        "qs:id":63441,
         "qs_pg:id":63441
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874590,
+    "wof:lastmodified":1566619634,
     "wof:name":"Zacatlan Centro",
     "wof:parent_id":102000055,
     "wof:placetype":"neighbourhood",

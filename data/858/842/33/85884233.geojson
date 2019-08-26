@@ -10,8 +10,10 @@
     "geom:latitude":23.183289,
     "geom:longitude":-102.850159,
     "iso:country":"MX",
+    "lbl:bbox":"-102.855159,23.178289,-102.845159,23.188289",
     "lbl:latitude":23.183289,
     "lbl:longitude":-102.850159,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.183289,
     "mps:longitude":-102.84851,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "El Sotol"
-    ],
-    "name:unk_x_variant":[
-        "Del Sol"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686567,
         102191575,
@@ -73,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3972458,
         "gp:id":55901359,
-        "qs:id":52794,
         "qs_pg:id":52794
     },
     "wof:country":"MX",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619562,
     "wof:name":"Del Sol",
     "wof:parent_id":101992909,
     "wof:placetype":"neighbourhood",

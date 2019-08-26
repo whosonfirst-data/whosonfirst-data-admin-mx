@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.108906,
     "lbl:longitude":-89.397396,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.108906,
     "mps:longitude":-89.397396,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Baca"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +76,6 @@
         "fct:id":"01ae88e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532467,
         "gp:id":112849,
-        "qs:id":883680,
         "qs_pg:id":883680,
         "wd:id":"Q5716000"
     },
@@ -92,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369816,
+    "wof:lastmodified":1566615740,
     "wof:name":"Baca",
     "wof:parent_id":102079191,
     "wof:placetype":"locality",

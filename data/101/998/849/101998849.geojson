@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":1168424.969907,
+    "geom:area_square_m":1168424.969905,
     "geom:bbox":"-96.1958746443,19.1496649075,-96.1735358446,19.1626983397",
     "geom:latitude":19.155734,
     "geom:longitude":-96.182261,
     "iso:country":"MX",
     "lbl:latitude":19.154927,
     "lbl:longitude":-96.178707,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.154927,
     "mps:longitude":-96.178707,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Las Bajadas"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,7 +51,6 @@
         "fct:id":"01b8934c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3524934,
         "gp:id":130062,
-        "qs:id":410028,
         "qs_pg:id":410028
     },
     "wof:country":"MX",
@@ -65,7 +68,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497297927,
+    "wof:lastmodified":1566632268,
     "wof:name":"Las Bajadas",
     "wof:parent_id":102078669,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-97.669891581,20.2413419459,-97.6457911762,20.2533777841",
     "geom:latitude":20.247584,
     "geom:longitude":-97.658528,
-    "geonames:id":"3530110,3824667",
+    "gn:id":"3530110,3824667",
     "iso:country":"MX",
     "lbl:latitude":20.247246,
     "lbl:longitude":-97.659501,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.247246,
     "mps:longitude":-97.659501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Coyutla,Ver"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101998311,
-    "wof:lastmodified":1563397195,
+    "wof:lastmodified":1566632284,
     "wof:name":"Coyutla",
     "wof:parent_id":102077495,
     "wof:placetype":"locality",

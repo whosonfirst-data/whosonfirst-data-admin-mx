@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.814632,
     "lbl:longitude":-96.724842,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.814632,
     "mps:longitude":-96.724842,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Cuitl\u00e1huac"
     ],
@@ -46,9 +49,6 @@
     "name:swe_x_preferred":[
         "Cuitl\u00e1huac"
     ],
-    "name:unk_x_variant":[
-        "San Juan de la Punta"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
     "wof:belongsto":[
@@ -80,7 +80,6 @@
         "fct:id":"01b83136-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529911,
         "gp:id":117971,
-        "qs:id":260278,
         "qs_pg:id":260278,
         "wd:id":"Q20222319",
         "wk:page":"Cuitl\u00e1huac, Veracruz"
@@ -100,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397202,
+    "wof:lastmodified":1566632287,
     "wof:name":"Cuitl\u00e1huac",
     "wof:parent_id":102077499,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":886339.665014,
+    "geom:area_square_m":886339.665015,
     "geom:bbox":"-101.302546124,20.5654212589,-101.289290387,20.5754167438",
     "geom:latitude":20.571272,
     "geom:longitude":-101.29683,
     "iso:country":"MX",
     "lbl:latitude":20.571424,
     "lbl:longitude":-101.296932,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.571424,
     "mps:longitude":-101.296932,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Mulhac\u00e9n"
     ],
@@ -60,7 +64,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -72,7 +76,7 @@
         "gp:id":55887422
     },
     "wof:country":"MX",
-    "wof:geomhash":"9c63017b019af6d5accc8c30c7916020",
+    "wof:geomhash":"b98b35e562bf878792dd894f23c9eff4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101996711,
-    "wof:lastmodified":1479906974,
+    "wof:lastmodified":1566632428,
     "wof:name":"Loma Pelada",
     "wof:parent_id":102077339,
     "wof:placetype":"locality",

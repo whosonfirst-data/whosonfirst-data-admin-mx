@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":31.656461,
     "lbl:longitude":-106.402795,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":31.656461,
     "mps:longitude":-106.402795,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Ciudad Ju\u00e1rez"
     ],
@@ -237,7 +240,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u044e\u0434\u0430\u0434-\u0425\u0443\u0430\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Juarez"
     ],
     "name:urd_x_preferred":[
@@ -281,7 +284,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -298,10 +301,12 @@
         "gp:id":126157,
         "loc:id":"n82000742",
         "nyt:id":"N38442012344738329191",
-        "qs:id":1141647,
         "qs_pg:id":469667,
         "wd:id":"Q26590",
         "wk:page":"Ciudad Ju\u00e1rez"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1141647
     },
     "wof:country":"MX",
     "wof:geomhash":"40927deb8f43ac9fab15896f5254dcbb",
@@ -318,7 +323,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398305,
+    "wof:lastmodified":1566632868,
     "wof:name":"Ju\u00e1rez",
     "wof:parent_id":102075223,
     "wof:placetype":"locality",

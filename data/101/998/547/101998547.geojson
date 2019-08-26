@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.928781,
     "lbl:longitude":-94.896201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.928781,
     "mps:longitude":-94.896201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Oluta"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "fct:id":"01b8c81c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522350,
         "gp:id":135265,
-        "qs:id":433582,
         "qs_pg:id":433582,
         "wd:id":"Q3845769"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397196,
+    "wof:lastmodified":1566632284,
     "wof:name":"Oluta",
     "wof:parent_id":102077635,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.388898,
     "lbl:longitude":-98.147931,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.388898,
     "mps:longitude":-98.147931,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santa Anita Huiloac"
     ],
@@ -35,7 +38,7 @@
     "name:swe_x_preferred":[
         "Santa Anita Huiloac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huiloac"
     ],
     "qs:a0":"Mexico",
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3517734,
         "gp:id":55902308,
-        "qs:id":148681,
         "qs_pg:id":148681,
         "wd:id":"Q20224823"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101999189,
-    "wof:lastmodified":1563397687,
+    "wof:lastmodified":1566632543,
     "wof:name":"Santa Anita Huiloac",
     "wof:parent_id":102077969,
     "wof:placetype":"locality",

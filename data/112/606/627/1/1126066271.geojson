@@ -9,16 +9,19 @@
     "geom:bbox":"-99.47629,19.72196,-99.47629,19.72196",
     "geom:latitude":19.72196,
     "geom:longitude":-99.47629,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.48129,19.71696,-99.47129,19.72696",
     "lbl:latitude":19.72196,
     "lbl:longitude":-99.47629,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zacapexco"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55908118,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991611,
-        102073997,
-        85686527
+        102073997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126066271,
-    "wof:lastmodified":1509410441,
+    "wof:lastmodified":1566634135,
     "wof:name":"Barrio San Jeronimo Zacapexco",
     "wof:parent_id":101991611,
     "wof:placetype":"neighbourhood",

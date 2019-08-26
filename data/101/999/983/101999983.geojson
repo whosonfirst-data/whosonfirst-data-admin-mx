@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.911255,
     "lbl:longitude":-98.587354,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.911255,
     "mps:longitude":-98.587354,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Magdalena Yancuitlalpan"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_preferred":[
         "La Magdalena Yancuitlalpan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yancuitlalpan"
     ],
     "qs:a0":"Mexico",
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101999983,
-    "wof:lastmodified":1563397683,
+    "wof:lastmodified":1566632540,
     "wof:name":"La Magdalena Yancuitlalpan",
     "wof:parent_id":102078399,
     "wof:placetype":"locality",
