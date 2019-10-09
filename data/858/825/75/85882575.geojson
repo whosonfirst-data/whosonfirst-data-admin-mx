@@ -11,8 +11,10 @@
     "geom:longitude":-103.51593,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.52093,25.574607,-103.51093,25.584607",
     "lbl:latitude":25.579607,
     "lbl:longitude":-103.51593,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.579608,
     "mps:longitude":-103.51593,
     "mz:hierarchy_label":0,
@@ -141,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0441\u0435 \u041b\u043e\u043f\u0435\u0441 \u041f\u043e\u0440\u0442\u0456\u043b\u044c\u0439\u043e"
     ],
-    "name:unk_x_variant":[
-        "Jose Lopez Portillo"
-    ],
     "name:vie_x_preferred":[
         "Jos\u00e9 L\u00f3pez Portillo"
     ],
@@ -184,7 +183,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":968,
     "wof:belongsto":[
         85686573,
@@ -196,7 +195,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883428,
-        "qs:id":1112941,
         "qs_pg:id":1112941,
         "wd:id":"Q315613"
     },
@@ -216,7 +214,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375515,
+    "wof:lastmodified":1566619668,
     "wof:name":"Jose Lopez Portillo",
     "wof:parent_id":101994337,
     "wof:placetype":"neighbourhood",

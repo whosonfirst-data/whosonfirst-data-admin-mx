@@ -9,14 +9,18 @@
     "geom:bbox":"-105.22418,21.16598,-105.22418,21.16598",
     "geom:latitude":21.16598,
     "geom:longitude":-105.22418,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-105.24418,21.14598,-105.20418,21.18598",
     "lbl:latitude":21.16598,
     "lbl:longitude":-105.22418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Chacala"
@@ -30,7 +34,7 @@
     "name:spa_x_preferred":[
         "Chacala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chacale"
     ],
     "qs_pg:aaroncc":"MX",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":115479,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Nayarit",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1125805605,
-    "wof:lastmodified":1561750689,
+    "wof:lastmodified":1566633997,
     "wof:name":"Chacala",
     "wof:parent_id":102074585,
     "wof:placetype":"locality",

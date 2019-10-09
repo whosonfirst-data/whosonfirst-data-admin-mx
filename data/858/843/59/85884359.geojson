@@ -11,8 +11,10 @@
     "geom:longitude":-107.405092,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-107.410092,24.814363,-107.400092,24.824363",
     "lbl:latitude":24.819363,
     "lbl:longitude":-107.405092,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.821639,
     "mps:longitude":-107.407928,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:spa_x_preferred":[
         "Desarrollo Urbano Tres Rios",
         "Desarrollo Urbano Tres R\u00edos"
-    ],
-    "name:unk_x_variant":[
-        "Desarrollo Urbano Tres Rios"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":78,
     "wof:belongsto":[
         85686535,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903154,
-        "qs:id":1342525,
         "qs_pg:id":1342525,
         "wd:id":"Q5803748"
     },
@@ -94,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375383,
+    "wof:lastmodified":1566619580,
     "wof:name":"Desarrollo Urbano Tres Rios",
     "wof:parent_id":101993731,
     "wof:placetype":"neighbourhood",

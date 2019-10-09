@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.83568,
     "lbl:longitude":-97.54741,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.83568,
     "mps:longitude":-97.54741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Palmar de Bravo"
     ],
@@ -51,9 +54,6 @@
     "name:swe_x_preferred":[
         "Palmar de Bravo"
     ],
-    "name:unk_x_variant":[
-        "Palmar"
-    ],
     "name:vie_x_preferred":[
         "Palmar de Bravo"
     ],
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -87,7 +87,6 @@
         "fct:id":"01b8cdee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522130,
         "gp:id":135602,
-        "qs:id":490059,
         "qs_pg:id":490059,
         "wd:id":"Q6058970",
         "wk:page":"Palmar de Bravo (municipality)"
@@ -107,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397727,
+    "wof:lastmodified":1566632566,
     "wof:name":"Palmar de Bravo",
     "wof:parent_id":102078229,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":21.017373,
     "geom:longitude":-101.250328,
     "iso:country":"MX",
+    "lbl:bbox":"-101.255328,21.012373,-101.245328,21.022373",
     "lbl:latitude":21.017373,
     "lbl:longitude":-101.250328,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.019137,
     "mps:longitude":-101.245809,
     "mz:hierarchy_label":0,
@@ -42,9 +44,8 @@
         "La Calzada",
         "Calzada"
     ],
-    "name:unk_x_variant":[
-        "Alameda",
-        "La Calzada"
+    "name:und_x_variant":[
+        "Alameda"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -75,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -87,7 +88,9 @@
     "wof:concordances":{
         "gn:id":3531774,
         "gp:id":55911912,
-        "qs:id":224285,
+        "qs_pg:id":224285
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":532592
     },
     "wof:country":"MX",
@@ -106,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619566,
     "wof:name":"La Calzada",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

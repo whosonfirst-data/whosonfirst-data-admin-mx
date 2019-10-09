@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.98684,
     "lbl:longitude":-99.094735,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.98684,
     "mps:longitude":-99.094735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Tepoztl\u00e1n"
     ],
@@ -162,9 +165,6 @@
     "name:tur_x_preferred":[
         "Tepoztl\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Tepoxtl\u00e1n"
-    ],
     "name:vie_x_preferred":[
         "Tepoztl\u00e1n"
     ],
@@ -194,7 +194,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1716.0,
     "wd:latitude":18.985278,
@@ -211,7 +211,6 @@
         "fct:id":"01b97a14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515811,
         "gp:id":149000,
-        "qs:id":507783,
         "qs_pg:id":507783,
         "wd:id":"Q1020785",
         "wk:page":"Tepoztl\u00e1n"
@@ -231,7 +230,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398108,
+    "wof:lastmodified":1566632764,
     "wof:name":"Tepoztl\u00e1n",
     "wof:parent_id":102074233,
     "wof:placetype":"locality",

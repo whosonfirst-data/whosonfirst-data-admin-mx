@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":25.045398,
     "lbl:longitude":-105.420497,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":25.045398,
     "mps:longitude":-105.420497,
     "mz:hierarchy_label":1,
@@ -181,7 +183,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -193,10 +195,12 @@
     "wof:concordances":{
         "gn:id":3983672,
         "gp:id":147008,
-        "qs:id":333837,
-        "qs_pg:id":1116104,
+        "qs_pg:id":333837,
         "wd:id":"Q2465593",
         "wk:page":"Santiago Papasquiaro"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116104
     },
     "wof:country":"MX",
     "wof:geomhash":"7f7614e2c9a83063460cbed0ffaa59ba",
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":101994083,
-    "wof:lastmodified":1563398253,
+    "wof:lastmodified":1566632840,
     "wof:name":"Santiago Papasquiaro",
     "wof:parent_id":102075205,
     "wof:placetype":"locality",

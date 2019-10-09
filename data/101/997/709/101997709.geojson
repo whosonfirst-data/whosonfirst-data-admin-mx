@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":1152507.725002,
+    "geom:area_square_m":1152507.725001,
     "geom:bbox":"-103.230111528,22.1757063709,-103.221747494,22.1929876893",
     "geom:latitude":22.183924,
     "geom:longitude":-103.226077,
     "iso:country":"MX",
     "lbl:latitude":22.182929,
     "lbl:longitude":-103.226157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.182929,
     "mps:longitude":-103.226157,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":146494
     },
     "wof:country":"MX",
-    "wof:geomhash":"4d5ac39e65f361e698d1e5aefb12be4c",
+    "wof:geomhash":"d20f64b8a003fe2c1d8a841311dd8390",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997709,
-    "wof:lastmodified":1479930062,
+    "wof:lastmodified":1566632438,
     "wof:name":"Barrio de Tapias",
     "wof:parent_id":102074599,
     "wof:placetype":"locality",

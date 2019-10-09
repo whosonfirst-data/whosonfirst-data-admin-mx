@@ -9,14 +9,17 @@
     "geom:bbox":"-100.745353661,28.2062030522,-100.708012278,28.238288889",
     "geom:latitude":28.221955,
     "geom:longitude":-100.727015,
-    "geonames:id":"3980122,3980123",
+    "gn:id":"3980122,3980123",
     "iso:country":"MX",
     "lbl:latitude":28.21959,
     "lbl:longitude":-100.725465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.21959,
     "mps:longitude":-100.725465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Villa Uni\u00f3n"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":102000845,
-    "wof:lastmodified":1563369654,
+    "wof:lastmodified":1566615663,
     "wof:name":"Villa Uni\u00f3n",
     "wof:parent_id":102078797,
     "wof:placetype":"locality",

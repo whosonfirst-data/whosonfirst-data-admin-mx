@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.08355,
     "lbl:longitude":-97.91811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.08355,
     "mps:longitude":-97.91811,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Petlalcingo"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -81,7 +84,6 @@
         "fct:id":"01b8d712-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521597,
         "gp:id":136546,
-        "qs:id":180291,
         "qs_pg:id":180291,
         "wd:id":"Q3893251",
         "wk:page":"Petlalcingo (municipality)"
@@ -101,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397667,
+    "wof:lastmodified":1566632531,
     "wof:name":"Petlalcingo",
     "wof:parent_id":102078233,
     "wof:placetype":"locality",

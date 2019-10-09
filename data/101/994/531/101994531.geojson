@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.510251,
     "lbl:longitude":-93.117466,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.510251,
     "mps:longitude":-93.117466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Pichucalco"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,6 @@
         "fct:id":"01b8d776-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521574,
         "gp:id":136586,
-        "qs:id":943627,
         "qs_pg:id":943627,
         "wd:id":"Q1953094",
         "wk:page":"Pichucalco"
@@ -118,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398318,
+    "wof:lastmodified":1566632875,
     "wof:name":"Pichucalco",
     "wof:parent_id":102075711,
     "wof:placetype":"locality",

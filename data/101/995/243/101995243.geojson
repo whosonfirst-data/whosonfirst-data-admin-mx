@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.761151,
     "lbl:longitude":-96.491398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.761151,
     "mps:longitude":-96.491398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Baltazar Chichic\u00e1pam"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "San Baltazar Chichic\u00e1pam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chichicapan"
     ],
     "name:vie_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3519666,
         "gp:id":141911,
-        "qs:id":148712,
+        "qs_pg:id":148712,
         "wd:id":"Q1754432"
     },
     "wof:country":"MX",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101995243,
-    "wof:lastmodified":1563397802,
+    "wof:lastmodified":1566632609,
     "wof:name":"San Baltazar Chichic\u00e1pam",
     "wof:parent_id":102075943,
     "wof:placetype":"locality",

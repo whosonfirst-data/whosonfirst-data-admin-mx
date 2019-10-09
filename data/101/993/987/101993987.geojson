@@ -5,23 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":2060453.139473,
+    "geom:area_square_m":2060453.139471,
     "geom:bbox":"-110.400852537,29.421283109,-110.36836884,29.432717199",
     "geom:latitude":29.427021,
     "geom:longitude":-110.385036,
     "iso:country":"MX",
     "lbl:latitude":29.427626,
     "lbl:longitude":-110.385276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.427626,
     "mps:longitude":-110.385276,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hbs_x_preferred":[
         "Op\u0161tina Ures"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ures"
     ],
     "qs:a0":"Mexico",
@@ -41,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101993987,
-    "wof:lastmodified":1497300419,
+    "wof:lastmodified":1566632815,
     "wof:name":"Heroica Ciudad de Ures",
     "wof:parent_id":102074465,
     "wof:placetype":"locality",

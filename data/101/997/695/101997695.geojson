@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":627806.116984,
+    "geom:area_square_m":627806.116982,
     "geom:bbox":"-103.424068631,20.4485168971,-103.416757063,20.462986052",
     "geom:latitude":20.455492,
     "geom:longitude":-103.42014,
     "iso:country":"MX",
     "lbl:latitude":20.4557,
     "lbl:longitude":-103.419891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.4557,
     "mps:longitude":-103.419891,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90276136
     },
     "wof:country":"MX",
-    "wof:geomhash":"4a350fddbb08a91a97797816b358c439",
+    "wof:geomhash":"40cf2fd334c40c8ba25ce66e217bce73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997695,
-    "wof:lastmodified":1479930254,
+    "wof:lastmodified":1566632457,
     "wof:name":"Galaxia la Noria",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

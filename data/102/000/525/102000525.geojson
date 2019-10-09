@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":424386.58847,
+    "geom:area_square_m":424386.588472,
     "geom:bbox":"-98.0421369581,20.4550675125,-98.0288796666,20.4603815626",
     "geom:latitude":20.457455,
     "geom:longitude":-98.036722,
     "iso:country":"MX",
     "lbl:latitude":20.458143,
     "lbl:longitude":-98.039584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.458143,
     "mps:longitude":-98.039584,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891731
     },
     "wof:country":"MX",
-    "wof:geomhash":"0bf63b452d898bdd62df52b7e3429a35",
+    "wof:geomhash":"6b6bf153914eb34faf16107e20c6b81b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000525,
-    "wof:lastmodified":1479907611,
+    "wof:lastmodified":1566615719,
     "wof:name":"San Antonio el Grande",
     "wof:parent_id":102078505,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":450312.531886,
+    "geom:area_square_m":450312.531882,
     "geom:bbox":"-98.2405056009,19.3224604769,-98.2303133133,19.3293254647",
     "geom:latitude":19.326464,
     "geom:longitude":-98.235934,
     "iso:country":"MX",
     "lbl:latitude":19.326197,
     "lbl:longitude":-98.23686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.326197,
     "mps:longitude":-98.23686,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tlaxcala",
     "qs:a1_lc":"29",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891852
     },
     "wof:country":"MX",
-    "wof:geomhash":"bfa086bb555fb491dfddee5f86cd1851",
+    "wof:geomhash":"4e0570df9aeb4673c295e4c0188742d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999015,
-    "wof:lastmodified":1479907060,
+    "wof:lastmodified":1566632521,
     "wof:name":"Acxotla del R\u00edo",
     "wof:parent_id":102077903,
     "wof:placetype":"locality",

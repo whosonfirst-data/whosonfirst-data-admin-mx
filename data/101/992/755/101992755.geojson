@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.549637,
     "lbl:longitude":-98.878188,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.549637,
     "mps:longitude":-98.878188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ast_x_preferred":[
         "Chiautla"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "Chiautla"
     ],
-    "name:unk_x_variant":[
-        "San Andr\u00e9s Chiautla"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -111,7 +111,6 @@
         "fct:id":"01af3734-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531007,
         "gp:id":115842,
-        "qs:id":279802,
         "qs_pg:id":279802,
         "wd:id":"Q2630452"
     },
@@ -130,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397939,
+    "wof:lastmodified":1566632670,
     "wof:name":"Chiautla",
     "wof:parent_id":102074167,
     "wof:placetype":"locality",

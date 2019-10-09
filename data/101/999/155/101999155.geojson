@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.375305,
     "lbl:longitude":-97.909953,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.375305,
     "mps:longitude":-97.909953,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Benito Ju\u00e1rez"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -65,7 +68,6 @@
         "fct:id":"01ae8b36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532279,
         "gp:id":55920963,
-        "qs:id":148866,
         "qs_pg:id":148866,
         "wd:id":"Q20254040"
     },
@@ -84,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397710,
+    "wof:lastmodified":1566632556,
     "wof:name":"Benito Ju\u00e1rez",
     "wof:parent_id":102077951,
     "wof:placetype":"locality",

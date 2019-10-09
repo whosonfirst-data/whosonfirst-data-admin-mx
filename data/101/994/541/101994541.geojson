@@ -9,14 +9,17 @@
     "geom:bbox":"-92.3588382462,16.7679000078,-92.3316596726,16.7989714343",
     "geom:latitude":16.784143,
     "geom:longitude":-92.343863,
-    "geonames:id":"3816214,3522256",
+    "gn:id":"3816214,3522256",
     "iso:country":"MX",
     "lbl:latitude":16.783272,
     "lbl:longitude":-92.341801,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.783272,
     "mps:longitude":-92.341801,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Oxchuc"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Oxchuc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teultepec"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101994541,
-    "wof:lastmodified":1563398380,
+    "wof:lastmodified":1566632900,
     "wof:name":"Oxchuc",
     "wof:parent_id":102075719,
     "wof:placetype":"locality",

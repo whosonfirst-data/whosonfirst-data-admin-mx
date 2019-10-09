@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":20.391451,
     "lbl:longitude":-99.985081,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":20.391451,
     "mps:longitude":-99.985081,
     "mz:hierarchy_label":1,
@@ -198,7 +200,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -211,7 +213,6 @@
         "fct:id":"01b91038-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518692,
         "gp:id":143928,
-        "qs:id":560825,
         "qs_pg:id":560825,
         "wd:id":"Q20246822"
     },
@@ -230,7 +231,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397364,
+    "wof:lastmodified":1566632377,
     "wof:name":"San Juan del R\u00edo",
     "wof:parent_id":102077115,
     "wof:placetype":"locality",

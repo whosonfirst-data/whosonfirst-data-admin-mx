@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
-    "geom:area_square_m":2266425.170704,
+    "geom:area_square_m":2266425.170701,
     "geom:bbox":"-103.944139646,19.1614128448,-103.92005391,19.1769813511",
     "geom:latitude":19.169795,
     "geom:longitude":-103.930939,
     "iso:country":"MX",
     "lbl:latitude":19.169962,
     "lbl:longitude":-103.931134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.169962,
     "mps:longitude":-103.931134,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ju\u00e1rez"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101996921,
-    "wof:lastmodified":1507750814,
+    "wof:lastmodified":1566632427,
     "wof:name":"Pueblo Ju\u00e1rez (La Magdalena)",
     "wof:parent_id":102074533,
     "wof:placetype":"locality",

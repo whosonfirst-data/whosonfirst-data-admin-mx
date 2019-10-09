@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.738983,
     "lbl:longitude":-102.485513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.738983,
     "mps:longitude":-102.485513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ting\u00fcind\u00edn"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Ting\u00fcind\u00edn"
     ],
-    "name:unk_x_variant":[
-        "Ting\u00fcind\u00edn de Arg\u00e1ndar"
-    ],
     "name:vec_x_preferred":[
         "Ting\u00fcind\u00edn"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -110,7 +110,6 @@
         "fct:id":"01b98342-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3981516,
         "gp:id":149449,
-        "qs:id":151251,
         "qs_pg:id":151251,
         "wd:id":"Q3847151",
         "wk:page":"Ting\u00fcind\u00edn"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397616,
+    "wof:lastmodified":1566632502,
     "wof:name":"Ting\u00fcind\u00edn",
     "wof:parent_id":102075029,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":698547.414904,
+    "geom:area_square_m":698547.414911,
     "geom:bbox":"-92.7566636214,18.1403812699,-92.7452262898,18.1515858474",
     "geom:latitude":18.146067,
     "geom:longitude":-92.749989,
     "iso:country":"MX",
     "lbl:latitude":18.145897,
     "lbl:longitude":-92.748952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.145897,
     "mps:longitude":-92.748952,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895776
     },
     "wof:country":"MX",
-    "wof:geomhash":"e009642f5ae099296adc07f0b1051fa2",
+    "wof:geomhash":"0a1a8169ce78b91fb1d258fd158ba0b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994905,
-    "wof:lastmodified":1479904114,
+    "wof:lastmodified":1566632876,
     "wof:name":"Buena Vista 1ra. Secci\u00f3n",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

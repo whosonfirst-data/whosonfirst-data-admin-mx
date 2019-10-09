@@ -9,14 +9,17 @@
     "geom:bbox":"-98.3709083194,20.5810711141,-98.3594202722,20.5872184106",
     "geom:latitude":20.584476,
     "geom:longitude":-98.36475,
-    "geonames:id":"3515719,3824443",
+    "gn:id":"3515719,3824443",
     "iso:country":"MX",
     "lbl:latitude":20.584543,
     "lbl:longitude":-98.364664,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.584543,
     "mps:longitude":-98.364664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Texcatepec"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101998763,
-    "wof:lastmodified":1563397059,
+    "wof:lastmodified":1566632220,
     "wof:name":"Texcatepec",
     "wof:parent_id":102077751,
     "wof:placetype":"locality",

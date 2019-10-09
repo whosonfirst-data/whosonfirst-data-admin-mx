@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.726319,
     "lbl:longitude":-89.160204,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.726319,
     "mps:longitude":-89.160204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Huh\u00ed"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,6 @@
         "fct:id":"01aeb08e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526924,
         "gp:id":125187,
-        "qs:id":169344,
         "qs_pg:id":169344,
         "wd:id":"Q2588050"
     },
@@ -116,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369845,
+    "wof:lastmodified":1566615753,
     "wof:name":"Huh\u00ed",
     "wof:parent_id":102079047,
     "wof:placetype":"locality",

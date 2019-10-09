@@ -11,8 +11,10 @@
     "geom:longitude":-96.11795,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.12295,18.078408,-96.11295,18.088408",
     "lbl:latitude":18.083408,
     "lbl:longitude":-96.11795,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.083201,
     "mps:longitude":-96.120088,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "San Juan Bautista Tuxtepec Centro"
-    ],
-    "name:unk_x_variant":[
         "San Juan Bautista Tuxtepec Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686623,
         102191575,
@@ -71,8 +70,10 @@
     "wof:concordances":{
         "gn:id":3518791,
         "gp:id":55893043,
-        "qs:id":1343893,
         "qs_pg:id":1017088
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1343893
     },
     "wof:country":"MX",
     "wof:geomhash":"69b23def6f2fbd5461bca47778d4b784",
@@ -90,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619595,
     "wof:name":"San Juan Bautista Tuxtepec Centro",
     "wof:parent_id":101995405,
     "wof:placetype":"neighbourhood",

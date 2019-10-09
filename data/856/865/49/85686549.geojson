@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":29.746093,
     "lbl:longitude":-110.573384,
+    "lbl:min_zoom":8.0,
     "mps:latitude":29.746093,
     "mps:longitude":-110.573384,
     "mz:hierarchy_label":1,
@@ -306,7 +307,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "altar, sonora"
     ],
     "name:urd_x_preferred":[
@@ -397,9 +398,9 @@
     "qs:source":"Mexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-31",
+    "src:population_date":"2010-05-31",
     "statoids:area_km":"182,052",
     "statoids:area_mi":"70,291",
     "statoids:as_of_date":"2010-05-31",
@@ -444,11 +445,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563375321,
+    "wof:lastmodified":1566619541,
     "wof:name":"Sonora",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2662480,
     "wof:population_rank":12,

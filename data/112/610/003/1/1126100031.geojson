@@ -9,16 +9,19 @@
     "geom:bbox":"-106.077,31.11873,-106.077,31.11873",
     "geom:latitude":31.11873,
     "geom:longitude":-106.077,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-106.082,31.11373,-106.072,31.12373",
     "lbl:latitude":31.11873,
     "lbl:longitude":-106.077,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rancho Naranjo"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55888644,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Chihuahua",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686581,
         102191575,
         85633293,
-        102075241,
-        85686581
+        102075241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126100031,
-    "wof:lastmodified":1509412071,
+    "wof:lastmodified":1566633945,
     "wof:name":"Rancho Anapra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

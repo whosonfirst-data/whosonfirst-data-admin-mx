@@ -11,8 +11,10 @@
     "geom:longitude":-108.977509,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-108.982509,25.79551,-108.972509,25.80551",
     "lbl:latitude":25.80051,
     "lbl:longitude":-108.977509,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.801203,
     "mps:longitude":-108.975956,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "El Parque"
-    ],
-    "name:unk_x_variant":[
         "El Parque"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686535,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900318,
-        "qs:id":1111511,
         "qs_pg:id":1111511
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619628,
     "wof:name":"El Parque",
     "wof:parent_id":101993793,
     "wof:placetype":"neighbourhood",

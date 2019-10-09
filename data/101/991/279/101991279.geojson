@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.474837,
     "lbl:longitude":-100.97766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.474837,
     "mps:longitude":-100.97766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zir\u00e1ndaro de los Ch\u00e1vez"
     ],
@@ -28,7 +31,7 @@
     "name:spa_x_preferred":[
         "Zir\u00e1ndaro de los Ch\u00e1vez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zirandara"
     ],
     "qs:a0":"Mexico",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191575,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101991279,
-    "wof:lastmodified":1561750543,
+    "wof:lastmodified":1566632333,
     "wof:name":"Zir\u00e1ndaro de los Ch\u00e1vez",
     "wof:parent_id":102073921,
     "wof:placetype":"locality",

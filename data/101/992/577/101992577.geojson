@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2539576.426422,
+    "geom:area_square_m":2539576.426423,
     "geom:bbox":"-99.9400510037,19.7708326974,-99.9181311439,19.7913192061",
     "geom:latitude":19.781604,
     "geom:longitude":-99.928962,
     "iso:country":"MX",
     "lbl:latitude":19.78143,
     "lbl:longitude":-99.928961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.78143,
     "mps:longitude":-99.928961,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900367
     },
     "wof:country":"MX",
-    "wof:geomhash":"b25d55fcca9dd86cf83fe07a9a232eb7",
+    "wof:geomhash":"d6be20c39dd4a6dc69810b17e5fa2578",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992577,
-    "wof:lastmodified":1479931145,
+    "wof:lastmodified":1566632742,
     "wof:name":"Santa Mar\u00eda Citendeje",
     "wof:parent_id":102074125,
     "wof:placetype":"locality",

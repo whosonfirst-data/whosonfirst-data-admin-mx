@@ -11,8 +11,10 @@
     "geom:longitude":-104.89185,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.89685,21.505213,-104.88685,21.515213",
     "lbl:latitude":21.510213,
     "lbl:longitude":-104.89185,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.51389,
     "mps:longitude":-104.886714,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Acayapan"
-    ],
-    "name:unk_x_variant":[
         "Acayapan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686591,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900449,
-        "qs:id":1342239,
         "qs_pg:id":1342239
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619629,
     "wof:name":"Acayapan",
     "wof:parent_id":101996983,
     "wof:placetype":"neighbourhood",

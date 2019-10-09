@@ -9,15 +9,18 @@
     "geom:bbox":"-116.69256,31.89329,-116.69256,31.89329",
     "geom:latitude":31.89329,
     "geom:longitude":-116.69256,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9085,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":9085,
     "iso:country":"MX",
+    "lbl:bbox":"-116.71256,31.87329,-116.67256,31.91329",
     "lbl:latitude":31.89329,
     "lbl:longitude":-116.69256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0633\u0627\u0648\u062b\u0627\u0644"
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0421\u0430\u0443\u0441\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Suazal"
     ],
     "name:uzb_x_preferred":[
@@ -118,7 +121,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":122491,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1126012475,
-    "wof:lastmodified":1564173838,
+    "wof:lastmodified":1566634190,
     "wof:name":"El Sauzal",
     "wof:parent_id":102074509,
     "wof:placetype":"locality",

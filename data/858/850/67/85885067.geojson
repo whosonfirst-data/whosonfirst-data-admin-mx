@@ -12,8 +12,10 @@
     "gn:id":"",
     "gn:population":33196,
     "iso:country":"MX",
+    "lbl:bbox":"-99.346125,19.903801,-99.336125,19.913801",
     "lbl:latitude":19.908801,
     "lbl:longitude":-99.341125,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.908801,
     "mps:longitude":-99.341125,
     "mz:hierarchy_label":0,
@@ -38,9 +40,8 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0435\u043f\u0435\u0445\u0438 \u0434\u0435\u043b \u0420\u0438\u043e \u0434\u0435 \u041e\u043a\u0430\u043c\u043f\u043e"
     ],
-    "name:unk_x_variant":[
-        "Tepeji del R\u00edo",
-        "Tepeji Del Rio de Ocampo"
+    "name:und_x_variant":[
+        "Tepeji del R\u00edo"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -71,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85686665,
@@ -85,7 +86,6 @@
         "fct:id":"01d179de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515887,
         "gp:id":55913689,
-        "qs:id":65330,
         "qs_pg:id":65330,
         "wd:id":"Q2450298",
         "wk:page":"Tepeji"
@@ -106,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375401,
+    "wof:lastmodified":1566619592,
     "wof:name":"Tepeji Del Rio de Ocampo",
     "wof:parent_id":102000241,
     "wof:placetype":"neighbourhood",

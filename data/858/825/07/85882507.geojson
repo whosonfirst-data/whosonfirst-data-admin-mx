@@ -11,8 +11,10 @@
     "geom:longitude":-102.255535,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.260535,21.880266,-102.250535,21.890266",
     "lbl:latitude":21.885266,
     "lbl:longitude":-102.255535,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.887855,
     "mps:longitude":-102.25489,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Fidel Velazquez"
-    ],
-    "name:unk_x_variant":[
         "Fracc Fidel Velazquez"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686637,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882738,
-        "qs:id":1340080,
         "qs_pg:id":1340080
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957708,
+    "wof:lastmodified":1566619668,
     "wof:name":"Fracc Fidel Velazquez",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

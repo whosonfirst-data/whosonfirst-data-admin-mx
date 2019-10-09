@@ -11,8 +11,10 @@
     "geom:longitude":-101.24573,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.25073,20.997923,-101.24073,21.007923",
     "lbl:latitude":21.002923,
     "lbl:longitude":-101.24573,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.007029,
     "mps:longitude":-101.237064,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Viol\u00ed de bufa"
     ],
     "name:spa_x_preferred":[
-        "Bufa"
-    ],
-    "name:unk_x_variant":[
         "Bufa"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55901718,
-        "qs:id":475411,
         "qs_pg:id":475411
     },
     "wof:country":"MX",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957719,
+    "wof:lastmodified":1566619566,
     "wof:name":"Bufa",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

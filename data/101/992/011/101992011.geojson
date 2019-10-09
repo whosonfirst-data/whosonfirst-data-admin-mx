@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":1499808.622552,
+    "geom:area_square_m":1499808.622547,
     "geom:bbox":"-99.5707488579,19.4743237586,-99.5523589872,19.5002565121",
     "geom:latitude":19.487429,
     "geom:longitude":-99.562295,
     "iso:country":"MX",
     "lbl:latitude":19.486696,
     "lbl:longitude":-99.562153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.486696,
     "mps:longitude":-99.562153,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gn:id":3518020
     },
     "wof:country":"MX",
-    "wof:geomhash":"6f4a957c22dd0bb2a00e9459869d8613",
+    "wof:geomhash":"bc826990e0f62b73802708cae499b517",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992011,
-    "wof:lastmodified":1479930376,
+    "wof:lastmodified":1566632719,
     "wof:name":"San Pedro Arriba",
     "wof:parent_id":102074047,
     "wof:placetype":"locality",

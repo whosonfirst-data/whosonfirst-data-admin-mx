@@ -25,8 +25,12 @@
     "gn:population":61,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-100.62194,23.60611,-100.58194,23.64611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:abk_x_preferred":[
         "\u041b\u043e\u0441-\u0410\u043d\u045f\u044c\u0435\u043b\u0435\u0441"
     ],
@@ -577,8 +581,7 @@
         "\u041b\u043e\u0441-\u0410\u043d\u0434\u0436\u0435\u043b\u0435\u0441"
     ],
     "name:und_x_variant":[
-        "Angeles",
-        "Los \u00c1ngeles"
+        "Angeles"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u0627\u06cc\u0646\u062c\u0644\u0633"
@@ -643,7 +646,7 @@
         }
     ],
     "wof:id":1343717357,
-    "wof:lastmodified":1564144115,
+    "wof:lastmodified":1566617939,
     "wof:name":"Los Angeles",
     "wof:parent_id":102077211,
     "wof:placetype":"locality",

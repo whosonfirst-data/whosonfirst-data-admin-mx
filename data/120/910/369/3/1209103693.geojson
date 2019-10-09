@@ -24,8 +24,12 @@
     "gn:population":13,
     "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-107.53242,27.67297,-107.49242,27.71297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8913300
     },
     "wof:country":"MX",
-    "wof:geomhash":"9e79a1e4060a2d25c4e6442977e4c346",
+    "wof:geomhash":"6a5d0084b4ef52bb574d424e6c974ec5",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209103693,
-    "wof:lastmodified":1536297648,
+    "wof:lastmodified":1566627447,
     "wof:name":"Choreachi",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -107.51242,
-    27.692970000000006,
+    27.69297000000001,
     -107.51242,
-    27.692970000000006
+    27.69297000000001
 ],
   "geometry": {"coordinates":[-107.51242000000001,27.69297000000001],"type":"Point"}
 }

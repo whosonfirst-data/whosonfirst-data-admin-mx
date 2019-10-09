@@ -11,8 +11,10 @@
     "geom:longitude":-106.423896,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.428896,23.200807,-106.418896,23.210807",
     "lbl:latitude":23.205807,
     "lbl:longitude":-106.423896,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.207697,
     "mps:longitude":-106.424709,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:swe_x_preferred":[
         "Los Pinos"
     ],
-    "name:unk_x_variant":[
-        "Los Pinos"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3996322,
@@ -84,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686535,
         102191575,
@@ -95,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900119,
-        "qs:id":992274
+        "qs_pg:id":992274
     },
     "wof:country":"MX",
     "wof:geomhash":"66508483f876b0c58460668a1d5f8fb8",
@@ -113,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147251,
+    "wof:lastmodified":1566619628,
     "wof:name":"Los Pinos",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

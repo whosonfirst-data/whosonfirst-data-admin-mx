@@ -9,15 +9,17 @@
     "geom:bbox":"-98.23333,19.17361,-98.23333,19.17361",
     "geom:latitude":19.17361,
     "geom:longitude":-98.23333,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11094,
-    "gn:population":12255,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":11094,
     "iso:country":"MX",
+    "lbl:bbox":"-98.23833,19.16861,-98.22833,19.17861",
     "lbl:latitude":19.17361,
     "lbl:longitude":-98.23333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Santo Toribio Xicotzinco"
@@ -25,7 +27,7 @@
     "name:spa_x_variant":[
         "Santo Toribio Xicohtzinco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santo Toribio Xicohtzingo"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,18 +47,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55907546,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686653,
         102191575,
         85633293,
         101998983,
-        102077889,
-        85686653
+        102077889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1126103729,
-    "wof:lastmodified":1509412258,
+    "wof:lastmodified":1566633960,
     "wof:name":"Xicotenco",
     "wof:parent_id":101998983,
     "wof:placetype":"neighbourhood",

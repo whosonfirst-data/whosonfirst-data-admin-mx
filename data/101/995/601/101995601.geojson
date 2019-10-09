@@ -9,14 +9,17 @@
     "geom:bbox":"-96.5713390922,17.3180118361,-96.5652516676,17.3259487558",
     "geom:latitude":17.321875,
     "geom:longitude":-96.568436,
-    "geonames:id":"3523216,3762741",
+    "gn:id":"3523216,3762741",
     "iso:country":"MX",
     "lbl:latitude":17.321539,
     "lbl:longitude":-96.568735,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.321539,
     "mps:longitude":-96.568735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Miguel del R\u00edo"
     ],
@@ -77,7 +80,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101995601,
-    "wof:lastmodified":1563397901,
+    "wof:lastmodified":1566632653,
     "wof:name":"San Miguel del R\u00edo",
     "wof:parent_id":102075973,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":28.837868,
     "lbl:longitude":-105.923719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.837868,
     "mps:longitude":-105.923719,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09be\u09a8 \u0986\u09b2\u09a6\u09be\u09ae\u09be"
     ],
@@ -55,9 +58,6 @@
     "name:srp_x_preferred":[
         "\u0425\u0443\u0430\u043d \u0410\u043b\u0434\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "San Jer\u00f3nimo de Aldama"
-    ],
     "name:vie_x_preferred":[
         "Aldama"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":223,
     "wof:belongsto":[
         102191575,
@@ -91,7 +91,6 @@
         "fct:id":"01b7d3b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4018831,
         "gp:id":111811,
-        "qs:id":240782,
         "qs_pg:id":240782,
         "wd:id":"Q2450385",
         "wk:page":"Juan Aldama, Chihuahua"
@@ -111,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398290,
+    "wof:lastmodified":1566632860,
     "wof:name":"Juan Aldama",
     "wof:parent_id":102075269,
     "wof:placetype":"locality",

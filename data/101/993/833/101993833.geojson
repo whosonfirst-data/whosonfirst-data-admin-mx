@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":788789.292579,
+    "geom:area_square_m":788789.292578,
     "geom:bbox":"-110.024965398,27.4276207104,-110.014591297,27.4366266917",
     "geom:latitude":27.432444,
     "geom:longitude":-110.018797,
     "iso:country":"MX",
     "lbl:latitude":27.432994,
     "lbl:longitude":-110.01818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.432994,
     "mps:longitude":-110.01818,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sonora",
     "qs:a1_lc":"26",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891086
     },
     "wof:country":"MX",
-    "wof:geomhash":"e2625da6279dd37f37b0fc403310d6ce",
+    "wof:geomhash":"1ce5b1594100a6b03cba8b0e4fded807",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993833,
-    "wof:lastmodified":1479930069,
+    "wof:lastmodified":1566632773,
     "wof:name":"Cuauht\u00e9moc (Campo Cinco)",
     "wof:parent_id":102074417,
     "wof:placetype":"locality",

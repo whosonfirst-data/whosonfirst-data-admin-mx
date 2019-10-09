@@ -11,8 +11,10 @@
     "geom:longitude":-100.964349,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.969349,25.410856,-100.959349,25.420856",
     "lbl:latitude":25.415856,
     "lbl:longitude":-100.964349,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.417203,
     "mps:longitude":-100.967257,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:swe_x_preferred":[
         "Candelaria"
     ],
-    "name:unk_x_variant":[
-        "Candelaria"
-    ],
     "name:vie_x_preferred":[
         "Candelaria"
     ],
@@ -113,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686689,
         102191575,
@@ -124,7 +123,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897520,
-        "qs:id":61420,
         "qs_pg:id":61420
     },
     "wof:country":"MX",
@@ -143,7 +141,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147343,
+    "wof:lastmodified":1566619688,
     "wof:name":"Candelaria",
     "wof:parent_id":102000871,
     "wof:placetype":"neighbourhood",

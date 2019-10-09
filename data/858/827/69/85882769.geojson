@@ -10,8 +10,10 @@
     "geom:latitude":19.317451,
     "geom:longitude":-98.891998,
     "iso:country":"MX",
+    "lbl:bbox":"-98.896998,19.312451,-98.886998,19.322451",
     "lbl:latitude":19.317451,
     "lbl:longitude":-98.891998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.315679,
     "mps:longitude":-98.891373,
     "mz:hierarchy_label":0,
@@ -131,9 +133,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Santa Barbara"
-    ],
     "name:vol_x_preferred":[
         "Santa B\u00e1rbara"
     ],
@@ -169,7 +168,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -181,7 +180,6 @@
     "wof:concordances":{
         "gn:id":3817737,
         "gp:id":55886403,
-        "qs:id":226281,
         "qs_pg:id":226281
     },
     "wof:country":"MX",
@@ -200,7 +198,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147132,
+    "wof:lastmodified":1566619544,
     "wof:name":"Santa Barbara",
     "wof:parent_id":101992665,
     "wof:placetype":"neighbourhood",

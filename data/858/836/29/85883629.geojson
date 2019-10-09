@@ -11,8 +11,10 @@
     "geom:longitude":-116.634083,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.639083,32.559176,-116.629083,32.569176",
     "lbl:latitude":32.564176,
     "lbl:longitude":-116.634083,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.56048,
     "mps:longitude":-116.636195,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Centro Urbano Valencia"
-    ],
-    "name:unk_x_variant":[
         "Centro Urbano Valencia"
     ],
     "qs:gn_adm0_cc":"US",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -68,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897311,
-        "qs:id":1341755
+        "qs_pg:id":1341755
     },
     "wof:country":"MX",
     "wof:geomhash":"3ccf1a5f60082690ff63a77443e1d927",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957715,
+    "wof:lastmodified":1566619686,
     "wof:name":"Centro Urbano Valencia",
     "wof:parent_id":101993543,
     "wof:placetype":"neighbourhood",

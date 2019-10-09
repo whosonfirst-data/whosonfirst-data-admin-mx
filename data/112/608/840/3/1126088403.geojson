@@ -9,16 +9,19 @@
     "geom:bbox":"-109.26445,27.63271,-109.26445,27.63271",
     "geom:latitude":27.63271,
     "geom:longitude":-109.26445,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-109.26945,27.62771,-109.25945,27.63771",
     "lbl:latitude":27.63271,
     "lbl:longitude":-109.26445,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rancho La Cobriza"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55885980,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Sonora",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686549,
         102191575,
         85633293,
-        102074361,
-        85686549
+        102074361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126088403,
-    "wof:lastmodified":1509411519,
+    "wof:lastmodified":1566634106,
     "wof:name":"La Cortina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

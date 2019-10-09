@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":1104883.290199,
+    "geom:area_square_m":1104883.290202,
     "geom:bbox":"-92.8452669059,16.0894555928,-92.8284654882,16.1016228078",
     "geom:latitude":16.095257,
     "geom:longitude":-92.833798,
     "iso:country":"MX",
     "lbl:latitude":16.095204,
     "lbl:longitude":-92.833797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.095204,
     "mps:longitude":-92.833797,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90278651
     },
     "wof:country":"MX",
-    "wof:geomhash":"372417dd263e4ff45def1f6bd093433c",
+    "wof:geomhash":"fad004e96388b06082eb0d293ca8e0c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994763,
-    "wof:lastmodified":1479904401,
+    "wof:lastmodified":1566632825,
     "wof:name":"El \u00c1mbar (El \u00c1mbar de Echeverr\u00eda)",
     "wof:parent_id":102075595,
     "wof:placetype":"locality",

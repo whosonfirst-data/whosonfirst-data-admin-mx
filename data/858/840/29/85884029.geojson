@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4719898.397171,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.323137,25.670115,-100.323137,25.670115",
     "geom:latitude":25.670115,
     "geom:longitude":-100.323137,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.328137,25.665115,-100.318137,25.675115",
     "lbl:latitude":25.670115,
     "lbl:longitude":-100.323137,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.670528,
     "mps:longitude":-100.327417,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "El Mirador Centro"
-    ],
-    "name:unk_x_variant":[
         "El Mirador Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,20 +57,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3814368,
         "gp:id":55905700,
-        "qs:id":475254,
         "qs_pg:id":139204
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":475254
     },
     "wof:country":"MX",
     "wof:geomhash":"70f33945050eec7c6796a368446adc6a",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874429,
+    "wof:lastmodified":1566619662,
     "wof:name":"El Mirador Centro",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

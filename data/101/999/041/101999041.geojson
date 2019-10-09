@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":4967374.730297,
+    "geom:area_square_m":4967374.730291,
     "geom:bbox":"-98.2286900621,19.3300214874,-98.1997064967,19.351594647",
     "geom:latitude":19.342031,
     "geom:longitude":-98.214635,
     "iso:country":"MX",
     "lbl:latitude":19.341357,
     "lbl:longitude":-98.214634,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.341357,
     "mps:longitude":-98.214634,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_colloquial":[
         "S Esteban Tizatlan",
         "S. Esteban Tizatlan",
@@ -44,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -56,7 +60,6 @@
         "fct:id":"01b6e72c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519455,
         "gp:id":142295,
-        "qs:id":1155911,
         "qs_pg:id":1155911
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497298471,
+    "wof:lastmodified":1566632522,
     "wof:name":"San Esteban Tizatl\u00e1n",
     "wof:parent_id":102077909,
     "wof:placetype":"locality",

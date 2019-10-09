@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":23.64749,
     "lbl:longitude":-100.644689,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":23.64749,
     "mps:longitude":-100.644689,
     "mz:hierarchy_label":1,
@@ -196,7 +198,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -209,7 +211,6 @@
         "fct:id":"01b8a940-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3996387,
         "gp:id":133169,
-        "qs:id":454367,
         "qs_pg:id":454367,
         "wd:id":"Q665723",
         "wk:page":"Matehuala"
@@ -229,7 +230,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397432,
+    "wof:lastmodified":1566632411,
     "wof:name":"Matehuala",
     "wof:parent_id":102077211,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.779787,
     "lbl:longitude":-103.780318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.779787,
     "mps:longitude":-103.780318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Chimaltit\u00e1n"
     ],
@@ -73,7 +76,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101997755,
-    "wof:lastmodified":1563397476,
+    "wof:lastmodified":1566632432,
     "wof:name":"Chimaltit\u00e1n",
     "wof:parent_id":102074619,
     "wof:placetype":"locality",

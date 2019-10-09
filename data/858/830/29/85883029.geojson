@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4624986.676493,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.983215,21.915587,-99.983215,21.915587",
     "geom:latitude":21.915587,
     "geom:longitude":-99.983215,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.988215,21.910587,-99.978215,21.920587",
     "lbl:latitude":21.915587,
     "lbl:longitude":-99.983215,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.916194,
     "mps:longitude":-99.981019,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Lic P Nieto"
-    ],
-    "name:unk_x_variant":[
         "Fracc Lic P Nieto"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996477,
-        102077203,
-        85686647
+        102077203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889258,
-        "qs:id":997081,
         "qs_pg:id":997081
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874201,
+    "wof:lastmodified":1566619700,
     "wof:name":"Fracc Lic P Nieto",
     "wof:parent_id":101996477,
     "wof:placetype":"neighbourhood",

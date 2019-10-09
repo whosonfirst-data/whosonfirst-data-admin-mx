@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.220477,
     "lbl:longitude":-99.660089,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.220477,
     "mps:longitude":-99.660089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Juan Tilapa"
     ],
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3827274,
         "gp:id":55903785,
-        "qs:id":73510,
+        "qs_pg:id":73510,
         "wd:id":"Q20144188"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101991677,
-    "wof:lastmodified":1563397287,
+    "wof:lastmodified":1566632338,
     "wof:name":"San Juan Tilapa",
     "wof:parent_id":102074009,
     "wof:placetype":"locality",

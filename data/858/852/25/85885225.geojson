@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4098190.47763,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.633807,16.738212,-92.633807,16.738212",
     "geom:latitude":16.738212,
     "geom:longitude":-92.633807,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.638807,16.733212,-92.628807,16.743212",
     "lbl:latitude":16.738212,
     "lbl:longitude":-92.633807,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.738211,
     "mps:longitude":-92.623377,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:spa_x_preferred":[
         "Barrio de Guadalupe",
         "San Luis Acatl\u00e1n"
-    ],
-    "name:unk_x_variant":[
-        "Barrio de Guadalupe"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994509,
-        102075763,
-        85686611
+        102075763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919314,
-        "qs:id":475978,
         "qs_pg:id":475978
     },
     "wof:country":"MX",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874754,
+    "wof:lastmodified":1566619716,
     "wof:name":"Barrio de Guadalupe",
     "wof:parent_id":101994509,
     "wof:placetype":"neighbourhood",

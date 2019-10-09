@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1419856.87735,
+    "geom:area_square_m":1419856.877351,
     "geom:bbox":"-98.9094876711,19.6602464983,-98.8943265888,19.6729475368",
     "geom:latitude":19.665827,
     "geom:longitude":-98.901797,
@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.666251,
     "lbl:longitude":-98.901942,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.666251,
     "mps:longitude":-98.901942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Atlatongo"
     ],
@@ -38,7 +41,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101991883,
-    "wof:lastmodified":1514485589,
+    "wof:lastmodified":1566632333,
     "wof:name":"Atlatongo",
     "wof:parent_id":102074039,
     "wof:placetype":"locality",

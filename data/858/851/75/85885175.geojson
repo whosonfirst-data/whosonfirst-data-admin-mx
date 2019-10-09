@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10602168.265394,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.133653,16.250808,-92.133653,16.250808",
     "geom:latitude":16.250808,
     "geom:longitude":-92.133653,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.138653,16.245808,-92.128653,16.255808",
     "lbl:latitude":16.250808,
     "lbl:longitude":-92.133653,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.250901,
     "mps:longitude":-92.132473,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Comitan de Dominguez Centro"
-    ],
-    "name:unk_x_variant":[
         "Comitan de Dominguez Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994647,
-        102075599,
-        85686611
+        102075599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55917876,
-        "qs:id":411958,
         "qs_pg:id":411958
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874739,
+    "wof:lastmodified":1566619611,
     "wof:name":"Comitan de Dominguez Centro",
     "wof:parent_id":101994647,
     "wof:placetype":"neighbourhood",

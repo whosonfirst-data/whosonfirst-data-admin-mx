@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4570107.864264,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.249205,19.017531,-98.249205,19.017531",
     "geom:latitude":19.017531,
     "geom:longitude":-98.249205,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.254205,19.012531,-98.244205,19.022531",
     "lbl:latitude":19.017531,
     "lbl:longitude":-98.249205,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.010582,
     "mps:longitude":-98.239871,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Conjunto Hab Villas de Atlixco"
-    ],
-    "name:unk_x_variant":[
         "Conjunto Hab Villas de Atlixco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999639,
-        102078237,
-        85686657
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895514,
-        "qs:id":1080203,
         "qs_pg:id":1080203
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874346,
+    "wof:lastmodified":1566619625,
     "wof:name":"Conjunto Hab Villas de Atlixco",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

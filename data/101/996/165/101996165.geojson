@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1538092.331938,
+    "geom:area_square_m":1538092.331936,
     "geom:bbox":"-97.5004302777,16.2838098819,-97.4833593266,16.2972788779",
     "geom:latitude":16.290819,
     "geom:longitude":-97.492835,
     "iso:country":"MX",
     "lbl:latitude":16.290832,
     "lbl:longitude":-97.494362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.290832,
     "mps:longitude":-97.494362,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Cruz Tepenixtlahuaca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tepenixtlahuaca"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101996165,
-    "wof:lastmodified":1501268832,
+    "wof:lastmodified":1566632394,
     "wof:name":"Santa Cruz Tepenixtlahuaca",
     "wof:parent_id":102076233,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":1123302.795282,
+    "geom:area_square_m":1123302.795284,
     "geom:bbox":"-93.5699795368,17.9602511801,-93.5602716768,17.9721314225",
     "geom:latitude":17.967091,
     "geom:longitude":-93.564894,
     "iso:country":"MX",
     "lbl:latitude":17.967627,
     "lbl:longitude":-93.565287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.967627,
     "mps:longitude":-93.565287,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889708
     },
     "wof:country":"MX",
-    "wof:geomhash":"40272f036393d2d85d98c4911e21c018",
+    "wof:geomhash":"3d798c7dd7f13d07884349a4f79d5b10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994889,
-    "wof:lastmodified":1479904397,
+    "wof:lastmodified":1566632838,
     "wof:name":"Poblado C-33 20 de Noviembre",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

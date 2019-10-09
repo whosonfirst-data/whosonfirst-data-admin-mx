@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5580473.455971,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.869652,19.684283,-98.869652,19.684283",
     "geom:latitude":19.684283,
     "geom:longitude":-98.869652,
     "iso:country":"MX",
+    "lbl:bbox":"-98.874652,19.679283,-98.864652,19.689283",
     "lbl:latitude":19.684283,
     "lbl:longitude":-98.869652,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.683807,
     "mps:longitude":-98.875081,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:spa_x_preferred":[
         "Puxtla"
     ],
-    "name:unk_x_variant":[
-        "Poxtla",
-        "Puxtla"
+    "name:und_x_variant":[
+        "Poxtla"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -57,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991889,
-        102074039,
-        85686527
+        102074039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3817627,
         "gp:id":55886363,
-        "qs:id":393535,
         "qs_pg:id":393535
     },
     "wof:country":"MX",
@@ -88,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874114,
+    "wof:lastmodified":1566619543,
     "wof:name":"Puxtla",
     "wof:parent_id":101991889,
     "wof:placetype":"neighbourhood",

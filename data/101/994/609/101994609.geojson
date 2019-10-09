@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":14.778495,
     "lbl:longitude":-92.177802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":14.778495,
     "mps:longitude":-92.177802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Frontera Hidalgo"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,6 @@
         "fct:id":"01b85044-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3527541,
         "gp:id":123792,
-        "qs:id":1224053,
         "qs_pg:id":1224053,
         "wd:id":"Q951899",
         "wk:page":"Frontera Hidalgo"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398368,
+    "wof:lastmodified":1566632895,
     "wof:name":"Frontera Hidalgo",
     "wof:parent_id":102075573,
     "wof:placetype":"locality",

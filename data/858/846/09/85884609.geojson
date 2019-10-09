@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4905723.434935,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.896376,19.261886,-98.896376,19.261886",
     "geom:latitude":19.261886,
     "geom:longitude":-98.896376,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.901376,19.256886,-98.891376,19.266886",
     "lbl:latitude":19.261886,
     "lbl:longitude":-98.896376,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.261887,
     "mps:longitude":-98.898926,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Chalco Centro"
-    ],
-    "name:unk_x_variant":[
         "Chalco Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992795,
-        102074173,
-        85686527
+        102074173
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904814,
-        "qs:id":1342792
+        "qs_pg:id":1342792
     },
     "wof:country":"MX",
     "wof:geomhash":"eee0800391d39571bddee714e57a9435",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874564,
+    "wof:lastmodified":1566619635,
     "wof:name":"Chalco Centro",
     "wof:parent_id":101992795,
     "wof:placetype":"neighbourhood",

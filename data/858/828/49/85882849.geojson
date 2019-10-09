@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":268536.852109,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.92349,19.527393,-96.92349,19.527393",
     "geom:latitude":19.527393,
     "geom:longitude":-96.92349,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.92849,19.522393,-96.91849,19.532393",
     "lbl:latitude":19.527393,
     "lbl:longitude":-96.92349,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.527436,
     "mps:longitude":-96.924217,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
         "El Empleado",
         "Coraz\u00f3n valiente"
     ],
-    "name:unk_x_variant":[
-        "El Empleado"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":899,
@@ -83,18 +82,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998437,
-        102077571,
-        85686671
+        102077571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887432,
-        "qs:id":243802,
         "qs_pg:id":243802
     },
     "wof:country":"MX",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874144,
+    "wof:lastmodified":1566619572,
     "wof:name":"El Empleado",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
-    "geom:area_square_m":1206446.354686,
+    "geom:area_square_m":1206446.354687,
     "geom:bbox":"-95.1278376771,18.2329313189,-95.1169688302,18.2539637055",
     "geom:latitude":18.243416,
     "geom:longitude":-95.122107,
     "iso:country":"MX",
     "lbl:latitude":18.24204,
     "lbl:longitude":-95.12256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.24204,
     "mps:longitude":-95.12256,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55911846
     },
     "wof:country":"MX",
-    "wof:geomhash":"203d43f073b557f492e032e1d73bad53",
+    "wof:geomhash":"982fc4d05c9f737ac4a8fa3741a06060",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998387,
-    "wof:lastmodified":1479907046,
+    "wof:lastmodified":1566632287,
     "wof:name":"Los Mangos",
     "wof:parent_id":102077539,
     "wof:placetype":"locality",

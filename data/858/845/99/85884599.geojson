@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5602346.227071,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.686197,25.256965,-99.686197,25.256965",
     "geom:latitude":25.256965,
     "geom:longitude":-99.686197,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.691197,25.251965,-99.681197,25.261965",
     "lbl:latitude":25.256965,
     "lbl:longitude":-99.686197,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.255361,
     "mps:longitude":-99.685398,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:spa_x_preferred":[
         "General Teran Centro",
         "H\u00e9ctor Ter\u00e1n Ter\u00e1n"
-    ],
-    "name:unk_x_variant":[
-        "General Teran Centro"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000739,
-        102078767,
-        85686681
+        102078767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904523,
-        "qs:id":63171,
         "qs_pg:id":63171
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874560,
+    "wof:lastmodified":1566619559,
     "wof:name":"General Teran Centro",
     "wof:parent_id":102000739,
     "wof:placetype":"neighbourhood",

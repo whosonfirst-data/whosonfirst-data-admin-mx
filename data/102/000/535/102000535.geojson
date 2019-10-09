@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.214374,
     "lbl:longitude":-99.063607,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.214374,
     "mps:longitude":-99.063607,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Juan Tepa"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3518617,
         "gp:id":55899037,
-        "qs:id":531845,
+        "qs_pg:id":531845,
         "wd:id":"Q20243946"
     },
     "wof:country":"MX",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102000535,
-    "wof:lastmodified":1563369646,
+    "wof:lastmodified":1566615659,
     "wof:name":"San Juan Tepa",
     "wof:parent_id":102078637,
     "wof:placetype":"locality",

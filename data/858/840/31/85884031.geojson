@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13336939.168766,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.267865,25.555725,-100.267865,25.555725",
     "geom:latitude":25.555725,
     "geom:longitude":-100.267865,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.272865,25.550725,-100.262865,25.560725",
     "lbl:latitude":25.555725,
     "lbl:longitude":-100.267865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.55941,
     "mps:longitude":-100.26504,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Valle Alto"
     ],
     "name:spa_x_preferred":[
-        "Valle Alto"
-    ],
-    "name:unk_x_variant":[
         "Valle Alto"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -83,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686681,
         102191575,
@@ -94,7 +93,6 @@
     "wof:concordances":{
         "gn:id":4022687,
         "gp:id":55899494,
-        "qs:id":12324,
         "qs_pg:id":12324,
         "wd:id":"Q7911856",
         "wk:page":"Valle Alto (Monterrey)"
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379382,
+    "wof:lastmodified":1566619663,
     "wof:name":"Valle Alto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

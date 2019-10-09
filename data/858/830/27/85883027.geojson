@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3429582.034157,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.961853,21.920115,-99.961853,21.920115",
     "geom:latitude":21.920115,
     "geom:longitude":-99.961853,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.966853,21.915115,-99.956853,21.925115",
     "lbl:latitude":21.920115,
     "lbl:longitude":-99.961853,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.920115,
     "mps:longitude":-99.961286,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Infonavit"
-    ],
-    "name:unk_x_variant":[
         "Infonavit"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
-        102077203,
-        85686647
+        102077203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889229,
-        "qs:id":33155,
         "qs_pg:id":33155
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874200,
+    "wof:lastmodified":1566619700,
     "wof:name":"Infonavit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000179,
-    "geom:area_square_m":2082940.090829,
+    "geom:area_square_m":2082940.090828,
     "geom:bbox":"-99.2056561181,20.109562789,-99.1867688172,20.1223460242",
     "geom:latitude":20.115965,
     "geom:longitude":-99.197133,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.115554,
     "lbl:longitude":-99.198258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.115554,
     "mps:longitude":-99.198258,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Teltip\u00e1n de Ju\u00e1rez"
     ],
@@ -35,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102000165,
-    "wof:lastmodified":1501268836,
+    "wof:lastmodified":1566615691,
     "wof:name":"Teltip\u00e1n de Ju\u00e1rez",
     "wof:parent_id":102078615,
     "wof:placetype":"locality",

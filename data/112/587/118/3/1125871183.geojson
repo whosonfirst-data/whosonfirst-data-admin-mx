@@ -9,15 +9,18 @@
     "geom:bbox":"-111.77685,25.26029,-111.77685,25.26029",
     "geom:latitude":25.26029,
     "geom:longitude":-111.77685,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8584,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":8584,
     "iso:country":"MX",
+    "lbl:bbox":"-111.79685,25.24029,-111.75685,25.28029",
     "lbl:latitude":25.26029,
     "lbl:longitude":-111.77685,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ciudad Insurgentes"
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Ciudad Insurgentes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ejido Insurgentes"
     ],
     "qs_pg:aaroncc":"MX",
@@ -56,7 +59,7 @@
     "qs_pg:qs_id":97067,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125871183,
-    "wof:lastmodified":1563400334,
+    "wof:lastmodified":1566634006,
     "wof:name":"Villa Insurgentes",
     "wof:parent_id":102074523,
     "wof:placetype":"locality",

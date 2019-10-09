@@ -9,19 +9,22 @@
     "geom:bbox":"-96.37432,19.37017,-96.37432,19.37017",
     "geom:latitude":19.37017,
     "geom:longitude":-96.37432,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-96.37932,19.36517,-96.36932,19.37517",
     "lbl:latitude":19.37017,
     "lbl:longitude":-96.37432,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Ciudad Cardel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cardel"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,17 +48,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55886591,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998163,
-        102077419,
-        85686671
+        102077419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126087743,
-    "wof:lastmodified":1509411485,
+    "wof:lastmodified":1566634121,
     "wof:name":"Jose Cardel",
     "wof:parent_id":101998163,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.654644,
     "lbl:longitude":-96.871105,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.654644,
     "mps:longitude":-96.871105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Naolinco"
     ],
@@ -35,9 +38,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u043e\u043b\u0438\u043d\u043a\u043e \u0434\u0435 \u0412\u0438\u043a\u0442\u043e\u0440\u0438\u0458\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Moalinco"
     ],
     "name:vie_x_preferred":[
         "Naolinco"
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -72,7 +72,6 @@
         "fct:id":"01b8b8f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522836,
         "gp:id":134313,
-        "qs:id":1050355,
         "qs_pg:id":1050355,
         "wd:id":"Q948343",
         "wk:page":"Naolinco"
@@ -92,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397063,
+    "wof:lastmodified":1566632223,
     "wof:name":"Naolinco de Victoria",
     "wof:parent_id":102077625,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4910978.39585,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.354374,19.08548,-102.354374,19.08548",
     "geom:latitude":19.08548,
     "geom:longitude":-102.354374,
     "gn:population":98422,
     "iso:country":"MX",
+    "lbl:bbox":"-102.359374,19.08048,-102.349374,19.09048",
     "lbl:latitude":19.08548,
     "lbl:longitude":-102.354374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.08548,
     "mps:longitude":-102.354126,
     "mz:hierarchy_label":0,
@@ -38,10 +40,6 @@
     ],
     "name:spa_x_variant":[
         "Apatzingan de la Constitucion"
-    ],
-    "name:unk_x_variant":[
-        "Apatzing\u00e1n",
-        "Apatzingan de la Constit Centro"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5e15\u6b3d\u7518"
@@ -143,20 +141,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997137,
-        102074917,
-        85686595
+        102074917
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4018400,
         "gp:id":55920964,
-        "qs:id":386049,
         "qs_pg:id":386049,
         "wd:id":"Q94758",
         "wk:page":"Apatzing\u00e1n"
@@ -177,7 +174,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874767,
+    "wof:lastmodified":1566619715,
     "wof:name":"Apatzingan de la Constit Centro",
     "wof:parent_id":101997137,
     "wof:placetype":"neighbourhood",

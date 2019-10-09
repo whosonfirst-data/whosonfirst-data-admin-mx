@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.373108,
     "lbl:longitude":-98.093081,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.373108,
     "mps:longitude":-98.093081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Tzompantepec"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Tzompantepec"
     ],
-    "name:unk_x_variant":[
-        "Tezonpantepec"
-    ],
     "name:vec_x_preferred":[
         "Tzompantepec"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -102,7 +102,6 @@
         "fct:id":"01b999fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514963,
         "gp:id":150320,
-        "qs:id":489544,
         "qs_pg:id":489544,
         "wd:id":"Q5484819",
         "wk:page":"Tzompantepec"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397672,
+    "wof:lastmodified":1566632533,
     "wof:name":"Tzompantepec",
     "wof:parent_id":102077897,
     "wof:placetype":"locality",

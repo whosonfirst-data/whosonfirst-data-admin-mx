@@ -11,8 +11,10 @@
     "geom:longitude":-117.000337,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-117.005337,32.503678,-116.995337,32.513678",
     "lbl:latitude":32.508678,
     "lbl:longitude":-117.000337,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.50904,
     "mps:longitude":-117.002047,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Campo de Golf"
-    ],
-    "name:unk_x_variant":[
         "Campo de Golf"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -68,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892866,
-        "qs:id":243908
+        "qs_pg:id":243908
     },
     "wof:country":"MX",
     "wof:geomhash":"b11eb7b56f29ea914545777925e42378",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619608,
     "wof:name":"Campo de Golf",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

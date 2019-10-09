@@ -9,14 +9,17 @@
     "geom:bbox":"-101.40166,20.24195,-101.40166,20.24195",
     "geom:latitude":20.24195,
     "geom:longitude":-101.40166,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-101.40666,20.23695,-101.39666,20.24695",
     "lbl:latitude":20.24195,
     "lbl:longitude":-101.40166,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "El Pilar"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55892319,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Guanajuato",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
-        102075113,
-        85686595
+        102075113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126072333,
-    "wof:lastmodified":1509410740,
+    "wof:lastmodified":1566634224,
     "wof:name":"El Pipila",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

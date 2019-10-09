@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":3391081.60132,
+    "geom:area_square_m":3391081.601327,
     "geom:bbox":"-98.7573308991,19.8437592417,-98.7364874632,19.8664357669",
     "geom:latitude":19.854468,
     "geom:longitude":-98.746098,
     "iso:country":"MX",
     "lbl:latitude":19.853576,
     "lbl:longitude":-98.746295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.853576,
     "mps:longitude":-98.746295,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Mar\u00eda Actipac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aticpan"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101992839,
-    "wof:lastmodified":1501267407,
+    "wof:lastmodified":1566632732,
     "wof:name":"Santa Mar\u00eda Aticpac",
     "wof:parent_id":102074195,
     "wof:placetype":"locality",

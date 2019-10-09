@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.206945,
     "lbl:longitude":-98.928651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.206945,
     "mps:longitude":-98.928651,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santa Catarina Ayotzingo"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "Santa Catarina Ayotzingo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayotzingo"
     ],
     "qs:a0":"Mexico",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3517673,
         "gp:id":145824,
-        "qs:id":1117335,
         "qs_pg:id":1117335,
         "wd:id":"Q20240334"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101992773,
-    "wof:lastmodified":1563398059,
+    "wof:lastmodified":1566632741,
     "wof:name":"Santa Catarina Ayotzingo",
     "wof:parent_id":102074173,
     "wof:placetype":"locality",

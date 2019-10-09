@@ -11,8 +11,10 @@
     "geom:longitude":-97.862778,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.867778,22.215887,-97.857778,22.225887",
     "lbl:latitude":22.220887,
     "lbl:longitude":-97.862778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.210421,
     "mps:longitude":-97.872757,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Cascajal"
-    ],
-    "name:unk_x_variant":[
         "Cascajal"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3531444,
         "gp:id":55896349,
-        "qs:id":243971,
         "qs_pg:id":243971
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619598,
     "wof:name":"Cascajal",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",

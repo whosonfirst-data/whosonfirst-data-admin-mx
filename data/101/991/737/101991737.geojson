@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.594448,
     "lbl:longitude":-98.907363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.594448,
     "mps:longitude":-98.907363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Tezoyuca"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -110,7 +113,6 @@
         "fct:id":"01b97fa0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3817731,
         "gp:id":149233,
-        "qs:id":1191902,
         "qs_pg:id":1191902,
         "wd:id":"Q3300440"
     },
@@ -129,7 +131,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397216,
+    "wof:lastmodified":1566632296,
     "wof:name":"Tezoyuca",
     "wof:parent_id":102074021,
     "wof:placetype":"locality",

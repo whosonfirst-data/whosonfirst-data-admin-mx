@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1734202.148698,
+    "geom:area_square_m":1734202.148703,
     "geom:bbox":"-93.7215098171,18.111431665,-93.7024164473,18.1320424151",
     "geom:latitude":18.120435,
     "geom:longitude":-93.709849,
     "iso:country":"MX",
     "lbl:latitude":18.12099,
     "lbl:longitude":-93.707492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.12099,
     "mps:longitude":-93.707492,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90277458
     },
     "wof:country":"MX",
-    "wof:geomhash":"74dc7ebe6ee8a40e9484b6ca968cffe2",
+    "wof:geomhash":"1981139f94ea59fb3e021046255971dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994827,
-    "wof:lastmodified":1479904397,
+    "wof:lastmodified":1566632835,
     "wof:name":"Poblado C-23 General Venustiano Carranza",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

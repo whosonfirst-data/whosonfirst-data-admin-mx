@@ -9,14 +9,17 @@
     "geom:bbox":"-114.9248,32.24928,-114.9248,32.24928",
     "geom:latitude":32.24928,
     "geom:longitude":-114.9248,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-114.9298,32.24428,-114.9198,32.25428",
     "lbl:latitude":32.24928,
     "lbl:longitude":-114.9248,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Independ\u00e8ncia"
@@ -60,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ejido Independencia"
     ],
     "qs_pg:aaroncc":"MX",
@@ -84,7 +87,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55882104,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Baja California",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1126099977,
-    "wof:lastmodified":1564173997,
+    "wof:lastmodified":1566634266,
     "wof:name":"Independencia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

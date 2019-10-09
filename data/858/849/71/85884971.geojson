@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5124421.657564,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.294118,19.552782,-99.294118,19.552782",
     "geom:latitude":19.552782,
     "geom:longitude":-99.294118,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.299118,19.547782,-99.289118,19.557782",
     "lbl:latitude":19.552782,
     "lbl:longitude":-99.294118,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.549732,
     "mps:longitude":-99.29163,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Condado Plaza Chiluca"
-    ],
-    "name:unk_x_variant":[
         "Condado Plaza Chiluca"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101993137,
-        102074201,
-        85686527
+        102074201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910448,
-        "qs:id":1294866
+        "qs_pg:id":1294866
     },
     "wof:country":"MX",
     "wof:geomhash":"9d87632a791635c1e8da73f50e90a1f5",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874679,
+    "wof:lastmodified":1566619654,
     "wof:name":"Condado Plaza Chiluca",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.855218,
     "lbl:longitude":-99.897503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.855218,
     "mps:longitude":-99.897503,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Pablo Tolim\u00e1n"
     ],
@@ -35,9 +38,6 @@
     "name:swe_x_preferred":[
         "San Pablo Tolim\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "San Pablo"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Quer\u00e9taro",
     "qs:a1_lc":"22",
@@ -53,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -66,7 +66,7 @@
         "fct:id":"01cdf3c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518118,
         "gp:id":55908877,
-        "qs:id":401757,
+        "qs_pg:id":401757,
         "wd:id":"Q20240470"
     },
     "wof:country":"MX",
@@ -84,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397429,
+    "wof:lastmodified":1566632410,
     "wof:name":"San Pablo Tolim\u00e1n",
     "wof:parent_id":102077101,
     "wof:placetype":"locality",

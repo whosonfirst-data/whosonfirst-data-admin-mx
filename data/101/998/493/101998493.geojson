@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.136443,
     "lbl:longitude":-96.956786,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.136443,
     "mps:longitude":-96.956786,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Felipe Carrillo"
     ],
@@ -31,7 +34,7 @@
     "name:spa_x_variant":[
         "Felipe Carrillo Puerto"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paso Largo"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -77,7 +80,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564171178,
+    "wof:lastmodified":1566632273,
     "wof:name":"Felipe Carrillo Puerto",
     "wof:parent_id":102077605,
     "wof:placetype":"locality",

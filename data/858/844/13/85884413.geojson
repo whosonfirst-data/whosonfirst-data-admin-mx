@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1179039.642493,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.258728,19.469181,-99.258728,19.469181",
     "geom:latitude":19.469181,
     "geom:longitude":-99.258728,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.263728,19.464181,-99.253728,19.474181",
     "lbl:latitude":19.469181,
     "lbl:longitude":-99.258728,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.464372,
     "mps:longitude":-99.260686,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "San Juan Totoltepec"
-    ],
-    "name:unk_x_variant":[
         "San Juan Totoltepec"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992499,
-        102074109,
-        85686527
+        102074109
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903685,
-        "qs:id":1342577
+        "qs_pg:id":1342577
     },
     "wof:country":"MX",
     "wof:geomhash":"7d482efba97697e5f089a21889866e61",
@@ -87,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874529,
+    "wof:lastmodified":1566619591,
     "wof:name":"San Juan Totoltepec",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",

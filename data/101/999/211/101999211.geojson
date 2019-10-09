@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":1272758.251663,
+    "geom:area_square_m":1272758.251659,
     "geom:bbox":"-98.2021994097,19.3237763909,-98.1861718625,19.3417180347",
     "geom:latitude":19.332233,
     "geom:longitude":-98.193807,
@@ -13,11 +13,14 @@
     "iso:country":"MX",
     "lbl:latitude":19.3325,
     "lbl:longitude":-98.193926,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.3325,
     "mps:longitude":-98.193926,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "San Pablo"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +38,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3518140,
         "gp:id":55910589,
-        "qs:id":873620,
+        "qs_pg:id":873620,
         "wd:id":"Q20224318"
     },
     "wof:country":"MX",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101999211,
-    "wof:lastmodified":1505338898,
+    "wof:lastmodified":1566632520,
     "wof:name":"Apetatitl\u00e1n",
     "wof:parent_id":102077977,
     "wof:placetype":"locality",

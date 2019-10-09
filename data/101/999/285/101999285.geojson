@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2898444.72275,
+    "geom:area_square_m":2898444.722761,
     "geom:bbox":"-97.4462076557,19.8249772564,-97.4206393955,19.8432444969",
     "geom:latitude":19.835235,
     "geom:longitude":-97.432303,
     "iso:country":"MX",
     "lbl:latitude":19.836645,
     "lbl:longitude":-97.43317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.836645,
     "mps:longitude":-97.43317,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889855
     },
     "wof:country":"MX",
-    "wof:geomhash":"4234c9384d38655e7606ba51c653b9cb",
+    "wof:geomhash":"f4af90e2d3703e40c25663e6fc953559",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999285,
-    "wof:lastmodified":1479907907,
+    "wof:lastmodified":1566632566,
     "wof:name":"Tacopan",
     "wof:parent_id":102078031,
     "wof:placetype":"locality",

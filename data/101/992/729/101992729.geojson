@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":630170.418823,
+    "geom:area_square_m":630170.418826,
     "geom:bbox":"-99.2044021204,19.8750653167,-99.1956740281,19.8876893398",
     "geom:latitude":19.882457,
     "geom:longitude":-99.200035,
     "iso:country":"MX",
     "lbl:latitude":19.882372,
     "lbl:longitude":-99.199738,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.882372,
     "mps:longitude":-99.199738,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Eldorado"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101992729,
-    "wof:lastmodified":1504309904,
+    "wof:lastmodified":1566632743,
     "wof:name":"El Dorado Huehuetoca",
     "wof:parent_id":102074151,
     "wof:placetype":"locality",

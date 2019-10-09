@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.351144,
     "lbl:longitude":-98.167621,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.351144,
     "mps:longitude":-98.167621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Amaxac de Guerrero"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "Amaxac de Guerrero"
     ],
-    "name:unk_x_variant":[
-        "Amaxac"
-    ],
     "name:vec_x_preferred":[
         "Amaxac de Guerrero"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -106,7 +106,6 @@
         "fct:id":"01b8f738-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519622,
         "gp:id":141992,
-        "qs:id":1191553,
         "qs_pg:id":1191553,
         "wd:id":"Q4740701"
     },
@@ -125,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397730,
+    "wof:lastmodified":1566632568,
     "wof:name":"Amaxac de Guerrero",
     "wof:parent_id":102078653,
     "wof:placetype":"locality",

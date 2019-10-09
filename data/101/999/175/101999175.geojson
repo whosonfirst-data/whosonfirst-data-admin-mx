@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.355356,
     "lbl:longitude":-98.097688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.355356,
     "mps:longitude":-98.097688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Cuaxomulco"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "Cuaxomulco"
     ],
-    "name:unk_x_variant":[
-        "Cuaxolmulco"
-    ],
     "name:vie_x_preferred":[
         "Cuaxomulco"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -92,7 +92,6 @@
         "fct:id":"01b8f530-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519726,
         "gp:id":141786,
-        "qs:id":1013228,
         "qs_pg:id":1013228,
         "wd:id":"Q5191900",
         "wk:page":"Cuaxomulco (municipality)"
@@ -112,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397693,
+    "wof:lastmodified":1566632546,
     "wof:name":"Cuaxomulco",
     "wof:parent_id":102077961,
     "wof:placetype":"locality",

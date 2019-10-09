@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00048,
-    "geom:area_square_m":5600940.14757,
+    "geom:area_square_m":5600940.147581,
     "geom:bbox":"-98.0641841318,19.3758868611,-98.0263202744,19.4150248099",
     "geom:latitude":19.393739,
     "geom:longitude":-98.042506,
     "iso:country":"MX",
     "lbl:latitude":19.39181,
     "lbl:longitude":-98.048537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.39181,
     "mps:longitude":-98.048537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "San Pedro Tlacotepec"
     ],
     "name:spa_x_preferred":[
         "San Pedro Tlacotepec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tlacotepec"
     ],
     "qs:a0":"Mexico",
@@ -40,7 +43,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101999001,
-    "wof:lastmodified":1514488986,
+    "wof:lastmodified":1566632538,
     "wof:name":"San Pedro Tlacotepec",
     "wof:parent_id":102077895,
     "wof:placetype":"locality",

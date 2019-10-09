@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":463158.907613,
+    "geom:area_square_m":463158.90761,
     "geom:bbox":"-102.6929161,20.0687283759,-102.678870394,20.0739948885",
     "geom:latitude":20.071304,
     "geom:longitude":-102.686418,
     "iso:country":"MX",
     "lbl:latitude":20.07161,
     "lbl:longitude":-102.687483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.07161,
     "mps:longitude":-102.687483,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":141124
     },
     "wof:country":"MX",
-    "wof:geomhash":"1e176527007f8181944e381974b86f15",
+    "wof:geomhash":"1c4ee5682c2737148132c7f9e4f9e42d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997493,
-    "wof:lastmodified":1479904124,
+    "wof:lastmodified":1566632491,
     "wof:name":"Fraccionamiento San Miguel",
     "wof:parent_id":102075083,
     "wof:placetype":"locality",

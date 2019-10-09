@@ -9,14 +9,17 @@
     "geom:bbox":"-105.20745,29.03464,-105.20745,29.03464",
     "geom:latitude":29.03464,
     "geom:longitude":-105.20745,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-105.21245,29.02964,-105.20245,29.03964",
     "lbl:latitude":29.03464,
     "lbl:longitude":-105.20745,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Santo Domingo"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":56068448,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Chihuahua",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686581,
         102191575,
         85633293,
-        102075269,
-        85686581
+        102075269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126076905,
-    "wof:lastmodified":1509410958,
+    "wof:lastmodified":1566634247,
     "wof:name":"Fracc Santo Domingo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

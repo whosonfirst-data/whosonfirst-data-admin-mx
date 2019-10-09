@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.967554,
     "lbl:longitude":-93.451721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.967554,
     "mps:longitude":-93.451721,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Germans Pinz\u00f3n"
     ],
@@ -48,7 +52,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         "gp:id":55919909
     },
     "wof:country":"MX",
-    "wof:geomhash":"dc02e864daf7384ab302ee7e38755322",
+    "wof:geomhash":"cba0be87b7dcc3941f8ae7831e48a9f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101994947,
-    "wof:lastmodified":1479904074,
+    "wof:lastmodified":1566632864,
     "wof:name":"C-31 (General Francisco Villa)",
     "wof:parent_id":102075769,
     "wof:placetype":"locality",

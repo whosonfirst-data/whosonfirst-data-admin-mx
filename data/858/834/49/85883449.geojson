@@ -11,8 +11,10 @@
     "geom:longitude":-116.923054,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.928054,32.457535,-116.918054,32.467535",
     "lbl:latitude":32.462535,
     "lbl:longitude":-116.923054,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.461084,
     "mps:longitude":-116.926477,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:spa_x_preferred":[
         "Los Venados",
         "Carr\u00e1n-Los Venados"
-    ],
-    "name:unk_x_variant":[
-        "Los Venados"
     ],
     "name:zho_x_preferred":[
         "\u5361\u862d-\u6d1b\u65af\u97cb\u7d0d\u591a\u65af\u706b\u5c71"
@@ -67,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -78,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895115,
-        "qs:id":775994
+        "qs_pg:id":775994
     },
     "wof:country":"MX",
     "wof:geomhash":"99c649324390de59d62fda3e3f0331b6",
@@ -96,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619626,
     "wof:name":"Los Venados",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

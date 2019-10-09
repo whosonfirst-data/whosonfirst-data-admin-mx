@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.772558,
     "lbl:longitude":-96.869087,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.772558,
     "mps:longitude":-96.869087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Cuichapa"
     ],
@@ -62,9 +65,6 @@
     "name:swe_x_preferred":[
         "Cuichapa"
     ],
-    "name:unk_x_variant":[
-        "Cinchapa"
-    ],
     "name:vec_x_preferred":[
         "Cuichapa"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +101,6 @@
         "fct:id":"01b2f784-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529918,
         "gp:id":26797910,
-        "qs:id":956635,
         "qs_pg:id":956635,
         "wd:id":"Q3847320"
     },
@@ -120,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397133,
+    "wof:lastmodified":1566632253,
     "wof:name":"Cuichapa",
     "wof:parent_id":102077497,
     "wof:placetype":"locality",

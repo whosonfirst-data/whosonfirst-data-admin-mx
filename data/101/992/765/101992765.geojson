@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000596,
-    "geom:area_square_m":6928055.116379,
+    "geom:area_square_m":6928055.11638,
     "geom:bbox":"-99.6241154234,19.8442840794,-99.5864170584,19.8736904472",
     "geom:latitude":19.857637,
     "geom:longitude":-99.605983,
     "iso:country":"MX",
     "lbl:latitude":19.858174,
     "lbl:longitude":-99.605699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.858174,
     "mps:longitude":-99.605699,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Coamango"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101992765,
-    "wof:lastmodified":1501267420,
+    "wof:lastmodified":1566632675,
     "wof:name":"San Felipe Coamango",
     "wof:parent_id":102074171,
     "wof:placetype":"locality",

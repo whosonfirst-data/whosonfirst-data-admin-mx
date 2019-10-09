@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7509258.827669,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.815092,16.789641,-99.815092,16.789641",
     "geom:latitude":16.789641,
     "geom:longitude":-99.815092,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.820092,16.784641,-99.810092,16.794641",
     "lbl:latitude":16.789641,
     "lbl:longitude":-99.815092,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.794242,
     "mps:longitude":-99.814925,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "El Pueblito Del Revolcadero"
-    ],
-    "name:unk_x_variant":[
         "El Pueblito Del Revolcadero"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
         101991509,
-        102073945,
-        85686517
+        102073945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892593,
-        "qs:id":1155292,
         "qs_pg:id":1155292
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874272,
+    "wof:lastmodified":1566619606,
     "wof:name":"El Pueblito Del Revolcadero",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.103952,
     "lbl:longitude":-89.661146,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.103952,
     "mps:longitude":-89.661146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Komch\u00e9n"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":359,
     "wof:belongsto":[
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3526275,
         "gp:id":126291,
-        "qs:id":494062,
         "qs_pg:id":494062,
         "wd:id":"Q1770500",
         "wk:page":"Komchen"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":102001357,
-    "wof:lastmodified":1563369827,
+    "wof:lastmodified":1566615744,
     "wof:name":"Komch\u00e9n",
     "wof:parent_id":102078971,
     "wof:placetype":"locality",

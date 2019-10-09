@@ -24,8 +24,12 @@
     "gn:population":42,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-101.26433,17.80512,-101.22433,17.84512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8893150
     },
     "wof:country":"MX",
-    "wof:geomhash":"2c4d1572279879d65ef461e61106e76e",
+    "wof:geomhash":"5f829875777ef9ee2042ed6cd5e1a364",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209501487,
-    "wof:lastmodified":1536285169,
+    "wof:lastmodified":1566626390,
     "wof:name":"El Capire",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -101.24433,
-    17.825120000000005,
+    17.82512000000001,
     -101.24433,
-    17.825120000000005
+    17.82512000000001
 ],
   "geometry": {"coordinates":[-101.24433000000001,17.82512000000001],"type":"Point"}
 }

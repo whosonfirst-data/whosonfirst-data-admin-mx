@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1371475.2287,
+    "geom:area_square_m":1371475.228696,
     "geom:bbox":"-96.2794583389,19.2001147298,-96.2667224392,19.214472873",
     "geom:latitude":19.208105,
     "geom:longitude":-96.272805,
     "iso:country":"MX",
     "lbl:latitude":19.208574,
     "lbl:longitude":-96.272036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.208574,
     "mps:longitude":-96.272036,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889071
     },
     "wof:country":"MX",
-    "wof:geomhash":"7b901f03d0118d4931fc6b12de5229fc",
+    "wof:geomhash":"860e149fab86906d6556a4e2c5ae7a6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998851,
-    "wof:lastmodified":1479907870,
+    "wof:lastmodified":1566632242,
     "wof:name":"Delfino Victoria (Santa Fe)",
     "wof:parent_id":102078669,
     "wof:placetype":"locality",

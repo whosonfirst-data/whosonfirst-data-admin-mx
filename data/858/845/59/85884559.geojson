@@ -11,8 +11,10 @@
     "geom:longitude":-103.350913,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.355913,20.654788,-103.345913,20.664788",
     "lbl:latitude":20.659788,
     "lbl:longitude":-103.350913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.65726,
     "mps:longitude":-103.354333,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Moderna Therapeutics"
     ],
     "name:spa_x_preferred":[
-        "Moderna"
-    ],
-    "name:unk_x_variant":[
         "Moderna"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904271,
-        "qs:id":475555,
         "qs_pg:id":475555
     },
     "wof:country":"MX",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147156,
+    "wof:lastmodified":1566619555,
     "wof:name":"Moderna",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

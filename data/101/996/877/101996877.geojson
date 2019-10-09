@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.958624,
     "lbl:longitude":-102.342395,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":21.958624,
     "mps:longitude":-102.342395,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0633\u0648\u0633 \u0645\u0627\u0631\u064a\u0627"
     ],
@@ -154,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":210,
     "wof:belongsto":[
@@ -168,10 +171,12 @@
         "fct:id":"01b8740c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4003996,
         "gp:id":125854,
-        "qs:id":1077327,
         "qs_pg:id":33707,
         "wd:id":"Q1150239",
         "wk:page":"Jes\u00fas Mar\u00eda, Aguascalientes"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077327
     },
     "wof:country":"MX",
     "wof:geomhash":"6b33d749603ff3d9ad3139839f8e2be3",
@@ -188,7 +193,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397416,
+    "wof:lastmodified":1566632403,
     "wof:name":"Jes\u00fas Mar\u00eda",
     "wof:parent_id":102077359,
     "wof:placetype":"locality",

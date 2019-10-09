@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.546786,
     "lbl:longitude":-102.053835,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.546786,
     "mps:longitude":-102.053835,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cap\u00e1cuaro"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":4015566,
         "gp:id":114713,
-        "qs:id":151458,
         "qs_pg:id":151458,
         "wd:id":"Q20275220"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101997059,
-    "wof:lastmodified":1563397597,
+    "wof:lastmodified":1566632494,
     "wof:name":"Cap\u00e1cuaro",
     "wof:parent_id":102074973,
     "wof:placetype":"locality",

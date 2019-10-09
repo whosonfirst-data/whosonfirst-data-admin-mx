@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.687522,
     "lbl:longitude":-101.260281,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.687522,
     "mps:longitude":-101.260281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Jos\u00e9 Temascat\u00edo"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Jos\u00e9 Temascat\u00edo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Temaxcatio"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3986082,
         "gp:id":143655,
-        "qs:id":1191568,
         "qs_pg:id":1191568,
         "wd:id":"Q20142914"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101996715,
-    "wof:lastmodified":1563397382,
+    "wof:lastmodified":1566632387,
     "wof:name":"San Jos\u00e9 Temascat\u00edo",
     "wof:parent_id":102077339,
     "wof:placetype":"locality",

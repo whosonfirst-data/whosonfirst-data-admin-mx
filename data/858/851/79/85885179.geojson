@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11813546.954465,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.267947,16.193851,-92.267947,16.193851",
     "geom:latitude":16.193851,
     "geom:longitude":-92.267947,
     "iso:country":"MX",
+    "lbl:bbox":"-92.272947,16.188851,-92.262947,16.198851",
     "lbl:latitude":16.193851,
     "lbl:longitude":-92.267947,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.193575,
     "mps:longitude":-92.269985,
     "mz:hierarchy_label":0,
@@ -29,9 +31,8 @@
     "name:spa_x_variant":[
         "Francisco Sarabia"
     ],
-    "name:unk_x_variant":[
-        "Francisco Saravia",
-        "Francisco Villa"
+    "name:und_x_variant":[
+        "Francisco Saravia"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -59,18 +60,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
-        102075661,
-        85686611
+        102075661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3816504,
         "gp:id":55918140,
-        "qs:id":1200369
+        "qs_pg:id":1200369
     },
     "wof:country":"MX",
     "wof:geomhash":"c3dadd4554c8bd36ea5e005fc4e8e567",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874740,
+    "wof:lastmodified":1566619613,
     "wof:name":"Francisco Villa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

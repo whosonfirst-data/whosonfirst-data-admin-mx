@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
-    "geom:area_square_m":351611.055823,
+    "geom:area_square_m":351611.055822,
     "geom:bbox":"-96.8899896921,19.4919981214,-96.8824374145,19.5002528346",
     "geom:latitude":19.495858,
     "geom:longitude":-96.887075,
     "iso:country":"MX",
     "lbl:latitude":19.495845,
     "lbl:longitude":-96.887134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.495845,
     "mps:longitude":-96.887134,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56074905
     },
     "wof:country":"MX",
-    "wof:geomhash":"4627fe5e62afdbcf234325fceda96632",
+    "wof:geomhash":"51e633f9a6203c2955bfbab9c6e17027",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998445,
-    "wof:lastmodified":1479907129,
+    "wof:lastmodified":1566632272,
     "wof:name":"Fraccionamiento las Fuentes",
     "wof:parent_id":102077571,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.386375,
     "lbl:longitude":-103.574557,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.386375,
     "mps:longitude":-103.574557,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Queser\u00eda"
     ],
@@ -26,7 +29,7 @@
     "name:swe_x_preferred":[
         "Queser\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Queser\u00eda"
     ],
     "name:vie_x_preferred":[
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":4000524,
         "gp:id":129042,
-        "qs:id":1047586,
+        "qs_pg:id":1047586,
         "wd:id":"Q20254984"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101996925,
-    "wof:lastmodified":1563397388,
+    "wof:lastmodified":1566632390,
     "wof:name":"Queser\u00eda",
     "wof:parent_id":102074547,
     "wof:placetype":"locality",

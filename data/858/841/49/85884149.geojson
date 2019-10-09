@@ -11,8 +11,10 @@
     "geom:longitude":-116.613462,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.618462,31.775326,-116.608462,31.785326",
     "lbl:latitude":31.780326,
     "lbl:longitude":-116.613462,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.784908,
     "mps:longitude":-116.611398,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Ejido Chapultepec"
-    ],
-    "name:unk_x_variant":[
         "Ejido Chapultepec"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900195,
-        "qs:id":1137741
+        "qs_pg:id":1137741
     },
     "wof:country":"MX",
     "wof:geomhash":"2b50e31c71d9c9e39b7bb4761a2e7aca",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957717,
+    "wof:lastmodified":1566619632,
     "wof:name":"Ejido Chapultepec",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1474651.745607,
+    "geom:area_square_m":1474651.745604,
     "geom:bbox":"-108.843609716,25.7534362018,-108.826784671,25.7743455582",
     "geom:latitude":25.76448,
     "geom:longitude":-108.835772,
     "iso:country":"MX",
     "lbl:latitude":25.76458,
     "lbl:longitude":-108.835644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.76458,
     "mps:longitude":-108.835644,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55899940
     },
     "wof:country":"MX",
-    "wof:geomhash":"b830f8a79b6150570bcb30610c8d63e9",
+    "wof:geomhash":"2804d6d43927ec43e4ad69d402fad200",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993775,
-    "wof:lastmodified":1479930416,
+    "wof:lastmodified":1566632814,
     "wof:name":"El Estero (Juan Jos\u00e9 R\u00edos)",
     "wof:parent_id":102074339,
     "wof:placetype":"locality",

@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
-    "geom:area_square_m":820654.817093,
+    "geom:area_square_m":820654.817092,
     "geom:bbox":"-100.892876322,20.6549765606,-100.881185499,20.6664387501",
     "geom:latitude":20.660057,
     "geom:longitude":-100.886351,
     "iso:country":"MX",
     "lbl:latitude":20.659754,
     "lbl:longitude":-100.885952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.659754,
     "mps:longitude":-100.885952,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Rinc\u00f3n del Centeno"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Cuadrilla de Centeno"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101996769,
-    "wof:lastmodified":1501269610,
+    "wof:lastmodified":1566632396,
     "wof:name":"Rinc\u00f3n de Centeno",
     "wof:parent_id":102077337,
     "wof:placetype":"locality",

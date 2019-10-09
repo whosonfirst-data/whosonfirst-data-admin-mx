@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.186701,
     "lbl:longitude":-99.380691,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":20.186701,
     "mps:longitude":-99.380691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tepetitl\u00e1n"
     ],
@@ -68,7 +71,7 @@
     "name:swe_x_preferred":[
         "Tepetitl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tepetitla"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -123,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369652,
+    "wof:lastmodified":1566615661,
     "wof:name":"Tepetitl\u00e1n",
     "wof:parent_id":102078631,
     "wof:placetype":"locality",

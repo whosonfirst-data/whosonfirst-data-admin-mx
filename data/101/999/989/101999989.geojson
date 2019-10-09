@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
-    "geom:area_square_m":3458340.18328,
+    "geom:area_square_m":3458340.183276,
     "geom:bbox":"-97.8291777781,18.8728917031,-97.7975540364,18.8928619398",
     "geom:latitude":18.884347,
     "geom:longitude":-97.814774,
     "iso:country":"MX",
     "lbl:latitude":18.88206,
     "lbl:longitude":-97.815052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.88206,
     "mps:longitude":-97.815052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Mart\u00edn Caltenco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caltenco"
     ],
     "qs:a0":"Mexico",
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101999989,
-    "wof:lastmodified":1504309873,
+    "wof:lastmodified":1566632584,
     "wof:name":"San Mart\u00edn Caltenco",
     "wof:parent_id":102078401,
     "wof:placetype":"locality",

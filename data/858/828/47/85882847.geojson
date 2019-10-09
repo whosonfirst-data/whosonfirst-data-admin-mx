@@ -10,8 +10,10 @@
     "geom:latitude":18.033587,
     "geom:longitude":-92.897644,
     "iso:country":"MX",
+    "lbl:bbox":"-92.902644,18.028587,-92.892644,18.038587",
     "lbl:latitude":18.033587,
     "lbl:longitude":-92.897644,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.033586,
     "mps:longitude":-92.897644,
     "mz:hierarchy_label":0,
@@ -44,9 +46,6 @@
     "name:swe_x_preferred":[
         "Lagunas"
     ],
-    "name:unk_x_variant":[
-        "Lagunas"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3514670,
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686617,
         102191575,
@@ -88,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3525683,
         "gp:id":55887307,
-        "qs:id":1002164,
         "qs_pg:id":1002164
     },
     "wof:country":"MX",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147177,
+    "wof:lastmodified":1566619572,
     "wof:name":"Lagunas",
     "wof:parent_id":101994837,
     "wof:placetype":"neighbourhood",

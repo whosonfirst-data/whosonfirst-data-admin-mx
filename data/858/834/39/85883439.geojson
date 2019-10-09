@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6876856.976042,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.948601,27.91141,-110.948601,27.91141",
     "geom:latitude":27.91141,
     "geom:longitude":-110.948601,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.953601,27.90641,-110.943601,27.91641",
     "lbl:latitude":27.91141,
     "lbl:longitude":-110.948601,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.911415,
     "mps:longitude":-110.94922,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
     "name:swe_x_preferred":[
         "Cant\u00f3n de Le\u00f3n Cort\u00e9s"
     ],
-    "name:unk_x_variant":[
-        "Lomas de Cortes"
-    ],
     "name:vie_x_preferred":[
         "Le\u00f3n Cort\u00e9s"
     ],
@@ -86,18 +85,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686549,
         102191575,
         85633293,
         101994013,
-        102074511,
-        85686549
+        102074511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894772,
-        "qs:id":474967,
         "qs_pg:id":474967
     },
     "wof:country":"MX",
@@ -116,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874331,
+    "wof:lastmodified":1566619624,
     "wof:name":"Lomas de Cortes",
     "wof:parent_id":101994013,
     "wof:placetype":"neighbourhood",

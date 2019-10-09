@@ -10,8 +10,10 @@
     "geom:latitude":18.900897,
     "geom:longitude":-97.967973,
     "iso:country":"MX",
+    "lbl:bbox":"-97.972973,18.895897,-97.962973,18.905897",
     "lbl:latitude":18.900897,
     "lbl:longitude":-97.967973,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.900812,
     "mps:longitude":-97.966263,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Analco"
-    ],
-    "name:unk_x_variant":[
         "Analco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686657,
         102191575,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3818687,
         "gp:id":55907559,
-        "qs:id":204893,
         "qs_pg:id":204893
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957723,
+    "wof:lastmodified":1566619656,
     "wof:name":"Analco",
     "wof:parent_id":101999819,
     "wof:placetype":"neighbourhood",

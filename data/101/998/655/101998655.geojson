@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
-    "geom:area_square_m":559521.625876,
+    "geom:area_square_m":559521.625871,
     "geom:bbox":"-95.1848012303,18.423988935,-95.1722139389,18.4320466909",
     "geom:latitude":18.428728,
     "geom:longitude":-95.178529,
     "iso:country":"MX",
     "lbl:latitude":18.428373,
     "lbl:longitude":-95.177912,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.428373,
     "mps:longitude":-95.177912,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55912788
     },
     "wof:country":"MX",
-    "wof:geomhash":"936d1d2d93dc6709daca083c281f11ad",
+    "wof:geomhash":"b7dd83881a446360d53534c368906f24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998655,
-    "wof:lastmodified":1479907045,
+    "wof:lastmodified":1566632273,
     "wof:name":"Caler\u00eda",
     "wof:parent_id":102077691,
     "wof:placetype":"locality",

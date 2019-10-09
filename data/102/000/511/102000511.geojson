@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000433,
-    "geom:area_square_m":5017888.816506,
+    "geom:area_square_m":5017888.816496,
     "geom:bbox":"-99.6927024226,20.3273109891,-99.6610201841,20.3540350151",
     "geom:latitude":20.339398,
     "geom:longitude":-99.674679,
@@ -14,10 +14,14 @@
     "iso:country":"MX",
     "lbl:latitude":20.339491,
     "lbl:longitude":-99.674687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.339491,
     "mps:longitude":-99.674687,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Atl\u00e1n"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":102000511,
-    "wof:lastmodified":1501267418,
+    "wof:lastmodified":1566615687,
     "wof:name":"San Jos\u00e9 Atl\u00e1n",
     "wof:parent_id":102078593,
     "wof:placetype":"locality",

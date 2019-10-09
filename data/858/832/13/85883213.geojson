@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10441501.812418,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.398744,25.583927,-103.398744,25.583927",
     "geom:latitude":25.583927,
     "geom:longitude":-103.398744,
     "iso:country":"MX",
+    "lbl:bbox":"-103.403744,25.578927,-103.393744,25.588927",
     "lbl:latitude":25.583927,
     "lbl:longitude":-103.398744,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.583127,
     "mps:longitude":-103.398333,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "Ignacio Allende"
-    ],
-    "name:unk_x_variant":[
-        "Ejido Ignacio Allende"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
         102000853,
-        102078789,
-        85686689
+        102078789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4004429,
         "gp:id":55892123,
-        "qs:id":73070,
         "qs_pg:id":73070
     },
     "wof:country":"MX",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874259,
+    "wof:lastmodified":1566619608,
     "wof:name":"Ejido Ignacio Allende",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

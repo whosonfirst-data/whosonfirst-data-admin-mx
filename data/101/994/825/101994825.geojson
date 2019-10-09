@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":1045014.360046,
+    "geom:area_square_m":1045014.360051,
     "geom:bbox":"-93.4569080652,18.1149898062,-93.4458830165,18.1255665166",
     "geom:latitude":18.120786,
     "geom:longitude":-93.451801,
     "iso:country":"MX",
     "lbl:latitude":18.121033,
     "lbl:longitude":-93.451802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.121033,
     "mps:longitude":-93.451802,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90277303
     },
     "wof:country":"MX",
-    "wof:geomhash":"5a8311b490ec0457ff04a57b43044093",
+    "wof:geomhash":"f92d123febfb823972611a6eb91d2f98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994825,
-    "wof:lastmodified":1479904398,
+    "wof:lastmodified":1566632885,
     "wof:name":"PobladoC-17 Independencia",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

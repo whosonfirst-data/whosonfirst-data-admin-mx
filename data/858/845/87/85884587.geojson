@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7234819.503816,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.261928,22.111393,-103.261928,22.111393",
     "geom:latitude":22.111393,
     "geom:longitude":-103.261928,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.266928,22.106393,-103.256928,22.116393",
     "lbl:latitude":22.111393,
     "lbl:longitude":-103.261928,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.109272,
     "mps:longitude":-103.260169,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Lomas de Oriente"
-    ],
-    "name:unk_x_variant":[
         "Lomas de Oriente"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997705,
-        102074611,
-        85686603
+        102074611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55904388,
-        "qs:id":225705,
         "qs_pg:id":225705
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874556,
+    "wof:lastmodified":1566619557,
     "wof:name":"Lomas de Oriente",
     "wof:parent_id":101997705,
     "wof:placetype":"neighbourhood",

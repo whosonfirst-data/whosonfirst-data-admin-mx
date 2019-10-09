@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3054325.296742,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.396027,20.582661,-100.396027,20.582661",
     "geom:latitude":20.582661,
     "geom:longitude":-100.396027,
     "iso:country":"MX",
+    "lbl:bbox":"-100.401027,20.577661,-100.391027,20.587661",
     "lbl:latitude":20.582661,
     "lbl:longitude":-100.396027,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.570019,
     "mps:longitude":-100.386453,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Cimatario"
-    ],
-    "name:unk_x_variant":[
         "Cimatario"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874047,
+    "wof:lastmodified":1566619666,
     "wof:name":"Cimatario",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

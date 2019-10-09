@@ -9,13 +9,17 @@
     "geom:bbox":"-102.427898342,22.7772848708,-102.412868634,22.795178036",
     "geom:latitude":22.786332,
     "geom:longitude":-102.421336,
-    "geonames:id":"3979618,3979619",
+    "gn:id":"3979618,3979619",
     "iso:country":"MX",
     "lbl:latitude":22.786039,
     "lbl:longitude":-102.421476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.786039,
     "mps:longitude":-102.421476,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -31,7 +35,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":151802
     },
     "wof:country":"MX",
-    "wof:geomhash":"fbea43ab5872597ce8f74e531db36055",
+    "wof:geomhash":"8b59a9c3532e04ddb6f2361452ba8385",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101992863,
-    "wof:lastmodified":1479903992,
+    "wof:lastmodified":1566632735,
     "wof:name":"Z\u00f3quite",
     "wof:parent_id":102075485,
     "wof:placetype":"locality",

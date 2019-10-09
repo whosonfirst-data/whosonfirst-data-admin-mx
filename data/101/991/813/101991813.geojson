@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.905709,
     "lbl:longitude":-99.143045,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.905709,
     "mps:longitude":-99.143045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Tequixquiac"
     ],
@@ -285,7 +288,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043a\u0456\u0441\u043a\u0456\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santiago Tequixquiac"
     ],
     "name:uzb_x_preferred":[
@@ -335,7 +338,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -348,7 +351,6 @@
         "fct:id":"01b97b4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515794,
         "gp:id":149036,
-        "qs:id":180442,
         "qs_pg:id":180442,
         "wd:id":"Q34828"
     },
@@ -367,7 +369,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397285,
+    "wof:lastmodified":1566632337,
     "wof:name":"Tequixquiac",
     "wof:parent_id":102074029,
     "wof:placetype":"locality",

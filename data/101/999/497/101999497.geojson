@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":3066283.253579,
+    "geom:area_square_m":3066283.253578,
     "geom:bbox":"-98.5064055318,19.1305602998,-98.4765244419,19.1447860849",
     "geom:latitude":19.137642,
     "geom:longitude":-98.490736,
     "iso:country":"MX",
     "lbl:latitude":19.137826,
     "lbl:longitude":-98.491022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.137826,
     "mps:longitude":-98.491022,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889827
     },
     "wof:country":"MX",
-    "wof:geomhash":"15c40efb8e5d2843c24f090f5c850573",
+    "wof:geomhash":"b3e393ac2c7819f3b612618d02c752d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999497,
-    "wof:lastmodified":1479908225,
+    "wof:lastmodified":1566632533,
     "wof:name":"Santa Mar\u00eda Atexcac",
     "wof:parent_id":102078149,
     "wof:placetype":"locality",

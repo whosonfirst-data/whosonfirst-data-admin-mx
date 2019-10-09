@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.842222,
     "lbl:longitude":-97.707774,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.842222,
     "mps:longitude":-97.707774,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santiago Alseseca"
     ],
@@ -35,9 +38,6 @@
     "name:swe_x_preferred":[
         "Santiago Alseseca"
     ],
-    "name:unk_x_variant":[
-        "Alseseca"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -68,7 +68,6 @@
         "fct:id":"01c64be0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516973,
         "gp:id":147045,
-        "qs:id":924381,
         "qs_pg:id":924381,
         "wd:id":"Q20232098"
     },
@@ -87,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397733,
+    "wof:lastmodified":1566632570,
     "wof:name":"Santiago Alseseca",
     "wof:parent_id":102078325,
     "wof:placetype":"locality",

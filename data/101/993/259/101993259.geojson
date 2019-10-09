@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.973645,
     "lbl:longitude":-99.143732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.973645,
     "mps:longitude":-99.143732,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0995\u09be\u09a4\u09be\u09b0\u09bf\u09a8\u09be"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_preferred":[
         "Santa Catarina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Catarina Zacatepec"
     ],
     "qs:a0":"Mexico",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,9 +67,11 @@
     "wof:concordances":{
         "gn:id":3517687,
         "gp:id":145820,
-        "qs:id":1270324,
         "qs_pg:id":1057319,
         "wd:id":"Q20236530"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1270324
     },
     "wof:country":"MX",
     "wof:geomhash":"561445db6198bad3406068712a6432d4",
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101993259,
-    "wof:lastmodified":1563398111,
+    "wof:lastmodified":1566632766,
     "wof:name":"Santa Catarina",
     "wof:parent_id":102074233,
     "wof:placetype":"locality",

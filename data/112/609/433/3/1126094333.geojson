@@ -9,15 +9,17 @@
     "geom:bbox":"-95.51864,18.62942,-95.51864,18.62942",
     "geom:latitude":18.62942,
     "geom:longitude":-95.51864,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18941,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":18941,
     "iso:country":"MX",
+    "lbl:bbox":"-95.52364,18.62442,-95.51364,18.63442",
     "lbl:latitude":18.62942,
     "lbl:longitude":-95.51864,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Lerdo de Tejada"
@@ -39,18 +41,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55911727,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998477,
-        102077593,
-        85686671
+        102077593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1126094333,
-    "wof:lastmodified":1509411809,
+    "wof:lastmodified":1566634297,
     "wof:name":"Lerdo de Tejada Centro",
     "wof:parent_id":101998477,
     "wof:placetype":"neighbourhood",

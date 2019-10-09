@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.796805,
     "lbl:longitude":-89.035548,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.796805,
     "mps:longitude":-89.035548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kantunil"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -91,7 +94,6 @@
         "fct:id":"01aeb5c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526301,
         "gp:id":126262,
-        "qs:id":1235113,
         "qs_pg:id":1235113,
         "wd:id":"Q2577493"
     },
@@ -110,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369787,
+    "wof:lastmodified":1566615726,
     "wof:name":"Kantunil",
     "wof:parent_id":102079039,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.533205,
     "lbl:longitude":-96.827994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.533205,
     "mps:longitude":-96.827994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "San Juan Bautista Atatlahuca"
     ],
@@ -55,9 +58,6 @@
     "name:swe_x_preferred":[
         "Atatlahuaca"
     ],
-    "name:unk_x_variant":[
-        "Atatlahuca"
-    ],
     "name:vie_x_preferred":[
         "San Juan Bautista Atatlahuca"
     ],
@@ -76,7 +76,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397836,
+    "wof:lastmodified":1566632626,
     "wof:name":"San Juan Bautista Atatlahuca",
     "wof:parent_id":102076397,
     "wof:placetype":"locality",

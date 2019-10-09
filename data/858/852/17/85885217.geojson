@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2222862.632311,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.633423,16.728275,-92.633423,16.728275",
     "geom:latitude":16.728275,
     "geom:longitude":-92.633423,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.638423,16.723275,-92.628423,16.733275",
     "lbl:latitude":16.728275,
     "lbl:longitude":-92.633423,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.724622,
     "mps:longitude":-92.627857,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
         "Barrio C\u00f3pola"
     ],
     "name:spa_x_preferred":[
-        "Barrio Santa Lucia"
-    ],
-    "name:unk_x_variant":[
         "Barrio Santa Lucia"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -67,18 +66,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994509,
-        102075763,
-        85686611
+        102075763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919097,
-        "qs:id":475973,
         "qs_pg:id":475973
     },
     "wof:country":"MX",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874752,
+    "wof:lastmodified":1566619713,
     "wof:name":"Barrio Santa Lucia",
     "wof:parent_id":101994509,
     "wof:placetype":"neighbourhood",

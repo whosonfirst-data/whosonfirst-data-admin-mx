@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8330479.457155,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.242196,20.62716,-103.242196,20.62716",
     "geom:latitude":20.62716,
     "geom:longitude":-103.242196,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.247196,20.62216,-103.237196,20.63216",
     "lbl:latitude":20.62716,
     "lbl:longitude":-103.242196,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.625919,
     "mps:longitude":-103.242052,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Tonal\u00e1"
     ],
     "name:spa_x_preferred":[
-        "Tonala Centro"
-    ],
-    "name:unk_x_variant":[
         "Tonala Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -64,18 +63,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997867,
-        102074765,
-        85686603
+        102074765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55909588,
-        "qs:id":232458,
         "qs_pg:id":232458
     },
     "wof:country":"MX",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874653,
+    "wof:lastmodified":1566619642,
     "wof:name":"Tonala Centro",
     "wof:parent_id":101997867,
     "wof:placetype":"neighbourhood",

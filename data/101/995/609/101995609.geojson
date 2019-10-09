@@ -9,14 +9,17 @@
     "geom:bbox":"-97.1556849497,17.7269685788,-97.1318562494,17.7556678994",
     "geom:latitude":17.744216,
     "geom:longitude":-97.142793,
-    "geonames:id":"3526991,3762698",
+    "gn:id":"3526991,3762698",
     "iso:country":"MX",
     "lbl:latitude":17.745853,
     "lbl:longitude":-97.14261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.745853,
     "mps:longitude":-97.14261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Miguel Huautla"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101995609,
-    "wof:lastmodified":1563397911,
+    "wof:lastmodified":1566632657,
     "wof:name":"San Miguel Huautla",
     "wof:parent_id":102076841,
     "wof:placetype":"locality",

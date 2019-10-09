@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":27.964927,
     "lbl:longitude":-110.811898,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":27.964927,
     "mps:longitude":-110.811898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u0645\u0628\u0627\u0644\u0645\u064a"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":596,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"01b848d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4006806,
         "gp:id":123178,
-        "qs:id":1256409,
         "qs_pg:id":1256409,
         "wd:id":"Q934086",
         "wk:page":"Empalme, Sonora"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398246,
+    "wof:lastmodified":1566632837,
     "wof:name":"Empalme",
     "wof:parent_id":102074401,
     "wof:placetype":"locality",

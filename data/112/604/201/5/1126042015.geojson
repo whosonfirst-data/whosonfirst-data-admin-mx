@@ -9,19 +9,23 @@
     "geom:bbox":"-89.65105,20.89876,-89.65105,20.89876",
     "geom:latitude":20.89876,
     "geom:longitude":-89.65105,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-89.67105,20.87876,-89.63105,20.91876",
     "lbl:latitude":20.89876,
     "lbl:longitude":-89.65105,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Colonia San Antonio Xluch Tres"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Antonio"
     ],
     "qs_pg:aaroncc":"MX",
@@ -41,7 +45,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":141893,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Yucatan",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1126042015,
-    "wof:lastmodified":1509408580,
+    "wof:lastmodified":1566633971,
     "wof:name":"San Antonio Xluch",
     "wof:parent_id":102078971,
     "wof:placetype":"locality",

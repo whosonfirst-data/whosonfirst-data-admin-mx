@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.291732,
     "lbl:longitude":-99.17178,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.294615,
     "mps:longitude":-99.174863,
     "mz:hierarchy_label":1,
@@ -35,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,8 +51,10 @@
     "wof:concordances":{
         "gn:id":3827421,
         "gp:id":55903521,
-        "qs:id":1294643,
         "qs_pg:id":1101102
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294643
     },
     "wof:country":"MX",
     "wof:geomhash":"c24dcac0bd7b448e7b1bff2f4b676d62",
@@ -79,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957717,
+    "wof:lastmodified":1566619661,
     "wof:name":"Barrio San Fernando",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",

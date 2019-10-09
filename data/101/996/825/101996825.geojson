@@ -9,14 +9,17 @@
     "geom:bbox":"-100.06323953,21.2928811928,-100.049258857,21.3047242101",
     "geom:latitude":21.299185,
     "geom:longitude":-100.05643,
-    "geonames:id":"3984588,4023546",
+    "gn:id":"3984588,4023546",
     "iso:country":"MX",
     "lbl:latitude":21.299311,
     "lbl:longitude":-100.057119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.299311,
     "mps:longitude":-100.057119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Xich\u00fa"
     ],
@@ -80,7 +83,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101996825,
-    "wof:lastmodified":1563397428,
+    "wof:lastmodified":1566632410,
     "wof:name":"Xich\u00fa",
     "wof:parent_id":102077265,
     "wof:placetype":"locality",

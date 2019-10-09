@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.559996,
     "lbl:longitude":-98.817277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.559996,
     "mps:longitude":-98.817277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Tampamol\u00f3n Corona"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Tampamol\u00f3n Corona"
     ],
-    "name:unk_x_variant":[
-        "Tampamol\u00f3n"
-    ],
     "name:vec_x_preferred":[
         "Tampamol\u00f3n Corona"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,7 +106,6 @@
         "fct:id":"01b962ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516361,
         "gp:id":148118,
-        "qs:id":291593,
         "qs_pg:id":291593,
         "wd:id":"Q7681749"
     },
@@ -125,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397458,
+    "wof:lastmodified":1566632424,
     "wof:name":"Tampamol\u00f3n Corona",
     "wof:parent_id":102077169,
     "wof:placetype":"locality",

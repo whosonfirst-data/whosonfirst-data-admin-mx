@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":422675.107555,
+    "geom:area_square_m":422675.107553,
     "geom:bbox":"-99.1824725799,19.3733407065,-99.1756817121,19.3812705568",
     "geom:latitude":19.376726,
     "geom:longitude":-99.179448,
     "iso:country":"MX",
     "lbl:latitude":19.377714,
     "lbl:longitude":-99.178976,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.376645,
     "mps:longitude":-99.179723,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
     ],
     "name:spa_x_variant":[
         "Colonia Extremadura"
-    ],
-    "name:unk_x_variant":[
-        "Extremadura Insurgentes"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPLX",
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":7280717,
         "gp:id":55899067,
-        "qs:id":239298,
         "qs_pg:id":239298
     },
     "wof:country":"MX",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497316262,
+    "wof:lastmodified":1566619704,
     "wof:name":"Extremadura Insurgentes",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

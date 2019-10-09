@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.239278,
     "lbl:longitude":-104.56649,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.239278,
     "mps:longitude":-104.56649,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Cihuatl\u00e1n"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -96,7 +99,6 @@
         "fct:id":"01bba8c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3976999,
         "gp:id":116462,
-        "qs:id":1049798,
         "qs_pg:id":1049798,
         "wd:id":"Q2972384",
         "wk:page":"Cihuatl\u00e1n"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397613,
+    "wof:lastmodified":1566632501,
     "wof:name":"Cihuatl\u00e1n",
     "wof:parent_id":102074851,
     "wof:placetype":"locality",

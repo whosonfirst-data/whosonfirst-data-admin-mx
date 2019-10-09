@@ -9,14 +9,17 @@
     "geom:bbox":"-103.81587,21.44362,-103.81587,21.44362",
     "geom:latitude":21.44362,
     "geom:longitude":-103.81587,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-103.82087,21.43862,-103.81087,21.44862",
     "lbl:latitude":21.44362,
     "lbl:longitude":-103.81587,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "El Pinole"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55904644,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Jalisco",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686591,
         102191575,
         85633293,
-        102074581,
-        85686591
+        102074581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126083349,
-    "wof:lastmodified":1509411274,
+    "wof:lastmodified":1566634094,
     "wof:name":"El Pile",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

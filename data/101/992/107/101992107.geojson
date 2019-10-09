@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
-    "geom:area_square_m":821235.804713,
+    "geom:area_square_m":821235.804714,
     "geom:bbox":"-98.9472333987,19.6926804371,-98.9367313688,19.7043415995",
     "geom:latitude":19.698305,
     "geom:longitude":-98.941938,
     "iso:country":"MX",
     "lbl:latitude":19.698589,
     "lbl:longitude":-98.942454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.698589,
     "mps:longitude":-98.942454,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56068502
     },
     "wof:country":"MX",
-    "wof:geomhash":"317f0364bcfb3d655710612a9c581b21",
+    "wof:geomhash":"0fc979cfd4703ec20db47a098c207e52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992107,
-    "wof:lastmodified":1479931295,
+    "wof:lastmodified":1566632707,
     "wof:name":"Fraccionamiento Santa Cruz Tec\u00e1mac",
     "wof:parent_id":102074059,
     "wof:placetype":"locality",

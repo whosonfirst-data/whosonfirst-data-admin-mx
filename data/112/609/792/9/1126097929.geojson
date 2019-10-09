@@ -9,17 +9,19 @@
     "geom:bbox":"-96.94825,20.18511,-96.94825,20.18511",
     "geom:latitude":20.18511,
     "geom:longitude":-96.94825,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6261,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":6261,
     "iso:country":"MX",
+    "lbl:bbox":"-96.95325,20.18011,-96.94325,20.19011",
     "lbl:latitude":20.18511,
     "lbl:longitude":-96.94825,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vega de San Marcos"
     ],
     "qs_pg:aaroncc":"MX",
@@ -39,17 +41,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55912449,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077841,
-        85686671
+        102077841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1126097929,
-    "wof:lastmodified":1509411974,
+    "wof:lastmodified":1566634288,
     "wof:name":"Vega de San Marcos (ejido)",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

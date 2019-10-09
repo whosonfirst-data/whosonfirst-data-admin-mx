@@ -9,14 +9,17 @@
     "geom:bbox":"-97.3134922784,17.5869146407,-97.3032110695,17.596976561",
     "geom:latitude":17.591675,
     "geom:longitude":-97.309086,
-    "geonames:id":"3519633,3800983",
+    "gn:id":"3519633,3800983",
     "iso:country":"MX",
     "lbl:latitude":17.591713,
     "lbl:longitude":-97.309516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.591713,
     "mps:longitude":-97.309516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Bartolo Soyaltepec"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101995267,
-    "wof:lastmodified":1563397817,
+    "wof:lastmodified":1566632616,
     "wof:name":"San Bartolo Soyaltepec",
     "wof:parent_id":102076953,
     "wof:placetype":"locality",

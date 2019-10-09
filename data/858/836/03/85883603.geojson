@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15502531.129452,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.610616,19.539957,-101.610616,19.539957",
     "geom:latitude":19.539957,
     "geom:longitude":-101.610616,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.615616,19.534957,-101.605616,19.544957",
     "lbl:latitude":19.539957,
     "lbl:longitude":-101.610616,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.542086,
     "mps:longitude":-101.614857,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Pal\u00e1cio Presidencial de Cabo Verde"
     ],
     "name:spa_x_preferred":[
-        "Presidencial"
-    ],
-    "name:unk_x_variant":[
         "Presidencial"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -64,18 +63,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997213,
-        102074965,
-        85686595
+        102074965
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897138,
-        "qs:id":218254,
         "qs_pg:id":218254
     },
     "wof:country":"MX",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874384,
+    "wof:lastmodified":1566619685,
     "wof:name":"Presidencial",
     "wof:parent_id":101997213,
     "wof:placetype":"neighbourhood",

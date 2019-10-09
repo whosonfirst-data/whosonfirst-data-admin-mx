@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1247128.983057,
+    "geom:area_square_m":1247128.98306,
     "geom:bbox":"-98.5120468383,19.2568356959,-98.497713769,19.2698875208",
     "geom:latitude":19.263421,
     "geom:longitude":-98.503672,
     "iso:country":"MX",
     "lbl:latitude":19.263294,
     "lbl:longitude":-98.503672,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.263294,
     "mps:longitude":-98.503672,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891079
     },
     "wof:country":"MX",
-    "wof:geomhash":"fc60a9163ea3fd9bdf5cede03f839d21",
+    "wof:geomhash":"85a3d0060662c0bcad6916ec68491a65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999783,
-    "wof:lastmodified":1479908234,
+    "wof:lastmodified":1566632547,
     "wof:name":"Analco de Ponciano Arriaga (Santa Cruz Analco)",
     "wof:parent_id":102078301,
     "wof:placetype":"locality",

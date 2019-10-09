@@ -11,8 +11,10 @@
     "geom:longitude":-103.393304,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.398304,20.664099,-103.388304,20.674099",
     "lbl:latitude":20.669099,
     "lbl:longitude":-103.393304,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.670745,
     "mps:longitude":-103.392797,
     "mz:hierarchy_label":0,
@@ -36,7 +38,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -48,8 +50,10 @@
     "wof:concordances":{
         "gn:id":3827494,
         "gp:id":55895812,
-        "qs:id":1294862,
         "qs_pg:id":908192
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294862
     },
     "wof:country":"MX",
     "wof:geomhash":"0bcce83303c5dadf67dd7c0ab75af7d0",
@@ -67,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619653,
     "wof:name":"Jardines de Los Arcos",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

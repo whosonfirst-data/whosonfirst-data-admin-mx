@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3525457.594553,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.202148,19.727928,-99.202148,19.727928",
     "geom:latitude":19.727928,
     "geom:longitude":-99.202148,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.207148,19.722928,-99.197148,19.732928",
     "lbl:latitude":19.727928,
     "lbl:longitude":-99.202148,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.731284,
     "mps:longitude":-99.200697,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "El Trebol"
-    ],
-    "name:unk_x_variant":[
         "El Trebol"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991839,
-        102074033,
-        85686527
+        102074033
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900546,
-        "qs:id":997172
+        "qs_pg:id":997172
     },
     "wof:country":"MX",
     "wof:geomhash":"5614761a9effa5c391093b33a5134c8f",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874473,
+    "wof:lastmodified":1566619627,
     "wof:name":"El Trebol",
     "wof:parent_id":101991839,
     "wof:placetype":"neighbourhood",

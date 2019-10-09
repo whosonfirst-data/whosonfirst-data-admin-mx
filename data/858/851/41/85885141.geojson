@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7049411.594917,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.76123,17.197164,-96.76123,17.197164",
     "geom:latitude":17.197164,
     "geom:longitude":-96.76123,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.76623,17.192164,-96.75623,17.202164",
     "lbl:latitude":17.197164,
     "lbl:longitude":-96.76123,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.198522,
     "mps:longitude":-96.759338,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio San Jose Vista Hermosa"
-    ],
-    "name:unk_x_variant":[
         "Barrio San Jose Vista Hermosa"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101995183,
-        102075941,
-        85686623
+        102075941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55916566,
-        "qs:id":1343982,
         "qs_pg:id":1343982
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874728,
+    "wof:lastmodified":1566619613,
     "wof:name":"Barrio San Jose Vista Hermosa",
     "wof:parent_id":101995183,
     "wof:placetype":"neighbourhood",

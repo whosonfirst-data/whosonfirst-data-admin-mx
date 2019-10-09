@@ -11,8 +11,10 @@
     "geom:longitude":-117.034457,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-117.039457,32.53279,-117.029457,32.54279",
     "lbl:latitude":32.53779,
     "lbl:longitude":-117.034457,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.537965,
     "mps:longitude":-117.03449,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Empleados Federales"
-    ],
-    "name:unk_x_variant":[
         "Empleados Federales"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -68,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55896627,
-        "qs:id":61243
+        "qs_pg:id":61243
     },
     "wof:country":"MX",
     "wof:geomhash":"df89a8c066a31cf224e0175b8b82e962",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619601,
     "wof:name":"Empleados Federales",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

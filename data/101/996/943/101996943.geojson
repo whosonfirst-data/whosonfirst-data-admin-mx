@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
-    "geom:area_square_m":1742242.828124,
+    "geom:area_square_m":1742242.828119,
     "geom:bbox":"-103.729115361,18.7435193465,-103.712629697,18.7600275288",
     "geom:latitude":18.751919,
     "geom:longitude":-103.720611,
     "iso:country":"MX",
     "lbl:latitude":18.751226,
     "lbl:longitude":-103.721173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.751226,
     "mps:longitude":-103.721173,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cerro de Ortega"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":4014743,
         "gp:id":115387,
-        "qs:id":1013822,
         "qs_pg:id":1013822
     },
     "wof:country":"MX",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101996943,
-    "wof:lastmodified":1497300442,
+    "wof:lastmodified":1566632429,
     "wof:name":"Cerro de Ortega",
     "wof:parent_id":102074527,
     "wof:placetype":"locality",

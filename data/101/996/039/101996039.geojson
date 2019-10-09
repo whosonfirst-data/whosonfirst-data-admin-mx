@@ -9,14 +9,17 @@
     "geom:bbox":"-97.4035665667,17.7786803307,-97.3974473344,17.7865054394",
     "geom:latitude":17.781982,
     "geom:longitude":-97.400134,
-    "geonames:id":"3515861,3801066",
+    "gn:id":"3515861,3801066",
     "iso:country":"MX",
     "lbl:latitude":17.781281,
     "lbl:longitude":-97.400075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.781281,
     "mps:longitude":-97.400075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santiago Tepetlapa"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101996039,
-    "wof:lastmodified":1563397370,
+    "wof:lastmodified":1566632381,
     "wof:name":"Santiago Tepetlapa",
     "wof:parent_id":102076179,
     "wof:placetype":"locality",

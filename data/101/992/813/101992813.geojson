@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001902,
-    "geom:area_square_m":22152027.983745,
+    "geom:area_square_m":22152027.983759,
     "geom:bbox":"-99.1285116808,19.610308879,-99.0724699048,19.6640439409",
     "geom:latitude":19.638544,
     "geom:longitude":-99.098046,
     "iso:country":"MX",
     "lbl:latitude":19.63636,
     "lbl:longitude":-99.095251,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.63636,
     "mps:longitude":-99.095251,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Coacalco de Berrioz\u00e1val"
     ],
     "name:spa_x_variant":[
         "Coacalco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coacalco de Berrioz\u00e1bal"
     ],
     "qs:a0":"Mexico",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101992813,
-    "wof:lastmodified":1504309870,
+    "wof:lastmodified":1566632723,
     "wof:name":"San Francisco Coacalco",
     "wof:parent_id":102074185,
     "wof:placetype":"locality",

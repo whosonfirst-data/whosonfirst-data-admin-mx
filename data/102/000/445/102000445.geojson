@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.24722,
     "lbl:longitude":-99.187871,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.24722,
     "mps:longitude":-99.187871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Progreso de Obreg\u00f3n"
     ],
@@ -66,9 +69,6 @@
     "name:swe_x_preferred":[
         "Progreso de Obreg\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Progreso de Obreg\u00f3n"
-    ],
     "name:vec_x_preferred":[
         "Progreso"
     ],
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -105,7 +105,6 @@
         "fct:id":"01b8de24-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521103,
         "gp:id":137544,
-        "qs:id":469718,
         "qs_pg:id":469718,
         "wd:id":"Q3846293"
     },
@@ -124,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369750,
+    "wof:lastmodified":1566615706,
     "wof:name":"Progreso",
     "wof:parent_id":102078643,
     "wof:placetype":"locality",

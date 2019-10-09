@@ -9,14 +9,17 @@
     "geom:bbox":"-102.885318747,19.9222537611,-102.865297185,19.9310466108",
     "geom:latitude":19.92679,
     "geom:longitude":-102.876037,
-    "geonames:id":"3991101,3991100",
+    "gn:id":"3991101,3991100",
     "iso:country":"MX",
     "lbl:latitude":19.926976,
     "lbl:longitude":-102.876873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.926976,
     "mps:longitude":-102.876873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Quitupan"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101997777,
-    "wof:lastmodified":1563397545,
+    "wof:lastmodified":1566632467,
     "wof:name":"Quitupan",
     "wof:parent_id":102074847,
     "wof:placetype":"locality",

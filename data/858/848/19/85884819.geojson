@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6451788.539288,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.365301,19.772202,-104.365301,19.772202",
     "geom:latitude":19.772202,
     "geom:longitude":-104.365301,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.370301,19.767202,-104.360301,19.777202",
     "lbl:latitude":19.772202,
     "lbl:longitude":-104.365301,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.771807,
     "mps:longitude":-104.364841,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "name:spa_x_preferred":[
         "Autlan de Navarro Centro",
         "Isidro Michel L\u00f3pez"
-    ],
-    "name:unk_x_variant":[
-        "Autlan de Navarro Centro"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997577,
-        102074839,
-        85686603
+        102074839
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908621,
-        "qs:id":218266,
         "qs_pg:id":218266
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874631,
+    "wof:lastmodified":1566619641,
     "wof:name":"Autlan de Navarro Centro",
     "wof:parent_id":101997577,
     "wof:placetype":"neighbourhood",

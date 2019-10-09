@@ -24,8 +24,12 @@
     "gn:population":4,
     "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-104.19463,28.89854,-104.15463,28.93854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":3975202
     },
     "wof:country":"MX",
-    "wof:geomhash":"988323108426b1292a2202c900387dd6",
+    "wof:geomhash":"7484395bda661b1ada3890f75717d96b",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209028235,
-    "wof:lastmodified":1536299928,
+    "wof:lastmodified":1566626915,
     "wof:name":"La Plazuela",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -104.17463,
-    28.918540000000004,
+    28.91854,
     -104.17463,
-    28.918540000000004
+    28.91854
 ],
   "geometry": {"coordinates":[-104.17462999999999,28.91854],"type":"Point"}
 }

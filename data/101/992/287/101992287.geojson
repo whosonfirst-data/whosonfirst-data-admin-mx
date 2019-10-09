@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.545131,
     "lbl:longitude":-103.523712,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":25.545131,
     "mps:longitude":-103.523712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Ciudad Lerdo"
     ],
@@ -74,9 +77,6 @@
     "name:swe_x_preferred":[
         "Ciudad Lerdo"
     ],
-    "name:unk_x_variant":[
-        "Ciudad Lerdo"
-    ],
     "name:vie_x_preferred":[
         "Lerdo"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":253,
     "wof:belongsto":[
@@ -114,7 +114,6 @@
         "fct:id":"01b81872-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013706,
         "gp:id":116557,
-        "qs:id":664203,
         "qs_pg:id":664203,
         "wd:id":"Q1961329",
         "wk:page":"Lerdo, Durango"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397960,
+    "wof:lastmodified":1566632682,
     "wof:name":"Lerdo",
     "wof:parent_id":102075209,
     "wof:placetype":"locality",

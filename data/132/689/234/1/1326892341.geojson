@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-99.6459,24.85257,-99.6059,24.89257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041b\u043e\u0441-\u0410\u043d\u045f\u044c\u0435\u043b\u0435\u0441"
     ],
@@ -576,8 +580,7 @@
         "\u041b\u043e\u0441-\u0410\u043d\u0434\u0436\u0435\u043b\u0435\u0441"
     ],
     "name:und_x_variant":[
-        "Huerta Los Angeles",
-        "Los \u00c1ngeles"
+        "Huerta Los Angeles"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u0627\u06cc\u0646\u062c\u0644\u0633"
@@ -641,7 +644,7 @@
         }
     ],
     "wof:id":1326892341,
-    "wof:lastmodified":1564136842,
+    "wof:lastmodified":1566613201,
     "wof:name":"Los Angeles",
     "wof:parent_id":102078755,
     "wof:placetype":"locality",

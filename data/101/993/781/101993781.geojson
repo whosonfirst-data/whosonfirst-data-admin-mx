@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.757502,
     "lbl:longitude":-109.31526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.757502,
     "mps:longitude":-109.31526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Colorado"
     ],
@@ -37,7 +40,7 @@
     "name:spa_x_variant":[
         "Campo Pesquero el Colorado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colorado"
     ],
     "qs:a0":"Mexico",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-26.308889,
     "wd:longitude":-59.372222,
     "wd:wordcount":31,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101993781,
-    "wof:lastmodified":1564171424,
+    "wof:lastmodified":1566632814,
     "wof:name":"El Colorado",
     "wof:parent_id":102074339,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2533993.182575,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.921456,22.873345,-109.921456,22.873345",
     "geom:latitude":22.873345,
     "geom:longitude":-109.921456,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.926456,22.868345,-109.916456,22.878345",
     "lbl:latitude":22.873345,
     "lbl:longitude":-109.921456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.867767,
     "mps:longitude":-109.922978,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Lienzo Charro Centro"
-    ],
-    "name:unk_x_variant":[
         "Lienzo Charro Centro"
     ],
     "qs:gn_id":0,
@@ -54,19 +53,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
         101994035,
-        102074525,
-        85686555
+        102074525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910436,
-        "qs:id":1343488
+        "qs_pg:id":1343488
     },
     "wof:country":"MX",
     "wof:geomhash":"85469b736650cf8b59ebfcb8fd18d7fa",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874678,
+    "wof:lastmodified":1566619649,
     "wof:name":"Lienzo Charro Centro",
     "wof:parent_id":101994035,
     "wof:placetype":"neighbourhood",

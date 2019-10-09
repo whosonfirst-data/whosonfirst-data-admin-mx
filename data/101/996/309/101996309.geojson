@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.21647,
     "lbl:longitude":-99.47206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.21647,
     "mps:longitude":-99.47206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jalpan de Serra"
     ],
@@ -177,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101996309,
-    "wof:lastmodified":1561750544,
+    "wof:lastmodified":1566632353,
     "wof:name":"Jalpan de Serra",
     "wof:parent_id":102077087,
     "wof:placetype":"locality",

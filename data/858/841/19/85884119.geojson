@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1687925.993108,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.416909,23.216287,-106.416909,23.216287",
     "geom:latitude":23.216287,
     "geom:longitude":-106.416909,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.421909,23.211287,-106.411909,23.221287",
     "lbl:latitude":23.216287,
     "lbl:longitude":-106.416909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.218906,
     "mps:longitude":-106.413922,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Ferrocarrilera"
-    ],
-    "name:unk_x_variant":[
         "Ferrocarrilera"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686535,
         102191575,
         85633293,
         101993641,
-        102074303,
-        85686535
+        102074303
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900063,
-        "qs:id":1342175,
         "qs_pg:id":1342175
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874447,
+    "wof:lastmodified":1566619629,
     "wof:name":"Ferrocarrilera",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

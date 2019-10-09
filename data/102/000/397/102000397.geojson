@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
-    "geom:area_square_m":158692.947034,
+    "geom:area_square_m":158692.947033,
     "geom:bbox":"-98.7722627232,20.0565053725,-98.7642591369,20.0607896376",
     "geom:latitude":20.058816,
     "geom:longitude":-98.767851,
     "iso:country":"MX",
     "lbl:latitude":20.058753,
     "lbl:longitude":-98.767578,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.058753,
     "mps:longitude":-98.767578,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56075124
     },
     "wof:country":"MX",
-    "wof:geomhash":"084a362248c96db364394a40e083607f",
+    "wof:geomhash":"0209762cdd95770b8ddfb13a42eaf3b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000397,
-    "wof:lastmodified":1479907613,
+    "wof:lastmodified":1566615659,
     "wof:name":"Cipreses",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"-96.42114,19.04582,-96.42114,19.04582",
     "geom:latitude":19.04582,
     "geom:longitude":-96.42114,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12278,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":12278,
     "iso:country":"MX",
+    "lbl:bbox":"-96.42614,19.04082,-96.41614,19.05082",
     "lbl:latitude":19.04582,
     "lbl:longitude":-96.42114,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Soledad de Doblado"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,18 +45,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55912013,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998693,
-        102077707,
-        85686671
+        102077707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1126100977,
-    "wof:lastmodified":1509412117,
+    "wof:lastmodified":1566633912,
     "wof:name":"Soledad de Doblado Centro",
     "wof:parent_id":101998693,
     "wof:placetype":"neighbourhood",

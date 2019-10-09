@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":918076.798697,
+    "geom:area_square_m":918076.798703,
     "geom:bbox":"-103.533795515,20.7557585427,-103.517460388,20.7718714236",
     "geom:latitude":20.764017,
     "geom:longitude":-103.525698,
     "iso:country":"MX",
     "lbl:latitude":20.766711,
     "lbl:longitude":-103.524887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.766711,
     "mps:longitude":-103.524887,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Nestipac"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3994969,
         "gp:id":55906684,
-        "qs:id":1001955
+        "qs_pg:id":1001955
     },
     "wof:country":"MX",
     "wof:geomhash":"3faae574e07ac7d13d4389c1e426a88a",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101997925,
-    "wof:lastmodified":1501269520,
+    "wof:lastmodified":1566632467,
     "wof:name":"Nextipac",
     "wof:parent_id":102074709,
     "wof:placetype":"locality",

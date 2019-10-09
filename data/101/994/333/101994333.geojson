@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.425116,
     "lbl:longitude":-107.264231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.425116,
     "mps:longitude":-107.264231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baborigame"
     ],
@@ -40,7 +43,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101994333,
-    "wof:lastmodified":1561750615,
+    "wof:lastmodified":1566632877,
     "wof:name":"Baborigame",
     "wof:parent_id":102075263,
     "wof:placetype":"locality",

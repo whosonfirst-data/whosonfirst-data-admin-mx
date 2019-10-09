@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.984189,
     "lbl:longitude":-103.595138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.984189,
     "mps:longitude":-103.595138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Villa Guerrero"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "fct:id":"01af23ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980172,
         "gp:id":150868,
-        "qs:id":180496,
         "qs_pg:id":180496,
         "wd:id":"Q3051419"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397179,
+    "wof:lastmodified":1566632275,
     "wof:name":"Villa Guerrero",
     "wof:parent_id":102074605,
     "wof:placetype":"locality",

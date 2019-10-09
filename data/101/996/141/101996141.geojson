@@ -9,14 +9,17 @@
     "geom:bbox":"-96.8519786394,16.3801701695,-96.8355554918,16.3975854498",
     "geom:latitude":16.389583,
     "geom:longitude":-96.843841,
-    "geonames:id":"3516770,3800433",
+    "gn:id":"3516770,3800433",
     "iso:country":"MX",
     "lbl:latitude":16.389341,
     "lbl:longitude":-96.843843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.389341,
     "mps:longitude":-96.843843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Vicente Coatl\u00e1n"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "San Vicente Coatl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coatlan"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101996141,
-    "wof:lastmodified":1563397459,
+    "wof:lastmodified":1566632425,
     "wof:name":"San Vicente Coatl\u00e1n",
     "wof:parent_id":102076653,
     "wof:placetype":"locality",

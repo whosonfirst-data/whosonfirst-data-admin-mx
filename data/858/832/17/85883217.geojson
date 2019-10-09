@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6931479.977424,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.610117,19.51619,-101.610117,19.51619",
     "geom:latitude":19.51619,
     "geom:longitude":-101.610117,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.615117,19.51119,-101.605117,19.52119",
     "lbl:latitude":19.51619,
     "lbl:longitude":-101.610117,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.51695,
     "mps:longitude":-101.614162,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Patzcuaro Centro"
-    ],
-    "name:unk_x_variant":[
         "Patzcuaro Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997213,
-        102074965,
-        85686595
+        102074965
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892138,
-        "qs:id":1155291,
         "qs_pg:id":1155291
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874261,
+    "wof:lastmodified":1566619605,
     "wof:name":"Patzcuaro Centro",
     "wof:parent_id":101997213,
     "wof:placetype":"neighbourhood",

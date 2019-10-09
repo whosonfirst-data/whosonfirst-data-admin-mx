@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.025289,
     "lbl:longitude":-98.841157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.025289,
     "mps:longitude":-98.841157,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Acayuca"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":3533428,
         "gp:id":111030,
-        "qs:id":874670,
         "qs_pg:id":874670,
         "wd:id":"Q20241141"
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102000113,
-    "wof:lastmodified":1563369779,
+    "wof:lastmodified":1566615722,
     "wof:name":"Acayuca",
     "wof:parent_id":102078647,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.655996,
     "lbl:longitude":-102.489089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.655996,
     "mps:longitude":-102.489089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Jer\u00f3nimo"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "San Jer\u00f3nimo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jer\u00f3nimo"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3986585,
         "gp:id":143089,
-        "qs:id":261006,
         "qs_pg:id":261006
     },
     "wof:country":"MX",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101992871,
-    "wof:lastmodified":1564171373,
+    "wof:lastmodified":1566632721,
     "wof:name":"San Jer\u00f3nimo",
     "wof:parent_id":102075485,
     "wof:placetype":"locality",

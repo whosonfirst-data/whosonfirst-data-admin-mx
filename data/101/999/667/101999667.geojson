@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1917483.465058,
+    "geom:area_square_m":1917483.465061,
     "geom:bbox":"-97.7202662125,18.9589754571,-97.700285129,18.9726239736",
     "geom:latitude":18.966731,
     "geom:longitude":-97.709694,
     "iso:country":"MX",
     "lbl:latitude":18.96607,
     "lbl:longitude":-97.709504,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.96607,
     "mps:longitude":-97.709504,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "San Sim\u00f3n"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101999667,
-    "wof:lastmodified":1501267410,
+    "wof:lastmodified":1566632534,
     "wof:name":"San Sim\u00f3n de Bravo",
     "wof:parent_id":102078239,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1932590.2891,
+    "geom:area_square_m":1932590.289102,
     "geom:bbox":"-98.941849226,19.8545882549,-98.9301124227,19.8834995871",
     "geom:latitude":19.868958,
     "geom:longitude":-98.936592,
     "iso:country":"MX",
     "lbl:latitude":19.86517,
     "lbl:longitude":-98.937481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.86517,
     "mps:longitude":-98.937481,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0637\u0648\u0646\u064a\u0648 \u0645\u0646 \u0643\u0631\u0627\u062a\u0648"
     ],
@@ -60,7 +64,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -72,7 +76,7 @@
         "gp:id":12514976
     },
     "wof:country":"MX",
-    "wof:geomhash":"bc814f8a40abd7071a7b5f704b3a3dce",
+    "wof:geomhash":"0f7b77f81ee0479a76275ae0c9435836",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102000187,
-    "wof:lastmodified":1479907454,
+    "wof:lastmodified":1566615682,
     "wof:name":"Don Antonio",
     "wof:parent_id":102078599,
     "wof:placetype":"locality",

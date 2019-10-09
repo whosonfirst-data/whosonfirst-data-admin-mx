@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.468316,
     "lbl:longitude":-99.592728,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.468316,
     "mps:longitude":-99.592728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Temoaya"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "Temoaya"
     ],
-    "name:unk_x_variant":[
-        "Santiago Temoaya"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -108,7 +108,6 @@
         "fct:id":"01b9706e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516030,
         "gp:id":148684,
-        "qs:id":1051521,
         "qs_pg:id":1051521,
         "wd:id":"Q3846284",
         "wk:page":"Temoaya"
@@ -128,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397983,
+    "wof:lastmodified":1566632695,
     "wof:name":"Temoaya",
     "wof:parent_id":102074047,
     "wof:placetype":"locality",

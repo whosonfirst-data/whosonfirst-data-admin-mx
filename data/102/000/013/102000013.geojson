@@ -15,17 +15,20 @@
     "iso:country":"MX",
     "lbl:latitude":20.275955,
     "lbl:longitude":-97.961356,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.275955,
     "mps:longitude":-97.961356,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:spa_x_preferred":[
         "Xicotepec de Ju\u00e1rez"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u043a\u043e\u0442\u0435\u043f\u0435\u043a \u0434\u0435 \u0425\u0443\u0430\u0440\u0435\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ju\u00e1rez Xicotepec"
     ],
     "qs:a0":"Mexico",
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":3514510,
         "gp:id":151119,
-        "qs:id":666240,
         "qs_pg:id":666240,
         "wd:id":"Q20232831"
     },
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":102000013,
-    "wof:lastmodified":1563369660,
+    "wof:lastmodified":1566615666,
     "wof:name":"Xicotepec de Ju\u00e1rez",
     "wof:parent_id":102078419,
     "wof:placetype":"locality",

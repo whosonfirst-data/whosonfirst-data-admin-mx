@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.090673,
     "lbl:longitude":-99.222906,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.090673,
     "mps:longitude":-99.222906,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Tlaxcoapan"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,6 @@
         "fct:id":"01b98dce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515351,
         "gp:id":149685,
-        "qs:id":180466,
         "qs_pg:id":180466,
         "wd:id":"Q2882111",
         "wk:page":"Tlaxcoapan"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369648,
+    "wof:lastmodified":1566615660,
     "wof:name":"Tlaxcoapan",
     "wof:parent_id":102078615,
     "wof:placetype":"locality",

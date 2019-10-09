@@ -11,8 +11,10 @@
     "geom:longitude":-98.96993,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.97493,18.899591,-98.96493,18.909591",
     "lbl:latitude":18.904591,
     "lbl:longitude":-98.96993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.905373,
     "mps:longitude":-98.970874,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Huertas de Oaxtepec"
-    ],
-    "name:unk_x_variant":[
         "Fracc Huertas de Oaxtepec"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686531,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55884895,
-        "qs:id":1340297,
         "qs_pg:id":1340297
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619573,
     "wof:name":"Fracc Huertas de Oaxtepec",
     "wof:parent_id":101993273,
     "wof:placetype":"neighbourhood",

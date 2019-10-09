@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.371514,
     "lbl:longitude":-101.066767,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.371514,
     "mps:longitude":-101.066767,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09be\u09b2 \u09a6\u09c7\u09b2 \u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09c7\u09b8\u09cb"
     ],
@@ -66,9 +69,6 @@
     "name:swe_x_preferred":[
         "Jaral del Progreso"
     ],
-    "name:unk_x_variant":[
-        "Pueblo Jaral del Progreso"
-    ],
     "name:vec_x_preferred":[
         "Jaral del Progreso"
     ],
@@ -90,7 +90,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -103,7 +103,7 @@
         "fct:id":"01b87272-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4004092,
         "gp:id":55908173,
-        "qs:id":844392,
+        "qs_pg:id":844392,
         "wd:id":"Q2651205",
         "wk:page":"Jaral del Progreso"
     },
@@ -122,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397419,
+    "wof:lastmodified":1566632405,
     "wof:name":"Jaral del Progreso",
     "wof:parent_id":102077351,
     "wof:placetype":"locality",

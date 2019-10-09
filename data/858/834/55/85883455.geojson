@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10364169.187367,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.874874,19.511611,-96.874874,19.511611",
     "geom:latitude":19.511611,
     "geom:longitude":-96.874874,
     "iso:country":"MX",
+    "lbl:bbox":"-96.879874,19.506611,-96.869874,19.516611",
     "lbl:latitude":19.511611,
     "lbl:longitude":-96.874874,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.510255,
     "mps:longitude":-96.869045,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Pastoresa"
-    ],
-    "name:unk_x_variant":[
         "Pastoresa"
     ],
     "qs:gn_fcode":"PPL",
@@ -56,20 +55,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998437,
-        102077571,
-        85686671
+        102077571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3521771,
         "gp:id":55912040,
-        "qs:id":1293221,
         "qs_pg:id":139699
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1293221
     },
     "wof:country":"MX",
     "wof:geomhash":"adcc027741f65916c1aa91124916b28f",
@@ -87,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874335,
+    "wof:lastmodified":1566619624,
     "wof:name":"Pastoresa",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

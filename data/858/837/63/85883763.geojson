@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4733500.908709,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.26741,25.683613,-100.26741,25.683613",
     "geom:latitude":25.683613,
     "geom:longitude":-100.26741,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.27241,25.678613,-100.26241,25.688613",
     "lbl:latitude":25.683613,
     "lbl:longitude":-100.26741,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.685598,
     "mps:longitude":-100.265049,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Jardines de Churubusco"
-    ],
-    "name:unk_x_variant":[
         "Jardines de Churubusco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898135,
-        "qs:id":1111506,
         "qs_pg:id":1111506
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874410,
+    "wof:lastmodified":1566619696,
     "wof:name":"Jardines de Churubusco",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

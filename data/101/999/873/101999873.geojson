@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":2132113.010573,
+    "geom:area_square_m":2132113.010555,
     "geom:bbox":"-97.9105042077,18.9260584473,-97.8948951915,18.9455030861",
     "geom:latitude":18.935094,
     "geom:longitude":-97.902429,
     "iso:country":"MX",
     "lbl:latitude":18.935266,
     "lbl:longitude":-97.902579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.935266,
     "mps:longitude":-97.902579,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55892375
     },
     "wof:country":"MX",
-    "wof:geomhash":"46e6486f1664f6c81d948452e5f53f98",
+    "wof:geomhash":"db41c3fe3a534966743bc9046294bac7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999873,
-    "wof:lastmodified":1479908102,
+    "wof:lastmodified":1566632525,
     "wof:name":"San Pablo Actipan",
     "wof:parent_id":102078345,
     "wof:placetype":"locality",

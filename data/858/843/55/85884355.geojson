@@ -11,8 +11,10 @@
     "geom:longitude":-107.39482,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-107.39982,24.784879,-107.38982,24.794879",
     "lbl:latitude":24.789879,
     "lbl:longitude":-107.39482,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.788918,
     "mps:longitude":-107.395428,
     "mz:hierarchy_label":0,
@@ -123,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0430\u0434\u0430\u043b\u0443\u043f\u0435"
     ],
-    "name:unk_x_variant":[
-        "Guadalupe"
-    ],
     "name:vie_x_preferred":[
         "Guadalupe"
     ],
@@ -163,7 +162,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686535,
         102191575,
@@ -175,7 +174,9 @@
     "wof:concordances":{
         "gn:id":3974131,
         "gp:id":55886423,
-        "qs:id":475495,
+        "qs_pg:id":475495
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1024712
     },
     "wof:country":"MX",
@@ -194,7 +195,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147191,
+    "wof:lastmodified":1566619583,
     "wof:name":"Guadalupe",
     "wof:parent_id":101993731,
     "wof:placetype":"neighbourhood",

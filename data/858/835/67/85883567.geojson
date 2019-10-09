@@ -10,8 +10,10 @@
     "geom:latitude":29.075908,
     "geom:longitude":-110.958151,
     "iso:country":"MX",
+    "lbl:bbox":"-110.963151,29.070908,-110.953151,29.080908",
     "lbl:latitude":29.075908,
     "lbl:longitude":-110.958151,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.076023,
     "mps:longitude":-110.959746,
     "mz:hierarchy_label":0,
@@ -44,9 +46,6 @@
     "name:spa_x_preferred":[
         "Centenario"
     ],
-    "name:unk_x_variant":[
-        "Centenario"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":4004898,
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":291,
     "wof:belongsto":[
         85686549,
@@ -89,7 +88,6 @@
     "wof:concordances":{
         "gn:id":4014869,
         "gp:id":55896640,
-        "qs:id":204856,
         "qs_pg:id":204856,
         "wd:id":"Q2913444"
     },
@@ -109,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375408,
+    "wof:lastmodified":1566619597,
     "wof:name":"Centenario",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

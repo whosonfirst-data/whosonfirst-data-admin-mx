@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9280839.893097,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.458866,20.813258,-103.458866,20.813258",
     "geom:latitude":20.813258,
     "geom:longitude":-103.458866,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.463866,20.808258,-103.453866,20.818258",
     "lbl:latitude":20.813258,
     "lbl:longitude":-103.458866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.819117,
     "mps:longitude":-103.453458,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "San Jose Ejidal"
-    ],
-    "name:unk_x_variant":[
         "San Jose Ejidal"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
         101997653,
-        102074709,
-        85686603
+        102074709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908964,
-        "qs:id":1136698,
         "qs_pg:id":1092420
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1136698
     },
     "wof:country":"MX",
     "wof:geomhash":"57ed2a3a169f510411e632df9880f48d",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874673,
+    "wof:lastmodified":1566619652,
     "wof:name":"San Jose Ejidal",
     "wof:parent_id":101997653,
     "wof:placetype":"neighbourhood",

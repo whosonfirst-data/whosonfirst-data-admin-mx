@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.888955,
     "lbl:longitude":-97.824341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.888955,
     "mps:longitude":-97.824341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zapotitl\u00e1n Palmas"
     ],
@@ -56,9 +59,6 @@
     "name:swe_x_preferred":[
         "Zapotitl\u00e1n Palmas"
     ],
-    "name:unk_x_variant":[
-        "Palmas"
-    ],
     "name:vie_x_preferred":[
         "Zapotitl\u00e1n Palmas"
     ],
@@ -77,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -107,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397427,
+    "wof:lastmodified":1566632408,
     "wof:name":"Zapotitl\u00e1n Palmas",
     "wof:parent_id":102076255,
     "wof:placetype":"locality",

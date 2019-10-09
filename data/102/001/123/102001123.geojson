@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.152734,
     "lbl:longitude":-89.481872,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.152734,
     "mps:longitude":-89.481872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ixil"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -91,7 +94,6 @@
         "fct:id":"01aeb2e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526711,
         "gp:id":125513,
-        "qs:id":251511,
         "qs_pg:id":251511,
         "wd:id":"Q3293973"
     },
@@ -110,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369862,
+    "wof:lastmodified":1566615762,
     "wof:name":"Ixil",
     "wof:parent_id":102079043,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.424578,
     "lbl:longitude":-99.17263,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.423818,
     "mps:longitude":-99.173374,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Nva Anzures"
-    ],
-    "name:unk_x_variant":[
         "Nva Anzures"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -71,8 +69,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898775,
-        "qs:id":475521,
         "qs_pg:id":225195
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":475521
     },
     "wof:country":"MX",
     "wof:geomhash":"2cf42049113faa923b476ea29f136434",
@@ -100,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270003,
+    "wof:lastmodified":1566619586,
     "wof:name":"Nva Anzures",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

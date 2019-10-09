@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":28.545301,
     "lbl:longitude":-106.505214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.545301,
     "mps:longitude":-106.505214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Riva Palacio"
     ],
@@ -72,9 +75,6 @@
     "name:swe_x_preferred":[
         "Riva Palacio"
     ],
-    "name:unk_x_variant":[
-        "San Andres"
-    ],
     "name:vie_x_preferred":[
         "Riva Palacio"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -126,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398231,
+    "wof:lastmodified":1566632829,
     "wof:name":"San Andr\u00e9s",
     "wof:parent_id":102075283,
     "wof:placetype":"locality",

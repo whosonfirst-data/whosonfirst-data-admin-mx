@@ -9,15 +9,18 @@
     "geom:bbox":"-104.32512,24.54034,-104.32512,24.54034",
     "geom:latitude":24.54034,
     "geom:longitude":-104.32512,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4727,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":4727,
     "iso:country":"MX",
+    "lbl:bbox":"-104.34512,24.52034,-104.30512,24.56034",
     "lbl:latitude":24.54034,
     "lbl:longitude":-104.32512,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "P\u00e1nuco de Coronado"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "P\u00e1nuco de Coronado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panuco"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":585967,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125871835,
-    "wof:lastmodified":1563400343,
+    "wof:lastmodified":1566634010,
     "wof:name":"P\u00e1nuco de Coronado",
     "wof:parent_id":102075181,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.426882,
     "lbl:longitude":-97.97833,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":16.426882,
     "mps:longitude":-97.97833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pinotepa de Don Luis"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Pinotepa de Don Luis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pinotepa"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -80,7 +83,6 @@
         "fct:id":"01aed26c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521424,
         "gp:id":136820,
-        "qs:id":1203231,
         "qs_pg:id":1203231,
         "wd:id":"Q3893293",
         "wk:page":"Pinotepa de Don Luis"
@@ -100,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397357,
+    "wof:lastmodified":1566632373,
     "wof:name":"Pinotepa de Don Luis",
     "wof:parent_id":102076297,
     "wof:placetype":"locality",

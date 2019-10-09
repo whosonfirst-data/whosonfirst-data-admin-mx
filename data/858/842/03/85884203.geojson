@@ -11,8 +11,10 @@
     "geom:longitude":-104.670739,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.675739,24.019472,-104.665739,24.029472",
     "lbl:latitude":24.024472,
     "lbl:longitude":-104.670739,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.018932,
     "mps:longitude":-104.673657,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Del Calvario"
-    ],
-    "name:unk_x_variant":[
         "Barrio Del Calvario"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686573,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900624,
-        "qs:id":1342269,
         "qs_pg:id":1342269
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619561,
     "wof:name":"Barrio Del Calvario",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

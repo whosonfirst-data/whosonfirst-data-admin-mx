@@ -11,8 +11,10 @@
     "geom:longitude":-96.728821,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.733821,17.045949,-96.723821,17.055949",
     "lbl:latitude":17.050949,
     "lbl:longitude":-96.728821,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.045822,
     "mps:longitude":-96.731723,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "\u0415\u043b \u041f\u0443\u0435\u0431\u043b\u0438\u0442\u043e"
     ],
     "name:swe_x_preferred":[
-        "El Pueblito"
-    ],
-    "name:unk_x_variant":[
         "El Pueblito"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -70,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686623,
         102191575,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890926,
-        "qs:id":1294505,
         "qs_pg:id":1294505
     },
     "wof:country":"MX",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147328,
+    "wof:lastmodified":1566619679,
     "wof:name":"El Pueblito",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

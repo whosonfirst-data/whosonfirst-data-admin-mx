@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.993164,
     "lbl:longitude":-96.431452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.993164,
     "mps:longitude":-96.431452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Villa D\u00edaz Ordaz"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "Villa D\u00edaz Ordaz"
     ],
-    "name:unk_x_variant":[
-        "D\u00edaz Ordaz"
-    ],
     "name:vie_x_preferred":[
         "Villa D\u00edaz Ordaz"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -92,7 +92,6 @@
         "fct:id":"01b83438-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529778,
         "gp:id":118187,
-        "qs:id":1155840,
         "qs_pg:id":1155840,
         "wd:id":"Q3845666",
         "wk:page":"Villa D\u00edaz Ordaz"
@@ -112,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397361,
+    "wof:lastmodified":1566632375,
     "wof:name":"Villa D\u00edaz Ordaz",
     "wof:parent_id":102076057,
     "wof:placetype":"locality",

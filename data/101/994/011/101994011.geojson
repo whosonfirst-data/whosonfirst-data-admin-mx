@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":29.055245,
     "lbl:longitude":-109.234511,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":29.055245,
     "mps:longitude":-109.234511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Sahuaripa"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "fct:id":"01b8ecde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3988265,
         "gp:id":141122,
-        "qs:id":1203341,
         "qs_pg:id":1203341,
         "wd:id":"Q376541"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398335,
+    "wof:lastmodified":1566632882,
     "wof:name":"Sahuaripa",
     "wof:parent_id":102074493,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.161244,
     "lbl:longitude":-103.044794,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.161244,
     "mps:longitude":-103.044794,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Tizap\u00e1n el Alto"
     ],
@@ -38,9 +41,6 @@
     "name:swe_x_preferred":[
         "Tizap\u00e1n el Alto"
     ],
-    "name:unk_x_variant":[
-        "Tizapan"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -71,7 +71,6 @@
         "fct:id":"01b98478-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3981491,
         "gp:id":149506,
-        "qs:id":322223,
         "qs_pg:id":322223,
         "wd:id":"Q20288999"
     },
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397497,
+    "wof:lastmodified":1566632442,
     "wof:name":"Tizap\u00e1n el Alto",
     "wof:parent_id":102074781,
     "wof:placetype":"locality",

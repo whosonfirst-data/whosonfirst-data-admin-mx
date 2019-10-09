@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.155212,
     "lbl:longitude":-98.859325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.155212,
     "mps:longitude":-98.859325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Tenango del Aire"
     ],
@@ -77,9 +80,6 @@
     "name:swe_x_preferred":[
         "Tenango del Aire"
     ],
-    "name:unk_x_variant":[
-        "Tenango"
-    ],
     "name:vie_x_preferred":[
         "Tenango del Aire"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -113,7 +113,6 @@
         "fct:id":"01b97244-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515991,
         "gp:id":148736,
-        "qs:id":148638,
         "qs_pg:id":148638,
         "wd:id":"Q2604977",
         "wk:page":"Tenango del Aire"
@@ -133,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397252,
+    "wof:lastmodified":1566632317,
     "wof:name":"Tenango del Aire",
     "wof:parent_id":102074045,
     "wof:placetype":"locality",

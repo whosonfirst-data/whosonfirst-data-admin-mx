@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
-    "geom:area_square_m":244911.522116,
+    "geom:area_square_m":244911.522117,
     "geom:bbox":"-101.130366919,19.7654624223,-101.124839616,19.7770579625",
     "geom:latitude":19.770974,
     "geom:longitude":-101.12755,
     "iso:country":"MX",
     "lbl:latitude":19.771006,
     "lbl:longitude":-101.127509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.771006,
     "mps:longitude":-101.127509,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889190
     },
     "wof:country":"MX",
-    "wof:geomhash":"244e78d8487781f2fa79a6fcb13f0d60",
+    "wof:geomhash":"2d6c7a9d4ad6634007a69e8035319ada",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997349,
-    "wof:lastmodified":1479904472,
+    "wof:lastmodified":1566632465,
     "wof:name":"Campestre Tar\u00edmbaro",
     "wof:parent_id":102075027,
     "wof:placetype":"locality",

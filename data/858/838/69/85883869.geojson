@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4812004.418432,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.315157,25.716361,-100.315157,25.716361",
     "geom:latitude":25.716361,
     "geom:longitude":-100.315157,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.320157,25.711361,-100.310157,25.721361",
     "lbl:latitude":25.716361,
     "lbl:longitude":-100.315157,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.711378,
     "mps:longitude":-100.316428,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Luis Echeverria Norte"
-    ],
-    "name:unk_x_variant":[
         "Luis Echeverria Norte"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898633,
-        "qs:id":1341992,
         "qs_pg:id":1341992
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874417,
+    "wof:lastmodified":1566619673,
     "wof:name":"Luis Echeverria Norte",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

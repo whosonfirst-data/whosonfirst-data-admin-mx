@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.634211,
     "lbl:longitude":-99.921701,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.634211,
     "mps:longitude":-99.921701,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Agust\u00edn Mextepec"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         "fct:id":"01cbd920-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3827000,
         "gp:id":55905930,
-        "qs:id":532224,
+        "qs_pg:id":532224,
         "wd:id":"Q20286976"
     },
     "wof:country":"MX",
@@ -81,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397984,
+    "wof:lastmodified":1566632696,
     "wof:name":"San Agust\u00edn Mextepec",
     "wof:parent_id":102074073,
     "wof:placetype":"locality",

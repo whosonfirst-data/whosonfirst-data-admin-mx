@@ -11,8 +11,10 @@
     "geom:longitude":-103.346503,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.351503,20.671262,-103.341503,20.681262",
     "lbl:latitude":20.676262,
     "lbl:longitude":-103.346503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.675813,
     "mps:longitude":-103.346281,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Deutsche Schule Guadalajara"
     ],
     "name:spa_x_preferred":[
-        "Fracc Guadalajara"
-    ],
-    "name:unk_x_variant":[
         "Fracc Guadalajara"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898232,
-        "qs:id":508522,
         "qs_pg:id":508522
     },
     "wof:country":"MX",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957716,
+    "wof:lastmodified":1566619697,
     "wof:name":"Fracc Guadalajara",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

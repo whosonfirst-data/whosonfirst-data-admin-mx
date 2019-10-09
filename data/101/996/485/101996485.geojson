@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":594680.554851,
+    "geom:area_square_m":594680.554854,
     "geom:bbox":"-100.854360565,22.1109344825,-100.843466626,22.1188003045",
     "geom:latitude":22.114833,
     "geom:longitude":-100.847688,
     "iso:country":"MX",
     "lbl:latitude":22.115034,
     "lbl:longitude":-100.847039,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.115034,
     "mps:longitude":-100.847039,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*San Luis Potos\u00ed",
     "qs:a1_lc":"24",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56068447
     },
     "wof:country":"MX",
-    "wof:geomhash":"6cf4baec424214c0a59e29dbc2f1ae70",
+    "wof:geomhash":"0e65bc1b366c506450881403aa839d95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996485,
-    "wof:lastmodified":1479906850,
+    "wof:lastmodified":1566632363,
     "wof:name":"Laguna de Santa Rita",
     "wof:parent_id":102077193,
     "wof:placetype":"locality",

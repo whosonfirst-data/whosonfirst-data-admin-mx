@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1938243.687649,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.90479,16.849071,-99.90479,16.849071",
     "geom:latitude":16.849071,
     "geom:longitude":-99.90479,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.90979,16.844071,-99.89979,16.854071",
     "lbl:latitude":16.849071,
     "lbl:longitude":-99.90479,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.85374,
     "mps:longitude":-99.90777,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Barrio Capire"
-    ],
-    "name:unk_x_variant":[
         "Barrio Capire"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
         101991509,
-        102073945,
-        85686517
+        102073945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893322,
-        "qs:id":1155301,
         "qs_pg:id":1155301
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874292,
+    "wof:lastmodified":1566619617,
     "wof:name":"Barrio Capire",
     "wof:parent_id":101991509,
     "wof:placetype":"neighbourhood",

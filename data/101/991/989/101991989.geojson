@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1686972.298359,
+    "geom:area_square_m":1686972.298357,
     "geom:bbox":"-99.632302157,18.9642812915,-99.6128879534,18.9778631502",
     "geom:latitude":18.971179,
     "geom:longitude":-99.623673,
     "iso:country":"MX",
     "lbl:latitude":18.970989,
     "lbl:longitude":-99.62382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.970989,
     "mps:longitude":-99.62382,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895558
     },
     "wof:country":"MX",
-    "wof:geomhash":"fbd50d3b034169718fd77a6f66cad6f1",
+    "wof:geomhash":"6c209ff891bc8d91926df8dbc8c12845",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991989,
-    "wof:lastmodified":1479933133,
+    "wof:lastmodified":1566632347,
     "wof:name":"Santa Ana Ixtlahuatzingo (Santa Ana)",
     "wof:parent_id":102073963,
     "wof:placetype":"locality",

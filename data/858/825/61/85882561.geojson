@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3055242.779387,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.066516,20.633701,-87.066516,20.633701",
     "geom:latitude":20.633701,
     "geom:longitude":-87.066516,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-87.071516,20.628701,-87.061516,20.638701",
     "lbl:latitude":20.633701,
     "lbl:longitude":-87.066516,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.632174,
     "mps:longitude":-87.052389,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Zazil Ha"
-    ],
-    "name:unk_x_variant":[
         "Zazil Ha"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,19 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686711,
         102191575,
         85633293,
         102001459,
-        102079241,
-        85686711
+        102079241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883285,
-        "qs:id":1119945
+        "qs_pg:id":1119945
     },
     "wof:country":"MX",
     "wof:geomhash":"af3703b7c07b3d76ec1e072d43794cfb",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874044,
+    "wof:lastmodified":1566619666,
     "wof:name":"Zazil Ha",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

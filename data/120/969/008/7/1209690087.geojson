@@ -24,8 +24,12 @@
     "gn:population":135,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.67028,16.98361,-97.63028,17.02361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8877010
     },
     "wof:country":"MX",
-    "wof:geomhash":"31a8fa8025df251fe344ad0b2f3993d1",
+    "wof:geomhash":"bb6c8c6e6f8a39893d400a7b389aae67",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209690087,
-    "wof:lastmodified":1536279274,
+    "wof:lastmodified":1566626823,
     "wof:name":"Shinicana",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -97.65028,
-    17.003610000000002,
+    17.00361,
     -97.65028,
-    17.003610000000002
+    17.00361
 ],
   "geometry": {"coordinates":[-97.65028,17.00361],"type":"Point"}
 }

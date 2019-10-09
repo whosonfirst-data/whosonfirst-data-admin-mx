@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.349428,
     "lbl:longitude":-103.196679,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.349428,
     "mps:longitude":-103.196679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ixtlahuac\u00e1n de los Membrillos"
     ],
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "Ixtlahuac\u00e1n de los Membrillos"
     ],
-    "name:unk_x_variant":[
-        "Ixtlahuacan Membrillos"
-    ],
     "name:vie_x_preferred":[
         "Ixtlahuac\u00e1n de los Membrillos"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -94,7 +94,6 @@
         "fct:id":"01b86b9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4004275,
         "gp:id":125571,
-        "qs:id":1050061,
         "qs_pg:id":1050061,
         "wd:id":"Q3142829",
         "wk:page":"Ixtlahuac\u00e1n de los Membrillos"
@@ -114,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397167,
+    "wof:lastmodified":1566632268,
     "wof:name":"Ixtlahuac\u00e1n de los Membrillos",
     "wof:parent_id":102074683,
     "wof:placetype":"locality",

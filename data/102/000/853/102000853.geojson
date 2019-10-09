@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":25.539832,
     "lbl:longitude":-103.407695,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":25.539832,
     "mps:longitude":-103.407695,
     "mz:hierarchy_label":1,
@@ -194,7 +196,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u0435\u043e\u043d"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "TRC"
     ],
     "name:urd_x_preferred":[
@@ -321,7 +323,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -334,7 +336,6 @@
         "fct:id":"01b99238-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3981254,
         "gp:id":149893,
-        "qs:id":1053695,
         "qs_pg:id":1053695,
         "wd:id":"Q386991",
         "wk:page":"Torre\u00f3n"
@@ -354,7 +355,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369757,
+    "wof:lastmodified":1566615710,
     "wof:megacity":1,
     "wof:name":"Torre\u00f3n",
     "wof:parent_id":102078789,

@@ -9,14 +9,18 @@
     "geom:bbox":"-87.31444,20.39693,-87.31444,20.39693",
     "geom:latitude":20.39693,
     "geom:longitude":-87.31444,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-87.33444,20.37693,-87.29444,20.41693",
     "lbl:latitude":20.39693,
     "lbl:longitude":-87.31444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u043a\u0443\u043c\u0430\u043b"
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Akumal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Acumal"
     ],
     "qs_pg:aaroncc":"MX",
@@ -87,7 +91,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":111697,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Quintana Roo",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1125846053,
-    "wof:lastmodified":1563400963,
+    "wof:lastmodified":1566634321,
     "wof:name":"Akumal",
     "wof:parent_id":102079243,
     "wof:placetype":"locality",

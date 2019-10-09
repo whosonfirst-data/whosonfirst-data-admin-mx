@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
-    "geom:area_square_m":917694.388525,
+    "geom:area_square_m":917694.388527,
     "geom:bbox":"-93.5891348306,17.9986923737,-93.5787843888,18.0106174436",
     "geom:latitude":18.003843,
     "geom:longitude":-93.583161,
     "iso:country":"MX",
     "lbl:latitude":18.004484,
     "lbl:longitude":-93.582025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.004484,
     "mps:longitude":-93.582025,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889684
     },
     "wof:country":"MX",
-    "wof:geomhash":"9fa3d57ffcba657281ee7ad8bc317bdc",
+    "wof:geomhash":"a11d4622e49044ab0d6232c816f8439a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994855,
-    "wof:lastmodified":1479904397,
+    "wof:lastmodified":1566632893,
     "wof:name":"Ingenio Presidente Benito Ju\u00e1rez",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

@@ -13,17 +13,20 @@
     "iso:country":"MX",
     "lbl:latitude":19.147953,
     "lbl:longitude":-99.646257,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.147953,
     "mps:longitude":-99.646257,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b0\u09be\u0997\u09cb\u09b8\u09be \u09a6\u09c7 \u0997\u09c1\u09af\u09bc\u09be\u09a6\u09be\u09b2\u09c1\u09aa\u09c7"
     ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u0440\u0430\u0433\u043e\u0437\u0430 \u0434\u0435 \u0413\u0432\u0430\u0434\u0430\u043b\u0443\u043f\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zaragoza"
     ],
     "qs:a0":"Mexico",
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":3514052,
         "gp:id":55904750,
-        "qs:id":214052,
         "qs_pg:id":214052,
         "wd:id":"Q20240748"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101992823,
-    "wof:lastmodified":1563398019,
+    "wof:lastmodified":1566632717,
     "wof:name":"Zaragoza de Guadalupe",
     "wof:parent_id":102074189,
     "wof:placetype":"locality",

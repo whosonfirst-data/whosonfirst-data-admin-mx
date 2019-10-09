@@ -12,8 +12,10 @@
     "gn:latitude":32.51667,
     "gn:longitude":-116.98333,
     "iso:country":"MX",
+    "lbl:bbox":"-117.014266,32.530779,-117.004266,32.540779",
     "lbl:latitude":32.535779,
     "lbl:longitude":-117.009266,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.542204,
     "mps:longitude":-116.99531,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Colonia Libertad"
-    ],
-    "name:unk_x_variant":[
         "Colonia Libertad"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -59,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -71,7 +70,7 @@
     "wof:concordances":{
         "gn:id":4013374,
         "gp:id":116931,
-        "qs:id":1199219
+        "qs_pg:id":1199219
     },
     "wof:country":"MX",
     "wof:geomhash":"378818f95dd31ffe99e84c9f12cadd2b",
@@ -89,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957707,
+    "wof:lastmodified":1566619455,
     "wof:name":"Colonia Libertad",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

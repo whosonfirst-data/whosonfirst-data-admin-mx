@@ -9,14 +9,17 @@
     "geom:bbox":"-99.9520369739,20.7295693777,-99.9266675272,20.7474558384",
     "geom:latitude":20.739299,
     "geom:longitude":-99.941275,
-    "geonames:id":"3524076,3532263",
+    "gn:id":"3524076,3532263",
     "iso:country":"MX",
     "lbl:latitude":20.739912,
     "lbl:longitude":-99.94233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.739912,
     "mps:longitude":-99.94233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bernal"
     ],
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Bernal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Encinos"
     ],
     "qs:a0":"Mexico",
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":386,
     "wof:belongsto":[
         102191575,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101996297,
-    "wof:lastmodified":1563397448,
+    "wof:lastmodified":1566632418,
     "wof:name":"Bernal",
     "wof:parent_id":102077105,
     "wof:placetype":"locality",

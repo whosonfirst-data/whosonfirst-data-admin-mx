@@ -11,8 +11,10 @@
     "geom:longitude":-110.953532,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.958532,29.081949,-110.948532,29.091949",
     "lbl:latitude":29.086949,
     "lbl:longitude":-110.953532,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.086479,
     "mps:longitude":-110.949566,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Hermosillo Centro"
-    ],
-    "name:unk_x_variant":[
         "Hermosillo Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686549,
         102191575,
@@ -69,7 +68,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55912936,
-        "qs:id":475092,
+        "qs_pg:id":475092
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":475864
     },
     "wof:country":"MX",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619687,
     "wof:name":"Hermosillo Centro",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

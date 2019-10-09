@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4452841.207428,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.34576,25.674763,-100.34576,25.674763",
     "geom:latitude":25.674763,
     "geom:longitude":-100.34576,
     "iso:country":"MX",
+    "lbl:bbox":"-100.35076,25.669763,-100.34076,25.679763",
     "lbl:latitude":25.674763,
     "lbl:longitude":-100.34576,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.67617,
     "mps:longitude":-100.343067,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Obispado"
-    ],
-    "name:unk_x_variant":[
         "Obispado"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3522503,
         "gp:id":55897965,
-        "qs:id":1119072,
         "qs_pg:id":1119072
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874408,
+    "wof:lastmodified":1566619693,
     "wof:name":"Obispado",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

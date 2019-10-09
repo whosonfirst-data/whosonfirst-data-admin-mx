@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":15.745615,
     "lbl:longitude":-96.466032,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":15.745615,
     "mps:longitude":-96.466032,
     "mz:hierarchy_label":1,
@@ -59,9 +61,6 @@
     ],
     "name:swe_x_preferred":[
         "San Pedro Pochutla"
-    ],
-    "name:unk_x_variant":[
-        "Pochutla"
     ],
     "name:vie_x_preferred":[
         "San Pedro Pochutla"
@@ -175,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -188,9 +187,11 @@
         "fct:id":"01b5ad6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517970,
         "gp:id":137039,
-        "qs:id":1208367,
         "qs_pg:id":1074201,
         "wd:id":"Q602726"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1208367
     },
     "wof:country":"MX",
     "wof:geomhash":"7e3780e40916531260ac7a51ecc23e7a",
@@ -207,7 +208,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397932,
+    "wof:lastmodified":1566632666,
     "wof:name":"San Pedro Pochutla",
     "wof:parent_id":102076513,
     "wof:placetype":"locality",

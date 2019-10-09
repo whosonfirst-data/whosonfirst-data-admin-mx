@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.708854,
     "lbl:longitude":-99.78856,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.708854,
     "mps:longitude":-99.78856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Jocotitl\u00e1n"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "Jocotitl\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Xocotitl\u00e1n"
-    ],
     "name:vie_x_preferred":[
         "Jocotitl\u00e1n"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -117,7 +117,6 @@
         "fct:id":"01b8766e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526473,
         "gp:id":125959,
-        "qs:id":1045466,
         "qs_pg:id":1045466,
         "wd:id":"Q3241862"
     },
@@ -136,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397996,
+    "wof:lastmodified":1566632703,
     "wof:name":"Jocotitl\u00e1n",
     "wof:parent_id":102074125,
     "wof:placetype":"locality",

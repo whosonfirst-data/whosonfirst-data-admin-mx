@@ -9,14 +9,17 @@
     "geom:bbox":"-92.4807072467,16.9984200784,-92.4622523726,17.0110192306",
     "geom:latitude":17.005688,
     "geom:longitude":-92.470701,
-    "geonames:id":"3815728,3517659",
+    "gn:id":"3815728,3517659",
     "iso:country":"MX",
     "lbl:latitude":17.004596,
     "lbl:longitude":-92.472235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.004596,
     "mps:longitude":-92.472235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Pantelh\u00f3"
     ],
@@ -77,7 +80,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101994535,
-    "wof:lastmodified":1563398242,
+    "wof:lastmodified":1566632834,
     "wof:name":"Pantelh\u00f3",
     "wof:parent_id":102075715,
     "wof:placetype":"locality",

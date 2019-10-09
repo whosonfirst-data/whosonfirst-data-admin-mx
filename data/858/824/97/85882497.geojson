@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4717471.040615,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.227568,19.316362,-98.227568,19.316362",
     "geom:latitude":19.316362,
     "geom:longitude":-98.227568,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.232568,19.311362,-98.222568,19.321362",
     "lbl:latitude":19.316362,
     "lbl:longitude":-98.227568,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.315209,
     "mps:longitude":-98.224834,
     "mz:hierarchy_label":0,
@@ -27,7 +29,7 @@
     "name:spa_x_preferred":[
         "Centro Tlaxcala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guzmanes"
     ],
     "qs:gn_id":0,
@@ -36,19 +38,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686653,
         102191575,
         85633293,
         101999049,
-        102077909,
-        85686653
+        102077909
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3981456,
         "gp:id":55882511,
-        "qs:id":243702,
         "qs_pg:id":243702
     },
     "wof:country":"MX",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874023,
+    "wof:lastmodified":1566619647,
     "wof:name":"Centro Tlaxcala",
     "wof:parent_id":101999049,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.230427,
     "lbl:longitude":-104.685011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.230427,
     "mps:longitude":-104.685011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jaluco"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":4004132,
         "gp:id":125722,
-        "qs:id":1114190,
         "qs_pg:id":1114190,
         "wd:id":"Q20148566"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101997745,
-    "wof:lastmodified":1563397625,
+    "wof:lastmodified":1566632507,
     "wof:name":"Jaluco",
     "wof:parent_id":102074851,
     "wof:placetype":"locality",

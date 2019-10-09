@@ -11,8 +11,10 @@
     "geom:longitude":-101.260653,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.265653,21.014847,-101.255653,21.024847",
     "lbl:latitude":21.019847,
     "lbl:longitude":-101.260653,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.021884,
     "mps:longitude":-101.260543,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Barrio de la Griteria"
-    ],
-    "name:unk_x_variant":[
         "Barrio de la Griteria"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55901634,
-        "qs:id":1294696,
         "qs_pg:id":1294696
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619564,
     "wof:name":"Barrio de la Griteria",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

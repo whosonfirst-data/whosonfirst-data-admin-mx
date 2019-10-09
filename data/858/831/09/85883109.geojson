@@ -10,8 +10,10 @@
     "geom:latitude":20.528831,
     "geom:longitude":-97.460894,
     "iso:country":"MX",
+    "lbl:bbox":"-97.465894,20.523831,-97.455894,20.533831",
     "lbl:latitude":20.528831,
     "lbl:longitude":-97.460894,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.525387,
     "mps:longitude":-97.458421,
     "mz:hierarchy_label":0,
@@ -57,9 +59,8 @@
     "name:spa_x_variant":[
         "Congregaci\u00f3n el Taj\u00edn"
     ],
-    "name:unk_x_variant":[
-        "Taj\u00edn",
-        "Tajin"
+    "name:und_x_variant":[
+        "Taj\u00edn"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -90,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686671,
         102191575,
@@ -102,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3516422,
         "gp:id":55890660,
-        "qs:id":1104306,
         "qs_pg:id":1104306
     },
     "wof:country":"MX",
@@ -121,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619681,
     "wof:name":"Tajin",
     "wof:parent_id":101998613,
     "wof:placetype":"neighbourhood",

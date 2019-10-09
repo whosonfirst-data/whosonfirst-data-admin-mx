@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.106429,
     "lbl:longitude":-99.589011,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.106429,
     "mps:longitude":-99.589011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:nah_x_preferred":[
         "Teotenanco Arista"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0435\u043d\u0430\u043d\u0433\u043e \u0434\u0435 \u0410\u0440\u0438\u0441\u0442\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Tenango del Valle"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +63,6 @@
         "fct:id":"01af1556-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515993,
         "gp:id":148734,
-        "qs:id":1314075,
         "qs_pg:id":1314075,
         "wd:id":"Q20240524"
     },
@@ -82,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397218,
+    "wof:lastmodified":1566632298,
     "wof:name":"Tenango de Arista",
     "wof:parent_id":102074043,
     "wof:placetype":"locality",

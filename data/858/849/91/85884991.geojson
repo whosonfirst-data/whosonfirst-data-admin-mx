@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21249005.028263,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.334756,20.752741,-105.334756,20.752741",
     "geom:latitude":20.752741,
     "geom:longitude":-105.334756,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.339756,20.747741,-105.329756,20.757741",
     "lbl:latitude":20.752741,
     "lbl:longitude":-105.334756,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.754848,
     "mps:longitude":-105.335513,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Bucerias Centro"
-    ],
-    "name:unk_x_variant":[
         "Bucerias Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,19 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686591,
         102191575,
         85633293,
         101996965,
-        102074583,
-        85686591
+        102074583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910553,
-        "qs:id":1119979
+        "qs_pg:id":1119979
     },
     "wof:country":"MX",
     "wof:geomhash":"0473793db97c6a1dffb1cd6411203de9",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874683,
+    "wof:lastmodified":1566619651,
     "wof:name":"Bucerias Centro",
     "wof:parent_id":101996965,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.860035,
     "lbl:longitude":-100.825991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.860035,
     "mps:longitude":-100.825991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Zinap\u00e9cuaro"
     ],
@@ -36,9 +39,6 @@
     "name:swe_x_preferred":[
         "Zinap\u00e9cuaro"
     ],
-    "name:unk_x_variant":[
-        "Zinapecuaro"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -69,7 +69,6 @@
         "fct:id":"01b9b6a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3979665,
         "gp:id":151744,
-        "qs:id":548361,
         "qs_pg:id":548361,
         "wd:id":"Q20295499"
     },
@@ -88,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397488,
+    "wof:lastmodified":1566632438,
     "wof:name":"Zinap\u00e9cuaro de Figueroa",
     "wof:parent_id":102075037,
     "wof:placetype":"locality",

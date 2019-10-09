@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1692466.669943,
+    "geom:area_square_m":1692466.669945,
     "geom:bbox":"-97.2722318144,19.4779699176,-97.2551269424,19.4922800584",
     "geom:latitude":19.486172,
     "geom:longitude":-97.262785,
     "iso:country":"MX",
     "lbl:latitude":19.486314,
     "lbl:longitude":-97.261771,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.486314,
     "mps:longitude":-97.261771,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891711
     },
     "wof:country":"MX",
-    "wof:geomhash":"1c5fc9523b0be1fa17f83c92080489b8",
+    "wof:geomhash":"0d95876ac08b85b95cbe57ee031e419d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998599,
-    "wof:lastmodified":1479906717,
+    "wof:lastmodified":1566632257,
     "wof:name":"San Antonio Tenextepec",
     "wof:parent_id":102077661,
     "wof:placetype":"locality",

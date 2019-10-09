@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3560127.192891,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.82708,18.630675,-91.82708,18.630675",
     "geom:latitude":18.630675,
     "geom:longitude":-91.82708,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-91.83208,18.625675,-91.82208,18.635675",
     "lbl:latitude":18.630675,
     "lbl:longitude":-91.82708,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.628382,
     "mps:longitude":-91.822952,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Puntilla"
-    ],
-    "name:unk_x_variant":[
         "Puntilla"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686707,
         102191575,
         85633293,
         102001433,
-        102079211,
-        85686707
+        102079211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882838,
-        "qs:id":993086,
         "qs_pg:id":993086
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874031,
+    "wof:lastmodified":1566619668,
     "wof:name":"Puntilla",
     "wof:parent_id":102001433,
     "wof:placetype":"neighbourhood",

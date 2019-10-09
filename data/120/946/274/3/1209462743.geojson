@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-108.92,27.34667,-108.88,27.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":3988154
     },
     "wof:country":"MX",
-    "wof:geomhash":"c2943eb5854f0ac11792e3ace3049064",
+    "wof:geomhash":"4a741a8935760b8ef532edce5f4120a8",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209462743,
-    "wof:lastmodified":1536286327,
+    "wof:lastmodified":1566626001,
     "wof:name":"Salitral",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -108.9,
-    27.366670000000006,
+    27.36667000000001,
     -108.9,
-    27.366670000000006
+    27.36667000000001
 ],
   "geometry": {"coordinates":[-108.90000000000001,27.36667000000001],"type":"Point"}
 }

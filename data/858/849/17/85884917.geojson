@@ -11,8 +11,10 @@
     "geom:longitude":-103.44088,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.44588,20.690168,-103.43588,20.700168",
     "lbl:latitude":20.695168,
     "lbl:longitude":-103.44088,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.698683,
     "mps:longitude":-103.439328,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Virreyes Residencial"
-    ],
-    "name:unk_x_variant":[
         "Virreyes Residencial"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55909967,
-        "qs:id":493798,
         "qs_pg:id":493798
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619651,
     "wof:name":"Virreyes Residencial",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

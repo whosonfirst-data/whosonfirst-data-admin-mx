@@ -9,14 +9,17 @@
     "geom:bbox":"-100.5,23.31667,-100.5,23.31667",
     "geom:latitude":23.31667,
     "geom:longitude":-100.5,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.505,23.31167,-100.495,23.32167",
     "lbl:latitude":23.31667,
     "lbl:longitude":-100.5,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "Los Pinos"
@@ -48,7 +51,7 @@
     "name:swe_x_preferred":[
         "Los Pinos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pocitos"
     ],
     "qs_pg:aaroncc":"MX",
@@ -72,7 +75,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55914713,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"San Luis Potosi",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1126100389,
-    "wof:lastmodified":1564173274,
+    "wof:lastmodified":1566633908,
     "wof:name":"Los Pinos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

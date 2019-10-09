@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000677,
-    "geom:area_square_m":7900203.500325,
+    "geom:area_square_m":7900203.500317,
     "geom:bbox":"-98.2413500962,19.3874936581,-98.2074188951,19.4304992994",
     "geom:latitude":19.406708,
     "geom:longitude":-98.224579,
     "iso:country":"MX",
     "lbl:latitude":19.408706,
     "lbl:longitude":-98.225739,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.408706,
     "mps:longitude":-98.225739,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Sim\u00f3n Tlatlahuquitepec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Sim\u00f3n Tlatlauhquitepec"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101998991,
-    "wof:lastmodified":1501268836,
+    "wof:lastmodified":1566632224,
     "wof:name":"San Sim\u00f3n Tlatlahuquitepec",
     "wof:parent_id":102077893,
     "wof:placetype":"locality",

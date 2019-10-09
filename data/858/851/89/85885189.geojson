@@ -11,8 +11,10 @@
     "geom:longitude":-93.022222,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-93.027222,16.717075,-93.017222,16.727075",
     "lbl:latitude":16.722075,
     "lbl:longitude":-93.022222,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.723996,
     "mps:longitude":-93.019997,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Ampliacion Covadonga"
-    ],
-    "name:unk_x_variant":[
         "Ampliacion Covadonga"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686611,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55918359,
-        "qs:id":1344072,
         "qs_pg:id":1344072
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957726,
+    "wof:lastmodified":1566619610,
     "wof:name":"Ampliacion Covadonga",
     "wof:parent_id":101994359,
     "wof:placetype":"neighbourhood",

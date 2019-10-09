@@ -24,8 +24,12 @@
     "gn:population":7,
     "gn:timezone":"America/Tijuana",
     "iso:country":"MX",
+    "lbl:bbox":"-116.50444,32.23167,-116.46444,32.27167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8928124
     },
     "wof:country":"MX",
-    "wof:geomhash":"42d66ac7ab9161112804529f8dfa5cd3",
+    "wof:geomhash":"7e39209991dc19787570c5b50c29328f",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209222503,
-    "wof:lastmodified":1536293913,
+    "wof:lastmodified":1566626344,
     "wof:name":"Agua Viva",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -116.48444,
-    32.251670000000004,
+    32.25167,
     -116.48444,
-    32.251670000000004
+    32.25167
 ],
   "geometry": {"coordinates":[-116.48444000000001,32.25167],"type":"Point"}
 }

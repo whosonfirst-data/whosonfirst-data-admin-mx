@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.326397,
     "lbl:longitude":-97.346166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.326397,
     "mps:longitude":-97.346166,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "San Gabriel Chilac"
     ],
@@ -36,9 +39,6 @@
         "Chilac",
         "S Gabriel Chilac",
         "S. Gabriel Chilac"
-    ],
-    "name:unk_x_variant":[
-        "Chilac"
     ],
     "name:vie_x_preferred":[
         "San Gabriel Chilac"
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +73,6 @@
         "fct:id":"01b902e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519230,
         "gp:id":142711,
-        "qs:id":1237162,
         "qs_pg:id":1237162,
         "wd:id":"Q2448820",
         "wk:page":"San Gabriel Chilac"
@@ -93,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397634,
+    "wof:lastmodified":1566632512,
     "wof:name":"San Gabriel Chilac",
     "wof:parent_id":102078257,
     "wof:placetype":"locality",

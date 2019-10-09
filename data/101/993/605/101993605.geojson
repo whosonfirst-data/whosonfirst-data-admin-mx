@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":723077.416097,
+    "geom:area_square_m":723077.416098,
     "geom:bbox":"-108.56896794,25.787900355,-108.55794047,25.79622407",
     "geom:latitude":25.791775,
     "geom:longitude":-108.563079,
     "iso:country":"MX",
     "lbl:latitude":25.79194,
     "lbl:longitude":-108.56297,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.79194,
     "mps:longitude":-108.56297,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55899769
     },
     "wof:country":"MX",
-    "wof:geomhash":"9aa40e0b4cffd3c2c6840e6e0082ee9f",
+    "wof:geomhash":"9b79a5da15521788c93ce2e242dfa33e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993605,
-    "wof:lastmodified":1479930984,
+    "wof:lastmodified":1566632767,
     "wof:name":"Gabriel Leyva Vel\u00e1zquez",
     "wof:parent_id":102074305,
     "wof:placetype":"locality",

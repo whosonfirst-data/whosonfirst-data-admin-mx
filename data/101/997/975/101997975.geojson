@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1205684.732199,
+    "geom:area_square_m":1205684.732201,
     "geom:bbox":"-103.343825717,19.6849070199,-103.331576301,19.7016375855",
     "geom:latitude":19.693483,
     "geom:longitude":-103.338628,
     "iso:country":"MX",
     "lbl:latitude":19.695931,
     "lbl:longitude":-103.338534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.695931,
     "mps:longitude":-103.338534,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":150990
     },
     "wof:country":"MX",
-    "wof:geomhash":"1d8ac5f1d7d02fddbf108224e22019c2",
+    "wof:geomhash":"8c76b923d633a5c566a6197235b07ef0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997975,
-    "wof:lastmodified":1479930342,
+    "wof:lastmodified":1566632508,
     "wof:name":"Vista Hermosa (Santa Cruz del Cortijo)",
     "wof:parent_id":102074869,
     "wof:placetype":"locality",

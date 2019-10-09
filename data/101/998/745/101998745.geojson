@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":1003008.255214,
+    "geom:area_square_m":1003008.255208,
     "geom:bbox":"-96.9198172891,19.7999237058,-96.9120150689,19.8185420976",
     "geom:latitude":19.810158,
     "geom:longitude":-96.915793,
     "iso:country":"MX",
     "lbl:latitude":19.810261,
     "lbl:longitude":-96.915477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.810261,
     "mps:longitude":-96.915477,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":55887191
     },
     "wof:country":"MX",
-    "wof:geomhash":"1bd3ce4521646775977d3777dc2c57cd",
+    "wof:geomhash":"456c0a44b1a7d8328e299bd4876123df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101998745,
-    "wof:lastmodified":1479906814,
+    "wof:lastmodified":1566632289,
     "wof:name":"Tenochtitl\u00e1n",
     "wof:parent_id":102077735,
     "wof:placetype":"locality",

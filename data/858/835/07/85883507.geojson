@@ -11,8 +11,10 @@
     "geom:longitude":-115.471312,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-115.476312,32.635845,-115.466312,32.645845",
     "lbl:latitude":32.640845,
     "lbl:longitude":-115.471312,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.638653,
     "mps:longitude":-115.471548,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Centro Civico"
-    ],
-    "name:unk_x_variant":[
         "Centro Civico"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895754,
-        "qs:id":1341545
+        "qs_pg:id":1341545
     },
     "wof:country":"MX",
     "wof:geomhash":"0d635482c8f34c6ea7f957d84143765d",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619600,
     "wof:name":"Centro Civico",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

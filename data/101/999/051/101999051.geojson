@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.316563,
     "lbl:longitude":-98.239328,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.316563,
     "mps:longitude":-98.239328,
     "mz:hierarchy_label":1,
@@ -171,9 +173,6 @@
     "name:tgl_x_preferred":[
         "Tlaxcala"
     ],
-    "name:unk_x_variant":[
-        "Tlaxcala"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0644\u0627\u06a9\u0633\u06a9\u0627\u0644\u0627 \u0634\u06c1\u0631"
     ],
@@ -298,7 +297,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -311,7 +310,6 @@
         "fct:id":"01b98d4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3815415,
         "gp:id":149673,
-        "qs:id":560826,
         "qs_pg:id":560826,
         "wd:id":"Q689987",
         "wk:page":"Tlaxcala City"
@@ -331,7 +329,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397747,
+    "wof:lastmodified":1566632578,
     "wof:name":"Tlaxcala de Xicoht\u00e9ncatl",
     "wof:parent_id":102077909,
     "wof:placetype":"locality",

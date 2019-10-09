@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1954587.574893,
+    "geom:area_square_m":1954587.574901,
     "geom:bbox":"-93.3680437088,18.0827836774,-93.3411958433,18.09770243",
     "geom:latitude":18.090079,
     "geom:longitude":-93.353383,
     "iso:country":"MX",
     "lbl:latitude":18.089011,
     "lbl:longitude":-93.357661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.089011,
     "mps:longitude":-93.357661,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Rosal\u00eda"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101994775,
-    "wof:lastmodified":1504309856,
+    "wof:lastmodified":1566632897,
     "wof:name":"Santa Rosal\u00eda (Miguel Hidalgo 2da. Secci\u00f3n)",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

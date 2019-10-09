@@ -24,8 +24,12 @@
     "gn:population":108,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-92.89028,16.31639,-92.85028,16.35639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8879920
     },
     "wof:country":"MX",
-    "wof:geomhash":"0b1c4cda51a20fdc7d8b5ac5b1edeb08",
+    "wof:geomhash":"560fe673937d5211eee1e5c0705880f4",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209212797,
-    "wof:lastmodified":1536294234,
+    "wof:lastmodified":1566627335,
     "wof:name":"San Pedro Agua Azul",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -92.87028,
-    16.336389999999998,
+    16.33639,
     -92.87028,
-    16.336389999999998
+    16.33639
 ],
   "geometry": {"coordinates":[-92.87027999999999,16.33639],"type":"Point"}
 }

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7558615.644475,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.227384,19.598642,-99.227384,19.598642",
     "geom:latitude":19.598642,
     "geom:longitude":-99.227384,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.232384,19.593642,-99.222384,19.603642",
     "lbl:latitude":19.598642,
     "lbl:longitude":-99.227384,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.59976,
     "mps:longitude":-99.227232,
     "mz:hierarchy_label":0,
@@ -36,20 +38,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101993137,
-        102074201,
-        85686527
+        102074201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3973998,
         "gp:id":55914887,
-        "qs:id":1155266,
         "qs_pg:id":1104523
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155266
     },
     "wof:country":"MX",
     "wof:geomhash":"d5e9e712614491a1ac230a9fefed302f",
@@ -67,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874194,
+    "wof:lastmodified":1566619699,
     "wof:name":"Hacienda de la Luz",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

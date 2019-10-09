@@ -12,6 +12,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.260523,
     "lbl:longitude":-99.104899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.256224,
     "mps:longitude":-99.106513,
     "mz:hierarchy_label":1,
@@ -68,9 +69,8 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Bel\u00e9n",
-        "Belen"
+    "name:und_x_variant":[
+        "Bel\u00e9n"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         857683023,
@@ -111,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3532309,
         "gp:id":55898261,
-        "qs:id":1086736,
         "qs_pg:id":1086736
     },
     "wof:country":"MX",
@@ -129,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147353,
+    "wof:lastmodified":1566619696,
     "wof:name":"Belen",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

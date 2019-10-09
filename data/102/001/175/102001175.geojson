@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.840439,
     "lbl:longitude":-88.527643,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.840439,
     "mps:longitude":-88.527643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Dzit\u00e1s"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Dzit\u00e1s"
     ],
-    "name:unk_x_variant":[
-        "Tzitas"
-    ],
     "name:vie_x_preferred":[
         "Dzit\u00e1s"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -100,7 +100,6 @@
         "fct:id":"01ae9fe0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529652,
         "gp:id":118431,
-        "qs:id":148807,
         "qs_pg:id":148807,
         "wd:id":"Q2093649"
     },
@@ -119,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369823,
+    "wof:lastmodified":1566615743,
     "wof:name":"Dzit\u00e1s",
     "wof:parent_id":102079059,
     "wof:placetype":"locality",

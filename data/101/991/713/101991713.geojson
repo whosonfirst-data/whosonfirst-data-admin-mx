@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.201765,
     "lbl:longitude":-98.775751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.201765,
     "mps:longitude":-98.775751,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Rafael"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":3517917,
         "gp:id":145269,
-        "qs:id":901613,
         "qs_pg:id":901613
     },
     "wof:country":"MX",
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101991713,
-    "wof:lastmodified":1564171198,
+    "wof:lastmodified":1566632317,
     "wof:name":"San Rafael",
     "wof:parent_id":102074015,
     "wof:placetype":"locality",

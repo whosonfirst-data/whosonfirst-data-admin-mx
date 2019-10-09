@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.18335,
     "lbl:longitude":-96.911238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.18335,
     "mps:longitude":-96.911238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Pedro Ocopetatillo"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "San Pedro Ocopetatillo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ocopetlatzingo"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101995725,
-    "wof:lastmodified":1563397827,
+    "wof:lastmodified":1566632621,
     "wof:name":"San Pedro Ocopetatillo",
     "wof:parent_id":102076883,
     "wof:placetype":"locality",

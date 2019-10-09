@@ -9,20 +9,23 @@
     "geom:bbox":"-97.16419,18.29364,-97.16419,18.29364",
     "geom:latitude":18.29364,
     "geom:longitude":-97.16419,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4454,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":4454,
     "iso:country":"MX",
+    "lbl:bbox":"-97.18419,18.27364,-97.14419,18.31364",
     "lbl:latitude":18.29364,
     "lbl:longitude":-97.16419,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Catipan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calipan"
     ],
     "qs_pg:aaroncc":"MX",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":1046707,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125941113,
-    "wof:lastmodified":1509402080,
+    "wof:lastmodified":1566633871,
     "wof:name":"Caipan",
     "wof:parent_id":102078069,
     "wof:placetype":"locality",

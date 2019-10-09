@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000445,
-    "geom:area_square_m":5234327.188991,
+    "geom:area_square_m":5234327.188986,
     "geom:bbox":"-92.9399343246,17.837417219,-92.9111028232,17.8722302593",
     "geom:latitude":17.854188,
     "geom:longitude":-92.925706,
     "iso:country":"MX",
     "lbl:latitude":17.853322,
     "lbl:longitude":-92.929527,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.853322,
     "mps:longitude":-92.929527,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":136993
     },
     "wof:country":"MX",
-    "wof:geomhash":"7e1015ce772422ddbe0279d770655bf0",
+    "wof:geomhash":"72aa940fe67fcfe2f3dcf14c66b62ae5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994767,
-    "wof:lastmodified":1479904114,
+    "wof:lastmodified":1566632871,
     "wof:name":"Playas del Rosario (Subteniente Garc\u00eda)",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

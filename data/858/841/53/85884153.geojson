@@ -11,8 +11,10 @@
     "geom:longitude":-116.625202,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.630202,31.868359,-116.620202,31.878359",
     "lbl:latitude":31.873359,
     "lbl:longitude":-116.625202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.877299,
     "mps:longitude":-116.62098,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Camilo Flores"
-    ],
-    "name:unk_x_variant":[
         "Camilo Flores"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900256,
-        "qs:id":993110
+        "qs_pg:id":993110
     },
     "wof:country":"MX",
     "wof:geomhash":"2d5802d06a579de851e1e23f50eed4b8",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619630,
     "wof:name":"Camilo Flores",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

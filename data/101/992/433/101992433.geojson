@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1623215.111219,
+    "geom:area_square_m":1623215.111226,
     "geom:bbox":"-98.800216847,19.7184240877,-98.7849266367,19.737408118",
     "geom:latitude":19.726394,
     "geom:longitude":-98.793213,
     "iso:country":"MX",
     "lbl:latitude":19.726238,
     "lbl:longitude":-98.792691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.726238,
     "mps:longitude":-98.792691,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santiago Tolman"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santiago Tolm\u00e1n"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101992433,
-    "wof:lastmodified":1501268840,
+    "wof:lastmodified":1566632730,
     "wof:name":"Santiago Tolman",
     "wof:parent_id":102073953,
     "wof:placetype":"locality",

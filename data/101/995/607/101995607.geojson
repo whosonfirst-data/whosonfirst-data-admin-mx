@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000247,
-    "geom:area_square_m":2916728.321022,
+    "geom:area_square_m":2916728.321027,
     "geom:bbox":"-97.6340143102,17.0373169852,-97.6070262919,17.0538902145",
     "geom:latitude":17.045515,
     "geom:longitude":-97.6203,
     "iso:country":"MX",
     "lbl:latitude":17.04652,
     "lbl:longitude":-97.617843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.04652,
     "mps:longitude":-97.617843,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Miguel el Grande"
     ],
@@ -41,7 +45,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +73,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1501267414,
+    "wof:lastmodified":1566632656,
     "wof:name":"San Miguel el Grande",
     "wof:parent_id":102076837,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":4107442.383373,
+    "geom:area_square_m":4107442.383382,
     "geom:bbox":"-103.328811021,20.5477855669,-103.310932908,20.583264464",
     "geom:latitude":20.566695,
     "geom:longitude":-103.319884,
     "iso:country":"MX",
     "lbl:latitude":20.569888,
     "lbl:longitude":-103.318256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.569888,
     "mps:longitude":-103.318256,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Las Pilas"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101997859,
-    "wof:lastmodified":1504309900,
+    "wof:lastmodified":1566632451,
     "wof:name":"Las Pintas",
     "wof:parent_id":102074711,
     "wof:placetype":"locality",

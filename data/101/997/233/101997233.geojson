@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
-    "geom:area_square_m":3260329.909113,
+    "geom:area_square_m":3260329.909115,
     "geom:bbox":"-100.284850219,19.5513564079,-100.250233213,19.5689419921",
     "geom:latitude":19.560789,
     "geom:longitude":-100.268491,
     "iso:country":"MX",
     "lbl:latitude":19.563522,
     "lbl:longitude":-100.269933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.563522,
     "mps:longitude":-100.269933,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90275452
     },
     "wof:country":"MX",
-    "wof:geomhash":"031d2101fa82ba4d6966fed524d52aff",
+    "wof:geomhash":"53ab40a064caafa124889ecce3d24ed4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997233,
-    "wof:lastmodified":1479930974,
+    "wof:lastmodified":1566632458,
     "wof:name":"Manzana de San Luis",
     "wof:parent_id":102074977,
     "wof:placetype":"locality",

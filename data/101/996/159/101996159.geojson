@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.568998,
     "lbl:longitude":-96.754077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.568998,
     "mps:longitude":-96.754077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u043d\u0438\u0447\u0435"
     ],
@@ -76,7 +79,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397320,
+    "wof:lastmodified":1566632356,
     "wof:name":"Taniche",
     "wof:parent_id":102077035,
     "wof:placetype":"locality",

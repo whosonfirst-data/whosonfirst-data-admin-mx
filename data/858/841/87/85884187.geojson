@@ -10,8 +10,10 @@
     "geom:latitude":21.51824,
     "geom:longitude":-104.901581,
     "iso:country":"MX",
+    "lbl:bbox":"-104.906581,21.51324,-104.896581,21.52324",
     "lbl:latitude":21.51824,
     "lbl:longitude":-104.901581,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.522515,
     "mps:longitude":-104.903311,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:spa_x_variant":[
         "Heriberto Jara",
         "La Haciendita"
-    ],
-    "name:unk_x_variant":[
-        "Heriberto Casas"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686591,
         102191575,
@@ -75,7 +74,6 @@
     "wof:concordances":{
         "gn:id":4004909,
         "gp:id":55900477,
-        "qs:id":1182721,
         "qs_pg:id":1182721
     },
     "wof:country":"MX",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619629,
     "wof:name":"Heriberto Casas",
     "wof:parent_id":101996983,
     "wof:placetype":"neighbourhood",

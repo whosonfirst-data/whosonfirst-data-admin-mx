@@ -9,20 +9,23 @@
     "geom:bbox":"-89.69832,20.91626,-89.69832,20.91626",
     "geom:latitude":20.91626,
     "geom:longitude":-89.69832,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5013,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":5013,
     "iso:country":"MX",
+    "lbl:bbox":"-89.71832,20.89626,-89.67832,20.93626",
     "lbl:latitude":20.91626,
     "lbl:longitude":-89.69832,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Itzincab Palomeque"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Itzincab"
     ],
     "qs_pg:aaroncc":"MX",
@@ -46,7 +49,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":125342,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126034655,
-    "wof:lastmodified":1509408150,
+    "wof:lastmodified":1566633974,
     "wof:name":"Idzincab",
     "wof:parent_id":102079099,
     "wof:placetype":"locality",

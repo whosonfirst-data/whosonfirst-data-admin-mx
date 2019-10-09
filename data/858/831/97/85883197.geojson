@@ -11,8 +11,10 @@
     "geom:longitude":-103.69861,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.70361,19.242896,-103.69361,19.252896",
     "lbl:latitude":19.247896,
     "lbl:longitude":-103.69861,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.248922,
     "mps:longitude":-103.698899,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Pablo Silva Garcia"
-    ],
-    "name:unk_x_variant":[
         "Pablo Silva Garcia"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686587,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891933,
-        "qs:id":1341110,
         "qs_pg:id":1341110
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619682,
     "wof:name":"Pablo Silva Garcia",
     "wof:parent_id":101996911,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":456996.226181,
+    "geom:area_square_m":456996.226176,
     "geom:bbox":"-101.561802221,21.1095804274,-101.553532685,21.1188669583",
     "geom:latitude":21.114502,
     "geom:longitude":-101.558281,
     "iso:country":"MX",
     "lbl:latitude":21.114431,
     "lbl:longitude":-101.559251,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.114431,
     "mps:longitude":-101.559251,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Guanajuato",
     "qs:a1_lc":"11",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":127891
     },
     "wof:country":"MX",
-    "wof:geomhash":"0d42741ca90724cd1c27cafccca33062",
+    "wof:geomhash":"0dc4fae1cd5d2a49717fde76ec6cfb9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996669,
-    "wof:lastmodified":1479907097,
+    "wof:lastmodified":1566632375,
     "wof:name":"San Juan de Otates",
     "wof:parent_id":102077349,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"-110.21806,30.37267,-110.21806,30.37267",
     "geom:latitude":30.37267,
     "geom:longitude":-110.21806,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-110.22306,30.36767,-110.21306,30.37767",
     "lbl:latitude":30.37267,
     "lbl:longitude":-110.21806,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rancho San Felipe"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55913044,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Sonora",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686549,
         102191575,
         85633293,
-        102074439,
-        85686549
+        102074439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126077845,
-    "wof:lastmodified":1509411006,
+    "wof:lastmodified":1566634231,
     "wof:name":"San Felipe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

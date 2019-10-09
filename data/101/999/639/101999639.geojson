@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.051201,
     "lbl:longitude":-98.212116,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":19.051201,
     "mps:longitude":-98.212116,
     "mz:hierarchy_label":1,
@@ -178,11 +180,8 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0431\u043b\u0430"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "PBC"
-    ],
-    "name:unk_x_variant":[
-        "Puebla de los Angeles"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0626\u0628\u0644\u0627\u060c \u067e\u0648\u0626\u0628\u0644\u0627"
@@ -302,7 +301,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -315,7 +314,6 @@
         "fct:id":"01b8deec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521081,
         "gp:id":137612,
-        "qs:id":775813,
         "qs_pg:id":775813,
         "wd:id":"Q125293",
         "wk:page":"Puebla City"
@@ -335,7 +333,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397736,
+    "wof:lastmodified":1566632572,
     "wof:megacity":1,
     "wof:name":"Her\u00f3ica Puebla de Zaragoza",
     "wof:parent_id":102078237,

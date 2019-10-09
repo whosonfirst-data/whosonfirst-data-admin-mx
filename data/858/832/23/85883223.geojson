@@ -10,8 +10,10 @@
     "geom:latitude":19.027934,
     "geom:longitude":-104.309692,
     "iso:country":"MX",
+    "lbl:bbox":"-104.314692,19.022934,-104.304692,19.032934",
     "lbl:latitude":19.027934,
     "lbl:longitude":-104.309692,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.024021,
     "mps:longitude":-104.311569,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     ],
     "name:spa_x_variant":[
         "Fraccionamiento Villa Florida"
-    ],
-    "name:unk_x_variant":[
-        "Villa Florida"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u6d1b\u91cc\u9054\u93ae"
@@ -75,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686587,
         102191575,
@@ -86,7 +85,7 @@
     "wof:concordances":{
         "gn:id":4028074,
         "gp:id":55892234,
-        "qs:id":1100967
+        "qs_pg:id":1100967
     },
     "wof:country":"MX",
     "wof:geomhash":"fb95670c98102ed471b96abe61b1aba9",
@@ -104,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147222,
+    "wof:lastmodified":1566619607,
     "wof:name":"Villa Florida",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.766402,
     "lbl:longitude":-98.581042,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.766402,
     "mps:longitude":-98.581042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sahagun City"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Ciudad Sahagun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bernardino de Sahag\u00fan"
     ],
     "name:urd_x_preferred":[
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102000245,
-    "wof:lastmodified":1561750204,
+    "wof:lastmodified":1566615664,
     "wof:name":"Fray Bernardino de Sahag\u00fan (Ciudad Sahag\u00fan)",
     "wof:parent_id":102078595,
     "wof:placetype":"locality",

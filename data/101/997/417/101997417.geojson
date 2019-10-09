@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.909889,
     "lbl:longitude":-102.001832,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.909889,
     "mps:longitude":-102.001832,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Pur\u00e9pero"
     ],
@@ -37,9 +40,6 @@
         "Pur\u00e9pero"
     ],
     "name:spa_x_variant":[
-        "Pur\u00e9paro de Echa\u00edz"
-    ],
-    "name:unk_x_variant":[
         "Pur\u00e9paro de Echa\u00edz"
     ],
     "name:vec_x_preferred":[
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -78,9 +78,11 @@
         "fct:id":"01aed35c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3991253,
         "gp:id":55884921,
-        "qs:id":895272,
         "qs_pg:id":286821,
         "wd:id":"Q20297981"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":895272
     },
     "wof:country":"MX",
     "wof:geomhash":"c1b6eb223cb0a4f8d684995c4701f893",
@@ -97,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397576,
+    "wof:lastmodified":1566632482,
     "wof:name":"Pur\u00e9pero de Ech\u00e1iz",
     "wof:parent_id":102075051,
     "wof:placetype":"locality",

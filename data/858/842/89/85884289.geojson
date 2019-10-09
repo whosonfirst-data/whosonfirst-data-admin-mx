@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2549933.830319,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.455505,25.525093,-103.455505,25.525093",
     "geom:latitude":25.525093,
     "geom:longitude":-103.455505,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.460505,25.520093,-103.450505,25.530093",
     "lbl:latitude":25.525093,
     "lbl:longitude":-103.455505,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.522576,
     "mps:longitude":-103.455405,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "name:spa_x_preferred":[
         "Primera Rinconada",
         "Primera Divisi\u00f3n Andaluza"
-    ],
-    "name:unk_x_variant":[
-        "Primera Rinconada"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
         102000853,
-        102078789,
-        85686689
+        102078789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902161,
-        "qs:id":139028,
         "qs_pg:id":139028
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874501,
+    "wof:lastmodified":1566619563,
     "wof:name":"Primera Rinconada",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

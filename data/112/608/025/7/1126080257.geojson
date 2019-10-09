@@ -9,20 +9,22 @@
     "geom:bbox":"-99.31469,24.72757,-99.31469,24.72757",
     "geom:latitude":24.72757,
     "geom:longitude":-99.31469,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":11,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.31969,24.72257,-99.30969,24.73257",
     "lbl:latitude":24.72757,
     "lbl:longitude":-99.31469,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Las Palmas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rancho Las Palmas"
     ],
     "qs_pg:aaroncc":"MX",
@@ -46,17 +48,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55904354,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Nuevo Leon",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686695,
         102191575,
         85633293,
-        102078931,
-        85686695
+        102078931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1126080257,
-    "wof:lastmodified":1509411126,
+    "wof:lastmodified":1566634065,
     "wof:name":"Fracc Las Palmas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

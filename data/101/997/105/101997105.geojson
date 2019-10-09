@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.776827,
     "lbl:longitude":-103.159791,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.776827,
     "mps:longitude":-103.159791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Coalcom\u00e1n de V\u00e1zquez Pallares"
     ],
@@ -67,7 +70,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101997105,
-    "wof:lastmodified":1563397484,
+    "wof:lastmodified":1566632436,
     "wof:name":"Coalcom\u00e1n de V\u00e1zquez Pallares",
     "wof:parent_id":102074901,
     "wof:placetype":"locality",

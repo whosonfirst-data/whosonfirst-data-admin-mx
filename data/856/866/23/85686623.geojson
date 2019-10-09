@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":17.025593,
     "lbl:longitude":-96.819523,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.025593,
     "mps:longitude":-96.819523,
     "mz:hierarchy_label":1,
@@ -354,7 +355,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0430\u0445\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oxaca"
     ],
     "name:urd_x_preferred":[
@@ -448,9 +449,9 @@
     "qs:source":"Mexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-31",
+    "src:population_date":"2010-05-31",
     "statoids:area_km":"93,952",
     "statoids:area_mi":"36,275",
     "statoids:as_of_date":"2010-05-31",
@@ -495,11 +496,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563375262,
+    "wof:lastmodified":1566619488,
     "wof:name":"Oaxaca",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3801962,
     "wof:population_rank":12,

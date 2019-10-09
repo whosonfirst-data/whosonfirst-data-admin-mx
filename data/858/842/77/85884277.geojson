@@ -11,8 +11,10 @@
     "geom:longitude":-101.272466,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.277466,21.004135,-101.267466,21.014135",
     "lbl:latitude":21.009135,
     "lbl:longitude":-101.272466,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.007627,
     "mps:longitude":-101.277156,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "San Gabriel de Barrera"
-    ],
-    "name:unk_x_variant":[
         "San Gabriel de Barrera"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55901728,
-        "qs:id":1342402,
         "qs_pg:id":1342402
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957719,
+    "wof:lastmodified":1566619566,
     "wof:name":"San Gabriel de Barrera",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

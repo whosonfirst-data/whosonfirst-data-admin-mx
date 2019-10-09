@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.509382,
     "lbl:longitude":-98.345862,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.509382,
     "mps:longitude":-98.345862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "San Juan Bautista Lo de Soto"
     ],
@@ -40,9 +43,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u0425\u0443\u0430\u043d \u0411\u0430\u0443\u0442\u0438\u0441\u0442\u0430 \u041b\u043e \u0434\u0435 \u0421\u043e\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "Lo de Soto"
-    ],
     "name:vie_x_preferred":[
         "San Juan Bautista lo de Soto"
     ],
@@ -61,7 +61,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -90,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564171336,
+    "wof:lastmodified":1566632599,
     "wof:name":"San Juan Bautista Lo de Soto",
     "wof:parent_id":102076991,
     "wof:placetype":"locality",

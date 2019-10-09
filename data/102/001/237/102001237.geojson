@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
-    "geom:area_square_m":811234.664903,
+    "geom:area_square_m":811234.664902,
     "geom:bbox":"-89.3525211939,20.19099413,-89.340641082,20.2015188895",
     "geom:latitude":20.195459,
     "geom:longitude":-89.346148,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.194927,
     "lbl:longitude":-89.346241,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.194927,
     "mps:longitude":-89.346241,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Kancab"
     ],
@@ -35,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102001237,
-    "wof:lastmodified":1501268842,
+    "wof:lastmodified":1566615760,
     "wof:name":"Kancab",
     "wof:parent_id":102079149,
     "wof:placetype":"locality",

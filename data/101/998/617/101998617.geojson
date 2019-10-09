@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.639517,
     "lbl:longitude":-97.101198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.639517,
     "mps:longitude":-97.101198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Las Vigas de Ram\u00edrez"
     ],
@@ -37,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101998617,
-    "wof:lastmodified":1514487386,
+    "wof:lastmodified":1566632231,
     "wof:name":"Las Vigas de Ram\u00edrez",
     "wof:parent_id":102077671,
     "wof:placetype":"locality",

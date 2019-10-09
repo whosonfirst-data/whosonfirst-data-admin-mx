@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.845163,
     "lbl:longitude":-102.720478,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":21.845163,
     "mps:longitude":-102.720478,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0432\u0438\u043b\u044c\u043e"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -113,7 +116,6 @@
         "fct:id":"01b7fc84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4016086,
         "gp:id":114242,
-        "qs:id":151460,
         "qs_pg:id":151460,
         "wd:id":"Q2312679",
         "wk:page":"Calvillo"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397425,
+    "wof:lastmodified":1566632407,
     "wof:name":"Calvillo",
     "wof:parent_id":102077377,
     "wof:placetype":"locality",

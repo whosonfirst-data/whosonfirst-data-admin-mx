@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000272,
-    "geom:area_square_m":3174275.39531,
+    "geom:area_square_m":3174275.395305,
     "geom:bbox":"-98.8376299944,19.5326953116,-98.7968827624,19.5528519277",
     "geom:latitude":19.544141,
     "geom:longitude":-98.818233,
     "iso:country":"MX",
     "lbl:latitude":19.545397,
     "lbl:longitude":-98.813454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.545397,
     "mps:longitude":-98.813454,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55906354
     },
     "wof:country":"MX",
-    "wof:geomhash":"860199013541b3c74c356d4fc778f268",
+    "wof:geomhash":"980a20cf9ff4bdc99842270bfd8d89a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991757,
-    "wof:lastmodified":1479931253,
+    "wof:lastmodified":1566632330,
     "wof:name":"San Joaqu\u00edn Coapango",
     "wof:parent_id":102074023,
     "wof:placetype":"locality",

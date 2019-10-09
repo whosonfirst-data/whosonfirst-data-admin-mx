@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.067266,
     "lbl:longitude":-98.731876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.067266,
     "mps:longitude":-98.731876,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"ac2c6edc1b86d5f8f340e6759d7f404e",
+    "wof:geomhash":"fabf6aa1533aff54f0deece006d2e979",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":102000299,
-    "wof:lastmodified":1479907612,
+    "wof:lastmodified":1566615715,
     "wof:name":"El Saucillo (Fraccionamiento)",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

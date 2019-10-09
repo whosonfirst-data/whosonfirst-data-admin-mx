@@ -11,8 +11,10 @@
     "geom:longitude":-106.456057,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.461057,23.246825,-106.451057,23.256825",
     "lbl:latitude":23.251825,
     "lbl:longitude":-106.456057,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.249533,
     "mps:longitude":-106.456471,
     "mz:hierarchy_label":0,
@@ -165,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e"
     ],
-    "name:unk_x_variant":[
-        "El Dorado"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u062f\u0648\u0631\u0627\u062f\u0648"
     ],
@@ -205,7 +204,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686535,
         102191575,
@@ -216,8 +215,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887175,
-        "qs:id":1294647,
         "qs_pg:id":1111476
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294647
     },
     "wof:country":"MX",
     "wof:geomhash":"2d99d306489e1f3f65444d0d663d80ac",
@@ -235,7 +236,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147250,
+    "wof:lastmodified":1566619628,
     "wof:name":"El Dorado",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

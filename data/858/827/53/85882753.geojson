@@ -10,8 +10,10 @@
     "geom:latitude":19.289566,
     "geom:longitude":-99.662856,
     "iso:country":"MX",
+    "lbl:bbox":"-99.667856,19.284566,-99.657856,19.294566",
     "lbl:latitude":19.289566,
     "lbl:longitude":-99.662856,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.290405,
     "mps:longitude":-99.667614,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:swe_x_preferred":[
         "La Merced"
     ],
-    "name:unk_x_variant":[
-        "La Merced"
-    ],
     "name:vie_x_preferred":[
         "La Merced"
     ],
@@ -85,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -97,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3817434,
         "gp:id":55886303,
-        "qs:id":995534,
         "qs_pg:id":995534
     },
     "wof:country":"MX",
@@ -116,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147136,
+    "wof:lastmodified":1566619547,
     "wof:name":"La Merced",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":2671867.139032,
+    "geom:area_square_m":2671867.139036,
     "geom:bbox":"-100.600700579,19.8752180426,-100.574916777,19.8920471449",
     "geom:latitude":19.883942,
     "geom:longitude":-100.588633,
     "iso:country":"MX",
     "lbl:latitude":19.88416,
     "lbl:longitude":-100.586294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.88416,
     "mps:longitude":-100.586294,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55884857
     },
     "wof:country":"MX",
-    "wof:geomhash":"e75c293d159e258f32c3db30f9801635",
+    "wof:geomhash":"b822bd5d0a7345c30c43e9c1dbf10806",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997409,
-    "wof:lastmodified":1479903923,
+    "wof:lastmodified":1566632455,
     "wof:name":"Santiago Puriatz\u00edcuaro",
     "wof:parent_id":102075061,
     "wof:placetype":"locality",

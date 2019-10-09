@@ -9,14 +9,17 @@
     "geom:bbox":"-98.0141758573,21.2295996917,-97.9994797827,21.244935178",
     "geom:latitude":21.237082,
     "geom:longitude":-98.006788,
-    "geonames:id":"3526726,3526725",
+    "gn:id":"3526726,3526725",
     "iso:country":"MX",
     "lbl:latitude":21.236839,
     "lbl:longitude":-98.006658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.236839,
     "mps:longitude":-98.006658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ixcatepec"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Ixcatepec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ixcatepex"
     ],
     "name:vie_x_preferred":[
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101998399,
-    "wof:lastmodified":1564171152,
+    "wof:lastmodified":1566632227,
     "wof:name":"Ixcatepec",
     "wof:parent_id":102077551,
     "wof:placetype":"locality",

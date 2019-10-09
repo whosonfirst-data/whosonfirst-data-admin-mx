@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":29.82411,
     "lbl:longitude":-110.224328,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.82411,
     "mps:longitude":-110.224328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Aconchi"
     ],
@@ -29,9 +32,6 @@
         "Aconchi"
     ],
     "name:spa_x_variant":[
-        "Conchi"
-    ],
-    "name:unk_x_variant":[
         "Conchi"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +49,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -79,7 +79,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398259,
+    "wof:lastmodified":1566632843,
     "wof:name":"Aconchi",
     "wof:parent_id":102074451,
     "wof:placetype":"locality",

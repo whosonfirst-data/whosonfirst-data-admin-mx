@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":1113606.89356,
+    "geom:area_square_m":1113606.893563,
     "geom:bbox":"-103.471534306,25.6736369142,-103.460569708,25.6845677465",
     "geom:latitude":25.679121,
     "geom:longitude":-103.46607,
     "iso:country":"MX",
     "lbl:latitude":25.679144,
     "lbl:longitude":-103.46607,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.679144,
     "mps:longitude":-103.46607,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Durango",
     "qs:a1_lc":"10",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55905843
     },
     "wof:country":"MX",
-    "wof:geomhash":"d9864f0cd4dfe11a53b38b072753b6c6",
+    "wof:geomhash":"8416ea9cd947b50e615058163bf693cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992971,
-    "wof:lastmodified":1479904277,
+    "wof:lastmodified":1566632700,
     "wof:name":"La Popular",
     "wof:parent_id":102075131,
     "wof:placetype":"locality",

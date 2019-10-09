@@ -9,14 +9,17 @@
     "geom:bbox":"-95.59561,18.54295,-95.59561,18.54295",
     "geom:latitude":18.54295,
     "geom:longitude":-95.59561,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-95.60061,18.53795,-95.59061,18.54795",
     "lbl:latitude":18.54295,
     "lbl:longitude":-95.59561,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "El Puente"
@@ -42,7 +45,7 @@
     "name:swe_x_preferred":[
         "El Puente"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puente"
     ],
     "qs_pg:aaroncc":"MX",
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55912166,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126077359,
-    "wof:lastmodified":1564173931,
+    "wof:lastmodified":1566634236,
     "wof:name":"El Puente",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

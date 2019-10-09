@@ -10,8 +10,10 @@
     "geom:latitude":19.104678,
     "geom:longitude":-104.339904,
     "iso:country":"MX",
+    "lbl:bbox":"-104.344904,19.099678,-104.334904,19.109678",
     "lbl:latitude":19.104678,
     "lbl:longitude":-104.339904,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.108539,
     "mps:longitude":-104.335803,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "name:spa_x_preferred":[
         "Las Hadas",
         "\u00bfD\u00f3nde est\u00e1 el pa\u00eds de las hadas?"
-    ],
-    "name:unk_x_variant":[
-        "Las Hadas"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686587,
         102191575,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":4028077,
         "gp:id":55891934,
-        "qs:id":1182694,
         "qs_pg:id":1182694
     },
     "wof:country":"MX",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619682,
     "wof:name":"Las Hadas",
     "wof:parent_id":101996931,
     "wof:placetype":"neighbourhood",

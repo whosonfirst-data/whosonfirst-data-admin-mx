@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4690762.811237,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.254943,14.889868,-92.254943,14.889868",
     "geom:latitude":14.889868,
     "geom:longitude":-92.254943,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.259943,14.884868,-92.249943,14.894868",
     "lbl:latitude":14.889868,
     "lbl:longitude":-92.254943,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.891136,
     "mps:longitude":-92.254761,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Infonavit San Jose El Eden"
-    ],
-    "name:unk_x_variant":[
         "Infonavit San Jose El Eden"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,20 +57,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994355,
-        102075511,
-        85686611
+        102075511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3519004,
         "gp:id":55917901,
-        "qs:id":1137710,
         "qs_pg:id":993008
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1137710
     },
     "wof:country":"MX",
     "wof:geomhash":"146f67e7e448907cc9e8f1584bc79a39",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874086,
+    "wof:lastmodified":1566619575,
     "wof:name":"Infonavit San Jose El Eden",
     "wof:parent_id":101994355,
     "wof:placetype":"neighbourhood",

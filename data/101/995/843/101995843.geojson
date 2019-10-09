@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.780372,
     "lbl:longitude":-96.619162,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.780372,
     "mps:longitude":-96.619162,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santa Catarina Minas"
     ],
@@ -60,9 +63,6 @@
     "name:swe_x_preferred":[
         "Santa Catarina Minas"
     ],
-    "name:unk_x_variant":[
-        "Minas"
-    ],
     "name:vie_x_preferred":[
         "Santa Catarina Minas"
     ],
@@ -81,7 +81,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -111,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397804,
+    "wof:lastmodified":1566632610,
     "wof:name":"Santa Catarina Minas",
     "wof:parent_id":102076005,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.341141,
     "lbl:longitude":-90.723891,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.341141,
     "mps:longitude":-90.723891,
     "mz:hierarchy_label":1,
@@ -35,7 +37,7 @@
     "name:swe_x_preferred":[
         "Champot\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chakanputun"
     ],
     "ne:ADM0CAP":0.0,
@@ -147,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -160,8 +162,10 @@
         "fct:id":"01b808a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531177,
         "gp:id":115601,
-        "qs:id":848394,
         "qs_pg:id":242660
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":848394
     },
     "wof:country":"MX",
     "wof:geomhash":"b2c643f287a006b8282c7e4af53fdff1",
@@ -178,7 +182,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564141433,
+    "wof:lastmodified":1566615749,
     "wof:name":"Champot\u00f3n",
     "wof:parent_id":102079231,
     "wof:placetype":"locality",

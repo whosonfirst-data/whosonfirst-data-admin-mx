@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1959539.16883,
+    "geom:area_square_m":1959539.168846,
     "geom:bbox":"-92.4316712088,16.2809645996,-92.4179929051,16.3070928104",
     "geom:latitude":16.295159,
     "geom:longitude":-92.424562,
     "iso:country":"MX",
     "lbl:latitude":16.293519,
     "lbl:longitude":-92.424669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.293519,
     "mps:longitude":-92.424669,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Zoyatitan"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101994737,
-    "wof:lastmodified":1501267402,
+    "wof:lastmodified":1566632829,
     "wof:name":"Soyatit\u00e1n",
     "wof:parent_id":102075657,
     "wof:placetype":"locality",

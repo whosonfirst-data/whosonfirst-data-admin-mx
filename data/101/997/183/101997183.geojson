@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.413487,
     "lbl:longitude":-101.912282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.413487,
     "mps:longitude":-101.912282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ziracuaretiro"
     ],
@@ -62,9 +65,6 @@
     "name:swe_x_preferred":[
         "Ziracuaretiro"
     ],
-    "name:unk_x_variant":[
-        "Ziracuaret\u00f1o"
-    ],
     "name:vec_x_preferred":[
         "Ziracueretiro"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191575,
@@ -101,7 +101,6 @@
         "fct:id":"01b9b704-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3979654,
         "gp:id":151755,
-        "qs:id":1235135,
         "qs_pg:id":1235135,
         "wd:id":"Q10838523"
     },
@@ -120,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397618,
+    "wof:lastmodified":1566632504,
     "wof:name":"Ziracuaretiro",
     "wof:parent_id":102074947,
     "wof:placetype":"locality",

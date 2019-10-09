@@ -12,6 +12,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.423497,
     "lbl:longitude":-99.130919,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.419039,
     "mps:longitude":-99.130101,
     "mz:hierarchy_label":1,
@@ -80,9 +81,6 @@
     "name:tgl_x_preferred":[
         "Esperanza"
     ],
-    "name:unk_x_variant":[
-        "Esperanza"
-    ],
     "name:vie_x_preferred":[
         "Esperanza"
     ],
@@ -115,7 +113,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -130,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3827169,
         "gp:id":55899264,
-        "qs:id":214049
+        "qs_pg:id":214049
     },
     "wof:country":"MX",
     "wof:geomhash":"3a6df8ca4730b00d901a66ca26370079",
@@ -158,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147367,
+    "wof:lastmodified":1566619706,
     "wof:name":"Esperanza",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

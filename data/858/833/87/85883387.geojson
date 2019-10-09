@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3434388.702838,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.244339,19.613144,-99.244339,19.613144",
     "geom:latitude":19.613144,
     "geom:longitude":-99.244339,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.249339,19.608144,-99.239339,19.618144",
     "lbl:latitude":19.613144,
     "lbl:longitude":-99.244339,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.609521,
     "mps:longitude":-99.245846,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Bosques de Primavera"
-    ],
-    "name:unk_x_variant":[
         "Bosques de Primavera"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991533,
-        102073975,
-        85686527
+        102073975
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894273,
-        "qs:id":912466
+        "qs_pg:id":912466
     },
     "wof:country":"MX",
     "wof:geomhash":"a6557cf4fcb74151abcbf0b3f7acf838",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874315,
+    "wof:lastmodified":1566619617,
     "wof:name":"Bosques de Primavera",
     "wof:parent_id":101991533,
     "wof:placetype":"neighbourhood",

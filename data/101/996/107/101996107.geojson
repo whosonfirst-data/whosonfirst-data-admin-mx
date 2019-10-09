@@ -9,14 +9,17 @@
     "geom:bbox":"-96.6289978835,17.0520460572,-96.6141481664,17.0671801414",
     "geom:latitude":17.059346,
     "geom:longitude":-96.621924,
-    "geonames:id":"3515270,3762769",
+    "gn:id":"3515270,3762769",
     "iso:country":"MX",
     "lbl:latitude":17.059116,
     "lbl:longitude":-96.622809,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.059116,
     "mps:longitude":-96.622809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santo Domingo Tomaltepec"
     ],
@@ -65,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101996107,
-    "wof:lastmodified":1563397399,
+    "wof:lastmodified":1566632396,
     "wof:name":"Santo Domingo Tomaltepec",
     "wof:parent_id":102076049,
     "wof:placetype":"locality",

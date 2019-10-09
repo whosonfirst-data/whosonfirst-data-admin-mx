@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.178896,
     "lbl:longitude":-96.144104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":17.828001,
     "mps:longitude":-95.814495,
     "mz:hierarchy_label":1,
@@ -57,9 +59,6 @@
     "name:swe_x_preferred":[
         "Playa Vicente"
     ],
-    "name:unk_x_variant":[
-        "Venustiano Carranza"
-    ],
     "name:vie_x_preferred":[
         "Playa Vicente"
     ],
@@ -78,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -109,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397113,
+    "wof:lastmodified":1566632243,
     "wof:name":"Playa Vicente",
     "wof:parent_id":102078669,
     "wof:placetype":"locality",

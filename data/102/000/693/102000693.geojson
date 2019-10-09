@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":24.858744,
     "lbl:longitude":-99.563469,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":24.858744,
     "mps:longitude":-99.563469,
     "mz:hierarchy_label":1,
@@ -198,7 +200,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":257,
     "wof:belongsto":[
@@ -212,7 +214,6 @@
         "fct:id":"01b89a22-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3524348,
         "gp:id":131139,
-        "qs:id":242633,
         "qs_pg:id":242633,
         "wd:id":"Q991413",
         "wk:page":"Linares, Nuevo Le\u00f3n"
@@ -232,7 +233,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369679,
+    "wof:lastmodified":1566615676,
     "wof:name":"Linares",
     "wof:parent_id":102078727,
     "wof:placetype":"locality",

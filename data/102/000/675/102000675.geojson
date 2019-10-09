@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.785823,
     "lbl:longitude":-100.050217,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":25.785823,
     "mps:longitude":-100.050217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pesquer\u00eda"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "Pesquer\u00eda"
     ],
-    "name:unk_x_variant":[
-        "Pesquer\u00eda Chica"
-    ],
     "name:vie_x_preferred":[
         "Pesquer\u00eda"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -106,7 +106,6 @@
         "fct:id":"01b8d640-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3992857,
         "gp:id":136523,
-        "qs:id":902901,
         "qs_pg:id":902901,
         "wd:id":"Q3844518",
         "wk:page":"Pesquer\u00eda (Nuevo Le\u00f3n)"
@@ -126,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369648,
+    "wof:lastmodified":1566615661,
     "wof:name":"Pesquer\u00eda",
     "wof:parent_id":102078679,
     "wof:placetype":"locality",

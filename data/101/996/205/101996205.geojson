@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.020185,
     "lbl:longitude":-96.416305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.020185,
     "mps:longitude":-96.416305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Miguel del Valle"
     ],
@@ -103,7 +106,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191575,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101996205,
-    "wof:lastmodified":1564171229,
+    "wof:lastmodified":1566632380,
     "wof:name":"San Miguel del Valle",
     "wof:parent_id":102076057,
     "wof:placetype":"locality",

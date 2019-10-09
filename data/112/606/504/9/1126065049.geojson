@@ -9,16 +9,19 @@
     "geom:bbox":"-99.34312,19.47356,-99.34312,19.47356",
     "geom:latitude":19.47356,
     "geom:longitude":-99.34312,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.34812,19.46856,-99.33812,19.47856",
     "lbl:latitude":19.47356,
     "lbl:longitude":-99.34312,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tepetlaxco"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55899644,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Distrito Federal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992495,
-        102074109,
-        85686527
+        102074109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126065049,
-    "wof:lastmodified":1509410381,
+    "wof:lastmodified":1566634127,
     "wof:name":"Santiago Atepetlac",
     "wof:parent_id":101992495,
     "wof:placetype":"neighbourhood",

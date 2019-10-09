@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":375167.222956,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.199512,19.04482,-98.199512,19.04482",
     "geom:latitude":19.04482,
     "geom:longitude":-98.199512,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.204512,19.03982,-98.194512,19.04982",
     "lbl:latitude":19.04482,
     "lbl:longitude":-98.199512,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.043823,
     "mps:longitude":-98.198343,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Puebla Centro"
-    ],
-    "name:unk_x_variant":[
         "Puebla Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999639,
-        102078237,
-        85686657
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55885553,
-        "qs:id":855728,
         "qs_pg:id":855728
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874089,
+    "wof:lastmodified":1566619578,
     "wof:name":"Puebla Centro",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

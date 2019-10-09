@@ -9,14 +9,17 @@
     "geom:bbox":"-94.75631,17.27274,-94.75631,17.27274",
     "geom:latitude":17.27274,
     "geom:longitude":-94.75631,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-94.76131,17.26774,-94.75131,17.27774",
     "lbl:latitude":17.27274,
     "lbl:longitude":-94.75631,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Francisco Villa Dos"
@@ -45,16 +48,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55914664,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Oaxaca",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077581,
-        85686671
+        102077581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126104199,
-    "wof:lastmodified":1509412291,
+    "wof:lastmodified":1566633931,
     "wof:name":"Fracc Francisco Villa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

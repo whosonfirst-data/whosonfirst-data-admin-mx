@@ -11,8 +11,10 @@
     "geom:longitude":-110.959708,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.964708,29.062172,-110.954708,29.072172",
     "lbl:latitude":29.067172,
     "lbl:longitude":-110.959708,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.062003,
     "mps:longitude":-110.954275,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Hermosillo Xxi"
-    ],
-    "name:unk_x_variant":[
         "Hermosillo Xxi"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686549,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55885739,
-        "qs:id":1113549,
         "qs_pg:id":1113549
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619547,
     "wof:name":"Hermosillo Xxi",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

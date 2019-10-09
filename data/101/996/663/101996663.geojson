@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1199426.834339,
+    "geom:area_square_m":1199426.834335,
     "geom:bbox":"-101.731663808,21.067926503,-101.708421136,21.0764339666",
     "geom:latitude":21.072374,
     "geom:longitude":-101.719391,
     "iso:country":"MX",
     "lbl:latitude":21.072833,
     "lbl:longitude":-101.719226,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.072833,
     "mps:longitude":-101.719226,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Guanajuato",
     "qs:a1_lc":"11",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55896249
     },
     "wof:country":"MX",
-    "wof:geomhash":"488e8d5fe39ab09da5f6af2ddc4a62f4",
+    "wof:geomhash":"fe118e074c627d16c6985b793090b9c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996663,
-    "wof:lastmodified":1479907096,
+    "wof:lastmodified":1566632412,
     "wof:name":"Plan de Ayala (Santa Rosa)",
     "wof:parent_id":102077349,
     "wof:placetype":"locality",

@@ -5,23 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":566013.715159,
+    "geom:area_square_m":566013.715156,
     "geom:bbox":"-104.776115772,24.9722725565,-104.766682349,24.9842180859",
     "geom:latitude":24.979696,
     "geom:longitude":-104.77073,
     "iso:country":"MX",
     "lbl:latitude":24.979238,
     "lbl:longitude":-104.770656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.979238,
     "mps:longitude":-104.770656,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Coneto de Comonfort"
     ],
     "name:spa_x_variant":[
-        "Coneto"
-    ],
-    "name:unk_x_variant":[
         "Coneto"
     ],
     "qs:a0":"Mexico",
@@ -39,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,7 +68,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1501269591,
+    "wof:lastmodified":1566632740,
     "wof:name":"Coneto de Comonfort",
     "wof:parent_id":102075155,
     "wof:placetype":"locality",

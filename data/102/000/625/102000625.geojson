@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.156604,
     "lbl:longitude":-98.161111,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.156604,
     "mps:longitude":-98.161111,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09b8 \u09b0\u09c7\u0987\u09af\u09bc\u09c7\u09b8"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":3523905,
         "gp:id":132368,
-        "qs:id":243178,
         "qs_pg:id":243178,
         "wd:id":"Q20141126"
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102000625,
-    "wof:lastmodified":1563369730,
+    "wof:lastmodified":1566615699,
     "wof:name":"Los Reyes",
     "wof:parent_id":102078473,
     "wof:placetype":"locality",

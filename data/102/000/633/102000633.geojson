@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
-    "geom:area_square_m":498576.877377,
+    "geom:area_square_m":498576.877375,
     "geom:bbox":"-98.7671220092,20.0503799446,-98.7594550639,20.0591757145",
     "geom:latitude":20.054649,
     "geom:longitude":-98.76316,
     "iso:country":"MX",
     "lbl:latitude":20.052228,
     "lbl:longitude":-98.763476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.052228,
     "mps:longitude":-98.763476,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
         "gp:id":56068678
     },
     "wof:country":"MX",
-    "wof:geomhash":"9e40ef9ca55b6999735cc3e01f7e9b92",
+    "wof:geomhash":"df7a715a2385c6fa7ca3de22803fc07a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":102000633,
-    "wof:lastmodified":1479907615,
+    "wof:lastmodified":1566615672,
     "wof:name":"Forjadores de Pachuca",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

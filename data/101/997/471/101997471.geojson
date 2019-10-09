@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.999527,
     "lbl:longitude":-102.286373,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":19.999527,
     "mps:longitude":-102.286373,
     "mz:hierarchy_label":1,
@@ -273,9 +275,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0440\u0430-\u0434\u0435-\u0406\u0434\u0430\u043b\u044c\u0433\u043e"
     ],
-    "name:unk_x_variant":[
-        "Zamora"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0648\u0631\u0627"
     ],
@@ -415,7 +414,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -428,7 +427,6 @@
         "fct:id":"01b9b33a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3979802,
         "gp:id":151551,
-        "qs:id":232743,
         "qs_pg:id":232743,
         "wd:id":"Q145865",
         "wk:page":"Zamora, Michoac\u00e1n"
@@ -448,7 +446,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397496,
+    "wof:lastmodified":1566632442,
     "wof:name":"Zamora de Hidalgo",
     "wof:parent_id":102074875,
     "wof:placetype":"locality",

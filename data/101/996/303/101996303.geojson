@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.46072,
     "lbl:longitude":-100.294351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.46072,
     "mps:longitude":-100.294351,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lagunillas"
     ],
@@ -58,7 +61,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101996303,
-    "wof:lastmodified":1564171237,
+    "wof:lastmodified":1566632395,
     "wof:name":"Lagunillas",
     "wof:parent_id":102077117,
     "wof:placetype":"locality",

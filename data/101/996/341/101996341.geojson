@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.500857,
     "lbl:longitude":-100.141023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.500857,
     "mps:longitude":-100.141023,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09a6\u09cd\u09b0\u09cb \u098f\u09b8\u09cd\u0995\u09cb\u09ac\u09c7\u09a6\u09cb"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1922.0,
     "wd:latitude":20.5,
@@ -72,7 +75,6 @@
         "fct:id":"01b8d474-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3993126,
         "gp:id":136343,
-        "qs:id":151327,
         "qs_pg:id":151327,
         "wd:id":"Q3847005",
         "wk:page":"Pedro Escobedo"
@@ -92,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397372,
+    "wof:lastmodified":1566632383,
     "wof:name":"Pedro Escobedo",
     "wof:parent_id":102077119,
     "wof:placetype":"locality",

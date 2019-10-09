@@ -11,8 +11,10 @@
     "geom:longitude":-103.332488,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.337488,20.683111,-103.327488,20.693111",
     "lbl:latitude":20.688111,
     "lbl:longitude":-103.332488,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.689658,
     "mps:longitude":-103.331114,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Independencia Oriente"
-    ],
-    "name:unk_x_variant":[
         "Independencia Oriente"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910450,
-        "qs:id":1294867,
         "qs_pg:id":1294867
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619650,
     "wof:name":"Independencia Oriente",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

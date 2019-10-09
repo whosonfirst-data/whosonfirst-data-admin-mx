@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.609051,
     "lbl:longitude":-97.928684,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.609051,
     "mps:longitude":-97.928684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pisaflores"
     ],
@@ -44,7 +47,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101998417,
-    "wof:lastmodified":1563397161,
+    "wof:lastmodified":1566632265,
     "wof:name":"Pisaflores",
     "wof:parent_id":102077563,
     "wof:placetype":"locality",

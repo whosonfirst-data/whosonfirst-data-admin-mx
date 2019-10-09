@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000177,
-    "geom:area_square_m":2058032.198296,
+    "geom:area_square_m":2058032.198291,
     "geom:bbox":"-96.8639500214,19.4542900969,-96.847628477,19.4754648327",
     "geom:latitude":19.464912,
     "geom:longitude":-96.856147,
     "iso:country":"MX",
     "lbl:latitude":19.466478,
     "lbl:longitude":-96.853987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.466478,
     "mps:longitude":-96.853987,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Estanzuela"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3823413,
         "gp:id":123540,
-        "qs:id":883686,
         "qs_pg:id":883686
     },
     "wof:country":"MX",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101998351,
-    "wof:lastmodified":1497294086,
+    "wof:lastmodified":1566632259,
     "wof:name":"La Estanzuela",
     "wof:parent_id":102077521,
     "wof:placetype":"locality",

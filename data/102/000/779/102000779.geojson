@@ -9,14 +9,17 @@
     "geom:bbox":"-100.374808977,25.9165901516,-100.340272888,25.9523842395",
     "geom:latitude":25.936564,
     "geom:longitude":-100.357894,
-    "geonames:id":"4015392,4022734",
+    "gn:id":"4015392,4022734",
     "iso:country":"MX",
     "lbl:latitude":25.941329,
     "lbl:longitude":-100.362475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.941329,
     "mps:longitude":-100.362475,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Carmen"
     ],
@@ -185,7 +188,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":102000779,
-    "wof:lastmodified":1564141395,
+    "wof:lastmodified":1566615689,
     "wof:name":"Carmen",
     "wof:parent_id":102078691,
     "wof:placetype":"locality",

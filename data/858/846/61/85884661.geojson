@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3214316.217147,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.234146,20.630989,-105.234146,20.630989",
     "geom:latitude":20.630989,
     "geom:longitude":-105.234146,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.239146,20.625989,-105.229146,20.635989",
     "lbl:latitude":20.630989,
     "lbl:longitude":-105.234146,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.625716,
     "mps:longitude":-105.249156,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Res Las Glorias"
-    ],
-    "name:unk_x_variant":[
         "Res Las Glorias"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,14 +56,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55905633,
-        "qs:id":1342963
+        "qs_pg:id":1342963
     },
     "wof:country":"MX",
     "wof:geomhash":"6fea16e216112162404e74deaef079b7",
@@ -81,7 +80,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874581,
+    "wof:lastmodified":1566619632,
     "wof:name":"Res Las Glorias",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

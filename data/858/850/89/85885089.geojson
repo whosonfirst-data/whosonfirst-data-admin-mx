@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2736683.953538,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.736145,22.626688,-101.736145,22.626688",
     "geom:latitude":22.626688,
     "geom:longitude":-101.736145,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.741145,22.621688,-101.731145,22.631688",
     "lbl:latitude":22.626688,
     "lbl:longitude":-101.736145,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.626687,
     "mps:longitude":-101.738256,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio la Joya"
-    ],
-    "name:unk_x_variant":[
         "Barrio la Joya"
     ],
     "qs:gn_id":0,
@@ -55,17 +54,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
-        102077201,
-        85686647
+        102077201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55915171,
-        "qs:id":264856,
         "qs_pg:id":264856
     },
     "wof:country":"MX",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874711,
+    "wof:lastmodified":1566619592,
     "wof:name":"Barrio la Joya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

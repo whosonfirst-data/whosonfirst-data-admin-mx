@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000383,
-    "geom:area_square_m":4464040.00107,
+    "geom:area_square_m":4464040.001066,
     "geom:bbox":"-99.6688086777,19.4565662337,-99.6419556647,19.4764642182",
     "geom:latitude":19.466913,
     "geom:longitude":-99.654229,
     "iso:country":"MX",
     "lbl:latitude":19.466859,
     "lbl:longitude":-99.654228,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.466859,
     "mps:longitude":-99.654228,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55889388
     },
     "wof:country":"MX",
-    "wof:geomhash":"7054576f7ac0e2ace7d64071ae26dad7",
+    "wof:geomhash":"0d5fca8b0eba47610fc2426aef0481d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991657,
-    "wof:lastmodified":1479930376,
+    "wof:lastmodified":1566632314,
     "wof:name":"Tlachaloya Segunda Secci\u00f3n",
     "wof:parent_id":102074009,
     "wof:placetype":"locality",

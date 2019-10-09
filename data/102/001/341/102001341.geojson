@@ -9,14 +9,17 @@
     "geom:bbox":"-88.3226642307,21.1495271789,-88.3053095012,21.1664051619",
     "geom:latitude":21.157131,
     "geom:longitude":-88.313614,
-    "geonames:id":"3822358,3516488",
+    "gn:id":"3822358,3516488",
     "iso:country":"MX",
     "lbl:latitude":21.157055,
     "lbl:longitude":-88.313455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.157055,
     "mps:longitude":-88.313455,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Sucil\u00e1"
     ],
@@ -74,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":470,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":102001341,
-    "wof:lastmodified":1563369818,
+    "wof:lastmodified":1566615741,
     "wof:name":"Sucil\u00e1",
     "wof:parent_id":102079169,
     "wof:placetype":"locality",

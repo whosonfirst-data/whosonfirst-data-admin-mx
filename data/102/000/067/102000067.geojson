@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.713099,
     "lbl:longitude":-97.67181,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.713099,
     "mps:longitude":-97.67181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Zautla"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "Zautla"
     ],
-    "name:unk_x_variant":[
-        "Zautla"
-    ],
     "name:vie_x_preferred":[
         "Zautla"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -92,7 +92,6 @@
         "fct:id":"01b95430-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516905,
         "gp:id":147135,
-        "qs:id":1191775,
         "qs_pg:id":1191775,
         "wd:id":"Q953111"
     },
@@ -111,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369766,
+    "wof:lastmodified":1566615715,
     "wof:name":"Santiago Zautla",
     "wof:parent_id":102078451,
     "wof:placetype":"locality",

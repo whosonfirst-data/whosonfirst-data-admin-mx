@@ -9,14 +9,18 @@
     "geom:bbox":"-110.1079,23.80317,-110.1079,23.80317",
     "geom:latitude":23.80317,
     "geom:longitude":-110.1079,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-110.1279,23.78317,-110.0879,23.82317",
     "lbl:latitude":23.80317,
     "lbl:longitude":-110.1079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "El Triunfo"
@@ -33,7 +37,7 @@
     "name:spa_x_preferred":[
         "El Triunfo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Triunfo"
     ],
     "qs_pg:aaroncc":"MX",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":122834,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Baja California Sur",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1125978919,
-    "wof:lastmodified":1561750691,
+    "wof:lastmodified":1566634029,
     "wof:name":"El Triunfo",
     "wof:parent_id":102074519,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":24.612506,
     "lbl:longitude":-101.419736,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":24.612506,
     "mps:longitude":-101.419736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Concepci\u00f3n del Oro"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "fct:id":"01b82416-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013039,
         "gp:id":117184,
-        "qs:id":1178685,
         "qs_pg:id":1178685,
         "wd:id":"Q1919318",
         "wk:page":"Concepci\u00f3n del Oro Municipality"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397987,
+    "wof:lastmodified":1566632698,
     "wof:name":"Concepci\u00f3n del Oro",
     "wof:parent_id":102075369,
     "wof:placetype":"locality",

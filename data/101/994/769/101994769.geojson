@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":3383560.958114,
+    "geom:area_square_m":3383560.958091,
     "geom:bbox":"-92.9917805143,17.9232427166,-92.9721939577,17.9720771313",
     "geom:latitude":17.950582,
     "geom:longitude":-92.983498,
     "iso:country":"MX",
     "lbl:latitude":17.96177,
     "lbl:longitude":-92.982542,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.96177,
     "mps:longitude":-92.982542,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":56075207
     },
     "wof:country":"MX",
-    "wof:geomhash":"3c4c10eb1be26e5e92a8ec83f85442ca",
+    "wof:geomhash":"3dfa75030e06bd7f6e8cb95d918ba2eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994769,
-    "wof:lastmodified":1479904113,
+    "wof:lastmodified":1566632873,
     "wof:name":"R\u00edo Viejo 1ra. Secci\u00f3n",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

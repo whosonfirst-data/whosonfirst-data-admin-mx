@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.262545,
     "lbl:longitude":-94.692085,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.262545,
     "mps:longitude":-94.692085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pajapan"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "fct:id":"01b8cd1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522186,
         "gp:id":135508,
-        "qs:id":1045441,
         "qs_pg:id":1045441,
         "wd:id":"Q3846775",
         "wk:page":"Pajapan"
@@ -106,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397070,
+    "wof:lastmodified":1566632226,
     "wof:name":"Pajapan",
     "wof:parent_id":102077647,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":24.287023,
     "lbl:longitude":-103.446186,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":24.287023,
     "mps:longitude":-103.446186,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Miguel Auza"
     ],
@@ -40,9 +43,6 @@
     "name:swe_x_preferred":[
         "Miguel Auza"
     ],
-    "name:unk_x_variant":[
-        "San Miguel del Mezquital"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +73,6 @@
         "fct:id":"01b8b084-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3995943,
         "gp:id":133597,
-        "qs:id":874890,
         "qs_pg:id":874890,
         "wd:id":"Q20148565"
     },
@@ -92,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397972,
+    "wof:lastmodified":1566632689,
     "wof:name":"Miguel Auza",
     "wof:parent_id":102075495,
     "wof:placetype":"locality",

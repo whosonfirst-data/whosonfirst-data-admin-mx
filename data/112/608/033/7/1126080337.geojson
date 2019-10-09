@@ -9,14 +9,17 @@
     "geom:bbox":"-96.49283,17.11173,-96.49283,17.11173",
     "geom:latitude":17.11173,
     "geom:longitude":-96.49283,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-96.49783,17.10673,-96.48783,17.11673",
     "lbl:latitude":17.11173,
     "lbl:longitude":-96.49283,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Benito Ju\u00e1rez"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55915026,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Oaxaca",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
-        102076003,
-        85686623
+        102076003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126080337,
-    "wof:lastmodified":1509411130,
+    "wof:lastmodified":1566634115,
     "wof:name":"Benito Juarez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

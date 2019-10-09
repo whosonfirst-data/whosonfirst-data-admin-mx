@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.253447,
     "lbl:longitude":-99.603862,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":19.253447,
     "mps:longitude":-99.603862,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0442\u0435\u043f\u0435\u043a"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -137,7 +140,6 @@
         "fct:id":"01b8ad6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3523303,
         "gp:id":133454,
-        "qs:id":239709,
         "qs_pg:id":239709,
         "wd:id":"Q1798671",
         "wk:page":"Metepec, State of Mexico"
@@ -157,7 +159,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397999,
+    "wof:lastmodified":1566632704,
     "wof:name":"Metepec",
     "wof:parent_id":102074113,
     "wof:placetype":"locality",

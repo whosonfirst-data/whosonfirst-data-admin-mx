@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.96201,
     "lbl:longitude":-92.617661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.96201,
     "mps:longitude":-92.617661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Chalchihuit\u00e1n"
     ],
@@ -79,9 +82,6 @@
     "name:swe_x_preferred":[
         "Chalchihuit\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "San Pablo Chalchihuitan"
-    ],
     "name:vie_x_preferred":[
         "Chalchihuit\u00e1n"
     ],
@@ -100,7 +100,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -129,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398356,
+    "wof:lastmodified":1566632891,
     "wof:name":"Chalchihuit\u00e1n",
     "wof:parent_id":102075593,
     "wof:placetype":"locality",

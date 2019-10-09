@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.97878,
     "lbl:longitude":-99.527892,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.97878,
     "mps:longitude":-99.527892,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Miguel Tecomatl\u00e1n"
     ],
@@ -44,7 +47,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101991983,
-    "wof:lastmodified":1563397248,
+    "wof:lastmodified":1566632315,
     "wof:name":"San Miguel Tecomatl\u00e1n",
     "wof:parent_id":102073963,
     "wof:placetype":"locality",

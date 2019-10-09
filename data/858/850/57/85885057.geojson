@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3126953.582537,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.028503,19.432924,-97.028503,19.432924",
     "geom:latitude":19.432924,
     "geom:longitude":-97.028503,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.033503,19.427924,-97.023503,19.437924",
     "lbl:latitude":19.432924,
     "lbl:longitude":-97.028503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.433463,
     "mps:longitude":-97.030385,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Benito Juarez"
-    ],
-    "name:unk_x_variant":[
         "Benito Juarez"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -59,17 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077583,
-        85686671
+        102077583
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55912393,
-        "qs:id":776252,
+        "qs_pg:id":776252
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1113127
     },
     "wof:country":"MX",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874703,
+    "wof:lastmodified":1566619592,
     "wof:name":"Benito Juarez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

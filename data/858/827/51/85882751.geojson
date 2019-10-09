@@ -11,8 +11,10 @@
     "geom:longitude":-102.293703,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.298703,21.855694,-102.288703,21.865694",
     "lbl:latitude":21.860694,
     "lbl:longitude":-102.293703,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.859101,
     "mps:longitude":-102.295365,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Jardines de la Asuncion"
-    ],
-    "name:unk_x_variant":[
         "Fracc Jardines de la Asuncion"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686637,
         102191575,
@@ -69,7 +68,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899318,
-        "qs:id":1294487,
+        "qs_pg:id":1294487
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1342072
     },
     "wof:country":"MX",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619544,
     "wof:name":"Fracc Jardines de la Asuncion",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

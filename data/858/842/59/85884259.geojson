@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4503251.906267,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.256667,21.04793,-101.256667,21.04793",
     "geom:latitude":21.04793,
     "geom:longitude":-101.256667,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.261667,21.04293,-101.251667,21.05293",
     "lbl:latitude":21.04793,
     "lbl:longitude":-101.256667,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.048415,
     "mps:longitude":-101.24854,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Cerro de la Garantiza"
-    ],
-    "name:unk_x_variant":[
         "Cerro de la Garantiza"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
         101996599,
-        102077347,
-        85686629
+        102077347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55901648,
-        "qs:id":1342386,
         "qs_pg:id":1342386
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874492,
+    "wof:lastmodified":1566619561,
     "wof:name":"Cerro de la Garantiza",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",

@@ -9,19 +9,23 @@
     "geom:bbox":"-98.96763,21.48403,-98.96763,21.48403",
     "geom:latitude":21.48403,
     "geom:longitude":-98.96763,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.98763,21.46403,-98.94763,21.50403",
     "lbl:latitude":21.48403,
     "lbl:longitude":-98.96763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Huichihuayan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huachihuay\u00e1n"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":125192,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"San Luis Potosi",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1125890461,
-    "wof:lastmodified":1509398767,
+    "wof:lastmodified":1566633993,
     "wof:name":"Huichihuay\u00e1n",
     "wof:parent_id":102077215,
     "wof:placetype":"locality",

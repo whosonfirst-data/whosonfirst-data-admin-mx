@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.137769,
     "lbl:longitude":-96.503726,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.137769,
     "mps:longitude":-96.503726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Pedro Ixcatl\u00e1n"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "San Pedro Ixcatl\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Yxcatlan"
-    ],
     "name:vie_x_preferred":[
         "San Pedro Ixcatl\u00e1n"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -106,7 +106,6 @@
         "fct:id":"01af9d78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517993,
         "gp:id":145087,
-        "qs:id":148686,
         "qs_pg:id":148686,
         "wd:id":"Q3889574"
     },
@@ -125,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397892,
+    "wof:lastmodified":1566632651,
     "wof:name":"San Pedro Ixcatl\u00e1n",
     "wof:parent_id":102076507,
     "wof:placetype":"locality",

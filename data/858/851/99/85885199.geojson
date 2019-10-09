@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6903365.681715,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.643253,20.249959,-99.643253,20.249959",
     "geom:latitude":20.249959,
     "geom:longitude":-99.643253,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.648253,20.244959,-99.638253,20.254959",
     "lbl:latitude":20.249959,
     "lbl:longitude":-99.643253,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.25189,
     "mps:longitude":-99.643249,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Nopala de Villagran Centro"
-    ],
-    "name:unk_x_variant":[
         "Nopala de Villagran Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686665,
         102191575,
         85633293,
         102000469,
-        102078617,
-        85686665
+        102078617
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903463,
-        "qs:id":140160,
+        "qs_pg:id":140160
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1342564
     },
     "wof:country":"MX",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874746,
+    "wof:lastmodified":1566619612,
     "wof:name":"Nopala de Villagran Centro",
     "wof:parent_id":102000469,
     "wof:placetype":"neighbourhood",

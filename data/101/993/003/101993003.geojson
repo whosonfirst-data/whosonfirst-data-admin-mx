@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.119402,
     "lbl:longitude":-99.58959,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":22.119402,
     "mps:longitude":-99.58959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Alaquines"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "fct:id":"01ae826c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3533102,
         "gp:id":111774,
-        "qs:id":180012,
         "qs_pg:id":180012,
         "wd:id":"Q3311839",
         "wk:page":"Alaquines"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398182,
+    "wof:lastmodified":1566632803,
     "wof:name":"Alaquines",
     "wof:parent_id":102077251,
     "wof:placetype":"locality",

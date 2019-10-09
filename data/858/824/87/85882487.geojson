@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11809048.374312,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.328725,20.582576,-100.328725,20.582576",
     "geom:latitude":20.582576,
     "geom:longitude":-100.328725,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.333725,20.577576,-100.323725,20.587576",
     "lbl:latitude":20.582576,
     "lbl:longitude":-100.328725,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.578986,
     "mps:longitude":-100.328134,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Cumbres de Conin"
-    ],
-    "name:unk_x_variant":[
         "Cumbres de Conin"
     ],
     "qs:gn_id":0,
@@ -55,17 +54,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
-        102077107,
-        85686641
+        102077107
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882445,
-        "qs:id":232446,
         "qs_pg:id":232446
     },
     "wof:country":"MX",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874020,
+    "wof:lastmodified":1566619646,
     "wof:name":"Cumbres de Conin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

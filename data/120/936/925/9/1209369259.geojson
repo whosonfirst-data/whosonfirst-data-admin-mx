@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-109.37,28.09667,-109.33,28.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":4010826
     },
     "wof:country":"MX",
-    "wof:geomhash":"05b43d134b4afc2873fd3a40b03554e7",
+    "wof:geomhash":"c7d8c529f4c41328c8a0b715e434a37a",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209369259,
-    "wof:lastmodified":1536289163,
+    "wof:lastmodified":1566625151,
     "wof:name":"El Cajon",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -109.35,
-    28.116670000000006,
+    28.11667000000001,
     -109.35,
-    28.116670000000006
+    28.11667000000001
 ],
   "geometry": {"coordinates":[-109.34999999999999,28.11667000000001],"type":"Point"}
 }

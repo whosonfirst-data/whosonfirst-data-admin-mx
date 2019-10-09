@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.2677,
     "lbl:longitude":-89.744436,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.2677,
     "mps:longitude":-89.744436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chelem"
     ],
@@ -31,7 +34,7 @@
     "name:srp_x_preferred":[
         "\u0427\u0435\u043b\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chelen"
     ],
     "qs:a0":"Mexico",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3531046,
         "gp:id":115805,
-        "qs:id":893498,
         "qs_pg:id":893498,
         "wd:id":"Q5765543",
         "wk:page":"Chelem"
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":102001263,
-    "wof:lastmodified":1563369859,
+    "wof:lastmodified":1566615760,
     "wof:name":"Chelem",
     "wof:parent_id":102078975,
     "wof:placetype":"locality",

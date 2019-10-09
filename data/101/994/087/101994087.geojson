@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":24.47465,
     "lbl:longitude":-103.35594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":24.47465,
     "mps:longitude":-103.35594,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0995\u09cd\u09b2\u09be\u09b0\u09be"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -94,7 +97,6 @@
         "fct:id":"01aefae4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3984558,
         "gp:id":145892,
-        "qs:id":151273,
         "qs_pg:id":151273,
         "wd:id":"Q4969019",
         "wk:page":"Santa Clara, Durango"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398328,
+    "wof:lastmodified":1566632880,
     "wof:name":"Santa Clara",
     "wof:parent_id":102075149,
     "wof:placetype":"locality",

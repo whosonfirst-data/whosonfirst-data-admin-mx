@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.438956,
     "lbl:longitude":-95.4456,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.438956,
     "mps:longitude":-95.4456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santa Mar\u00eda Jalapa del Marqu\u00e9s"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -88,7 +91,6 @@
         "fct:id":"01bad9fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3801642,
         "gp:id":55900001,
-        "qs:id":1062040,
         "qs_pg:id":1062040,
         "wd:id":"Q5817708",
         "wk:page":"Santa Mar\u00eda Jalapa del Marqu\u00e9s"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397870,
+    "wof:lastmodified":1566632641,
     "wof:name":"Santa Mar\u00eda Jalapa del Marqu\u00e9s",
     "wof:parent_id":102076573,
     "wof:placetype":"locality",

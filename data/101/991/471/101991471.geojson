@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":2391298.24655,
+    "geom:area_square_m":2391298.246557,
     "geom:bbox":"-99.4221842993,18.3524775435,-99.4017181865,18.3704160214",
     "geom:latitude":18.362284,
     "geom:longitude":-99.412661,
     "iso:country":"MX",
     "lbl:latitude":18.362208,
     "lbl:longitude":-99.412662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.362208,
     "mps:longitude":-99.412662,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0443\u044d\u0442\u043b\u0430\u0445\u0443\u0447\u044b\u0442\u043b\u0430\u043d"
     ],
@@ -50,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +65,6 @@
     "wof:concordances":{
         "gn:id":3515346,
         "gp:id":149690,
-        "qs:id":180469,
         "qs_pg:id":180469
     },
     "wof:country":"MX",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101991471,
-    "wof:lastmodified":1497291177,
+    "wof:lastmodified":1566632301,
     "wof:name":"Tlaxmalac",
     "wof:parent_id":102073781,
     "wof:placetype":"locality",

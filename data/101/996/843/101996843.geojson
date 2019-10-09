@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.072073,
     "lbl:longitude":-102.272028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.072073,
     "mps:longitude":-102.272028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Francisco de los Romo"
     ],
@@ -60,9 +63,6 @@
         "San Francisco de Romos",
         "San Francisco de los Romo"
     ],
-    "name:unk_x_variant":[
-        "San Francisco de Romos"
-    ],
     "name:vie_x_preferred":[
         "San Francisco de los Romo"
     ],
@@ -81,7 +81,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -110,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750547,
+    "wof:lastmodified":1566632371,
     "wof:name":"San Francisco de los Romo",
     "wof:parent_id":102077363,
     "wof:placetype":"locality",

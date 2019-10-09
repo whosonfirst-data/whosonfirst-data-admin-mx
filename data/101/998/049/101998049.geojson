@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.391647,
     "lbl:longitude":-103.128282,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.391647,
     "mps:longitude":-103.128282,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Atotonilquillo"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":4017990,
         "gp:id":112689,
-        "qs:id":1159268,
         "qs_pg:id":1159268,
         "wd:id":"Q20139430"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101998049,
-    "wof:lastmodified":1563397097,
+    "wof:lastmodified":1566632237,
     "wof:name":"Atotonilquillo",
     "wof:parent_id":102074825,
     "wof:placetype":"locality",

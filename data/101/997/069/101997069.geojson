@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.998027,
     "lbl:longitude":-102.2278,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":17.998027,
     "mps:longitude":-102.2278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "La Orilla"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":4001056,
         "gp:id":128523,
-        "qs:id":1047588,
         "qs_pg:id":1047588,
         "wd:id":"Q20129255"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101997069,
-    "wof:lastmodified":1563397606,
+    "wof:lastmodified":1566632498,
     "wof:name":"La Orilla",
     "wof:parent_id":102074881,
     "wof:placetype":"locality",

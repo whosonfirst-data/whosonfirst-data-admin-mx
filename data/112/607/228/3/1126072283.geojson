@@ -9,14 +9,17 @@
     "geom:bbox":"-96.2507,18.71866,-96.2507,18.71866",
     "geom:latitude":18.71866,
     "geom:longitude":-96.2507,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-96.2557,18.71366,-96.2457,18.72366",
     "lbl:latitude":18.71866,
     "lbl:longitude":-96.2507,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "La Pochota"
@@ -45,16 +48,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55889057,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077777,
-        85686671
+        102077777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126072283,
-    "wof:lastmodified":1509410737,
+    "wof:lastmodified":1566634211,
     "wof:name":"La Pochota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

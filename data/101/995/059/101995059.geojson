@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.17093,
     "lbl:longitude":-96.81052,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.17093,
     "mps:longitude":-96.81052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Guadalupe Etla"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,7 @@
         "fct:id":"01b9bd4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3801596,
         "gp:id":26797940,
-        "qs:id":945671,
+        "qs_pg:id":945671,
         "wd:id":"Q20142672"
     },
     "wof:country":"MX",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101995059,
-    "wof:lastmodified":1563397897,
+    "wof:lastmodified":1566632652,
     "wof:name":"Guadalupe Etla",
     "wof:parent_id":102076089,
     "wof:placetype":"locality",

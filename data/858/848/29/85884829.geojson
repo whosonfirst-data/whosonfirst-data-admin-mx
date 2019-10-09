@@ -11,8 +11,10 @@
     "geom:longitude":-89.658055,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-89.663055,21.283358,-89.653055,21.293358",
     "lbl:latitude":21.288358,
     "lbl:longitude":-89.658055,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.290928,
     "mps:longitude":-89.650214,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
         "Ismael Garcia",
         "Ismael Garc\u00eda"
     ],
-    "name:unk_x_variant":[
-        "Ismael Garcia"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3521108,
@@ -83,9 +82,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":202,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85686701,
         102191575,
@@ -96,7 +94,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908715,
-        "qs:id":1010454,
         "qs_pg:id":1010454,
         "wd:id":"Q11683992"
     },
@@ -116,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375473,
+    "wof:lastmodified":1566619640,
     "wof:name":"Ismael Garcia",
     "wof:parent_id":102001367,
     "wof:placetype":"neighbourhood",

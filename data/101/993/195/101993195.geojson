@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":967096.852786,
+    "geom:area_square_m":967096.852789,
     "geom:bbox":"-99.7643986502,19.3649053533,-99.7521593149,19.3750395579",
     "geom:latitude":19.370234,
     "geom:longitude":-99.758533,
     "iso:country":"MX",
     "lbl:latitude":19.370285,
     "lbl:longitude":-99.759029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.370285,
     "mps:longitude":-99.759029,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55901259
     },
     "wof:country":"MX",
-    "wof:geomhash":"7e58dc64784aff619e32abe7103096ea",
+    "wof:geomhash":"a0cd043fdac0e05f609c0ac1f7add39c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993195,
-    "wof:lastmodified":1479930412,
+    "wof:lastmodified":1566632749,
     "wof:name":"Villa de Almoloya de Ju\u00e1rez",
     "wof:parent_id":102074219,
     "wof:placetype":"locality",

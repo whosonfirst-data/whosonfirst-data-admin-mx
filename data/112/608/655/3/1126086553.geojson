@@ -9,15 +9,17 @@
     "geom:bbox":"-100.79789,20.59956,-100.79789,20.59956",
     "geom:latitude":20.59956,
     "geom:longitude":-100.79789,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4145,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":4145,
     "iso:country":"MX",
+    "lbl:bbox":"-100.80289,20.59456,-100.79289,20.60456",
     "lbl:latitude":20.59956,
     "lbl:longitude":-100.79789,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Tener\u00eda del Santuario"
@@ -42,18 +44,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55920654,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Michoacan de Ocampo",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
         101993117,
-        102077259,
-        85686629
+        102077259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126086553,
-    "wof:lastmodified":1509411429,
+    "wof:lastmodified":1566634110,
     "wof:name":"Tenerias",
     "wof:parent_id":101993117,
     "wof:placetype":"neighbourhood",

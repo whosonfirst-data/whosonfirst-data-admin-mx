@@ -9,14 +9,17 @@
     "geom:bbox":"-93.07502,16.1707,-93.07502,16.1707",
     "geom:latitude":16.1707,
     "geom:longitude":-93.07502,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-93.08002,16.1657,-93.07002,16.1757",
     "lbl:latitude":16.1707,
     "lbl:longitude":-93.07502,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Revoluci\u00f3n Mexicana"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55919072,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Chiapas",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994727,
-        102075655,
-        85686611
+        102075655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126072679,
-    "wof:lastmodified":1509410757,
+    "wof:lastmodified":1566634219,
     "wof:name":"Revolucion Mexicana",
     "wof:parent_id":101994727,
     "wof:placetype":"neighbourhood",

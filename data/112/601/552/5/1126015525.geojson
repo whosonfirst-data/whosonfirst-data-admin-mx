@@ -9,15 +9,18 @@
     "geom:bbox":"-100.73333,20.21667,-100.73333,20.21667",
     "geom:latitude":20.21667,
     "geom:longitude":-100.73333,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":616,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.75333,20.19667,-100.71333,20.23667",
     "lbl:latitude":20.21667,
     "lbl:longitude":-100.73333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Esperanza"
@@ -73,7 +76,7 @@
     "name:tgl_x_preferred":[
         "Esperanza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Esperanza"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":123355,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1126015525,
-    "wof:lastmodified":1564173837,
+    "wof:lastmodified":1566634189,
     "wof:name":"Esperanza",
     "wof:parent_id":102077299,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1594977.975433,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.18069,19.05743,-98.18069,19.05743",
     "geom:latitude":19.05743,
     "geom:longitude":-98.18069,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.18569,19.05243,-98.17569,19.06243",
     "lbl:latitude":19.05743,
     "lbl:longitude":-98.18069,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.063433,
     "mps:longitude":-98.174331,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Arboledas de Guadalupe"
-    ],
-    "name:unk_x_variant":[
         "Arboledas de Guadalupe"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999639,
-        102078237,
-        85686657
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910488,
-        "qs:id":1155260,
         "qs_pg:id":776153
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155260
     },
     "wof:country":"MX",
     "wof:geomhash":"1133bab86cfeb44bc5ab98e8e5ec3a6b",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874152,
+    "wof:lastmodified":1566619570,
     "wof:name":"Arboledas de Guadalupe",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

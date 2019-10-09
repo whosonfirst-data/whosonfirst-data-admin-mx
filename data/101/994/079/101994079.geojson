@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.779191,
     "lbl:longitude":-103.298696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":21.779191,
     "mps:longitude":-103.298696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Tlaltenango de S\u00e1nchez Rom\u00e1n"
     ],
@@ -43,9 +46,6 @@
         "Tlaltenango de Sanchez Roman",
         "Tlaltenango de S\u00e1nchez Rom\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Tlaltenango"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -76,7 +76,6 @@
         "fct:id":"01b934dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3987402,
         "gp:id":145560,
-        "qs:id":151304,
         "qs_pg:id":151304,
         "wd:id":"Q4459029"
     },
@@ -95,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750611,
+    "wof:lastmodified":1566632838,
     "wof:name":"Tlaltenango de S\u00e1nchez Rom\u00e1n",
     "wof:parent_id":102075469,
     "wof:placetype":"locality",

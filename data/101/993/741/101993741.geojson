@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.080553,
     "lbl:longitude":-108.054535,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":25.080553,
     "mps:longitude":-108.054535,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Reforma"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,9 +64,11 @@
     "wof:concordances":{
         "gn:id":3525067,
         "gp:id":129085,
-        "qs:id":1047585,
         "qs_pg:id":148761,
         "wd:id":"Q20293692"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1047585
     },
     "wof:country":"MX",
     "wof:geomhash":"2f1cb82f541042404750805e8dd0d145",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101993741,
-    "wof:lastmodified":1563398144,
+    "wof:lastmodified":1566632783,
     "wof:name":"La Reforma",
     "wof:parent_id":102074341,
     "wof:placetype":"locality",

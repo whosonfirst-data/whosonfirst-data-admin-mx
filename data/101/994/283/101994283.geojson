@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":28.193455,
     "lbl:longitude":-108.367299,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.193455,
     "mps:longitude":-108.367299,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Melchor Ocampo"
     ],
@@ -61,7 +64,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101994283,
-    "wof:lastmodified":1564171458,
+    "wof:lastmodified":1566632879,
     "wof:name":"Melchor Ocampo",
     "wof:parent_id":102075253,
     "wof:placetype":"locality",

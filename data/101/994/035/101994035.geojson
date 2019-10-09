@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.89525,
     "lbl:longitude":-109.932256,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":22.89525,
     "mps:longitude":-109.932256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0648 \u0633\u0627\u0646 \u0644\u0648\u0643\u0627\u0633"
     ],
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":11.0,
     "wd:latitude":22.889722,
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":101994035,
-    "wof:lastmodified":1563398352,
+    "wof:lastmodified":1566632888,
     "wof:name":"Cabo San Lucas",
     "wof:parent_id":102074525,
     "wof:placetype":"locality",

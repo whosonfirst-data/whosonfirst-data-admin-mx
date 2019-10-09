@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":6847760.463369,
+    "geom:area_square_m":6847760.463362,
     "geom:bbox":"-116.717477338,31.8635248237,-116.666408514,31.9145082624",
     "geom:latitude":31.895089,
     "geom:longitude":-116.694806,
     "iso:country":"MX",
     "lbl:latitude":31.900526,
     "lbl:longitude":-116.6952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.900526,
     "mps:longitude":-116.6952,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Abelardo Luj\u00e1n Rodr\u00edguez"
     ],
@@ -45,7 +49,7 @@
     "name:spa_x_preferred":[
         "Abelardo L. Rodr\u00edguez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Suazal"
     ],
     "qs:a0":"Mexico",
@@ -63,7 +67,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101993477,
-    "wof:lastmodified":1501269583,
+    "wof:lastmodified":1566632760,
     "wof:name":"El Sauzal de Rodr\u00edguez",
     "wof:parent_id":102074509,
     "wof:placetype":"locality",

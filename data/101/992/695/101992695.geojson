@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":868708.716028,
+    "geom:area_square_m":868708.716025,
     "geom:bbox":"-99.3503219916,19.3665391795,-99.3395868052,19.3790367477",
     "geom:latitude":19.372554,
     "geom:longitude":-99.344478,
     "iso:country":"MX",
     "lbl:latitude":19.372016,
     "lbl:longitude":-99.344399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.372016,
     "mps:longitude":-99.344399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Dos R\u00edos"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         102191575,
@@ -46,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3827413,
         "gp:id":55898951,
-        "qs:id":905298
+        "qs_pg:id":905298
     },
     "wof:country":"MX",
     "wof:geomhash":"3fa800734930ed123e81024b45b0053e",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101992695,
-    "wof:lastmodified":1527688661,
+    "wof:lastmodified":1566632694,
     "wof:name":"Dos R\u00edos",
     "wof:parent_id":102074147,
     "wof:placetype":"locality",

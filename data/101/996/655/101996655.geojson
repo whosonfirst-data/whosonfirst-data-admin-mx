@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.150012,
     "lbl:longitude":-100.508203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.150012,
     "mps:longitude":-100.508203,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Jer\u00e9cuaro"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "fct:id":"01b8736c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4004026,
         "gp:id":125808,
-        "qs:id":341760,
         "qs_pg:id":341760,
         "wd:id":"Q2651217",
         "wk:page":"Jer\u00e9cuaro"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397431,
+    "wof:lastmodified":1566632411,
     "wof:name":"Jer\u00e9cuaro",
     "wof:parent_id":102077297,
     "wof:placetype":"locality",

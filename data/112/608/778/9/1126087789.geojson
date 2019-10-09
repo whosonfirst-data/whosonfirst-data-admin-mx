@@ -9,14 +9,17 @@
     "geom:bbox":"-99.09611,19.64694,-99.09611,19.64694",
     "geom:latitude":19.64694,
     "geom:longitude":-99.09611,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.10111,19.64194,-99.09111,19.65194",
     "lbl:latitude":19.64694,
     "lbl:longitude":-99.09611,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Villa de Las Flores"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55903525,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992813,
-        102074185,
-        85686527
+        102074185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126087789,
-    "wof:lastmodified":1509411489,
+    "wof:lastmodified":1566634080,
     "wof:name":"Villa de Las Lomas",
     "wof:parent_id":101992813,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.980018,
     "lbl:longitude":-97.78416,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.980018,
     "mps:longitude":-97.78416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Acatzingo"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "Acatzingo"
     ],
-    "name:unk_x_variant":[
-        "Acatzingo"
-    ],
     "name:vec_x_preferred":[
         "Acatzingo"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -117,7 +117,6 @@
         "fct:id":"01b7c9bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3533433,
         "gp:id":111025,
-        "qs:id":1222595,
         "qs_pg:id":1222595,
         "wd:id":"Q1998719",
         "wk:page":"Acatzingo"
@@ -137,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397740,
+    "wof:lastmodified":1566632574,
     "wof:name":"Acatzingo de Hidalgo",
     "wof:parent_id":102078001,
     "wof:placetype":"locality",

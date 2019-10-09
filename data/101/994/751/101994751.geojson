@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.04231,
     "lbl:longitude":-91.834077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.04231,
     "mps:longitude":-91.834077,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0633\u064a\u0647 \u0645\u0627\u0631\u064a\u0627 \u0645\u0648\u0631\u064a\u0644\u0648\u0633"
     ],
@@ -127,7 +130,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101994751,
-    "wof:lastmodified":1564171455,
+    "wof:lastmodified":1566632874,
     "wof:name":"Jos\u00e9 Mar\u00eda Morelos",
     "wof:parent_id":102075499,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"-99.16667,19.46667,-99.16667,19.46667",
     "geom:latitude":19.46667,
     "geom:longitude":-99.16667,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.17167,19.46167,-99.16167,19.47167",
     "lbl:latitude":19.46667,
     "lbl:longitude":-99.16667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Tlatilco"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55891724,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85686515,
         102191575,
         85633293,
         101991149,
         890535755,
-        102073735
+        102073735,
+        85686515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126070319,
-    "wof:lastmodified":1509410640,
+    "wof:lastmodified":1566634218,
     "wof:name":"Tlatelco",
     "wof:parent_id":890535755,
     "wof:placetype":"neighbourhood",

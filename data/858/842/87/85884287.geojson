@@ -11,8 +11,10 @@
     "geom:longitude":-105.667191,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.672191,26.927172,-105.662191,26.937172",
     "lbl:latitude":26.932172,
     "lbl:longitude":-105.667191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.933805,
     "mps:longitude":-105.665946,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Alfarena"
     ],
     "name:spa_x_preferred":[
-        "Alfare\u00f1a"
-    ],
-    "name:unk_x_variant":[
         "Alfare\u00f1a"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686581,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902128,
-        "qs:id":139027,
         "qs_pg:id":139027
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957719,
+    "wof:lastmodified":1566619563,
     "wof:name":"Alfare\u00f1a",
     "wof:parent_id":101994143,
     "wof:placetype":"neighbourhood",

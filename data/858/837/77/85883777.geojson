@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":193976.616254,
+    "geom:area_square_m":193976.616252,
     "geom:bbox":"-99.1845703125,19.3448365261,-99.1804504395,19.3500194817",
     "geom:latitude":19.347488,
     "geom:longitude":-99.182905,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.346644,
     "lbl:longitude":-99.183187,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.347546,
     "mps:longitude":-99.183072,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Guadalupe Chimalistac"
-    ],
-    "name:unk_x_variant":[
         "Guadalupe Chimalistac"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898208,
-        "qs:id":1091876
+        "qs_pg:id":1091876
     },
     "wof:country":"MX",
     "wof:geomhash":"b8530e97483c42bd84782f0637200573",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270507,
+    "wof:lastmodified":1566619697,
     "wof:name":"Guadalupe Chimalistac",
     "wof:parent_id":890535751,
     "wof:placetype":"neighbourhood",

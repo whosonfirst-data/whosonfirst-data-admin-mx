@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10628011.463995,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.995644,16.917566,-99.995644,16.917566",
     "geom:latitude":16.917566,
     "geom:longitude":-99.995644,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.000644,16.912566,-99.990644,16.922566",
     "lbl:latitude":16.917566,
     "lbl:longitude":-99.995644,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.91811,
     "mps:longitude":-99.996073,
     "mz:hierarchy_label":0,
@@ -65,18 +67,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
-        102073811,
-        85686517
+        102073811
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4025596,
         "gp:id":55896548,
-        "qs:id":474555,
+        "qs_pg:id":474555
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1198588
     },
     "wof:country":"MX",
@@ -95,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874140,
+    "wof:lastmodified":1566619570,
     "wof:name":"Playa Hermosa Vicente Guerrero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

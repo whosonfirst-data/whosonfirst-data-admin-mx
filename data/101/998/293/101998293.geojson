@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.931698,
     "lbl:longitude":-94.666188,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":17.931698,
     "mps:longitude":-94.666188,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Coacotla"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3824081,
         "gp:id":55892687,
-        "qs:id":73089,
         "qs_pg:id":73089,
         "wd:id":"Q20269057"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101998293,
-    "wof:lastmodified":1563397113,
+    "wof:lastmodified":1566632243,
     "wof:name":"Coacotla",
     "wof:parent_id":102077489,
     "wof:placetype":"locality",

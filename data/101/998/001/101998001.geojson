@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.483638,
     "lbl:longitude":-104.641956,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.483638,
     "mps:longitude":-104.641956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "La Huerta"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
         "fct:id":"01b884d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4001947,
         "gp:id":127732,
-        "qs:id":893087,
         "qs_pg:id":893087,
         "wd:id":"Q3847025",
         "wk:page":"La Huerta, Jalisco"
@@ -123,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397118,
+    "wof:lastmodified":1566632245,
     "wof:name":"La Huerta",
     "wof:parent_id":102074597,
     "wof:placetype":"locality",

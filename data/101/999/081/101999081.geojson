@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":4480838.108343,
+    "geom:area_square_m":4480838.108361,
     "geom:bbox":"-98.1286359059,19.3192181539,-98.0924577712,19.3438296222",
     "geom:latitude":19.330155,
     "geom:longitude":-98.110272,
     "iso:country":"MX",
     "lbl:latitude":19.330071,
     "lbl:longitude":-98.110259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.330071,
     "mps:longitude":-98.110259,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Guadalupe"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101999081,
-    "wof:lastmodified":1501267461,
+    "wof:lastmodified":1566632564,
     "wof:name":"Guadalupe Tlachco",
     "wof:parent_id":102077925,
     "wof:placetype":"locality",

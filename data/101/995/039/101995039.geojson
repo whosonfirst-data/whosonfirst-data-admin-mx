@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.993488,
     "lbl:longitude":-96.778805,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.993488,
     "mps:longitude":-96.778805,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0438\u043b\u0430\u043f\u0430\u043c \u0434\u0435 \u0413\u0435\u0440\u0435\u0440\u043e"
     ],
@@ -38,7 +41,7 @@
     "name:srp_x_preferred":[
         "\u041a\u0443\u0438\u043b\u0430\u043f\u0430\u043c \u0434\u0435 \u0413\u0435\u0440\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuil\u00e1pam"
     ],
     "name:vie_x_preferred":[
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":3529915,
         "gp:id":55915290,
-        "qs:id":245465,
         "qs_pg:id":245465,
         "wd:id":"Q3625184",
         "wk:page":"Cuilapan de Guerrero"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101995039,
-    "wof:lastmodified":1563397825,
+    "wof:lastmodified":1566632620,
     "wof:name":"Cuil\u00e1pam de Guerrero",
     "wof:parent_id":102076087,
     "wof:placetype":"locality",

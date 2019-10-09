@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.213467,
     "lbl:longitude":-98.729994,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":20.213467,
     "mps:longitude":-98.729994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a8\u09c7\u09b0\u09be\u09b2 \u09a6\u09c7\u09b2 \u099a\u09bf\u0995\u09cb"
     ],
@@ -69,9 +72,6 @@
     "name:swe_x_preferred":[
         "Mineral del Chico"
     ],
-    "name:unk_x_variant":[
-        "El Chico"
-    ],
     "name:vie_x_preferred":[
         "Mineral del Chico"
     ],
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -105,7 +105,6 @@
         "fct:id":"01af4fbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3523181,
         "gp:id":133717,
-        "qs:id":1210204,
         "qs_pg:id":1210204,
         "wd:id":"Q3844631",
         "wk:page":"Mineral del Chico"
@@ -125,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369653,
+    "wof:lastmodified":1566615662,
     "wof:name":"Mineral del Chico",
     "wof:parent_id":102078523,
     "wof:placetype":"locality",

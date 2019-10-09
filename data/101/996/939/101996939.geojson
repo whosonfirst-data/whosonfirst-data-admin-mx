@@ -9,14 +9,17 @@
     "geom:bbox":"-103.899670755,18.8845241448,-103.855475551,18.943764125",
     "geom:latitude":18.917134,
     "geom:longitude":-103.877983,
-    "geonames:id":"3982213,4028123,4028129",
+    "gn:id":"3982213,4028123,4028129",
     "iso:country":"MX",
     "lbl:latitude":18.920297,
     "lbl:longitude":-103.87581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.920297,
     "mps:longitude":-103.87581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tecom\u00e1n"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101996939,
-    "wof:lastmodified":1563397322,
+    "wof:lastmodified":1566632357,
     "wof:name":"Tecom\u00e1n",
     "wof:parent_id":102074527,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2423715.818891,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.054871,15.859372,-97.054871,15.859372",
     "geom:latitude":15.859372,
     "geom:longitude":-97.054871,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.059871,15.854372,-97.049871,15.864372",
     "lbl:latitude":15.859372,
     "lbl:longitude":-97.054871,
+    "lbl:max_zoom":18.0,
     "mps:latitude":15.865327,
     "mps:longitude":-97.052998,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Playa Zicatela"
-    ],
-    "name:unk_x_variant":[
         "Playa Zicatela"
     ],
     "qs:gn_id":0,
@@ -55,18 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101996233,
-        102075839,
-        85686623
+        102075839
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55916451,
-        "qs:id":1343963,
         "qs_pg:id":1343963
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874726,
+    "wof:lastmodified":1566619609,
     "wof:name":"Playa Zicatela",
     "wof:parent_id":101996233,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":996274.115829,
+    "geom:area_square_m":996274.115826,
     "geom:bbox":"-99.050295289,19.8056687437,-99.0392242623,19.8201216713",
     "geom:latitude":19.812818,
     "geom:longitude":-99.04492,
     "iso:country":"MX",
     "lbl:latitude":19.813657,
     "lbl:longitude":-99.045465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.813657,
     "mps:longitude":-99.045465,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90278940
     },
     "wof:country":"MX",
-    "wof:geomhash":"56a761ff0f5cd03ccce5c6b5a3ba13e4",
+    "wof:geomhash":"fd8a33e7fd1addf4c9c43bc9349859b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991559,
-    "wof:lastmodified":1479933533,
+    "wof:lastmodified":1566632297,
     "wof:name":"Arbolada los Sauces",
     "wof:parent_id":102073979,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-101.553531,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.558531,17.635347,-101.548531,17.645347",
     "lbl:latitude":17.640347,
     "lbl:longitude":-101.553531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.648274,
     "mps:longitude":-101.55017,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Jose Azueta Centro"
-    ],
-    "name:unk_x_variant":[
         "Jose Azueta Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686517,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55885772,
-        "qs:id":1155256,
         "qs_pg:id":1155256
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619543,
     "wof:name":"Jose Azueta Centro",
     "wof:parent_id":101991381,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.388476,
     "lbl:longitude":-103.72827,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.388476,
     "mps:longitude":-103.72827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Mezquitic"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -87,7 +90,6 @@
         "fct:id":"01b8af3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3995973,
         "gp:id":133553,
-        "qs:id":270491,
         "qs_pg:id":270491,
         "wd:id":"Q3174443"
     },
@@ -106,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397535,
+    "wof:lastmodified":1566632461,
     "wof:name":"Mezquitic",
     "wof:parent_id":102074613,
     "wof:placetype":"locality",

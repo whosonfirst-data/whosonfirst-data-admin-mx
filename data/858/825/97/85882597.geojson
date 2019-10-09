@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22425708.938691,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.388807,18.678964,-88.388807,18.678964",
     "geom:latitude":18.678964,
     "geom:longitude":-88.388807,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-88.393807,18.673964,-88.383807,18.683964",
     "lbl:latitude":18.678964,
     "lbl:longitude":-88.388807,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.683981,
     "mps:longitude":-88.387488,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "name:spa_x_preferred":[
         "Felipe Diaz",
         "Felipe D\u00edaz Henr\u00edquez"
-    ],
-    "name:unk_x_variant":[
-        "Felipe Diaz"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686711,
         102191575,
         85633293,
         102001487,
-        102079235,
-        85686711
+        102079235
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883761,
-        "qs:id":474455,
         "qs_pg:id":474455
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874057,
+    "wof:lastmodified":1566619670,
     "wof:name":"Felipe Diaz",
     "wof:parent_id":102001487,
     "wof:placetype":"neighbourhood",

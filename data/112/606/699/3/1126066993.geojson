@@ -9,19 +9,22 @@
     "geom:bbox":"-108.61642,25.66155,-108.61642,25.66155",
     "geom:latitude":25.66155,
     "geom:longitude":-108.61642,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-108.62142,25.65655,-108.61142,25.66655",
     "lbl:latitude":25.66155,
     "lbl:longitude":-108.61642,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Licenciado Benito Juarez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Benito Ju\u00e1rez"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,17 +48,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55913871,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Sinaloa",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686535,
         102191575,
         85633293,
         101993657,
-        102074321,
-        85686535
+        102074321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126066993,
-    "wof:lastmodified":1509410478,
+    "wof:lastmodified":1566634170,
     "wof:name":"Benito Juarez",
     "wof:parent_id":101993657,
     "wof:placetype":"neighbourhood",

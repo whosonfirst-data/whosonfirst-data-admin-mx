@@ -11,8 +11,10 @@
     "geom:longitude":-102.571717,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.576717,22.775708,-102.566717,22.785708",
     "lbl:latitude":22.780708,
     "lbl:longitude":-102.571717,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.785035,
     "mps:longitude":-102.574737,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Barrio de Buenavista"
-    ],
-    "name:unk_x_variant":[
         "Barrio de Buenavista"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686567,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890465,
-        "qs:id":1341005,
         "qs_pg:id":1341005
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619699,
     "wof:name":"Barrio de Buenavista",
     "wof:parent_id":101994047,
     "wof:placetype":"neighbourhood",

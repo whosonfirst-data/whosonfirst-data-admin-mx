@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1643480.002405,
+    "geom:area_square_m":1643480.002406,
     "geom:bbox":"-99.8628365471,19.7787559974,-99.8442314468,19.7928468124",
     "geom:latitude":19.786482,
     "geom:longitude":-99.852947,
     "iso:country":"MX",
     "lbl:latitude":19.786488,
     "lbl:longitude":-99.852947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.786488,
     "mps:longitude":-99.852947,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900375
     },
     "wof:country":"MX",
-    "wof:geomhash":"84ede252e0b7b3256772b563391ce12c",
+    "wof:geomhash":"4aaf17e68d6bc98e05b296b37bb1ecb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992855,
-    "wof:lastmodified":1479931279,
+    "wof:lastmodified":1566632733,
     "wof:name":"Tecoac (Santa Mar\u00eda Nativitas)",
     "wof:parent_id":102074199,
     "wof:placetype":"locality",

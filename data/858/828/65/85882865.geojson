@@ -10,8 +10,10 @@
     "geom:latitude":21.922058,
     "geom:longitude":-100.03952,
     "iso:country":"MX",
+    "lbl:bbox":"-100.04452,21.917058,-100.03452,21.927058",
     "lbl:latitude":21.922058,
     "lbl:longitude":-100.03952,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.920058,
     "mps:longitude":-100.041092,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:swe_x_preferred":[
         "Refugio"
     ],
-    "name:unk_x_variant":[
-        "Refugio"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3530596,
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686647,
         102191575,
@@ -91,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3520396,
         "gp:id":55887592,
-        "qs:id":268046,
         "qs_pg:id":268046
     },
     "wof:country":"MX",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147175,
+    "wof:lastmodified":1566619570,
     "wof:name":"Refugio",
     "wof:parent_id":101996455,
     "wof:placetype":"neighbourhood",

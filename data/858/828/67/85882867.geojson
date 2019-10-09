@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16945178.240797,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.523862,20.018766,-97.523862,20.018766",
     "geom:latitude":20.018766,
     "geom:longitude":-97.523862,
     "iso:country":"MX",
+    "lbl:bbox":"-97.528862,20.013766,-97.518862,20.023766",
     "lbl:latitude":20.018766,
     "lbl:longitude":-97.523862,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.022387,
     "mps:longitude":-97.522112,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Cuetzalan Del Progreso Centro"
-    ],
-    "name:unk_x_variant":[
         "Cuetzalan Del Progreso Centro"
     ],
     "qs:gn_id":0,
@@ -55,13 +54,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999375,
-        102078087,
-        85686657
+        102078087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874150,
+    "wof:lastmodified":1566619568,
     "wof:name":"Cuetzalan Del Progreso Centro",
     "wof:parent_id":101999375,
     "wof:placetype":"neighbourhood",

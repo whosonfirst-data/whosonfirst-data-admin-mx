@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.693686,
     "lbl:longitude":-103.383326,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.693686,
     "mps:longitude":-103.383326,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Durango",
     "qs:a1_lc":"10",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55896584
     },
     "wof:country":"MX",
-    "wof:geomhash":"7ab7596e402157e9f8e8f66256c235f7",
+    "wof:geomhash":"6250f30f4e942535a89882dad6582ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992969,
-    "wof:lastmodified":1479904277,
+    "wof:lastmodified":1566632711,
     "wof:name":"San Felipe",
     "wof:parent_id":102075131,
     "wof:placetype":"locality",

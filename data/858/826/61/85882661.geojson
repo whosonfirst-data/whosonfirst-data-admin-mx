@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6680916.021599,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.19452,19.684937,-101.19452,19.684937",
     "geom:latitude":19.684937,
     "geom:longitude":-101.19452,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.19952,19.679937,-101.18952,19.689937",
     "lbl:latitude":19.684937,
     "lbl:longitude":-101.19452,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.679599,
     "mps:longitude":-101.192445,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     "name:spa_x_preferred":[
         "Virreyes",
         "Plaza de los Virreyes - Eva Per\u00f3n"
-    ],
-    "name:unk_x_variant":[
-        "Virreyes"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -68,19 +67,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997341,
-        102075017,
-        85686595
+        102075017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3997220,
         "gp:id":55882952,
-        "qs:id":243749,
+        "qs_pg:id":243749
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":480111
     },
     "wof:country":"MX",
@@ -99,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874080,
+    "wof:lastmodified":1566619573,
     "wof:name":"Virreyes",
     "wof:parent_id":101997341,
     "wof:placetype":"neighbourhood",

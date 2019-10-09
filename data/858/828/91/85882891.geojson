@@ -11,8 +11,10 @@
     "geom:longitude":-97.503684,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.508684,25.878292,-97.498684,25.888292",
     "lbl:latitude":25.883292,
     "lbl:longitude":-97.503684,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.878941,
     "mps:longitude":-97.509232,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Matamoros Centro"
-    ],
-    "name:unk_x_variant":[
         "Matamoros Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887878,
-        "qs:id":1155262,
         "qs_pg:id":1155262
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619570,
     "wof:name":"Matamoros Centro",
     "wof:parent_id":102000961,
     "wof:placetype":"neighbourhood",

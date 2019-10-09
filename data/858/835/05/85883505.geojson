@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5960103.538484,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.639829,20.968866,-89.639829,20.968866",
     "geom:latitude":20.968866,
     "geom:longitude":-89.639829,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-89.644829,20.963866,-89.634829,20.973866",
     "lbl:latitude":20.968866,
     "lbl:longitude":-89.639829,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.970904,
     "mps:longitude":-89.646925,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc San Lorenzo"
-    ],
-    "name:unk_x_variant":[
         "Fracc San Lorenzo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686701,
         102191575,
         85633293,
         102001097,
-        102078971,
-        85686701
+        102078971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887159,
-        "qs:id":889564,
+        "qs_pg:id":889564
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1340636
     },
     "wof:country":"MX",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874352,
+    "wof:lastmodified":1566619598,
     "wof:name":"Fracc San Lorenzo",
     "wof:parent_id":102001097,
     "wof:placetype":"neighbourhood",

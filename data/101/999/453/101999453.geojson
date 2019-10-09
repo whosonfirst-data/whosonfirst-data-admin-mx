@@ -13,17 +13,20 @@
     "iso:country":"MX",
     "lbl:latitude":18.994629,
     "lbl:longitude":-97.705777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.994629,
     "mps:longitude":-97.705777,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09aa\u09be\u09ac\u09b2\u09cb \u09a6\u09c7 \u09b2\u09be\u09b8 \u09a4\u09c1\u09a8\u09be\u09b8"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u041f\u0430\u0431\u043b\u043e \u0434\u0435 \u043b\u0430\u0441 \u0422\u0443\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Pablo"
     ],
     "qs:a0":"Mexico",
@@ -41,7 +44,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101999453,
-    "wof:lastmodified":1563397680,
+    "wof:lastmodified":1566632538,
     "wof:name":"San Pablo de las Tunas",
     "wof:parent_id":102078133,
     "wof:placetype":"locality",

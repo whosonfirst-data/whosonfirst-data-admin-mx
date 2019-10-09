@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1856656.251901,
+    "geom:area_square_m":1856656.251904,
     "geom:bbox":"-93.0080239034,16.1289836494,-92.9893766477,16.1428315079",
     "geom:latitude":16.136186,
     "geom:longitude":-92.998894,
     "iso:country":"MX",
     "lbl:latitude":16.135858,
     "lbl:longitude":-92.999073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.135858,
     "mps:longitude":-92.999073,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900003
     },
     "wof:country":"MX",
-    "wof:geomhash":"30b19498c4406a6bd7ae7e1e3a1c963e",
+    "wof:geomhash":"84a255711558aa10c105b8d7ffe14f62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994725,
-    "wof:lastmodified":1479904524,
+    "wof:lastmodified":1566632858,
     "wof:name":"Valle Morelos",
     "wof:parent_id":102075655,
     "wof:placetype":"locality",

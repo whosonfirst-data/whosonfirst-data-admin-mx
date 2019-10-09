@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.175615,
     "lbl:longitude":-99.264668,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.175615,
     "mps:longitude":-99.264668,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Loma"
     ],
@@ -31,7 +34,7 @@
     "name:swe_x_preferred":[
         "La Loma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loma"
     ],
     "qs:a0":"Mexico",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102000203,
-    "wof:lastmodified":1564141380,
+    "wof:lastmodified":1566615676,
     "wof:name":"La Loma",
     "wof:parent_id":102078611,
     "wof:placetype":"locality",

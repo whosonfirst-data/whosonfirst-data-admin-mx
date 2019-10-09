@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1937832.095155,
+    "geom:area_square_m":1937832.095171,
     "geom:bbox":"-93.30110255,16.3843818999,-93.2835567306,16.4036478774",
     "geom:latitude":16.394487,
     "geom:longitude":-93.291831,
     "iso:country":"MX",
     "lbl:latitude":16.394736,
     "lbl:longitude":-93.292432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.394736,
     "mps:longitude":-93.292432,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895524
     },
     "wof:country":"MX",
-    "wof:geomhash":"2e685861a22fe9cadc56095da4177d9c",
+    "wof:geomhash":"f89521d2b025b624bdccee29e211e4f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994715,
-    "wof:lastmodified":1479904320,
+    "wof:lastmodified":1566632863,
     "wof:name":"Jes\u00fas Mar\u00eda Garza",
     "wof:parent_id":102075653,
     "wof:placetype":"locality",

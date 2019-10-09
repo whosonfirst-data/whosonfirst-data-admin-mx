@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3705849.360954,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.281189,16.233135,-97.281189,16.233135",
     "geom:latitude":16.233135,
     "geom:longitude":-97.281189,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.286189,16.228135,-97.276189,16.238135",
     "lbl:latitude":16.233135,
     "lbl:longitude":-97.281189,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.233135,
     "mps:longitude":-97.281189,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio la Asuncion"
-    ],
-    "name:unk_x_variant":[
         "Barrio la Asuncion"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
-        102076909,
-        85686623
+        102076909
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55917048,
-        "qs:id":140088
+        "qs_pg:id":140088
     },
     "wof:country":"MX",
     "wof:geomhash":"2d487afaffca0f7d8d6c698afd078806",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874730,
+    "wof:lastmodified":1566619614,
     "wof:name":"Barrio la Asuncion",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

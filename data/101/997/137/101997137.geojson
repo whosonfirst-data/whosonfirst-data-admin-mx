@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00196,
-    "geom:area_square_m":22906411.542431,
+    "geom:area_square_m":22906411.54247,
     "geom:bbox":"-102.378756676,19.0565364716,-102.318956556,19.1213616329",
     "geom:latitude":19.091367,
     "geom:longitude":-102.351244,
@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.091705,
     "lbl:longitude":-102.351718,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.091705,
     "mps:longitude":-102.351718,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:deu_x_preferred":[
         "Apatzing\u00e1n de la Constituci\u00f3n"
     ],
@@ -56,9 +59,6 @@
     "name:spa_x_variant":[
         "Apatzingan"
     ],
-    "name:unk_x_variant":[
-        "Apatzing\u00e1n"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u5e15\u6b3d\u7518"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -111,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1505338886,
+    "wof:lastmodified":1566632478,
     "wof:name":"Apatzing\u00e1n de la Constituci\u00f3n",
     "wof:parent_id":102074917,
     "wof:placetype":"locality",

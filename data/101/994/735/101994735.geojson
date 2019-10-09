@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":1191244.657629,
+    "geom:area_square_m":1191244.65763,
     "geom:bbox":"-92.6741263574,16.3299816602,-92.6598052939,16.3440141252",
     "geom:latitude":16.336713,
     "geom:longitude":-92.668292,
     "iso:country":"MX",
     "lbl:latitude":16.336588,
     "lbl:longitude":-92.668778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.336588,
     "mps:longitude":-92.668778,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55897528
     },
     "wof:country":"MX",
-    "wof:geomhash":"6b134f81a294f6d998f2f8dee3a86c52",
+    "wof:geomhash":"bdb1636305c31ee40168ed3a9404ccbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994735,
-    "wof:lastmodified":1479904246,
+    "wof:lastmodified":1566632874,
     "wof:name":"Presidente Echeverr\u00eda (Laja Tendida)",
     "wof:parent_id":102075657,
     "wof:placetype":"locality",

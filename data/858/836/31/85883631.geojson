@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9467773.322706,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.66482,32.565606,-116.66482,32.565606",
     "geom:latitude":32.565606,
     "geom:longitude":-116.66482,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.66982,32.560606,-116.65982,32.570606",
     "lbl:latitude":32.565606,
     "lbl:longitude":-116.66482,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.563018,
     "mps:longitude":-116.674861,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Colinas Del Cuchuma"
-    ],
-    "name:unk_x_variant":[
         "Fracc Colinas Del Cuchuma"
     ],
     "qs:gn_adm0_cc":"US",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
-        102074503,
-        85686541
+        102074503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897323,
-        "qs:id":889560
+        "qs_pg:id":889560
     },
     "wof:country":"MX",
     "wof:geomhash":"8bb22bd4c4f8679579e0b44f93adda66",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874393,
+    "wof:lastmodified":1566619687,
     "wof:name":"Fracc Colinas Del Cuchuma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

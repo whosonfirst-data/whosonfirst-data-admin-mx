@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.935069,
     "lbl:longitude":-98.89918,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.935069,
     "mps:longitude":-98.89918,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Atlatlahucan"
     ],
@@ -47,9 +50,6 @@
     "name:swe_x_preferred":[
         "Atlatlahucan"
     ],
-    "name:unk_x_variant":[
-        "Atlatlahuacan"
-    ],
     "name:vie_x_preferred":[
         "Atlatlahucan"
     ],
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +83,6 @@
         "fct:id":"01b7e866-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532603,
         "gp:id":112643,
-        "qs:id":1316754,
         "qs_pg:id":1316754,
         "wd:id":"Q2651961",
         "wk:page":"Atlatlahucan"
@@ -103,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398072,
+    "wof:lastmodified":1566632746,
     "wof:name":"Atlatlahucan",
     "wof:parent_id":102074267,
     "wof:placetype":"locality",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1656672.009229,
+    "geom:area_square_m":1656672.009234,
     "geom:bbox":"-105.337195482,19.9355494186,-105.321241835,19.9632005025",
     "geom:latitude":19.948396,
     "geom:longitude":-105.328867,
     "iso:country":"MX",
     "lbl:latitude":19.948802,
     "lbl:longitude":-105.329537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.948802,
     "mps:longitude":-105.329537,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pino Suarez"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101997573,
-    "wof:lastmodified":1504309866,
+    "wof:lastmodified":1566632468,
     "wof:name":"Jos\u00e9 Mar\u00eda Pino Su\u00e1rez (Nuevo Nahuapa)",
     "wof:parent_id":102074795,
     "wof:placetype":"locality",

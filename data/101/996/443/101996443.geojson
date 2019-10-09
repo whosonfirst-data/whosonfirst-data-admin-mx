@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.904855,
     "lbl:longitude":-99.929242,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.904855,
     "mps:longitude":-99.929242,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tolim\u00e1n"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
         "fct:id":"01b9903a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515314,
         "gp:id":149757,
-        "qs:id":148622,
         "qs_pg:id":148622,
         "wd:id":"Q7814270",
         "wk:page":"Tolim\u00e1n, Quer\u00e9taro"
@@ -81,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397417,
+    "wof:lastmodified":1566632405,
     "wof:name":"Tolim\u00e1n",
     "wof:parent_id":102077101,
     "wof:placetype":"locality",

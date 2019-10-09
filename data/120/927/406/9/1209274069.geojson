@@ -24,8 +24,12 @@
     "gn:population":11,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-94.07389,17.74639,-94.03389,17.78639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8918620
     },
     "wof:country":"MX",
-    "wof:geomhash":"e16571f0a7f22bd5da19f1d07ebcce47",
+    "wof:geomhash":"6d8ad0fd1379eaa763e9d5f056e626a1",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209274069,
-    "wof:lastmodified":1536292258,
+    "wof:lastmodified":1566627045,
     "wof:name":"La Luz",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -94.05389,
-    17.766389999999994,
+    17.76638999999999,
     -94.05389,
-    17.766389999999994
+    17.76638999999999
 ],
   "geometry": {"coordinates":[-94.05389,17.76638999999999],"type":"Point"}
 }

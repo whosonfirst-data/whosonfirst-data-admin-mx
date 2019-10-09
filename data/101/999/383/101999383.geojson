@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.989267,
     "lbl:longitude":-97.450094,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.989267,
     "mps:longitude":-97.450094,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:nah_x_preferred":[
         "Ch\u0101lchiuhcom\u014dll\u0101n Sesma"
     ],
@@ -24,15 +27,15 @@
         "\u0427\u0430\u043b\u044c\u0447\u0438\u043a\u043e\u043c\u0443\u043b\u0430-\u0434\u0435-\u0421\u0435\u0441\u043c\u0430"
     ],
     "name:spa_x_colloquial":[
-        "Ciudad  Serdan"
+        "Ciudad Serdan"
     ],
     "name:spa_x_preferred":[
-        "Ciudad  Serd\u00e1n"
+        "Ciudad Serd\u00e1n"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u043b\u0447\u0438\u043a\u043e\u043c\u0443\u043b\u0430 \u0434\u0435 \u0421\u0435\u0441\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chalchicomula"
     ],
     "qs:a0":"Mexico",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -65,7 +68,6 @@
         "fct:id":"01bbe830-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530584,
         "gp:id":116569,
-        "qs:id":1317000,
         "qs_pg:id":1317000,
         "wd:id":"Q2652050",
         "wk:page":"Chalchicomula de Sesma Municipality"
@@ -85,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397685,
+    "wof:lastmodified":1566632541,
     "wof:name":"Ciudad Serd\u00e1n",
     "wof:parent_id":102078091,
     "wof:placetype":"locality",

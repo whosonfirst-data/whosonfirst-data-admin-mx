@@ -11,8 +11,10 @@
     "geom:longitude":-98.673914,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.678914,20.135873,-98.668914,20.145873",
     "lbl:latitude":20.140873,
     "lbl:longitude":-98.673914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.142512,
     "mps:longitude":-98.678186,
     "mz:hierarchy_label":0,
@@ -46,9 +48,6 @@
     "name:swe_x_preferred":[
         "Andr\u00e9s Ignacio Men\u00e9ndez"
     ],
-    "name:unk_x_variant":[
-        "Barrio San Ignacio"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3523180,
@@ -77,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686665,
         102191575,
@@ -88,7 +87,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55915805,
-        "qs:id":776099,
         "qs_pg:id":776099
     },
     "wof:country":"MX",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619611,
     "wof:name":"Barrio San Ignacio",
     "wof:parent_id":102000481,
     "wof:placetype":"neighbourhood",

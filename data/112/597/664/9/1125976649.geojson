@@ -9,14 +9,18 @@
     "geom:bbox":"-99.18444,19.32203,-99.18444,19.32203",
     "geom:latitude":19.32203,
     "geom:longitude":-99.18444,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.20444,19.30203,-99.16444,19.34203",
     "lbl:latitude":19.32203,
     "lbl:longitude":-99.18444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Campus central de la Universitat Nacional Aut\u00f2noma de M\u00e8xic"
@@ -78,7 +82,7 @@
     "name:tur_x_preferred":[
         "Ciudad Universitaria"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "University City"
     ],
     "name:xmf_x_preferred":[
@@ -105,7 +109,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":116570,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Distrito Federal",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":1125976649,
-    "wof:lastmodified":1563400376,
+    "wof:lastmodified":1566634028,
     "wof:name":"Ciudad Universitaria",
     "wof:parent_id":102073753,
     "wof:placetype":"locality",

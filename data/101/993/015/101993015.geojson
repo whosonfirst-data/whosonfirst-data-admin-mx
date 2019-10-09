@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":618494.431507,
+    "geom:area_square_m":618494.431513,
     "geom:bbox":"-98.8776836592,21.3905125242,-98.8663461094,21.3995049779",
     "geom:latitude":21.39542,
     "geom:longitude":-98.872134,
     "iso:country":"MX",
     "lbl:latitude":21.395473,
     "lbl:longitude":-98.872519,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.395473,
     "mps:longitude":-98.872519,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*San Luis Potos\u00ed",
     "qs:a1_lc":"24",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,7 +47,7 @@
         "gp:id":90275544
     },
     "wof:country":"MX",
-    "wof:geomhash":"cb8c7ec3987fa189c8bbb0b61ba0ad8e",
+    "wof:geomhash":"1f508476079b15f9d287ac4cf1e13992",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101993015,
-    "wof:lastmodified":1479906870,
+    "wof:lastmodified":1566632756,
     "wof:name":"Jalpilla",
     "wof:parent_id":102077137,
     "wof:placetype":"locality",

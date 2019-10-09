@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.037979,
     "lbl:longitude":-98.385956,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.037979,
     "mps:longitude":-98.385956,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Acuexcomac"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_preferred":[
         "Acuexcomac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Acuescomac"
     ],
     "qs:a0":"Mexico",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3517294,
         "gp:id":146447,
-        "qs:id":1203795,
         "qs_pg:id":1203795,
         "wd:id":"Q20232045"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101999769,
-    "wof:lastmodified":1563397704,
+    "wof:lastmodified":1566632553,
     "wof:name":"Santa Mar\u00eda Acuexcomac",
     "wof:parent_id":102078293,
     "wof:placetype":"locality",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.072188,19.184212,-99.072188,19.184212",
     "geom:latitude":19.184212,
     "geom:longitude":-99.072188,
-    "geonames:id":"3522246,3827379",
+    "gn:id":"3522246,3827379",
     "iso:country":"MX",
+    "lbl:bbox":"-99.077188,19.179212,-99.067188,19.189212",
     "lbl:latitude":19.184212,
     "lbl:longitude":-99.072188,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.184212,
     "mps:longitude":-99.072188,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Distrito Federal",
     "qs:a1_lc":"09",
@@ -33,12 +37,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85686515,
         102191575,
         85633293,
-        102073763,
-        85686515
+        102073763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890535819,
-    "wof:lastmodified":1531939965,
+    "wof:lastmodified":1566633863,
     "wof:name":"San Pablo Oztotepec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

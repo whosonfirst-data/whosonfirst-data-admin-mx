@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5807753.048464,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.263815,14.90798,-92.263815,14.90798",
     "geom:latitude":14.90798,
     "geom:longitude":-92.263815,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-92.268815,14.90298,-92.258815,14.91298",
     "lbl:latitude":14.90798,
     "lbl:longitude":-92.263815,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.914793,
     "mps:longitude":-92.258455,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Texcuyuapan"
-    ],
-    "name:unk_x_variant":[
         "Texcuyuapan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994355,
-        102075511,
-        85686611
+        102075511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887786,
-        "qs:id":1340697,
         "qs_pg:id":1340697
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874151,
+    "wof:lastmodified":1566619569,
     "wof:name":"Texcuyuapan",
     "wof:parent_id":101994355,
     "wof:placetype":"neighbourhood",

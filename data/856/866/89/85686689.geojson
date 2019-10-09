@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":27.723205,
     "lbl:longitude":-102.249285,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.723205,
     "mps:longitude":-102.249285,
     "mz:hierarchy_label":1,
@@ -282,9 +283,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0430\u0443\u0457\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Coahuila"
-    ],
     "name:urd_x_preferred":[
         "\u0643\u0648\u0627\u06c1\u0648\u064a\u0644\u0627"
     ],
@@ -373,9 +371,9 @@
     "qs:source":"Mexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-31",
+    "src:population_date":"2010-05-31",
     "statoids:area_km":"149,982",
     "statoids:area_mi":"57,908",
     "statoids:as_of_date":"2010-05-31",
@@ -419,11 +417,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563375243,
+    "wof:lastmodified":1566619476,
     "wof:name":"Coahuila de Zaragoza",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2748391,
     "wof:population_rank":12,

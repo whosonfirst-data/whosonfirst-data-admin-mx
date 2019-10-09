@@ -9,14 +9,17 @@
     "geom:bbox":"-98.4054513196,22.2005642476,-98.3554573437,22.2369663169",
     "geom:latitude":22.217166,
     "geom:longitude":-98.378831,
-    "geonames:id":"3529619,3824132",
+    "gn:id":"3529619,3824132",
     "iso:country":"MX",
     "lbl:latitude":22.215981,
     "lbl:longitude":-98.375857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.215981,
     "mps:longitude":-98.375857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u00c9bano"
     ],
@@ -41,7 +44,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101996461,
-    "wof:lastmodified":1563397443,
+    "wof:lastmodified":1566632417,
     "wof:name":"Ebano",
     "wof:parent_id":102077221,
     "wof:placetype":"locality",

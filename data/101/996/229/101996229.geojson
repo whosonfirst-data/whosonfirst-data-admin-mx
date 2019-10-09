@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.868396,
     "lbl:longitude":-96.783589,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":16.868396,
     "mps:longitude":-96.783589,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:epo_x_preferred":[
         "Zimatl\u00e1n de \u00c1lvarez"
     ],
@@ -38,7 +41,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0417\u0438\u043c\u0430\u0442\u043b\u0430\u043d \u0434\u0435 \u0410\u043b\u0432\u0430\u0440\u0435\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zimatl\u00e1n"
     ],
     "name:vie_x_preferred":[
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":103,
     "wof:belongsto":[
@@ -75,7 +78,6 @@
         "fct:id":"01b9b632-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514027,
         "gp:id":151740,
-        "qs:id":906180,
         "qs_pg:id":906180,
         "wd:id":"Q3845920",
         "wk:page":"Zimatl\u00e1n de \u00c1lvarez"
@@ -95,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397331,
+    "wof:lastmodified":1566632361,
     "wof:name":"Zimatl\u00e1n de \u00c1lvarez",
     "wof:parent_id":102077067,
     "wof:placetype":"locality",

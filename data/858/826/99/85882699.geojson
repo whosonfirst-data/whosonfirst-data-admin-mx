@@ -11,8 +11,10 @@
     "geom:longitude":-110.947303,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.952303,29.092684,-110.942303,29.102684",
     "lbl:latitude":29.097684,
     "lbl:longitude":-110.947303,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.101212,
     "mps:longitude":-110.938334,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Constitucion"
-    ],
-    "name:unk_x_variant":[
         "Constitucion"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686549,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55885738,
-        "qs:id":1136637,
         "qs_pg:id":1136637
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619577,
     "wof:name":"Constitucion",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

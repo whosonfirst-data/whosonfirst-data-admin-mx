@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.839661,
     "lbl:longitude":-99.235739,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":18.839661,
     "mps:longitude":-99.235739,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ast_x_preferred":[
         "Temixco"
     ],
@@ -81,7 +84,7 @@
     "name:swe_x_preferred":[
         "Temixco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Temisco"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -120,7 +123,6 @@
         "fct:id":"01c2fe5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516035,
         "gp:id":148681,
-        "qs:id":39428,
         "qs_pg:id":39428,
         "wd:id":"Q602729",
         "wk:page":"Temixco"
@@ -140,7 +142,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398090,
+    "wof:lastmodified":1566632756,
     "wof:name":"Temixco",
     "wof:parent_id":102074235,
     "wof:placetype":"locality",

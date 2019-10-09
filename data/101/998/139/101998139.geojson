@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.769793,
     "lbl:longitude":-97.245252,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.769793,
     "mps:longitude":-97.245252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Altotonga"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -98,7 +101,6 @@
         "fct:id":"01b7d718-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532969,
         "gp:id":111968,
-        "qs:id":180015,
         "qs_pg:id":180015,
         "wd:id":"Q2651628"
     },
@@ -117,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397152,
+    "wof:lastmodified":1566632261,
     "wof:name":"Altotonga",
     "wof:parent_id":102077405,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":25.66876,
     "geom:longitude":-100.340881,
     "iso:country":"MX",
+    "lbl:bbox":"-100.345881,25.66376,-100.335881,25.67376",
     "lbl:latitude":25.66876,
     "lbl:longitude":-100.340881,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.66876,
     "mps:longitude":-100.340873,
     "mz:hierarchy_label":0,
@@ -215,9 +217,6 @@
     "name:tur_x_preferred":[
         "Maria Luisa"
     ],
-    "name:unk_x_variant":[
-        "Maria Luisa"
-    ],
     "name:vec_x_preferred":[
         "Maria Luisa"
     ],
@@ -268,7 +267,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":131,
     "wof:belongsto":[
         85686681,
@@ -281,7 +280,6 @@
     "wof:concordances":{
         "gn:id":3791977,
         "gp:id":55898856,
-        "qs:id":113850,
         "qs_pg:id":113850,
         "wd:id":"Q18091939"
     },
@@ -301,7 +299,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375570,
+    "wof:lastmodified":1566619706,
     "wof:name":"Maria Luisa",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

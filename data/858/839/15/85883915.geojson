@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.522162,
     "lbl:longitude":-99.161123,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.518598,
     "mps:longitude":-99.161662,
     "mz:hierarchy_label":1,
@@ -40,9 +41,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043e\u043f\u043e\u043b\u044c\u0434\u043e \u041c\u0435\u043d\u0434\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Guadalupe Proletaria"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3530597,
@@ -68,7 +66,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -82,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898794,
-        "qs:id":1092411
+        "qs_pg:id":1092411
     },
     "wof:country":"MX",
     "wof:geomhash":"9af2e83ccf675c215d8752b382f10087",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957716,
+    "wof:lastmodified":1566619711,
     "wof:name":"Guadalupe Proletaria",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",

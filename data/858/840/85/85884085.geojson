@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2595082.108296,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.290128,25.677572,-100.290128,25.677572",
     "geom:latitude":25.677572,
     "geom:longitude":-100.290128,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.295128,25.672572,-100.285128,25.682572",
     "lbl:latitude":25.677572,
     "lbl:longitude":-100.290128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.679692,
     "mps:longitude":-100.293246,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Obrera"
-    ],
-    "name:unk_x_variant":[
         "Obrera"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000679,
-        102078687,
-        85686681
+        102078687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899699,
-        "qs:id":1294646,
         "qs_pg:id":1294646
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874435,
+    "wof:lastmodified":1566619665,
     "wof:name":"Obrera",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3796194.836613,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.453424,31.759455,-106.453424,31.759455",
     "geom:latitude":31.759455,
     "geom:longitude":-106.453424,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.458424,31.754455,-106.448424,31.764455",
     "lbl:latitude":31.759455,
     "lbl:longitude":-106.453424,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.757363,
     "mps:longitude":-106.454733,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Cordoba Americas"
-    ],
-    "name:unk_x_variant":[
         "Fracc Cordoba Americas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686581,
         102191575,
         85633293,
         101994153,
-        102075223,
-        85686581
+        102075223
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890376,
-        "qs:id":1155273,
         "qs_pg:id":1155273
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874219,
+    "wof:lastmodified":1566619700,
     "wof:name":"Fracc Cordoba Americas",
     "wof:parent_id":101994153,
     "wof:placetype":"neighbourhood",

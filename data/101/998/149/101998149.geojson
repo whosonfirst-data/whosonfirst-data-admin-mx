@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.349085,
     "lbl:longitude":-97.684904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":21.349085,
     "mps:longitude":-97.684904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Naranjos"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Naranjos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naranjas"
     ],
     "qs:a0":"Mexico",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":15,
     "wof:belongsto":[
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3522804,
         "gp:id":134370,
-        "qs:id":469682,
         "qs_pg:id":469682,
         "wd:id":"Q5692505",
         "wk:page":"Naranjos"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101998149,
-    "wof:lastmodified":1563397208,
+    "wof:lastmodified":1566632291,
     "wof:name":"Naranjos",
     "wof:parent_id":102077411,
     "wof:placetype":"locality",

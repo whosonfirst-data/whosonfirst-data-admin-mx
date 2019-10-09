@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.750724,
     "lbl:longitude":-102.510561,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":22.750724,
     "mps:longitude":-102.510561,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Guadalupe"
     ],
@@ -334,7 +337,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -348,7 +351,6 @@
         "fct:id":"01b85346-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4005509,
         "gp:id":124243,
-        "qs:id":151385,
         "qs_pg:id":151385,
         "wd:id":"Q1961298",
         "wk:page":"Guadalupe, Zacatecas"
@@ -368,7 +370,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397968,
+    "wof:lastmodified":1566632687,
     "wof:name":"Guadalupe",
     "wof:parent_id":102075485,
     "wof:placetype":"locality",

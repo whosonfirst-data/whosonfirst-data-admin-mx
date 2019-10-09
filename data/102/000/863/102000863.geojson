@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.756764,
     "lbl:longitude":-102.985665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.756764,
     "mps:longitude":-102.985665,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -137,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -148,7 +151,9 @@
     "wof:concordances":{
         "gn:id":3985129,
         "gp:id":145021,
-        "qs:id":151281,
+        "qs_pg:id":151281
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1077329
     },
     "wof:country":"MX",
@@ -163,7 +168,7 @@
         }
     ],
     "wof:id":102000863,
-    "wof:lastmodified":1564141414,
+    "wof:lastmodified":1566615715,
     "wof:name":"San Pedro",
     "wof:parent_id":102078805,
     "wof:placetype":"locality",

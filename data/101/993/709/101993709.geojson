@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
-    "geom:area_square_m":677737.11575,
+    "geom:area_square_m":677737.115745,
     "geom:bbox":"-107.165180918,24.2886327162,-107.154861043,24.3031755016",
     "geom:latitude":24.29394,
     "geom:longitude":-107.159048,
     "iso:country":"MX",
     "lbl:latitude":24.293532,
     "lbl:longitude":-107.158546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.293532,
     "mps:longitude":-107.158546,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55903229
     },
     "wof:country":"MX",
-    "wof:geomhash":"c7e7df7113c41d8265ff147e104c3667",
+    "wof:geomhash":"dd1e59fdae00436df8714c421d1b07a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993709,
-    "wof:lastmodified":1479929941,
+    "wof:lastmodified":1566632752,
     "wof:name":"Estaci\u00f3n Obispo",
     "wof:parent_id":102074307,
     "wof:placetype":"locality",

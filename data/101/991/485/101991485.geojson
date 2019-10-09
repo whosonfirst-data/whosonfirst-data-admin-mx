@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
-    "geom:area_square_m":1272041.694763,
+    "geom:area_square_m":1272041.694764,
     "geom:bbox":"-98.6902160242,17.8780878025,-98.6677544402,17.8929849163",
     "geom:latitude":17.885646,
     "geom:longitude":-98.680864,
     "iso:country":"MX",
     "lbl:latitude":17.884956,
     "lbl:longitude":-98.681789,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.884956,
     "mps:longitude":-98.681789,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Temalacazingo"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101991485,
-    "wof:lastmodified":1501267398,
+    "wof:lastmodified":1566632302,
     "wof:name":"Temalacatzingo",
     "wof:parent_id":102073847,
     "wof:placetype":"locality",

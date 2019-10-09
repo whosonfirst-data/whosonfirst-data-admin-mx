@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":1312743.119077,
+    "geom:area_square_m":1312743.119076,
     "geom:bbox":"-93.513158468,17.9264417655,-93.5001002809,17.9369511274",
     "geom:latitude":17.931181,
     "geom:longitude":-93.507331,
     "iso:country":"MX",
     "lbl:latitude":17.931115,
     "lbl:longitude":-93.507206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.931115,
     "mps:longitude":-93.507206,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55919910
     },
     "wof:country":"MX",
-    "wof:geomhash":"6bf2c8bde86d88c3a47fd54ad3c0b6dd",
+    "wof:geomhash":"a047fefda9a0a5ca433301d005bd9cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994955,
-    "wof:lastmodified":1479904073,
+    "wof:lastmodified":1566632835,
     "wof:name":"C-40 (Ernesto Aguirre Colorado)",
     "wof:parent_id":102075769,
     "wof:placetype":"locality",

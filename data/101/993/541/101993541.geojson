@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
-    "geom:area_square_m":285643.56518,
+    "geom:area_square_m":285643.565182,
     "geom:bbox":"-115.54818928,32.6220279487,-115.544958239,32.6307903599",
     "geom:latitude":32.626456,
     "geom:longitude":-115.546555,
     "iso:country":"MX",
     "lbl:latitude":32.626417,
     "lbl:longitude":-115.546555,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.626417,
     "mps:longitude":-115.546555,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55891887
     },
     "wof:country":"MX",
-    "wof:geomhash":"6850bdc36f4f2e699cb663e7b1c7cb97",
+    "wof:geomhash":"2d2bbe8dd56aaa78c68f704fa448a1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993541,
-    "wof:lastmodified":1479931098,
+    "wof:lastmodified":1566632818,
     "wof:name":"Vi\u00f1as del Sol",
     "wof:parent_id":102074507,
     "wof:placetype":"locality",

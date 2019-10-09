@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11020588.815114,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.295364,19.568233,-99.295364,19.568233",
     "geom:latitude":19.568233,
     "geom:longitude":-99.295364,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.300364,19.563233,-99.290364,19.573233",
     "lbl:latitude":19.568233,
     "lbl:longitude":-99.295364,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.573063,
     "mps:longitude":-99.298637,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Aeropuerto de Atizapan"
-    ],
-    "name:unk_x_variant":[
         "Aeropuerto de Atizapan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101993137,
-        102074201,
-        85686527
+        102074201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893282,
-        "qs:id":474887
+        "qs_pg:id":474887
     },
     "wof:country":"MX",
     "wof:geomhash":"732742ae793824b5445717f45e80d51a",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874289,
+    "wof:lastmodified":1566619616,
     "wof:name":"Aeropuerto de Atizapan",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",

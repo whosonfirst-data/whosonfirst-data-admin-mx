@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-96.50333,17.09667,-96.46333,17.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":3530071
     },
     "wof:country":"MX",
-    "wof:geomhash":"569a2c1c120f444a2f8aaf6f233c6a38",
+    "wof:geomhash":"a53e59389ec5308a27571b2c9a72b11a",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209677105,
-    "wof:lastmodified":1536279712,
+    "wof:lastmodified":1566626681,
     "wof:name":"Cruz de Madrono",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -96.48333,
-    17.116670000000006,
+    17.11667000000001,
     -96.48333,
-    17.116670000000006
+    17.11667000000001
 ],
   "geometry": {"coordinates":[-96.48333,17.11667000000001],"type":"Point"}
 }

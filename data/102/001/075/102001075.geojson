@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":24.47264,
     "lbl:longitude":-99.49091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.47264,
     "mps:longitude":-99.49091,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Villagr\u00e1n"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -74,7 +77,6 @@
         "fct:id":"01b7b04e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514676,
         "gp:id":150917,
-        "qs:id":1045395,
         "qs_pg:id":1045395
     },
     "wof:country":"MX",
@@ -92,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564141435,
+    "wof:lastmodified":1566615752,
     "wof:name":"Villagr\u00e1n",
     "wof:parent_id":102078931,
     "wof:placetype":"locality",

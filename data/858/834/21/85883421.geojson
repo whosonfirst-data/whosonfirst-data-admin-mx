@@ -11,8 +11,10 @@
     "geom:longitude":-100.750837,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.755837,20.913517,-100.745837,20.923517",
     "lbl:latitude":20.918517,
     "lbl:longitude":-100.750837,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.923053,
     "mps:longitude":-100.75554,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "San Rafael Insurgentes"
-    ],
-    "name:unk_x_variant":[
         "San Rafael Insurgentes"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894592,
-        "qs:id":233876,
         "qs_pg:id":233876
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619623,
     "wof:name":"San Rafael Insurgentes",
     "wof:parent_id":101993059,
     "wof:placetype":"neighbourhood",

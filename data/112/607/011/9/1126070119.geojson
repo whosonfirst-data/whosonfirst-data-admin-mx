@@ -9,19 +9,22 @@
     "geom:bbox":"-100.63333,21.93333,-100.63333,21.93333",
     "geom:latitude":21.93333,
     "geom:longitude":-100.63333,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.63833,21.92833,-100.62833,21.93833",
     "lbl:latitude":21.93333,
     "lbl:longitude":-100.63333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:srp_x_preferred":[
         "\u0415\u043b \u041f\u0430\u0441\u0435\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pasito"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55884227,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"San Luis Potosi",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126070119,
-    "wof:lastmodified":1564173946,
+    "wof:lastmodified":1566634241,
     "wof:name":"El Paseo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

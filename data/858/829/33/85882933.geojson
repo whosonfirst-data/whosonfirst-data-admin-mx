@@ -11,8 +11,10 @@
     "geom:longitude":-103.681274,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.686274,19.230904,-103.676274,19.240904",
     "lbl:latitude":19.235904,
     "lbl:longitude":-103.681274,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.235957,
     "mps:longitude":-103.68099,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Francisco I Madero"
-    ],
-    "name:unk_x_variant":[
         "Francisco I Madero"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686587,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888487,
-        "qs:id":239574,
         "qs_pg:id":239574
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619550,
     "wof:name":"Francisco I Madero",
     "wof:parent_id":101996911,
     "wof:placetype":"neighbourhood",

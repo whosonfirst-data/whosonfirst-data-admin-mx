@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":4137602.002059,
+    "geom:area_square_m":4137602.002046,
     "geom:bbox":"-102.728908195,18.9777470507,-102.701542056,19.0068943579",
     "geom:latitude":18.990273,
     "geom:longitude":-102.714168,
     "iso:country":"MX",
     "lbl:latitude":18.987837,
     "lbl:longitude":-102.715307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.987837,
     "mps:longitude":-102.715307,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55919535
     },
     "wof:country":"MX",
-    "wof:geomhash":"59689147dc75b3c7096a75ec15d0b306",
+    "wof:geomhash":"dd9ce5b63014f72ecbf325d685c81ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997119,
-    "wof:lastmodified":1479930974,
+    "wof:lastmodified":1566632467,
     "wof:name":"Bonifacio Moreno (El Aguaje)",
     "wof:parent_id":102074903,
     "wof:placetype":"locality",

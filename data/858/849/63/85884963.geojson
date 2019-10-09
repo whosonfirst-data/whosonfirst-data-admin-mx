@@ -11,8 +11,10 @@
     "geom:longitude":-103.406067,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.411067,20.722859,-103.401067,20.732859",
     "lbl:latitude":20.727859,
     "lbl:longitude":-103.406067,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.730225,
     "mps:longitude":-103.406904,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Lindavista"
     ],
     "name:spa_x_preferred":[
-        "Lindavista"
-    ],
-    "name:unk_x_variant":[
         "Lindavista"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":120,
     "wof:belongsto":[
         85686603,
@@ -85,7 +84,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910287,
-        "qs:id":1111538,
         "qs_pg:id":1111538,
         "wd:id":"Q3433717"
     },
@@ -105,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375490,
+    "wof:lastmodified":1566619653,
     "wof:name":"Lindavista",
     "wof:parent_id":101997877,
     "wof:placetype":"neighbourhood",

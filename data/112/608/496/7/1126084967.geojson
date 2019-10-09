@@ -9,14 +9,17 @@
     "geom:bbox":"-101.1108,28.19726,-101.1108,28.19726",
     "geom:latitude":28.19726,
     "geom:longitude":-101.1108,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-101.1158,28.19226,-101.1058,28.20226",
     "lbl:latitude":28.19726,
     "lbl:longitude":-101.1108,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Buenavista"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55899963,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Coahuila de Zaragoza",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
-        102078815,
-        85686689
+        102078815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126084967,
-    "wof:lastmodified":1509411356,
+    "wof:lastmodified":1566634077,
     "wof:name":"Buenavista Nte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

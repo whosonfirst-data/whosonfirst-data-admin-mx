@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":553175.501093,
+    "geom:area_square_m":553175.501089,
     "geom:bbox":"-100.1468166,19.3053616578,-100.136789872,19.3167029676",
     "geom:latitude":19.309572,
     "geom:longitude":-100.1423,
     "iso:country":"MX",
     "lbl:latitude":19.30915,
     "lbl:longitude":-100.141961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.30915,
     "mps:longitude":-100.141961,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55886787
     },
     "wof:country":"MX",
-    "wof:geomhash":"78b8a3120b671be10223808b721e0bd1",
+    "wof:geomhash":"921134447084f1142643ca7bd218d1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992741,
-    "wof:lastmodified":1479930002,
+    "wof:lastmodified":1566632703,
     "wof:name":"Villa Donato Guerra",
     "wof:parent_id":102074159,
     "wof:placetype":"locality",

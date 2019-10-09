@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.963029,
     "lbl:longitude":-99.593427,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.963029,
     "mps:longitude":-99.593427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Tenancingo de Degollado"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Tenancingo de Degollado"
     ],
-    "name:unk_x_variant":[
-        "Tenancingo"
-    ],
     "name:vie_x_preferred":[
         "Tenancingo"
     ],
@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -80,7 +80,6 @@
         "fct:id":"01b971ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516006,
         "gp:id":148721,
-        "qs:id":148640,
         "qs_pg:id":148640,
         "wd:id":"Q3844696",
         "wk:page":"Tenancingo, State of Mexico"
@@ -100,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750591,
+    "wof:lastmodified":1566632694,
     "wof:name":"Tenancingo de Degollado",
     "wof:parent_id":102073963,
     "wof:placetype":"locality",

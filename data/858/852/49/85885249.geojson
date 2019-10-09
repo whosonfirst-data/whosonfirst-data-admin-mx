@@ -11,8 +11,10 @@
     "geom:longitude":-93.374903,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-93.379903,17.982493,-93.369903,17.992493",
     "lbl:latitude":17.987493,
     "lbl:longitude":-93.374903,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.988297,
     "mps:longitude":-93.373851,
     "mz:hierarchy_label":0,
@@ -82,9 +84,6 @@
     "name:swe_x_preferred":[
         "Carlos Pellicer C\u00e1mara"
     ],
-    "name:unk_x_variant":[
-        "Carlos Pellicer Camara"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u5e15\u6b3d\u7518"
     ],
@@ -116,7 +115,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":252,
     "wof:belongsto":[
         85686617,
@@ -128,7 +127,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919885,
-        "qs:id":776343,
         "qs_pg:id":776343,
         "wd:id":"Q4381"
     },
@@ -148,7 +146,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375584,
+    "wof:lastmodified":1566619716,
     "wof:name":"Carlos Pellicer Camara",
     "wof:parent_id":101994793,
     "wof:placetype":"neighbourhood",

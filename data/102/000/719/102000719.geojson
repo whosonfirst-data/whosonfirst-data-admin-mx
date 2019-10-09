@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.909143,
     "lbl:longitude":-99.402393,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.909143,
     "mps:longitude":-99.402393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Los Herreras"
     ],
@@ -60,7 +63,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369773,
+    "wof:lastmodified":1566615718,
     "wof:name":"Los Herreras",
     "wof:parent_id":102078759,
     "wof:placetype":"locality",

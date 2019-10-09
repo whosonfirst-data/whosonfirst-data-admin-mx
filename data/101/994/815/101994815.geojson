@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.148868,
     "lbl:longitude":-92.859311,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.148868,
     "mps:longitude":-92.859311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Macultepec"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":3523794,
         "gp:id":132627,
-        "qs:id":1045452,
         "qs_pg:id":1045452,
         "wd:id":"Q6725827",
         "wk:page":"Macultepec"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101994815,
-    "wof:lastmodified":1563398337,
+    "wof:lastmodified":1566632883,
     "wof:name":"Macultepec",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

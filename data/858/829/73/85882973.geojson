@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8854070.439526,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.282757,19.983473,-102.282757,19.983473",
     "geom:latitude":19.983473,
     "geom:longitude":-102.282757,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.287757,19.978473,-102.277757,19.988473",
     "lbl:latitude":19.983473,
     "lbl:longitude":-102.282757,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.980207,
     "mps:longitude":-102.2842,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Jardines de Catedral"
-    ],
-    "name:unk_x_variant":[
         "Jardines de Catedral"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997471,
-        102074875,
-        85686595
+        102074875
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888853,
-        "qs:id":1340805,
         "qs_pg:id":1340805
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874184,
+    "wof:lastmodified":1566619551,
     "wof:name":"Jardines de Catedral",
     "wof:parent_id":101997471,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":17.991309,
     "lbl:longitude":-92.936086,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.991309,
     "mps:longitude":-92.936086,
     "mz:hierarchy_label":1,
@@ -319,7 +321,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1047,
     "wof:belongsto":[
@@ -332,7 +334,6 @@
     "wof:concordances":{
         "gn:id":3514670,
         "gp:id":150920,
-        "qs:id":776254,
         "qs_pg:id":776254,
         "wd:id":"Q210886",
         "wk:page":"Villahermosa"
@@ -349,7 +350,7 @@
         }
     ],
     "wof:id":101994837,
-    "wof:lastmodified":1563398358,
+    "wof:lastmodified":1566632891,
     "wof:name":"Villahermosa",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

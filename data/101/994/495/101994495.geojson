@@ -9,16 +9,19 @@
     "geom:bbox":"-92.1655470194,14.663231277,-92.1450041653,14.6928049297",
     "geom:latitude":14.678154,
     "geom:longitude":-92.153485,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
     "lbl:latitude":14.677506,
     "lbl:longitude":-92.153329,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":14.677506,
     "mps:longitude":-92.153329,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0989\u09a6\u09be\u09a6 \u0987\u09a6\u09be\u09b2\u09cd\u0997\u09cb"
     ],
@@ -54,9 +57,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u0443\u0434\u0430\u0434 \u0418\u0434\u0430\u043b\u0433\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Suchiate"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u9054\u723e\u6208\u57ce"
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":248,
     "wof:belongsto":[
         102191575,
@@ -111,15 +111,14 @@
         "fct:id":"01b817dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516497,
         "gp:id":147866,
-        "qs:id":321961,
-        "qs_pg:id":737843,
+        "qs_pg:id":321961,
         "wd:id":"Q1960354",
         "wk:page":"Ciudad Hidalgo, Chiapas"
     },
     "wof:concordances_alt":{
         "gn:id":3530595,
         "gp:id":116553,
-        "qs_pg:id":321961
+        "qs_pg:id":737843
     },
     "wof:country":"MX",
     "wof:geomhash":"c808381140d277457d295056d28115e1",
@@ -136,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398361,
+    "wof:lastmodified":1566632892,
     "wof:name":"Ciudad Hidalgo",
     "wof:parent_id":102075677,
     "wof:placetype":"locality",

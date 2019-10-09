@@ -9,14 +9,17 @@
     "geom:bbox":"-104.246224468,20.2663326327,-104.22479515,20.2821716579",
     "geom:latitude":20.273372,
     "geom:longitude":-104.236244,
-    "geonames:id":"4018038,4018039",
+    "gn:id":"4018038,4018039",
     "iso:country":"MX",
     "lbl:latitude":20.272301,
     "lbl:longitude":-104.236451,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.272301,
     "mps:longitude":-104.236451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Atengo"
     ],
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Atengo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atenco"
     ],
     "name:vec_x_preferred":[
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101997649,
-    "wof:lastmodified":1563397578,
+    "wof:lastmodified":1566632483,
     "wof:name":"Atengo",
     "wof:parent_id":102074815,
     "wof:placetype":"locality",

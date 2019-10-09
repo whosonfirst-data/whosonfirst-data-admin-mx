@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.904536,
     "lbl:longitude":-97.000768,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.904536,
     "mps:longitude":-97.000768,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u062a\u064a\u0646 \u062f\u064a \u0644\u0627\u0633 \u0641\u0644\u0648\u0631\u064a\u0633"
     ],
@@ -80,9 +83,6 @@
     "name:tha_x_preferred":[
         "\u0e1f\u0e2d\u0e23\u0e4c\u0e15\u0e34\u0e07 \u0e40\u0e14 \u0e25\u0e32\u0e2a \u0e1f\u0e25\u0e2d\u0e40\u0e23\u0e2a"
     ],
-    "name:unk_x_variant":[
-        "El Fort\u00edn"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u0631\u062a\u06cc\u0646 \u062f\u06d2 \u0644\u0627\u0633 \u0641\u0644\u0648\u0631\u06cc\u0633"
     ],
@@ -103,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":174,
     "wof:belongsto":[
@@ -117,10 +117,12 @@
         "fct:id":"01af40e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3527596,
         "gp:id":123697,
-        "qs:id":480110,
-        "qs_pg:id":1047210,
+        "qs_pg:id":480110,
         "wd:id":"Q2652472",
         "wk:page":"Fort\u00edn de las Flores"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1047210
     },
     "wof:country":"MX",
     "wof:geomhash":"680a1d595e7568143fe480ce3f2d3562",
@@ -137,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397063,
+    "wof:lastmodified":1566632223,
     "wof:name":"Fort\u00edn de las Flores",
     "wof:parent_id":102077529,
     "wof:placetype":"locality",

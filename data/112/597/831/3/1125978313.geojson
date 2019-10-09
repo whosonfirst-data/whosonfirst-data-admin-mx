@@ -9,15 +9,18 @@
     "geom:bbox":"-100.8,21.0,-100.8,21.0",
     "geom:latitude":21.0,
     "geom:longitude":-100.8,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":367,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.82,20.98,-100.78,21.02",
     "lbl:latitude":21.0,
     "lbl:longitude":-100.8,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Banda"
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bando"
     ],
     "qs_pg:aaroncc":"MX",
@@ -133,7 +136,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":113036,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1125978313,
-    "wof:lastmodified":1564173507,
+    "wof:lastmodified":1566634028,
     "wof:name":"Banda",
     "wof:parent_id":102077311,
     "wof:placetype":"locality",

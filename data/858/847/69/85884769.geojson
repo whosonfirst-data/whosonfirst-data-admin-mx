@@ -11,8 +11,10 @@
     "geom:longitude":-100.143818,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.148818,19.193498,-100.138818,19.203498",
     "lbl:latitude":19.198498,
     "lbl:longitude":-100.143818,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.195485,
     "mps:longitude":-100.151333,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:swe_x_preferred":[
         "Pe\u00f1a Blanca"
     ],
-    "name:unk_x_variant":[
-        "Pe\u00f1a Blanca"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3980621,
@@ -72,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -82,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908003,
-        "qs:id":1155354
+        "qs_pg:id":1155354
     },
     "wof:country":"MX",
     "wof:geomhash":"28f0b8fd4f130b34771b87afda9083a6",
@@ -100,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147293,
+    "wof:lastmodified":1566619655,
     "wof:name":"Pe\u00f1a Blanca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

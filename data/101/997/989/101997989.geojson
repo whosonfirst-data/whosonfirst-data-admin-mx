@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.205546,
     "lbl:longitude":-104.050994,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.205546,
     "mps:longitude":-104.050994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tecolotl\u00e1n"
     ],
@@ -71,9 +74,6 @@
     "name:tgl_x_preferred":[
         "Tecolotl\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Tecolotan"
-    ],
     "name:vec_x_preferred":[
         "Tecolotl\u00e1n"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -110,7 +110,6 @@
         "fct:id":"01b96ab0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3982217,
         "gp:id":148491,
-        "qs:id":151256,
         "qs_pg:id":151256,
         "wd:id":"Q3311923"
     },
@@ -129,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397619,
+    "wof:lastmodified":1566632504,
     "wof:name":"Tecolotl\u00e1n",
     "wof:parent_id":102074791,
     "wof:placetype":"locality",

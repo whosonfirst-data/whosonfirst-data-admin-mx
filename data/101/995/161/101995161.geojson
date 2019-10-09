@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.028529,
     "lbl:longitude":-97.92782,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.028529,
     "mps:longitude":-97.92782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Putla Villa de Guerrero"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Putla Villa de Guerrero"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Mar\u00eda"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101995161,
-    "wof:lastmodified":1563397774,
+    "wof:lastmodified":1566632595,
     "wof:name":"Putla Villa de Guerrero",
     "wof:parent_id":102077049,
     "wof:placetype":"locality",

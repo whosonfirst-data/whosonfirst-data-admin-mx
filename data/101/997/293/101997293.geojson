@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.671726,
     "lbl:longitude":-101.554181,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.671726,
     "mps:longitude":-101.554181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Santa Fe de la Laguna"
     ],
@@ -33,7 +36,7 @@
         "Santa F\u00e9 de la Laguna",
         "Santa Fe de la Laguna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Fe la Laguna"
     ],
     "qs:a0":"Mexico",
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,6 @@
         "fct:id":"01c20e04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3984340,
         "gp:id":146158,
-        "qs:id":151270,
         "qs_pg:id":151270,
         "wd:id":"Q4407877"
     },
@@ -85,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750556,
+    "wof:lastmodified":1566632455,
     "wof:name":"Santa Fe de la Laguna",
     "wof:parent_id":102074997,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-115.438283,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-115.443283,32.620446,-115.433283,32.630446",
     "lbl:latitude":32.625446,
     "lbl:longitude":-115.438283,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.622076,
     "mps:longitude":-115.436609,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Ex Ejido de Coahuila"
-    ],
-    "name:unk_x_variant":[
         "Ex Ejido de Coahuila"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895586,
-        "qs:id":903311
+        "qs_pg:id":903311
     },
     "wof:country":"MX",
     "wof:geomhash":"d9160e266de3bd626429afbd728fa7d2",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619623,
     "wof:name":"Ex Ejido de Coahuila",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

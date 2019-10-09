@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
-    "geom:area_square_m":1333381.871712,
+    "geom:area_square_m":1333381.871713,
     "geom:bbox":"-100.655800289,19.8748069104,-100.638671826,19.8902135081",
     "geom:latitude":19.881974,
     "geom:longitude":-100.647445,
     "iso:country":"MX",
     "lbl:latitude":19.880982,
     "lbl:longitude":-100.648025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.880982,
     "mps:longitude":-100.648025,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Jer\u00e1huaro de Ju\u00e1rez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Valle"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":3980615,
         "gp:id":150499,
-        "qs:id":1139081
+        "qs_pg:id":1139081
     },
     "wof:country":"MX",
     "wof:geomhash":"bac08c0f33412aaf4ad4b7d7a4c22587",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101997411,
-    "wof:lastmodified":1501269489,
+    "wof:lastmodified":1566632485,
     "wof:name":"Valle de Ju\u00e1rez (Jer\u00e1huaro)",
     "wof:parent_id":102075037,
     "wof:placetype":"locality",

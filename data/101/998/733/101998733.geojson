@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":1162933.670583,
+    "geom:area_square_m":1162933.670588,
     "geom:bbox":"-97.6930203318,20.9279369172,-97.6780774823,20.9397530534",
     "geom:latitude":20.93344,
     "geom:longitude":-97.685697,
     "iso:country":"MX",
     "lbl:latitude":20.932724,
     "lbl:longitude":-97.683944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.932724,
     "mps:longitude":-97.683944,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55888724
     },
     "wof:country":"MX",
-    "wof:geomhash":"bcee7e3cf3d23c3d66cdb4d4d7f450ca",
+    "wof:geomhash":"8b438afd813f20b12a9d86b105c18f63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998733,
-    "wof:lastmodified":1479906798,
+    "wof:lastmodified":1566632256,
     "wof:name":"Chapopote N\u00fa\u00f1ez",
     "wof:parent_id":102077729,
     "wof:placetype":"locality",

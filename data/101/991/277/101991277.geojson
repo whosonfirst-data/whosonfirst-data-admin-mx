@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.692385,
     "lbl:longitude":-99.186618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":17.692385,
     "mps:longitude":-99.186618,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zitlala"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "fct:id":"01b9b736-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514021,
         "gp:id":151769,
-        "qs:id":1117567,
         "qs_pg:id":1117567,
         "wd:id":"Q3317700",
         "wk:page":"Zitlala"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397276,
+    "wof:lastmodified":1566632332,
     "wof:name":"Zitlala",
     "wof:parent_id":102073805,
     "wof:placetype":"locality",

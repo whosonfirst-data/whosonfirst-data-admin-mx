@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.330158,
     "lbl:longitude":-97.915875,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.330158,
     "mps:longitude":-97.915875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Andr\u00e9s Huaxpaltepec"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "San Andr\u00e9s Huaxpaltepec"
     ],
-    "name:unk_x_variant":[
-        "Huaxpaltepec"
-    ],
     "name:vie_x_preferred":[
         "San Andr\u00e9s Huaxpaltepec"
     ],
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -114,7 +114,6 @@
         "fct:id":"01aed7b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519927,
         "gp:id":141453,
-        "qs:id":180325,
         "qs_pg:id":180325,
         "wd:id":"Q3888598",
         "wk:page":"San Andr\u00e9s Huaxpaltepec"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397860,
+    "wof:lastmodified":1566632637,
     "wof:name":"San Andr\u00e9s Huaxpaltepec",
     "wof:parent_id":102076313,
     "wof:placetype":"locality",

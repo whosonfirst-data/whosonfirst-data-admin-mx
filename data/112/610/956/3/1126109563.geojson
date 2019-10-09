@@ -9,14 +9,17 @@
     "geom:bbox":"-96.94284,19.97901,-96.94284,19.97901",
     "geom:latitude":19.97901,
     "geom:longitude":-96.94284,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-96.94784,19.97401,-96.93784,19.98401",
     "lbl:latitude":19.97901,
     "lbl:longitude":-96.94284,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Las Lajas"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55887003,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Veracruz-Llave",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
-        102077619,
-        85686671
+        102077619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126109563,
-    "wof:lastmodified":1509412538,
+    "wof:lastmodified":1566633928,
     "wof:name":"Las Granjas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
-    "geom:area_square_m":356002.311956,
+    "geom:area_square_m":356002.311957,
     "geom:bbox":"-99.1790771484,19.4070210383,-99.1732596223,19.4129758118",
     "geom:latitude":19.409793,
     "geom:longitude":-99.176228,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.40994,
     "lbl:longitude":-99.175994,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.409705,
     "mps:longitude":-99.176228,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "name:spa_x_preferred":[
         "Hipodromo de la Condesa",
         "Colonia N\u00e1poles"
-    ],
-    "name:unk_x_variant":[
-        "Hipodromo de la Condesa"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -56,7 +54,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -70,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899642,
-        "qs:id":1342136
+        "qs_pg:id":1342136
     },
     "wof:country":"MX",
     "wof:geomhash":"0e0a291973da7c0224cdb9fdb45ec5fb",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270430,
+    "wof:lastmodified":1566619665,
     "wof:name":"Hipodromo de la Condesa",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

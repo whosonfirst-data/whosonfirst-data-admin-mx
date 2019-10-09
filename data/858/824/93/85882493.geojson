@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":615847.753779,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.395813,20.60965,-100.395813,20.60965",
     "geom:latitude":20.60965,
     "geom:longitude":-100.395813,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.400813,20.60465,-100.390813,20.61465",
     "lbl:latitude":20.60965,
     "lbl:longitude":-100.395813,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.608246,
     "mps:longitude":-100.396558,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Rinconada Jacarandas"
-    ],
-    "name:unk_x_variant":[
         "Rinconada Jacarandas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882479,
-        "qs:id":993082,
         "qs_pg:id":993082
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874021,
+    "wof:lastmodified":1566619645,
     "wof:name":"Rinconada Jacarandas",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

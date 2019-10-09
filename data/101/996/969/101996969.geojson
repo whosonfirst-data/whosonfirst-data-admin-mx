@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.319223,
     "lbl:longitude":-104.01158,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":21.319223,
     "mps:longitude":-104.01158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "La Yesca"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "fct:id":"01b890a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3998730,
         "gp:id":129658,
-        "qs:id":1191416,
         "qs_pg:id":1191416,
         "wd:id":"Q2652057"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397404,
+    "wof:lastmodified":1566632398,
     "wof:name":"La Yesca",
     "wof:parent_id":102074581,
     "wof:placetype":"locality",

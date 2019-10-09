@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.749663,
     "lbl:longitude":-99.002563,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.749663,
     "mps:longitude":-99.002563,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cuautepec"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "fct:id":"01b82e98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529994,
         "gp:id":117797,
-        "qs:id":1202110,
         "qs_pg:id":1202110,
         "wd:id":"Q5191897",
         "wk:page":"Cuautepec"
@@ -106,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397238,
+    "wof:lastmodified":1566632308,
     "wof:name":"Cuautepec",
     "wof:parent_id":102073837,
     "wof:placetype":"locality",

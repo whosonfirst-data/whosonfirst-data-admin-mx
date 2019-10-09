@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6860514.877726,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.906538,17.979853,-92.906538,17.979853",
     "geom:latitude":17.979853,
     "geom:longitude":-92.906538,
     "iso:country":"MX",
+    "lbl:bbox":"-92.911538,17.974853,-92.901538,17.984853",
     "lbl:latitude":17.979853,
     "lbl:longitude":-92.906538,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.980309,
     "mps:longitude":-92.900897,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "Las Gaviotas Sur"
-    ],
-    "name:unk_x_variant":[
-        "Gaviotas sur"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686617,
         102191575,
         85633293,
         101994837,
-        102075765,
-        85686617
+        102075765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3802690,
         "gp:id":55885890,
-        "qs:id":1100920,
         "qs_pg:id":1100920
     },
     "wof:country":"MX",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874102,
+    "wof:lastmodified":1566619546,
     "wof:name":"Gaviotas sur",
     "wof:parent_id":101994837,
     "wof:placetype":"neighbourhood",

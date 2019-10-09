@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11996038.988417,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.426374,23.183875,-106.426374,23.183875",
     "geom:latitude":23.183875,
     "geom:longitude":-106.426374,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.431374,23.178875,-106.421374,23.188875",
     "lbl:latitude":23.183875,
     "lbl:longitude":-106.426374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.177052,
     "mps:longitude":-106.426773,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Playas Del sur"
-    ],
-    "name:unk_x_variant":[
         "Playas Del sur"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,19 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686535,
         102191575,
         85633293,
         101993641,
-        102074303,
-        85686535
+        102074303
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900031,
-        "qs:id":475308
+        "qs_pg:id":475308
     },
     "wof:country":"MX",
     "wof:geomhash":"04267e8b462e523a4991e1ab6b347c93",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874445,
+    "wof:lastmodified":1566619631,
     "wof:name":"Playas Del sur",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

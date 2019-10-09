@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":2022179.875865,
+    "geom:area_square_m":2022179.87587,
     "geom:bbox":"-98.8050216276,19.0421272943,-98.7874588925,19.0611187799",
     "geom:latitude":19.052648,
     "geom:longitude":-98.796534,
     "iso:country":"MX",
     "lbl:latitude":19.053303,
     "lbl:longitude":-98.79594,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.053303,
     "mps:longitude":-98.79594,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tecalco"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3518366,
         "gp:id":144448,
-        "qs:id":1251115,
         "qs_pg:id":1251115
     },
     "wof:country":"MX",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101992411,
-    "wof:lastmodified":1497297826,
+    "wof:lastmodified":1566632720,
     "wof:name":"San Mateo Tecalco",
     "wof:parent_id":102074087,
     "wof:placetype":"locality",

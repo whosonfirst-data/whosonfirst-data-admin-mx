@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":20.096236,
     "lbl:longitude":-98.774767,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":20.096236,
     "mps:longitude":-98.774767,
     "mz:hierarchy_label":1,
@@ -164,9 +166,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0447\u0443\u043a\u0430-\u0434\u0435-\u0421\u043e\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "Pachuca"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0686\u0648\u06a9\u0627"
     ],
@@ -288,7 +287,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -300,10 +299,12 @@
     "wof:concordances":{
         "gn:id":3522210,
         "gp:id":135484,
-        "qs:id":353352,
-        "qs_pg:id":1264542,
+        "qs_pg:id":353352,
         "wd:id":"Q160750",
         "wk:page":"Pachuca"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1264542
     },
     "wof:country":"MX",
     "wof:geomhash":"2ee4b114b38e01302ee5b6925dd384b7",
@@ -317,7 +318,7 @@
         }
     ],
     "wof:id":102000455,
-    "wof:lastmodified":1563369679,
+    "wof:lastmodified":1566615676,
     "wof:name":"Pachuca de Soto",
     "wof:parent_id":102078641,
     "wof:placetype":"locality",

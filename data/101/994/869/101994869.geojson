@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1252814.44858,
+    "geom:area_square_m":1252814.448584,
     "geom:bbox":"-93.5084474846,18.0592477863,-93.4932425999,18.0745628315",
     "geom:latitude":18.066795,
     "geom:longitude":-93.499071,
     "iso:country":"MX",
     "lbl:latitude":18.066961,
     "lbl:longitude":-93.499064,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.066961,
     "mps:longitude":-93.499064,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55885905
     },
     "wof:country":"MX",
-    "wof:geomhash":"6761e5e3fc22700fe679a1c72af4cb7f",
+    "wof:geomhash":"69824d937384940dfd492c9359f63fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994869,
-    "wof:lastmodified":1479904396,
+    "wof:lastmodified":1566632852,
     "wof:name":"Poblado C-20 Miguel Hidalgo y Costilla",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

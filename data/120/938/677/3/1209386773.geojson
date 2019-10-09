@@ -24,8 +24,12 @@
     "gn:population":1897,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-100.36194,19.86722,-100.32194,19.90722",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8858778
     },
     "wof:country":"MX",
-    "wof:geomhash":"ff89e0ec0113f17afa1a1b8f0e94dbeb",
+    "wof:geomhash":"f57c400484b8de3b6a8fd8c8e3c255ad",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209386773,
-    "wof:lastmodified":1536288598,
+    "wof:lastmodified":1566625230,
     "wof:name":"Apeo",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -100.34194,
-    19.887220000000006,
+    19.88722000000001,
     -100.34194,
-    19.887220000000006
+    19.88722000000001
 ],
   "geometry": {"coordinates":[-100.34193999999999,19.88722000000001],"type":"Point"}
 }

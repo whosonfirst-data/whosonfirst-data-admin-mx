@@ -9,14 +9,17 @@
     "geom:bbox":"-98.34444,19.61667,-98.34444,19.61667",
     "geom:latitude":19.61667,
     "geom:longitude":-98.34444,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.34944,19.61167,-98.33944,19.62167",
     "lbl:latitude":19.61667,
     "lbl:longitude":-98.34444,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "La Candelaria"
@@ -45,16 +48,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55905882,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Puebla",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686653,
         102191575,
         85633293,
-        102077907,
-        85686653
+        102077907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126068685,
-    "wof:lastmodified":1509410559,
+    "wof:lastmodified":1566634139,
     "wof:name":"Fracc la Candelaria",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

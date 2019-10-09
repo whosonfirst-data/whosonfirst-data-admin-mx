@@ -9,14 +9,18 @@
     "geom:bbox":"-98.16307,19.26011,-98.16307,19.26011",
     "geom:latitude":19.26011,
     "geom:longitude":-98.16307,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.18307,19.24011,-98.14307,19.28011",
     "lbl:latitude":19.26011,
     "lbl:longitude":-98.16307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "San Francisco Tetlanohcan"
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "San Francisco Tetlanohcan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tetlanolican"
     ],
     "name:vec_x_preferred":[
@@ -87,7 +91,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":142677,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Tlaxcala",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1125954159,
-    "wof:lastmodified":1563400057,
+    "wof:lastmodified":1566633884,
     "wof:name":"San Francisco Tetlanohca",
     "wof:parent_id":102077871,
     "wof:placetype":"locality",

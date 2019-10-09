@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.063867,
     "lbl:longitude":-96.816295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.063867,
     "mps:longitude":-96.816295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Pedro Ixtlahuaca"
     ],
@@ -52,9 +55,6 @@
     "name:swe_x_preferred":[
         "San Pedro Ixtlahuaca"
     ],
-    "name:unk_x_variant":[
-        "Ixtlahuaca"
-    ],
     "name:vie_x_preferred":[
         "San Pedro Ixtlahuaca"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -87,7 +87,6 @@
         "fct:id":"01b86b6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517991,
         "gp:id":145089,
-        "qs:id":270596,
         "qs_pg:id":270596,
         "wd:id":"Q3889038",
         "wk:page":"San Pedro Ixtlahuaca"
@@ -107,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397891,
+    "wof:lastmodified":1566632650,
     "wof:name":"San Pedro Ixtlahuaca",
     "wof:parent_id":102075983,
     "wof:placetype":"locality",

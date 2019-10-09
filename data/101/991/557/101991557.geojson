@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":663526.688784,
+    "geom:area_square_m":663526.688785,
     "geom:bbox":"-99.1415092677,19.8175746566,-99.1317154415,19.8302874334",
     "geom:latitude":19.823918,
     "geom:longitude":-99.136904,
     "iso:country":"MX",
     "lbl:latitude":19.823572,
     "lbl:longitude":-99.136828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.823572,
     "mps:longitude":-99.136828,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Colonia Algar\u00edn"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,7 +49,7 @@
         "gp:id":144020
     },
     "wof:country":"MX",
-    "wof:geomhash":"67db81806f2ccf2f5178c8358c551801",
+    "wof:geomhash":"f5c44368b8f08c327e3897be10af0595",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101991557,
-    "wof:lastmodified":1479933534,
+    "wof:lastmodified":1566632297,
     "wof:name":"Colonia L\u00e1zaro C\u00e1rdenas del R\u00edo",
     "wof:parent_id":102073979,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-97.080352,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-97.085352,15.855774,-97.075352,15.865774",
     "lbl:latitude":15.860774,
     "lbl:longitude":-97.080352,
+    "lbl:max_zoom":18.0,
     "mps:latitude":15.861799,
     "mps:longitude":-97.085296,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Rinconada"
-    ],
-    "name:unk_x_variant":[
         "Fracc Rinconada"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686623,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55916361,
-        "qs:id":411862,
         "qs_pg:id":411862
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619614,
     "wof:name":"Fracc Rinconada",
     "wof:parent_id":101996231,
     "wof:placetype":"neighbourhood",

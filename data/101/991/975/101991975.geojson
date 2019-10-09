@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1449998.940196,
+    "geom:area_square_m":1449998.940193,
     "geom:bbox":"-99.5460459479,19.0045580542,-99.5324834766,19.0206638434",
     "geom:latitude":19.013429,
     "geom:longitude":-99.539196,
     "iso:country":"MX",
     "lbl:latitude":19.013181,
     "lbl:longitude":-99.538527,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.013181,
     "mps:longitude":-99.538527,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Juan Xochiaca"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101991975,
-    "wof:lastmodified":1497295725,
+    "wof:lastmodified":1566632350,
     "wof:name":"San Juan Xochiaca",
     "wof:parent_id":102073963,
     "wof:placetype":"locality",

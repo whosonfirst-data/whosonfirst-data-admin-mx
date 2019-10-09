@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000747,
-    "geom:area_square_m":8689567.961277,
+    "geom:area_square_m":8689567.961293,
     "geom:bbox":"-97.5802207691,19.850472388,-97.5490551228,19.8843055657",
     "geom:latitude":19.867898,
     "geom:longitude":-97.564192,
     "iso:country":"MX",
     "lbl:latitude":19.868262,
     "lbl:longitude":-97.563896,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.868262,
     "mps:longitude":-97.563896,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55892429
     },
     "wof:country":"MX",
-    "wof:geomhash":"f7ea7595a5495df23c9e782ea877dacb",
+    "wof:geomhash":"16ae2494031dd34c925f5ddd66e53a19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000093,
-    "wof:lastmodified":1479908270,
+    "wof:lastmodified":1566615714,
     "wof:name":"Tatoxcac",
     "wof:parent_id":102078439,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4647252.507997,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.199333,19.715323,-99.199333,19.715323",
     "geom:latitude":19.715323,
     "geom:longitude":-99.199333,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.204333,19.710323,-99.194333,19.720323",
     "lbl:latitude":19.715323,
     "lbl:longitude":-99.199333,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.713926,
     "mps:longitude":-99.198724,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Industrial Trebol Tepotzotlan"
-    ],
-    "name:unk_x_variant":[
         "Fracc Industrial Trebol Tepotzotlan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991839,
-        102074033,
-        85686527
+        102074033
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900549,
-        "qs:id":997173
+        "qs_pg:id":997173
     },
     "wof:country":"MX",
     "wof:geomhash":"f6b739f214352f2a8a8aaa59d77c73ce",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874474,
+    "wof:lastmodified":1566619631,
     "wof:name":"Fracc Industrial Trebol Tepotzotlan",
     "wof:parent_id":101991839,
     "wof:placetype":"neighbourhood",

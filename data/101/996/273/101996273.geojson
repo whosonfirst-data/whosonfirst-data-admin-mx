@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.136148,
     "lbl:longitude":-99.627613,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.136148,
     "mps:longitude":-99.627613,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a8\u09be\u09b2 \u09a6\u09c7 \u0986\u09ae\u09cb\u09b2\u09c7\u09b8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -31,9 +34,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0438\u043d\u0430\u043b \u0434\u0435 \u0410\u043c\u043e\u043b\u0435\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Amoles"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Quer\u00e9taro",
@@ -52,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -65,7 +65,6 @@
         "fct:id":"01b8d8ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521440,
         "gp:id":136785,
-        "qs:id":114051,
         "qs_pg:id":114051,
         "wd:id":"Q3844949",
         "wk:page":"Pinal de Amoles Municipality"
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397339,
+    "wof:lastmodified":1566632364,
     "wof:name":"Pinal de Amoles",
     "wof:parent_id":102077093,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.566552,
     "lbl:longitude":-100.464511,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.566552,
     "mps:longitude":-100.464511,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tuxpan"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,6 @@
         "fct:id":"01b996ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980843,
         "gp:id":150267,
-        "qs:id":151245,
         "qs_pg:id":151245,
         "wd:id":"Q18603435",
         "wk:page":"Tuxpan, Michoac\u00e1n"
@@ -94,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397492,
+    "wof:lastmodified":1566632441,
     "wof:name":"Tuxpan",
     "wof:parent_id":102074979,
     "wof:placetype":"locality",

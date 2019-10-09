@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8733818.967356,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.536106,20.398368,-89.536106,20.398368",
     "geom:latitude":20.398368,
     "geom:longitude":-89.536106,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-89.541106,20.393368,-89.531106,20.403368",
     "lbl:latitude":20.398368,
     "lbl:longitude":-89.536106,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.397879,
     "mps:longitude":-89.536823,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
         "Ticul Centro",
         "Anexo:Municipios del estado de Yucat\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Ticul Centro"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3515665,
@@ -86,18 +85,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686701,
         102191575,
         85633293,
         102001229,
-        102079127,
-        85686701
+        102079127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908680,
-        "qs:id":1343297,
         "qs_pg:id":1343297
     },
     "wof:country":"MX",
@@ -116,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874634,
+    "wof:lastmodified":1566619645,
     "wof:name":"Ticul Centro",
     "wof:parent_id":102001229,
     "wof:placetype":"neighbourhood",

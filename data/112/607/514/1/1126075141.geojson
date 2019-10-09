@@ -9,15 +9,17 @@
     "geom:bbox":"-101.44887,20.49238,-101.44887,20.49238",
     "geom:latitude":20.49238,
     "geom:longitude":-101.44887,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":15,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-101.45387,20.48738,-101.44387,20.49738",
     "lbl:latitude":20.49238,
     "lbl:longitude":-101.44887,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "El Pe\u00f1\u00f3n"
@@ -43,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55901986,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Guanajuato",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
-        102077329,
-        85686629
+        102077329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126075141,
-    "wof:lastmodified":1509410876,
+    "wof:lastmodified":1566634256,
     "wof:name":"El Pe\u00f1on",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

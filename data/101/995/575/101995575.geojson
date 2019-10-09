@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.999809,
     "lbl:longitude":-97.350395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.999809,
     "mps:longitude":-97.350395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Mateo Sindihui"
     ],
@@ -63,7 +66,7 @@
     "name:swe_x_preferred":[
         "San Mateo Sindihui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sindihui"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -114,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397833,
+    "wof:lastmodified":1566632624,
     "wof:name":"San Mateo Sindihui",
     "wof:parent_id":102076825,
     "wof:placetype":"locality",

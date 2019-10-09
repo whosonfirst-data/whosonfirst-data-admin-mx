@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.415769,
     "lbl:longitude":-98.905945,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.415769,
     "mps:longitude":-98.905945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ast_x_preferred":[
         "Chicoloapan"
     ],
@@ -96,9 +99,6 @@
     "name:swe_x_preferred":[
         "Chicoloapan de Ju\u00e1rez"
     ],
-    "name:unk_x_variant":[
-        "San Vicente Chiloloapan"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u06a9\u0648\u0644\u0648\u0627\u067e\u0627\u0646 \u062f\u06d2 \u062e\u0648\u0627\u0631\u06cc\u0632"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -138,7 +138,6 @@
         "fct:id":"01af3766-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530937,
         "gp:id":115914,
-        "qs:id":1003066,
         "qs_pg:id":1003066,
         "wd:id":"Q1962095"
     },
@@ -157,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397990,
+    "wof:lastmodified":1566632700,
     "wof:name":"Chicoloapan de Ju\u00e1rez",
     "wof:parent_id":102074165,
     "wof:placetype":"locality",

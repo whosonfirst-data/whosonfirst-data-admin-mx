@@ -9,15 +9,18 @@
     "geom:bbox":"-101.46667,17.56667,-101.46667,17.56667",
     "geom:latitude":17.56667,
     "geom:longitude":-101.46667,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":4,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-101.48667,17.54667,-101.44667,17.58667",
     "lbl:latitude":17.56667,
     "lbl:longitude":-101.46667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Las Pozas"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0441-\u041f\u043e\u0441\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pozaz"
     ],
     "qs_pg:aaroncc":"MX",
@@ -61,7 +64,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":130848,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125978683,
-    "wof:lastmodified":1564173498,
+    "wof:lastmodified":1566634022,
     "wof:name":"Las Pozas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

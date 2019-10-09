@@ -11,8 +11,10 @@
     "geom:longitude":-108.992615,
     "gn:population":146,
     "iso:country":"MX",
+    "lbl:bbox":"-108.997615,25.807254,-108.987615,25.817254",
     "lbl:latitude":25.812254,
     "lbl:longitude":-108.992615,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.813523,
     "mps:longitude":-108.993076,
     "mz:hierarchy_label":0,
@@ -43,9 +45,6 @@
     "name:swe_x_preferred":[
         "Las Palmitas"
     ],
-    "name:unk_x_variant":[
-        "Las Palmas"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3997479,
@@ -75,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686535,
@@ -88,9 +87,11 @@
     "wof:concordances":{
         "gn:id":4025395,
         "gp:id":55890358,
-        "qs:id":1292489,
         "qs_pg:id":1104302,
         "wd:id":"Q20259939"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1292489
     },
     "wof:country":"MX",
     "wof:geomhash":"75bfc26f5f5ea30316221ced99eff792",
@@ -108,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375367,
+    "wof:lastmodified":1566619570,
     "wof:name":"Las Palmas",
     "wof:parent_id":101993793,
     "wof:placetype":"neighbourhood",

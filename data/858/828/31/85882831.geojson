@@ -10,8 +10,10 @@
     "geom:latitude":28.661189,
     "geom:longitude":-106.110901,
     "iso:country":"MX",
+    "lbl:bbox":"-106.115901,28.656189,-106.105901,28.666189",
     "lbl:latitude":28.661189,
     "lbl:longitude":-106.110901,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.66398,
     "mps:longitude":-106.10847,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Los Frailes"
-    ],
-    "name:unk_x_variant":[
         "Los Frailes"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686581,
         102191575,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3997633,
         "gp:id":55887098,
-        "qs:id":1002162,
         "qs_pg:id":1002162
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619570,
     "wof:name":"Los Frailes",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

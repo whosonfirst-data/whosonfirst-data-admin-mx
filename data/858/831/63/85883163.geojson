@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7260155.249429,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.992983,21.933475,-99.992983,21.933475",
     "geom:latitude":21.933475,
     "geom:longitude":-99.992983,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.997983,21.928475,-99.987983,21.938475",
     "lbl:latitude":21.933475,
     "lbl:longitude":-99.992983,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.938272,
     "mps:longitude":-99.98881,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Rio Verde Centro"
-    ],
-    "name:unk_x_variant":[
         "Rio Verde Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996477,
-        102077203,
-        85686647
+        102077203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891282,
-        "qs:id":474762,
         "qs_pg:id":474762
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874243,
+    "wof:lastmodified":1566619683,
     "wof:name":"Rio Verde Centro",
     "wof:parent_id":101996477,
     "wof:placetype":"neighbourhood",

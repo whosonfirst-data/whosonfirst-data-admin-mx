@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.729659,
     "lbl:longitude":-98.443894,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.729659,
     "mps:longitude":-98.443894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tepeojuma"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,6 @@
         "fct:id":"01b977a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515877,
         "gp:id":148913,
-        "qs:id":243192,
         "qs_pg:id":243192,
         "wd:id":"Q7701270",
         "wk:page":"Tepeojuma (municipality)"
@@ -97,7 +99,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397717,
+    "wof:lastmodified":1566632560,
     "wof:name":"Tepeojuma",
     "wof:parent_id":102078349,
     "wof:placetype":"locality",

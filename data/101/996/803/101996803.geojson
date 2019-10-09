@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.141948,
     "lbl:longitude":-101.171381,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":20.141948,
     "mps:longitude":-101.171381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Uriangato"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Uriangato"
     ],
-    "name:unk_x_variant":[
-        "Puriangato"
-    ],
     "name:vec_x_preferred":[
         "Uriangato"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +104,6 @@
         "fct:id":"01b99bc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980777,
         "gp:id":150398,
-        "qs:id":151244,
         "qs_pg:id":151244,
         "wd:id":"Q973918",
         "wk:page":"Uriangato"
@@ -124,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397360,
+    "wof:lastmodified":1566632375,
     "wof:name":"Uriangato",
     "wof:parent_id":102077275,
     "wof:placetype":"locality",

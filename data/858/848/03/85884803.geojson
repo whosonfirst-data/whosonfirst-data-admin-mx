@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18147539.020496,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.701735,23.040868,-109.701735,23.040868",
     "geom:latitude":23.040868,
     "geom:longitude":-109.701735,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.706735,23.035868,-109.696735,23.045868",
     "lbl:latitude":23.040868,
     "lbl:longitude":-109.701735,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.046677,
     "mps:longitude":-109.68726,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Club de Golf Residencial"
-    ],
-    "name:unk_x_variant":[
         "Club de Golf Residencial"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
         101993435,
-        102074525,
-        85686555
+        102074525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908398,
-        "qs:id":1077452
+        "qs_pg:id":1077452
     },
     "wof:country":"MX",
     "wof:geomhash":"1a32ecb91f9f9ca4dc43cd09dacf8fcc",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874626,
+    "wof:lastmodified":1566619639,
     "wof:name":"Club de Golf Residencial",
     "wof:parent_id":101993435,
     "wof:placetype":"neighbourhood",

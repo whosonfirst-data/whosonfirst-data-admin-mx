@@ -11,8 +11,10 @@
     "geom:longitude":-109.014587,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.019587,25.772634,-109.009587,25.782634",
     "lbl:latitude":25.777634,
     "lbl:longitude":-109.014587,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.77663,
     "mps:longitude":-109.015955,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Guadalupe"
-    ],
-    "name:unk_x_variant":[
         "Fracc Guadalupe"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686535,
         102191575,
@@ -69,8 +68,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887195,
-        "qs:id":1018963,
         "qs_pg:id":58524
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1018963
     },
     "wof:country":"MX",
     "wof:geomhash":"2e6df3aa1fcc8fc7ca18eb992d41c7b4",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619577,
     "wof:name":"Fracc Guadalupe",
     "wof:parent_id":101993793,
     "wof:placetype":"neighbourhood",

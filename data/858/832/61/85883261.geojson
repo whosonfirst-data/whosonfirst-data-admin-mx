@@ -11,8 +11,10 @@
     "geom:longitude":-116.924493,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.929493,32.474435,-116.919493,32.484435",
     "lbl:latitude":32.479435,
     "lbl:longitude":-116.924493,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.483079,
     "mps:longitude":-116.925802,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Los Saucillos"
-    ],
-    "name:unk_x_variant":[
         "Los Saucillos"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -68,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892711,
-        "qs:id":912446
+        "qs_pg:id":912446
     },
     "wof:country":"MX",
     "wof:geomhash":"b1daa27e46b00fb890b6809fbdf0524c",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619602,
     "wof:name":"Los Saucillos",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

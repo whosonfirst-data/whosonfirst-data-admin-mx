@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.762023,
     "lbl:longitude":-96.720989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.762023,
     "mps:longitude":-96.720989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Asunci\u00f3n Ocotl\u00e1n"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Asunci\u00f3n Ocotl\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "La Asunci\u00f3n Ocotl\u00e1n"
-    ],
     "name:vec_x_preferred":[
         "Asunci\u00f3n Ocotl\u00e1n"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -110,7 +110,6 @@
         "fct:id":"01b7e532-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532655,
         "gp:id":112557,
-        "qs:id":696309,
         "qs_pg:id":696309,
         "wd:id":"Q3845852",
         "wk:page":"Asunci\u00f3n Ocotl\u00e1n"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397905,
+    "wof:lastmodified":1566632655,
     "wof:name":"Asunci\u00f3n Ocotl\u00e1n",
     "wof:parent_id":102075873,
     "wof:placetype":"locality",

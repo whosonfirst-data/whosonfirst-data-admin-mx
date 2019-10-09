@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000044,
-    "geom:area_square_m":513531.691123,
+    "geom:area_square_m":513531.691124,
     "geom:bbox":"-98.7608719542,20.0486812716,-98.7529565278,20.0572502672",
     "geom:latitude":20.053102,
     "geom:longitude":-98.756801,
     "iso:country":"MX",
     "lbl:latitude":20.053101,
     "lbl:longitude":-98.756801,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.053101,
     "mps:longitude":-98.756801,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0648\u0646 \u0645\u0648\u0631\u0627\u0644\u064a\u0633"
     ],
@@ -60,7 +64,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -72,7 +76,7 @@
         "gp:id":56068678
     },
     "wof:country":"MX",
-    "wof:geomhash":"2f1c82c9ed9b774b359b72bcf7808c8f",
+    "wof:geomhash":"ad3b68c9458138ff237b329b9427e14a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102000413,
-    "wof:lastmodified":1479907614,
+    "wof:lastmodified":1566615664,
     "wof:name":"Los Tuzos",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

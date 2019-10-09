@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.64626,
     "lbl:longitude":-100.091435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.64626,
     "mps:longitude":-100.091435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09be\u09b0\u09c7\u09b8"
     ],
@@ -85,7 +88,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102000709,
-    "wof:lastmodified":1563369642,
+    "wof:lastmodified":1566615658,
     "wof:name":"Ciudad Benito Ju\u00e1rez",
     "wof:parent_id":102078677,
     "wof:placetype":"locality",

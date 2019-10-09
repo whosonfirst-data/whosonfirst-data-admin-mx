@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.968341,
     "lbl:longitude":-94.716555,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.968341,
     "mps:longitude":-94.716555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jaltipan de Morelos"
     ],
@@ -40,9 +43,6 @@
     "name:spa_x_preferred":[
         "J\u00e1ltipan de Morelos"
     ],
-    "name:unk_x_variant":[
-        "J\u00e1ltipan"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -72,7 +72,6 @@
         "fct:id":"01b8710a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526593,
         "gp:id":125716,
-        "qs:id":1116089,
         "qs_pg:id":1116089,
         "wd:id":"Q2447248"
     },
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750538,
+    "wof:lastmodified":1566632274,
     "wof:name":"J\u00e1ltipan de Morelos",
     "wof:parent_id":102077575,
     "wof:placetype":"locality",

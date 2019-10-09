@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.915145,
     "lbl:longitude":-100.006586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.915145,
     "mps:longitude":-100.006586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Temascalcingo"
     ],
@@ -63,9 +66,6 @@
     "name:swe_x_preferred":[
         "Temascalcingo de Jos\u00e9 Mar\u00eda Velazco"
     ],
-    "name:unk_x_variant":[
-        "Temascalcingo"
-    ],
     "name:vie_x_preferred":[
         "Temascalcingo"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -99,7 +99,6 @@
         "fct:id":"01af143e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516049,
         "gp:id":148664,
-        "qs:id":180433,
         "qs_pg:id":180433,
         "wd:id":"Q3308565",
         "wk:page":"Temascalcingo"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398039,
+    "wof:lastmodified":1566632729,
     "wof:name":"Temascalcingo de Jos\u00e9 Mar\u00eda Velasco",
     "wof:parent_id":102074053,
     "wof:placetype":"locality",

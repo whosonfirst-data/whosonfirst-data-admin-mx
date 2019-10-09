@@ -9,14 +9,17 @@
     "geom:bbox":"-102.049632226,23.0170134614,-102.021290956,23.048042288",
     "geom:latitude":23.032405,
     "geom:longitude":-102.035427,
-    "geonames:id":"4004893,4004892",
+    "gn:id":"4004893,4004892",
     "iso:country":"MX",
     "lbl:latitude":23.030065,
     "lbl:longitude":-102.035644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.030065,
     "mps:longitude":-102.035644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Hern\u00e1ndez"
     ],
@@ -38,7 +41,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1377,
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101996533,
-    "wof:lastmodified":1564171215,
+    "wof:lastmodified":1566632355,
     "wof:name":"Hern\u00e1ndez",
     "wof:parent_id":102077147,
     "wof:placetype":"locality",

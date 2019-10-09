@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":30.67872,
     "lbl:longitude":-112.056671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":30.67872,
     "mps:longitude":-112.056671,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Pitiquito"
     ],
@@ -53,9 +56,6 @@
     "name:srp_x_preferred":[
         "\u041f\u0438\u0442\u0438\u043a\u0438\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "Pititquito"
-    ],
     "name:vie_x_preferred":[
         "Pitiquito"
     ],
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -89,7 +89,6 @@
         "fct:id":"01aed29e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3992405,
         "gp:id":136871,
-        "qs:id":347290,
         "qs_pg:id":347290,
         "wd:id":"Q2991688",
         "wk:page":"Pitiquito"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398078,
+    "wof:lastmodified":1566632750,
     "wof:name":"Pitiquito",
     "wof:parent_id":102074363,
     "wof:placetype":"locality",

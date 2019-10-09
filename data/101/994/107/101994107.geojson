@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.777899,
     "lbl:longitude":-105.362714,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.777899,
     "mps:longitude":-105.362714,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u09b8\u09be\u09b2\u09a4\u09cb"
     ],
@@ -43,7 +46,7 @@
     "name:srp_x_preferred":[
         "\u0415\u043b \u0421\u0430\u043b\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salto"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":23.383333,
     "wd:longitude":-105.383333,
     "wd:wordcount":178,
@@ -80,10 +83,12 @@
     "wof:concordances":{
         "gn:id":4007676,
         "gp:id":122328,
-        "qs:id":1047604,
         "qs_pg:id":737517,
         "wd:id":"Q5352072",
         "wk:page":"El Salto, Durango"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1047604
     },
     "wof:country":"MX",
     "wof:geomhash":"3510df0b9368b77e004aac85a54eeb39",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101994107,
-    "wof:lastmodified":1563398313,
+    "wof:lastmodified":1566632873,
     "wof:name":"El Salto",
     "wof:parent_id":102075189,
     "wof:placetype":"locality",

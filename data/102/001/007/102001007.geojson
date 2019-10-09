@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.045369,
     "lbl:longitude":-99.154037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.045369,
     "mps:longitude":-99.154037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "G\u00f3mez Far\u00edas"
     ],
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "G\u00f3mez Far\u00edas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00f3mes Far\u00edas"
     ],
     "name:vec_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -102,7 +105,6 @@
         "fct:id":"01b7afea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3527431,
         "gp:id":124048,
-        "qs:id":232469,
         "qs_pg:id":232469,
         "wd:id":"Q3846365",
         "wk:page":"G\u00f3mez Far\u00edas Municipality, Tamaulipas"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369809,
+    "wof:lastmodified":1566615736,
     "wof:name":"G\u00f3mez Far\u00edas",
     "wof:parent_id":102078953,
     "wof:placetype":"locality",

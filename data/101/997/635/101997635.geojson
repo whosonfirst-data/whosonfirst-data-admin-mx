@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":2171030.718206,
+    "geom:area_square_m":2171030.718201,
     "geom:bbox":"-103.191488041,20.5580979271,-103.172559239,20.5744591873",
     "geom:latitude":20.567492,
     "geom:longitude":-103.181755,
     "iso:country":"MX",
     "lbl:latitude":20.568677,
     "lbl:longitude":-103.180988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.568677,
     "mps:longitude":-103.180988,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55909594
     },
     "wof:country":"MX",
-    "wof:geomhash":"81e255ea99e254eb02d240d88e62a433",
+    "wof:geomhash":"d772b3406deb85bf6f6a06bb8a28567f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997635,
-    "wof:lastmodified":1479930212,
+    "wof:lastmodified":1566632456,
     "wof:name":"San Francisco de la Soledad (San Francisco)",
     "wof:parent_id":102074765,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11014073.579746,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.476155,25.952898,-100.476155,25.952898",
     "geom:latitude":25.952898,
     "geom:longitude":-100.476155,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.481155,25.947898,-100.471155,25.957898",
     "lbl:latitude":25.952898,
     "lbl:longitude":-100.476155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.957373,
     "mps:longitude":-100.476976,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Las Pedreras"
-    ],
-    "name:unk_x_variant":[
         "Las Pedreras"
     ],
     "qs:gn_fcode":"PPL",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
-        102078705,
-        85686681
+        102078705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895248,
-        "qs:id":1341438,
         "qs_pg:id":1341438
     },
     "wof:country":"MX",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874336,
+    "wof:lastmodified":1566619620,
     "wof:name":"Las Pedreras",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

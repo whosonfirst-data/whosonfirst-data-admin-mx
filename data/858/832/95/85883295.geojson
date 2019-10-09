@@ -11,8 +11,10 @@
     "geom:longitude":-98.270914,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.275914,19.308271,-98.265914,19.318271",
     "lbl:latitude":19.313271,
     "lbl:longitude":-98.270914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.315718,
     "mps:longitude":-98.270254,
     "mz:hierarchy_label":0,
@@ -36,7 +38,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686653,
         102191575,
@@ -48,7 +50,9 @@
     "wof:concordances":{
         "gn:id":3515570,
         "gp:id":55903707,
-        "qs:id":474864,
+        "qs_pg:id":474864
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":858186
     },
     "wof:country":"MX",
@@ -67,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619602,
     "wof:name":"Zapotla",
     "wof:parent_id":101999093,
     "wof:placetype":"neighbourhood",

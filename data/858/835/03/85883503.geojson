@@ -10,8 +10,10 @@
     "geom:latitude":32.494448,
     "geom:longitude":-117.003044,
     "iso:country":"MX",
+    "lbl:bbox":"-117.008044,32.489448,-116.998044,32.499448",
     "lbl:latitude":32.494448,
     "lbl:longitude":-117.003044,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.490007,
     "mps:longitude":-117.004618,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Hda Las Palomas"
-    ],
-    "name:unk_x_variant":[
         "Hda Las Palomas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -69,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3979466,
         "gp:id":55895666,
-        "qs:id":1182715
+        "qs_pg:id":1182715
     },
     "wof:country":"MX",
     "wof:geomhash":"718388ab1d161e381803d7a20edac164",
@@ -87,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619597,
     "wof:name":"Hda Las Palomas",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

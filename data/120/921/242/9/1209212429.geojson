@@ -24,8 +24,12 @@
     "gn:population":12,
     "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-104.91125,27.09579,-104.87125,27.13579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8915120
     },
     "wof:country":"MX",
-    "wof:geomhash":"88e19e51256b3438e7ca625c9ac7b075",
+    "wof:geomhash":"03bcde221cfe4f43ee4d981a601b9474",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209212429,
-    "wof:lastmodified":1536294245,
+    "wof:lastmodified":1566627324,
     "wof:name":"La Blanquita",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -104.89125,
-    27.115790000000004,
+    27.11579,
     -104.89125,
-    27.115790000000004
+    27.11579
 ],
   "geometry": {"coordinates":[-104.89125,27.11579],"type":"Point"}
 }

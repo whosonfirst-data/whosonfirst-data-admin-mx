@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.40184,
     "lbl:longitude":-99.214172,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.401559,
     "mps:longitude":-99.210323,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "3ra Secc Del Bosque de Chapultepec"
-    ],
-    "name:unk_x_variant":[
         "3ra Secc Del Bosque de Chapultepec"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898239,
-        "qs:id":218258
+        "qs_pg:id":218258
     },
     "wof:country":"MX",
     "wof:geomhash":"31a0f2f1e2d0bf43e2a087699ce12bbd",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957716,
+    "wof:lastmodified":1566619692,
     "wof:name":"3ra Secc Del Bosque de Chapultepec",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

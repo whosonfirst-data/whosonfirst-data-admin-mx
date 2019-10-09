@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.294792,
     "lbl:longitude":-101.577786,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":22.294792,
     "mps:longitude":-101.577786,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a8\u09cb\u09b8"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,6 @@
         "fct:id":"01b8d8de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3992485,
         "gp:id":136813,
-        "qs:id":890888,
         "qs_pg:id":890888,
         "wd:id":"Q20221962"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397982,
+    "wof:lastmodified":1566632694,
     "wof:name":"Pinos",
     "wof:parent_id":102075409,
     "wof:placetype":"locality",

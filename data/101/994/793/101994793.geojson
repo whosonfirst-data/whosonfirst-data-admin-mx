@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.993729,
     "lbl:longitude":-93.373683,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":17.993729,
     "mps:longitude":-93.373683,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09a6\u09c7\u09a8\u09be\u09b8"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":155,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
         "fct:id":"01b80152-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531576,
         "gp:id":114826,
-        "qs:id":148844,
         "qs_pg:id":148844,
         "wd:id":"Q1962471",
         "wk:page":"C\u00e1rdenas, Tabasco"
@@ -123,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398312,
+    "wof:lastmodified":1566632872,
     "wof:name":"C\u00e1rdenas",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

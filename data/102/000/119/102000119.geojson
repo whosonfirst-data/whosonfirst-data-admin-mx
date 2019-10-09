@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.894732,
     "lbl:longitude":-98.385554,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.894732,
     "mps:longitude":-98.385554,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u09b8\u09be"
     ],
@@ -90,7 +93,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102000119,
-    "wof:lastmodified":1564141394,
+    "wof:lastmodified":1566615688,
     "wof:name":"Santa Teresa",
     "wof:parent_id":102078575,
     "wof:placetype":"locality",

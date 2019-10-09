@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4000081.997355,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.013367,19.615855,-99.013367,19.615855",
     "geom:latitude":19.615855,
     "geom:longitude":-99.013367,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.018367,19.610855,-99.008367,19.620855",
     "lbl:latitude":19.615855,
     "lbl:longitude":-99.013367,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.618525,
     "mps:longitude":-99.011416,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Ampl Llano de Los Baez"
-    ],
-    "name:unk_x_variant":[
         "Ampl Llano de Los Baez"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992735,
-        102074155,
-        85686527
+        102074155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888600,
-        "qs:id":912356
+        "qs_pg:id":912356
     },
     "wof:country":"MX",
     "wof:geomhash":"2f0eccb22ad33aa13959ff5cca1ad1a1",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874177,
+    "wof:lastmodified":1566619550,
     "wof:name":"Ampl Llano de Los Baez",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

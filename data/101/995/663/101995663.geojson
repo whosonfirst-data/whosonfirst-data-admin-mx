@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1383221.492422,
+    "geom:area_square_m":1383221.492415,
     "geom:bbox":"-96.7820291486,17.1225177187,-96.7671224805,17.144815242",
     "geom:latitude":17.132656,
     "geom:longitude":-96.77542,
     "iso:country":"MX",
     "lbl:latitude":17.132312,
     "lbl:longitude":-96.775307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.132312,
     "mps:longitude":-96.775307,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Blancas"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101995663,
-    "wof:lastmodified":1501267460,
+    "wof:lastmodified":1566632651,
     "wof:name":"Hacienda Blanca",
     "wof:parent_id":102075979,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000415,
-    "geom:area_square_m":4856055.215048,
+    "geom:area_square_m":4856055.215042,
     "geom:bbox":"-102.215886378,18.9954385296,-102.190705042,19.0237630403",
     "geom:latitude":19.009475,
     "geom:longitude":-102.204179,
     "iso:country":"MX",
     "lbl:latitude":19.008753,
     "lbl:longitude":-102.204374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.008753,
     "mps:longitude":-102.204374,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mar\u00eda Luisa Reid"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,7 +49,7 @@
         "gp:id":112219
     },
     "wof:country":"MX",
-    "wof:geomhash":"6c3f52973be54826faba288d2c88e4ae",
+    "wof:geomhash":"110cc29c48e577db4dee5c18e8aa1b07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101997121,
-    "wof:lastmodified":1479931141,
+    "wof:lastmodified":1566632467,
     "wof:name":"Ant\u00fanez (Morelos)",
     "wof:parent_id":102074919,
     "wof:placetype":"locality",

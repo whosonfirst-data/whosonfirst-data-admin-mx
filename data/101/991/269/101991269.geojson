@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.930579,
     "lbl:longitude":-99.600991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.930579,
     "mps:longitude":-99.600991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mezcala"
     ],
@@ -31,9 +34,6 @@
     ],
     "name:swe_x_preferred":[
         "Mezcala"
-    ],
-    "name:unk_x_variant":[
-        "Mexcala"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Guerrero",
@@ -52,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,9 +64,11 @@
     "wof:concordances":{
         "gn:id":3996038,
         "gp:id":133505,
-        "qs:id":332753,
-        "qs_pg:id":585982,
+        "qs_pg:id":332753,
         "wd:id":"Q20208666"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":585982
     },
     "wof:country":"MX",
     "wof:geomhash":"7c73053a4d55eab1ef4048aa2fcdb367",
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101991269,
-    "wof:lastmodified":1563397245,
+    "wof:lastmodified":1566632313,
     "wof:name":"Mezcala",
     "wof:parent_id":102073807,
     "wof:placetype":"locality",

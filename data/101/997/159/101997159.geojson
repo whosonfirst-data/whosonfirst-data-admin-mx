@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.215704,
     "lbl:longitude":-100.404751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.215704,
     "mps:longitude":-100.404751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u0441\u0443\u043f\u0443\u0430\u0442\u043e"
     ],
@@ -59,9 +62,6 @@
     "name:swe_x_preferred":[
         "Susupuato"
     ],
-    "name:unk_x_variant":[
-        "Susupuato de Guenero"
-    ],
     "name:vec_x_preferred":[
         "Susupuato"
     ],
@@ -83,7 +83,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -113,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397480,
+    "wof:lastmodified":1566632434,
     "wof:name":"Susupuato de Guerrero",
     "wof:parent_id":102074929,
     "wof:placetype":"locality",

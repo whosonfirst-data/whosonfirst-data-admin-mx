@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000202,
-    "geom:area_square_m":2354686.14194,
+    "geom:area_square_m":2354686.141937,
     "geom:bbox":"-97.9097523884,19.1473448788,-97.8858642144,19.1740457547",
     "geom:latitude":19.159355,
     "geom:longitude":-97.896134,
     "iso:country":"MX",
     "lbl:latitude":19.155173,
     "lbl:longitude":-97.892346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.155173,
     "mps:longitude":-97.892346,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55885295
     },
     "wof:country":"MX",
-    "wof:geomhash":"3e1962982dd661b14fbbdbe889990a35",
+    "wof:geomhash":"c662d2cd6dea20898d4fe6cefcc8e9c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999591,
-    "wof:lastmodified":1479908123,
+    "wof:lastmodified":1566632558,
     "wof:name":"El Rinc\u00f3n Citlalt\u00e9petl",
     "wof:parent_id":102078215,
     "wof:placetype":"locality",

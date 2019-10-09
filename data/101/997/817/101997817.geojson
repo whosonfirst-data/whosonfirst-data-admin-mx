@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.40771,
     "lbl:longitude":-103.360646,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.40771,
     "mps:longitude":-103.360646,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Lucas Evangelista"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Lucas Evangelista"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Lucas"
     ],
     "qs:a0":"Mexico",
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101997817,
-    "wof:lastmodified":1563397505,
+    "wof:lastmodified":1566632446,
     "wof:name":"San Lucas Evangelista",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Merida",
     "iso:country":"MX",
+    "lbl:bbox":"-89.32329,20.92932,-89.28329,20.96932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ak\u00e9"
     ],
@@ -50,9 +54,6 @@
     "name:spa_x_variant":[
         "Ak\u00e9"
     ],
-    "name:und_x_variant":[
-        "Ak\u00e9"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1209443549,
-    "wof:lastmodified":1564162235,
+    "wof:lastmodified":1566627459,
     "wof:name":"Ruinas de Ake",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",

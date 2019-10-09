@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7810848.956818,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.974837,20.467527,-86.974837,20.467527",
     "geom:latitude":20.467527,
     "geom:longitude":-86.974837,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-86.979837,20.462527,-86.969837,20.472527",
     "lbl:latitude":20.467527,
     "lbl:longitude":-86.974837,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.466728,
     "mps:longitude":-86.967078,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Taxistas Y Ctm"
-    ],
-    "name:unk_x_variant":[
         "Taxistas Y Ctm"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686711,
         102191575,
         85633293,
-        102079247,
-        85686711
+        102079247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883664,
-        "qs:id":474453
+        "qs_pg:id":474453
     },
     "wof:country":"MX",
     "wof:geomhash":"796816ff2f450bab765d9aedfa457e8c",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874053,
+    "wof:lastmodified":1566619667,
     "wof:name":"Taxistas Y Ctm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

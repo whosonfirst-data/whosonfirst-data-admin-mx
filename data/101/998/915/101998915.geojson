@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.376118,
     "lbl:longitude":-95.751489,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.376118,
     "mps:longitude":-95.751489,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Carlos A. Carrillo"
     ],
@@ -57,7 +60,7 @@
     "name:swe_x_preferred":[
         "Carlos A. Carrillo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Crist\u00f3bal"
     ],
     "name:vie_x_preferred":[
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":158,
     "wof:belongsto":[
@@ -94,7 +97,6 @@
         "fct:id":"01bb514a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3531556,
         "gp:id":55912245,
-        "qs:id":1230776,
         "qs_pg:id":1230776,
         "wd:id":"Q3892135",
         "wk:page":"Carlos A. Carrillo, Veracruz"
@@ -114,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397125,
+    "wof:lastmodified":1566632249,
     "wof:name":"Carlos A. Carrillo",
     "wof:parent_id":102077835,
     "wof:placetype":"locality",

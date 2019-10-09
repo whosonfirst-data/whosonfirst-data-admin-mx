@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7712508.399144,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.695487,23.06139,-109.695487,23.06139",
     "geom:latitude":23.06139,
     "geom:longitude":-109.695487,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.700487,23.05639,-109.690487,23.06639",
     "lbl:latitude":23.06139,
     "lbl:longitude":-109.695487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.081772,
     "mps:longitude":-109.678994,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "San Jose Del Cabo Centro"
-    ],
-    "name:unk_x_variant":[
         "San Jose Del Cabo Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
         101993435,
-        102074525,
-        85686555
+        102074525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908438,
-        "qs:id":1343275,
         "qs_pg:id":1343275
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874629,
+    "wof:lastmodified":1566619640,
     "wof:name":"San Jose Del Cabo Centro",
     "wof:parent_id":101993435,
     "wof:placetype":"neighbourhood",

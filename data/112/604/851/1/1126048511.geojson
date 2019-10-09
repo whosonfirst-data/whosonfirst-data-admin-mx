@@ -9,19 +9,23 @@
     "geom:bbox":"-105.47572,21.90602,-105.47572,21.90602",
     "geom:latitude":21.90602,
     "geom:longitude":-105.47572,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-105.49572,21.88602,-105.45572,21.92602",
     "lbl:latitude":21.90602,
     "lbl:longitude":-105.47572,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Mexcaltitan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mexcatitl\u00e1n"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":133474,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Nayarit",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1126048511,
-    "wof:lastmodified":1509409061,
+    "wof:lastmodified":1566633968,
     "wof:name":"Mexcaltit\u00e1n",
     "wof:parent_id":102074587,
     "wof:placetype":"locality",

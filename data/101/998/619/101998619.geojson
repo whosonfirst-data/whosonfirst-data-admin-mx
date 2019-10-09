@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":3067982.390117,
+    "geom:area_square_m":3067982.390124,
     "geom:bbox":"-97.8409685444,22.1712151442,-97.8239240055,22.1971919956",
     "geom:latitude":22.184193,
     "geom:longitude":-97.832725,
     "iso:country":"MX",
     "lbl:latitude":22.184043,
     "lbl:longitude":-97.831872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.184043,
     "mps:longitude":-97.831872,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cuauht\u00e9moc"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,7 +49,7 @@
         "gp:id":55902249
     },
     "wof:country":"MX",
-    "wof:geomhash":"f90cba806a5159fcab3cecf9fa4766da",
+    "wof:geomhash":"08b757747e909a583df4d9695fd1894e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101998619,
-    "wof:lastmodified":1479906979,
+    "wof:lastmodified":1566632233,
     "wof:name":"Cd. Cuauht\u00e9moc",
     "wof:parent_id":102077673,
     "wof:placetype":"locality",

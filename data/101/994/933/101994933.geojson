@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.112867,
     "lbl:longitude":-93.49917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.112867,
     "mps:longitude":-93.49917,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55896073
     },
     "wof:country":"MX",
-    "wof:geomhash":"c4fbee91c4a7b473084ab01f48517147",
+    "wof:geomhash":"9d99230d9e86493832b46e138ee1ff38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994933,
-    "wof:lastmodified":1479904397,
+    "wof:lastmodified":1566632878,
     "wof:name":"Poblado C-16 General Emiliano Zapata",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

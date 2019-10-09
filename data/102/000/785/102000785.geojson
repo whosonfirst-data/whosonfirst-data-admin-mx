@@ -14,13 +14,17 @@
     "iso:country":"MX",
     "lbl:latitude":24.323691,
     "lbl:longitude":-99.912564,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.323691,
     "mps:longitude":-99.912564,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Ascensi\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ascensi\u00f3n"
     ],
     "qs:a0":"Mexico",
@@ -40,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":102000785,
-    "wof:lastmodified":1497293807,
+    "wof:lastmodified":1566615684,
     "wof:name":"La Ascenci\u00f3n",
     "wof:parent_id":102078779,
     "wof:placetype":"locality",

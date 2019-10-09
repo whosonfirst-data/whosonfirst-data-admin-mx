@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":3274155.114285,
+    "geom:area_square_m":3274155.114279,
     "geom:bbox":"-98.8262906486,19.4962459795,-98.8023184645,19.5173274267",
     "geom:latitude":19.506849,
     "geom:longitude":-98.812761,
     "iso:country":"MX",
     "lbl:latitude":19.505824,
     "lbl:longitude":-98.811585,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.505824,
     "mps:longitude":-98.811585,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Miguel Tlaixpan"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3817702,
         "gp:id":55885268,
-        "qs:id":905282
+        "qs_pg:id":905282
     },
     "wof:country":"MX",
     "wof:geomhash":"b3f9bd363d8b8b423c84d29a03fda6ae",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101991751,
-    "wof:lastmodified":1501268840,
+    "wof:lastmodified":1566632326,
     "wof:name":"San Miguel Tlaixp\u00e1n",
     "wof:parent_id":102074023,
     "wof:placetype":"locality",

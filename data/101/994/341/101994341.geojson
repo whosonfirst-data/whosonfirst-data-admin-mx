@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":15.142556,
     "lbl:longitude":-92.465858,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":15.142556,
     "mps:longitude":-92.465858,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Huixtla"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "fct:id":"01b864da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526855,
         "gp:id":125291,
-        "qs:id":322040,
         "qs_pg:id":322040,
         "wd:id":"Q1393838",
         "wk:page":"Huixtla"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398289,
+    "wof:lastmodified":1566632859,
     "wof:name":"Huixtla",
     "wof:parent_id":102075565,
     "wof:placetype":"locality",

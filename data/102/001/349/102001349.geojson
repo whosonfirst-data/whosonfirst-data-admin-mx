@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":870338.517248,
+    "geom:area_square_m":870338.517247,
     "geom:bbox":"-89.6678624757,21.2058283326,-89.6548198085,21.2149847514",
     "geom:latitude":21.210623,
     "geom:longitude":-89.660334,
     "iso:country":"MX",
     "lbl:latitude":21.210739,
     "lbl:longitude":-89.660209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.210739,
     "mps:longitude":-89.660209,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Yucat\u00e1n",
     "qs:a1_lc":"31",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55882890
     },
     "wof:country":"MX",
-    "wof:geomhash":"e252f9fc40c7958c580875484c37ebaa",
+    "wof:geomhash":"9f5eb7f6779ff5ad5b2710a990732c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102001349,
-    "wof:lastmodified":1479908109,
+    "wof:lastmodified":1566615743,
     "wof:name":"Campestre Flamboyanes",
     "wof:parent_id":102078975,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3503092.237928,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-107.366638,24.824133,-107.366638,24.824133",
     "geom:latitude":24.824133,
     "geom:longitude":-107.366638,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-107.371638,24.819133,-107.361638,24.829133",
     "lbl:latitude":24.824133,
     "lbl:longitude":-107.366638,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.824132,
     "mps:longitude":-107.366638,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Paseo Del Rio"
-    ],
-    "name:unk_x_variant":[
         "Paseo Del Rio"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686535,
         102191575,
         85633293,
         101993731,
-        102074307,
-        85686535
+        102074307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903259,
-        "qs:id":139061,
         "qs_pg:id":139061
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874514,
+    "wof:lastmodified":1566619583,
     "wof:name":"Paseo Del Rio",
     "wof:parent_id":101993731,
     "wof:placetype":"neighbourhood",

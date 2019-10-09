@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.213144,
     "lbl:longitude":-99.586528,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.213144,
     "mps:longitude":-99.586528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Mexicaltzingo"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "San Mateo Mexicaltzingo"
     ],
-    "name:unk_x_variant":[
-        "San Mateo Mexicalcingo"
-    ],
     "name:vie_x_preferred":[
         "Mexicaltzingo"
     ],
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":681,
     "wof:belongsto":[
@@ -115,7 +115,6 @@
         "fct:id":"01af717c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518377,
         "gp:id":144436,
-        "qs:id":982644,
         "qs_pg:id":982644,
         "wd:id":"Q3308578",
         "wk:page":"San Mateo Mexicaltzingo"
@@ -135,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397994,
+    "wof:lastmodified":1566632701,
     "wof:name":"San Mateo Mexicaltzingo",
     "wof:parent_id":102074111,
     "wof:placetype":"locality",

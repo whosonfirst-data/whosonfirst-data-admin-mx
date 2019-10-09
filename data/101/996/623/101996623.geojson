@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.800594,
     "lbl:longitude":-101.330293,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.800594,
     "mps:longitude":-101.330293,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Calera"
     ],
@@ -26,7 +29,7 @@
     "name:swe_x_preferred":[
         "La Calera"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calera de Rivera"
     ],
     "qs:a0":"Mexico",
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":4003270,
         "gp:id":126612,
-        "qs:id":151364,
         "qs_pg:id":151364,
         "wd:id":"Q20207583"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101996623,
-    "wof:lastmodified":1563397421,
+    "wof:lastmodified":1566632406,
     "wof:name":"La Calera",
     "wof:parent_id":102077341,
     "wof:placetype":"locality",

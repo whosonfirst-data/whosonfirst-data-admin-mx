@@ -9,15 +9,17 @@
     "geom:bbox":"-99.01064,16.76777,-99.01064,16.76777",
     "geom:latitude":16.76777,
     "geom:longitude":-99.01064,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1204,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.01564,16.76277,-99.00564,16.77277",
     "lbl:latitude":16.76777,
     "lbl:longitude":-99.01064,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "La Dicha"
@@ -43,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55896470,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Guerrero",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
-        102073837,
-        85686517
+        102073837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126071741,
-    "wof:lastmodified":1509410711,
+    "wof:lastmodified":1566634225,
     "wof:name":"La Mica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

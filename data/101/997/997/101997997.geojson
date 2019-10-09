@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.622563,
     "lbl:longitude":-104.534988,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.622563,
     "mps:longitude":-104.534988,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lo Arado"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":3998473,
         "gp:id":131246,
-        "qs:id":284682,
         "qs_pg:id":284682,
         "wd:id":"Q20246435"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101997997,
-    "wof:lastmodified":1563397489,
+    "wof:lastmodified":1566632438,
     "wof:name":"Lo Arado",
     "wof:parent_id":102074865,
     "wof:placetype":"locality",

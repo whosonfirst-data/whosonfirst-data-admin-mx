@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.528391,
     "lbl:longitude":-90.698972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.528391,
     "mps:longitude":-90.698972,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villa Madero"
     ],
@@ -46,7 +49,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102001413,
-    "wof:lastmodified":1563369799,
+    "wof:lastmodified":1566615731,
     "wof:name":"Villa Madero",
     "wof:parent_id":102079231,
     "wof:placetype":"locality",

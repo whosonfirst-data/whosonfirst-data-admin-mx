@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":18.850187,
     "lbl:longitude":-97.103602,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":18.850187,
     "mps:longitude":-97.103602,
     "mz:hierarchy_label":1,
@@ -337,7 +339,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -351,7 +353,6 @@
         "gn:id":3522307,
         "gp:id":135338,
         "loc:id":"n86064210",
-        "qs:id":1141719,
         "qs_pg:id":1141719,
         "wd:id":"Q993904",
         "wk:page":"Orizaba"
@@ -371,7 +372,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397059,
+    "wof:lastmodified":1566632221,
     "wof:name":"Orizaba",
     "wof:parent_id":102077639,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.627404,
     "lbl:longitude":-95.515775,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.627404,
     "mps:longitude":-95.515775,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:spa_x_preferred":[
         "Lerdo de Tejada"
     ],
@@ -38,7 +41,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         "fct:id":"01b89982-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3524391,
         "gp:id":55911727,
-        "qs:id":1045455,
+        "qs_pg:id":1045455,
         "wd:id":"Q20227551"
     },
     "wof:country":"MX",
@@ -69,7 +72,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397089,
+    "wof:lastmodified":1566632234,
     "wof:name":"Lerdo de Tejada",
     "wof:parent_id":102077593,
     "wof:placetype":"locality",

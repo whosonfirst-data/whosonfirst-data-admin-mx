@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.043194,
     "lbl:longitude":-98.043497,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.043194,
     "mps:longitude":-98.043497,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:epo_x_preferred":[
         "Amozoc"
     ],
@@ -37,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u043c\u043e\u0437\u043e\u043a \u0434\u0435 \u041c\u043e\u0442\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Amozoc"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0645\u0648\u0633\u0648\u06a9 \u062f\u06d2 \u0645\u0648\u062a\u0627"
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -78,7 +78,6 @@
         "fct:id":"01d85cea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532881,
         "gp:id":112103,
-        "qs:id":180020,
         "qs_pg:id":180020,
         "wd:id":"Q2844093",
         "wk:page":"Amozoc de Mota"
@@ -98,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397653,
+    "wof:lastmodified":1566632523,
     "wof:name":"Amozoc de Mota",
     "wof:parent_id":102078025,
     "wof:placetype":"locality",

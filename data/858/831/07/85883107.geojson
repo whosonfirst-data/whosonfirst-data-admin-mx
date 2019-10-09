@@ -11,8 +11,10 @@
     "geom:longitude":-110.991367,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.996367,29.083958,-110.986367,29.093958",
     "lbl:latitude":29.088958,
     "lbl:longitude":-110.991367,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.09194,
     "mps:longitude":-110.997055,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Staus"
-    ],
-    "name:unk_x_variant":[
         "Staus"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686549,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890643,
-        "qs:id":234222,
         "qs_pg:id":234222
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619681,
     "wof:name":"Staus",
     "wof:parent_id":101993983,
     "wof:placetype":"neighbourhood",

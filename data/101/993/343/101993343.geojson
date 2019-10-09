@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.89493,
     "lbl:longitude":-99.175253,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":18.89493,
     "mps:longitude":-99.175253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:bul_x_preferred":[
         "\u0425\u0438\u0443\u0442\u0435\u043f\u0435\u043a"
     ],
@@ -89,9 +92,6 @@
     "name:tur_x_preferred":[
         "Jiutepec"
     ],
-    "name:unk_x_variant":[
-        "Xiutepec"
-    ],
     "name:vie_x_preferred":[
         "Jiutepec"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":1385.0,
     "wd:latitude":18.881389,
@@ -135,7 +135,6 @@
         "fct:id":"01b87600-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526485,
         "gp:id":125941,
-        "qs:id":775564,
         "qs_pg:id":775564,
         "wd:id":"Q984646",
         "wk:page":"Jiutepec"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398219,
+    "wof:lastmodified":1566632823,
     "wof:name":"Jiutepec",
     "wof:parent_id":102074275,
     "wof:placetype":"locality",

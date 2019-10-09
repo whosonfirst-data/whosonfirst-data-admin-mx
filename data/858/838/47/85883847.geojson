@@ -11,8 +11,10 @@
     "geom:longitude":-100.366446,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.371446,25.723159,-100.361446,25.733159",
     "lbl:latitude":25.728159,
     "lbl:longitude":-100.366446,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.728158,
     "mps:longitude":-100.36527,
     "mz:hierarchy_label":0,
@@ -96,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0421\u0435\u0441\u0456\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Santa Cecilia"
-    ],
     "name:vie_x_preferred":[
         "Santa Cecilia"
     ],
@@ -139,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686681,
         102191575,
@@ -151,7 +150,6 @@
     "wof:concordances":{
         "gn:id":3517485,
         "gp:id":55898499,
-        "qs:id":1341961,
         "qs_pg:id":1341961
     },
     "wof:country":"MX",
@@ -170,7 +168,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147326,
+    "wof:lastmodified":1566619678,
     "wof:name":"Santa Cecilia",
     "wof:parent_id":102000679,
     "wof:placetype":"neighbourhood",

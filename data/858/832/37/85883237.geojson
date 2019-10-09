@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4381543.250831,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.20599,19.006334,-98.20599,19.006334",
     "geom:latitude":19.006334,
     "geom:longitude":-98.20599,
     "iso:country":"MX",
+    "lbl:bbox":"-98.21099,19.001334,-98.20099,19.011334",
     "lbl:latitude":19.006334,
     "lbl:longitude":-98.20599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.005506,
     "mps:longitude":-98.213721,
     "mz:hierarchy_label":0,
@@ -29,9 +31,8 @@
     "name:spa_x_variant":[
         "Ex-Hacienda la Laguna"
     ],
-    "name:unk_x_variant":[
-        "Laguna",
-        "Lagulena"
+    "name:und_x_variant":[
+        "Laguna"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -62,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999639,
-        102078237,
-        85686657
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3525682,
         "gp:id":55892383,
-        "qs:id":1182699,
         "qs_pg:id":1182699
     },
     "wof:country":"MX",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874267,
+    "wof:lastmodified":1566619606,
     "wof:name":"Lagulena",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2505921.522263,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.205909,19.027876,-98.205909,19.027876",
     "geom:latitude":19.027876,
     "geom:longitude":-98.205909,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.210909,19.022876,-98.200909,19.032876",
     "lbl:latitude":19.027876,
     "lbl:longitude":-98.205909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.02918,
     "mps:longitude":-98.205492,
     "mz:hierarchy_label":0,
@@ -36,19 +38,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999639,
-        102078237,
-        85686657
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3529278,
         "gp:id":55893947,
-        "qs:id":474912,
         "qs_pg:id":474912
     },
     "wof:country":"MX",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874306,
+    "wof:lastmodified":1566619616,
     "wof:name":"El Carmen Huexotitla",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

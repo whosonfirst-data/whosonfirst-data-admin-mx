@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4781062.251719,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.450747,20.733883,-100.450747,20.733883",
     "geom:latitude":20.733883,
     "geom:longitude":-100.450747,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.455747,20.728883,-100.445747,20.738883",
     "lbl:latitude":20.733883,
     "lbl:longitude":-100.450747,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.735566,
     "mps:longitude":-100.450745,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Lomas Del Pedregal"
-    ],
-    "name:unk_x_variant":[
         "Lomas Del Pedregal"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996395,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890074,
-        "qs:id":1012379,
         "qs_pg:id":1012379
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874215,
+    "wof:lastmodified":1566619701,
     "wof:name":"Lomas Del Pedregal",
     "wof:parent_id":101996395,
     "wof:placetype":"neighbourhood",

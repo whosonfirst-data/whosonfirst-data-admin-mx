@@ -10,8 +10,10 @@
     "geom:latitude":32.506564,
     "geom:longitude":-116.992437,
     "iso:country":"MX",
+    "lbl:bbox":"-116.997437,32.501564,-116.987437,32.511564",
     "lbl:latitude":32.506564,
     "lbl:longitude":-116.992437,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.504068,
     "mps:longitude":-116.991729,
     "mz:hierarchy_label":0,
@@ -34,7 +36,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -46,7 +48,9 @@
     "wof:concordances":{
         "gn:id":3817632,
         "gp:id":55898275,
-        "qs:id":224278,
+        "qs_pg:id":224278
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1013654
     },
     "wof:country":"MX",
@@ -65,7 +69,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619552,
     "wof:name":"El Paraiso",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

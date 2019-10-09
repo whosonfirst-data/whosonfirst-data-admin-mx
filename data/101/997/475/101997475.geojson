@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.020577,
     "lbl:longitude":-102.597012,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.020577,
     "mps:longitude":-102.597012,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villamar"
     ],
@@ -31,9 +34,6 @@
     ],
     "name:swe_x_preferred":[
         "Villamar"
-    ],
-    "name:unk_x_variant":[
-        "Guarachita"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
@@ -52,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -65,7 +65,6 @@
         "fct:id":"01b9a746-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980149,
         "gp:id":150924,
-        "qs:id":180499,
         "qs_pg:id":180499,
         "wd:id":"Q20292921"
     },
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397581,
+    "wof:lastmodified":1566632484,
     "wof:name":"Villamar",
     "wof:parent_id":102075079,
     "wof:placetype":"locality",

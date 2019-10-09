@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.297087,
     "lbl:longitude":-99.537321,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.297087,
     "mps:longitude":-99.537321,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Lerma"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "Lerma"
     ],
-    "name:unk_x_variant":[
-        "Zerma de Villada"
-    ],
     "name:vie_x_preferred":[
         "Lerma"
     ],
@@ -102,7 +102,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -115,7 +115,7 @@
         "fct:id":"01b899b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3524389,
         "gp:id":131083,
-        "qs:id":1045454,
+        "qs_pg:id":1045454,
         "wd:id":"Q1962179",
         "wk:page":"Lerma, State of Mexico"
     },
@@ -134,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398011,
+    "wof:lastmodified":1566632712,
     "wof:name":"Lerma de Villada",
     "wof:parent_id":102074119,
     "wof:placetype":"locality",

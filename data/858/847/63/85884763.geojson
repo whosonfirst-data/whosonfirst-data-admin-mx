@@ -11,8 +11,10 @@
     "geom:longitude":-100.219482,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.224482,19.172338,-100.214482,19.182338",
     "lbl:latitude":19.177338,
     "lbl:longitude":-100.219482,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.17916,
     "mps:longitude":-100.219835,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u043e\u043c\u0430 \u0411\u043e\u043d\u0438\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Loma Bonita"
-    ],
     "name:vie_x_preferred":[
         "Loma Bonita"
     ],
@@ -82,7 +81,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -94,7 +93,9 @@
     "wof:concordances":{
         "gn:id":3817657,
         "gp:id":55902738,
-        "qs:id":228736,
+        "qs_pg:id":228736
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1060137
     },
     "wof:country":"MX",
@@ -113,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147299,
+    "wof:lastmodified":1566619659,
     "wof:name":"Loma Bonita",
     "wof:parent_id":101991619,
     "wof:placetype":"neighbourhood",

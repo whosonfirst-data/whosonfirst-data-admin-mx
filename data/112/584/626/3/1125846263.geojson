@@ -9,14 +9,18 @@
     "geom:bbox":"-104.66122,23.96019,-104.66122,23.96019",
     "geom:latitude":23.96019,
     "geom:longitude":-104.66122,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-104.68122,23.94019,-104.64122,23.98019",
     "lbl:latitude":23.96019,
     "lbl:longitude":-104.66122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Cuatro de Octubre"
@@ -24,7 +28,7 @@
     "name:spa_x_variant":[
         "La Ferrer\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ferrer\u00eda"
     ],
     "qs_pg:aaroncc":"MX",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":123641,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Durango",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1125846263,
-    "wof:lastmodified":1509395658,
+    "wof:lastmodified":1566634320,
     "wof:name":"Ferrer\u00eda Cuatro Octubre",
     "wof:parent_id":102075159,
     "wof:placetype":"locality",

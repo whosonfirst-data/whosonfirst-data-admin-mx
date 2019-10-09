@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":26.4153,
     "lbl:longitude":-108.617052,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":26.4153,
     "mps:longitude":-108.617052,
     "mz:hierarchy_label":1,
@@ -154,9 +156,6 @@
     "name:tur_x_preferred":[
         "El Fuerte"
     ],
-    "name:unk_x_variant":[
-        "Fuerte"
-    ],
     "name:vie_x_preferred":[
         "El Fuerte"
     ],
@@ -275,7 +274,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":90.0,
     "wd:latitude":26.4,
@@ -292,7 +291,6 @@
         "fct:id":"01b83e60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4009788,
         "gp:id":120306,
-        "qs:id":454368,
         "qs_pg:id":454368,
         "wd:id":"Q1324181",
         "wk:page":"El Fuerte, Sinaloa"
@@ -312,7 +310,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398116,
+    "wof:lastmodified":1566632770,
     "wof:name":"El Fuerte",
     "wof:parent_id":102074323,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-103.325122,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.330122,20.711067,-103.320122,20.721067",
     "lbl:latitude":20.716067,
     "lbl:longitude":-103.325122,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.717882,
     "mps:longitude":-103.326657,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Lomas de Independencia"
-    ],
-    "name:unk_x_variant":[
         "Lomas de Independencia"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903845,
-        "qs:id":475514,
         "qs_pg:id":475514
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957719,
+    "wof:lastmodified":1566619586,
     "wof:name":"Lomas de Independencia",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

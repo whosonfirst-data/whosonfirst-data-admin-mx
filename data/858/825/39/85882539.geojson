@@ -11,8 +11,10 @@
     "geom:longitude":-115.448393,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-115.453393,32.653145,-115.443393,32.663145",
     "lbl:latitude":32.658145,
     "lbl:longitude":-115.448393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.662825,
     "mps:longitude":-115.453594,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Nueva"
     ],
     "name:spa_x_preferred":[
-        "Nueva"
-    ],
-    "name:unk_x_variant":[
         "Nueva"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -61,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":35,
     "wof:belongsto":[
         85686541,
@@ -73,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883121,
-        "qs:id":431024
+        "qs_pg:id":431024
     },
     "wof:country":"MX",
     "wof:geomhash":"c1583fef3006208dd2fb5c58bde0c855",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619669,
     "wof:name":"Nueva",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

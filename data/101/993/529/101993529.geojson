@@ -9,13 +9,14 @@
     "geom:bbox":"-114.869448996,30.9752313632,-114.805997586,31.0438459812",
     "geom:latitude":31.021849,
     "geom:longitude":-114.842316,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15386,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":15386,
     "iso:country":"MX",
     "lbl:latitude":31.028217,
     "lbl:longitude":-114.842779,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":31.028217,
     "mps:longitude":-114.842779,
     "mz:hierarchy_label":1,
@@ -277,7 +278,7 @@
     "qs_pg:woe_id":142354,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1287,
     "wof:belongsto":[
@@ -290,7 +291,6 @@
     "wof:concordances":{
         "gn:id":3987224,
         "gp:id":142354,
-        "qs:id":274573,
         "qs_pg:id":274573,
         "wd:id":"Q586007",
         "wk:page":"San Felipe, Baja California"
@@ -307,7 +307,7 @@
         }
     ],
     "wof:id":101993529,
-    "wof:lastmodified":1563398139,
+    "wof:lastmodified":1566632781,
     "wof:name":"San Felipe",
     "wof:parent_id":102074507,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":32.490614,
     "lbl:longitude":-116.576187,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.490614,
     "mps:longitude":-116.576187,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90275676
     },
     "wof:country":"MX",
-    "wof:geomhash":"a10ecbbdf776db5b00315124cc6faf24",
+    "wof:geomhash":"29e5b48e54c27054ae43852a93ab816f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993547,
-    "wof:lastmodified":1479930164,
+    "wof:lastmodified":1566632814,
     "wof:name":"Nueva Colonia Hind\u00fa",
     "wof:parent_id":102074503,
     "wof:placetype":"locality",

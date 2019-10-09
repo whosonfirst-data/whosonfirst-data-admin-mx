@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.828401,
     "lbl:longitude":-98.429122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.828401,
     "mps:longitude":-98.429122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Gonz\u00e1lez"
     ],
@@ -54,7 +57,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u043e\u043d\u0437\u0430\u043b\u0435\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gonz\u00e1les"
     ],
     "name:vec_x_preferred":[
@@ -81,7 +84,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102001009,
-    "wof:lastmodified":1563369810,
+    "wof:lastmodified":1566615737,
     "wof:name":"Gonz\u00e1lez",
     "wof:parent_id":102078879,
     "wof:placetype":"locality",

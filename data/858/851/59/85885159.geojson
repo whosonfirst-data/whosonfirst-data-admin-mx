@@ -11,8 +11,10 @@
     "geom:longitude":-96.129359,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.134359,15.738373,-96.124359,15.748373",
     "lbl:latitude":15.743373,
     "lbl:longitude":-96.129359,
+    "lbl:max_zoom":18.0,
     "mps:latitude":15.743708,
     "mps:longitude":-96.133995,
     "mz:hierarchy_label":0,
@@ -284,9 +286,6 @@
     "name:ukr_x_variant":[
         "\u0441\u0435\u043a\u0442\u0430\u043d\u0442\u0441\u0442\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Sect A"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0631\u0642\u06c1"
     ],
@@ -321,7 +320,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1777,
     "wof:belongsto":[
         85686623,
@@ -332,7 +331,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55917237,
-        "qs:id":475932,
         "qs_pg:id":475932,
         "wd:id":"Q19097"
     },
@@ -352,7 +350,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375426,
+    "wof:lastmodified":1566619608,
     "wof:name":"Sect A",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000184,
-    "geom:area_square_m":1913179.596457,
+    "geom:area_square_m":1913179.596456,
     "geom:bbox":"-114.943469844,32.5977071469,-114.917592386,32.6121408455",
     "geom:latitude":32.603965,
     "geom:longitude":-114.928676,
     "iso:country":"MX",
     "lbl:latitude":32.605097,
     "lbl:longitude":-114.928479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.605097,
     "mps:longitude":-114.928479,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":136060
     },
     "wof:country":"MX",
-    "wof:geomhash":"e3c6c70ed05a36402f978871bb4fec77",
+    "wof:geomhash":"b927ba9b1c2f6b36dba3a89d7d96b352",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993537,
-    "wof:lastmodified":1479931099,
+    "wof:lastmodified":1566632784,
     "wof:name":"Poblado Paredones",
     "wof:parent_id":102074507,
     "wof:placetype":"locality",

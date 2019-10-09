@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":136300.858767,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.393789,20.592641,-100.393789,20.592641",
     "geom:latitude":20.592641,
     "geom:longitude":-100.393789,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.398789,20.587641,-100.388789,20.597641",
     "lbl:latitude":20.592641,
     "lbl:longitude":-100.393789,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.592724,
     "mps:longitude":-100.394462,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Conjunto Hab Vicente Guerrero"
-    ],
-    "name:unk_x_variant":[
         "Conjunto Hab Vicente Guerrero"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893298,
-        "qs:id":1155300,
         "qs_pg:id":1155300
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874291,
+    "wof:lastmodified":1566619619,
     "wof:name":"Conjunto Hab Vicente Guerrero",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

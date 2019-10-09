@@ -9,14 +9,17 @@
     "geom:bbox":"-96.7187525039,16.9983022556,-96.7009421489,17.0180373289",
     "geom:latitude":17.007923,
     "geom:longitude":-96.71073,
-    "geonames:id":"3520000,3762771",
+    "gn:id":"3520000,3762771",
     "iso:country":"MX",
     "lbl:latitude":17.008558,
     "lbl:longitude":-96.710906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.008558,
     "mps:longitude":-96.710906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u0986\u0997\u09c1\u09b8\u09cd\u09a4\u09bf\u09a8 \u09a6\u09c7 \u09b2\u09be\u09b8 \u09b9\u09c1\u09a8\u09cd\u09a4\u09be\u09b8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -68,7 +71,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101995181,
-    "wof:lastmodified":1563397839,
+    "wof:lastmodified":1566632627,
     "wof:name":"San Agust\u00edn de las Juntas",
     "wof:parent_id":102075937,
     "wof:placetype":"locality",

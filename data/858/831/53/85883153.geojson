@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4882899.257126,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.319885,19.541672,-99.319885,19.541672",
     "geom:latitude":19.541672,
     "geom:longitude":-99.319885,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.324885,19.536672,-99.314885,19.546672",
     "lbl:latitude":19.541672,
     "lbl:longitude":-99.319885,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.541673,
     "mps:longitude":-99.329544,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Club de Golf Chiluca"
-    ],
-    "name:unk_x_variant":[
         "Club de Golf Chiluca"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102074201,
-        85686527
+        102074201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891162,
-        "qs:id":996303
+        "qs_pg:id":996303
     },
     "wof:country":"MX",
     "wof:geomhash":"d7403ff0a3e86fc2ef74bc2be3f3fcc3",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874241,
+    "wof:lastmodified":1566619682,
     "wof:name":"Club de Golf Chiluca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

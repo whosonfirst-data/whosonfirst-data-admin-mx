@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":924279.296735,
+    "geom:area_square_m":924279.296736,
     "geom:bbox":"-91.7860950954,17.8514203237,-91.7757250776,17.866919075",
     "geom:latitude":17.858752,
     "geom:longitude":-91.780701,
     "iso:country":"MX",
     "lbl:latitude":17.857956,
     "lbl:longitude":-91.781644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.857956,
     "mps:longitude":-91.781644,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chabl\u00e9"
     ],
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":3531290,
         "gp:id":115466,
-        "qs:id":148841,
         "qs_pg:id":148841
     },
     "wof:country":"MX",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101994945,
-    "wof:lastmodified":1497291355,
+    "wof:lastmodified":1566632900,
     "wof:name":"Chabl\u00e9",
     "wof:parent_id":102075771,
     "wof:placetype":"locality",

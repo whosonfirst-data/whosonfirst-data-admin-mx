@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.332033,
     "lbl:longitude":-96.986327,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.332033,
     "mps:longitude":-96.986327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Cosautl\u00e1n de Carvajal"
     ],
@@ -52,9 +55,6 @@
     "name:swe_x_preferred":[
         "Cosautl\u00e1n de Carvajal"
     ],
-    "name:unk_x_variant":[
-        "Cosautl\u00e1n"
-    ],
     "name:vie_x_preferred":[
         "Cosautl\u00e1n de Carvajal"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -88,7 +88,6 @@
         "fct:id":"01b827c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530176,
         "gp:id":117486,
-        "qs:id":1045475,
         "qs_pg:id":1045475,
         "wd:id":"Q3847170"
     },
@@ -107,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397101,
+    "wof:lastmodified":1566632238,
     "wof:name":"Cosautl\u00e1n de Carvajal",
     "wof:parent_id":102077483,
     "wof:placetype":"locality",

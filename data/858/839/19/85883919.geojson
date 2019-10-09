@@ -12,6 +12,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.422351,
     "lbl:longitude":-99.074776,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.421434,
     "mps:longitude":-99.065651,
     "mz:hierarchy_label":1,
@@ -123,9 +124,6 @@
     "name:tgl_x_preferred":[
         "Adolfo L\u00f3pez Mateos"
     ],
-    "name:unk_x_variant":[
-        "Adolfo Lopez Mateos"
-    ],
     "name:vie_x_preferred":[
         "Adolfo L\u00f3pez Mateos"
     ],
@@ -166,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1861,
     "wof:belongsto":[
         102191575,
@@ -182,9 +180,11 @@
     "wof:concordances":{
         "gn:id":3815029,
         "gp:id":55903545,
-        "qs:id":213689,
-        "qs_pg:id":493775,
+        "qs_pg:id":213689,
         "wd:id":"Q335533"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":493775
     },
     "wof:country":"MX",
     "wof:geomhash":"f27171dc03b7e230b414aaf48ea34b79",
@@ -212,7 +212,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375572,
+    "wof:lastmodified":1566619707,
     "wof:name":"Adolfo Lopez Mateos",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",

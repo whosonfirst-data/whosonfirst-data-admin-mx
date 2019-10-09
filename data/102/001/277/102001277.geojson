@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.013258,
     "lbl:longitude":-88.306901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":21.013258,
     "mps:longitude":-88.306901,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Espita"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -79,7 +82,6 @@
         "fct:id":"01b84c70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3527720,
         "gp:id":123411,
-        "qs:id":984568,
         "qs_pg:id":984568,
         "wd:id":"Q2448265",
         "wk:page":"Espita, Yucat\u00e1n"
@@ -99,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369836,
+    "wof:lastmodified":1566615749,
     "wof:name":"Espita",
     "wof:parent_id":102079055,
     "wof:placetype":"locality",

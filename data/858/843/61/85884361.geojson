@@ -11,8 +11,10 @@
     "geom:longitude":-99.194399,
     "gn:population":715767,
     "iso:country":"MX",
+    "lbl:bbox":"-99.199399,19.534893,-99.189399,19.544893",
     "lbl:latitude":19.539893,
     "lbl:longitude":-99.194399,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.536606,
     "mps:longitude":-99.195348,
     "mz:hierarchy_label":0,
@@ -43,9 +45,8 @@
     "name:swe_x_variant":[
         "Tlalnepantla"
     ],
-    "name:unk_x_variant":[
-        "Tlalnepantla de Galeana",
-        "Tlalnepantla de Baz"
+    "name:und_x_variant":[
+        "Tlalnepantla de Galeana"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -76,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686527,
@@ -107,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375383,
+    "wof:lastmodified":1566619579,
     "wof:name":"Tlalnepantla de Baz",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",

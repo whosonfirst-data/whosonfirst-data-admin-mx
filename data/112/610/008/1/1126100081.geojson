@@ -9,15 +9,17 @@
     "geom:bbox":"-102.84571,19.05878,-102.84571,19.05878",
     "geom:latitude":19.05878,
     "geom:longitude":-102.84571,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":48,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-102.85071,19.05378,-102.84071,19.06378",
     "lbl:latitude":19.05878,
     "lbl:longitude":-102.84571,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Las Primaveras"
@@ -43,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55891461,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Colima",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
-        102074915,
-        85686595
+        102074915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126100081,
-    "wof:lastmodified":1509412074,
+    "wof:lastmodified":1566633915,
     "wof:name":"Villas Primavera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

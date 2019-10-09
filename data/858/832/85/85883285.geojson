@@ -10,8 +10,10 @@
     "geom:latitude":32.651248,
     "geom:longitude":-115.40094,
     "iso:country":"MX",
+    "lbl:bbox":"-115.40594,32.646248,-115.39594,32.656248",
     "lbl:latitude":32.651248,
     "lbl:longitude":-115.40094,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.652856,
     "mps:longitude":-115.397505,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:spa_x_preferred":[
         "Res San Pedro"
     ],
-    "name:unk_x_variant":[
-        "Rancho San Pedro",
-        "Res San Pedro"
+    "name:und_x_variant":[
+        "Rancho San Pedro"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -58,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -70,8 +71,10 @@
     "wof:concordances":{
         "gn:id":3985100,
         "gp:id":55903379,
-        "qs:id":1293186,
         "qs_pg:id":1113057
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1293186
     },
     "wof:country":"MX",
     "wof:geomhash":"f5be1ceec5dcf8b932e2dce30413bde5",
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619608,
     "wof:name":"Res San Pedro",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

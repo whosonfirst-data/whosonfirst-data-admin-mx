@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.287501,
     "lbl:longitude":-98.941165,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.287501,
     "mps:longitude":-98.941165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0425\u0438\u043a\u043e"
     ],
@@ -44,7 +47,7 @@
     "name:tgl_x_preferred":[
         "Xico"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Miguel Xico"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -82,10 +85,12 @@
     "wof:concordances":{
         "gn:id":3514519,
         "gp:id":151113,
-        "qs:id":1062038,
-        "qs_pg:id":1074542,
+        "qs_pg:id":1062038,
         "wd:id":"Q1932224",
         "wk:page":"Xico, State of Mexico"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074542
     },
     "wof:country":"MX",
     "wof:geomhash":"e28b404c24f0a89c7e1493abfd669201",
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101991529,
-    "wof:lastmodified":1563397257,
+    "wof:lastmodified":1566632321,
     "wof:name":"Xico",
     "wof:parent_id":102073973,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.506525,
     "lbl:longitude":-98.876681,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":19.506525,
     "mps:longitude":-98.876681,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:cat_x_preferred":[
         "Texcoco"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043a\u0441\u043a\u043e\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tezcoco"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -143,7 +146,6 @@
         "fct:id":"01af1970-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515715,
         "gp:id":149202,
-        "qs:id":235256,
         "qs_pg:id":235256,
         "wd:id":"Q1141799",
         "wk:page":"Texcoco, State of Mexico"
@@ -163,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397274,
+    "wof:lastmodified":1566632331,
     "wof:name":"Texcoco de Mora",
     "wof:parent_id":102074023,
     "wof:placetype":"locality",

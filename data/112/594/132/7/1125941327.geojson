@@ -9,15 +9,18 @@
     "geom:bbox":"-99.33541,18.30668,-99.33541,18.30668",
     "geom:latitude":18.30668,
     "geom:longitude":-99.33541,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16238,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":16238,
     "iso:country":"MX",
+    "lbl:bbox":"-99.35541,18.28668,-99.31541,18.32668",
     "lbl:latitude":18.30668,
     "lbl:longitude":-99.33541,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Ciudad de Huitzuco"
@@ -28,7 +31,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0423\u0438\u0437\u0443\u043a\u043e \u0434\u0435 \u043b\u043e\u0441 \u0424\u0438\u0433\u0435\u0440\u043e\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huizuco"
     ],
     "qs_pg:aaroncc":"MX",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":125283,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125941327,
-    "wof:lastmodified":1564173180,
+    "wof:lastmodified":1566633868,
     "wof:name":"Huitzuco de los Figueroa",
     "wof:parent_id":102073781,
     "wof:placetype":"locality",

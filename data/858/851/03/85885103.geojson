@@ -11,8 +11,10 @@
     "geom:longitude":-96.181641,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.186641,17.176905,-96.176641,17.186905",
     "lbl:latitude":17.181905,
     "lbl:longitude":-96.181641,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.183507,
     "mps:longitude":-96.180782,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Villa Hidalgo"
-    ],
-    "name:unk_x_variant":[
         "Fracc Villa Hidalgo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686623,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55915561,
-        "qs:id":226476,
         "qs_pg:id":226476
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619609,
     "wof:name":"Fracc Villa Hidalgo",
     "wof:parent_id":101995071,
     "wof:placetype":"neighbourhood",

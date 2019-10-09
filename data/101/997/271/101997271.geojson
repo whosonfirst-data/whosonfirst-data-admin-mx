@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000284,
-    "geom:area_square_m":3302531.845357,
+    "geom:area_square_m":3302531.845361,
     "geom:bbox":"-101.167710271,19.6395095114,-101.147219147,19.6665608269",
     "geom:latitude":19.653185,
     "geom:longitude":-101.156657,
     "iso:country":"MX",
     "lbl:latitude":19.653151,
     "lbl:longitude":-101.156654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.653151,
     "mps:longitude":-101.156654,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55884983
     },
     "wof:country":"MX",
-    "wof:geomhash":"7dc7bc77d56079c285cac15f081543f2",
+    "wof:geomhash":"2ad4ebaed012783ec3491306c9eeeee1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997271,
-    "wof:lastmodified":1479904076,
+    "wof:lastmodified":1566632487,
     "wof:name":"Jes\u00fas del Monte (La Capilla)",
     "wof:parent_id":102075017,
     "wof:placetype":"locality",

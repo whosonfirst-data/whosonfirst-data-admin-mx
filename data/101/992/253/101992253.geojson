@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.859979,
     "lbl:longitude":-102.619723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":22.859979,
     "mps:longitude":-102.619723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Morelos"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -77,7 +80,6 @@
         "fct:id":"01af505c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3995398,
         "gp:id":134094,
-        "qs:id":442361,
         "qs_pg:id":442361,
         "wd:id":"Q4302633"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750595,
+    "wof:lastmodified":1566632729,
     "wof:name":"Morelos",
     "wof:parent_id":102075401,
     "wof:placetype":"locality",

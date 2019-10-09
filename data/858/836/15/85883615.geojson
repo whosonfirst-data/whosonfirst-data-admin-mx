@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1348446.820559,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.726421,17.059562,-96.726421,17.059562",
     "geom:latitude":17.059562,
     "geom:longitude":-96.726421,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.731421,17.054562,-96.721421,17.064562",
     "lbl:latitude":17.059562,
     "lbl:longitude":-96.726421,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.058665,
     "mps:longitude":-96.728261,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Compuerta"
-    ],
-    "name:unk_x_variant":[
         "Compuerta"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101995147,
-        102075881,
-        85686623
+        102075881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897193,
-        "qs:id":1155318,
         "qs_pg:id":1155318
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874388,
+    "wof:lastmodified":1566619690,
     "wof:name":"Compuerta",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

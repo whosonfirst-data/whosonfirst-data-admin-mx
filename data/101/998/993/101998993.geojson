@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.426325,
     "lbl:longitude":-98.217569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.426325,
     "mps:longitude":-98.217569,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Xaltocan"
     ],
@@ -54,7 +57,7 @@
         "S. Mart\u00edn Xaltocan",
         "San Martin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Mart\u00edn"
     ],
     "name:vec_x_preferred":[
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":520,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
         "fct:id":"01aeec8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518403,
         "gp:id":144397,
-        "qs:id":352768,
         "qs_pg:id":352768,
         "wd:id":"Q8042860",
         "wk:page":"Xaltocan, Tlaxcala"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397145,
+    "wof:lastmodified":1566632258,
     "wof:name":"Xaltocan",
     "wof:parent_id":102077893,
     "wof:placetype":"locality",

@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.705538,
     "lbl:longitude":-108.342784,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.705538,
     "mps:longitude":-108.342784,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Bamoa"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101993671,
-    "wof:lastmodified":1501269603,
+    "wof:lastmodified":1566632797,
     "wof:name":"Bamoa",
     "wof:parent_id":102074321,
     "wof:placetype":"locality",

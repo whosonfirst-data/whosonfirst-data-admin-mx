@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1248902.798983,
+    "geom:area_square_m":1248902.798986,
     "geom:bbox":"-101.641228982,19.6608659432,-101.626298498,19.6777719013",
     "geom:latitude":19.669121,
     "geom:longitude":-101.632767,
     "iso:country":"MX",
     "lbl:latitude":19.6691,
     "lbl:longitude":-101.632256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.6691,
     "mps:longitude":-101.632256,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55920741
     },
     "wof:country":"MX",
-    "wof:geomhash":"83c1a9c67dc5a9a197cbee4a7907cdf8",
+    "wof:geomhash":"7da0140db7c6064170d77a4a84702cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997285,
-    "wof:lastmodified":1479930661,
+    "wof:lastmodified":1566632487,
     "wof:name":"San Andr\u00e9s Zir\u00f3ndaro",
     "wof:parent_id":102074997,
     "wof:placetype":"locality",

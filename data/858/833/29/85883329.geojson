@@ -11,8 +11,10 @@
     "geom:longitude":-115.479431,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-115.484431,32.618527,-115.474431,32.628527",
     "lbl:latitude":32.623527,
     "lbl:longitude":-115.479431,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.621539,
     "mps:longitude":-115.475106,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Las Flores"
-    ],
-    "name:unk_x_variant":[
         "Fracc Las Flores"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893451,
-        "qs:id":226466
+        "qs_pg:id":226466
     },
     "wof:country":"MX",
     "wof:geomhash":"df9a2c16026e0a55da530f014ebc0c83",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619616,
     "wof:name":"Fracc Las Flores",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

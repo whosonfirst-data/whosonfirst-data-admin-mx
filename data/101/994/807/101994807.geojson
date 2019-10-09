@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":3243145.828145,
+    "geom:area_square_m":3243145.82815,
     "geom:bbox":"-92.5416586803,17.8218533112,-92.5196265102,17.8460503379",
     "geom:latitude":17.833172,
     "geom:longitude":-92.530965,
     "iso:country":"MX",
     "lbl:latitude":17.834158,
     "lbl:longitude":-92.530799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.834158,
     "mps:longitude":-92.530799,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55920156
     },
     "wof:country":"MX",
-    "wof:geomhash":"c2b916379c4f05f33a6102c48509f796",
+    "wof:geomhash":"6c63346bd95dc15684ce2003e737486e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994807,
-    "wof:lastmodified":1479904371,
+    "wof:lastmodified":1566632887,
     "wof:name":"Benito Ju\u00e1rez (San Carlos)",
     "wof:parent_id":102075801,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.276173,
     "lbl:longitude":-98.375196,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":21.276173,
     "mps:longitude":-98.375196,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Plat\u00f3n S\u00e1nchez"
     ],
@@ -45,9 +48,6 @@
     "name:srp_x_preferred":[
         "\u041f\u043b\u0430\u0442\u043e\u043d \u0421\u0430\u043d\u0447\u0435\u0437"
     ],
-    "name:unk_x_variant":[
-        "Plat\u00f3n S\u00e1nches"
-    ],
     "name:vie_x_preferred":[
         "Plat\u00f3n S\u00e1nchez"
     ],
@@ -68,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -81,7 +81,6 @@
         "fct:id":"01b8d9e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521344,
         "gp:id":136962,
-        "qs:id":444263,
         "qs_pg:id":444263,
         "wd:id":"Q20895287",
         "wk:page":"Plat\u00f3n S\u00e1nchez"
@@ -101,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397183,
+    "wof:lastmodified":1566632277,
     "wof:name":"Plat\u00f3n S\u00e1nchez",
     "wof:parent_id":102077663,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
-    "geom:area_square_m":3327289.272854,
+    "geom:area_square_m":3327289.272861,
     "geom:bbox":"-98.4916799748,19.2973523094,-98.4652655855,19.314684157",
     "geom:latitude":19.306639,
     "geom:longitude":-98.477964,
     "iso:country":"MX",
     "lbl:latitude":19.306891,
     "lbl:longitude":-98.477712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.306891,
     "mps:longitude":-98.477712,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55907144
     },
     "wof:country":"MX",
-    "wof:geomhash":"58e85fab1595a784cb95c3e1e2b19d76",
+    "wof:geomhash":"0409e6f6bb642b4a9db8284e55d8e8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999789,
-    "wof:lastmodified":1479908234,
+    "wof:lastmodified":1566632587,
     "wof:name":"San Lucas el Grande",
     "wof:parent_id":102078301,
     "wof:placetype":"locality",

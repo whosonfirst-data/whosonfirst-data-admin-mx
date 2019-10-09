@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7781948.357293,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.735621,19.588627,-101.735621,19.588627",
     "geom:latitude":19.588627,
     "geom:longitude":-101.735621,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.740621,19.583627,-101.730621,19.593627",
     "lbl:latitude":19.588627,
     "lbl:longitude":-101.735621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.587558,
     "mps:longitude":-101.741235,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Alfonso Urueta"
-    ],
-    "name:unk_x_variant":[
         "Alfonso Urueta"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
-        102074991,
-        85686595
+        102074991
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55920861,
-        "qs:id":476048,
         "qs_pg:id":476048
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874765,
+    "wof:lastmodified":1566619714,
     "wof:name":"Alfonso Urueta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"-102.23975,21.52727,-102.23975,21.52727",
     "geom:latitude":21.52727,
     "geom:longitude":-102.23975,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":21861,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":21861,
     "iso:country":"MX",
+    "lbl:bbox":"-102.24475,21.52227,-102.23475,21.53227",
     "lbl:latitude":21.52727,
     "lbl:longitude":-102.23975,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "M\u00e8ksiko"
@@ -691,7 +693,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Encarnacion"
     ],
     "name:urd_x_preferred":[
@@ -772,7 +774,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55908963,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -805,7 +807,7 @@
         }
     ],
     "wof:id":1126065763,
-    "wof:lastmodified":1564173819,
+    "wof:lastmodified":1566634181,
     "wof:name":"Mexico",
     "wof:parent_id":101998023,
     "wof:placetype":"neighbourhood",

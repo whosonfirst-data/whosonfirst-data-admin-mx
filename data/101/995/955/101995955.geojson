@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.648563,
     "lbl:longitude":-97.136144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.648563,
     "mps:longitude":-97.136144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santiago Apoala"
     ],
@@ -54,9 +57,6 @@
     "name:swe_x_preferred":[
         "Santiago Apoala"
     ],
-    "name:unk_x_variant":[
-        "Apoaja"
-    ],
     "name:vie_x_preferred":[
         "Santiago Apoala"
     ],
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +89,6 @@
         "fct:id":"01af062e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516970,
         "gp:id":147048,
-        "qs:id":1313129,
         "qs_pg:id":1313129,
         "wd:id":"Q3889599",
         "wk:page":"Santiago Apoala"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397785,
+    "wof:lastmodified":1566632600,
     "wof:name":"Santiago Apoala",
     "wof:parent_id":102076747,
     "wof:placetype":"locality",

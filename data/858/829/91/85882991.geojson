@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5212029.010601,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.142572,16.755197,-93.142572,16.755197",
     "geom:latitude":16.755197,
     "geom:longitude":-93.142572,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-93.147572,16.750197,-93.137572,16.760197",
     "lbl:latitude":16.755197,
     "lbl:longitude":-93.142572,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.757208,
     "mps:longitude":-93.144358,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Conjunto Hab Magdalena"
-    ],
-    "name:unk_x_variant":[
         "Conjunto Hab Magdalena"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686611,
         102191575,
         85633293,
         101994357,
-        102075513,
-        85686611
+        102075513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888957,
-        "qs:id":137736,
         "qs_pg:id":137736
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874189,
+    "wof:lastmodified":1566619552,
     "wof:name":"Conjunto Hab Magdalena",
     "wof:parent_id":101994357,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.437118,
     "lbl:longitude":-95.027836,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.437118,
     "mps:longitude":-95.027836,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jes\u00fas Carranza"
     ],
@@ -40,9 +43,6 @@
     "name:swe_x_preferred":[
         "Jes\u00fas Carranza"
     ],
-    "name:unk_x_variant":[
-        "Santa Lucrecia"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +73,6 @@
         "fct:id":"01b873d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526538,
         "gp:id":125828,
-        "qs:id":148767,
         "qs_pg:id":148767,
         "wd:id":"Q20225433"
     },
@@ -92,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397111,
+    "wof:lastmodified":1566632242,
     "wof:name":"Jes\u00fas Carranza",
     "wof:parent_id":102077581,
     "wof:placetype":"locality",

@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":1584615.547667,
+    "geom:area_square_m":1584615.54766,
     "geom:bbox":"-101.290032962,20.9242704652,-101.275345297,20.9443686864",
     "geom:latitude":20.935833,
     "geom:longitude":-101.281751,
     "iso:country":"MX",
     "lbl:latitude":20.937313,
     "lbl:longitude":-101.282253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.937313,
     "mps:longitude":-101.282253,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puentecillas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puentecillos"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101996603,
-    "wof:lastmodified":1501269611,
+    "wof:lastmodified":1566632377,
     "wof:name":"Puentecillas",
     "wof:parent_id":102077347,
     "wof:placetype":"locality",

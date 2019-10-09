@@ -10,8 +10,10 @@
     "geom:latitude":20.622931,
     "geom:longitude":-105.230302,
     "iso:country":"MX",
+    "lbl:bbox":"-105.235302,20.617931,-105.225302,20.627931",
     "lbl:latitude":20.622931,
     "lbl:longitude":-105.230302,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.624016,
     "mps:longitude":-105.220651,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "name:spa_x_variant":[
         "L\u00e1zaro C\u00e1rdenas",
         "La Nancy"
-    ],
-    "name:unk_x_variant":[
-        "Lazaro Cardenas"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -74,7 +73,6 @@
     "wof:concordances":{
         "gn:id":3998702,
         "gp:id":55905522,
-        "qs:id":1115484,
         "qs_pg:id":1115484
     },
     "wof:country":"MX",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957722,
+    "wof:lastmodified":1566619636,
     "wof:name":"Lazaro Cardenas",
     "wof:parent_id":101997965,
     "wof:placetype":"neighbourhood",

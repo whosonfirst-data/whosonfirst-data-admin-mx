@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.55602,
     "lbl:longitude":-99.837166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.55602,
     "mps:longitude":-99.837166,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u0425\u0443\u0430\u043d \u0434\u0435 \u043b\u0430\u0441 \u041c\u0430\u043d\u0437\u0430\u043d\u0430\u0441"
     ],
@@ -35,7 +38,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101992629,
-    "wof:lastmodified":1563397968,
+    "wof:lastmodified":1566632687,
     "wof:name":"San Juan de las Manzanas",
     "wof:parent_id":102074135,
     "wof:placetype":"locality",

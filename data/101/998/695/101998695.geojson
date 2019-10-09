@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.231651,
     "lbl:longitude":-94.872965,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.231651,
     "mps:longitude":-94.872965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Soteapan"
     ],
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Soteapan"
     ],
-    "name:unk_x_variant":[
-        "Soleapan"
-    ],
     "name:vie_x_preferred":[
         "Soteapan"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +86,6 @@
         "fct:id":"01b95d86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516526,
         "gp:id":147802,
-        "qs:id":974379,
         "qs_pg:id":974379,
         "wd:id":"Q3845653"
     },
@@ -105,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397117,
+    "wof:lastmodified":1566632245,
     "wof:name":"Soteapan",
     "wof:parent_id":102077709,
     "wof:placetype":"locality",

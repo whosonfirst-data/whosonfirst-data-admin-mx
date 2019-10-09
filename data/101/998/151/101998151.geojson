@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.846333,
     "lbl:longitude":-96.915492,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.846333,
     "mps:longitude":-96.915492,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_colloquial":[
         "Amatlan",
         "Amatlan de Los Reyes"
@@ -29,9 +32,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u043c\u0430\u0442\u043b\u0430\u043d \u0434\u0435 \u043b\u043e\u0441 \u0420\u0435\u0458\u0435\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Amatl\u00e1n"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +63,6 @@
         "fct:id":"01b7d9e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532909,
         "gp:id":112060,
-        "qs:id":148885,
         "qs_pg:id":148885,
         "wd:id":"Q20135549"
     },
@@ -82,7 +81,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397076,
+    "wof:lastmodified":1566632229,
     "wof:name":"Amatl\u00e1n de los Reyes",
     "wof:parent_id":102077413,
     "wof:placetype":"locality",

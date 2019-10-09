@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.149596,
     "lbl:longitude":-98.101993,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.149596,
     "mps:longitude":-98.101993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "San Miguel Canoa"
     ],
@@ -40,9 +43,6 @@
     "name:swe_x_preferred":[
         "San Miguel Canoa"
     ],
-    "name:unk_x_variant":[
-        "Canoa"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +73,6 @@
         "fct:id":"01b91fd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518281,
         "gp:id":144613,
-        "qs:id":148688,
         "qs_pg:id":148688,
         "wd:id":"Q20231794"
     },
@@ -92,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397720,
+    "wof:lastmodified":1566632562,
     "wof:name":"San Miguel Canoa",
     "wof:parent_id":102078237,
     "wof:placetype":"locality",

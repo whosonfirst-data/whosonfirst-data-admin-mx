@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9248166.371926,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.022997,20.338418,-102.022997,20.338418",
     "geom:latitude":20.338418,
     "geom:longitude":-102.022997,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.027997,20.333418,-102.017997,20.343418",
     "lbl:latitude":20.338418,
     "lbl:longitude":-102.022997,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.339613,
     "mps:longitude":-102.021271,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "La Piedad de Cabadas Centro"
-    ],
-    "name:unk_x_variant":[
         "La Piedad de Cabadas Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997555,
-        102075127,
-        85686595
+        102075127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888637,
-        "qs:id":474608,
         "qs_pg:id":474608
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874179,
+    "wof:lastmodified":1566619549,
     "wof:name":"La Piedad de Cabadas Centro",
     "wof:parent_id":101997555,
     "wof:placetype":"neighbourhood",

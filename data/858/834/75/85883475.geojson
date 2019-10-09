@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6002935.91965,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.172037,19.552025,-99.172037,19.552025",
     "geom:latitude":19.552025,
     "geom:longitude":-99.172037,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.177037,19.547025,-99.167037,19.557025",
     "lbl:latitude":19.552025,
     "lbl:longitude":-99.172037,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.552026,
     "mps:longitude":-99.171054,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Hugo Cervantes Del Rio"
-    ],
-    "name:unk_x_variant":[
         "Hugo Cervantes Del Rio"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991513,
-        102073949,
-        85686527
+        102073949
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895409,
-        "qs:id":991430
+        "qs_pg:id":991430
     },
     "wof:country":"MX",
     "wof:geomhash":"5a865ce270a68ad605408e323fa2b957",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874343,
+    "wof:lastmodified":1566619623,
     "wof:name":"Hugo Cervantes Del Rio",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",

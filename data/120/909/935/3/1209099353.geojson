@@ -24,8 +24,12 @@
     "gn:population":117,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-91.6825,16.46417,-91.6425,16.50417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8878807
     },
     "wof:country":"MX",
-    "wof:geomhash":"8efd667c01c1024fd4b9703c3870eba8",
+    "wof:geomhash":"f1b029bdda9ba1fd7740a0c2550bf596",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209099353,
-    "wof:lastmodified":1536297784,
+    "wof:lastmodified":1566625113,
     "wof:name":"San Vicente el Encanto",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -91.6625,
-    16.484170000000002,
+    16.48417,
     -91.6625,
-    16.484170000000002
+    16.48417
 ],
   "geometry": {"coordinates":[-91.66249999999999,16.48417],"type":"Point"}
 }

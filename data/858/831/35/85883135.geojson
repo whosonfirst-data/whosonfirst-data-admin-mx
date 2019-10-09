@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8597019.111091,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.970634,27.495691,-109.970634,27.495691",
     "geom:latitude":27.495691,
     "geom:longitude":-109.970634,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.975634,27.490691,-109.965634,27.500691",
     "lbl:latitude":27.495691,
     "lbl:longitude":-109.970634,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.495471,
     "mps:longitude":-109.971823,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Villa Nainari"
-    ],
-    "name:unk_x_variant":[
         "Fracc Villa Nainari"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686549,
         102191575,
         85633293,
         101993827,
-        102074417,
-        85686549
+        102074417
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890941,
-        "qs:id":269994,
         "qs_pg:id":269994
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874235,
+    "wof:lastmodified":1566619679,
     "wof:name":"Fracc Villa Nainari",
     "wof:parent_id":101993827,
     "wof:placetype":"neighbourhood",

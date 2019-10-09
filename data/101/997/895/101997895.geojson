@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.345033,
     "lbl:longitude":-102.767008,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":20.345033,
     "mps:longitude":-102.767008,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Ocotl\u00e1n"
     ],
@@ -253,7 +256,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":573,
     "wof:belongsto":[
@@ -267,7 +270,6 @@
         "fct:id":"01b8c54c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3994489,
         "gp:id":134972,
-        "qs:id":664721,
         "qs_pg:id":664721,
         "wd:id":"Q629805",
         "wk:page":"Ocotl\u00e1n, Jalisco"
@@ -287,7 +289,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397515,
+    "wof:lastmodified":1566632452,
     "wof:name":"Ocotl\u00e1n",
     "wof:parent_id":102074831,
     "wof:placetype":"locality",

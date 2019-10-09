@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
-    "geom:area_square_m":817170.710864,
+    "geom:area_square_m":817170.71087,
     "geom:bbox":"-105.207557629,21.7939378766,-105.190183056,21.8029833663",
     "geom:latitude":21.799119,
     "geom:longitude":-105.200243,
     "iso:country":"MX",
     "lbl:latitude":21.799473,
     "lbl:longitude":-105.200242,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.799473,
     "mps:longitude":-105.200242,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Presa"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101997001,
-    "wof:lastmodified":1507750814,
+    "wof:lastmodified":1566632458,
     "wof:name":"La Presa",
     "wof:parent_id":102074587,
     "wof:placetype":"locality",

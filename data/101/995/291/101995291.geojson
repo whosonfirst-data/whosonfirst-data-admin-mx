@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":2003795.866049,
+    "geom:area_square_m":2003795.866038,
     "geom:bbox":"-96.3128767432,16.7856742504,-96.2951248102,16.8048878988",
     "geom:latitude":16.796634,
     "geom:longitude":-96.304286,
     "iso:country":"MX",
     "lbl:latitude":16.797833,
     "lbl:longitude":-96.303689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.797833,
     "mps:longitude":-96.303689,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Guelavia"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101995291,
-    "wof:lastmodified":1501267422,
+    "wof:lastmodified":1566632653,
     "wof:name":"San Baltazar Guelavila",
     "wof:parent_id":102076375,
     "wof:placetype":"locality",

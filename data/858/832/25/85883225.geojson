@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7573162.296184,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.307998,19.08548,-104.307998,19.08548",
     "geom:latitude":19.08548,
     "geom:longitude":-104.307998,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.312998,19.08048,-104.302998,19.09048",
     "lbl:latitude":19.08548,
     "lbl:longitude":-104.307998,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.086795,
     "mps:longitude":-104.304192,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "name:spa_x_preferred":[
         "Del Pacifico",
         "Universidad del Pac\u00edfico"
-    ],
-    "name:unk_x_variant":[
-        "Del Pacifico"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -59,19 +58,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686587,
         102191575,
         85633293,
         101996931,
-        102074529,
-        85686587
+        102074529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20219913,
-        "qs:id":1341136,
         "qs_pg:id":501052
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1341136
     },
     "wof:country":"MX",
     "wof:geomhash":"78e1ff8aa6d57baf3643291ccbe2c33d",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874263,
+    "wof:lastmodified":1566619608,
     "wof:name":"Del Pacifico",
     "wof:parent_id":101996931,
     "wof:placetype":"neighbourhood",

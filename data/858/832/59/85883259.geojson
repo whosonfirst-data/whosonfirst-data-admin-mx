@@ -10,8 +10,10 @@
     "geom:latitude":19.537845,
     "geom:longitude":-99.076263,
     "iso:country":"MX",
+    "lbl:bbox":"-99.081263,19.532845,-99.071263,19.542845",
     "lbl:latitude":19.537845,
     "lbl:longitude":-99.076263,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.545814,
     "mps:longitude":-99.072365,
     "mz:hierarchy_label":0,
@@ -71,9 +73,6 @@
     "name:swe_x_preferred":[
         "San Ignacio"
     ],
-    "name:unk_x_variant":[
-        "San Ignacio"
-    ],
     "name:war_x_preferred":[
         "San Ignacio"
     ],
@@ -106,7 +105,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -118,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3814359,
         "gp:id":55892675,
-        "qs:id":1293173,
         "qs_pg:id":1293173
     },
     "wof:country":"MX",
@@ -137,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147214,
+    "wof:lastmodified":1566619602,
     "wof:name":"San Ignacio",
     "wof:parent_id":101992735,
     "wof:placetype":"neighbourhood",

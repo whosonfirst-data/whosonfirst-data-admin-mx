@@ -10,8 +10,10 @@
     "geom:latitude":15.834101,
     "geom:longitude":-97.045415,
     "iso:country":"MX",
+    "lbl:bbox":"-97.050415,15.829101,-97.040415,15.839101",
     "lbl:latitude":15.834101,
     "lbl:longitude":-97.045415,
+    "lbl:max_zoom":18.0,
     "mps:latitude":15.830887,
     "mps:longitude":-97.040901,
     "mz:hierarchy_label":0,
@@ -203,9 +205,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043c\u0456\u043b\u0456\u0430\u043d\u043e \u0421\u0430\u043f\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Emiliano Zapata"
-    ],
     "name:vie_x_preferred":[
         "Emiliano Zapata"
     ],
@@ -241,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686623,
         102191575,
@@ -252,7 +251,7 @@
     "wof:concordances":{
         "gn:id":3800526,
         "gp:id":55916455,
-        "qs:id":224297
+        "qs_pg:id":224297
     },
     "wof:country":"MX",
     "wof:geomhash":"e94679a367bf2c3d63bd3c6baaae0218",
@@ -270,7 +269,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147228,
+    "wof:lastmodified":1566619612,
     "wof:name":"Emiliano Zapata",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

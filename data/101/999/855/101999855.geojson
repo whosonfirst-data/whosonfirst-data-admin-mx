@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.557986,
     "lbl:longitude":-97.564657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.557986,
     "mps:longitude":-97.564657,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Tepanco de L\u00f3pez"
     ],
@@ -40,9 +43,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0435\u043f\u0430\u043d\u043a\u043e \u0434\u0435 \u041b\u043e\u043f\u0435\u0437"
     ],
-    "name:unk_x_variant":[
-        "Tepanco"
-    ],
     "name:vie_x_preferred":[
         "Tepanco de L\u00f3pez"
     ],
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -75,7 +75,6 @@
         "fct:id":"01b97578-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515915,
         "gp:id":148852,
-        "qs:id":1139637,
         "qs_pg:id":1139637,
         "wd:id":"Q3888252",
         "wk:page":"Tepanco de L\u00f3pez"
@@ -95,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397744,
+    "wof:lastmodified":1566632577,
     "wof:name":"Tepanco de L\u00f3pez",
     "wof:parent_id":102078339,
     "wof:placetype":"locality",

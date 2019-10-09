@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
-    "geom:area_square_m":1732353.428378,
+    "geom:area_square_m":1732353.42838,
     "geom:bbox":"-98.673210812,21.155854946,-98.6555891011,21.1693682652",
     "geom:latitude":21.162415,
     "geom:longitude":-98.66396,
     "iso:country":"MX",
     "lbl:latitude":21.162759,
     "lbl:longitude":-98.663788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.162759,
     "mps:longitude":-98.663788,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55892192
     },
     "wof:country":"MX",
-    "wof:geomhash":"cc1c26b33fbf00603da7ac7600e306f0",
+    "wof:geomhash":"5b5bde144c131a93034733bb9c60411b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000461,
-    "wof:lastmodified":1479908253,
+    "wof:lastmodified":1566615712,
     "wof:name":"Ahuatitla",
     "wof:parent_id":102078537,
     "wof:placetype":"locality",

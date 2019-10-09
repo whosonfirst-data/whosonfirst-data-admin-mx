@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.904565,
     "lbl:longitude":-97.97231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.904565,
     "mps:longitude":-97.97231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tecali de Herrera Municipality"
     ],
@@ -47,9 +50,6 @@
     "name:swe_x_preferred":[
         "Tecali de Herrera"
     ],
-    "name:unk_x_variant":[
-        "Tecali"
-    ],
     "name:vie_x_preferred":[
         "Tecali de Herrera"
     ],
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +83,6 @@
         "fct:id":"01b96948-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516191,
         "gp:id":148433,
-        "qs:id":975535,
         "qs_pg:id":975535,
         "wd:id":"Q4453799",
         "wk:page":"Tecali de Herrera (municipality)"
@@ -103,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397661,
+    "wof:lastmodified":1566632528,
     "wof:name":"Tecali de Herrera",
     "wof:parent_id":102078323,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":27.027505,
     "lbl:longitude":-108.940279,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":27.027505,
     "mps:longitude":-108.940279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u00c1lamos"
     ],
@@ -81,9 +84,6 @@
     "name:swe_x_preferred":[
         "\u00c1lamos"
     ],
-    "name:unk_x_variant":[
-        "\u00c1lamos"
-    ],
     "name:vie_x_preferred":[
         "\u00c1lamos"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -117,10 +117,12 @@
         "fct:id":"01b7d380-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4018900,
         "gp:id":111766,
-        "qs:id":1047661,
-        "qs_pg:id":1114169,
+        "qs_pg:id":1047661,
         "wd:id":"Q250531",
         "wk:page":"\u00c1lamos"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114169
     },
     "wof:country":"MX",
     "wof:geomhash":"5aba839f2e1e7dbc7212edaf71fbbc0a",
@@ -137,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398190,
+    "wof:lastmodified":1566632807,
     "wof:name":"Alamos",
     "wof:parent_id":102074447,
     "wof:placetype":"locality",

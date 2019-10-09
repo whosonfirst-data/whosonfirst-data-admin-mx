@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.009618,
     "lbl:longitude":-102.620423,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":21.009618,
     "mps:longitude":-102.620423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Municipio Valle de Guadalupe"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,6 @@
         "fct:id":"01af64de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980617,
         "gp:id":150494,
-        "qs:id":251581,
         "qs_pg:id":251581,
         "wd:id":"Q577803"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397083,
+    "wof:lastmodified":1566632231,
     "wof:name":"Valle de Guadalupe",
     "wof:parent_id":102074721,
     "wof:placetype":"locality",

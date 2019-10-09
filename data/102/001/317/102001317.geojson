@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":21.142535,
     "lbl:longitude":-88.150038,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":21.142535,
     "mps:longitude":-88.150038,
     "mz:hierarchy_label":1,
@@ -85,9 +87,6 @@
     ],
     "name:swe_x_preferred":[
         "Tizim\u00edn"
-    ],
-    "name:unk_x_variant":[
-        "Titzimin"
     ],
     "name:vie_x_preferred":[
         "Tizim\u00edn"
@@ -201,7 +200,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -214,7 +213,6 @@
         "fct:id":"01b984dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515504,
         "gp:id":149510,
-        "qs:id":1319296,
         "qs_pg:id":1319296,
         "wd:id":"Q2085590",
         "wk:page":"Tizim\u00edn"
@@ -234,7 +232,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369866,
+    "wof:lastmodified":1566615763,
     "wof:name":"Tizim\u00edn",
     "wof:parent_id":102079111,
     "wof:placetype":"locality",

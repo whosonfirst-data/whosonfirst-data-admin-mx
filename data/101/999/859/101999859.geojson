@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.493829,
     "lbl:longitude":-97.522859,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.493829,
     "mps:longitude":-97.522859,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Bartolo Teontepec"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "San Bartolo Teontepec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teontepec"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3519632,
         "gp:id":141962,
-        "qs:id":1045429,
         "qs_pg:id":1045429,
         "wd:id":"Q20135998"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101999859,
-    "wof:lastmodified":1563397666,
+    "wof:lastmodified":1566632531,
     "wof:name":"San Bartolo Teontepec",
     "wof:parent_id":102078339,
     "wof:placetype":"locality",

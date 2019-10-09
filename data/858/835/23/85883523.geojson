@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3074059.448868,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.695633,21.178008,-101.695633,21.178008",
     "geom:latitude":21.178008,
     "geom:longitude":-101.695633,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.700633,21.173008,-101.690633,21.183008",
     "lbl:latitude":21.178008,
     "lbl:longitude":-101.695633,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.177083,
     "mps:longitude":-101.701045,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Granjas El Palote"
-    ],
-    "name:unk_x_variant":[
         "Granjas El Palote"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
         101996837,
-        102077349,
-        85686629
+        102077349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4021505,
         "gp:id":55895863,
-        "qs:id":243963,
         "qs_pg:id":243963
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874359,
+    "wof:lastmodified":1566619601,
     "wof:name":"Granjas El Palote",
     "wof:parent_id":101996837,
     "wof:placetype":"neighbourhood",

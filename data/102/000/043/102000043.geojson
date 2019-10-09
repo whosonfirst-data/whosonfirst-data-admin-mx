@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.75755,
     "lbl:longitude":-97.703956,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.75755,
     "mps:longitude":-97.703956,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tetzoyocan"
     ],
@@ -29,9 +32,6 @@
         "San Gabriel Tetzoyoc\u00e1n"
     ],
     "name:swe_x_preferred":[
-        "Tetzoyocan"
-    ],
-    "name:unk_x_variant":[
         "Tetzoyocan"
     ],
     "name:vie_x_preferred":[
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -66,7 +66,6 @@
     "wof:concordances":{
         "gn:id":3515735,
         "gp:id":149174,
-        "qs:id":904810,
         "qs_pg:id":904810,
         "wd:id":"Q20232453"
     },
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":102000043,
-    "wof:lastmodified":1563369743,
+    "wof:lastmodified":1566615704,
     "wof:name":"San Gabriel Tetzoyocan",
     "wof:parent_id":102078435,
     "wof:placetype":"locality",

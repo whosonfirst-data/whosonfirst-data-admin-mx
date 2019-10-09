@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.805582,
     "lbl:longitude":-97.184888,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.805582,
     "mps:longitude":-97.184888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Ciudad Mendoza"
     ],
@@ -38,9 +41,6 @@
     "name:swe_x_preferred":[
         "Ciudad Mendoza"
     ],
-    "name:unk_x_variant":[
-        "Santa Rosa"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -71,7 +71,6 @@
         "fct:id":"01cf7b48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530592,
         "gp:id":116561,
-        "qs:id":469618,
         "qs_pg:id":469618,
         "wd:id":"Q4448359"
     },
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397178,
+    "wof:lastmodified":1566632274,
     "wof:name":"Ciudad Mendoza",
     "wof:parent_id":102077447,
     "wof:placetype":"locality",

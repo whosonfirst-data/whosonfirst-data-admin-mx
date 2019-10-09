@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.241936,
     "lbl:longitude":-97.44982,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.241936,
     "mps:longitude":-97.44982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Bartolom\u00e9 Yucua\u00f1e"
     ],
@@ -78,7 +81,7 @@
     "name:swe_x_preferred":[
         "San Bartolom\u00e9 Yucua\u00f1e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yucuane"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -129,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397810,
+    "wof:lastmodified":1566632612,
     "wof:name":"San Bartolom\u00e9 Yucua\u00f1e",
     "wof:parent_id":102076951,
     "wof:placetype":"locality",

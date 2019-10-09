@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1723064.335728,
+    "geom:area_square_m":1723064.335735,
     "geom:bbox":"-99.6766035674,19.3393159645,-99.6595648933,19.3546740827",
     "geom:latitude":19.345804,
     "geom:longitude":-99.665972,
     "iso:country":"MX",
     "lbl:latitude":19.344818,
     "lbl:longitude":-99.665842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.344818,
     "mps:longitude":-99.665842,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895801
     },
     "wof:country":"MX",
-    "wof:geomhash":"8b019d97dd305c067562f5c1d62930b5",
+    "wof:geomhash":"d70dcd553a9d965b602cab1d629a1def",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991649,
-    "wof:lastmodified":1479930241,
+    "wof:lastmodified":1566632333,
     "wof:name":"Barrio Santa Cruz",
     "wof:parent_id":102074009,
     "wof:placetype":"locality",

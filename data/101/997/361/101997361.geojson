@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.794526,
     "lbl:longitude":-101.175531,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.794526,
     "mps:longitude":-101.175531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tar\u00edmbaro"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "fct:id":"01b96722-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3982367,
         "gp:id":148332,
-        "qs:id":213101,
         "qs_pg:id":213101,
         "wd:id":"Q3847328",
         "wk:page":"Tar\u00edmbaro"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397547,
+    "wof:lastmodified":1566632469,
     "wof:name":"Tar\u00edmbaro",
     "wof:parent_id":102075027,
     "wof:placetype":"locality",

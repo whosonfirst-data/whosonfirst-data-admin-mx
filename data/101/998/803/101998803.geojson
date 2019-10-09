@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.564324,
     "lbl:longitude":-96.973686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.564324,
     "mps:longitude":-96.973686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Tlalnelhuayocan"
     ],
@@ -67,9 +70,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u043b\u0430\u043b\u043d\u0435\u043b\u0445\u0443\u0430\u0458\u043e\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "San Andr\u00e9s Tlanelhuayocan"
-    ],
     "name:vie_x_preferred":[
         "Tlalnelhuayocan"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -102,7 +102,6 @@
         "fct:id":"01b98950-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515435,
         "gp:id":149592,
-        "qs:id":992291,
         "qs_pg:id":992291,
         "wd:id":"Q3845093",
         "wk:page":"Tlalnelhuayocan"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397108,
+    "wof:lastmodified":1566632241,
     "wof:name":"Tlalnelhuayocan",
     "wof:parent_id":102077779,
     "wof:placetype":"locality",

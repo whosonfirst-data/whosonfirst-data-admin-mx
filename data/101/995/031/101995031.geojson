@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.84315,
     "lbl:longitude":-96.881108,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.84315,
     "mps:longitude":-96.881108,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Concepci\u00f3n P\u00e1palo"
     ],
@@ -41,9 +44,6 @@
         "Papalo",
         "Papalo Concepci\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Papalo"
-    ],
     "name:vie_x_preferred":[
         "Concepci\u00f3n P\u00e1palo"
     ],
@@ -62,7 +62,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397814,
+    "wof:lastmodified":1566632615,
     "wof:name":"Concepci\u00f3n P\u00e1palo",
     "wof:parent_id":102076935,
     "wof:placetype":"locality",

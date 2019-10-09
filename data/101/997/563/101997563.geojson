@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.415367,
     "lbl:longitude":-103.666918,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.415367,
     "mps:longitude":-103.666918,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Villa Corona"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Villa Corona"
     ],
-    "name:unk_x_variant":[
-        "Tizapanito"
-    ],
     "name:vec_x_preferred":[
         "Villa Corona"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +104,6 @@
         "fct:id":"01b6768e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980198,
         "gp:id":150834,
-        "qs:id":151235,
         "qs_pg:id":151235,
         "wd:id":"Q3175359"
     },
@@ -123,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397556,
+    "wof:lastmodified":1566632474,
     "wof:name":"Villa Corona",
     "wof:parent_id":102074809,
     "wof:placetype":"locality",

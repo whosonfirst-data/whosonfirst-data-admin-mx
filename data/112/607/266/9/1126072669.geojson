@@ -9,14 +9,17 @@
     "geom:bbox":"-103.19808,19.19946,-103.19808,19.19946",
     "geom:latitude":19.19946,
     "geom:longitude":-103.19808,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-103.20308,19.19446,-103.19308,19.20446",
     "lbl:latitude":19.19946,
     "lbl:longitude":-103.19808,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "El Vergel"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55906816,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Jalisco",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
-        102074861,
-        85686603
+        102074861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126072669,
-    "wof:lastmodified":1509410757,
+    "wof:lastmodified":1566634215,
     "wof:name":"El Vergel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

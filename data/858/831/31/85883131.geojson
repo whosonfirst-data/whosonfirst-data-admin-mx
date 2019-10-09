@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8082417.40494,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.446002,20.624138,-100.446002,20.624138",
     "geom:latitude":20.624138,
     "geom:longitude":-100.446002,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.451002,20.619138,-100.441002,20.629138",
     "lbl:latitude":20.624138,
     "lbl:longitude":-100.446002,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.621961,
     "mps:longitude":-100.446278,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Don Manuel"
-    ],
-    "name:unk_x_variant":[
         "Fracc Don Manuel"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890899,
-        "qs:id":1111490,
         "qs_pg:id":1111490
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874234,
+    "wof:lastmodified":1566619682,
     "wof:name":"Fracc Don Manuel",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

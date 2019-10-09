@@ -10,8 +10,10 @@
     "geom:latitude":19.418397,
     "geom:longitude":-99.230066,
     "iso:country":"MX",
+    "lbl:bbox":"-99.235066,19.413397,-99.225066,19.423397",
     "lbl:latitude":19.418397,
     "lbl:longitude":-99.230066,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.419396,
     "mps:longitude":-99.230251,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Colonia Lomas de Tecamachalco",
         "Col. Lomas de Tecamachalco",
         "Col Lomas de Tecamachalco"
-    ],
-    "name:unk_x_variant":[
-        "Lomas de Tecamachalco"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -76,8 +75,10 @@
     "wof:concordances":{
         "gn:id":3827451,
         "gp:id":55903502,
-        "qs:id":1312152,
         "qs_pg:id":261565
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1312152
     },
     "wof:country":"MX",
     "wof:geomhash":"fa96c839a37e0baba09d564154962c0c",
@@ -96,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957719,
+    "wof:lastmodified":1566619582,
     "wof:name":"Lomas de Tecamachalco",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-99.55894,19.74826,-99.55894,19.74826",
     "geom:latitude":19.74826,
     "geom:longitude":-99.55894,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.56394,19.74326,-99.55394,19.75326",
     "lbl:latitude":19.74826,
     "lbl:longitude":-99.55894,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "La Palma"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55884701,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Morelos",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102074171,
-        85686527
+        102074171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126080143,
-    "wof:lastmodified":1509411120,
+    "wof:lastmodified":1566634064,
     "wof:name":"Alta Palmira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

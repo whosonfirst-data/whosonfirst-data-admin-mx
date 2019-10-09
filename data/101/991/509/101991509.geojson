@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":16.899052,
     "lbl:longitude":-99.835462,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":16.899052,
     "mps:longitude":-99.835462,
     "mz:hierarchy_label":1,
@@ -279,11 +281,8 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u043f\u0443\u043b\u044c\u043a\u043e"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "ACA"
-    ],
-    "name:unk_x_variant":[
-        "Acapulco"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0627\u067e\u0648\u0644\u06a9\u0648"
@@ -418,7 +417,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -434,7 +433,6 @@
         "gn:id":3533462,
         "gp:id":110978,
         "nyt:id":"N90697374154619704121",
-        "qs:id":775235,
         "qs_pg:id":775235,
         "wd:id":"Q81398",
         "wk:page":"Acapulco"
@@ -454,7 +452,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397271,
+    "wof:lastmodified":1566632329,
     "wof:megacity":0,
     "wof:name":"Acapulco de Ju\u00e1rez",
     "wof:parent_id":102073945,

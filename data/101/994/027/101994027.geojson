@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":32.445312,
     "lbl:longitude":-114.769803,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":32.445312,
     "mps:longitude":-114.769803,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b2\u09c1\u0987\u09b8 \u09b0\u09bf\u0993 \u0995\u09cb\u09b2\u09cb\u09b0\u09be\u09a6\u09cb"
     ],
@@ -135,7 +138,7 @@
     "name:tur_x_preferred":[
         "San Luis R\u00edo Colorado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Luis"
     ],
     "name:urd_x_preferred":[
@@ -167,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -180,10 +183,12 @@
         "fct:id":"01b919ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3985604,
         "gp:id":144243,
-        "qs:id":665536,
-        "qs_pg:id":1074242,
+        "qs_pg:id":665536,
         "wd:id":"Q995380",
         "wk:page":"San Luis R\u00edo Colorado"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074242
     },
     "wof:country":"MX",
     "wof:geomhash":"00c9084dfb4cd83eb86d5ba345d993e8",
@@ -200,7 +205,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398332,
+    "wof:lastmodified":1566632881,
     "wof:name":"San Luis R\u00edo Colorado",
     "wof:parent_id":102074497,
     "wof:placetype":"locality",

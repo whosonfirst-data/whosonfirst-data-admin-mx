@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1789603.9367,
+    "geom:area_square_m":1789603.936693,
     "geom:bbox":"-99.138851423,19.4241219791,-99.1159057617,19.456233596",
     "geom:latitude":19.440978,
     "geom:longitude":-99.125608,
@@ -14,6 +14,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.429842,
     "lbl:longitude":-99.133454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.448338,
     "mps:longitude":-99.121247,
     "mz:hierarchy_label":1,
@@ -30,10 +31,6 @@
     ],
     "name:spa_x_variant":[
         "Colonia Tres Estrellas"
-    ],
-    "name:unk_x_variant":[
-        "Colonia Tres Estrellas",
-        "Tres Estrellas"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPLX",
@@ -63,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -80,7 +77,6 @@
     "wof:concordances":{
         "gn:id":3515135,
         "gp:id":150050,
-        "qs:id":351785,
         "qs_pg:id":351785
     },
     "wof:country":"MX",
@@ -109,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1507751645,
+    "wof:lastmodified":1566619457,
     "wof:name":"Tres Estrellas",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",

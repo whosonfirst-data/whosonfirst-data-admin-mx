@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.108682,
     "lbl:longitude":-98.250813,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.108682,
     "mps:longitude":-98.250813,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Sanctorum"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "Sanctorum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sanctorium"
     ],
     "qs:a0":"Mexico",
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3519531,
         "gp:id":145563,
-        "qs:id":1045428,
+        "qs_pg:id":1045428,
         "wd:id":"Q20231908"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101999365,
-    "wof:lastmodified":1563397635,
+    "wof:lastmodified":1566632512,
     "wof:name":"Sanctorum",
     "wof:parent_id":102078083,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6726519.722638,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.17343,19.80558,-100.17343,19.80558",
     "geom:latitude":19.80558,
     "geom:longitude":-100.17343,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.17843,19.80058,-100.16843,19.81058",
     "lbl:latitude":19.80558,
     "lbl:longitude":-100.17343,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.804406,
     "mps:longitude":-100.17248,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Tlalpujahua Centro"
-    ],
-    "name:unk_x_variant":[
         "Tlalpujahua Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686595,
         102191575,
         85633293,
         101997375,
-        102075019,
-        85686595
+        102075019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55918723,
-        "qs:id":411964,
         "qs_pg:id":411964
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874748,
+    "wof:lastmodified":1566619713,
     "wof:name":"Tlalpujahua Centro",
     "wof:parent_id":101997375,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":2333518.326472,
+    "geom:area_square_m":2333518.326474,
     "geom:bbox":"-104.028351326,24.269780234,-104.009909225,24.286287179",
     "geom:latitude":24.277679,
     "geom:longitude":-104.018572,
     "iso:country":"MX",
     "lbl:latitude":24.278046,
     "lbl:longitude":-104.018749,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.278046,
     "mps:longitude":-104.018749,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Durango",
     "qs:a1_lc":"10",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55920358
     },
     "wof:country":"MX",
-    "wof:geomhash":"db82159dfa741debd6e40386fe409997",
+    "wof:geomhash":"32fe1ac522291578f0a07f0f7f2b4c17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992965,
-    "wof:lastmodified":1479904277,
+    "wof:lastmodified":1566632672,
     "wof:name":"Antonio Amaro (Saucillo)",
     "wof:parent_id":102075161,
     "wof:placetype":"locality",

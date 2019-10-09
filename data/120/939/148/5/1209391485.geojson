@@ -24,8 +24,12 @@
     "gn:population":6,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-100.3904,17.94853,-100.3504,17.98853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8934885
     },
     "wof:country":"MX",
-    "wof:geomhash":"4ed5e44ddda6f3152cb89f68835f51e1",
+    "wof:geomhash":"e3e143182f2fad2859a409ade799b590",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209391485,
-    "wof:lastmodified":1536288446,
+    "wof:lastmodified":1566625474,
     "wof:name":"Palo Chino",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -100.3704,
-    17.968529999999994,
+    17.96852999999999,
     -100.3704,
-    17.968529999999994
+    17.96852999999999
 ],
   "geometry": {"coordinates":[-100.3704,17.96852999999999],"type":"Point"}
 }

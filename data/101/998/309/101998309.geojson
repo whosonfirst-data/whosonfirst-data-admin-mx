@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.183363,
     "lbl:longitude":-97.58479,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.183363,
     "mps:longitude":-97.58479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Coxquihui"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Coxquihui"
     ],
-    "name:unk_x_variant":[
-        "Cosquihui"
-    ],
     "name:vec_x_preferred":[
         "Coxquihui"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +101,6 @@
         "fct:id":"01b82a56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530144,
         "gp:id":117533,
-        "qs:id":923995,
         "qs_pg:id":923995,
         "wd:id":"Q5179968"
     },
@@ -120,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397061,
+    "wof:lastmodified":1566632222,
     "wof:name":"Coxquihui",
     "wof:parent_id":102077493,
     "wof:placetype":"locality",

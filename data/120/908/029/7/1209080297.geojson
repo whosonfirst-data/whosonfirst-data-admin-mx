@@ -24,8 +24,12 @@
     "gn:population":180,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.87167,17.07803,-97.83167,17.11803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8873377
     },
     "wof:country":"MX",
-    "wof:geomhash":"9d310b9f06dcd33971b0da85f62ad85e",
+    "wof:geomhash":"d20609fb31e4b94be1567df2272ff564",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209080297,
-    "wof:lastmodified":1536298360,
+    "wof:lastmodified":1566625590,
     "wof:name":"San Marcos Mesoncito",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -97.85167,
-    17.098029999999998,
+    17.09803,
     -97.85167,
-    17.098029999999998
+    17.09803
 ],
   "geometry": {"coordinates":[-97.85167,17.09803],"type":"Point"}
 }

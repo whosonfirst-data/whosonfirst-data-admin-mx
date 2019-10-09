@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9710034.337355,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.705078,20.916805,-100.705078,20.916805",
     "geom:latitude":20.916805,
     "geom:longitude":-100.705078,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.710078,20.911805,-100.700078,20.921805",
     "lbl:latitude":20.916805,
     "lbl:longitude":-100.705078,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.916176,
     "mps:longitude":-100.701684,
     "mz:hierarchy_label":0,
@@ -36,18 +38,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
-        102077311,
-        85686629
+        102077311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3522091,
         "gp:id":55893473,
-        "qs:id":1323658,
         "qs_pg:id":1323658
     },
     "wof:country":"MX",
@@ -66,7 +67,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874296,
+    "wof:lastmodified":1566619616,
     "wof:name":"Palmita de Landeta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

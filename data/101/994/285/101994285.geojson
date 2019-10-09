@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":26.801022,
     "lbl:longitude":-105.820997,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":26.801022,
     "mps:longitude":-105.820997,
     "mz:hierarchy_label":1,
@@ -164,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":415,
     "wof:belongsto":[
@@ -178,10 +180,12 @@
         "fct:id":"01bf9c0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517704,
         "gp:id":145763,
-        "qs:id":984283,
-        "qs_pg:id":1116103,
+        "qs_pg:id":984283,
         "wd:id":"Q522152",
         "wk:page":"Santa B\u00e1rbara, Chihuahua"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116103
     },
     "wof:country":"MX",
     "wof:geomhash":"86af1d62a2d4d8a7367f92fcbafda293",
@@ -198,7 +202,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398341,
+    "wof:lastmodified":1566632884,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":102075357,
     "wof:placetype":"locality",

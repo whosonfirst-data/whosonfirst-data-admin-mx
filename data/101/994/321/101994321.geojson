@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":28.151979,
     "lbl:longitude":-105.396906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.151979,
     "mps:longitude":-105.396906,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chihuahua",
     "qs:a1_lc":"08",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900291
     },
     "wof:country":"MX",
-    "wof:geomhash":"bd98509154a1aac5a30cc40a7fb07672",
+    "wof:geomhash":"de9a706db88c9bb00c7ba3987345c4ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994321,
-    "wof:lastmodified":1479904006,
+    "wof:lastmodified":1566632903,
     "wof:name":"Miguel Hidalgo",
     "wof:parent_id":102075275,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.246908,
     "lbl:longitude":-96.866756,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":17.246908,
     "mps:longitude":-96.866756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Santiago Suchilquitongo"
     ],
@@ -56,9 +59,6 @@
     "name:swe_x_preferred":[
         "Santiago Suchilquitongo"
     ],
-    "name:unk_x_variant":[
-        "Santiango Xuchilquitongo"
-    ],
     "name:vie_x_preferred":[
         "Santiago Suchilquitongo"
     ],
@@ -77,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -90,7 +90,7 @@
         "fct:id":"01b951ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516923,
         "gp:id":55917461,
-        "qs:id":359355,
+        "qs_pg:id":359355,
         "wd:id":"Q3893366",
         "wk:page":"Santiago Suchilquitongo"
     },
@@ -109,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397417,
+    "wof:lastmodified":1566632404,
     "wof:name":"Santiago Suchilquitongo",
     "wof:parent_id":102075889,
     "wof:placetype":"locality",

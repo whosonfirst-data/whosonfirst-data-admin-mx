@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":3387845.680114,
+    "geom:area_square_m":3387845.68012,
     "geom:bbox":"-99.0050561523,19.2052093924,-98.9850561523,19.222989726",
     "geom:latitude":19.21457,
     "geom:longitude":-98.994989,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.21521,
     "lbl:longitude":-98.995056,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.214103,
     "mps:longitude":-98.994989,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Barrio Cruztitla"
-    ],
-    "name:unk_x_variant":[
         "Barrio Cruztitla"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686515,
         102191575,
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898776,
-        "qs:id":776039
+        "qs_pg:id":776039
     },
     "wof:country":"MX",
     "wof:geomhash":"751484104e234450d20f31db507d8d70",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270525,
+    "wof:lastmodified":1566619706,
     "wof:name":"Barrio Cruztitla",
     "wof:parent_id":101991183,
     "wof:placetype":"neighbourhood",

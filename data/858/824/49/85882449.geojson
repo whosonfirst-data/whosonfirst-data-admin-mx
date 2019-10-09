@@ -11,8 +11,10 @@
     "geom:longitude":-116.926654,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.931654,32.526423,-116.921654,32.536423",
     "lbl:latitude":32.531423,
     "lbl:longitude":-116.926654,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.530491,
     "mps:longitude":-116.925545,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Tecnologico"
-    ],
-    "name:unk_x_variant":[
         "Tecnologico"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -68,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55882056,
-        "qs:id":923534
+        "qs_pg:id":923534
     },
     "wof:country":"MX",
     "wof:geomhash":"b2471224f61a2e6b24c2ea491ab87a7e",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957708,
+    "wof:lastmodified":1566619648,
     "wof:name":"Tecnologico",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

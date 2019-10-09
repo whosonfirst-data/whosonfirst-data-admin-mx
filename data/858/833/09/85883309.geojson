@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8246551.515584,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.296967,17.551344,-101.296967,17.551344",
     "geom:latitude":17.551344,
     "geom:longitude":-101.296967,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.301967,17.546344,-101.291967,17.556344",
     "lbl:latitude":17.551344,
     "lbl:longitude":-101.296967,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.552391,
     "mps:longitude":-101.293412,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Unidad Magisterial Petatlan"
-    ],
-    "name:unk_x_variant":[
         "Unidad Magisterial Petatlan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
-        102073895,
-        85686517
+        102073895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893273,
-        "qs:id":912454
+        "qs_pg:id":912454
     },
     "wof:country":"MX",
     "wof:geomhash":"8443d09ba06dfa18bd9b2ec88169e0a1",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874289,
+    "wof:lastmodified":1566619617,
     "wof:name":"Unidad Magisterial Petatlan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

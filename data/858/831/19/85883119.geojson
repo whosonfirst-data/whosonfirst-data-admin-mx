@@ -11,8 +11,10 @@
     "geom:longitude":-104.351461,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.356461,19.103928,-104.346461,19.113928",
     "lbl:latitude":19.108928,
     "lbl:longitude":-104.351461,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.116203,
     "mps:longitude":-104.35107,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Villas Del Faro"
-    ],
-    "name:unk_x_variant":[
         "Villas Del Faro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,14 +56,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890829,
-        "qs:id":1341054
+        "qs_pg:id":1341054
     },
     "wof:country":"MX",
     "wof:geomhash":"65f7a12c137e21239d0bb8a8803cddc2",
@@ -81,7 +80,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957711,
+    "wof:lastmodified":1566619681,
     "wof:name":"Villas Del Faro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

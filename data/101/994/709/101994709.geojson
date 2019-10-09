@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.612945,
     "lbl:longitude":-92.718121,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.612945,
     "mps:longitude":-92.718121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Lucas"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "San Lucas"
     ],
-    "name:unk_x_variant":[
-        "El Zapotal"
-    ],
     "name:vie_x_preferred":[
         "San Lucas"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,9 +101,11 @@
         "fct:id":"01b3dc1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3979755,
         "gp:id":123038,
-        "qs:id":1202375,
         "qs_pg:id":151220,
         "wd:id":"Q2595433"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1202375
     },
     "wof:country":"MX",
     "wof:geomhash":"2e8bb20ab65ccc54b6ed5e94d0815e75",
@@ -120,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398238,
+    "wof:lastmodified":1566632832,
     "wof:name":"San Lucas",
     "wof:parent_id":102075647,
     "wof:placetype":"locality",

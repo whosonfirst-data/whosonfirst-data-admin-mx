@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.703383,
     "lbl:longitude":-98.831744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.703383,
     "mps:longitude":-98.831744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "San Mart\u00edn de las Pir\u00e1mides"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "San Mart\u00edn de las Pir\u00e1mides"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Martin"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3518414,
         "gp:id":144383,
-        "qs:id":900016,
         "qs_pg:id":900016,
         "wd:id":"Q3844585"
     },
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101992157,
-    "wof:lastmodified":1563397941,
+    "wof:lastmodified":1566632671,
     "wof:name":"San Mart\u00edn de las Pir\u00e1mides",
     "wof:parent_id":102073951,
     "wof:placetype":"locality",

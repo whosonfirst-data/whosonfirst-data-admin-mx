@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11489724.480008,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.667675,21.284379,-89.667675,21.284379",
     "geom:latitude":21.284379,
     "geom:longitude":-89.667675,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-89.672675,21.279379,-89.662675,21.289379",
     "lbl:latitude":21.284379,
     "lbl:longitude":-89.667675,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.279692,
     "mps:longitude":-89.673775,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Progreso Centro"
-    ],
-    "name:unk_x_variant":[
         "Progreso Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686701,
         102191575,
         85633293,
         102001367,
-        102078975,
-        85686701
+        102078975
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908737,
-        "qs:id":1294786,
         "qs_pg:id":1294786
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874637,
+    "wof:lastmodified":1566619643,
     "wof:name":"Progreso Centro",
     "wof:parent_id":102001367,
     "wof:placetype":"neighbourhood",

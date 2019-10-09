@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":29.905958,
     "lbl:longitude":-109.302233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.905958,
     "mps:longitude":-109.302233,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hu\u00e1sabas"
     ],
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Hu\u00e1sabas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00faasabas"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101993927,
-    "wof:lastmodified":1563398206,
+    "wof:lastmodified":1566632815,
     "wof:name":"Hu\u00e1sabas",
     "wof:parent_id":102074351,
     "wof:placetype":"locality",

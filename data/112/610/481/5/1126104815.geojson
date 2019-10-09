@@ -9,14 +9,17 @@
     "geom:bbox":"-98.3233,19.9539,-98.3233,19.9539",
     "geom:latitude":19.9539,
     "geom:longitude":-98.3233,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.3283,19.9489,-98.3183,19.9589",
     "lbl:latitude":19.9539,
     "lbl:longitude":-98.3233,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "El Aserradero"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55915947,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Hidalgo",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686665,
         102191575,
         85633293,
-        102078491,
-        85686665
+        102078491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126104815,
-    "wof:lastmodified":1509412318,
+    "wof:lastmodified":1566633936,
     "wof:name":"El Herradero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

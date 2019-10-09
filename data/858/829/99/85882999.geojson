@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2531056.637365,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.867493,19.67104,-98.867493,19.67104",
     "geom:latitude":19.67104,
     "geom:longitude":-98.867493,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.872493,19.66604,-98.862493,19.67604",
     "lbl:latitude":19.67104,
     "lbl:longitude":-98.867493,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.671378,
     "mps:longitude":-98.868295,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Villas Teotihuacan"
-    ],
-    "name:unk_x_variant":[
         "Villas Teotihuacan"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102074039,
-        85686527
+        102074039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888988,
-        "qs:id":137747
+        "qs_pg:id":137747
     },
     "wof:country":"MX",
     "wof:geomhash":"27dcb689abed3e3ed28338ba235b3834",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874191,
+    "wof:lastmodified":1566619553,
     "wof:name":"Villas Teotihuacan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

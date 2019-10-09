@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1564622.877565,
+    "geom:area_square_m":1564622.877568,
     "geom:bbox":"-101.899293636,19.4405656428,-101.882220029,19.4545896328",
     "geom:latitude":19.446573,
     "geom:longitude":-101.890369,
     "iso:country":"MX",
     "lbl:latitude":19.446264,
     "lbl:longitude":-101.88953,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.446264,
     "mps:longitude":-101.88953,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San \u00c1ngel"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101997195,
-    "wof:lastmodified":1504309891,
+    "wof:lastmodified":1566632434,
     "wof:name":"San \u00c1ngel Zurumucapio",
     "wof:parent_id":102074947,
     "wof:placetype":"locality",

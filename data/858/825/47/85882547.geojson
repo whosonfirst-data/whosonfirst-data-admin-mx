@@ -11,8 +11,10 @@
     "geom:longitude":-116.920491,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.925491,32.494497,-116.915491,32.504497",
     "lbl:latitude":32.499497,
     "lbl:longitude":-116.920491,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.506087,
     "mps:longitude":-116.91168,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Ampl Guaycura"
-    ],
-    "name:unk_x_variant":[
         "Ampl Guaycura"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -68,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883161,
-        "qs:id":1155254
+        "qs_pg:id":1155254
     },
     "wof:country":"MX",
     "wof:geomhash":"d52a46d31a8271c73da5f72a8230c596",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957709,
+    "wof:lastmodified":1566619671,
     "wof:name":"Ampl Guaycura",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

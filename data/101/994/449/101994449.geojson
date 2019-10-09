@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.710168,
     "lbl:longitude":-93.119346,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":16.710168,
     "mps:longitude":-93.119346,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Copoya"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3530248,
         "gp:id":117317,
-        "qs:id":148820,
         "qs_pg:id":148820,
         "wd:id":"Q20276562"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101994449,
-    "wof:lastmodified":1563398248,
+    "wof:lastmodified":1566632837,
     "wof:name":"Copoya",
     "wof:parent_id":102075513,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-109.930779,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.935779,22.87378,-109.925779,22.88378",
     "lbl:latitude":22.87878,
     "lbl:longitude":-109.930779,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.88751,
     "mps:longitude":-109.932119,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Fracc Nuevo Arco Iris"
-    ],
-    "name:unk_x_variant":[
         "Fracc Nuevo Arco Iris"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686555,
         102191575,
@@ -65,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908315,
-        "qs:id":475696,
         "qs_pg:id":475696
     },
     "wof:country":"MX",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957723,
+    "wof:lastmodified":1566619658,
     "wof:name":"Fracc Nuevo Arco Iris",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

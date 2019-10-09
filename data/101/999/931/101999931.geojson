@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":1240834.741837,
+    "geom:area_square_m":1240834.741836,
     "geom:bbox":"-97.4373553722,19.0621314423,-97.4246173873,19.0738983835",
     "geom:latitude":19.068077,
     "geom:longitude":-97.431154,
     "iso:country":"MX",
     "lbl:latitude":19.067977,
     "lbl:longitude":-97.431153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.067977,
     "mps:longitude":-97.431153,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55902923
     },
     "wof:country":"MX",
-    "wof:geomhash":"584cee328fde0643ce0487686b420092",
+    "wof:geomhash":"e658d9358236834070de5afafb274b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999931,
-    "wof:lastmodified":1479908119,
+    "wof:lastmodified":1566632510,
     "wof:name":"San Francisco Independencia (Santa Mar\u00eda Aserradero)",
     "wof:parent_id":102078379,
     "wof:placetype":"locality",

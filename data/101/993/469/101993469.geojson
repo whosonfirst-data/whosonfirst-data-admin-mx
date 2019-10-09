@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000774,
-    "geom:area_square_m":8136145.526057,
+    "geom:area_square_m":8136145.526043,
     "geom:bbox":"-116.583281197,31.6936343063,-116.547560872,31.7443030624",
     "geom:latitude":31.719073,
     "geom:longitude":-116.56586,
     "iso:country":"MX",
     "lbl:latitude":31.712793,
     "lbl:longitude":-116.564072,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.712793,
     "mps:longitude":-116.564072,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":132850
     },
     "wof:country":"MX",
-    "wof:geomhash":"f1aba2bd6b35642f58537a6da4c71beb",
+    "wof:geomhash":"ba21c538cbd18aaad1ebbbbc5ac25010",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993469,
-    "wof:lastmodified":1479931246,
+    "wof:lastmodified":1566632804,
     "wof:name":"Rodolfo S\u00e1nchez Taboada (Maneadero)",
     "wof:parent_id":102074509,
     "wof:placetype":"locality",

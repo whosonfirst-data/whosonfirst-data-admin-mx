@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.084535,
     "lbl:longitude":-99.617707,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.084535,
     "mps:longitude":-99.617707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cerralvo"
     ],
@@ -46,9 +49,6 @@
     "name:swe_x_preferred":[
         "Cerralvo"
     ],
-    "name:unk_x_variant":[
-        "Cerralvo"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Nuevo Le\u00f3n",
     "qs:a1_lc":"19",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102000775,
-    "wof:lastmodified":1563369771,
+    "wof:lastmodified":1566615717,
     "wof:name":"Ciudad Cerralvo",
     "wof:parent_id":102078775,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":2315855.39334,
+    "geom:area_square_m":2315855.393341,
     "geom:bbox":"-100.42620926,20.5433111964,-100.406077572,20.5639187359",
     "geom:latitude":20.553753,
     "geom:longitude":-100.415368,
     "iso:country":"MX",
     "lbl:latitude":20.553705,
     "lbl:longitude":-100.416365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.553705,
     "mps:longitude":-100.416365,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Quer\u00e9taro",
     "qs:a1_lc":"22",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55893878
     },
     "wof:country":"MX",
-    "wof:geomhash":"0dc553e1846f4314bb26b0b9000a0c53",
+    "wof:geomhash":"c437e417604e383d746886480d1396b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996265,
-    "wof:lastmodified":1479907212,
+    "wof:lastmodified":1566632414,
     "wof:name":"San Jos\u00e9 de los Olvera",
     "wof:parent_id":102077121,
     "wof:placetype":"locality",

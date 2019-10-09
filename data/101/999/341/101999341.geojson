@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":4942339.109122,
+    "geom:area_square_m":4942339.109128,
     "geom:bbox":"-98.3178845027,19.1373133135,-98.2902302285,19.1649568214",
     "geom:latitude":19.151637,
     "geom:longitude":-98.302993,
     "iso:country":"MX",
     "lbl:latitude":19.150605,
     "lbl:longitude":-98.302048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.150605,
     "mps:longitude":-98.302048,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55910604
     },
     "wof:country":"MX",
-    "wof:geomhash":"5c14dddee2c25a7d01b2c072448ccee4",
+    "wof:geomhash":"30d3ced0af18c335d6d7eddb3c27dee0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999341,
-    "wof:lastmodified":1479907786,
+    "wof:lastmodified":1566632541,
     "wof:name":"San Antonio Mihuac\u00e1n",
     "wof:parent_id":102078067,
     "wof:placetype":"locality",

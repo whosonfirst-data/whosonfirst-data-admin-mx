@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.146487,
     "lbl:longitude":-101.632979,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.146487,
     "mps:longitude":-101.632979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villachuato"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":3980201,
         "gp:id":150916,
-        "qs:id":1204313,
         "qs_pg:id":1204313,
         "wd:id":"Q20292817"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101997517,
-    "wof:lastmodified":1563397531,
+    "wof:lastmodified":1566632459,
     "wof:name":"Villachuato",
     "wof:parent_id":102075113,
     "wof:placetype":"locality",

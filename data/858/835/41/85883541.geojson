@@ -10,8 +10,10 @@
     "geom:latitude":19.322712,
     "geom:longitude":-103.750577,
     "iso:country":"MX",
+    "lbl:bbox":"-103.755577,19.317712,-103.745577,19.327712",
     "lbl:latitude":19.322712,
     "lbl:longitude":-103.750577,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.32452,
     "mps:longitude":-103.753808,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:spa_x_variant":[
         "L\u00e1zaro C\u00e1rdenas"
-    ],
-    "name:unk_x_variant":[
-        "Lazaro Cardenas"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686587,
         102191575,
@@ -73,7 +72,9 @@
     "wof:concordances":{
         "gn:id":3998706,
         "gp:id":55886260,
-        "qs:id":245196,
+        "qs_pg:id":245196
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":886225
     },
     "wof:country":"MX",
@@ -92,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957714,
+    "wof:lastmodified":1566619601,
     "wof:name":"Lazaro Cardenas",
     "wof:parent_id":101996913,
     "wof:placetype":"neighbourhood",

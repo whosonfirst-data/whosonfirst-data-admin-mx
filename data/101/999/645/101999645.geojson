@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1769603.964639,
+    "geom:area_square_m":1769603.964638,
     "geom:bbox":"-98.172381305,19.0894213522,-98.1535722834,19.1106441249",
     "geom:latitude":19.101295,
     "geom:longitude":-98.162223,
     "iso:country":"MX",
     "lbl:latitude":19.101111,
     "lbl:longitude":-98.162362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.101111,
     "mps:longitude":-98.162362,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "San Aparico"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101999645,
-    "wof:lastmodified":1504309860,
+    "wof:lastmodified":1566632526,
     "wof:name":"San Sebasti\u00e1n de Aparicio",
     "wof:parent_id":102078237,
     "wof:placetype":"locality",

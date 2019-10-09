@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.696249,
     "lbl:longitude":-99.710881,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.696249,
     "mps:longitude":-99.710881,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Quer\u00e9taro",
     "qs:a1_lc":"22",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":121274
     },
     "wof:country":"MX",
-    "wof:geomhash":"6a3648f0ffb61781bfdc0b0d99394ce9",
+    "wof:geomhash":"841ae73cd3663ebbc236c3483c821e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996279,
-    "wof:lastmodified":1479906912,
+    "wof:lastmodified":1566632404,
     "wof:name":"El Palmar (Santa Mar\u00eda del Palmar)",
     "wof:parent_id":102077095,
     "wof:placetype":"locality",

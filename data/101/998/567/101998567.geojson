@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.225988,
     "lbl:longitude":-97.918106,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":22.225988,
     "mps:longitude":-97.918106,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moralillo"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":3522973,
         "gp:id":134083,
-        "qs:id":1045447,
         "qs_pg:id":1045447,
         "wd:id":"Q20253624"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101998567,
-    "wof:lastmodified":1563397061,
+    "wof:lastmodified":1566632222,
     "wof:name":"Moralillo",
     "wof:parent_id":102077651,
     "wof:placetype":"locality",

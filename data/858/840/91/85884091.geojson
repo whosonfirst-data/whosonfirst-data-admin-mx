@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4019625.014629,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.30875,24.169179,-110.30875,24.169179",
     "geom:latitude":24.169179,
     "geom:longitude":-110.30875,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.31375,24.164179,-110.30375,24.174179",
     "lbl:latitude":24.169179,
     "lbl:longitude":-110.30875,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.172911,
     "mps:longitude":-110.31575,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio El Esterito"
-    ],
-    "name:unk_x_variant":[
         "Barrio El Esterito"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
         101994029,
-        102074519,
-        85686555
+        102074519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899871,
-        "qs:id":228660,
         "qs_pg:id":228660
     },
     "wof:country":"MX",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874437,
+    "wof:lastmodified":1566619663,
     "wof:name":"Barrio El Esterito",
     "wof:parent_id":101994029,
     "wof:placetype":"neighbourhood",

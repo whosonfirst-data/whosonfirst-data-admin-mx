@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.028158,
     "lbl:longitude":-98.779236,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.028158,
     "mps:longitude":-98.779236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Atlautla"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Atlautla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Miguel Atlautla"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101992853,
-    "wof:lastmodified":1563398040,
+    "wof:lastmodified":1566632729,
     "wof:name":"Atlautla de Victoria",
     "wof:parent_id":102074197,
     "wof:placetype":"locality",

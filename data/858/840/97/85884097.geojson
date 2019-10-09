@@ -11,8 +11,10 @@
     "geom:longitude":-110.317518,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.322518,24.155441,-110.312518,24.165441",
     "lbl:latitude":24.160441,
     "lbl:longitude":-110.317518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.155277,
     "mps:longitude":-110.31318,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Zona Comercial"
-    ],
-    "name:unk_x_variant":[
         "Zona Comercial"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686555,
         102191575,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899887,
-        "qs:id":1342151,
         "qs_pg:id":1342151
     },
     "wof:country":"MX",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957717,
+    "wof:lastmodified":1566619664,
     "wof:name":"Zona Comercial",
     "wof:parent_id":101994029,
     "wof:placetype":"neighbourhood",

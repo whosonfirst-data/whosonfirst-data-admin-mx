@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9996886.307831,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.878982,16.859194,-99.878982,16.859194",
     "geom:latitude":16.859194,
     "geom:longitude":-99.878982,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.883982,16.854194,-99.873982,16.864194",
     "lbl:latitude":16.859194,
     "lbl:longitude":-99.878982,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.865616,
     "mps:longitude":-99.875702,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Magallanes"
-    ],
-    "name:unk_x_variant":[
         "Fracc Magallanes"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,14 +56,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55888580,
-        "qs:id":581638
+        "qs_pg:id":581638
     },
     "wof:country":"MX",
     "wof:geomhash":"bff6b117ed5fdd4f66453a0d854088f3",
@@ -81,7 +80,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874176,
+    "wof:lastmodified":1566619554,
     "wof:name":"Fracc Magallanes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

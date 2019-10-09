@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6227458.997576,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.113788,23.129467,-101.113788,23.129467",
     "geom:latitude":23.129467,
     "geom:longitude":-101.113788,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.118788,23.124467,-101.108788,23.134467",
     "lbl:latitude":23.129467,
     "lbl:longitude":-101.113788,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.130257,
     "mps:longitude":-101.112671,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Charcas Centro"
-    ],
-    "name:unk_x_variant":[
         "Charcas Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
         101996459,
-        102077223,
-        85686647
+        102077223
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55914885,
-        "qs:id":138870,
         "qs_pg:id":138870
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874708,
+    "wof:lastmodified":1566619595,
     "wof:name":"Charcas Centro",
     "wof:parent_id":101996459,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-102.531386,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.536386,22.761423,-102.526386,22.771423",
     "lbl:latitude":22.766423,
     "lbl:longitude":-102.531386,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.765846,
     "mps:longitude":-102.528119,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Lomas de Bernardez"
-    ],
-    "name:unk_x_variant":[
         "Fracc Lomas de Bernardez"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686567,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900688,
-        "qs:id":1342267,
         "qs_pg:id":1342267
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619564,
     "wof:name":"Fracc Lomas de Bernardez",
     "wof:parent_id":101992875,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11550018.586882,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.261632,25.661578,-100.261632,25.661578",
     "geom:latitude":25.661578,
     "geom:longitude":-100.261632,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.266632,25.656578,-100.256632,25.666578",
     "lbl:latitude":25.661578,
     "lbl:longitude":-100.261632,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.660249,
     "mps:longitude":-100.253732,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Ancon Del Huajuco"
-    ],
-    "name:unk_x_variant":[
         "Ancon Del Huajuco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000723,
-        102078673,
-        85686681
+        102078673
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898414,
-        "qs:id":1341941,
         "qs_pg:id":1341941
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874415,
+    "wof:lastmodified":1566619678,
     "wof:name":"Ancon Del Huajuco",
     "wof:parent_id":102000723,
     "wof:placetype":"neighbourhood",

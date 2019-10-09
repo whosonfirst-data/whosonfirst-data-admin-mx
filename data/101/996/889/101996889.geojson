@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":1037241.49811,
+    "geom:area_square_m":1037241.498108,
     "geom:bbox":"-102.025621551,22.1855899222,-102.014946892,22.201156599",
     "geom:latitude":22.194436,
     "geom:longitude":-102.020064,
     "iso:country":"MX",
     "lbl:latitude":22.193393,
     "lbl:longitude":-102.019699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.193393,
     "mps:longitude":-102.019699,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ci\u00e9naga Grande de Santa Marta"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Ci\u00e9naga Grande de Santa Marta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cienega"
     ],
     "qs:a0":"Mexico",
@@ -54,7 +58,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":101996889,
-    "wof:lastmodified":1501269596,
+    "wof:lastmodified":1566632365,
     "wof:name":"Ci\u00e9nega Grande",
     "wof:parent_id":102077375,
     "wof:placetype":"locality",

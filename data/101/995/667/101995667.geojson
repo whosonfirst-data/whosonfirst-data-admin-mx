@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.812108,
     "lbl:longitude":-96.787529,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":16.812108,
     "mps:longitude":-96.787529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Pablo Huixtepec"
     ],
@@ -55,9 +58,6 @@
     "name:swe_x_preferred":[
         "San Pablo Huixtepec"
     ],
-    "name:unk_x_variant":[
-        "Huixtepec"
-    ],
     "name:vie_x_preferred":[
         "San Pablo Huixtepec"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -91,7 +91,6 @@
         "fct:id":"01b92762-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518128,
         "gp:id":144886,
-        "qs:id":1045414,
         "qs_pg:id":1045414,
         "wd:id":"Q7415059"
     },
@@ -110,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397815,
+    "wof:lastmodified":1566632615,
     "wof:name":"San Pablo Huixtepec",
     "wof:parent_id":102075981,
     "wof:placetype":"locality",

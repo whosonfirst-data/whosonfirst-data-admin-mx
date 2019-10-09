@@ -9,20 +9,22 @@
     "geom:bbox":"-101.96801,22.08837,-101.96801,22.08837",
     "geom:latitude":22.08837,
     "geom:longitude":-101.96801,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":753,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-101.97301,22.08337,-101.96301,22.09337",
     "lbl:latitude":22.08837,
     "lbl:longitude":-101.96801,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Francisco Villa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Francisco Vitta"
     ],
     "qs_pg:aaroncc":"MX",
@@ -46,17 +48,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55896499,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Aguascalientes",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686637,
         102191575,
         85633293,
-        102077375,
-        85686637
+        102077375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1126064321,
-    "wof:lastmodified":1509410348,
+    "wof:lastmodified":1566634178,
     "wof:name":"Francisco Villa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

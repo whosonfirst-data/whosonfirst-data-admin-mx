@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000495,
-    "geom:area_square_m":5757484.359964,
+    "geom:area_square_m":5757484.359968,
     "geom:bbox":"-99.8723172586,19.6616739779,-99.8400095549,19.6973026798",
     "geom:latitude":19.681284,
     "geom:longitude":-99.859426,
@@ -13,11 +13,14 @@
     "iso:country":"MX",
     "lbl:latitude":19.685971,
     "lbl:longitude":-99.859666,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.685971,
     "mps:longitude":-99.859666,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Concepcion de los Ba\u00f1os"
     ],
     "qs:a0":"Mexico",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":3525956,
         "gp:id":127011,
-        "qs:id":245094,
         "qs_pg:id":245094,
         "wd:id":"Q20238702"
     },
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":101992641,
-    "wof:lastmodified":1505338863,
+    "wof:lastmodified":1566632723,
     "wof:name":"La Concepci\u00f3n los Ba\u00f1os",
     "wof:parent_id":102074135,
     "wof:placetype":"locality",

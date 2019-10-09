@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3737244.49301,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.285307,21.53014,-105.285307,21.53014",
     "geom:latitude":21.53014,
     "geom:longitude":-105.285307,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-105.290307,21.52514,-105.280307,21.53514",
     "lbl:latitude":21.53014,
     "lbl:longitude":-105.285307,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.526045,
     "mps:longitude":-105.284111,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     "name:spa_x_preferred":[
         "Teniente Azueta",
         "Petatl\u00e1n"
-    ],
-    "name:unk_x_variant":[
-        "Teniente Azueta"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -68,18 +67,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686591,
         102191575,
         85633293,
         101997019,
-        102074591,
-        85686591
+        102074591
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55912447,
-        "qs:id":1113115,
         "qs_pg:id":1113115
     },
     "wof:country":"MX",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874694,
+    "wof:lastmodified":1566619592,
     "wof:name":"Teniente Azueta",
     "wof:parent_id":101997019,
     "wof:placetype":"neighbourhood",

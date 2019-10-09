@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.128011,
     "lbl:longitude":-101.111326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":23.128011,
     "mps:longitude":-101.111326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Charcas"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,6 @@
         "fct:id":"01b80b0c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4014501,
         "gp:id":115706,
-        "qs:id":347250,
         "qs_pg:id":347250,
         "wd:id":"Q8344891"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397446,
+    "wof:lastmodified":1566632418,
     "wof:name":"Charcas",
     "wof:parent_id":102077223,
     "wof:placetype":"locality",

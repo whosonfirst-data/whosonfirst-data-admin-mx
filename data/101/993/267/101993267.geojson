@@ -9,10 +9,12 @@
     "geom:bbox":"-99.3005909153,18.8621896224,-99.1805389585,19.0015735971",
     "geom:latitude":18.939961,
     "geom:longitude":-99.229016,
-    "geonames:id":"3514871,3529947",
+    "gn:id":"3514871,3529947",
     "iso:country":"MX",
     "lbl:latitude":18.935064,
     "lbl:longitude":-99.224954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.935064,
     "mps:longitude":-99.224954,
     "mz:hierarchy_label":1,
@@ -277,7 +279,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -302,7 +304,7 @@
         }
     ],
     "wof:id":101993267,
-    "wof:lastmodified":1564171401,
+    "wof:lastmodified":1566632770,
     "wof:name":"Cuernavaca",
     "wof:parent_id":102074237,
     "wof:placetype":"locality",

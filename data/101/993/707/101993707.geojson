@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.709596,
     "lbl:longitude":-108.326323,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":26.709596,
     "mps:longitude":-108.326323,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Choix"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Choix"
     ],
-    "name:unk_x_variant":[
-        "Villa Choix"
-    ],
     "name:vie_x_preferred":[
         "Choix"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +101,6 @@
         "fct:id":"01b81340-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4014109,
         "gp:id":116167,
-        "qs:id":151429,
         "qs_pg:id":151429,
         "wd:id":"Q1075824",
         "wk:page":"Choix"
@@ -121,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398087,
+    "wof:lastmodified":1566632754,
     "wof:name":"Choix",
     "wof:parent_id":102074329,
     "wof:placetype":"locality",

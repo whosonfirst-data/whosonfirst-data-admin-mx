@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":1161500.845409,
+    "geom:area_square_m":1161500.845408,
     "geom:bbox":"-99.1604999187,19.3681584645,-99.1461181641,19.3837046284",
     "geom:latitude":19.375529,
     "geom:longitude":-99.153333,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.379293,
     "lbl:longitude":-99.156598,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.376562,
     "mps:longitude":-99.154423,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     "name:spa_x_preferred":[
         "Letran Valle",
         "Divisi\u00f3n del Norte"
-    ],
-    "name:unk_x_variant":[
-        "Letran Valle"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -59,7 +57,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -72,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897933,
-        "qs:id":1091875
+        "qs_pg:id":1091875
     },
     "wof:country":"MX",
     "wof:geomhash":"60a78b3bbed0f3b034cbb8819d83e4e2",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270507,
+    "wof:lastmodified":1566619698,
     "wof:name":"Letran Valle",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15124714.133937,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.404644,19.107615,-104.404644,19.107615",
     "geom:latitude":19.107615,
     "geom:longitude":-104.404644,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.409644,19.102615,-104.399644,19.112615",
     "lbl:latitude":19.107615,
     "lbl:longitude":-104.404644,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.104867,
     "mps:longitude":-104.40279,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Puesta de Sol"
-    ],
-    "name:unk_x_variant":[
         "Puesta de Sol"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686587,
         102191575,
         85633293,
-        102074529,
-        85686587
+        102074529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891719,
-        "qs:id":996305
+        "qs_pg:id":996305
     },
     "wof:country":"MX",
     "wof:geomhash":"c07042ab0b21a43f13666ab4502b3446",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874252,
+    "wof:lastmodified":1566619681,
     "wof:name":"Puesta de Sol",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

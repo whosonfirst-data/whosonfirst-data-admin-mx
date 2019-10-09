@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.700132,
     "lbl:longitude":-100.477338,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.700132,
     "mps:longitude":-100.477338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Irimbo"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -74,7 +77,6 @@
         "fct:id":"01b86778-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4025093,
         "gp:id":125439,
-        "qs:id":1047677,
         "qs_pg:id":1047677,
         "wd:id":"Q20283867"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397621,
+    "wof:lastmodified":1566632505,
     "wof:name":"Irimbo",
     "wof:parent_id":102074999,
     "wof:placetype":"locality",

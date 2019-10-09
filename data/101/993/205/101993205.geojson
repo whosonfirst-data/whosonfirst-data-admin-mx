@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.615356,
     "lbl:longitude":-98.929594,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.615356,
     "mps:longitude":-98.929594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tepexpan"
     ],
@@ -43,7 +46,7 @@
     "name:spa_x_preferred":[
         "Tepexpan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tepexnan"
     ],
     "qs:a0":"Mexico",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":327,
     "wof:belongsto":[
         102191575,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101993205,
-    "wof:lastmodified":1561750601,
+    "wof:lastmodified":1566632774,
     "wof:name":"Tepexpan",
     "wof:parent_id":102074223,
     "wof:placetype":"locality",

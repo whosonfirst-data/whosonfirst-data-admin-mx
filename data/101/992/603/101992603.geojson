@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00043,
-    "geom:area_square_m":4991799.401517,
+    "geom:area_square_m":4991799.401474,
     "geom:bbox":"-99.6300403718,19.9649725654,-99.5933812331,20.0018708057",
     "geom:latitude":19.981899,
     "geom:longitude":-99.610696,
-    "geonames:id":"3827113,3827101,3531697",
+    "gn:id":"3827113,3827101,3531697",
     "iso:country":"MX",
     "lbl:latitude":19.979676,
     "lbl:longitude":-99.605829,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.979676,
     "mps:longitude":-99.605829,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Canalejas de Pe\u00f1afiel"
     ],
@@ -61,7 +65,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -73,7 +77,7 @@
         "gp:id":114599
     },
     "wof:country":"MX",
-    "wof:geomhash":"8426745a22e8c1301d3720cad8fd4430",
+    "wof:geomhash":"73fd8a8fa58304e04df7cb9b9c94c522",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":101992603,
-    "wof:lastmodified":1479930359,
+    "wof:lastmodified":1566632692,
     "wof:name":"Canalejas",
     "wof:parent_id":102074131,
     "wof:placetype":"locality",

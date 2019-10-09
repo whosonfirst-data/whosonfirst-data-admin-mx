@@ -10,8 +10,10 @@
     "geom:latitude":17.995485,
     "geom:longitude":-92.912888,
     "iso:country":"MX",
+    "lbl:bbox":"-92.917888,17.990485,-92.907888,18.000485",
     "lbl:latitude":17.995485,
     "lbl:longitude":-92.912888,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.999653,
     "mps:longitude":-92.904661,
     "mz:hierarchy_label":0,
@@ -84,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041c\u0430\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Manga"
-    ],
     "name:war_x_preferred":[
         "La Manga del Mar Menor"
     ],
@@ -119,7 +118,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":390,
     "wof:belongsto":[
         85686617,
@@ -132,7 +131,6 @@
     "wof:concordances":{
         "gn:id":3802185,
         "gp:id":55888570,
-        "qs:id":531222,
         "qs_pg:id":531222
     },
     "wof:country":"MX",
@@ -151,7 +149,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147149,
+    "wof:lastmodified":1566619551,
     "wof:name":"La Manga",
     "wof:parent_id":101994837,
     "wof:placetype":"neighbourhood",

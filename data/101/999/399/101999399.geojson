@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":3127599.364864,
+    "geom:area_square_m":3127599.364861,
     "geom:bbox":"-98.5028424174,19.1910962553,-98.4835053158,19.2151419203",
     "geom:latitude":19.20326,
     "geom:longitude":-98.491685,
     "iso:country":"MX",
     "lbl:latitude":19.204441,
     "lbl:longitude":-98.491025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.204441,
     "mps:longitude":-98.491025,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55888888
     },
     "wof:country":"MX",
-    "wof:geomhash":"0005ac0de70ce9266bb54854a5c4f9d2",
+    "wof:geomhash":"08af13d477479b096f0d1f0ee1dbb038",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999399,
-    "wof:lastmodified":1479907752,
+    "wof:lastmodified":1566632517,
     "wof:name":"San Nicol\u00e1s Zecalacoayan",
     "wof:parent_id":102078095,
     "wof:placetype":"locality",

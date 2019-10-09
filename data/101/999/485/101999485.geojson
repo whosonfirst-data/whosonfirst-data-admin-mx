@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":3454023.084064,
+    "geom:area_square_m":3454023.08407,
     "geom:bbox":"-98.0002381006,20.1975063146,-97.9674380323,20.2121412657",
     "geom:latitude":20.205713,
     "geom:longitude":-97.980952,
     "iso:country":"MX",
     "lbl:latitude":20.205771,
     "lbl:longitude":-97.978993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.205771,
     "mps:longitude":-97.978993,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55905100
     },
     "wof:country":"MX",
-    "wof:geomhash":"73f487f7e22c569f5ae6276401a6f912",
+    "wof:geomhash":"b3c4c5dc14bbeda42ba001d79bd52115",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999485,
-    "wof:lastmodified":1479908020,
+    "wof:lastmodified":1566632522,
     "wof:name":"Tenango de las Flores",
     "wof:parent_id":102078147,
     "wof:placetype":"locality",

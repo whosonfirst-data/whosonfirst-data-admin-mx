@@ -9,14 +9,17 @@
     "geom:bbox":"-99.193280716,19.5751820133,-99.1522916984,19.6335932168",
     "geom:latitude":19.604964,
     "geom:longitude":-99.173686,
-    "geonames:id":"3827606,3827589",
+    "gn:id":"3827606,3827589",
     "iso:country":"MX",
     "lbl:latitude":19.607014,
     "lbl:longitude":-99.169978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.607014,
     "mps:longitude":-99.169978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09af\u09bc\u09c7\u09a8\u09be\u09ac\u09bf\u09b8\u09cd\u09a4\u09be"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101991633,
-    "wof:lastmodified":1563397237,
+    "wof:lastmodified":1566632308,
     "wof:name":"Buenavista",
     "wof:parent_id":102074003,
     "wof:placetype":"locality",

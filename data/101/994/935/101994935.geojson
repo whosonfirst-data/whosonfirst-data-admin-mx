@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.159047,
     "lbl:longitude":-92.784128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.159047,
     "mps:longitude":-92.784128,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Tamulte de las Sabanas"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -56,9 +59,11 @@
     "wof:concordances":{
         "gn:id":3520164,
         "gp:id":141012,
-        "qs:id":1203948,
         "qs_pg:id":281337,
         "wd:id":"Q20228482"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1203948
     },
     "wof:country":"MX",
     "wof:geomhash":"4e81ede33294f8c8eaac37c9885c55c3",
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":101994935,
-    "wof:lastmodified":1563398313,
+    "wof:lastmodified":1566632872,
     "wof:name":"Tamult\u00e9 de las Sabanas",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.818967,
     "lbl:longitude":-100.725327,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.818967,
     "mps:longitude":-100.725327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Cedral"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -96,7 +99,6 @@
         "fct:id":"01b80486-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4014914,
         "gp:id":115243,
-        "qs:id":1191309,
         "qs_pg:id":1191309,
         "wd:id":"Q3049785"
     },
@@ -115,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397391,
+    "wof:lastmodified":1566632391,
     "wof:name":"Cedral",
     "wof:parent_id":102077241,
     "wof:placetype":"locality",

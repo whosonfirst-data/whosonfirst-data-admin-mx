@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":2908171.711318,
+    "geom:area_square_m":2908171.711315,
     "geom:bbox":"-93.9177849072,18.1604459747,-93.8939063287,18.1835158843",
     "geom:latitude":18.172467,
     "geom:longitude":-93.907044,
     "iso:country":"MX",
     "lbl:latitude":18.173147,
     "lbl:longitude":-93.907229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.173147,
     "mps:longitude":-93.907229,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895528
     },
     "wof:country":"MX",
-    "wof:geomhash":"e1382be3e061adfce3d02126cbfd751b",
+    "wof:geomhash":"e61bda6d4c2a6ac737aa61d709e415e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994917,
-    "wof:lastmodified":1479904397,
+    "wof:lastmodified":1566632902,
     "wof:name":"Benito Ju\u00e1rez (Campo Magallanes)",
     "wof:parent_id":102075779,
     "wof:placetype":"locality",

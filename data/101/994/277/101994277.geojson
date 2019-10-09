@@ -13,18 +13,18 @@
     "iso:country":"MX",
     "lbl:latitude":26.935705,
     "lbl:longitude":-105.392476,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":26.935705,
     "mps:longitude":-105.392476,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "Allende"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u0459\u0435 \u0434\u0435 \u0418\u0433\u043d\u0430\u0441\u0438\u043e \u0410\u0459\u0435\u043d\u0434\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Allende"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Chihuahua",
@@ -43,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -56,7 +56,6 @@
         "fct:id":"01b06ba4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980627,
         "gp:id":111870,
-        "qs:id":1251047,
         "qs_pg:id":1251047,
         "wd:id":"Q20217533"
     },
@@ -75,7 +74,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398328,
+    "wof:lastmodified":1566632880,
     "wof:name":"Valle de Ignacio Allende",
     "wof:parent_id":102075287,
     "wof:placetype":"locality",

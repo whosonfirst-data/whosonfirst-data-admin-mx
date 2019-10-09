@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":662204.707079,
+    "geom:area_square_m":662204.707083,
     "geom:bbox":"-96.7056541626,19.55895719,-96.696048582,19.5687766242",
     "geom:latitude":19.56474,
     "geom:longitude":-96.70063,
     "iso:country":"MX",
     "lbl:latitude":19.565155,
     "lbl:longitude":-96.700536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.565155,
     "mps:longitude":-96.700536,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mesa de Guadalupe"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,7 +51,7 @@
         "gp:id":55911235
     },
     "wof:country":"MX",
-    "wof:geomhash":"43c142b3847d42f04c725a66de4dd743",
+    "wof:geomhash":"61bb9f8449b30cfceb1ef0c9431de01c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +65,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1479906901,
+    "wof:lastmodified":1566632220,
     "wof:name":"Mesa de Guadalupe",
     "wof:parent_id":102077403,
     "wof:placetype":"locality",

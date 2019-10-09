@@ -10,8 +10,10 @@
     "geom:latitude":19.523961,
     "geom:longitude":-96.920999,
     "iso:country":"MX",
+    "lbl:bbox":"-96.925999,19.518961,-96.915999,19.528961",
     "lbl:latitude":19.523961,
     "lbl:longitude":-96.920999,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.518353,
     "mps:longitude":-96.926429,
     "mz:hierarchy_label":0,
@@ -38,9 +40,8 @@
     "name:spa_x_preferred":[
         "Felipe Carrillo Puerto"
     ],
-    "name:unk_x_variant":[
-        "Paso Largo",
-        "Felipe Carrillo Puerto"
+    "name:und_x_variant":[
+        "Paso Largo"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -69,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686671,
         102191575,
@@ -81,8 +82,10 @@
     "wof:concordances":{
         "gn:id":3522924,
         "gp:id":55897669,
-        "qs:id":233575,
         "qs_pg:id":207756
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":233575
     },
     "wof:country":"MX",
     "wof:geomhash":"146fa5ee69e2c9d02d2ccdbc3cd5cc37",
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147358,
+    "wof:lastmodified":1566619701,
     "wof:name":"Felipe Carrillo Puerto",
     "wof:parent_id":101998437,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2271244.931641,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.060974,19.489897,-99.060974,19.489897",
     "geom:latitude":19.489897,
     "geom:longitude":-99.060974,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.065974,19.484897,-99.055974,19.494897",
     "lbl:latitude":19.489897,
     "lbl:longitude":-99.060974,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.49144,
     "mps:longitude":-99.062379,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:spa_x_preferred":[
         "Valle de Aragon",
         "R\u00edo de los Remedios"
-    ],
-    "name:unk_x_variant":[
-        "Valle de Aragon"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -61,18 +60,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101992489,
-        102074107,
-        85686527
+        102074107
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889049,
-        "qs:id":997078
+        "qs_pg:id":997078
     },
     "wof:country":"MX",
     "wof:geomhash":"6b6b95b4cdb9513af8897d0e2a30ac01",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874196,
+    "wof:lastmodified":1566619700,
     "wof:name":"Valle de Aragon",
     "wof:parent_id":101992489,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,17 @@
     "geom:bbox":"-104.26415,20.87417,-104.26415,20.87417",
     "geom:latitude":20.87417,
     "geom:longitude":-104.26415,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-104.26915,20.86917,-104.25915,20.87917",
     "lbl:latitude":20.87417,
     "lbl:longitude":-104.26415,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "El Rodeo"
@@ -33,7 +36,7 @@
     "name:swe_x_preferred":[
         "El Rodeo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rodeo del Taray"
     ],
     "qs_pg:aaroncc":"MX",
@@ -57,7 +60,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55900430,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Nayarit",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126077799,
-    "wof:lastmodified":1564173920,
+    "wof:lastmodified":1566634231,
     "wof:name":"El Rodeo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

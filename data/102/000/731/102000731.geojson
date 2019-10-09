@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.891884,
     "lbl:longitude":-100.110708,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":25.891884,
     "mps:longitude":-100.110708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "General Zuazua"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "General Zuazua"
     ],
-    "name:unk_x_variant":[
-        "Zuazua"
-    ],
     "name:vie_x_preferred":[
         "General Zuazua"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":503,
     "wof:belongsto":[
@@ -101,7 +101,6 @@
         "fct:id":"01b851de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4005856,
         "gp:id":123997,
-        "qs:id":363877,
         "qs_pg:id":363877,
         "wd:id":"Q996738",
         "wk:page":"General Zuazua"
@@ -121,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369644,
+    "wof:lastmodified":1566615659,
     "wof:name":"General Zuazua",
     "wof:parent_id":102078699,
     "wof:placetype":"locality",

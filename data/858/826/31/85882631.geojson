@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4647473.996919,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.134099,25.399508,-100.134099,25.399508",
     "geom:latitude":25.399508,
     "geom:longitude":-100.134099,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.139099,25.394508,-100.129099,25.404508",
     "lbl:latitude":25.399508,
     "lbl:longitude":-100.134099,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.400744,
     "mps:longitude":-100.134013,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Los Pescadores"
-    ],
-    "name:unk_x_variant":[
         "Los Pescadores"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686681,
         102191575,
         85633293,
         102000647,
-        102078681,
-        85686681
+        102078681
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55884343,
-        "qs:id":1012132,
         "qs_pg:id":1012132
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874070,
+    "wof:lastmodified":1566619576,
     "wof:name":"Los Pescadores",
     "wof:parent_id":102000647,
     "wof:placetype":"neighbourhood",

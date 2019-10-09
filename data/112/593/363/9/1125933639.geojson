@@ -9,15 +9,18 @@
     "geom:bbox":"-99.05384,19.68921,-99.05384,19.68921",
     "geom:latitude":19.68921,
     "geom:longitude":-99.05384,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5859,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":5859,
     "iso:country":"MX",
+    "lbl:bbox":"-99.07384,19.66921,-99.03384,19.70921",
     "lbl:latitude":19.68921,
     "lbl:longitude":-99.05384,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Tonanitla"
@@ -97,7 +100,7 @@
     "name:swe_x_preferred":[
         "Tonanitla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Mar\u00eda Tonanitla"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +127,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":146611,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1125933639,
-    "wof:lastmodified":1563400042,
+    "wof:lastmodified":1566633876,
     "wof:name":"Santa Martha Acatitla",
     "wof:parent_id":102073967,
     "wof:placetype":"locality",

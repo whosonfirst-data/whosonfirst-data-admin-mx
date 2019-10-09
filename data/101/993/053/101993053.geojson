@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.030466,
     "lbl:longitude":-100.723038,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":20.030466,
     "mps:longitude":-100.723038,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:cat_x_preferred":[
         "Ac\u00e1mbaro"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -116,7 +119,6 @@
         "fct:id":"01b7c728-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4019827,
         "gp:id":110961,
-        "qs:id":663919,
         "qs_pg:id":663919,
         "wd:id":"Q947689",
         "wk:page":"Ac\u00e1mbaro"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398112,
+    "wof:lastmodified":1566632767,
     "wof:name":"Ac\u00e1mbaro",
     "wof:parent_id":102077309,
     "wof:placetype":"locality",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":798911.16473,
+    "geom:area_square_m":798911.164731,
     "geom:bbox":"-103.454563903,20.8119151312,-103.438477369,20.8223744423",
     "geom:latitude":20.818689,
     "geom:longitude":-103.447175,
     "iso:country":"MX",
     "lbl:latitude":20.819544,
     "lbl:longitude":-103.445288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.819544,
     "mps:longitude":-103.445288,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Las Palomas"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101997651,
-    "wof:lastmodified":1501268844,
+    "wof:lastmodified":1566632453,
     "wof:name":"Fraccionamiento Campestre las Palomas",
     "wof:parent_id":102074709,
     "wof:placetype":"locality",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":884173.049547,
+    "geom:area_square_m":884173.049549,
     "geom:bbox":"-105.285382618,21.860748719,-105.274357114,21.8728234561",
     "geom:latitude":21.866606,
     "geom:longitude":-105.279582,
     "iso:country":"MX",
     "lbl:latitude":21.866609,
     "lbl:longitude":-105.279668,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.866609,
     "mps:longitude":-105.279668,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ibarra"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101997003,
-    "wof:lastmodified":1497292846,
+    "wof:lastmodified":1566632491,
     "wof:name":"Pozo de Ibarra",
     "wof:parent_id":102074587,
     "wof:placetype":"locality",

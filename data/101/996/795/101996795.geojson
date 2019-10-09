@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.999734,
     "lbl:longitude":-100.518775,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.999734,
     "mps:longitude":-100.518775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Tarandacuao"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -95,7 +98,6 @@
         "fct:id":"01b96682-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3982401,
         "gp:id":148306,
-        "qs:id":1246698,
         "qs_pg:id":1246698,
         "wd:id":"Q2651312",
         "wk:page":"Tarandacuao"
@@ -115,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397411,
+    "wof:lastmodified":1566632401,
     "wof:name":"Tarandacuao",
     "wof:parent_id":102077303,
     "wof:placetype":"locality",

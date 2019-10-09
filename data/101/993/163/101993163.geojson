@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.128693,
     "lbl:longitude":-98.764657,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.128693,
     "mps:longitude":-98.764657,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:jpn_x_preferred":[
         "\u30a2\u30e1\u30ab\u30e1\u30ab"
     ],
@@ -32,7 +35,7 @@
     "name:srp_x_preferred":[
         "\u0410\u043c\u0435\u043a\u0430\u043c\u0435\u043a\u0430 \u0434\u0435 \u0425\u0443\u0430\u0440\u0435\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amecameca"
     ],
     "qs:a0":"Mexico",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -65,9 +68,11 @@
         "fct:id":"01b7dab0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532899,
         "gp:id":112073,
-        "qs:id":242578,
-        "qs_pg:id":1074073,
+        "qs_pg:id":242578,
         "wd:id":"Q20135612"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074073
     },
     "wof:country":"MX",
     "wof:geomhash":"0e61e42abe9b785bbb8946dc1c9c97e7",
@@ -84,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398154,
+    "wof:lastmodified":1566632789,
     "wof:name":"Amecameca de Ju\u00e1rez",
     "wof:parent_id":102074209,
     "wof:placetype":"locality",

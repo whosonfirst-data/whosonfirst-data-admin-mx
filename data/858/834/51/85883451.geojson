@@ -11,8 +11,10 @@
     "geom:longitude":-98.139494,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.144494,19.412145,-98.134494,19.422145",
     "lbl:latitude":19.417145,
     "lbl:longitude":-98.139494,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.41681,
     "mps:longitude":-98.139379,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Apizaco Centro"
-    ],
-    "name:unk_x_variant":[
         "Apizaco Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686653,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895117,
-        "qs:id":1341419,
         "qs_pg:id":1341419
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619621,
     "wof:name":"Apizaco Centro",
     "wof:parent_id":101999197,
     "wof:placetype":"neighbourhood",

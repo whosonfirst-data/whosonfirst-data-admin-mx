@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":633018.067606,
+    "geom:area_square_m":633018.067605,
     "geom:bbox":"-99.1738272818,19.3907893201,-99.1616244821,19.3992492729",
     "geom:latitude":19.394566,
     "geom:longitude":-99.167913,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.394029,
     "lbl:longitude":-99.169917,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.394068,
     "mps:longitude":-99.168327,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Del Valle Norte"
-    ],
-    "name:unk_x_variant":[
         "Del Valle Norte"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897701,
-        "qs:id":1155320
+        "qs_pg:id":1155320
     },
     "wof:country":"MX",
     "wof:geomhash":"2a5b07315d9d56998e62f20884cae0f5",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270477,
+    "wof:lastmodified":1566619685,
     "wof:name":"Del Valle Norte",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

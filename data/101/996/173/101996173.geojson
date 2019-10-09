@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.726002,
     "lbl:longitude":-97.53614,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":17.726002,
     "mps:longitude":-97.53614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Teotongo"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,6 @@
         "fct:id":"01af08fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3801070,
         "gp:id":147111,
-        "qs:id":180403,
         "qs_pg:id":180403,
         "wd:id":"Q3891062",
         "wk:page":"Teotongo"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397372,
+    "wof:lastmodified":1566632383,
     "wof:name":"Teotongo",
     "wof:parent_id":102076237,
     "wof:placetype":"locality",

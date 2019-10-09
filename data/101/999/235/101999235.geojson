@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":18.206326,
     "lbl:longitude":-98.046203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":18.206326,
     "mps:longitude":-98.046203,
     "mz:hierarchy_label":1,
@@ -51,9 +53,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u043a\u0430\u0442\u043b\u0430\u043d \u0434\u0435 \u041e\u0441\u043e\u0440\u0438\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Acatl\u00e1n"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -164,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":227,
     "wof:belongsto":[
@@ -178,7 +177,6 @@
         "fct:id":"01ae8032-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3533440,
         "gp:id":111020,
-        "qs:id":1165513,
         "qs_pg:id":1165513,
         "wd:id":"Q2651821",
         "wk:page":"Acatl\u00e1n de Osorio"
@@ -198,7 +196,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397671,
+    "wof:lastmodified":1566632533,
     "wof:name":"Acatl\u00e1n de Osorio",
     "wof:parent_id":102078671,
     "wof:placetype":"locality",

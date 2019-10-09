@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":1275086.157435,
+    "geom:area_square_m":1275086.157446,
     "geom:bbox":"-101.134092563,19.6802406637,-101.113225506,19.6954303049",
     "geom:latitude":19.687537,
     "geom:longitude":-101.125198,
     "iso:country":"MX",
     "lbl:latitude":19.687957,
     "lbl:longitude":-101.125358,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.687957,
     "mps:longitude":-101.125358,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "\u00c1lvaro Obreg\u00f3n"
     ],
@@ -45,7 +49,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         "gp:id":56075258
     },
     "wof:country":"MX",
-    "wof:geomhash":"15381dcda3a4aacfc8410a07131575f4",
+    "wof:geomhash":"27bbc615ad49fe9c9e5f87f1e5ba5f23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":101997307,
-    "wof:lastmodified":1479904076,
+    "wof:lastmodified":1566632431,
     "wof:name":"Puerto de Buenavista (L\u00e1zaro C\u00e1rdenas)",
     "wof:parent_id":102075017,
     "wof:placetype":"locality",

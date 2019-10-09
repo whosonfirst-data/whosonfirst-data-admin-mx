@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":798983.469514,
+    "geom:area_square_m":798983.469512,
     "geom:bbox":"-98.0656927256,19.0897789794,-98.0527053235,19.0997445213",
     "geom:latitude":19.094882,
     "geom:longitude":-98.060074,
     "iso:country":"MX",
     "lbl:latitude":19.095396,
     "lbl:longitude":-98.059975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.095396,
     "mps:longitude":-98.059975,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":117176
     },
     "wof:country":"MX",
-    "wof:geomhash":"27565a215065414fe22a1f3d1128b78a",
+    "wof:geomhash":"3529af80cc358f4a2e2f1a958f588b34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999275,
-    "wof:lastmodified":1479908276,
+    "wof:lastmodified":1566632530,
     "wof:name":"Concepci\u00f3n Capulac (La Ex-Hacienda)",
     "wof:parent_id":102078025,
     "wof:placetype":"locality",

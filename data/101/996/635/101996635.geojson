@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1515001.531805,
+    "geom:area_square_m":1515001.531806,
     "geom:bbox":"-101.346971044,20.7583673154,-101.329963378,20.7741456576",
     "geom:latitude":20.765025,
     "geom:longitude":-101.339652,
     "iso:country":"MX",
     "lbl:latitude":20.76401,
     "lbl:longitude":-101.338945,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.76401,
     "mps:longitude":-101.338945,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Guanajuato",
     "qs:a1_lc":"11",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895020
     },
     "wof:country":"MX",
-    "wof:geomhash":"0021d0e6512df03cc56f3f625522018a",
+    "wof:geomhash":"366fd543b9911bd38f81be58906a7eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996635,
-    "wof:lastmodified":1479906826,
+    "wof:lastmodified":1566632378,
     "wof:name":"Lo de Ju\u00e1rez",
     "wof:parent_id":102077341,
     "wof:placetype":"locality",

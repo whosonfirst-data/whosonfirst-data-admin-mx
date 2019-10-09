@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9703644.754577,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.455311,20.706789,-100.455311,20.706789",
     "geom:latitude":20.706789,
     "geom:longitude":-100.455311,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.460311,20.701789,-100.450311,20.711789",
     "lbl:latitude":20.706789,
     "lbl:longitude":-100.455311,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.710737,
     "mps:longitude":-100.453672,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Jurica Acueducto"
-    ],
-    "name:unk_x_variant":[
         "Fracc Jurica Acueducto"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996375,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894321,
-        "qs:id":469636,
         "qs_pg:id":469636
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874317,
+    "wof:lastmodified":1566619615,
     "wof:name":"Fracc Jurica Acueducto",
     "wof:parent_id":101996375,
     "wof:placetype":"neighbourhood",

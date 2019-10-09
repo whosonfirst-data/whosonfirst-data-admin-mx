@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":23.922987,
     "lbl:longitude":-106.891804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":23.922987,
     "mps:longitude":-106.891804,
     "mz:hierarchy_label":1,
@@ -166,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":165,
     "wof:belongsto":[
@@ -179,10 +181,12 @@
     "wof:concordances":{
         "gn:id":3525925,
         "gp:id":127107,
-        "qs:id":859532,
         "qs_pg:id":322056,
         "wd:id":"Q2012391",
         "wk:page":"La Cruz, Sinaloa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":859532
     },
     "wof:country":"MX",
     "wof:geomhash":"71bd59ee173f77c7a82e6e3d648f91df",
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":101993705,
-    "wof:lastmodified":1563398145,
+    "wof:lastmodified":1566632784,
     "wof:name":"La Cruz",
     "wof:parent_id":102074327,
     "wof:placetype":"locality",

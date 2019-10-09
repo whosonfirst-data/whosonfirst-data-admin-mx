@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.865052,
     "lbl:longitude":-97.887932,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.865052,
     "mps:longitude":-97.887932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tlanepantla"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Tlanepantla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Isabel Tlanepantla"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,9 +86,11 @@
         "fct:id":"01b98af4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3515434,
         "gp:id":149631,
-        "qs:id":73632,
-        "qs_pg:id":1070186,
+        "qs_pg:id":73632,
         "wd:id":"Q7810708"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1070186
     },
     "wof:country":"MX",
     "wof:geomhash":"6d74f71f906dc8b0bd199789dc682cf7",
@@ -102,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397694,
+    "wof:lastmodified":1566632547,
     "wof:name":"Tlanepantla",
     "wof:parent_id":102078385,
     "wof:placetype":"locality",

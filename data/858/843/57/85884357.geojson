@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3387293.401995,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-107.40509,24.830778,-107.40509,24.830778",
     "geom:latitude":24.830778,
     "geom:longitude":-107.40509,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-107.41009,24.825778,-107.40009,24.835778",
     "lbl:latitude":24.830778,
     "lbl:longitude":-107.40509,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.835361,
     "mps:longitude":-107.405143,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Stase Iii"
-    ],
-    "name:unk_x_variant":[
         "Fracc Stase Iii"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686535,
         102191575,
         85633293,
         101993731,
-        102074307,
-        85686535
+        102074307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903125,
-        "qs:id":139059,
         "qs_pg:id":139059
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874512,
+    "wof:lastmodified":1566619580,
     "wof:name":"Fracc Stase Iii",
     "wof:parent_id":101993731,
     "wof:placetype":"neighbourhood",

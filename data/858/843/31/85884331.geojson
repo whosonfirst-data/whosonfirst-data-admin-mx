@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
-    "geom:area_square_m":304964.45612,
+    "geom:area_square_m":304964.456122,
     "geom:bbox":"-99.1914367676,19.3292866926,-99.1873168945,19.3370618011",
     "geom:latitude":19.333174,
     "geom:longitude":-99.189061,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.33249,
     "lbl:longitude":-99.188499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.333174,
     "mps:longitude":-99.189306,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Conjunto Res Insurgentes San Angel"
-    ],
-    "name:unk_x_variant":[
         "Conjunto Res Insurgentes San Angel"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -72,8 +70,10 @@
     "wof:concordances":{
         "gn:id":3985595,
         "gp:id":55892095,
-        "qs:id":899370,
         "qs_pg:id":775914
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":899370
     },
     "wof:country":"MX",
     "wof:geomhash":"c57151f498368cdf305e42f8c9208451",
@@ -101,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527269997,
+    "wof:lastmodified":1566619582,
     "wof:name":"Conjunto Res Insurgentes San Angel",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

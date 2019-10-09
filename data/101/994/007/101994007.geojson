@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":29.376096,
     "lbl:longitude":-110.901016,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":29.376096,
     "mps:longitude":-110.901016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pesqueira"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3992858,
         "gp:id":136521,
-        "qs:id":151325,
         "qs_pg:id":151325,
         "wd:id":"Q20262731"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101994007,
-    "wof:lastmodified":1563398274,
+    "wof:lastmodified":1566632849,
     "wof:name":"Pesqueira",
     "wof:parent_id":102074487,
     "wof:placetype":"locality",

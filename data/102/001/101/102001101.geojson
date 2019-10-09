@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
-    "geom:area_square_m":2399084.17141,
+    "geom:area_square_m":2399084.171408,
     "geom:bbox":"-89.1350176703,20.9254196059,-89.113237075,20.9431541235",
     "geom:latitude":20.933807,
     "geom:longitude":-89.124111,
@@ -14,9 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.933336,
     "lbl:longitude":-89.124274,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.933336,
     "mps:longitude":-89.124274,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Kimbila"
     ],
@@ -35,7 +39,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3526287,
         "gp:id":126278,
-        "qs:id":180188
+        "qs_pg:id":180188
     },
     "wof:country":"MX",
     "wof:geomhash":"c48db0228c5d8d6b10fbdfbe63fc7e85",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102001101,
-    "wof:lastmodified":1501267455,
+    "wof:lastmodified":1566615747,
     "wof:name":"Kimbil\u00e1",
     "wof:parent_id":102079041,
     "wof:placetype":"locality",

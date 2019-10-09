@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.418806,
     "lbl:longitude":-96.248387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.418806,
     "mps:longitude":-96.248387,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santiago Lalopa"
     ],
@@ -55,9 +58,6 @@
     "name:swe_x_preferred":[
         "Santiago Lalopa"
     ],
-    "name:unk_x_variant":[
-        "Lalopa"
-    ],
     "name:vie_x_preferred":[
         "Santiago Lalopa"
     ],
@@ -76,7 +76,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397849,
+    "wof:lastmodified":1566632632,
     "wof:name":"Santiago Lalopa",
     "wof:parent_id":102076613,
     "wof:placetype":"locality",

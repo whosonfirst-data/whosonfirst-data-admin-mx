@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.187551,
     "lbl:longitude":-96.618346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.187551,
     "mps:longitude":-96.618346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santa Luc\u00eda Miahuatl\u00e1n"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -87,7 +90,6 @@
         "fct:id":"01bb1158-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517363,
         "gp:id":146348,
-        "qs:id":180397,
         "qs_pg:id":180397,
         "wd:id":"Q7419652",
         "wk:page":"Santa Luc\u00eda Miahuatl\u00e1n"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398007,
+    "wof:lastmodified":1566632709,
     "wof:name":"Santa Luc\u00eda Miahuatl\u00e1n",
     "wof:parent_id":102076557,
     "wof:placetype":"locality",

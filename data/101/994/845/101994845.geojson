@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":417998.430876,
+    "geom:area_square_m":417998.430877,
     "geom:bbox":"-92.8711688764,18.1084718092,-92.8653391417,18.1181835595",
     "geom:latitude":18.112569,
     "geom:longitude":-92.868497,
     "iso:country":"MX",
     "lbl:latitude":18.112478,
     "lbl:longitude":-92.868733,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.112478,
     "mps:longitude":-92.868733,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tabasco",
     "qs:a1_lc":"27",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55896267
     },
     "wof:country":"MX",
-    "wof:geomhash":"e3e6c8bf8a0556b7534d89f81106acf6",
+    "wof:geomhash":"a685ae8f5a049a82cb38cb96514fa339",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994845,
-    "wof:lastmodified":1479904114,
+    "wof:lastmodified":1566632838,
     "wof:name":"Fraccionamiento Ocuiltzapotl\u00e1n Dos",
     "wof:parent_id":102075765,
     "wof:placetype":"locality",

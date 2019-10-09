@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.096115,
     "lbl:longitude":-98.274022,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.096115,
     "mps:longitude":-98.274022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Cuautlancingo"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Cuautlancingo"
     ],
-    "name:unk_x_variant":[
-        "Cuautlancingo"
-    ],
     "name:vec_x_preferred":[
         "Cuautlancingo"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -107,7 +107,6 @@
         "fct:id":"01b82f6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529981,
         "gp:id":117814,
-        "qs:id":148816,
         "qs_pg:id":148816,
         "wd:id":"Q1998658",
         "wk:page":"Cuautlancingo (municipality)"
@@ -127,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397698,
+    "wof:lastmodified":1566632550,
     "wof:name":"San Juan Cuautlancingo",
     "wof:parent_id":102078083,
     "wof:placetype":"locality",

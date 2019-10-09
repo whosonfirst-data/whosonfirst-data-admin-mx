@@ -11,8 +11,10 @@
     "geom:longitude":-103.346833,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.351833,20.658381,-103.341833,20.668381",
     "lbl:latitude":20.663381,
     "lbl:longitude":-103.346833,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.660338,
     "mps:longitude":-103.34382,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Mexicaltzingo"
-    ],
-    "name:unk_x_variant":[
         "Mexicaltzingo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55910460,
-        "qs:id":475779,
         "qs_pg:id":475779
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619653,
     "wof:name":"Mexicaltzingo",
     "wof:parent_id":101997865,
     "wof:placetype":"neighbourhood",

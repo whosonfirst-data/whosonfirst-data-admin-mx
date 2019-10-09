@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":2308146.733124,
+    "geom:area_square_m":2308146.733119,
     "geom:bbox":"-100.872301414,21.9356117699,-100.849752894,21.9530293614",
     "geom:latitude":21.944091,
     "geom:longitude":-100.861133,
     "iso:country":"MX",
     "lbl:latitude":21.94566,
     "lbl:longitude":-100.861131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.94566,
     "mps:longitude":-100.861131,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Laguna de San Vicente"
     ],
@@ -27,9 +31,6 @@
         "Laguna de S. Vicente",
         "S Vicente de Laguna",
         "S. Vicente de Laguna",
-        "San Vicente de Laguna"
-    ],
-    "name:unk_x_variant":[
         "San Vicente de Laguna"
     ],
     "qs:a0":"Mexico",
@@ -47,7 +48,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -75,7 +76,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1501269563,
+    "wof:lastmodified":1566632803,
     "wof:name":"Laguna de San Vicente",
     "wof:parent_id":102077143,
     "wof:placetype":"locality",

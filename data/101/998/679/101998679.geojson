@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.810832,
     "lbl:longitude":-95.014441,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.810832,
     "mps:longitude":-95.014441,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u0986\u0997\u09bf\u09b2\u09c7\u09b0\u09be"
     ],
@@ -35,7 +38,7 @@
     "name:swe_x_preferred":[
         "Aguilera"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Aguilera"
     ],
     "qs:a0":"Mexico",
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101998679,
-    "wof:lastmodified":1563397172,
+    "wof:lastmodified":1566632272,
     "wof:name":"Aguilera",
     "wof:parent_id":102077697,
     "wof:placetype":"locality",

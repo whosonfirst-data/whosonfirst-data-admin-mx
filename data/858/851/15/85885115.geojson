@@ -11,8 +11,10 @@
     "geom:longitude":-98.01178,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.01678,17.33253,-98.00678,17.34253",
     "lbl:latitude":17.33753,
     "lbl:longitude":-98.01178,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.33753,
     "mps:longitude":-98.01178,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Santo Domingo"
-    ],
-    "name:unk_x_variant":[
         "Barrio Santo Domingo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686623,
         102191575,
@@ -69,8 +68,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898788,
-        "qs:id":1137770,
         "qs_pg:id":61942
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1137770
     },
     "wof:country":"MX",
     "wof:geomhash":"54ca48c10a5e69e42716e522addb3908",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957725,
+    "wof:lastmodified":1566619614,
     "wof:name":"Barrio Santo Domingo",
     "wof:parent_id":101995991,
     "wof:placetype":"neighbourhood",

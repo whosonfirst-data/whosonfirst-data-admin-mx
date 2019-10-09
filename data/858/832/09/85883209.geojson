@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5360229.033171,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.417566,25.526131,-103.417566,25.526131",
     "geom:latitude":25.526131,
     "geom:longitude":-103.417566,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.422566,25.521131,-103.412566,25.531131",
     "lbl:latitude":25.526131,
     "lbl:longitude":-103.417566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.522501,
     "mps:longitude":-103.420166,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Jardines de California"
-    ],
-    "name:unk_x_variant":[
         "Jardines de California"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686689,
         102191575,
         85633293,
         102000853,
-        102078789,
-        85686689
+        102078789
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4004080,
         "gp:id":55892121,
-        "qs:id":965362,
         "qs_pg:id":965362
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874259,
+    "wof:lastmodified":1566619605,
     "wof:name":"Jardines de California",
     "wof:parent_id":102000853,
     "wof:placetype":"neighbourhood",

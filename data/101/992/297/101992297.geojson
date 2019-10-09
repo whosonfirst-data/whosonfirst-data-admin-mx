@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.106361,
     "lbl:longitude":-103.442304,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":26.106361,
     "mps:longitude":-103.442304,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:hbs_x_preferred":[
         "Tlahualilo de Zaragoza"
     ],
@@ -36,9 +39,6 @@
     "name:srp_x_preferred":[
         "\u0422\u043b\u0430\u0432\u0430\u043b\u0438\u043b\u043e \u0434\u0435 \u0417\u0430\u0440\u0430\u0433\u043e\u0437\u0430"
     ],
-    "name:unk_x_variant":[
-        "Zaragoza"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Durango",
     "qs:a1_lc":"10",
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -70,7 +70,6 @@
         "fct:id":"01af67a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3981469,
         "gp:id":149561,
-        "qs:id":180463,
         "qs_pg:id":180463,
         "wd:id":"Q1997252",
         "wk:page":"Tlahualilo de Zaragoza"
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398046,
+    "wof:lastmodified":1566632733,
     "wof:name":"Tlahualilo de Zaragoza",
     "wof:parent_id":102075497,
     "wof:placetype":"locality",

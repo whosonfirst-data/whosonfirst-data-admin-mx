@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1201494.813623,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.391663,20.59463,-100.391663,20.59463",
     "geom:latitude":20.59463,
     "geom:longitude":-100.391663,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.396663,20.58963,-100.386663,20.59963",
     "lbl:latitude":20.59463,
     "lbl:longitude":-100.391663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.599419,
     "mps:longitude":-100.392615,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Fracc Jacarandas"
-    ],
-    "name:unk_x_variant":[
         "Fracc Jacarandas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894233,
-        "qs:id":1091863,
         "qs_pg:id":1091863
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874314,
+    "wof:lastmodified":1566619619,
     "wof:name":"Fracc Jacarandas",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

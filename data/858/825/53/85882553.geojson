@@ -11,8 +11,10 @@
     "geom:longitude":-102.308121,
     "gn:population":208,
     "iso:country":"MX",
+    "lbl:bbox":"-102.313121,21.881137,-102.303121,21.891137",
     "lbl:latitude":21.886137,
     "lbl:longitude":-102.308121,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.886909,
     "mps:longitude":-102.310325,
     "mz:hierarchy_label":0,
@@ -38,10 +40,6 @@
     ],
     "name:swe_x_preferred":[
         "Guadalupito"
-    ],
-    "name:unk_x_variant":[
-        "Guadalupito",
-        "Guadalupe"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686637,
@@ -103,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375518,
+    "wof:lastmodified":1566619669,
     "wof:name":"Guadalupe",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

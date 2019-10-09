@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":424059.947964,
+    "geom:area_square_m":424059.947961,
     "geom:bbox":"-97.741534195,20.4520884214,-97.7309791276,20.4618194209",
     "geom:latitude":20.456422,
     "geom:longitude":-97.736115,
     "iso:country":"MX",
     "lbl:latitude":20.456055,
     "lbl:longitude":-97.736476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.456055,
     "mps:longitude":-97.736476,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55894944
     },
     "wof:country":"MX",
-    "wof:geomhash":"6484c55c9c90aa22515bcdc62a4dec7e",
+    "wof:geomhash":"1a1c186a908f1424c1c919ba83d2178a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000003,
-    "wof:lastmodified":1479908093,
+    "wof:lastmodified":1566615707,
     "wof:name":"Coronel Tito Hern\u00e1ndez (Mar\u00eda Andrea)",
     "wof:parent_id":102078413,
     "wof:placetype":"locality",

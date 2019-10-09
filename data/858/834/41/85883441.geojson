@@ -10,8 +10,10 @@
     "geom:latitude":21.899729,
     "geom:longitude":-102.310181,
     "iso:country":"MX",
+    "lbl:bbox":"-102.315181,21.894729,-102.305181,21.904729",
     "lbl:latitude":21.899729,
     "lbl:longitude":-102.310181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.901843,
     "mps:longitude":-102.307066,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc San Cayetano"
-    ],
-    "name:unk_x_variant":[
         "Fracc San Cayetano"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686637,
         102191575,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3987426,
         "gp:id":55894827,
-        "qs:id":968964,
         "qs_pg:id":968964
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619625,
     "wof:name":"Fracc San Cayetano",
     "wof:parent_id":101996839,
     "wof:placetype":"neighbourhood",

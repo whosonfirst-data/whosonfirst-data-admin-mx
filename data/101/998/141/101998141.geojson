@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.774433,
     "lbl:longitude":-95.764213,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":18.774433,
     "mps:longitude":-95.764213,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0432\u0430\u0440\u0430\u0434\u043e"
     ],
@@ -72,9 +75,6 @@
     "name:swe_x_preferred":[
         "Heroica Alvarado"
     ],
-    "name:unk_x_variant":[
-        "Heroica Alvarado"
-    ],
     "name:vec_x_preferred":[
         "Alvarado"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -108,7 +108,6 @@
         "fct:id":"01b7d74a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3532964,
         "gp:id":111972,
-        "qs:id":148887,
         "qs_pg:id":148887,
         "wd:id":"Q448370",
         "wk:page":"Alvarado, Veracruz"
@@ -128,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397201,
+    "wof:lastmodified":1566632287,
     "wof:name":"Alvarado",
     "wof:parent_id":102077407,
     "wof:placetype":"locality",

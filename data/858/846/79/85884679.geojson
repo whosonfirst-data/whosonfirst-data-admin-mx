@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6341406.770549,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.284961,19.055637,-98.284961,19.055637",
     "geom:latitude":19.055637,
     "geom:longitude":-98.284961,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.289961,19.050637,-98.279961,19.060637",
     "lbl:latitude":19.055637,
     "lbl:longitude":-98.284961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.054916,
     "mps:longitude":-98.281703,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:spa_x_preferred":[
         "Hacienda Santa Teresa",
         "Enga\u00f1ada"
-    ],
-    "name:unk_x_variant":[
-        "Hacienda Santa Teresa"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -62,18 +61,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999685,
-        102078247,
-        85686657
+        102078247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55905966,
-        "qs:id":139206,
         "qs_pg:id":139206
     },
     "wof:country":"MX",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874587,
+    "wof:lastmodified":1566619637,
     "wof:name":"Hacienda Santa Teresa",
     "wof:parent_id":101999685,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.807244,
     "lbl:longitude":-105.248303,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.807244,
     "mps:longitude":-105.248303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Valle de Banderas"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":239,
     "wof:belongsto":[
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":3980622,
         "gp:id":150491,
-        "qs:id":151237,
         "qs_pg:id":151237,
         "wd:id":"Q7911880",
         "wk:page":"Valle de Banderas"
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101996967,
-    "wof:lastmodified":1563397402,
+    "wof:lastmodified":1566632398,
     "wof:name":"Valle de Banderas",
     "wof:parent_id":102074583,
     "wof:placetype":"locality",

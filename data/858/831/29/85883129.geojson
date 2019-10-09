@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2899084.071489,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.385913,20.614542,-100.385913,20.614542",
     "geom:latitude":20.614542,
     "geom:longitude":-100.385913,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-100.390913,20.609542,-100.380913,20.619542",
     "lbl:latitude":20.614542,
     "lbl:longitude":-100.385913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.613494,
     "mps:longitude":-100.38222,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Balcones Coloniales"
-    ],
-    "name:unk_x_variant":[
         "Balcones Coloniales"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
         101996369,
-        102077111,
-        85686641
+        102077111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55890895,
-        "qs:id":1111489,
         "qs_pg:id":1111489
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874233,
+    "wof:lastmodified":1566619680,
     "wof:name":"Balcones Coloniales",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

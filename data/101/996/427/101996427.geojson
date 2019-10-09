@@ -9,14 +9,17 @@
     "geom:bbox":"-100.074153213,20.4164863075,-100.053535712,20.424867084",
     "geom:latitude":20.42073,
     "geom:longitude":-100.064506,
-    "geonames:id":"4002462,3825961",
+    "gn:id":"4002462,3825961",
     "iso:country":"MX",
     "lbl:latitude":20.420767,
     "lbl:longitude":-100.065519,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.420767,
     "mps:longitude":-100.065519,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Estancia"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "La Estancia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estancia"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101996427,
-    "wof:lastmodified":1564171244,
+    "wof:lastmodified":1566632408,
     "wof:name":"La Estancia",
     "wof:parent_id":102077115,
     "wof:placetype":"locality",

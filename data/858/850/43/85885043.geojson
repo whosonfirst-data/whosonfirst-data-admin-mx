@@ -11,8 +11,10 @@
     "geom:longitude":-109.446914,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.451914,27.072814,-109.441914,27.082814",
     "lbl:latitude":27.077814,
     "lbl:longitude":-109.446914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.078012,
     "mps:longitude":-109.447029,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Reforma"
     ],
     "name:spa_x_preferred":[
-        "Reforma"
-    ],
-    "name:unk_x_variant":[
         "Reforma"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686549,
         102191575,
@@ -85,7 +84,6 @@
     "wof:concordances":{
         "gn:id":3520404,
         "gp:id":55912909,
-        "qs:id":65270,
         "qs_pg:id":65270
     },
     "wof:country":"MX",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147203,
+    "wof:lastmodified":1566619594,
     "wof:name":"Reforma",
     "wof:parent_id":101993973,
     "wof:placetype":"neighbourhood",

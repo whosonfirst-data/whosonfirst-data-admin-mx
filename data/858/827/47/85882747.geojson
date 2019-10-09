@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3513854.880638,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.716177,17.063268,-96.716177,17.063268",
     "geom:latitude":17.063268,
     "geom:longitude":-96.716177,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.721177,17.058268,-96.711177,17.068268",
     "lbl:latitude":17.063268,
     "lbl:longitude":-96.716177,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.059021,
     "mps:longitude":-96.70788,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Jalatlaco"
-    ],
-    "name:unk_x_variant":[
         "Jalatlaco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101995147,
-        102075881,
-        85686623
+        102075881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55886120,
-        "qs:id":899366,
         "qs_pg:id":899366
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874110,
+    "wof:lastmodified":1566619549,
     "wof:name":"Jalatlaco",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

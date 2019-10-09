@@ -9,10 +9,12 @@
     "geom:bbox":"-99.0648913148,21.9466696096,-98.966105583,22.0305138784",
     "geom:latitude":21.995167,
     "geom:longitude":-99.010315,
-    "geonames:id":"3483849,3530582",
+    "gn:id":"3483849,3530582",
     "iso:country":"MX",
     "lbl:latitude":22.000318,
     "lbl:longitude":-99.010364,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.000318,
     "mps:longitude":-99.010364,
     "mz:hierarchy_label":1,
@@ -79,7 +81,7 @@
     "name:swe_x_preferred":[
         "Ciudad Valles"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valles"
     ],
     "name:vie_x_preferred":[
@@ -197,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -222,7 +224,7 @@
         }
     ],
     "wof:id":101996457,
-    "wof:lastmodified":1564171248,
+    "wof:lastmodified":1566632416,
     "wof:name":"Ciudad Valles",
     "wof:parent_id":102077227,
     "wof:placetype":"locality",

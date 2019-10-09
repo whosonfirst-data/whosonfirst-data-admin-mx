@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":2460907.563291,
+    "geom:area_square_m":2460907.563309,
     "geom:bbox":"-103.384494199,20.7872120159,-103.362061616,20.8151050536",
     "geom:latitude":20.800371,
     "geom:longitude":-103.374962,
     "iso:country":"MX",
     "lbl:latitude":20.800138,
     "lbl:longitude":-103.374191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.800138,
     "mps:longitude":-103.374191,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90278892
     },
     "wof:country":"MX",
-    "wof:geomhash":"b61aab7407bebea0335c3e3540016a08",
+    "wof:geomhash":"a233970fdd6f59ba9501692daff0c6f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997655,
-    "wof:lastmodified":1479931298,
+    "wof:lastmodified":1566632491,
     "wof:name":"San Esteban (San Miguel Tateposco)",
     "wof:parent_id":102074709,
     "wof:placetype":"locality",

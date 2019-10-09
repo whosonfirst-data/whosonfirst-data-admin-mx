@@ -9,14 +9,17 @@
     "geom:bbox":"-94.6738,16.70495,-94.6738,16.70495",
     "geom:latitude":16.70495,
     "geom:longitude":-94.6738,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-94.6788,16.69995,-94.6688,16.70995",
     "lbl:latitude":16.70495,
     "lbl:longitude":-94.6738,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Cuauht\u00e9moc"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55915035,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Oaxaca",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
-        102076467,
-        85686623
+        102076467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126100397,
-    "wof:lastmodified":1509412089,
+    "wof:lastmodified":1566633916,
     "wof:name":"Cuauhtemoc",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

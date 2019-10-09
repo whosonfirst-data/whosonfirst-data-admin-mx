@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.995197,19.21844,-98.995197,19.21844",
     "geom:latitude":19.21844,
     "geom:longitude":-98.995197,
     "iso:country":"MX",
+    "lbl:bbox":"-99.000197,19.21344,-98.990197,19.22344",
     "lbl:latitude":19.21844,
     "lbl:longitude":-98.995197,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.21844,
     "mps:longitude":-98.995197,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Distrito Federal",
     "qs:a1_lc":"09",
@@ -32,12 +36,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85686515,
         102191575,
         85633293,
-        102073763,
-        85686515
+        102073763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890535809,
-    "wof:lastmodified":1531939962,
+    "wof:lastmodified":1566633867,
     "wof:name":"San Antonio Tec\u00f3mitl",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

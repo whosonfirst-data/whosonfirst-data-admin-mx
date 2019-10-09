@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":27.264639,
     "lbl:longitude":-109.94881,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.264639,
     "mps:longitude":-109.94881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Quetchehueca"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101993969,
-    "wof:lastmodified":1563398156,
+    "wof:lastmodified":1566632790,
     "wof:name":"Quetchehueca",
     "wof:parent_id":102074417,
     "wof:placetype":"locality",

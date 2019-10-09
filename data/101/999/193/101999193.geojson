@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.414234,
     "lbl:longitude":-98.112901,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.414234,
     "mps:longitude":-98.112901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b2\u09cb\u09a8\u09bf\u09af\u09bc\u09be \u09b8\u09be\u09a8 \u0987\u09b8\u09bf\u09a6\u09cd\u09b0\u09cb"
     ],
@@ -52,7 +55,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101999193,
-    "wof:lastmodified":1563397643,
+    "wof:lastmodified":1566632517,
     "wof:name":"Colonia San Isidro",
     "wof:parent_id":102077969,
     "wof:placetype":"locality",

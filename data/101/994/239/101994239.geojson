@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":26.82324,
     "lbl:longitude":-107.0714,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.82324,
     "mps:longitude":-107.0714,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guachochi"
     ],
@@ -37,9 +40,6 @@
     "name:swe_x_preferred":[
         "Guachochi"
     ],
-    "name:unk_x_variant":[
-        "Guachochic"
-    ],
     "name:vie_x_preferred":[
         "Guachochic"
     ],
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":4005545,
         "gp:id":124159,
-        "qs:id":33698,
         "qs_pg:id":33698,
         "wd:id":"Q1997268",
         "wk:page":"Guachochi"
@@ -88,7 +87,7 @@
         }
     ],
     "wof:id":101994239,
-    "wof:lastmodified":1563398359,
+    "wof:lastmodified":1566632892,
     "wof:name":"Guachochi",
     "wof:parent_id":102075331,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     "iso:country":"MX",
     "lbl:latitude":27.934719,
     "lbl:longitude":-101.221954,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":27.934719,
     "mps:longitude":-101.221954,
     "mz:hierarchy_label":1,
@@ -56,7 +58,7 @@
     "name:swe_x_preferred":[
         "Nueva Rosita"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rosita"
     ],
     "ne:ADM0CAP":0.0,
@@ -168,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -181,7 +183,6 @@
     "wof:concordances":{
         "gn:id":3994667,
         "gp:id":134755,
-        "qs:id":1047568,
         "qs_pg:id":1047568,
         "wd:id":"Q2014880",
         "wk:page":"Nueva Rosita"
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":102000865,
-    "wof:lastmodified":1563369756,
+    "wof:lastmodified":1566615709,
     "wof:name":"Nueva Rosita",
     "wof:parent_id":102078807,
     "wof:placetype":"locality",

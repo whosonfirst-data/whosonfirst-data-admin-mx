@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.090218,
     "lbl:longitude":-98.10124,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.090218,
     "mps:longitude":-98.10124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Santa Mar\u00eda Xonacatepec"
     ],
@@ -52,9 +55,6 @@
     "name:swe_x_preferred":[
         "Santa Mar\u00eda Xonacatepec"
     ],
-    "name:unk_x_variant":[
-        "Xonacatepec"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -70,7 +70,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -100,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397670,
+    "wof:lastmodified":1566632532,
     "wof:name":"Santa Mar\u00eda Xonacatepec",
     "wof:parent_id":102078237,
     "wof:placetype":"locality",

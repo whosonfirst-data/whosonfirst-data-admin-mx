@@ -11,8 +11,10 @@
     "geom:longitude":-100.40626,
     "gn:population":1541,
     "iso:country":"MX",
+    "lbl:bbox":"-100.41126,20.579757,-100.40126,20.589757",
     "lbl:latitude":20.584757,
     "lbl:longitude":-100.40626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.583915,
     "mps:longitude":-100.405209,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "\u041b\u0430 \u041a\u0430\u043f\u0438\u0459\u0430"
     ],
     "name:swe_x_preferred":[
-        "La Capilla"
-    ],
-    "name:unk_x_variant":[
         "La Capilla"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686641,
@@ -84,7 +83,6 @@
     "wof:concordances":{
         "gn:id":4024283,
         "gp:id":55888792,
-        "qs:id":204811,
         "qs_pg:id":204811,
         "wd:id":"Q20207631"
     },
@@ -104,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375338,
+    "wof:lastmodified":1566619550,
     "wof:name":"La Capilla",
     "wof:parent_id":101996369,
     "wof:placetype":"neighbourhood",

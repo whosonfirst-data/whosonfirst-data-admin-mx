@@ -9,17 +9,19 @@
     "geom:bbox":"-96.5788661454,19.3467498749,-96.5595461567,19.3642866093",
     "geom:latitude":19.355628,
     "geom:longitude":-96.568954,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6687,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":6687,
     "iso:country":"MX",
     "lbl:latitude":19.356059,
     "lbl:longitude":-96.569098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.356059,
     "mps:longitude":-96.569098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rinconada"
     ],
@@ -70,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -82,14 +84,13 @@
     "wof:concordances":{
         "gn:id":3988699,
         "gp:id":140748,
-        "qs:id":148717,
-        "qs_pg:id":1141738,
+        "qs_pg:id":148717,
         "wd:id":"Q20129159"
     },
     "wof:concordances_alt":{
         "gn:id":3520319,
         "gp:id":140753,
-        "qs_pg:id":148717
+        "qs_pg:id":1141738
     },
     "wof:country":"MX",
     "wof:geomhash":"66c6e5ce8b84c4abec6eb1eceb52429f",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":101998353,
-    "wof:lastmodified":1563397066,
+    "wof:lastmodified":1566632224,
     "wof:name":"Rinconada",
     "wof:parent_id":102077521,
     "wof:placetype":"locality",

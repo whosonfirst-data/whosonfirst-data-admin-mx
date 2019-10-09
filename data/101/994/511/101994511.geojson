@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.550933,
     "lbl:longitude":-92.338204,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.550933,
     "mps:longitude":-92.338204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b2\u09a4\u09cb \u09a6\u09c7 \u0986\u0997\u09c1\u09af\u09bc\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -90,7 +93,6 @@
         "fct:id":"01b8eedc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3520020,
         "gp:id":141285,
-        "qs:id":1276683,
         "qs_pg:id":1276683,
         "wd:id":"Q1953149",
         "wk:page":"Salto de Agua"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398300,
+    "wof:lastmodified":1566632865,
     "wof:name":"Salto de Agua",
     "wof:parent_id":102075693,
     "wof:placetype":"locality",

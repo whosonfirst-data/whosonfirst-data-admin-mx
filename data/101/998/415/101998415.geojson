@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.685909,
     "lbl:longitude":-98.014688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.685909,
     "mps:longitude":-98.014688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ixhuatl\u00e1n de Madero"
     ],
@@ -54,9 +57,6 @@
     "name:swe_x_preferred":[
         "Ixhuatl\u00e1n de Madero"
     ],
-    "name:unk_x_variant":[
-        "Ixhuatl\u00e1n"
-    ],
     "name:vie_x_preferred":[
         "Ixhuatl\u00e1n de Madero"
     ],
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +89,6 @@
         "fct:id":"01b8687c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526712,
         "gp:id":125510,
-        "qs:id":906904,
         "qs_pg:id":906904,
         "wd:id":"Q3846681",
         "wk:page":"Ixhuatl\u00e1n de Madero"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397096,
+    "wof:lastmodified":1566632236,
     "wof:name":"Ixhuatl\u00e1n de Madero",
     "wof:parent_id":102077563,
     "wof:placetype":"locality",

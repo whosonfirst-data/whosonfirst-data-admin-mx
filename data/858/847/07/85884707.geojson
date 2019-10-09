@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3206496.688037,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.172607,20.290537,-103.172607,20.290537",
     "geom:latitude":20.290537,
     "geom:longitude":-103.172607,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.177607,20.285537,-103.167607,20.295537",
     "lbl:latitude":20.290537,
     "lbl:longitude":-103.172607,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.290537,
     "mps:longitude":-103.168741,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio Nuevo"
-    ],
-    "name:unk_x_variant":[
         "Barrio Nuevo"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
-        102074825,
-        85686603
+        102074825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55906610,
-        "qs:id":1119969,
         "qs_pg:id":1119969
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874595,
+    "wof:lastmodified":1566619657,
     "wof:name":"Barrio Nuevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

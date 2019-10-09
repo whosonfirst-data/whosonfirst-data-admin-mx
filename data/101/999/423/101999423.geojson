@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.815729,
     "lbl:longitude":-97.38894,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.815729,
     "mps:longitude":-97.38894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Chignautla"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -89,7 +92,6 @@
         "fct:id":"01b80fda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530907,
         "gp:id":115955,
-        "qs:id":1191319,
         "qs_pg:id":1191319,
         "wd:id":"Q5097219",
         "wk:page":"Chignautla (municipality)"
@@ -109,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397665,
+    "wof:lastmodified":1566632530,
     "wof:name":"Chignautla",
     "wof:parent_id":102078109,
     "wof:placetype":"locality",

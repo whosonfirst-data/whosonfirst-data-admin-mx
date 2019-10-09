@@ -9,14 +9,17 @@
     "geom:bbox":"-103.90452,18.87193,-103.90452,18.87193",
     "geom:latitude":18.87193,
     "geom:longitude":-103.90452,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-103.90952,18.86693,-103.89952,18.87693",
     "lbl:latitude":18.87193,
     "lbl:longitude":-103.90452,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Mart\u00edn"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55891429,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Colima",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686587,
         102191575,
         85633293,
-        102074527,
-        85686587
+        102074527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126100083,
-    "wof:lastmodified":1509412074,
+    "wof:lastmodified":1566633915,
     "wof:name":"San Martin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

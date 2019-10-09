@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":1281865.827234,
+    "geom:area_square_m":1281865.827231,
     "geom:bbox":"-103.163608799,19.9955700996,-103.145839355,20.0135380192",
     "geom:latitude":20.00429,
     "geom:longitude":-103.155699,
     "iso:country":"MX",
     "lbl:latitude":20.005838,
     "lbl:longitude":-103.155832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.005838,
     "mps:longitude":-103.155832,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Manzanilla de la Paz"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,7 +51,7 @@
         "gp:id":128195
     },
     "wof:country":"MX",
-    "wof:geomhash":"8e59dfb9de6759f78dcb06e9df9695a5",
+    "wof:geomhash":"6229b5de51e0686f2283b46f10df5800",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +65,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1479930424,
+    "wof:lastmodified":1566632459,
     "wof:name":"La Manzanilla de la Paz",
     "wof:parent_id":102074777,
     "wof:placetype":"locality",

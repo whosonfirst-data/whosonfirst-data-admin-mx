@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6146587.649728,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.330929,24.152745,-110.330929,24.152745",
     "geom:latitude":24.152745,
     "geom:longitude":-110.330929,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-110.335929,24.147745,-110.325929,24.157745",
     "lbl:latitude":24.152745,
     "lbl:longitude":-110.330929,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.150139,
     "mps:longitude":-110.337682,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio la Inalambrica"
-    ],
-    "name:unk_x_variant":[
         "Barrio la Inalambrica"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,17 +54,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
-        102074519,
-        85686555
+        102074519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899849,
-        "qs:id":1342143
+        "qs_pg:id":1342143
     },
     "wof:country":"MX",
     "wof:geomhash":"85d68166f927c0ea9bdee58d5454312f",
@@ -83,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874436,
+    "wof:lastmodified":1566619662,
     "wof:name":"Barrio la Inalambrica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

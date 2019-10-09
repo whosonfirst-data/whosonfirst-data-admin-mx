@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":30.626952,
     "lbl:longitude":-110.960493,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":30.626952,
     "mps:longitude":-110.960493,
     "mz:hierarchy_label":1,
@@ -157,9 +159,6 @@
     "name:tur_x_preferred":[
         "Magdalena de Kino"
     ],
-    "name:unk_x_variant":[
-        "Magdalena"
-    ],
     "name:vie_x_preferred":[
         "Magdalena de Kino"
     ],
@@ -278,7 +277,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":695,
     "wof:belongsto":[
@@ -292,10 +291,12 @@
         "fct:id":"01aec452-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3996893,
         "gp:id":132666,
-        "qs:id":943598,
         "qs_pg:id":281312,
         "wd:id":"Q1572516",
         "wk:page":"Magdalena de Kino"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":943598
     },
     "wof:country":"MX",
     "wof:geomhash":"c6018ca06d71d0afd82b2330c114521f",
@@ -312,7 +313,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398092,
+    "wof:lastmodified":1566632756,
     "wof:name":"Magdalena de Kino",
     "wof:parent_id":102074385,
     "wof:placetype":"locality",

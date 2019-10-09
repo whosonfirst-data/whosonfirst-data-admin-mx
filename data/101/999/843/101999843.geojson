@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000536,
-    "geom:area_square_m":6280407.654025,
+    "geom:area_square_m":6280407.65401,
     "geom:bbox":"-97.5684610469,18.512716798,-97.5280183938,18.5392220487",
     "geom:latitude":18.525825,
     "geom:longitude":-97.548141,
     "iso:country":"MX",
     "lbl:latitude":18.521874,
     "lbl:longitude":-97.54172,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.521874,
     "mps:longitude":-97.54172,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tepeteopan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tepetiopan"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101999843,
-    "wof:lastmodified":1501267421,
+    "wof:lastmodified":1566632530,
     "wof:name":"San Crist\u00f3bal Tepeteopan",
     "wof:parent_id":102078327,
     "wof:placetype":"locality",

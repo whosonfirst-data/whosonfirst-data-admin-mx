@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1909191.255106,
+    "geom:area_square_m":1909191.255111,
     "geom:bbox":"-86.861763462,21.2104040947,-86.8395574122,21.2339022175",
     "geom:latitude":21.221196,
     "geom:longitude":-86.84994,
     "iso:country":"MX",
     "lbl:latitude":21.221476,
     "lbl:longitude":-86.849778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.221476,
     "mps:longitude":-86.849778,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Quintana Roo",
     "qs:a1_lc":"23",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90276838
     },
     "wof:country":"MX",
-    "wof:geomhash":"0b5f79eb9f48824e75260992ba6bdf77",
+    "wof:geomhash":"28bb0c3abddf7f4a9866c53474f19820",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102001493,
-    "wof:lastmodified":1479855001,
+    "wof:lastmodified":1566615755,
     "wof:name":"Zona Urbana Ejido Isla Mujeres",
     "wof:parent_id":102079253,
     "wof:placetype":"locality",

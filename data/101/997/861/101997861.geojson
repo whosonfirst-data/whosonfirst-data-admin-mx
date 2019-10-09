@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.553281,
     "lbl:longitude":-103.334821,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.553281,
     "mps:longitude":-103.334821,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Santa Cruz del Valle"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "Santa Cruz del Valle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Cruz"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3984437,
         "gp:id":146039,
-        "qs:id":342430,
         "qs_pg:id":342430,
         "wd:id":"Q20296665"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101997861,
-    "wof:lastmodified":1563397516,
+    "wof:lastmodified":1566632452,
     "wof:name":"Santa Cruz del Valle",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

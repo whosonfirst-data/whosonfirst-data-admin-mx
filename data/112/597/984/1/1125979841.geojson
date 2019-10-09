@@ -9,19 +9,23 @@
     "geom:bbox":"-90.20722,19.44202,-90.20722,19.44202",
     "geom:latitude":19.44202,
     "geom:longitude":-90.20722,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-90.22722,19.42202,-90.18722,19.46202",
     "lbl:latitude":19.44202,
     "lbl:longitude":-90.20722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Bolonch\u00e9n Cahuich"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bolonchen"
     ],
     "qs_pg:aaroncc":"MX",
@@ -41,7 +45,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":113534,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Campeche",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1125979841,
-    "wof:lastmodified":1509404698,
+    "wof:lastmodified":1566634023,
     "wof:name":"Bolonchencahuich",
     "wof:parent_id":102079219,
     "wof:placetype":"locality",

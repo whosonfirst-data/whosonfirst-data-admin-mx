@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1676752.467994,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.237,19.043945,-98.237,19.043945",
     "geom:latitude":19.043945,
     "geom:longitude":-98.237,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.242,19.038945,-98.232,19.048945",
     "lbl:latitude":19.043945,
     "lbl:longitude":-98.237,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.044565,
     "mps:longitude":-98.240735,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Fracc Las Animas"
-    ],
-    "name:unk_x_variant":[
         "Fracc Las Animas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686657,
         102191575,
         85633293,
         101999639,
-        102078237,
-        85686657
+        102078237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895628,
-        "qs:id":1341508,
         "qs_pg:id":1341508
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874349,
+    "wof:lastmodified":1566619620,
     "wof:name":"Fracc Las Animas",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

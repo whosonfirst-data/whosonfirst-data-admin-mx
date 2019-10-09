@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.282146,
     "lbl:longitude":-88.929713,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":21.282146,
     "mps:longitude":-88.929713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Dzilam Gonz\u00e1lez"
     ],
@@ -66,9 +69,6 @@
     "name:swe_x_preferred":[
         "Dzilam Gonz\u00e1lez"
     ],
-    "name:unk_x_variant":[
-        "Tzilam Gonz\u00e1lez"
-    ],
     "name:vie_x_preferred":[
         "Dzilam Gonz\u00e1lez"
     ],
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -102,7 +102,6 @@
         "fct:id":"01ae9fa4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529654,
         "gp:id":118427,
-        "qs:id":1202160,
         "qs_pg:id":1202160,
         "wd:id":"Q2576873"
     },
@@ -121,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369863,
+    "wof:lastmodified":1566615762,
     "wof:name":"Dzilam Gonz\u00e1lez",
     "wof:parent_id":102079061,
     "wof:placetype":"locality",

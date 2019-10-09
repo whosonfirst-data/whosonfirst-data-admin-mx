@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
-    "geom:area_square_m":4926601.516079,
+    "geom:area_square_m":4926601.516083,
     "geom:bbox":"-107.383980263,24.3104732343,-107.34764231,24.3379838436",
     "geom:latitude":24.322661,
     "geom:longitude":-107.364723,
-    "geonames:id":"3976535,4009984",
+    "gn:id":"3976535,4009984",
     "iso:country":"MX",
     "lbl:latitude":24.320145,
     "lbl:longitude":-107.364444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.320145,
     "mps:longitude":-107.364444,
     "mz:hierarchy_label":1,
@@ -127,7 +129,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":101993725,
-    "wof:lastmodified":1534379383,
+    "wof:lastmodified":1566632776,
     "wof:name":"Eldorado",
     "wof:parent_id":102074307,
     "wof:placetype":"locality",

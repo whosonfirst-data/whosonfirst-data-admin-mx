@@ -10,8 +10,10 @@
     "geom:latitude":25.646478,
     "geom:longitude":-100.320557,
     "iso:country":"MX",
+    "lbl:bbox":"-100.325557,25.641478,-100.315557,25.651478",
     "lbl:latitude":25.646478,
     "lbl:longitude":-100.320557,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.646085,
     "mps:longitude":-100.316719,
     "mz:hierarchy_label":0,
@@ -38,9 +40,8 @@
     "name:spa_x_preferred":[
         "Las Canteras"
     ],
-    "name:unk_x_variant":[
-        "Cantera",
-        "Las Canteras"
+    "name:und_x_variant":[
+        "Cantera"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u06a9\u0627\u0646\u0679\u06cc\u0631\u0627\u0633"
@@ -74,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686681,
         102191575,
@@ -86,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3526091,
         "gp:id":55898704,
-        "qs:id":531827,
         "qs_pg:id":531827
     },
     "wof:country":"MX",
@@ -105,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147326,
+    "wof:lastmodified":1566619677,
     "wof:name":"Las Canteras",
     "wof:parent_id":102000745,
     "wof:placetype":"neighbourhood",

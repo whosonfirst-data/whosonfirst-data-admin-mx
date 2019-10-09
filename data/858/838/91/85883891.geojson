@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.202241,
     "lbl:longitude":-99.045868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.201513,
     "mps:longitude":-99.046275,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Barrio Panchimalco"
-    ],
-    "name:unk_x_variant":[
         "Barrio Panchimalco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686515,
         102191575,
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55898727,
-        "qs:id":912482
+        "qs_pg:id":912482
     },
     "wof:country":"MX",
     "wof:geomhash":"83e9c85f357b1385467f3302d7e8d4e1",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957716,
+    "wof:lastmodified":1566619675,
     "wof:name":"Barrio Panchimalco",
     "wof:parent_id":101991139,
     "wof:placetype":"neighbourhood",

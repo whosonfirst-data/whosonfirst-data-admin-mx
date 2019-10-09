@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.748755,
     "lbl:longitude":-96.679521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.748755,
     "mps:longitude":-96.679521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Dionisio Ocotl\u00e1n"
     ],
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "San Dionisio Ocotl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ocotlan"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -102,7 +105,6 @@
         "fct:id":"01b8fc10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3519479,
         "gp:id":142251,
-        "qs:id":326129,
         "qs_pg:id":326129,
         "wd:id":"Q7413781",
         "wk:page":"San Dionisio Ocotl\u00e1n"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397819,
+    "wof:lastmodified":1566632617,
     "wof:name":"San Dionisio Ocotl\u00e1n",
     "wof:parent_id":102075861,
     "wof:placetype":"locality",

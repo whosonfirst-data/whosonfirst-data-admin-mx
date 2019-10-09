@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6374181.400146,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.338769,20.065393,-99.338769,20.065393",
     "geom:latitude":20.065393,
     "geom:longitude":-99.338769,
     "iso:country":"MX",
+    "lbl:bbox":"-99.343769,20.060393,-99.333769,20.070393",
     "lbl:latitude":20.065393,
     "lbl:longitude":-99.338769,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.068521,
     "mps:longitude":-99.336256,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "El Salitre"
-    ],
-    "name:unk_x_variant":[
         "El Salitre"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686665,
         102191575,
         85633293,
-        102078625,
-        85686665
+        102078625
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3813691,
         "gp:id":55918684,
-        "qs:id":204899
+        "qs_pg:id":204899
     },
     "wof:country":"MX",
     "wof:geomhash":"1ffbb921d4e1e353492bd187c45865ff",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874748,
+    "wof:lastmodified":1566619712,
     "wof:name":"El Salitre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

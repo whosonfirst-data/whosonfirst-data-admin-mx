@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.174456,
     "lbl:longitude":-92.332727,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.174456,
     "mps:longitude":-92.332727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Yajal\u00f3n"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +107,6 @@
         "fct:id":"01b9adae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514349,
         "gp:id":151267,
-        "qs:id":180508,
         "qs_pg:id":180508,
         "wd:id":"Q1953275"
     },
@@ -123,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398384,
+    "wof:lastmodified":1566632903,
     "wof:name":"Yajal\u00f3n",
     "wof:parent_id":102075649,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.375587,
     "lbl:longitude":-99.650917,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.375587,
     "mps:longitude":-99.650917,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Huichapan"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -94,7 +97,6 @@
         "fct:id":"01b86250-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526923,
         "gp:id":125190,
-        "qs:id":148778,
         "qs_pg:id":148778
     },
     "wof:country":"MX",
@@ -112,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564141418,
+    "wof:lastmodified":1566615719,
     "wof:name":"Huichapan",
     "wof:parent_id":102078593,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-112.267626,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-112.272626,27.333018,-112.262626,27.343018",
     "lbl:latitude":27.338018,
     "lbl:longitude":-112.267626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.336831,
     "mps:longitude":-112.272161,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:spa_x_preferred":[
         "Rancheria"
     ],
-    "name:unk_x_variant":[
-        "Rancheria"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3983805,
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":560,
     "wof:belongsto":[
         85686555,
@@ -91,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894381,
-        "qs:id":228604,
         "qs_pg:id":228604,
         "wd:id":"Q7290796"
     },
@@ -111,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375443,
+    "wof:lastmodified":1566619621,
     "wof:name":"Rancheria",
     "wof:parent_id":101993451,
     "wof:placetype":"neighbourhood",

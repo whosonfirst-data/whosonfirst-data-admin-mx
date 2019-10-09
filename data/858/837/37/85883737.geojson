@@ -12,6 +12,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.25245,
     "lbl:longitude":-99.119579,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.247856,
     "mps:longitude":-99.122295,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "La Conchita"
     ],
     "name:swe_x_preferred":[
-        "La Concha"
-    ],
-    "name:unk_x_variant":[
         "La Concha"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -69,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         857683023,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":3817556,
         "gp:id":55898048,
-        "qs:id":204852,
         "qs_pg:id":204852
     },
     "wof:country":"MX",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147352,
+    "wof:lastmodified":1566619695,
     "wof:name":"La Concha",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

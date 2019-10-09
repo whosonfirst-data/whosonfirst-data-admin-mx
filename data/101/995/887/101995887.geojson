@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.660711,
     "lbl:longitude":-97.338594,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.660711,
     "mps:longitude":-97.338594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santa Mar\u00eda Nativitas"
     ],
@@ -56,9 +59,6 @@
     "name:swe_x_preferred":[
         "Santa Mar\u00eda Nativitas"
     ],
-    "name:unk_x_variant":[
-        "Nativitas"
-    ],
     "name:vie_x_preferred":[
         "Santa Mar\u00eda Nat\u00edvitas"
     ],
@@ -77,7 +77,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397795,
+    "wof:lastmodified":1566632605,
     "wof:name":"Santa Mar\u00eda Nativitas",
     "wof:parent_id":102076717,
     "wof:placetype":"locality",

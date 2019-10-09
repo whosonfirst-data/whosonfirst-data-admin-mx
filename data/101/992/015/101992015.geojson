@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1431308.94495,
+    "geom:area_square_m":1431308.944964,
     "geom:bbox":"-99.5874705881,19.4752917807,-99.5696642626,19.4927617523",
     "geom:latitude":19.48315,
     "geom:longitude":-99.580381,
     "iso:country":"MX",
     "lbl:latitude":19.48155,
     "lbl:longitude":-99.581257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.48155,
     "mps:longitude":-99.581257,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "San Pedro Arriba"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101992015,
-    "wof:lastmodified":1501267412,
+    "wof:lastmodified":1566632680,
     "wof:name":"San Pedro Abajo",
     "wof:parent_id":102074047,
     "wof:placetype":"locality",

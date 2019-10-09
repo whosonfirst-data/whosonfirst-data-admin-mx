@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.06358,
     "lbl:longitude":-98.41844,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.06358,
     "mps:longitude":-98.41844,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"cf38e43ccb732e65385a3a3d41b87101",
+    "wof:geomhash":"589fbc5b38232c63d0b5758b00586373",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":102000259,
-    "wof:lastmodified":1479908258,
+    "wof:lastmodified":1566615673,
     "wof:name":"Unidades Habitacionales",
     "wof:parent_id":102078551,
     "wof:placetype":"locality",

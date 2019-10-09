@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.873452,
     "lbl:longitude":-95.036902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.873452,
     "mps:longitude":-95.036902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mat\u00edas Romero"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Mat\u00edas Romero Avenda\u00f1o"
     ],
-    "name:unk_x_variant":[
-        "Mat\u00edas Romero"
-    ],
     "name:vie_x_preferred":[
         "Mat\u00edas Romero"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":101995123,
-    "wof:lastmodified":1563397915,
+    "wof:lastmodified":1566632659,
     "wof:name":"Mat\u00edas Romero Avenda\u00f1o",
     "wof:parent_id":102075843,
     "wof:placetype":"locality",

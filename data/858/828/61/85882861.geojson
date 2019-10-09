@@ -11,8 +11,10 @@
     "geom:longitude":-102.582458,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.587458,22.773375,-102.577458,22.783375",
     "lbl:latitude":22.778375,
     "lbl:longitude":-102.582458,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.774975,
     "mps:longitude":-102.591054,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Lomas de la Sociedad"
-    ],
-    "name:unk_x_variant":[
         "Lomas de la Sociedad"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686567,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887569,
-        "qs:id":1012256,
         "qs_pg:id":1012256
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619567,
     "wof:name":"Lomas de la Sociedad",
     "wof:parent_id":101994047,
     "wof:placetype":"neighbourhood",

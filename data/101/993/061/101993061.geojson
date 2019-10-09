@@ -9,14 +9,17 @@
     "geom:bbox":"-100.64924213,21.0366767431,-100.640348287,21.0531055938",
     "geom:latitude":21.043873,
     "geom:longitude":-100.643954,
-    "geonames:id":"3997205,4023061",
+    "gn:id":"3997205,4023061",
     "iso:country":"MX",
     "lbl:latitude":21.04309,
     "lbl:longitude":-100.644016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.04309,
     "mps:longitude":-100.644016,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Los Rodr\u00edguez"
     ],
@@ -77,7 +80,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":391,
     "wof:belongsto":[
         102191575,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101993061,
-    "wof:lastmodified":1563398188,
+    "wof:lastmodified":1566632806,
     "wof:name":"Los Rodr\u00edguez",
     "wof:parent_id":102077311,
     "wof:placetype":"locality",

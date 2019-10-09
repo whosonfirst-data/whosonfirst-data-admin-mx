@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.481139,
     "lbl:longitude":-99.099276,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":19.481139,
     "mps:longitude":-99.099276,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "name:ceb_x_preferred":[
         "Gustavo A. Madero"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -64,9 +67,11 @@
         "fct:id":"01d3614a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3482969,
         "gp:id":150870,
-        "qs:id":239717,
-        "qs_pg:id":583367,
+        "qs_pg:id":239717,
         "wd:id":"Q20144006"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":583367
     },
     "wof:country":"MX",
     "wof:geomhash":"e59e8087f0af2535bfd1b30adfb288c6",
@@ -83,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397221,
+    "wof:lastmodified":1566632299,
     "wof:name":"Gustavo A. Madero",
     "wof:parent_id":102073745,
     "wof:placetype":"locality",

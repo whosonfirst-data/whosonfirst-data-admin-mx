@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":3582513.663439,
+    "geom:area_square_m":3582513.663452,
     "geom:bbox":"-96.7964635979,17.1391137919,-96.7693478657,17.1627857891",
     "geom:latitude":17.151655,
     "geom:longitude":-96.782527,
     "iso:country":"MX",
     "lbl:latitude":17.153625,
     "lbl:longitude":-96.785911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.153625,
     "mps:longitude":-96.785911,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Oaxaca",
     "qs:a1_lc":"20",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":124649
     },
     "wof:country":"MX",
-    "wof:geomhash":"5dc3957b69b1b96d963635a2626f9cb5",
+    "wof:geomhash":"aa2f1ccc86481b823f3642f657523577",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101995509,
-    "wof:lastmodified":1479904444,
+    "wof:lastmodified":1566632638,
     "wof:name":"Santiago Etla",
     "wof:parent_id":102075963,
     "wof:placetype":"locality",

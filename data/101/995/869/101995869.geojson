@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.302001,
     "lbl:longitude":-97.912775,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.302001,
     "mps:longitude":-97.912775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santa Mar\u00eda Huazolotitlan"
     ],
@@ -63,9 +66,6 @@
     "name:swe_x_preferred":[
         "Santa Mar\u00eda Huazolotitlan"
     ],
-    "name:unk_x_variant":[
-        "Huazolotitlan"
-    ],
     "name:vie_x_preferred":[
         "Santa Mar\u00eda Huazolotitl\u00e1n"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -99,7 +99,6 @@
         "fct:id":"01af771c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517250,
         "gp:id":146516,
-        "qs:id":1203806,
         "qs_pg:id":1203806,
         "wd:id":"Q3890493",
         "wk:page":"Santa Mar\u00eda Huazolotitl\u00e1n"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397818,
+    "wof:lastmodified":1566632616,
     "wof:name":"Santa Mar\u00eda Huazolotitl\u00e1n",
     "wof:parent_id":102076709,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-99.04057,21.71492,-99.04057,21.71492",
     "geom:latitude":21.71492,
     "geom:longitude":-99.04057,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.04557,21.70992,-99.03557,21.71992",
     "lbl:latitude":21.71492,
     "lbl:longitude":-99.04057,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "El Rosario"
@@ -45,16 +48,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55890789,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"San Luis Potosi",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686647,
         102191575,
         85633293,
-        102077249,
-        85686647
+        102077249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126100047,
-    "wof:lastmodified":1509412072,
+    "wof:lastmodified":1566633945,
     "wof:name":"Rotarios",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

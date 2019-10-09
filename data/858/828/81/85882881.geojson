@@ -11,8 +11,10 @@
     "geom:longitude":-94.425303,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-94.430303,18.143952,-94.420303,18.153952",
     "lbl:latitude":18.148952,
     "lbl:longitude":-94.425303,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.15296,
     "mps:longitude":-94.416759,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Maria de la Piedad"
-    ],
-    "name:unk_x_variant":[
         "Maria de la Piedad"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686671,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887839,
-        "qs:id":234221,
         "qs_pg:id":234221
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957710,
+    "wof:lastmodified":1566619570,
     "wof:name":"Maria de la Piedad",
     "wof:parent_id":101998237,
     "wof:placetype":"neighbourhood",

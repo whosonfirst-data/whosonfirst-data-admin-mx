@@ -11,8 +11,10 @@
     "geom:longitude":-101.181335,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.186335,20.385974,-101.176335,20.395974",
     "lbl:latitude":20.390974,
     "lbl:longitude":-101.181335,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.390974,
     "mps:longitude":-101.181335,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Valle de Santiago Centro"
-    ],
-    "name:unk_x_variant":[
         "Valle de Santiago Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686629,
         102191575,
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55893224,
-        "qs:id":775927,
         "qs_pg:id":775927
     },
     "wof:country":"MX",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619617,
     "wof:name":"Valle de Santiago Centro",
     "wof:parent_id":101996805,
     "wof:placetype":"neighbourhood",

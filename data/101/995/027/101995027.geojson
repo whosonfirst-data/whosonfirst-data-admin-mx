@@ -9,14 +9,17 @@
     "geom:bbox":"-97.4154546952,17.8687829755,-97.3883930284,17.884949297",
     "geom:latitude":17.878289,
     "geom:longitude":-97.402266,
-    "geonames:id":"3530344,3762682",
+    "gn:id":"3530344,3762682",
     "iso:country":"MX",
     "lbl:latitude":17.879513,
     "lbl:longitude":-97.400928,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.879513,
     "mps:longitude":-97.400928,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Concepci\u00f3n Buenavista"
     ],
@@ -56,7 +59,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101995027,
-    "wof:lastmodified":1564171343,
+    "wof:lastmodified":1566632644,
     "wof:name":"Concepci\u00f3n Buenavista",
     "wof:parent_id":102076145,
     "wof:placetype":"locality",

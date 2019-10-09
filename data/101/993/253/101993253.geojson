@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.029371,
     "lbl:longitude":-99.266106,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.029371,
     "mps:longitude":-99.266106,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:nld_x_preferred":[
         "Huitzilac"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -56,7 +59,6 @@
         "fct:id":"01b863e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526883,
         "gp:id":125264,
-        "qs:id":245617,
         "qs_pg:id":245617,
         "wd:id":"Q20146625"
     },
@@ -75,7 +77,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398188,
+    "wof:lastmodified":1566632806,
     "wof:name":"Huitzilac",
     "wof:parent_id":102074245,
     "wof:placetype":"locality",

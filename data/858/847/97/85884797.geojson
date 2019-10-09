@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3674536.735264,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.906111,22.899693,-109.906111,22.899693",
     "geom:latitude":22.899693,
     "geom:longitude":-109.906111,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.911111,22.894693,-109.901111,22.904693",
     "lbl:latitude":22.899693,
     "lbl:longitude":-109.906111,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.903829,
     "mps:longitude":-109.906056,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Ampl Juarez"
-    ],
-    "name:unk_x_variant":[
         "Ampl Juarez"
     ],
     "qs:gn_id":0,
@@ -55,17 +54,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686555,
         102191575,
         85633293,
-        102074525,
-        85686555
+        102074525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908321,
-        "qs:id":1071885,
         "qs_pg:id":1071885
     },
     "wof:country":"MX",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874622,
+    "wof:lastmodified":1566619659,
     "wof:name":"Ampl Juarez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

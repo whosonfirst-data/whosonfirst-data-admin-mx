@@ -12,8 +12,10 @@
     "gn:id":"",
     "gn:population":5785,
     "iso:country":"MX",
+    "lbl:bbox":"-98.195127,19.042508,-98.185127,19.052508",
     "lbl:latitude":19.047508,
     "lbl:longitude":-98.190127,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.049955,
     "mps:longitude":-98.19178,
     "mz:hierarchy_label":0,
@@ -53,9 +55,8 @@
         "Ciudad de Cuetzalan",
         "Cuetzalan"
     ],
-    "name:unk_x_variant":[
-        "Chetzal\u00e1n",
-        "San Francisco"
+    "name:und_x_variant":[
+        "Chetzal\u00e1n"
     ],
     "name:vie_x_preferred":[
         "Cuetzalan del Progreso"
@@ -88,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686657,
@@ -102,10 +103,12 @@
         "fct:id":"01bee47c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529932,
         "gp:id":55884524,
-        "qs:id":242586,
-        "qs_pg:id":1091852,
+        "qs_pg:id":242586,
         "wd:id":"Q2651808",
         "wk:page":"Cuetzalan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1091852
     },
     "wof:country":"MX",
     "wof:geomhash":"c1e3bad1db3f456ec41d6925022fd586",
@@ -123,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375380,
+    "wof:lastmodified":1566619578,
     "wof:name":"San Francisco",
     "wof:parent_id":101999639,
     "wof:placetype":"neighbourhood",

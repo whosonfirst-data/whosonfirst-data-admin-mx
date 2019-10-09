@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.284054,
     "lbl:longitude":-99.01641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.284054,
     "mps:longitude":-99.01641,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Salvador"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         102191575,
@@ -107,10 +110,12 @@
     "wof:concordances":{
         "gn:id":3517835,
         "gp:id":145381,
-        "qs:id":300995,
-        "qs_pg:id":489525,
+        "qs_pg:id":300995,
         "wd:id":"Q3844533",
         "wk:page":"San Salvador, Hidalgo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":489525
     },
     "wof:country":"MX",
     "wof:geomhash":"cc9b1991512d9edb73e260e10235592e",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":102000273,
-    "wof:lastmodified":1563369655,
+    "wof:lastmodified":1566615663,
     "wof:name":"San Salvador",
     "wof:parent_id":102078645,
     "wof:placetype":"locality",

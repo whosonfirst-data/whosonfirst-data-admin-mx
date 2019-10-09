@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
-    "geom:area_square_m":5254219.607222,
+    "geom:area_square_m":5254219.607226,
     "geom:bbox":"-98.8642265262,19.5656077806,-98.8377220312,19.5945524094",
     "geom:latitude":19.580221,
     "geom:longitude":-98.851753,
     "iso:country":"MX",
     "lbl:latitude":19.578957,
     "lbl:longitude":-98.853323,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.578957,
     "mps:longitude":-98.853323,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55895922
     },
     "wof:country":"MX",
-    "wof:geomhash":"34abb9d12a508cb9ff7b4cbe75ad4674",
+    "wof:geomhash":"7d850432343cae883032344066da5e95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101991857,
-    "wof:lastmodified":1479931253,
+    "wof:lastmodified":1566632309,
     "wof:name":"Concepci\u00f3n Jolalpan",
     "wof:parent_id":102074037,
     "wof:placetype":"locality",

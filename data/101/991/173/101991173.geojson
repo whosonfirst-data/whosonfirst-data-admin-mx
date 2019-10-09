@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.394213,
     "lbl:longitude":-99.103888,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.394213,
     "mps:longitude":-99.103888,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Iztacalco"
     ],
@@ -60,7 +63,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +76,7 @@
         "fct:id":"01aeb322-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3526700,
         "gp:id":125525,
-        "qs:id":239711,
+        "qs_pg:id":239711,
         "wd:id":"Q20237037"
     },
     "wof:country":"MX",
@@ -91,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397250,
+    "wof:lastmodified":1566632315,
     "wof:name":"Iztacalco",
     "wof:parent_id":102073751,
     "wof:placetype":"locality",

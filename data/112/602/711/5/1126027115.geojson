@@ -9,19 +9,23 @@
     "geom:bbox":"-98.84829,19.58197,-98.84829,19.58197",
     "geom:latitude":19.58197,
     "geom:longitude":-98.84829,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.86829,19.56197,-98.82829,19.60197",
     "lbl:latitude":19.58197,
     "lbl:longitude":-98.84829,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Concepci\u00f3n Jolalpan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Concepci\u00f3n Jolalpan"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,7 +47,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55895922,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1126027115,
-    "wof:lastmodified":1509407609,
+    "wof:lastmodified":1566633964,
     "wof:name":"Concepcion Jolalpan",
     "wof:parent_id":102074037,
     "wof:placetype":"locality",

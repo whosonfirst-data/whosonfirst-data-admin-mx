@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.160492,
     "lbl:longitude":-102.328677,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.160492,
     "mps:longitude":-102.328677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chupaderos"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":435,
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101994065,
-    "wof:lastmodified":1527714438,
+    "wof:lastmodified":1566632846,
     "wof:name":"Chupaderos",
     "wof:parent_id":102075481,
     "wof:placetype":"locality",

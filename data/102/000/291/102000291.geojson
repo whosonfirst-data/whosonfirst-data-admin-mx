@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.100801,
     "lbl:longitude":-98.720477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.100801,
     "mps:longitude":-98.720477,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Hidalgo",
     "qs:a1_lc":"13",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"6a5a89454a8be26740b1b26e4a2e1734",
+    "wof:geomhash":"23becc1aceb4b2f0ed65fba026a259b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":102000291,
-    "wof:lastmodified":1479907615,
+    "wof:lastmodified":1566615710,
     "wof:name":"Unidad Habitacional CTM",
     "wof:parent_id":102078543,
     "wof:placetype":"locality",

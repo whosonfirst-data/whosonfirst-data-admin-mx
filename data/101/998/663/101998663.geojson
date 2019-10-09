@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.886905,
     "lbl:longitude":-95.13891,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":17.886905,
     "mps:longitude":-95.13891,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "San Juan Evangelista"
     ],
@@ -40,9 +43,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u0425\u0443\u0430\u043d \u0415\u0432\u0430\u043d\u0445\u0435\u043b\u0438\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Santana Rodriguez"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
     "qs:a1_lc":"30",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -73,7 +73,6 @@
         "fct:id":"01b910a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3518679,
         "gp:id":143939,
-        "qs:id":148697,
         "qs_pg:id":148697,
         "wd:id":"Q20272500"
     },
@@ -92,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397178,
+    "wof:lastmodified":1566632274,
     "wof:name":"San Juan Evangelista",
     "wof:parent_id":102077693,
     "wof:placetype":"locality",

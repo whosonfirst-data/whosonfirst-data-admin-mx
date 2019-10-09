@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.533572,
     "lbl:longitude":-96.551609,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.533572,
     "mps:longitude":-96.551609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Pablo Macuiltianguis"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "San Pablo Macuiltianguis"
     ],
-    "name:unk_x_variant":[
-        "Macuiltianguis"
-    ],
     "name:vie_x_preferred":[
         "San Pablo Macuiltianguis"
     ],
@@ -85,7 +85,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -115,7 +115,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397813,
+    "wof:lastmodified":1566632614,
     "wof:name":"San Pablo Macuiltianguis",
     "wof:parent_id":102076493,
     "wof:placetype":"locality",

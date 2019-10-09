@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1427924.322724,
+    "geom:area_square_m":1427924.322731,
     "geom:bbox":"-98.1396532265,19.3036526459,-98.1158328113,19.3165185203",
     "geom:latitude":19.310285,
     "geom:longitude":-98.127844,
     "iso:country":"MX",
     "lbl:latitude":19.310187,
     "lbl:longitude":-98.12865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.310187,
     "mps:longitude":-98.12865,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tlaxcala",
     "qs:a1_lc":"29",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":117268
     },
     "wof:country":"MX",
-    "wof:geomhash":"b2fc6f14738b1779fe1df55cd6e064c5",
+    "wof:geomhash":"095da25d23b604dfedf718ed9245b2f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101999123,
-    "wof:lastmodified":1479907104,
+    "wof:lastmodified":1566632581,
     "wof:name":"San Jos\u00e9 Aztatla",
     "wof:parent_id":102077941,
     "wof:placetype":"locality",

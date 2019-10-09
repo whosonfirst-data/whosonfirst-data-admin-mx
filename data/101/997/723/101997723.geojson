@@ -9,14 +9,17 @@
     "geom:bbox":"-103.609355782,19.9968757952,-103.586371515,20.0205579842",
     "geom:latitude":20.009415,
     "geom:longitude":-103.597485,
-    "geonames:id":"4018637,4018636",
+    "gn:id":"4018637,4018636",
     "iso:country":"MX",
     "lbl:latitude":20.010694,
     "lbl:longitude":-103.595741,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.010694,
     "mps:longitude":-103.595741,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Amacueca"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101997723,
-    "wof:lastmodified":1564171276,
+    "wof:lastmodified":1566632466,
     "wof:name":"Amacueca",
     "wof:parent_id":102074699,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10622167.399475,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.636027,17.046859,-96.636027,17.046859",
     "geom:latitude":17.046859,
     "geom:longitude":-96.636027,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.641027,17.041859,-96.631027,17.051859",
     "lbl:latitude":17.046859,
     "lbl:longitude":-96.636027,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.047594,
     "mps:longitude":-96.637028,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Res El Tule"
-    ],
-    "name:unk_x_variant":[
         "Res El Tule"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
         101995853,
-        102076107,
-        85686623
+        102076107
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55917363,
-        "qs:id":475944,
         "qs_pg:id":475944
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874736,
+    "wof:lastmodified":1566619613,
     "wof:name":"Res El Tule",
     "wof:parent_id":101995853,
     "wof:placetype":"neighbourhood",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":2386676.25527,
+    "geom:area_square_m":2386676.255283,
     "geom:bbox":"-98.8657097028,19.2405670657,-98.8516157287,19.2672932236",
     "geom:latitude":19.256421,
     "geom:longitude":-98.858426,
     "iso:country":"MX",
     "lbl:latitude":19.258422,
     "lbl:longitude":-98.858321,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.258422,
     "mps:longitude":-98.858321,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Cuautzingo"
     ],
     "qs:a0":"Mexico",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3519214,
         "gp:id":142750,
-        "qs:id":907850,
         "qs_pg:id":907850
     },
     "wof:country":"MX",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101992791,
-    "wof:lastmodified":1497299556,
+    "wof:lastmodified":1566632674,
     "wof:name":"San Gregorio Cuautzingo",
     "wof:parent_id":102074173,
     "wof:placetype":"locality",

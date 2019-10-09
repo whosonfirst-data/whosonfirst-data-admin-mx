@@ -9,17 +9,19 @@
     "geom:bbox":"-100.87277,21.46575,-100.87277,21.46575",
     "geom:latitude":21.46575,
     "geom:longitude":-100.87277,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6072,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
     "gn:population":6072,
     "iso:country":"MX",
+    "lbl:bbox":"-100.87777,21.46075,-100.86777,21.47075",
     "lbl:latitude":21.46575,
     "lbl:longitude":-100.87277,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Diego de la Union"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,18 +45,18 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55887408,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Guanajuato",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
         101996735,
-        102077333,
-        85686629
+        102077333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1126065457,
-    "wof:lastmodified":1509410399,
+    "wof:lastmodified":1566634154,
     "wof:name":"San Diego de la Union Centro",
     "wof:parent_id":101996735,
     "wof:placetype":"neighbourhood",

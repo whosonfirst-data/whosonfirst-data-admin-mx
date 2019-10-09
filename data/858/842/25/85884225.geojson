@@ -11,8 +11,10 @@
     "geom:longitude":-104.636536,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-104.641536,24.025411,-104.631536,24.035411",
     "lbl:latitude":24.030411,
     "lbl:longitude":-104.636536,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.031413,
     "mps:longitude":-104.636004,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Del Maestro"
-    ],
-    "name:unk_x_variant":[
         "Del Maestro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686573,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55901012,
-        "qs:id":475367,
         "qs_pg:id":475367
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619567,
     "wof:name":"Del Maestro",
     "wof:parent_id":101994335,
     "wof:placetype":"neighbourhood",

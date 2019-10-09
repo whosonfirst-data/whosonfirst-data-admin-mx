@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11947675.202462,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.923805,32.225082,-116.923805,32.225082",
     "geom:latitude":32.225082,
     "geom:longitude":-116.923805,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.928805,32.220082,-116.918805,32.230082",
     "lbl:latitude":32.225082,
     "lbl:longitude":-116.923805,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.229029,
     "mps:longitude":-116.919641,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Campo Reynoso"
-    ],
-    "name:unk_x_variant":[
         "Campo Reynoso"
     ],
     "qs:gn_id":0,
@@ -54,15 +53,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55895258,
-        "qs:id":1341440
+        "qs_pg:id":1341440
     },
     "wof:country":"MX",
     "wof:geomhash":"e6d9ea6898b8aaa193e540b65ff14171",
@@ -79,7 +77,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874338,
+    "wof:lastmodified":1566619620,
     "wof:name":"Campo Reynoso",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

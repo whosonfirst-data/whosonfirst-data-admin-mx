@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.028046,
     "lbl:longitude":-101.878193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.028046,
     "mps:longitude":-101.878193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Pur\u00edsima del Rinc\u00f3n"
     ],
@@ -80,9 +83,6 @@
     "name:swe_x_preferred":[
         "Pur\u00edsima del Rinc\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Pur\u00edsima"
-    ],
     "name:vec_x_preferred":[
         "Pur\u00edsima del Rinc\u00f3n"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -120,7 +120,6 @@
         "fct:id":"01b8e2f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3991226,
         "gp:id":137979,
-        "qs:id":1164482,
         "qs_pg:id":1164482,
         "wd:id":"Q948895",
         "wk:page":"Pur\u00edsima del Rinc\u00f3n"
@@ -140,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397433,
+    "wof:lastmodified":1566632411,
     "wof:name":"Pur\u00edsima de Bustos",
     "wof:parent_id":102077261,
     "wof:placetype":"locality",

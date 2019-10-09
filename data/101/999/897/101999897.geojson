@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.814483,
     "lbl:longitude":-97.809014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.814483,
     "mps:longitude":-97.809014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tetela de Ocampo Municipality"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Tetela de Ocampo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tetetla de Ocampo"
     ],
     "name:vie_x_preferred":[
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101999897,
-    "wof:lastmodified":1563397750,
+    "wof:lastmodified":1566632579,
     "wof:name":"Ciudad de Tetela de Ocampo",
     "wof:parent_id":102078363,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":20.540735,
     "geom:longitude":-97.470374,
     "iso:country":"MX",
+    "lbl:bbox":"-97.475374,20.535735,-97.465374,20.545735",
     "lbl:latitude":20.540735,
     "lbl:longitude":-97.470374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.541456,
     "mps:longitude":-97.473,
     "mz:hierarchy_label":0,
@@ -44,9 +46,6 @@
     "name:swe_x_preferred":[
         "Palma Sola"
     ],
-    "name:unk_x_variant":[
-        "Palma Sola"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3521168,
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686671,
         102191575,
@@ -88,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3522101,
         "gp:id":55886548,
-        "qs:id":357324,
         "qs_pg:id":357324
     },
     "wof:country":"MX",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147140,
+    "wof:lastmodified":1566619548,
     "wof:name":"Palma Sola",
     "wof:parent_id":101998613,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7221940.551185,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.629187,21.133855,-99.629187,21.133855",
     "geom:latitude":21.133855,
     "geom:longitude":-99.629187,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.634187,21.128855,-99.624187,21.138855",
     "lbl:latitude":21.133855,
     "lbl:longitude":-99.629187,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.130621,
     "mps:longitude":-99.633764,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio la Escondida"
-    ],
-    "name:unk_x_variant":[
         "Barrio la Escondida"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686641,
         102191575,
         85633293,
-        102077093,
-        85686641
+        102077093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55908728,
-        "qs:id":1155364,
         "qs_pg:id":1155364
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874637,
+    "wof:lastmodified":1566619639,
     "wof:name":"Barrio la Escondida",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

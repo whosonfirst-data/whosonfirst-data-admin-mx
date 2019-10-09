@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.770946,
     "lbl:longitude":-99.357877,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.770946,
     "mps:longitude":-99.357877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Miacatl\u00e1n"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -86,7 +89,6 @@
         "fct:id":"01b16ad6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3523247,
         "gp:id":133566,
-        "qs:id":113977,
         "qs_pg:id":113977,
         "wd:id":"Q3311362",
         "wk:page":"Miacatl\u00e1n"
@@ -106,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398104,
+    "wof:lastmodified":1566632762,
     "wof:name":"Miacatl\u00e1n",
     "wof:parent_id":102074243,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.230771,
     "lbl:longitude":-98.995789,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.231661,
     "mps:longitude":-98.997913,
     "mz:hierarchy_label":1,
@@ -87,9 +88,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0439\u043c\u0435 \u0422\u043e\u0440\u0440\u0435\u0441 \u0411\u043e\u0434\u0435\u0442"
     ],
-    "name:unk_x_variant":[
-        "Jaime Torres Bodet"
-    ],
     "name:zho_x_preferred":[
         "\u6d77\u6885\u00b7\u6258\u96f7\u65af\u00b7\u535a\u5fb7"
     ],
@@ -118,7 +116,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":217,
     "wof:belongsto":[
         85686515,
@@ -130,7 +128,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903732,
-        "qs:id":975377,
+        "qs_pg:id":975377,
         "wd:id":"Q553110"
     },
     "wof:country":"MX",
@@ -149,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375393,
+    "wof:lastmodified":1566619586,
     "wof:name":"Jaime Torres Bodet",
     "wof:parent_id":101991127,
     "wof:placetype":"neighbourhood",

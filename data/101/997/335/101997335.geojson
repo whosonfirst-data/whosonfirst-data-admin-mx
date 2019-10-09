@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
-    "geom:area_square_m":175958.283901,
+    "geom:area_square_m":175958.283896,
     "geom:bbox":"-101.19520148,19.7481426213,-101.191647471,19.7536476645",
     "geom:latitude":19.75063,
     "geom:longitude":-101.1935,
     "iso:country":"MX",
     "lbl:latitude":19.750361,
     "lbl:longitude":-101.193465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.750361,
     "mps:longitude":-101.193465,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Michoac\u00e1n de Ocampo",
     "qs:a1_lc":"16",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":90275406
     },
     "wof:country":"MX",
-    "wof:geomhash":"312e4998512e4307abaa6b084fd73431",
+    "wof:geomhash":"96a6c03364bd94e13f7ca0097e24c30d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997335,
-    "wof:lastmodified":1479904472,
+    "wof:lastmodified":1566632473,
     "wof:name":"Fraccionamiento Puerta del Sol",
     "wof:parent_id":102075027,
     "wof:placetype":"locality",

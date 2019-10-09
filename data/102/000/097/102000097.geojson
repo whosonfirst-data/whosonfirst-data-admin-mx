@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
-    "geom:area_square_m":207803.381767,
+    "geom:area_square_m":207803.381766,
     "geom:bbox":"-98.1549777906,18.9955756716,-98.1476636091,19.0003101542",
     "geom:latitude":18.997809,
     "geom:longitude":-98.15112,
     "iso:country":"MX",
     "lbl:latitude":18.997927,
     "lbl:longitude":-98.150758,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.997927,
     "mps:longitude":-98.150758,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Puebla",
     "qs:a1_lc":"21",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":137612
     },
     "wof:country":"MX",
-    "wof:geomhash":"e9e756c835f295e02c90a1f20ef76658",
+    "wof:geomhash":"b5276263e52518aca8a12d37077bd65b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000097,
-    "wof:lastmodified":1479908276,
+    "wof:lastmodified":1566615679,
     "wof:name":"Galaxia la Calera",
     "wof:parent_id":102078237,
     "wof:placetype":"locality",

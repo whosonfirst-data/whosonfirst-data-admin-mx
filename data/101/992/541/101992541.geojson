@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.706983,
     "lbl:longitude":-99.139891,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.706983,
     "mps:longitude":-99.139891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Melchor Ocampo"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -88,9 +91,11 @@
     "wof:concordances":{
         "gn:id":4026082,
         "gp:id":22695662,
-        "qs:id":1062047,
-        "qs_pg:id":1101162,
+        "qs_pg:id":1062047,
         "wd:id":"Q11115430"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101162
     },
     "wof:country":"MX",
     "wof:geomhash":"1cfcffe847beedaf38a430b1dc5f116b",
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":101992541,
-    "wof:lastmodified":1563398059,
+    "wof:lastmodified":1566632741,
     "wof:name":"Melchor Ocampo",
     "wof:parent_id":102074115,
     "wof:placetype":"locality",

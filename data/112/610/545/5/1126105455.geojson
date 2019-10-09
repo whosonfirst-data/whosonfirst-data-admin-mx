@@ -9,16 +9,19 @@
     "geom:bbox":"-98.30611,19.33028,-98.30611,19.33028",
     "geom:latitude":19.33028,
     "geom:longitude":-98.30611,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-98.31111,19.32528,-98.30111,19.33528",
     "lbl:latitude":19.33028,
     "lbl:longitude":-98.30611,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jes\u00fas Acatitla"
     ],
     "qs_pg:aaroncc":"MX",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55897067,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Mexico",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686653,
         102191575,
         85633293,
-        102077929,
-        85686653
+        102077929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126105455,
-    "wof:lastmodified":1509412347,
+    "wof:lastmodified":1566633920,
     "wof:name":"Acatitla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,10 @@
     "gn:id":"",
     "gn:population":1512354,
     "iso:country":"MX",
+    "lbl:bbox":"-106.082919,28.669182,-106.072919,28.679182",
     "lbl:latitude":28.674182,
     "lbl:longitude":-106.077919,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.672757,
     "mps:longitude":-106.075436,
     "mz:hierarchy_label":0,
@@ -208,9 +210,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u044e\u0434\u0430\u0434-\u0425\u0443\u0430\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Juarez",
-        "Paso Del Norte"
+    "name:und_x_variant":[
+        "Juarez"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0648\u062f\u0627\u062f \u062e\u0648\u0627\u0631\u06cc\u0632"
@@ -327,7 +328,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686581,
@@ -341,7 +342,6 @@
         "fct:id":"01c66dc8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013708,
         "gp:id":55895493,
-        "qs:id":1199387,
         "qs_pg:id":1199387,
         "wk:page":"Ciudad Ju\u00e1rez"
     },
@@ -361,7 +361,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147246,
+    "wof:lastmodified":1566619625,
     "wof:name":"Paso Del Norte",
     "wof:parent_id":101994137,
     "wof:placetype":"neighbourhood",

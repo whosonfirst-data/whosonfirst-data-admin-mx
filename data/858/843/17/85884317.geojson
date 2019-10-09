@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5368269.058172,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.09875,19.14916,-96.09875,19.14916",
     "geom:latitude":19.14916,
     "geom:longitude":-96.09875,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.10375,19.14416,-96.09375,19.15416",
     "lbl:latitude":19.14916,
     "lbl:longitude":-96.09875,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.152952,
     "mps:longitude":-96.081472,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Unidad Hab Heriberto Kehoe"
-    ],
-    "name:unk_x_variant":[
         "Unidad Hab Heriberto Kehoe"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,19 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686671,
         102191575,
         85633293,
         101998203,
-        102077443,
-        85686671
+        102077443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55902674,
-        "qs:id":230845,
         "qs_pg:id":230845
     },
     "wof:country":"MX",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874509,
+    "wof:lastmodified":1566619581,
     "wof:name":"Unidad Hab Heriberto Kehoe",
     "wof:parent_id":101998203,
     "wof:placetype":"neighbourhood",

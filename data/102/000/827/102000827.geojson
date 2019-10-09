@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000364,
-    "geom:area_square_m":4055299.805376,
+    "geom:area_square_m":4055299.80538,
     "geom:bbox":"-103.310950655,25.6830180778,-103.273086688,25.7115354675",
     "geom:latitude":25.693238,
     "geom:longitude":-103.289296,
     "iso:country":"MX",
     "lbl:latitude":25.694312,
     "lbl:longitude":-103.284875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.694312,
     "mps:longitude":-103.284875,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Coahuila de Zaragoza",
     "qs:a1_lc":"05",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900164
     },
     "wof:country":"MX",
-    "wof:geomhash":"0d83b81db5a2d2aeeb7a144ba19864aa",
+    "wof:geomhash":"008dbd2fb7a718ffc3e63c511a902a9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102000827,
-    "wof:lastmodified":1479907974,
+    "wof:lastmodified":1566615661,
     "wof:name":"San Antonio del Coyote",
     "wof:parent_id":102078793,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-101.549165,
     "gn:population":24,
     "iso:country":"MX",
+    "lbl:bbox":"-101.554165,17.625314,-101.544165,17.635314",
     "lbl:latitude":17.630314,
     "lbl:longitude":-101.549165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.624075,
     "mps:longitude":-101.546013,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0430 \u041c\u0430\u0434\u0435\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
-        "La Madera"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPL",
@@ -61,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575
@@ -70,7 +69,7 @@
     "wof:concordances":{
         "gn:id":4026837,
         "gp:id":55887815,
-        "qs:id":1119070,
+        "qs_pg:id":1119070,
         "wd:id":"Q20207893"
     },
     "wof:country":"MX",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375372,
+    "wof:lastmodified":1566619572,
     "wof:name":"La Madera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

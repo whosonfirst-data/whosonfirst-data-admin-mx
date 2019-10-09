@@ -13,6 +13,8 @@
     "iso:country":"MX",
     "lbl:latitude":19.798472,
     "lbl:longitude":-99.098871,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.798472,
     "mps:longitude":-99.098871,
     "mz:hierarchy_label":1,
@@ -130,9 +132,6 @@
     "name:tur_x_preferred":[
         "Zumpango"
     ],
-    "name:unk_x_variant":[
-        "Zumpango"
-    ],
     "name:vie_x_preferred":[
         "Zumpango"
     ],
@@ -248,7 +247,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -261,7 +260,6 @@
         "fct:id":"01b9b8da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3513966,
         "gp:id":151832,
-        "qs:id":274386,
         "qs_pg:id":274386,
         "wd:id":"Q1115965",
         "wk:page":"Zumpango"
@@ -281,7 +279,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397266,
+    "wof:lastmodified":1566632326,
     "wof:name":"Zumpango de Ocampo",
     "wof:parent_id":102073979,
     "wof:placetype":"locality",

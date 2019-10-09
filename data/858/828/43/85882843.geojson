@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3023639.761631,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.642761,21.194654,-101.642761,21.194654",
     "geom:latitude":21.194654,
     "geom:longitude":-101.642761,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-101.647761,21.189654,-101.637761,21.199654",
     "lbl:latitude":21.194654,
     "lbl:longitude":-101.642761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.196217,
     "mps:longitude":-101.641714,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Ibarrilla Poniente"
-    ],
-    "name:unk_x_variant":[
         "Ibarrilla Poniente"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686629,
         102191575,
         85633293,
-        102077349,
-        85686629
+        102077349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55887251,
-        "qs:id":1031301
+        "qs_pg:id":1031301
     },
     "wof:country":"MX",
     "wof:geomhash":"4a54f870ef79797a71291d805b48a3b8",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874142,
+    "wof:lastmodified":1566619570,
     "wof:name":"Ibarrilla Poniente",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

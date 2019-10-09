@@ -10,8 +10,10 @@
     "geom:latitude":32.516451,
     "geom:longitude":-116.864624,
     "iso:country":"MX",
+    "lbl:bbox":"-116.869624,32.511451,-116.859624,32.521451",
     "lbl:latitude":32.516451,
     "lbl:longitude":-116.864624,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.51671,
     "mps:longitude":-116.866133,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Valle Verde"
     ],
     "name:swe_x_preferred":[
-        "Valle Verde"
-    ],
-    "name:unk_x_variant":[
         "Valle Verde"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -63,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -75,7 +74,7 @@
     "wof:concordances":{
         "gn:id":4020851,
         "gp:id":55883171,
-        "qs:id":1293167
+        "qs_pg:id":1293167
     },
     "wof:country":"MX",
     "wof:geomhash":"561378c7ea303745c7dbe58316f6e656",
@@ -93,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147320,
+    "wof:lastmodified":1566619671,
     "wof:name":"Valle Verde",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

@@ -5,20 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1786611.21415,
+    "geom:area_square_m":1786611.214149,
     "geom:bbox":"-102.635836661,20.1449834724,-102.612173559,20.1622086486",
     "geom:latitude":20.151134,
     "geom:longitude":-102.625183,
     "iso:country":"MX",
     "lbl:latitude":20.151403,
     "lbl:longitude":-102.626338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.151403,
     "mps:longitude":-102.626338,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
-        "Morelos"
-    ],
-    "name:unk_x_variant":[
         "Morelos"
     ],
     "qs:a0":"Mexico",
@@ -38,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,8 +51,10 @@
         "fct:id":"01d69874-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4012166,
         "gp:id":118013,
-        "qs:id":1028664,
         "qs_pg:id":33676
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028664
     },
     "wof:country":"MX",
     "wof:geomhash":"b057a2014f3ebd829fbc854df53a12e7",
@@ -68,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1497296038,
+    "wof:lastmodified":1566632461,
     "wof:name":"Cumuatillo",
     "wof:parent_id":102075101,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.451088,
     "lbl:longitude":-98.016539,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":16.451088,
     "mps:longitude":-98.016539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Pedro Jicay\u00e1n"
     ],
@@ -63,9 +66,6 @@
     "name:swe_x_preferred":[
         "San Pedro Jicay\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Jicayan"
-    ],
     "name:vie_x_preferred":[
         "San Pedro Jicay\u00e1n"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -99,7 +99,6 @@
         "fct:id":"01aef40e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517988,
         "gp:id":145093,
-        "qs:id":285871,
         "qs_pg:id":285871,
         "wd:id":"Q7415114",
         "wk:page":"San Pedro Jicay\u00e1n"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397353,
+    "wof:lastmodified":1566632372,
     "wof:name":"San Pedro Jicay\u00e1n",
     "wof:parent_id":102076871,
     "wof:placetype":"locality",

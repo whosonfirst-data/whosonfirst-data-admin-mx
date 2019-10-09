@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.320055,
     "lbl:longitude":-99.462005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.320055,
     "mps:longitude":-99.462005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "San Mateo Atarasqu\u00edllo"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":3827368,
         "gp:id":55901284,
-        "qs:id":73413,
         "qs_pg:id":73413,
         "wd:id":"Q20240217"
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101991515,
-    "wof:lastmodified":1563397311,
+    "wof:lastmodified":1566632351,
     "wof:name":"San Mateo Atarasquillo",
     "wof:parent_id":102074119,
     "wof:placetype":"locality",

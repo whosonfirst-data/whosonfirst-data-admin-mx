@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":1109827.517413,
+    "geom:area_square_m":1109827.517415,
     "geom:bbox":"-105.450328967,28.2321286586,-105.438244375,28.2458296002",
     "geom:latitude":28.239619,
     "geom:longitude":-105.44332,
     "iso:country":"MX",
     "lbl:latitude":28.240019,
     "lbl:longitude":-105.443204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.240019,
     "mps:longitude":-105.443204,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Chihuahua",
     "qs:a1_lc":"08",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900290
     },
     "wof:country":"MX",
-    "wof:geomhash":"5cc4f42fbeec7532829f1eaf506b308d",
+    "wof:geomhash":"8e6538db2ebc7294edecee879340b9e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101994319,
-    "wof:lastmodified":1479904006,
+    "wof:lastmodified":1566632902,
     "wof:name":"Colonia Revoluci\u00f3n",
     "wof:parent_id":102075275,
     "wof:placetype":"locality",

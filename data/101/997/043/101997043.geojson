@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":21.24637,
     "lbl:longitude":-105.166168,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":21.24637,
     "mps:longitude":-105.166168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zacualpan"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Zacualpan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zacualpa"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -81,7 +84,6 @@
         "fct:id":"01b9b2d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3979819,
         "gp:id":151534,
-        "qs:id":242003,
         "qs_pg:id":242003,
         "wd:id":"Q8064130",
         "wk:page":"Zacualpan, Nayarit"
@@ -101,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397586,
+    "wof:lastmodified":1566632487,
     "wof:name":"Zacualpan",
     "wof:parent_id":102074585,
     "wof:placetype":"locality",

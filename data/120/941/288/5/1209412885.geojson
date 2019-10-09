@@ -24,8 +24,12 @@
     "gn:population":190,
     "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-91.56639,17.11333,-91.52639,17.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":8872666
     },
     "wof:country":"MX",
-    "wof:geomhash":"f17f29f1268171b62fd3a8b21273a96a",
+    "wof:geomhash":"efe87c2cfc820b4322db95c2dad40d51",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209412885,
-    "wof:lastmodified":1536287781,
+    "wof:lastmodified":1566626042,
     "wof:name":"Lindavista Xinich",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
 },
   "bbox": [
     -91.54639,
-    17.133329999999994,
+    17.13332999999999,
     -91.54639,
-    17.133329999999994
+    17.13332999999999
 ],
   "geometry": {"coordinates":[-91.54639,17.13332999999999],"type":"Point"}
 }

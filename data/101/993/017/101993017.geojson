@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.322873,
     "lbl:longitude":-100.269261,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":22.322873,
     "mps:longitude":-100.269261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Villa Ju\u00e1rez"
     ],
@@ -38,9 +41,6 @@
     "name:spa_x_variant":[
         "Villa Ju\u00e1rez"
     ],
-    "name:unk_x_variant":[
-        "Villa Juarez"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*San Luis Potos\u00ed",
     "qs:a1_lc":"24",
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -71,7 +71,6 @@
         "fct:id":"01bb1004-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3973756,
         "gp:id":55902760,
-        "qs:id":151214,
         "qs_pg:id":151214,
         "wd:id":"Q3849466"
     },
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398176,
+    "wof:lastmodified":1566632801,
     "wof:name":"Villa Ju\u00e1rez",
     "wof:parent_id":102077139,
     "wof:placetype":"locality",

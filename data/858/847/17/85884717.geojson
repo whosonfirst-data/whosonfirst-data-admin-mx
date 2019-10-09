@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11207542.323035,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.033808,19.903136,-103.033808,19.903136",
     "geom:latitude":19.903136,
     "geom:longitude":-103.033808,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.038808,19.898136,-103.028808,19.908136",
     "lbl:latitude":19.903136,
     "lbl:longitude":-103.033808,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.901391,
     "mps:longitude":-103.035806,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Paseo de Los Cazos"
-    ],
-    "name:unk_x_variant":[
         "Fracc Paseo de Los Cazos"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
-        102074779,
-        85686603
+        102074779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55906727,
-        "qs:id":270094
+        "qs_pg:id":270094
     },
     "wof:country":"MX",
     "wof:geomhash":"3d76668a393239de539e8c050caaf00c",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874599,
+    "wof:lastmodified":1566619657,
     "wof:name":"Fracc Paseo de Los Cazos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

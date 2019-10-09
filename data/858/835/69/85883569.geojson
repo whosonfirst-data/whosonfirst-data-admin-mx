@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5558539.83339,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.756527,16.742031,-99.756527,16.742031",
     "geom:latitude":16.742031,
     "geom:longitude":-99.756527,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.761527,16.737031,-99.751527,16.747031",
     "lbl:latitude":16.742031,
     "lbl:longitude":-99.756527,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.741123,
     "mps:longitude":-99.75424,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Alfredo V Bonfil"
-    ],
-    "name:unk_x_variant":[
         "Alfredo V Bonfil"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,12 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55896654,
-        "qs:id":20220
+        "qs_pg:id":20220
     },
     "wof:country":"MX",
     "wof:geomhash":"a5b14761edb7daa7ad6955318e214887",
@@ -79,7 +78,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874374,
+    "wof:lastmodified":1566619597,
     "wof:name":"Alfredo V Bonfil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

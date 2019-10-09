@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
-    "geom:area_square_m":1064494.466551,
+    "geom:area_square_m":1064494.466544,
     "geom:bbox":"-100.506453721,20.7804120036,-100.485862153,20.7947177982",
     "geom:latitude":20.786065,
     "geom:longitude":-100.49389,
     "iso:country":"MX",
     "lbl:latitude":20.785741,
     "lbl:longitude":-100.494049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.785741,
     "mps:longitude":-100.494049,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pie de Gallo"
     ],
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,7 +51,7 @@
         "gp:id":55882502
     },
     "wof:country":"MX",
-    "wof:geomhash":"019579817263c6af800987a40f62dbc8",
+    "wof:geomhash":"c98cb59f47eabbbc055ad5121dcef3bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +65,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1479907211,
+    "wof:lastmodified":1566632429,
     "wof:name":"Pie de Gallo",
     "wof:parent_id":102077111,
     "wof:placetype":"locality",

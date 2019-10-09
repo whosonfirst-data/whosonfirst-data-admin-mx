@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.347144,
     "lbl:longitude":-98.359359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.347144,
     "mps:longitude":-98.359359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Agua Blanca de Iturbide"
     ],
@@ -48,7 +51,7 @@
     "name:swe_x_preferred":[
         "Agua Blanca de Iturbide"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agua Blanca"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3533330,
         "gp:id":111202,
-        "qs:id":1159267,
         "qs_pg:id":1159267,
         "wd:id":"Q427088"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":102000611,
-    "wof:lastmodified":1561750204,
+    "wof:lastmodified":1566615670,
     "wof:name":"Agua Blanca Iturbide",
     "wof:parent_id":102078479,
     "wof:placetype":"locality",

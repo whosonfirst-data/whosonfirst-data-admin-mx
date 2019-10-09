@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":31.674542,
     "lbl:longitude":-116.509109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.674542,
     "mps:longitude":-116.509109,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Baja California",
     "qs:a1_lc":"02",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55900160
     },
     "wof:country":"MX",
-    "wof:geomhash":"020bf5027541be7bc638893f1346e8d3",
+    "wof:geomhash":"8437f4b9c6c507793e482b2ca065f983",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993497,
-    "wof:lastmodified":1479931245,
+    "wof:lastmodified":1566632768,
     "wof:name":"Benito Garc\u00eda (El Zorrillo)",
     "wof:parent_id":102074509,
     "wof:placetype":"locality",

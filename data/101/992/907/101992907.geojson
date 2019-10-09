@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1182517.953399,
+    "geom:area_square_m":1182517.953397,
     "geom:bbox":"-102.797086155,23.1834826193,-102.779759952,23.1954533577",
     "geom:latitude":23.189392,
     "geom:longitude":-102.788077,
     "iso:country":"MX",
     "lbl:latitude":23.189925,
     "lbl:longitude":-102.787355,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.189925,
     "mps:longitude":-102.787355,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55901314
     },
     "wof:country":"MX",
-    "wof:geomhash":"14e1011e51c50ca3cb8fd8ec3b0f2d84",
+    "wof:geomhash":"bc5cf3e7d27776f70e575b89e60e960e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992907,
-    "wof:lastmodified":1479904459,
+    "wof:lastmodified":1566632669,
     "wof:name":"Estaci\u00f3n San Jos\u00e9",
     "wof:parent_id":102075379,
     "wof:placetype":"locality",

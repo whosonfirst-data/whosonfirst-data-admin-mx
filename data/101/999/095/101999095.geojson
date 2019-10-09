@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.283704,
     "lbl:longitude":-98.315026,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.283704,
     "mps:longitude":-98.315026,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Xiloxoxtla"
     ],
@@ -39,9 +42,6 @@
     "name:swe_x_variant":[
         "Xiloxoxtla"
     ],
-    "name:unk_x_variant":[
-        "Xiloxochitla"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Tlaxcala",
     "qs:a1_lc":"29",
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -72,7 +72,6 @@
         "fct:id":"01b93478-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516763,
         "gp:id":55888401,
-        "qs:id":1062029,
         "qs_pg:id":1062029,
         "wd:id":"Q20293774"
     },
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397734,
+    "wof:lastmodified":1566632571,
     "wof:name":"San Vicente Xiloxochitla",
     "wof:parent_id":102077931,
     "wof:placetype":"locality",

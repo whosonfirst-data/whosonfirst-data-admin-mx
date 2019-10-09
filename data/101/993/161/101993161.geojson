@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":996202.496825,
+    "geom:area_square_m":996202.49682,
     "geom:bbox":"-98.7915646763,19.1444569871,-98.7796938801,19.1565749469",
     "geom:latitude":19.150336,
     "geom:longitude":-98.785815,
     "iso:country":"MX",
     "lbl:latitude":19.15013,
     "lbl:longitude":-98.785109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.15013,
     "mps:longitude":-98.785109,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Zentlalpan"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3817626,
         "gp:id":55898568,
-        "qs:id":905297
+        "qs_pg:id":905297
     },
     "wof:country":"MX",
     "wof:geomhash":"0ed45ff373f93473a641cc5b06a646e0",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101993161,
-    "wof:lastmodified":1501268839,
+    "wof:lastmodified":1566632749,
     "wof:name":"San Francisco Zentlalpan",
     "wof:parent_id":102074209,
     "wof:placetype":"locality",

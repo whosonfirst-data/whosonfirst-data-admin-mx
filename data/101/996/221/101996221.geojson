@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":1022922.289859,
+    "geom:area_square_m":1022922.28986,
     "geom:bbox":"-97.4887050685,16.729368254,-97.4717860657,16.7417032483",
     "geom:latitude":16.735411,
     "geom:longitude":-97.480943,
     "iso:country":"MX",
     "lbl:latitude":16.735625,
     "lbl:longitude":-97.48152,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.735625,
     "mps:longitude":-97.48152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "San Mateo Yucutind\u00f3"
     ],
     "name:spa_x_preferred":[
         "San Mateo Yucutind\u00f3"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yucutindoo"
     ],
     "qs:a0":"Mexico",
@@ -40,7 +43,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101996221,
-    "wof:lastmodified":1514488953,
+    "wof:lastmodified":1566632367,
     "wof:name":"San Mateo Yucutind\u00f3",
     "wof:parent_id":102076251,
     "wof:placetype":"locality",

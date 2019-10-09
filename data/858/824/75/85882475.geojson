@@ -11,8 +11,10 @@
     "geom:longitude":-116.96814,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.97314,32.50152,-116.96314,32.51152",
     "lbl:latitude":32.50652,
     "lbl:longitude":-116.96814,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.508778,
     "mps:longitude":-116.967314,
     "mz:hierarchy_label":0,
@@ -30,7 +32,7 @@
     "name:spa_x_variant":[
         "Voladores"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Los Voladores"
     ],
     "qs:gn_id":0,
@@ -39,7 +41,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -51,8 +53,10 @@
     "wof:concordances":{
         "gn:id":3814407,
         "gp:id":55888602,
-        "qs:id":1092395,
         "qs_pg:id":70511
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1092395
     },
     "wof:country":"MX",
     "wof:geomhash":"52daea96501552745ba8a06f9e37b7b1",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957708,
+    "wof:lastmodified":1566619646,
     "wof:name":"Los Volcanes Fovissste",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

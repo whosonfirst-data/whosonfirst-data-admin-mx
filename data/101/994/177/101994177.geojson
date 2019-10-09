@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":27.212754,
     "lbl:longitude":-107.915583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.212754,
     "mps:longitude":-107.915583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Urique"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -66,7 +69,6 @@
         "fct:id":"01af6470-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980769,
         "gp:id":150403,
-        "qs:id":553108,
         "qs_pg:id":553108,
         "wd:id":"Q2651295",
         "wk:page":"Urique"
@@ -86,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561750618,
+    "wof:lastmodified":1566632898,
     "wof:name":"Urique",
     "wof:parent_id":102075259,
     "wof:placetype":"locality",

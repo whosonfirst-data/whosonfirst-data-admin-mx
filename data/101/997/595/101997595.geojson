@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1896706.753795,
+    "geom:area_square_m":1896706.753799,
     "geom:bbox":"-103.682030709,20.3422020076,-103.662239912,20.3572433462",
     "geom:latitude":20.349396,
     "geom:longitude":-103.672248,
     "iso:country":"MX",
     "lbl:latitude":20.348906,
     "lbl:longitude":-103.672249,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.348906,
     "mps:longitude":-103.672249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Atotonilco el Bajo"
     ],
     "name:spa_x_preferred":[
         "Atotonilco el Bajo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atotonilquillo el Bajo"
     ],
     "qs:a0":"Mexico",
@@ -40,7 +43,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101997595,
-    "wof:lastmodified":1527642064,
+    "wof:lastmodified":1566632435,
     "wof:name":"Atotonilco el Bajo",
     "wof:parent_id":102074809,
     "wof:placetype":"locality",

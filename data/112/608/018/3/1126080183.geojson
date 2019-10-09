@@ -9,19 +9,22 @@
     "geom:bbox":"-102.94046,24.77674,-102.94046,24.77674",
     "geom:latitude":24.77674,
     "geom:longitude":-102.94046,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-102.94546,24.77174,-102.93546,24.78174",
     "lbl:latitude":24.77674,
     "lbl:longitude":-102.94046,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Santa Rosalia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosal\u00eda"
     ],
     "qs_pg:aaroncc":"MX",
@@ -45,16 +48,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55887480,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Durango",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686573,
         102191575,
         85633293,
-        102075207,
-        85686573
+        102075207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126080183,
-    "wof:lastmodified":1509411122,
+    "wof:lastmodified":1566634102,
     "wof:name":"Santa Rosalia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

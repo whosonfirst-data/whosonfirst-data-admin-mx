@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.766838,
     "lbl:longitude":-90.496451,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.766838,
     "mps:longitude":-90.496451,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "China"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -70,7 +73,6 @@
         "fct:id":"01b8123c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3530840,
         "gp:id":116055,
-        "qs:id":1191318,
         "qs_pg:id":1191318,
         "wd:id":"Q20275642"
     },
@@ -89,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369808,
+    "wof:lastmodified":1566615735,
     "wof:name":"Chin\u00e1",
     "wof:parent_id":102079219,
     "wof:placetype":"locality",

@@ -9,19 +9,23 @@
     "geom:bbox":"-102.98229,25.75799,-102.98229,25.75799",
     "geom:latitude":25.75799,
     "geom:longitude":-102.98229,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-103.00229,25.73799,-102.96229,25.77799",
     "lbl:latitude":25.75799,
     "lbl:longitude":-102.98229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Pedro de Las Colonias"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Pedro"
     ],
     "qs_pg:aaroncc":"MX",
@@ -41,7 +45,7 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":145059,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Coahuila de Zaragoza",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1125882339,
-    "wof:lastmodified":1534379381,
+    "wof:lastmodified":1566633987,
     "wof:name":"San Pedro de las Colonias",
     "wof:parent_id":102078805,
     "wof:placetype":"locality",

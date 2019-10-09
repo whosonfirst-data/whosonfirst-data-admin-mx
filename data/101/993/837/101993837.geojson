@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":30.479023,
     "lbl:longitude":-108.93943,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":30.479023,
     "mps:longitude":-108.93943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bavispe"
     ],
@@ -59,9 +62,6 @@
     "name:swe_x_preferred":[
         "Bavispe"
     ],
-    "name:unk_x_variant":[
-        "Babispe"
-    ],
     "name:vie_x_preferred":[
         "Bavispe"
     ],
@@ -80,7 +80,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -111,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398192,
+    "wof:lastmodified":1566632808,
     "wof:name":"Bavispe",
     "wof:parent_id":102074421,
     "wof:placetype":"locality",

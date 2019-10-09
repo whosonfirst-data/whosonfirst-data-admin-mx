@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.175442,
     "lbl:longitude":-98.506966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.175442,
     "mps:longitude":-98.506966,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*San Luis Potos\u00ed",
     "qs:a1_lc":"24",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55914715
     },
     "wof:country":"MX",
-    "wof:geomhash":"cfa7f13ea5f9451d03d6a98b4e0882ee",
+    "wof:geomhash":"19455186a5fcbe1353a4a32b3712710d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101996563,
-    "wof:lastmodified":1479907011,
+    "wof:lastmodified":1566632397,
     "wof:name":"Pujal Coy",
     "wof:parent_id":102077221,
     "wof:placetype":"locality",

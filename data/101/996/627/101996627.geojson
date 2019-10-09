@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
-    "geom:area_square_m":522996.940972,
+    "geom:area_square_m":522996.940982,
     "geom:bbox":"-101.284496815,20.6111386822,-101.276113439,20.6260005942",
     "geom:latitude":20.61915,
     "geom:longitude":-101.281092,
     "iso:country":"MX",
     "lbl:latitude":20.615691,
     "lbl:longitude":-101.281155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.615691,
     "mps:longitude":-101.281155,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Andr\u00e9s L\u00f3pez"
     ],
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"MX",
-    "wof:geomhash":"2796757dcd0f0ec523662d43ed098bbc",
+    "wof:geomhash":"f7fad6a32824f5019352ce9314677ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101996627,
-    "wof:lastmodified":1479906825,
+    "wof:lastmodified":1566632369,
     "wof:name":"Cuarta Brigada",
     "wof:parent_id":102077341,
     "wof:placetype":"locality",

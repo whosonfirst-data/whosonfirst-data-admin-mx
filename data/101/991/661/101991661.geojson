@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.225637,
     "lbl:longitude":-99.669804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.225637,
     "mps:longitude":-99.669804,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Santiago Tlacotepec"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":3762210,
         "gp:id":55886306,
-        "qs:id":531107,
         "qs_pg:id":531107,
         "wd:id":"Q20283878"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101991661,
-    "wof:lastmodified":1563397246,
+    "wof:lastmodified":1566632313,
     "wof:name":"Santiago Tlacotepec",
     "wof:parent_id":102074009,
     "wof:placetype":"locality",

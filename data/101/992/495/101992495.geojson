@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":1330715.55914,
+    "geom:area_square_m":1330715.559143,
     "geom:bbox":"-99.347561888,19.4682130256,-99.3344101943,19.4822112632",
     "geom:latitude":19.474497,
     "geom:longitude":-99.341566,
     "iso:country":"MX",
     "lbl:latitude":19.47454,
     "lbl:longitude":-99.341685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.47454,
     "mps:longitude":-99.341685,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tepetlaxco"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3516920,
         "gp:id":55899644,
-        "qs:id":961936
+        "qs_pg:id":961936
     },
     "wof:country":"MX",
     "wof:geomhash":"c3fe6101e261d9680a410aae8e558be1",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101992495,
-    "wof:lastmodified":1501267404,
+    "wof:lastmodified":1566632732,
     "wof:name":"Santiago Tepatlaxco",
     "wof:parent_id":102074109,
     "wof:placetype":"locality",

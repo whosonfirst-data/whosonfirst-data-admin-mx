@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2040176.545551,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.968394,19.312247,-98.968394,19.312247",
     "geom:latitude":19.312247,
     "geom:longitude":-98.968394,
     "iso:country":"MX",
+    "lbl:bbox":"-98.973394,19.307247,-98.963394,19.317247",
     "lbl:latitude":19.312247,
     "lbl:longitude":-98.968394,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.312247,
     "mps:longitude":-98.968394,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:spa_x_preferred":[
         "Santa Catarina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Catarina"
     ],
     "qs:a0":"Mexico",
@@ -39,12 +42,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85686515,
         102191575,
         85633293,
-        102073757,
-        85686515
+        102073757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +71,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531939961,
+    "wof:lastmodified":1566633864,
     "wof:name":"Santa Catarina Yecahuitzotl",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

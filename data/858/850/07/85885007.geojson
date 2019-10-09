@@ -11,8 +11,10 @@
     "geom:longitude":-96.95955,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.96455,19.449912,-96.95455,19.459912",
     "lbl:latitude":19.454912,
     "lbl:longitude":-96.95955,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.455518,
     "mps:longitude":-96.958884,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Coatepec Centro"
-    ],
-    "name:unk_x_variant":[
         "Coatepec Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686671,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55911872,
-        "qs:id":1343613,
         "qs_pg:id":1343613
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957724,
+    "wof:lastmodified":1566619594,
     "wof:name":"Coatepec Centro",
     "wof:parent_id":101998227,
     "wof:placetype":"neighbourhood",

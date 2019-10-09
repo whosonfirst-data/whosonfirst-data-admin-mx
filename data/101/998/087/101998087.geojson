@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.569255,
     "lbl:longitude":-103.209842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.569255,
     "mps:longitude":-103.209842,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Punta"
     ],
@@ -64,7 +67,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191575,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101998087,
-    "wof:lastmodified":1563397160,
+    "wof:lastmodified":1566632264,
     "wof:name":"La Punta",
     "wof:parent_id":102074765,
     "wof:placetype":"locality",

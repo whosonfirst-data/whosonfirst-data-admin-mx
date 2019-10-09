@@ -9,14 +9,17 @@
     "geom:bbox":"-99.5774221611,19.1538068554,-99.5556829696,19.1691443153",
     "geom:latitude":19.162086,
     "geom:longitude":-99.566703,
-    "geonames:id":"3519833,3817590,3827306",
+    "gn:id":"3519833,3817590,3827306",
     "iso:country":"MX",
     "lbl:latitude":19.161715,
     "lbl:longitude":-99.566541,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.161715,
     "mps:longitude":-99.566541,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "San Antonio la Isla"
     ],
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "San Antonio la Isla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isla"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101992189,
-    "wof:lastmodified":1564171361,
+    "wof:lastmodified":1566632698,
     "wof:name":"San Antonio la Isla",
     "wof:parent_id":102074075,
     "wof:placetype":"locality",

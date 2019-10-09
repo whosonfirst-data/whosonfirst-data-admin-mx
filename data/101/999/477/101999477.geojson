@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.681425,
     "lbl:longitude":-98.045121,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.681425,
     "mps:longitude":-98.045121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Huatlatlauca"
     ],
@@ -47,9 +50,6 @@
     "name:swe_x_preferred":[
         "Huatlatlauca"
     ],
-    "name:unk_x_variant":[
-        "Huatlatlahuac"
-    ],
     "name:vie_x_preferred":[
         "Huatlatlauca"
     ],
@@ -68,7 +68,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -97,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397656,
+    "wof:lastmodified":1566632525,
     "wof:name":"Huatlatlauca",
     "wof:parent_id":102078145,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.566537,
     "lbl:longitude":-103.158856,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.566537,
     "mps:longitude":-103.158856,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09a8\u09cd\u09a4\u09c7 \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a6\u09c7"
     ],
@@ -35,7 +38,7 @@
     "name:swe_x_preferred":[
         "Puente Grande"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Aurora"
     ],
     "qs:a0":"Mexico",
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":4003574,
         "gp:id":126395,
-        "qs:id":848458,
         "qs_pg:id":848458,
         "wd:id":"Q20297446"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101997633,
-    "wof:lastmodified":1563397514,
+    "wof:lastmodified":1566632451,
     "wof:name":"Puente Grande",
     "wof:parent_id":102074765,
     "wof:placetype":"locality",

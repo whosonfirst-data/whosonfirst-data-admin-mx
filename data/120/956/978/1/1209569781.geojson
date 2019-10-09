@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-109.63667,30.84667,-109.59667,30.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633293
@@ -35,7 +39,7 @@
         "gn:id":3989469
     },
     "wof:country":"MX",
-    "wof:geomhash":"13d0b61545ee09562c21cfd03634dea2",
+    "wof:geomhash":"f1be8191051862bfde01a0dab4f90a23",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209569781,
-    "wof:lastmodified":1536283121,
+    "wof:lastmodified":1566626784,
     "wof:name":"Rancho Pena",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -109.61667,
-    30.866670000000006,
+    30.86667000000001,
     -109.61667,
-    30.866670000000006
+    30.86667000000001
 ],
   "geometry": {"coordinates":[-109.61667,30.86667000000001],"type":"Point"}
 }

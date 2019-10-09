@@ -9,17 +9,19 @@
     "geom:bbox":"-103.52098,25.6386,-103.52098,25.6386",
     "geom:latitude":25.6386,
     "geom:longitude":-103.52098,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":2257,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-103.52598,25.6336,-103.51598,25.6436",
     "lbl:latitude":25.6386,
     "lbl:longitude":-103.52098,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Vergel"
     ],
     "qs_pg:aaroncc":"MX",
@@ -43,17 +45,17 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55894566,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Durango",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686573,
         102191575,
         85633293,
-        102075131,
-        85686573
+        102075131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1126067243,
-    "wof:lastmodified":1509410489,
+    "wof:lastmodified":1566634153,
     "wof:name":"Vergel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

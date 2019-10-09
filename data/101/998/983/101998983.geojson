@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.171784,
     "lbl:longitude":-98.241053,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":19.171784,
     "mps:longitude":-98.241053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Xicohtzinco"
     ],
@@ -62,9 +65,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0438\u043a\u043e\u0437\u0438\u043d\u043a\u043e"
     ],
-    "name:unk_x_variant":[
-        "Santo Toribio Xicohtzingo"
-    ],
     "name:vec_x_preferred":[
         "Xicohtzinco"
     ],
@@ -86,7 +86,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -99,7 +99,7 @@
         "fct:id":"01b9589a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3815363,
         "gp:id":55907546,
-        "qs:id":150351,
+        "qs_pg:id":150351,
         "wd:id":"Q3893278",
         "wk:page":"Xicohtzinco (municipality)"
     },
@@ -118,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397121,
+    "wof:lastmodified":1566632246,
     "wof:name":"Xicohtzinco",
     "wof:parent_id":102077889,
     "wof:placetype":"locality",

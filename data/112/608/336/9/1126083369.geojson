@@ -9,14 +9,17 @@
     "geom:bbox":"-99.73555,23.17894,-99.73555,23.17894",
     "geom:latitude":23.17894,
     "geom:longitude":-99.73555,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-99.74055,23.17394,-99.73055,23.18394",
     "lbl:latitude":23.17894,
     "lbl:longitude":-99.73555,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Francisco Villa"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55914728,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"San Luis Potosi",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686695,
         102191575,
         85633293,
-        102078883,
-        85686695
+        102078883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126083369,
-    "wof:lastmodified":1509411275,
+    "wof:lastmodified":1566634045,
     "wof:name":"Francisco Villa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

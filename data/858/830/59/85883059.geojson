@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6456116.425179,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.337326,18.492055,-88.337326,18.492055",
     "geom:latitude":18.492055,
     "geom:longitude":-88.337326,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-88.342326,18.487055,-88.332326,18.497055",
     "lbl:latitude":18.492055,
     "lbl:longitude":-88.337326,
+    "lbl:max_zoom":18.0,
     "mps:latitude":18.489884,
     "mps:longitude":-88.336995,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Aeropuerto"
-    ],
-    "name:unk_x_variant":[
         "Fracc Aeropuerto"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,17 +54,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686711,
         102191575,
         85633293,
-        102079235,
-        85686711
+        102079235
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55889748,
-        "qs:id":1136668
+        "qs_pg:id":1136668
     },
     "wof:country":"MX",
     "wof:geomhash":"04d6fe41c4fdab25d065852361e41e89",
@@ -83,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874211,
+    "wof:lastmodified":1566619698,
     "wof:name":"Fracc Aeropuerto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

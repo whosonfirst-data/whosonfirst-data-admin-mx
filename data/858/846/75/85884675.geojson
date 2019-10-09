@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6436580.778675,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.858536,19.157835,-98.858536,19.157835",
     "geom:latitude":19.157835,
     "geom:longitude":-98.858536,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-98.863536,19.152835,-98.853536,19.162835",
     "lbl:latitude":19.157835,
     "lbl:longitude":-98.858536,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.155547,
     "mps:longitude":-98.860474,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:spa_x_preferred":[
         "Barrio la Palma",
         "As\u00ed en el barrio como en el cielo"
-    ],
-    "name:unk_x_variant":[
-        "Barrio la Palma"
     ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
@@ -62,20 +61,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991941,
-        102074045,
-        85686527
+        102074045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3522011,
         "gp:id":55887333,
-        "qs:id":1343005,
         "qs_pg:id":72898
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1343005
     },
     "wof:country":"MX",
     "wof:geomhash":"9f6e0841b6b7c0511a9e156b523b3e91",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874586,
+    "wof:lastmodified":1566619635,
     "wof:name":"Barrio la Palma",
     "wof:parent_id":101991941,
     "wof:placetype":"neighbourhood",

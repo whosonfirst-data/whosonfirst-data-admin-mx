@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.513876,
     "lbl:longitude":-101.912688,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":22.513876,
     "mps:longitude":-101.912688,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villa Gonz\u00e1lez Ortega"
     ],
@@ -45,9 +48,6 @@
     "name:swe_x_preferred":[
         "Villa Gonz\u00e1lez Ortega"
     ],
-    "name:unk_x_variant":[
-        "Carro"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -78,7 +78,6 @@
         "fct:id":"01b9a41c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3980175,
         "gp:id":150866,
-        "qs:id":251583,
         "qs_pg:id":251583,
         "wd:id":"Q20265166"
     },
@@ -97,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398355,
+    "wof:lastmodified":1566632890,
     "wof:name":"Villa Gonz\u00e1lez Ortega",
     "wof:parent_id":102075425,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-116.651001,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-116.656001,31.865819,-116.646001,31.875819",
     "lbl:latitude":31.870819,
     "lbl:longitude":-116.651001,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.875167,
     "mps:longitude":-116.653265,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Moderna Oeste"
-    ],
-    "name:unk_x_variant":[
         "Moderna Oeste"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900258,
-        "qs:id":1319563
+        "qs_pg:id":1319563
     },
     "wof:country":"MX",
     "wof:geomhash":"aa520cadee67fe403b92a8a548b456f0",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957718,
+    "wof:lastmodified":1566619630,
     "wof:name":"Moderna Oeste",
     "wof:parent_id":101993465,
     "wof:placetype":"neighbourhood",

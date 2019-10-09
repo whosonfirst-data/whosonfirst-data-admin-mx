@@ -11,8 +11,10 @@
     "geom:longitude":-87.073922,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-87.078922,20.631857,-87.068922,20.641857",
     "lbl:latitude":20.636857,
     "lbl:longitude":-87.073922,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.63714,
     "mps:longitude":-87.077883,
     "mz:hierarchy_label":0,
@@ -84,9 +86,6 @@
     "name:swe_x_preferred":[
         "Gonzalo Guerrero"
     ],
-    "name:unk_x_variant":[
-        "Gonzalo Guerrero"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3521342,
@@ -115,7 +114,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1636,
     "wof:belongsto":[
         85686711,
@@ -127,7 +126,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883744,
-        "qs:id":474456,
         "qs_pg:id":474456,
         "wd:id":"Q650828"
     },
@@ -147,7 +145,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375512,
+    "wof:lastmodified":1566619667,
     "wof:name":"Gonzalo Guerrero",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.285784,
     "lbl:longitude":-96.43979,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.285784,
     "mps:longitude":-96.43979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Paso de Ovejas"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,6 @@
         "fct:id":"01b8d2da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3521825,
         "gp:id":136160,
-        "qs:id":874927,
         "qs_pg:id":874927,
         "wd:id":"Q3367774",
         "wk:page":"Paso de Ovejas"
@@ -91,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397195,
+    "wof:lastmodified":1566632284,
     "wof:name":"Paso de Ovejas",
     "wof:parent_id":102077657,
     "wof:placetype":"locality",

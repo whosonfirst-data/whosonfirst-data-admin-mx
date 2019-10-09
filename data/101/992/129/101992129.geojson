@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.773805,
     "lbl:longitude":-98.988192,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.773805,
     "mps:longitude":-98.988192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Reyes Acozac"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Reyes Acozac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reyes"
     ],
     "qs:a0":"Mexico",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":3523900,
         "gp:id":132379,
-        "qs:id":33735,
         "qs_pg:id":33735,
         "wd:id":"Q5980300",
         "wk:page":"Los Reyes Acozac"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101992129,
-    "wof:lastmodified":1563397987,
+    "wof:lastmodified":1566632698,
     "wof:name":"Los Reyes Acozac",
     "wof:parent_id":102074059,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.257971,
     "lbl:longitude":-92.088047,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":18.257971,
     "mps:longitude":-92.088047,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Palizada"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -109,7 +112,6 @@
         "fct:id":"01af54f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522156,
         "gp:id":135550,
-        "qs:id":1045440,
         "qs_pg:id":1045440,
         "wd:id":"Q1951053",
         "wk:page":"Palizada"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369832,
+    "wof:lastmodified":1566615747,
     "wof:name":"Palizada",
     "wof:parent_id":102079209,
     "wof:placetype":"locality",

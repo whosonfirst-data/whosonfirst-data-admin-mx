@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
-    "geom:area_square_m":214497.868696,
+    "geom:area_square_m":214497.868695,
     "geom:bbox":"-96.1504281452,15.7640075218,-96.1432842065,15.7698839828",
     "geom:latitude":15.766704,
     "geom:longitude":-96.146598,
     "iso:country":"MX",
     "lbl:latitude":15.766098,
     "lbl:longitude":-96.147191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":15.766098,
     "mps:longitude":-96.147191,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Oaxaca",
     "qs:a1_lc":"20",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55902502
     },
     "wof:country":"MX",
-    "wof:geomhash":"848b8660cdfaeccfd083f6427a7cc2e3",
+    "wof:geomhash":"2240dcd6209e8c4495ed97b4f07d42d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101995867,
-    "wof:lastmodified":1479904051,
+    "wof:lastmodified":1566632618,
     "wof:name":"Sector H Tres",
     "wof:parent_id":102075805,
     "wof:placetype":"locality",

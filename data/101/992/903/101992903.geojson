@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1177539.26556,
+    "geom:area_square_m":1177539.265557,
     "geom:bbox":"-102.726544232,23.0711788118,-102.712126432,23.082830266",
     "geom:latitude":23.076702,
     "geom:longitude":-102.721169,
     "iso:country":"MX",
     "lbl:latitude":23.075811,
     "lbl:longitude":-102.722039,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.075811,
     "mps:longitude":-102.722039,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55901310
     },
     "wof:country":"MX",
-    "wof:geomhash":"4ca6b89de729226b080bfa1fcb8cea3b",
+    "wof:geomhash":"d48bf6339e6bb28919f9d3a2226936ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992903,
-    "wof:lastmodified":1479904459,
+    "wof:lastmodified":1566632707,
     "wof:name":"Miguel Hidalgo (Hidalgo)",
     "wof:parent_id":102075379,
     "wof:placetype":"locality",

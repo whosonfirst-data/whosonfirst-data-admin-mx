@@ -9,14 +9,17 @@
     "geom:bbox":"-97.8193303327,17.6427187822,-97.8044097659,17.6613346876",
     "geom:latitude":17.650743,
     "geom:longitude":-97.810745,
-    "geonames:id":"3515694,3801039",
+    "gn:id":"3515694,3801039",
     "iso:country":"MX",
     "lbl:latitude":17.650453,
     "lbl:longitude":-97.809614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.650453,
     "mps:longitude":-97.809614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tezoatl\u00e1n de Segura y Luna"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101996177,
-    "wof:lastmodified":1563397458,
+    "wof:lastmodified":1566632424,
     "wof:name":"Tezoatl\u00e1n de Segura y Luna",
     "wof:parent_id":102076239,
     "wof:placetype":"locality",

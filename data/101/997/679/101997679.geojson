@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":2162248.776427,
+    "geom:area_square_m":2162248.776426,
     "geom:bbox":"-103.262227215,20.4866564913,-103.243668685,20.5096446163",
     "geom:latitude":20.497807,
     "geom:longitude":-103.251291,
     "iso:country":"MX",
     "lbl:latitude":20.497808,
     "lbl:longitude":-103.249885,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.497808,
     "mps:longitude":-103.249885,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55910181
     },
     "wof:country":"MX",
-    "wof:geomhash":"3edd6d4eeaa38887f0347aabcd4a7539",
+    "wof:geomhash":"84c574c7b1cf1c28e293601c8a41129a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997679,
-    "wof:lastmodified":1479931053,
+    "wof:lastmodified":1566632489,
     "wof:name":"La Alameda",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4970490.522501,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.74992,16.964861,-96.74992,16.964861",
     "geom:latitude":16.964861,
     "geom:longitude":-96.74992,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-96.75492,16.959861,-96.74492,16.969861",
     "lbl:latitude":16.964861,
     "lbl:longitude":-96.74992,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.96486,
     "mps:longitude":-96.751099,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Barrio San Pedro"
-    ],
-    "name:unk_x_variant":[
         "Barrio San Pedro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686623,
         102191575,
         85633293,
-        102075987,
-        85686623
+        102075987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55916161,
-        "qs:id":1113129
+        "qs_pg:id":1113129
     },
     "wof:country":"MX",
     "wof:geomhash":"9a1454d8c47954d069b359cf30f7949f",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874720,
+    "wof:lastmodified":1566619611,
     "wof:name":"Barrio San Pedro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

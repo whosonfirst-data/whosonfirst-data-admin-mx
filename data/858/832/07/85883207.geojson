@@ -11,8 +11,10 @@
     "geom:longitude":-87.059475,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-87.064475,20.639097,-87.054475,20.649097",
     "lbl:latitude":20.644097,
     "lbl:longitude":-87.059475,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.647051,
     "mps:longitude":-87.063359,
     "mz:hierarchy_label":0,
@@ -93,9 +95,6 @@
     "name:swe_x_preferred":[
         "Luis Donaldo Colosio"
     ],
-    "name:unk_x_variant":[
-        "Luis Donaldo Colosio"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_id":0,
     "qs:gn_local":3521342,
@@ -124,7 +123,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1328,
     "wof:belongsto":[
         85686711,
@@ -136,7 +135,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892112,
-        "qs:id":1115844,
         "qs_pg:id":1115844,
         "wd:id":"Q280555"
     },
@@ -156,7 +154,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375421,
+    "wof:lastmodified":1566619605,
     "wof:name":"Luis Donaldo Colosio",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",

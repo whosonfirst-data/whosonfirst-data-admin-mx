@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":1362198.535277,
+    "geom:area_square_m":1362198.53528,
     "geom:bbox":"-97.6658690935,20.8843497817,-97.6537210406,20.8976576789",
     "geom:latitude":20.890024,
     "geom:longitude":-97.658986,
     "iso:country":"MX",
     "lbl:latitude":20.889725,
     "lbl:longitude":-97.658263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.889725,
     "mps:longitude":-97.658263,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Estero del \u00cddolo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estero del Idolo"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101998735,
-    "wof:lastmodified":1501268842,
+    "wof:lastmodified":1566632259,
     "wof:name":"Estero del \u00cddolo",
     "wof:parent_id":102077729,
     "wof:placetype":"locality",

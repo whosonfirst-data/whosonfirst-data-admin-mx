@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":15.281521,
     "lbl:longitude":-92.690211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":15.281521,
     "mps:longitude":-92.690211,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Acapetahua"
     ],
@@ -42,9 +45,6 @@
     "name:swe_x_preferred":[
         "Acapeteahua"
     ],
-    "name:unk_x_variant":[
-        "Acapetagua"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Chiapas",
     "qs:a1_lc":"07",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -75,7 +75,6 @@
         "fct:id":"01b7c7fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3533466,
         "gp:id":110973,
-        "qs:id":251420,
         "qs_pg:id":251420,
         "wd:id":"Q20250580"
     },
@@ -94,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398345,
+    "wof:lastmodified":1566632885,
     "wof:name":"Acapetahua",
     "wof:parent_id":102075521,
     "wof:placetype":"locality",

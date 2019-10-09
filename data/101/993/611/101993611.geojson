@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2774791.765305,
+    "geom:area_square_m":2774791.765306,
     "geom:bbox":"-108.492089071,25.7953627121,-108.47072301,25.8171095901",
     "geom:latitude":25.805215,
     "geom:longitude":-108.481059,
     "iso:country":"MX",
     "lbl:latitude":25.803913,
     "lbl:longitude":-108.481057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.803913,
     "mps:longitude":-108.481057,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55899765
     },
     "wof:country":"MX",
-    "wof:geomhash":"aa5d086230fa986d613d8342207d9aad",
+    "wof:geomhash":"4ac26e073b4eb3399c9734939b72533c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993611,
-    "wof:lastmodified":1479930984,
+    "wof:lastmodified":1566632764,
     "wof:name":"Estaci\u00f3n Naranjo",
     "wof:parent_id":102074305,
     "wof:placetype":"locality",

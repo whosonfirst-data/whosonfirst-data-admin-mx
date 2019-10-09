@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
-    "geom:area_square_m":1321562.341793,
+    "geom:area_square_m":1321562.341797,
     "geom:bbox":"-101.363558971,21.7934642615,-101.348179138,21.8074245421",
     "geom:latitude":21.799625,
     "geom:longitude":-101.355958,
     "iso:country":"MX",
     "lbl:latitude":21.800776,
     "lbl:longitude":-101.357356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.800776,
     "mps:longitude":-101.357356,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Laguna Guadalupe"
     ],
     "qs:a0":"Mexico",
@@ -33,7 +37,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101996745,
-    "wof:lastmodified":1501269563,
+    "wof:lastmodified":1566632428,
     "wof:name":"Laguna de Guadalupe",
     "wof:parent_id":102077263,
     "wof:placetype":"locality",

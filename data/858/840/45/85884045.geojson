@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.326868,
     "lbl:longitude":-99.154358,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.326105,
     "mps:longitude":-99.154369,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Ajusco Huayamilpas"
-    ],
-    "name:unk_x_variant":[
         "Ajusco Huayamilpas"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55899545,
-        "qs:id":986713
+        "qs_pg:id":986713
     },
     "wof:country":"MX",
     "wof:geomhash":"e77667bf74ecda4f4fc4e5ff7f208f10",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270429,
+    "wof:lastmodified":1566619662,
     "wof:name":"Ajusco Huayamilpas",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",

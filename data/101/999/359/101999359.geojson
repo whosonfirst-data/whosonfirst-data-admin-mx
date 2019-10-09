@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.954607,
     "lbl:longitude":-98.017873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":18.954607,
     "mps:longitude":-98.017873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Cuautinch\u00e1n"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -99,7 +102,6 @@
         "fct:id":"01b82efc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3529988,
         "gp:id":117801,
-        "qs:id":1270047,
         "qs_pg:id":1270047,
         "wd:id":"Q5191852",
         "wk:page":"Cuautinch\u00e1n"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397700,
+    "wof:lastmodified":1566632551,
     "wof:name":"Cuautinch\u00e1n",
     "wof:parent_id":102078079,
     "wof:placetype":"locality",

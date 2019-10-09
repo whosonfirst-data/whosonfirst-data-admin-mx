@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":22.629967,
     "lbl:longitude":-103.896179,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":22.629967,
     "mps:longitude":-103.896179,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Huejuquilla el Alto"
     ],
@@ -68,7 +71,7 @@
     "name:swe_x_preferred":[
         "Huejuquilla el Alto"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huejuquilla"
     ],
     "name:vec_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -107,7 +110,6 @@
         "fct:id":"01af440e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4004616,
         "gp:id":125125,
-        "qs:id":151374,
         "qs_pg:id":151374,
         "wd:id":"Q2179164",
         "wk:page":"Huejuquilla El Alto"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397540,
+    "wof:lastmodified":1566632464,
     "wof:name":"Huejuquilla el Alto",
     "wof:parent_id":102074603,
     "wof:placetype":"locality",

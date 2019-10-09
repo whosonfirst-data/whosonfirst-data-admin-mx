@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.205264,
     "lbl:longitude":-100.963277,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.205264,
     "mps:longitude":-100.963277,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Maravat\u00edo del Encinal"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "Maravat\u00edo del Encinal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huerta de Maravat\u00edo"
     ],
     "qs:a0":"Mexico",
@@ -47,7 +50,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":4023835,
         "gp:id":55893910,
-        "qs:id":1047674,
+        "qs_pg:id":1047674,
         "wd:id":"Q20145024"
     },
     "wof:country":"MX",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101996725,
-    "wof:lastmodified":1563397371,
+    "wof:lastmodified":1566632382,
     "wof:name":"Maravat\u00edo del Encinal",
     "wof:parent_id":102077281,
     "wof:placetype":"locality",

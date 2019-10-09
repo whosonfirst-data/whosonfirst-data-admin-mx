@@ -11,8 +11,10 @@
     "geom:longitude":-99.588318,
     "gn:population":18779,
     "iso:country":"MX",
+    "lbl:bbox":"-99.593318,19.298368,-99.583318,19.308368",
     "lbl:latitude":19.303368,
     "lbl:longitude":-99.588318,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.303367,
     "mps:longitude":-99.588318,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:swe_x_preferred":[
         "Santa Mar\u00eda Totoltepec"
-    ],
-    "name:unk_x_variant":[
-        "Santa Maria Totoltepec"
     ],
     "name:zho_x_preferred":[
         "Tepoztlan Centro"
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         85686527,
@@ -86,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3827256,
         "gp:id":55887816,
-        "qs:id":150373,
         "qs_pg:id":150373,
         "wd:id":"Q20240206"
     },
@@ -106,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375371,
+    "wof:lastmodified":1566619571,
     "wof:name":"Santa Maria Totoltepec",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",

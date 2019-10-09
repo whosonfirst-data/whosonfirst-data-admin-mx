@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":861561.115242,
+    "geom:area_square_m":861561.115247,
     "geom:bbox":"-103.400239312,20.5129467361,-103.389756744,20.5240711797",
     "geom:latitude":20.518485,
     "geom:longitude":-103.395167,
     "iso:country":"MX",
     "lbl:latitude":20.518595,
     "lbl:longitude":-103.395065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.518595,
     "mps:longitude":-103.395065,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55894331
     },
     "wof:country":"MX",
-    "wof:geomhash":"7238595d991c24950ebd4d49a4b7c530",
+    "wof:geomhash":"02aaa91c7d03512574a19956a2c16f60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101997663,
-    "wof:lastmodified":1479930252,
+    "wof:lastmodified":1566632493,
     "wof:name":"Hacienda los Fresnos",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",

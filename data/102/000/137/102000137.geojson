@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.173377,
     "lbl:longitude":-98.315675,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.173377,
     "mps:longitude":-98.315675,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santa Ana Hueytlalpan"
     ],
@@ -31,7 +34,7 @@
     "name:swe_x_preferred":[
         "Santa Ana Hueytlalpan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Ana Heytalpan"
     ],
     "qs:a0":"Mexico",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":3517735,
         "gp:id":145687,
-        "qs:id":148682,
         "qs_pg:id":148682,
         "wd:id":"Q20244009"
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102000137,
-    "wof:lastmodified":1563369723,
+    "wof:lastmodified":1566615697,
     "wof:name":"Santa Ana Hueytlalpan",
     "wof:parent_id":102078569,
     "wof:placetype":"locality",

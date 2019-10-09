@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4368318.281332,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.21286,19.549954,-99.21286,19.549954",
     "geom:latitude":19.549954,
     "geom:longitude":-99.21286,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.21786,19.544954,-99.20786,19.554954",
     "lbl:latitude":19.549954,
     "lbl:longitude":-99.21286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.546704,
     "mps:longitude":-99.212195,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Valle Dorado"
-    ],
-    "name:unk_x_variant":[
         "Valle Dorado"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991513,
-        102073949,
-        85686527
+        102073949
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892661,
-        "qs:id":22730
+        "qs_pg:id":22730
     },
     "wof:country":"MX",
     "wof:geomhash":"1523c691ca59322bfe88fea2b4f0189b",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874273,
+    "wof:lastmodified":1566619603,
     "wof:name":"Valle Dorado",
     "wof:parent_id":101991513,
     "wof:placetype":"neighbourhood",

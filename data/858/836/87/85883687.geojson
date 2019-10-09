@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.396989,
     "lbl:longitude":-99.142114,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.397733,
     "mps:longitude":-99.14218,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "\u0410\u043b\u0430\u043c\u043e\u0441"
     ],
     "name:swe_x_preferred":[
-        "Alamos"
-    ],
-    "name:unk_x_variant":[
         "Alamos"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -67,7 +65,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -80,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55897819,
-        "qs:id":723108
+        "qs_pg:id":723108
     },
     "wof:country":"MX",
     "wof:geomhash":"39659ff6e0a9668161ddcc3cb3464c52",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564147340,
+    "wof:lastmodified":1566619687,
     "wof:name":"Alamos",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.063242,
     "lbl:longitude":-99.652041,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.063242,
     "mps:longitude":-99.652041,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Pedro Tlanixco"
     ],
@@ -35,7 +38,7 @@
     "name:swe_x_variant":[
         "San Pedro Tlanixco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tlanixco"
     ],
     "qs:a0":"Mexico",
@@ -53,7 +56,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -66,7 +69,7 @@
         "fct:id":"01cf5e60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3517954,
         "gp:id":145142,
-        "qs:id":924689,
+        "qs_pg:id":924689,
         "wd:id":"Q20148886"
     },
     "wof:country":"MX",
@@ -84,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397308,
+    "wof:lastmodified":1566632348,
     "wof:name":"San Pedro Tlanixco",
     "wof:parent_id":102074043,
     "wof:placetype":"locality",

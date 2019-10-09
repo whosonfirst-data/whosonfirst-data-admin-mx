@@ -11,8 +11,10 @@
     "geom:longitude":-103.120422,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.125422,21.404605,-103.115422,21.414605",
     "lbl:latitude":21.409605,
     "lbl:longitude":-103.120422,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.409605,
     "mps:longitude":-103.120422,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Fracc Centro"
-    ],
-    "name:unk_x_variant":[
         "Fracc Centro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686567,
         102191575,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55919464,
-        "qs:id":1344162,
         "qs_pg:id":1344162
     },
     "wof:country":"MX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957726,
+    "wof:lastmodified":1566619715,
     "wof:name":"Fracc Centro",
     "wof:parent_id":101992277,
     "wof:placetype":"neighbourhood",

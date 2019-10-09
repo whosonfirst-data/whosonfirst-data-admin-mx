@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.183226,
     "lbl:longitude":-96.463769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.183226,
     "mps:longitude":-96.463769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "San Sebasti\u00e1n R\u00edo Hondo"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "San Sebasti\u00e1n R\u00edo Hondo"
     ],
-    "name:unk_x_variant":[
-        "Rio Hondo"
-    ],
     "name:vie_x_preferred":[
         "San Sebasti\u00e1n R\u00edo Hondo"
     ],
@@ -88,7 +88,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -118,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397853,
+    "wof:lastmodified":1566632633,
     "wof:name":"San Sebasti\u00e1n R\u00edo Hondo",
     "wof:parent_id":102076123,
     "wof:placetype":"locality",

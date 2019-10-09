@@ -12,9 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":25.479377,
     "lbl:longitude":-108.517879,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.479377,
     "mps:longitude":-108.517879,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Sinaloa",
     "qs:a1_lc":"25",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":117837
     },
     "wof:country":"MX",
-    "wof:geomhash":"9129ecc130751dd0bd41dac651992c67",
+    "wof:geomhash":"db1d3e826ffda89fc895b35266d76cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101993659,
-    "wof:lastmodified":1479929992,
+    "wof:lastmodified":1566632773,
     "wof:name":"El Cubilete (El Cubilete N\u00famero Uno)",
     "wof:parent_id":102074321,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-103.228172,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-103.233172,20.28765,-103.223172,20.29765",
     "lbl:latitude":20.29265,
     "lbl:longitude":-103.228172,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.292165,
     "mps:longitude":-103.227103,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Riveras Del Pilar"
-    ],
-    "name:unk_x_variant":[
         "Riveras Del Pilar"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -70,8 +69,10 @@
     "wof:concordances":{
         "gn:id":3521463,
         "gp:id":55901115,
-        "qs:id":1119975,
         "qs_pg:id":1113051
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1119975
     },
     "wof:country":"MX",
     "wof:geomhash":"80c8fbca784088761dcce2e795348a55",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957722,
+    "wof:lastmodified":1566619655,
     "wof:name":"Riveras Del Pilar",
     "wof:parent_id":101998067,
     "wof:placetype":"neighbourhood",

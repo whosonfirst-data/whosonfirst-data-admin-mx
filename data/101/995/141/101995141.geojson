@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":16.607583,
     "lbl:longitude":-95.979746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":16.607583,
     "mps:longitude":-95.979746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nejapa de Madero"
     ],
@@ -52,9 +55,6 @@
     "name:swe_x_preferred":[
         "Nejapa de Madero"
     ],
-    "name:unk_x_variant":[
-        "Santo Domingo"
-    ],
     "name:vie_x_preferred":[
         "Nejapa de Madero"
     ],
@@ -73,7 +73,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -103,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397921,
+    "wof:lastmodified":1566632662,
     "wof:name":"Nejapa de Madero",
     "wof:parent_id":102077079,
     "wof:placetype":"locality",

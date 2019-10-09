@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.673106,
     "lbl:longitude":-100.747501,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.673106,
     "mps:longitude":-100.747501,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Empalme Escobedo"
     ],
@@ -32,7 +35,7 @@
     "name:swe_x_preferred":[
         "Empalme Escobedo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Empalme de Gonz\u00e1lez"
     ],
     "qs:a0":"Mexico",
@@ -50,7 +53,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":4006804,
         "gp:id":55894114,
-        "qs:id":342733,
+        "qs_pg:id":342733,
         "wd:id":"Q20207060"
     },
     "wof:country":"MX",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101996579,
-    "wof:lastmodified":1563397467,
+    "wof:lastmodified":1566632427,
     "wof:name":"Empalme Escobedo",
     "wof:parent_id":102077257,
     "wof:placetype":"locality",

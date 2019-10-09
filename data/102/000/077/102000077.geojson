@@ -15,10 +15,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.97938,
     "lbl:longitude":-97.728689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":19.97938,
     "mps:longitude":-97.728689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zongozotla"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -97,7 +100,6 @@
         "fct:id":"01b9b79a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3514007,
         "gp:id":151782,
-        "qs:id":1204395,
         "qs_pg:id":1204395,
         "wd:id":"Q3892831",
         "wk:page":"Zongozotla (municipality)"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369657,
+    "wof:lastmodified":1566615664,
     "wof:name":"Zongozotla",
     "wof:parent_id":102078457,
     "wof:placetype":"locality",

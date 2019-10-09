@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":1302634.804123,
+    "geom:area_square_m":1302634.804133,
     "geom:bbox":"-102.11463185,17.9725387416,-102.100816437,17.9878502029",
     "geom:latitude":17.980377,
     "geom:longitude":-102.108109,
     "iso:country":"MX",
     "lbl:latitude":17.980449,
     "lbl:longitude":-102.108213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.980449,
     "mps:longitude":-102.108213,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Petacalco"
     ],
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3992846,
         "gp:id":136528,
-        "qs:id":271516,
         "qs_pg:id":271516
     },
     "wof:country":"MX",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101991293,
-    "wof:lastmodified":1497291206,
+    "wof:lastmodified":1566632312,
     "wof:name":"Petacalco",
     "wof:parent_id":102073925,
     "wof:placetype":"locality",

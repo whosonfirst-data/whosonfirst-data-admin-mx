@@ -10,8 +10,10 @@
     "geom:latitude":16.81944,
     "geom:longitude":-96.89209,
     "iso:country":"MX",
+    "lbl:bbox":"-96.89709,16.81444,-96.88709,16.82444",
     "lbl:latitude":16.81944,
     "lbl:longitude":-96.89209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.821773,
     "mps:longitude":-96.893188,
     "mz:hierarchy_label":0,
@@ -56,9 +58,8 @@
     "name:swe_x_preferred":[
         "San Bernardo Mixtepec"
     ],
-    "name:unk_x_variant":[
-        "Mixtepec",
-        "San Bernardo Mixtepec Centro"
+    "name:und_x_variant":[
+        "Mixtepec"
     ],
     "name:vie_x_preferred":[
         "San Bernardo Mixtepec"
@@ -92,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686623,
         102191575,
@@ -104,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3519608,
         "gp:id":55915472,
-        "qs:id":1104528,
         "qs_pg:id":1104528,
         "wd:id":"Q2449343",
         "wk:page":"San Bernardo Mixtepec"
@@ -125,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375399,
+    "wof:lastmodified":1566619591,
     "wof:name":"San Bernardo Mixtepec Centro",
     "wof:parent_id":101995271,
     "wof:placetype":"neighbourhood",

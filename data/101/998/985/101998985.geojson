@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":2186373.672654,
+    "geom:area_square_m":2186373.672649,
     "geom:bbox":"-98.2113463562,19.193613774,-98.1857971637,19.205121763",
     "geom:latitude":19.2,
     "geom:longitude":-98.198685,
     "iso:country":"MX",
     "lbl:latitude":19.20038,
     "lbl:longitude":-98.198689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.20038,
     "mps:longitude":-98.198689,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Tlaxcala",
     "qs:a1_lc":"29",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55888739
     },
     "wof:country":"MX",
-    "wof:geomhash":"7f76345ae47c486d51b8c6a33cadfdac",
+    "wof:geomhash":"345d8020c39065bf0acf00860eccc366",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101998985,
-    "wof:lastmodified":1479907233,
+    "wof:lastmodified":1566632251,
     "wof:name":"San Marcos Contla",
     "wof:parent_id":102077891,
     "wof:placetype":"locality",

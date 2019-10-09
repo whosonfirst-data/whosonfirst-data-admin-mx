@@ -14,6 +14,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.40139,
     "lbl:longitude":-99.08611,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.397953,
     "mps:longitude":-99.0809,
     "mz:hierarchy_label":1,
@@ -45,10 +46,6 @@
         "Colonia Agr\u00edcola Oriental",
         "Agr\u00edcola Oriental"
     ],
-    "name:unk_x_variant":[
-        "Agr\u00edcola Oriental",
-        "Colonia Agr\u00edcola Oriental"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3530597,
@@ -77,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":123,
     "wof:belongsto":[
         102191575,
@@ -95,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3530435,
         "gp:id":116824,
-        "qs:id":232396,
         "qs_pg:id":232396,
         "wd:id":"Q8191806"
     },
@@ -125,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563375216,
+    "wof:lastmodified":1566619456,
     "wof:name":"Colonia Agr\u00edcola Oriental",
     "wof:parent_id":890535761,
     "wof:placetype":"neighbourhood",

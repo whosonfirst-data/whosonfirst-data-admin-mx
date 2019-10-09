@@ -14,10 +14,13 @@
     "iso:country":"MX",
     "lbl:latitude":23.918568,
     "lbl:longitude":-99.007457,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.918568,
     "mps:longitude":-99.007457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "G\u00fc\u00e9mez"
     ],
@@ -84,9 +87,6 @@
     "name:swe_x_preferred":[
         "G\u00fc\u00e9mez"
     ],
-    "name:unk_x_variant":[
-        "San Francisco de G\u00fcemez"
-    ],
     "name:vec_x_preferred":[
         "G\u00fc\u00e9mez"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -122,7 +122,6 @@
         "fct:id":"01b85648-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3527224,
         "gp:id":124569,
-        "qs:id":180146,
         "qs_pg:id":180146,
         "wd:id":"Q2000748"
     },
@@ -141,7 +140,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563369808,
+    "wof:lastmodified":1566615736,
     "wof:name":"G\u00fc\u00e9mez",
     "wof:parent_id":102078957,
     "wof:placetype":"locality",

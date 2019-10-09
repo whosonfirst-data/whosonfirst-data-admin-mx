@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7082529.573249,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.654412,19.252686,-99.654412,19.252686",
     "geom:latitude":19.252686,
     "geom:longitude":-99.654412,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.659412,19.247686,-99.649412,19.257686",
     "lbl:latitude":19.252686,
     "lbl:longitude":-99.654412,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.259614,
     "mps:longitude":-99.655667,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Bosques de Colon"
-    ],
-    "name:unk_x_variant":[
         "Bosques de Colon"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
         101991705,
-        102074009,
-        85686527
+        102074009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55891709,
-        "qs:id":996304
+        "qs_pg:id":996304
     },
     "wof:country":"MX",
     "wof:geomhash":"4c8296b0f8fbd1642dd96a86a1383847",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874251,
+    "wof:lastmodified":1566619684,
     "wof:name":"Bosques de Colon",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",

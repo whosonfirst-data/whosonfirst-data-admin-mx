@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.90224,
     "lbl:longitude":-101.480187,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":20.90224,
     "mps:longitude":-101.480187,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Aldea"
     ],
@@ -29,7 +32,7 @@
     "name:swe_x_preferred":[
         "La Aldea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balmaceda"
     ],
     "qs:a0":"Mexico",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":4003618,
         "gp:id":126323,
-        "qs:id":151365,
         "qs_pg:id":151365,
         "wd:id":"Q20285593"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101996779,
-    "wof:lastmodified":1563397389,
+    "wof:lastmodified":1566632391,
     "wof:name":"La Aldea",
     "wof:parent_id":102077327,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"-100.85585,17.80968,-100.85585,17.80968",
     "geom:latitude":17.80968,
     "geom:longitude":-100.85585,
-    "gn:gn_country":"MX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MX",
+    "lbl:bbox":"-100.86085,17.80468,-100.85085,17.81468",
     "lbl:latitude":17.80968,
     "lbl:longitude":-100.85585,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "San Felipe"
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424900,
     "qs_pg:woe_id":55914135,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Guerrero",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686517,
         102191575,
         85633293,
-        102073919,
-        85686517
+        102073919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126099643,
-    "wof:lastmodified":1509412054,
+    "wof:lastmodified":1566634266,
     "wof:name":"San Felipe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

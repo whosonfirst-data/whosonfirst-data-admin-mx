@@ -12,10 +12,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.330671,
     "lbl:longitude":-97.678429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":17.330671,
     "mps:longitude":-97.678429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santiago Nundiche"
     ],
@@ -51,9 +54,6 @@
     "name:swe_x_preferred":[
         "Santiago Nundiche"
     ],
-    "name:unk_x_variant":[
-        "Nudiche"
-    ],
     "name:vie_x_preferred":[
         "Santiago Nundiche"
     ],
@@ -72,7 +72,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -101,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397427,
+    "wof:lastmodified":1566632409,
     "wof:name":"Santiago Nundiche",
     "wof:parent_id":102076165,
     "wof:placetype":"locality",

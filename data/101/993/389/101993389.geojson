@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":18.771631,
     "lbl:longitude":-98.776426,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":18.771631,
     "mps:longitude":-98.776426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Temoac"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +86,6 @@
         "fct:id":"01b9703c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516031,
         "gp:id":148682,
-        "qs:id":1204017,
         "qs_pg:id":1204017,
         "wd:id":"Q2449002",
         "wk:page":"Temoac"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398206,
+    "wof:lastmodified":1566632815,
     "wof:name":"Temoac",
     "wof:parent_id":102074287,
     "wof:placetype":"locality",

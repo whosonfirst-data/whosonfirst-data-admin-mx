@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.728225,
     "lbl:longitude":-101.952056,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.728225,
     "mps:longitude":-101.952056,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Manuel Doblado"
     ],
@@ -60,9 +63,6 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043d\u0443\u0435\u043b \u0414\u043e\u0431\u043b\u0430\u0434\u043e"
     ],
-    "name:unk_x_variant":[
-        "Manuel Doblado"
-    ],
     "name:vie_x_preferred":[
         "Manuel Doblado"
     ],
@@ -83,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":200,
     "wof:belongsto":[
@@ -97,7 +97,6 @@
         "fct:id":"01b81912-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":4013705,
         "gp:id":116560,
-        "qs:id":180078,
         "qs_pg:id":180078,
         "wd:id":"Q2447549",
         "wk:page":"Manuel Doblado, Guanajuato"
@@ -117,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398135,
+    "wof:lastmodified":1566632780,
     "wof:name":"Ciudad Manuel Doblado",
     "wof:parent_id":102077315,
     "wof:placetype":"locality",

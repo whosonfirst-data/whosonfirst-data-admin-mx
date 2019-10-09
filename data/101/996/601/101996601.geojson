@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.997653,
     "lbl:longitude":-101.287513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":20.997653,
     "mps:longitude":-101.287513,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Marfil"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -62,7 +65,6 @@
         "fct:id":"01b53012-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3996595,
         "gp:id":132971,
-        "qs:id":151346,
         "qs_pg:id":151346,
         "wd:id":"Q20145219"
     },
@@ -81,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397439,
+    "wof:lastmodified":1566632414,
     "wof:name":"Marfil",
     "wof:parent_id":102077347,
     "wof:placetype":"locality",

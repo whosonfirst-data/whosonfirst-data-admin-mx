@@ -9,14 +9,17 @@
     "geom:bbox":"-100.982212544,20.4626706325,-100.93898836,20.4943414203",
     "geom:latitude":20.47929,
     "geom:longitude":-100.958446,
-    "geonames:id":"4024202,4012721",
+    "gn:id":"4024202,4012721",
     "iso:country":"MX",
     "lbl:latitude":20.477033,
     "lbl:longitude":-100.956291,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":20.477033,
     "mps:longitude":-100.956291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Cortazar"
     ],
@@ -68,7 +71,7 @@
     "name:swe_x_preferred":[
         "Cortazar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Cortazar"
     ],
     "name:vec_x_preferred":[
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101996585,
-    "wof:lastmodified":1563397455,
+    "wof:lastmodified":1566632422,
     "wof:name":"Cortazar",
     "wof:parent_id":102077305,
     "wof:placetype":"locality",

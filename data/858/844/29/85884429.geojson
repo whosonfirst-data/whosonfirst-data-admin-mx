@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000402,
-    "geom:area_square_m":4687578.724831,
+    "geom:area_square_m":4687578.724839,
     "geom:bbox":"-99.059987793,19.2726282982,-99.0344946289,19.2929978951",
     "geom:latitude":19.282418,
     "geom:longitude":-99.04774,
@@ -13,6 +13,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.283101,
     "lbl:longitude":-99.04799,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.282873,
     "mps:longitude":-99.048773,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
-        "Villas la Draga"
-    ],
-    "name:unk_x_variant":[
         "Villas la Draga"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         857683023,
@@ -65,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55903734,
-        "qs:id":1113069
+        "qs_pg:id":1113069
     },
     "wof:country":"MX",
     "wof:geomhash":"161ebde83fb296767baf321882583324",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527270004,
+    "wof:lastmodified":1566619587,
     "wof:name":"Villas la Draga",
     "wof:parent_id":857683023,
     "wof:placetype":"neighbourhood",

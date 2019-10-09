@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":17.165928,
     "lbl:longitude":-99.526932,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":17.165928,
     "mps:longitude":-99.526932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Tierra Colorada"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":39,
     "wof:belongsto":[
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3515643,
         "gp:id":149306,
-        "qs:id":148635,
         "qs_pg:id":148635,
         "wd:id":"Q4467246",
         "wk:page":"Tierra Colorada"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101991371,
-    "wof:lastmodified":1563397256,
+    "wof:lastmodified":1566632320,
     "wof:name":"Tierra Colorada",
     "wof:parent_id":102073783,
     "wof:placetype":"locality",

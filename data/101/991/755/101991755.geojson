@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.452527,
     "lbl:longitude":-98.877944,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":19.452527,
     "mps:longitude":-98.877944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Coatlinch\u00e1n"
     ],
@@ -38,9 +41,6 @@
     "name:swe_x_preferred":[
         "Coatlinch\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Coatlinch\u00e1n"
-    ],
     "qs:a0":"Mexico",
     "qs:a1":"*M\u00e9xico",
     "qs:a1_lc":"15",
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -70,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3518277,
         "gp:id":144617,
-        "qs:id":322170,
         "qs_pg:id":322170,
         "wd:id":"Q2645185"
     },
@@ -86,7 +85,7 @@
         }
     ],
     "wof:id":101991755,
-    "wof:lastmodified":1563397211,
+    "wof:lastmodified":1566632294,
     "wof:name":"San Miguel Coatlinch\u00e1n",
     "wof:parent_id":102074023,
     "wof:placetype":"locality",

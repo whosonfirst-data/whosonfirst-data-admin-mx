@@ -11,8 +11,10 @@
     "geom:longitude":-115.507507,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-115.512507,32.624661,-115.502507,32.634661",
     "lbl:latitude":32.629661,
     "lbl:longitude":-115.507507,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.629042,
     "mps:longitude":-115.50869,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Infonavit"
-    ],
-    "name:unk_x_variant":[
         "Infonavit"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686541,
         102191575,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55883087,
-        "qs:id":71230
+        "qs_pg:id":71230
     },
     "wof:country":"MX",
     "wof:geomhash":"31ccbd7b7fcf402fe0ae2a53b4f9a688",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957708,
+    "wof:lastmodified":1566619667,
     "wof:name":"Infonavit",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

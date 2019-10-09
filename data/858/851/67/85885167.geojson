@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6700108.084665,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-102.989884,22.649225,-102.989884,22.649225",
     "geom:latitude":22.649225,
     "geom:longitude":-102.989884,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-102.994884,22.644225,-102.984884,22.654225",
     "lbl:latitude":22.649225,
     "lbl:longitude":-102.989884,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.648581,
     "mps:longitude":-102.990645,
     "mz:hierarchy_label":0,
@@ -36,19 +38,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686567,
         102191575,
         85633293,
         101992283,
-        102075389,
-        85686567
+        102075389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3972537,
         "gp:id":55917601,
-        "qs:id":1344043,
         "qs_pg:id":1344043
     },
     "wof:country":"MX",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874737,
+    "wof:lastmodified":1566619609,
     "wof:name":"Jerez Centro",
     "wof:parent_id":101992283,
     "wof:placetype":"neighbourhood",

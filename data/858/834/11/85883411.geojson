@@ -11,8 +11,10 @@
     "geom:longitude":-90.516162,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-90.521162,19.854493,-90.511162,19.864493",
     "lbl:latitude":19.859493,
     "lbl:longitude":-90.516162,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.861693,
     "mps:longitude":-90.510033,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Villas de Ah Kim Pech"
-    ],
-    "name:unk_x_variant":[
         "Villas de Ah Kim Pech"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686707,
         102191575,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55894438,
-        "qs:id":1341355,
         "qs_pg:id":1341355
     },
     "wof:country":"MX",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957713,
+    "wof:lastmodified":1566619622,
     "wof:name":"Villas de Ah Kim Pech",
     "wof:parent_id":102001379,
     "wof:placetype":"neighbourhood",

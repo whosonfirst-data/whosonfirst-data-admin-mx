@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":2237039.680637,
+    "geom:area_square_m":2237039.680634,
     "geom:bbox":"-103.676864358,25.491970063,-103.649485943,25.5088925516",
     "geom:latitude":25.500773,
     "geom:longitude":-103.66089,
     "iso:country":"MX",
     "lbl:latitude":25.501409,
     "lbl:longitude":-103.661094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.501409,
     "mps:longitude":-103.661094,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Le\u00f3n Guzm\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Le\u00f3n Guzman"
     ],
     "qs:a0":"Mexico",
@@ -36,7 +40,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101992949,
-    "wof:lastmodified":1501269559,
+    "wof:lastmodified":1566632701,
     "wof:name":"Le\u00f3n Guzm\u00e1n",
     "wof:parent_id":102075209,
     "wof:placetype":"locality",

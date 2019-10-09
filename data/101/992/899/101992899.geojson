@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1740546.464203,
+    "geom:area_square_m":1740546.464198,
     "geom:bbox":"-102.968953514,23.4358916243,-102.95585044,23.4607361923",
     "geom:latitude":23.451749,
     "geom:longitude":-102.961368,
     "iso:country":"MX",
     "lbl:latitude":23.453741,
     "lbl:longitude":-102.96236,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.453741,
     "mps:longitude":-102.96236,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Zacatecas",
     "qs:a1_lc":"32",
@@ -30,7 +34,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,7 +46,7 @@
         "gp:id":55901321
     },
     "wof:country":"MX",
-    "wof:geomhash":"94c8ce2bd1c915dc763d9de86a91ffbc",
+    "wof:geomhash":"2f463bc1c613bc48a9ea019a2d1aea86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101992899,
-    "wof:lastmodified":1479904459,
+    "wof:lastmodified":1566632733,
     "wof:name":"L\u00e1zaro C\u00e1rdenas (Rancho Grande)",
     "wof:parent_id":102075379,
     "wof:placetype":"locality",

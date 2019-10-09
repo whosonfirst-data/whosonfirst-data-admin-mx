@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.274712,
     "lbl:longitude":-99.535685,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":19.274712,
     "mps:longitude":-99.535685,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ast_x_preferred":[
         "San Mateo Atenco"
     ],
@@ -91,9 +94,6 @@
     "name:swe_x_preferred":[
         "San Mateo Atenco"
     ],
-    "name:unk_x_variant":[
-        "Atenco"
-    ],
     "name:vie_x_preferred":[
         "San Mateo Atenco"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -127,10 +127,12 @@
         "fct:id":"01b91d44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3985492,
         "gp:id":144404,
-        "qs:id":188956,
-        "qs_pg:id":352775,
+        "qs_pg:id":188956,
         "wd:id":"Q2391649",
         "wk:page":"San Mateo Atenco"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":352775
     },
     "wof:country":"MX",
     "wof:geomhash":"1dca8bffe165a238dc602d146874be6c",
@@ -147,7 +149,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563398010,
+    "wof:lastmodified":1566632711,
     "wof:name":"San Mateo Atenco",
     "wof:parent_id":102074071,
     "wof:placetype":"locality",

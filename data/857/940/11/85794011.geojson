@@ -14,6 +14,7 @@
     "iso:country":"MX",
     "lbl:latitude":19.468229,
     "lbl:longitude":-99.185175,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.471369,
     "mps:longitude":-99.186625,
     "mz:hierarchy_label":1,
@@ -68,10 +69,6 @@
         "S \u00c1lvaro",
         "S. \u00c1lvaro"
     ],
-    "name:unk_x_variant":[
-        "Colonia San Alvaro",
-        "San \u00c1lvaro"
-    ],
     "qs:gn_adm0_cc":"MX",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3530597,
@@ -100,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -117,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3519962,
         "gp:id":141398,
-        "qs:id":1165169,
         "qs_pg:id":1165169
     },
     "wof:country":"MX",
@@ -146,7 +142,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957708,
+    "wof:lastmodified":1566619458,
     "wof:name":"San \u00c1lvaro",
     "wof:parent_id":890535755,
     "wof:placetype":"neighbourhood",

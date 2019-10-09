@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3380632.263086,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.011536,19.764118,-99.011536,19.764118",
     "geom:latitude":19.764118,
     "geom:longitude":-99.011536,
     "iso:country":"MX",
+    "lbl:bbox":"-99.016536,19.759118,-99.006536,19.769118",
     "lbl:latitude":19.764118,
     "lbl:longitude":-99.011536,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.765262,
     "mps:longitude":-99.011998,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:swe_x_preferred":[
         "Las Gu\u00e1ranas"
-    ],
-    "name:unk_x_variant":[
-        "San Juan Pueblo Nuevo"
     ],
     "name:zho_min_nan_x_preferred":[
         "Las Gu\u00e1ranas"
@@ -77,18 +76,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686527,
         102191575,
         85633293,
-        102073979,
-        85686527
+        102073979
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3827572,
         "gp:id":55906074,
-        "qs:id":1001202,
         "qs_pg:id":1001202
     },
     "wof:country":"MX",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874589,
+    "wof:lastmodified":1566619637,
     "wof:name":"San Juan Pueblo Nuevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":-109.913552,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-109.918552,22.877208,-109.908552,22.887208",
     "lbl:latitude":22.882208,
     "lbl:longitude":-109.913552,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.882536,
     "mps:longitude":-109.916807,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Los Cabos"
-    ],
-    "name:unk_x_variant":[
         "Los Cabos"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686555,
         102191575,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55907417,
-        "qs:id":1090159,
         "qs_pg:id":1090159
     },
     "wof:country":"MX",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957722,
+    "wof:lastmodified":1566619658,
     "wof:name":"Los Cabos",
     "wof:parent_id":101994035,
     "wof:placetype":"neighbourhood",

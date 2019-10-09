@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2829558.662652,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.423576,23.220619,-106.423576,23.220619",
     "geom:latitude":23.220619,
     "geom:longitude":-106.423576,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-106.428576,23.215619,-106.418576,23.225619",
     "lbl:latitude":23.220619,
     "lbl:longitude":-106.423576,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.223697,
     "mps:longitude":-106.422422,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Palos Prietos"
-    ],
-    "name:unk_x_variant":[
         "Palos Prietos"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85686535,
         102191575,
         85633293,
         101993641,
-        102074303,
-        85686535
+        102074303
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55900095,
-        "qs:id":1010425
+        "qs_pg:id":1010425
     },
     "wof:country":"MX",
     "wof:geomhash":"774a597e805aae3293d21f65f11ab312",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874448,
+    "wof:lastmodified":1566619631,
     "wof:name":"Palos Prietos",
     "wof:parent_id":101993641,
     "wof:placetype":"neighbourhood",

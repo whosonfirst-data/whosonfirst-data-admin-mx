@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":20.480123,
     "lbl:longitude":-97.014035,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":20.480123,
     "mps:longitude":-97.014035,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tecolutla"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -92,7 +95,6 @@
         "fct:id":"01b96b1e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3516148,
         "gp:id":148497,
-        "qs:id":1051462,
         "qs_pg:id":1051462,
         "wd:id":"Q1675800",
         "wk:page":"Tecolutla"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397122,
+    "wof:lastmodified":1566632247,
     "wof:name":"Tecolutla",
     "wof:parent_id":102077725,
     "wof:placetype":"locality",

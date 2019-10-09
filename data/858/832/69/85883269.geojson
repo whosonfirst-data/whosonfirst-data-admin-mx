@@ -11,8 +11,10 @@
     "geom:longitude":-108.963151,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-108.968151,25.760042,-108.958151,25.770042",
     "lbl:latitude":25.765042,
     "lbl:longitude":-108.963151,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.765995,
     "mps:longitude":-108.96335,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Rosendo G Castro"
-    ],
-    "name:unk_x_variant":[
         "Rosendo G Castro"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85686535,
         102191575,
@@ -68,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55892790,
-        "qs:id":33193,
         "qs_pg:id":33193
     },
     "wof:country":"MX",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536957712,
+    "wof:lastmodified":1566619603,
     "wof:name":"Rosendo G Castro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

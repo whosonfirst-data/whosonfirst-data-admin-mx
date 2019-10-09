@@ -13,10 +13,13 @@
     "iso:country":"MX",
     "lbl:latitude":19.218845,
     "lbl:longitude":-97.821873,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":19.218845,
     "mps:longitude":-97.821873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nopalucan Municipality"
     ],
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "Nopalucan"
     ],
-    "name:unk_x_variant":[
-        "Nopalucan"
-    ],
     "name:vie_x_preferred":[
         "Nopalucan"
     ],
@@ -70,7 +70,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -83,7 +83,7 @@
         "fct:id":"01b8bf20-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3522645,
         "gp:id":55907467,
-        "qs:id":148743,
+        "qs_pg:id":148743,
         "wd:id":"Q3894018"
     },
     "wof:country":"MX",
@@ -101,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563397696,
+    "wof:lastmodified":1566632548,
     "wof:name":"Nopalucan de la Granja",
     "wof:parent_id":102078215,
     "wof:placetype":"locality",
