@@ -728,11 +728,13 @@
     "qs:adm0_a3":"MEX",
     "qs:level":"adm1",
     "qs:source":"Mexico IGN",
-    "src:geom":"mapzen",
+    "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population_date":"2015-01-01",
     "unlc:subdivision":"MX-DIF",
     "wof:belongsto":[
         102191575,
@@ -763,10 +765,13 @@
         }
     ],
     "wof:id":857683023,
-    "wof:lastmodified":1566619459,
+    "wof:lastmodified":1578089542,
+    "wof:megacity":1,
     "wof:name":"Mexico City",
     "wof:parent_id":102073737,
     "wof:placetype":"locality",
+    "wof:population":8918653,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:subdivision":"MX-DIF",
     "wof:superseded_by":[],
