@@ -177,6 +177,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -196,6 +197,10 @@
         "wk:page":"Guerrero Negro"
     },
     "wof:country":"MX",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd39345c89e2877a679c00d9c9d0cf65",
     "wof:hierarchy":[
         {
@@ -207,7 +212,7 @@
         }
     ],
     "wof:id":101994033,
-    "wof:lastmodified":1566632892,
+    "wof:lastmodified":1582147738,
     "wof:name":"Guerrero Negro",
     "wof:parent_id":102074521,
     "wof:placetype":"locality",

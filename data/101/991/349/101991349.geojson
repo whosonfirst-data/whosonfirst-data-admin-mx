@@ -331,6 +331,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -349,6 +350,10 @@
         "wd:id":"Q5124132"
     },
     "wof:country":"MX",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"512c89d0c50aa60cf0b68a60261dad02",
     "wof:hierarchy":[
         {
@@ -360,7 +365,7 @@
         }
     ],
     "wof:id":101991349,
-    "wof:lastmodified":1566632320,
+    "wof:lastmodified":1582147664,
     "wof:name":"Ciudad Altamirano",
     "wof:parent_id":102073939,
     "wof:placetype":"locality",

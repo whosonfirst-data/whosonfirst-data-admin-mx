@@ -166,7 +166,8 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -183,6 +184,10 @@
         "wd:id":"Q745811"
     },
     "wof:country":"MX",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"241275ff24e8f80be201404fb9777601",
     "wof:hierarchy":[
         {
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":102001029,
-    "wof:lastmodified":1566615752,
+    "wof:lastmodified":1582147273,
     "wof:name":"San Fernando",
     "wof:parent_id":102078937,
     "wof:placetype":"locality",
