@@ -171,6 +171,7 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -188,6 +189,10 @@
         "wd:id":"Q2000148"
     },
     "wof:country":"MX",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d512312690c5cccf704b161f8a954b05",
     "wof:hierarchy":[
         {
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102001033,
-    "wof:lastmodified":1566615758,
+    "wof:lastmodified":1582147274,
     "wof:name":"Ciudad Tula",
     "wof:parent_id":102078883,
     "wof:placetype":"locality",

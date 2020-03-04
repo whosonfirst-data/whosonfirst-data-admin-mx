@@ -177,7 +177,8 @@
     "qs:source":"XMexico IGN",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -194,6 +195,10 @@
         "wd:id":"Q1971351"
     },
     "wof:country":"MX",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"509db8b2f8623746d157e691be9ddd3c",
     "wof:hierarchy":[
         {
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":101994305,
-    "wof:lastmodified":1566632878,
+    "wof:lastmodified":1582147736,
     "wof:name":"Manuel Ojinaga",
     "wof:parent_id":102075297,
     "wof:placetype":"locality",
