@@ -27,6 +27,9 @@
     "mz:max_zoom":0.0,
     "mz:min_zoom":0.0,
     "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Tepeji del R\u00edo"
+    ],
     "name:nah_x_preferred":[
         "Tep\u0113xitl \u0100t\u014dy\u0101mpa Ocampo"
     ],
@@ -75,11 +78,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85686665,
         102191575,
         85633293,
+        102078623,
         102000241,
-        102078623
+        85686665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147372,
+    "wof:lastmodified":1587428927,
     "wof:name":"Tepeji Del Rio de Ocampo",
     "wof:parent_id":102000241,
     "wof:placetype":"neighbourhood",
