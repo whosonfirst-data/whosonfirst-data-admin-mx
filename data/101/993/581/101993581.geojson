@@ -131,6 +131,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Baja California",
@@ -160,10 +161,12 @@
         }
     ],
     "wof:id":101993581,
-    "wof:lastmodified":1594678359,
+    "wof:lastmodified":1595365351,
     "wof:name":"Rosarito",
     "wof:parent_id":102074505,
     "wof:placetype":"locality",
+    "wof:population":66020,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
     "wof:supersedes":[
