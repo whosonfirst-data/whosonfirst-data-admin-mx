@@ -205,8 +205,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        85686695,
-        102078947
+        102078947,
+        85686695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -214,6 +214,9 @@
         "gp:id":116558,
         "qs_pg:id":775375
     },
+    "wof:coterminous":[
+        102078947
+    ],
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":102001085,
-    "wof:lastmodified":1582147270,
+    "wof:lastmodified":1607980271,
     "wof:name":"Ciudad Madero",
     "wof:parent_id":102078947,
     "wof:placetype":"locality",
