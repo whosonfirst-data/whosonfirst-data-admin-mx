@@ -1,0 +1,55 @@
+{
+  "id": 1746277427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":12.692644,
+    "geom:bbox":"-115.471415,17.655231,-110.078093,20.008631",
+    "geom:latitude":18.831931,
+    "geom:longitude":-112.774754,
+    "iso:country":"MX",
+    "lbl:latitude":18.831931,
+    "lbl:longitude":-112.774754,
+    "mps:latitude":18.831931,
+    "mps:longitude":-112.774754,
+    "mx-conanp:id_anp":"1.3.07.107",
+    "mx-conanp:name":"Revillagigedo",
+    "mx-conanp:type":"National Park",
+    "mx-conanp:type_es":"Parque Nacional",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Revillagigedo"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"1.3.07.107"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532284,
+    "wof:geomhash":"4dbc9c3ed2f136dab23f9d98107e9078",
+    "wof:hierarchy":[],
+    "wof:id":1746277427,
+    "wof:lastmodified":1630532284,
+    "wof:name":"Revillagigedo",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Parque Nacional",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.471415,
+    17.655231,
+    -110.078093,
+    20.008631
+],
+  "geometry": {"coordinates":[[[[-110.078093,17.655231],[-112.29405,17.655231],[-114.517,17.655231],[-115.47141499999999,17.655231],[-115.47141499999999,18.583002],[-115.47141499999999,20.008631],[-110.078093,20.008631],[-110.078093,17.655231]]]],"type":"MultiPolygon"}
+}

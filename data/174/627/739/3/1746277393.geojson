@@ -1,0 +1,55 @@
+{
+  "id": 1746277393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.123665,
+    "geom:bbox":"-87.474489,18.361187,-87.199949,18.813604",
+    "geom:latitude":18.587493,
+    "geom:longitude":-87.337034,
+    "iso:country":"MX",
+    "lbl:latitude":18.587391,
+    "lbl:longitude":-87.337034,
+    "mps:latitude":18.587391,
+    "mps:longitude":-87.337034,
+    "mx-conanp:id_anp":"9.1.03.124",
+    "mx-conanp:name":"Banco Chinchorro",
+    "mx-conanp:type":"Biosphere Reserve",
+    "mx-conanp:type_es":"Reserva de la Biosfera",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Banco Chinchorro"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"9.1.03.124"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532270,
+    "wof:geomhash":"3cfcfca5439781ac63f3b84a7bb416bc",
+    "wof:hierarchy":[],
+    "wof:id":1746277393,
+    "wof:lastmodified":1630532270,
+    "wof:name":"Banco Chinchorro",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Reserva De La Biosfera",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.474489,
+    18.361187,
+    -87.199949,
+    18.813604
+],
+  "geometry": {"coordinates":[[[[-87.199949,18.361689],[-87.473232,18.361187],[-87.47448900000001,18.813085],[-87.20047,18.813604],[-87.199949,18.361689]]]],"type":"MultiPolygon"}
+}

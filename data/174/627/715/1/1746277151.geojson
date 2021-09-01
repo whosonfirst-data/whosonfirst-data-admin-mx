@@ -1,0 +1,55 @@
+{
+  "id": 1746277151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008332,
+    "geom:bbox":"-104.350429,23.417049,-104.250424,23.500376",
+    "geom:latitude":23.458712,
+    "geom:longitude":-104.300426,
+    "iso:country":"MX",
+    "lbl:latitude":23.458712,
+    "lbl:longitude":-104.300426,
+    "mps:latitude":23.458712,
+    "mps:longitude":-104.300426,
+    "mx-conanp:id_anp":"3.1.01.054",
+    "mx-conanp:name":"La Michil\u00eda",
+    "mx-conanp:type":"Biosphere Reserve",
+    "mx-conanp:type_es":"Reserva de la Biosfera",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "La Michil\u00eda"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"3.1.01.054"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532170,
+    "wof:geomhash":"e282cac2d5042c1403843cae0d25b791",
+    "wof:hierarchy":[],
+    "wof:id":1746277151,
+    "wof:lastmodified":1630532170,
+    "wof:name":"La Michil\u00eda",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Reserva De La Biosfera",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.350429,
+    23.417049,
+    -104.250424,
+    23.500376
+],
+  "geometry": {"coordinates":[[[[-104.286587,23.417052],[-104.350425,23.417049],[-104.35042900000001,23.50037],[-104.250428,23.500376],[-104.250424,23.417054],[-104.286587,23.417052]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746277255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.128333,
+    "geom:bbox":"-111.516667,20.716667,-108.9,27.133333",
+    "geom:latitude":22.943402,
+    "geom:longitude":-109.846322,
+    "iso:country":"MX",
+    "lbl:latitude":20.858333,
+    "lbl:longitude":-109.05,
+    "mps:latitude":20.858333,
+    "mps:longitude":-109.05,
+    "mx-conanp:id_anp":"1.8.01.171",
+    "mx-conanp:name":"Ventilas Hidrotermales de la Cuenca de Guaymas y de la Dorsal del Pac\u00edfico Oriental",
+    "mx-conanp:type":"Nature Sanctuary",
+    "mx-conanp:type_es":"Santuario Natural",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Ventilas Hidrotermales de la Cuenca de Guaymas y de la Dorsal del Pac\u00edfico Oriental"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"1.8.01.171"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532213,
+    "wof:geomhash":"1359a831afb381aaf63accdb4114b419",
+    "wof:hierarchy":[],
+    "wof:id":1746277255,
+    "wof:lastmodified":1630532213,
+    "wof:name":"Ventilas Hidrotermales de la Cuenca de Guaymas y de la Dorsal del Pac\u00edfico Oriental",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Santuario Natural",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.516667,
+    20.716667,
+    -108.9,
+    27.133333
+],
+  "geometry": {"coordinates":[[[[-108.90000000000001,21.0],[-108.90000000000001,20.716667],[-109.2,20.716667],[-109.2,21.0],[-108.90000000000001,21.0]]],[[[-111.3,27.133333],[-111.3,26.933333],[-111.516667,26.933333],[-111.516667,27.133333],[-111.3,27.133333]]]],"type":"MultiPolygon"}
+}

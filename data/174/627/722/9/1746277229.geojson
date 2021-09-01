@@ -1,0 +1,55 @@
+{
+  "id": 1746277229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000997,
+    "geom:bbox":"-103.819752,23.768673,-103.776965,23.807862",
+    "geom:latitude":23.787803,
+    "geom:longitude":-103.800812,
+    "iso:country":"MX",
+    "lbl:latitude":23.78772,
+    "lbl:longitude":-103.803357,
+    "mps:latitude":23.78772,
+    "mps:longitude":-103.803357,
+    "mx-conanp:id_anp":"3.3.03.141",
+    "mx-conanp:name":"Sierra de \u00d3rganos",
+    "mx-conanp:type":"National Park",
+    "mx-conanp:type_es":"Parque Nacional",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Sierra de \u00d3rganos"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"3.3.03.141"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532200,
+    "wof:geomhash":"da12c2e9fdf9e0d4e1c58ab8c3adddd8",
+    "wof:hierarchy":[],
+    "wof:id":1746277229,
+    "wof:lastmodified":1630532200,
+    "wof:name":"Sierra de \u00d3rganos",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Parque Nacional",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.819752,
+    23.768673,
+    -103.776965,
+    23.807862
+],
+  "geometry": {"coordinates":[[[[-103.792812,23.801018],[-103.795406,23.796129],[-103.795551,23.796129],[-103.792064,23.792122],[-103.79124,23.789339],[-103.790362,23.788555],[-103.78938599999999,23.789909],[-103.783061,23.791081],[-103.780062,23.786808],[-103.778445,23.786434],[-103.776965,23.784201],[-103.77709400000001,23.781618],[-103.779505,23.78083],[-103.78003200000001,23.778225],[-103.78476999999999,23.774957],[-103.78377,23.768673],[-103.79796899999999,23.770532],[-103.80250100000001,23.775594],[-103.81235100000001,23.778365],[-103.819164,23.783081],[-103.818371,23.784733],[-103.81975199999999,23.80164],[-103.816181,23.807862],[-103.81005500000001,23.806705],[-103.792812,23.801018]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746277177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000345,
+    "geom:bbox":"-99.269497,19.461399,-99.23933,19.483783",
+    "geom:latitude":19.47434,
+    "geom:longitude":-99.254596,
+    "iso:country":"MX",
+    "lbl:latitude":19.473998,
+    "lbl:longitude":-99.254367,
+    "mps:latitude":19.473998,
+    "mps:longitude":-99.254367,
+    "mx-conanp:id_anp":"6.3.14.026",
+    "mx-conanp:name":"Los Remedios",
+    "mx-conanp:type":"National Park",
+    "mx-conanp:type_es":"Parque Nacional",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Los Remedios"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"6.3.14.026"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532179,
+    "wof:geomhash":"f1920e553e9cd054e2258b551abda5d5",
+    "wof:hierarchy":[],
+    "wof:id":1746277177,
+    "wof:lastmodified":1630532179,
+    "wof:name":"Los Remedios",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Parque Nacional",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.269497,
+    19.461399,
+    -99.23933,
+    19.483783
+],
+  "geometry": {"coordinates":[[[[-99.23933,19.473024],[-99.258381,19.461399],[-99.262432,19.472688],[-99.269497,19.481107],[-99.258037,19.483783],[-99.247951,19.481017],[-99.23933,19.473024]]]],"type":"MultiPolygon"}
+}
