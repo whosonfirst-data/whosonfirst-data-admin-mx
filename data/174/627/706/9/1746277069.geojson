@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"7.7.03.165",
@@ -34,9 +37,15 @@
     "wof:country":"MX",
     "wof:created":1630532138,
     "wof:geomhash":"fd49715ae372b5564b3a243f7b26c2c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277069,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277069,
-    "wof:lastmodified":1630562096,
+    "wof:lastmodified":1630607927,
     "wof:name":"Ca\u00f1\u00f3n del Usumacinta",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

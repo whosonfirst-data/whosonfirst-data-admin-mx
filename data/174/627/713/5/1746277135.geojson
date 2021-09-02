@@ -55,7 +55,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"9.3.06.126",
@@ -64,9 +67,15 @@
     "wof:country":"MX",
     "wof:created":1630532164,
     "wof:geomhash":"2687e0e06133ba0080f1a180e7e79a7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277135,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277135,
-    "wof:lastmodified":1630562387,
+    "wof:lastmodified":1630607933,
     "wof:name":"Isla Contoy",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

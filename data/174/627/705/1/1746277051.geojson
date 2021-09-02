@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"5.6.02.149"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532131,
     "wof:geomhash":"9543d17c93afba2b974224d555ec2a8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277051,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277051,
-    "wof:lastmodified":1630532131,
+    "wof:lastmodified":1630607936,
     "wof:name":"C.A.D.N.R. 001 Pabell\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

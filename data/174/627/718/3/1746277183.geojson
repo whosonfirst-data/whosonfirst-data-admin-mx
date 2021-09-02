@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"9.7.05.164"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532182,
     "wof:geomhash":"3af90f4248f7e441bb8245d815ebf182",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277183,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277183,
-    "wof:lastmodified":1630532182,
+    "wof:lastmodified":1630607951,
     "wof:name":"Manglares de Nichupt\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

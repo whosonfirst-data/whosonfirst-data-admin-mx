@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"5.3.05.041",
@@ -34,9 +37,15 @@
     "wof:country":"MX",
     "wof:created":1630532173,
     "wof:geomhash":"cfe8566ff82c9e5ac7fff85ed1d3392a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277159,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277159,
-    "wof:lastmodified":1630562101,
+    "wof:lastmodified":1630607934,
     "wof:name":"Lago de Cam\u00e9cuaro",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

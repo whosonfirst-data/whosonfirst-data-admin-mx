@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"9.3.02.091",
@@ -34,9 +37,15 @@
     "wof:country":"MX",
     "wof:created":1630532277,
     "wof:geomhash":"50a33aee6484d35717c6803c8b7f83f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277409,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277409,
-    "wof:lastmodified":1630562101,
+    "wof:lastmodified":1630607933,
     "wof:name":"Dzibilchant\u00fan",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

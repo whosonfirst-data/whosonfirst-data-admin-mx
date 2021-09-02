@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"4.4.02.172"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532196,
     "wof:geomhash":"a16d4128168af9b394b1010e56fa2623",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277219,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277219,
-    "wof:lastmodified":1630532196,
+    "wof:lastmodified":1630607943,
     "wof:name":"R\u00edo Bravo del Norte",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -82,7 +82,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"8.4.03.135",
@@ -91,9 +94,15 @@
     "wof:country":"MX",
     "wof:created":1630532216,
     "wof:geomhash":"5b2b538bcdb3cbd073d866ff7afb2002",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277265,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277265,
-    "wof:lastmodified":1630562390,
+    "wof:lastmodified":1630607943,
     "wof:name":"Yagul",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

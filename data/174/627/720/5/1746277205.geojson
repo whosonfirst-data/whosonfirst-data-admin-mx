@@ -31,7 +31,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"8.3.05.066",
@@ -40,9 +43,15 @@
     "wof:country":"MX",
     "wof:created":1630532191,
     "wof:geomhash":"cc0771ec49adbcdc120b33bc6fd59aa0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277205,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277205,
-    "wof:lastmodified":1630562285,
+    "wof:lastmodified":1630607950,
     "wof:name":"Palenque",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

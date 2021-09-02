@@ -28,7 +28,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"8.8.03.087",
@@ -37,9 +40,15 @@
     "wof:country":"MX",
     "wof:created":1630532266,
     "wof:geomhash":"cdc4299de80b9657f26e3855882a7453",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277383,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277383,
-    "wof:lastmodified":1630562259,
+    "wof:lastmodified":1630607930,
     "wof:name":"Playa de Escobilla",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

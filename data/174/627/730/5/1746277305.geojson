@@ -40,7 +40,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"6.3.25.069",
@@ -49,9 +52,15 @@
     "wof:country":"MX",
     "wof:created":1630532232,
     "wof:geomhash":"72d1759537b91d7e64f6abfb05bfea8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277305,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277305,
-    "wof:lastmodified":1630562386,
+    "wof:lastmodified":1630607928,
     "wof:name":"El Chico National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

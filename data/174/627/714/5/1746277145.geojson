@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"5.8.08.148"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532168,
     "wof:geomhash":"21177a2991048200599966853c3340c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277145,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277145,
-    "wof:lastmodified":1630532168,
+    "wof:lastmodified":1630607933,
     "wof:name":"Islas La Pajarera, Cocinas, Mamut, Colorada, San Pedro, San Agust\u00edn, San Andr\u00e9s y Negrita y los Islotes Los Anegados, Novillas, Mosca y Submarino",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

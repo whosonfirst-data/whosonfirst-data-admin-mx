@@ -28,7 +28,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"6.3.02.002",
@@ -37,9 +40,15 @@
     "wof:country":"MX",
     "wof:created":1630532169,
     "wof:geomhash":"fa94330354868278b562f2b99b611be3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277147,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277147,
-    "wof:lastmodified":1630562265,
+    "wof:lastmodified":1630607933,
     "wof:name":"Iztacc\u00edhuatl-Popocat\u00e9petl",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

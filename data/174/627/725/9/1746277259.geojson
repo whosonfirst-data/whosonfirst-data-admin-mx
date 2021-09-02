@@ -31,7 +31,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"8.1.07.154",
@@ -40,9 +43,15 @@
     "wof:country":"MX",
     "wof:created":1630532214,
     "wof:geomhash":"462153c18f5c58073f067db23b06159f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277259,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277259,
-    "wof:lastmodified":1630562387,
+    "wof:lastmodified":1630607931,
     "wof:name":"Volc\u00e1n Tacan\u00e1 Biosphere Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

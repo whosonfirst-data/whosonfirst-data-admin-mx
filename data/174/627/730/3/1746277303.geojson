@@ -37,7 +37,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"4.3.05.139",
@@ -46,9 +49,15 @@
     "wof:country":"MX",
     "wof:created":1630532231,
     "wof:geomhash":"2860847bd72b0d56df4e9635681253a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277303,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277303,
-    "wof:lastmodified":1630562256,
+    "wof:lastmodified":1630607928,
     "wof:name":"Cumbres de Monterrey",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

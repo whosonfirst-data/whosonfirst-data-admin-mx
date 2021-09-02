@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"8.7.01.057"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532136,
     "wof:geomhash":"8049d1a85ce2e972e63df58ca448a6e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277063,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277063,
-    "wof:lastmodified":1630532136,
+    "wof:lastmodified":1630607927,
     "wof:name":"Cascada de Agua Azul",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"7.6.01.032"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532220,
     "wof:geomhash":"50a4f33e524b87e400a769e87250c50c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277275,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277275,
-    "wof:lastmodified":1630532220,
+    "wof:lastmodified":1630607951,
     "wof:name":"Z.P.F.V. la Cuenca Hidrogr\u00e1fica del R\u00edo Necaxa",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"8.6.01.053"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532219,
     "wof:geomhash":"f3341967474f4060d5184d93f0e5d3ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277273,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277273,
-    "wof:lastmodified":1630532219,
+    "wof:lastmodified":1630607951,
     "wof:name":"Z.P.F. en los terrenos que se encuentran en los mpios. de La Concordia, \u00c1ngel Albino Corzo, Villa Flores y Jiquipilas",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

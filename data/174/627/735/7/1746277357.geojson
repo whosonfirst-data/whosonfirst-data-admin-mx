@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"5.8.02.075"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532254,
     "wof:geomhash":"626dbbd7dfec6e30aa0c8fcdfcdc47e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277357,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277357,
-    "wof:lastmodified":1630532254,
+    "wof:lastmodified":1630607939,
     "wof:name":"Playa de Maruata y Colola",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

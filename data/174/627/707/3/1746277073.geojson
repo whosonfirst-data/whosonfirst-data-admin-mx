@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"6.3.16.028",
@@ -34,9 +37,15 @@
     "wof:country":"MX",
     "wof:created":1630532140,
     "wof:geomhash":"72332a64d1ccd8deec8fd016dc8ba80c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277073,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277073,
-    "wof:lastmodified":1630562098,
+    "wof:lastmodified":1630607930,
     "wof:name":"Cerro de La Estrella",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

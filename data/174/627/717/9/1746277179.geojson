@@ -46,7 +46,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"4.7.04.114",
@@ -55,9 +58,15 @@
     "wof:country":"MX",
     "wof:created":1630532181,
     "wof:geomhash":"f2d6fcc7718b467c4fb90271857c0aa5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277179,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277179,
-    "wof:lastmodified":1630562390,
+    "wof:lastmodified":1630607944,
     "wof:name":"Parque Nacional Maderas del Carmen",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -43,7 +43,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"6.3.23.059",
@@ -52,9 +55,15 @@
     "wof:country":"MX",
     "wof:created":1630532276,
     "wof:geomhash":"b9b72b661b7158bd54c07ee504b49959",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277405,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277405,
-    "wof:lastmodified":1630562387,
+    "wof:lastmodified":1630607934,
     "wof:name":"El Veladero National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

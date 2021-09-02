@@ -31,7 +31,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"7.3.04.103",
@@ -40,9 +43,15 @@
     "wof:country":"MX",
     "wof:created":1630532274,
     "wof:geomhash":"c828e5a3891790c047c274199a8dfc2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277401,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277401,
-    "wof:lastmodified":1630562266,
+    "wof:lastmodified":1630607933,
     "wof:name":"Sistema Arrecifal Veracruzano",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -31,7 +31,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"9.7.01.110",
@@ -40,9 +43,15 @@
     "wof:country":"MX",
     "wof:created":1630532218,
     "wof:geomhash":"f627d007be5423369d7fb20372d8a307",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277269,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277269,
-    "wof:lastmodified":1630562390,
+    "wof:lastmodified":1630607942,
     "wof:name":"Yum Balam",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

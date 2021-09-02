@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"9.7.06.175"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532271,
     "wof:geomhash":"edc571541ddc3f5f63d9e41587543867",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277395,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277395,
-    "wof:lastmodified":1630532271,
+    "wof:lastmodified":1630607927,
     "wof:name":"La porci\u00f3n norte y la franja costera oriental, terrestres y marinas de la Isla de Cozumel",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

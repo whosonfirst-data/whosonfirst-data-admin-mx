@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"1.8.01.171"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532213,
     "wof:geomhash":"1359a831afb381aaf63accdb4114b419",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277255,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277255,
-    "wof:lastmodified":1630532213,
+    "wof:lastmodified":1630607933,
     "wof:name":"Ventilas Hidrotermales de la Cuenca de Guaymas y de la Dorsal del Pac\u00edfico Oriental",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

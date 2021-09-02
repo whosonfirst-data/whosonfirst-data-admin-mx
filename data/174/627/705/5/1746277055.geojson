@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"4.6.02.151"
@@ -33,9 +36,15 @@
     "wof:country":"MX",
     "wof:created":1630532133,
     "wof:geomhash":"9df1f22dce5d214ec92884736d34fe91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277055,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277055,
-    "wof:lastmodified":1630532133,
+    "wof:lastmodified":1630607936,
     "wof:name":"C.A.D.N.R. 026 Bajo R\u00edo San Juan",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

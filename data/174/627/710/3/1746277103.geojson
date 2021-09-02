@@ -43,7 +43,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"6.3.21.043",
@@ -52,9 +55,15 @@
     "wof:country":"MX",
     "wof:created":1630532151,
     "wof:geomhash":"76f2ba75a0494316a7d32c5299e75b95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277103,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277103,
-    "wof:lastmodified":1630562391,
+    "wof:lastmodified":1630607944,
     "wof:name":"Desierto del Carmen National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

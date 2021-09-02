@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"9.1.04.127",
@@ -34,9 +37,15 @@
     "wof:country":"MX",
     "wof:created":1630532225,
     "wof:geomhash":"b6aba5df323524b2508654561c757ed8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277287,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277287,
-    "wof:lastmodified":1630562106,
+    "wof:lastmodified":1630607944,
     "wof:name":"Arrecifes de Sian Ka'an",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

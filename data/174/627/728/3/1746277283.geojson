@@ -88,7 +88,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"6.1.04.138",
@@ -97,9 +100,15 @@
     "wof:country":"MX",
     "wof:created":1630532224,
     "wof:geomhash":"1ee91a0edfa0a016641065f04e45b347",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277283,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277283,
-    "wof:lastmodified":1630562391,
+    "wof:lastmodified":1630607944,
     "wof:name":"Monarch Butterfly Biosphere Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

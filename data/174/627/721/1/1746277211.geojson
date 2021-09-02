@@ -28,7 +28,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"7.3.01.014",
@@ -37,9 +40,15 @@
     "wof:country":"MX",
     "wof:created":1630532193,
     "wof:geomhash":"404486994e35d36540f24e467785becb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277211,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277211,
-    "wof:lastmodified":1630562279,
+    "wof:lastmodified":1630607944,
     "wof:name":"Pico de Orizaba",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

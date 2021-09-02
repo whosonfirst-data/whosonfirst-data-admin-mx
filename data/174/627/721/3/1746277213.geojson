@@ -31,7 +31,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"5.7.01.039",
@@ -40,9 +43,15 @@
     "wof:country":"MX",
     "wof:created":1630532194,
     "wof:geomhash":"9f19e0ec07c2d79c1e3f06b3689d6f88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277213,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277213,
-    "wof:lastmodified":1630562279,
+    "wof:lastmodified":1630607944,
     "wof:name":"Pico de Tanc\u00edtaro",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -31,7 +31,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"4.4.01.097",
@@ -40,9 +43,15 @@
     "wof:country":"MX",
     "wof:created":1630532141,
     "wof:geomhash":"099e155d921fa358b648dff4d3074d1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277075,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277075,
-    "wof:lastmodified":1630562260,
+    "wof:lastmodified":1630607931,
     "wof:name":"Cerro de la Silla",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

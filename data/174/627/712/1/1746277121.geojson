@@ -28,7 +28,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"1.1.02.094",
@@ -37,9 +40,15 @@
     "wof:country":"MX",
     "wof:created":1630532158,
     "wof:geomhash":"650064c1772d2971e5b2b28bce180467",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277121,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277121,
-    "wof:lastmodified":1630562388,
+    "wof:lastmodified":1630607934,
     "wof:name":"El Vizca\u00edno",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

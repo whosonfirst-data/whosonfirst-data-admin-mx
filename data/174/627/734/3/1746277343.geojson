@@ -31,7 +31,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"5.1.01.090",
@@ -40,9 +43,15 @@
     "wof:country":"MX",
     "wof:created":1630532249,
     "wof:geomhash":"61ba74071bc913d43745b4a7a34b2aab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277343,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277343,
-    "wof:lastmodified":1630562272,
+    "wof:lastmodified":1630607937,
     "wof:name":"Sierra de Manantl\u00e1n",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

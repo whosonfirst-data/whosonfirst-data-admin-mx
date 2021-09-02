@@ -25,7 +25,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"9.3.01.064",
@@ -34,9 +37,15 @@
     "wof:country":"MX",
     "wof:created":1630532208,
     "wof:geomhash":"413a2b0c37cb4c024a297be09001c247",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277249,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277249,
-    "wof:lastmodified":1630562101,
+    "wof:lastmodified":1630607934,
     "wof:name":"Tulum",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -28,7 +28,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"5.3.01.005",
@@ -37,9 +40,15 @@
     "wof:country":"MX",
     "wof:created":1630532139,
     "wof:geomhash":"1f0d9e8065a083452018da101ffd211d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277071,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277071,
-    "wof:lastmodified":1630562260,
+    "wof:lastmodified":1630607930,
     "wof:name":"Cerro de Garnica",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

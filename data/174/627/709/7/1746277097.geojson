@@ -52,7 +52,10 @@
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "mx-conanp":"6.3.06.011",
@@ -61,9 +64,15 @@
     "wof:country":"MX",
     "wof:created":1630532149,
     "wof:geomhash":"bb6fcddb96da8aa3be1751f00d7c65f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277097,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
     "wof:id":1746277097,
-    "wof:lastmodified":1630562386,
+    "wof:lastmodified":1630607929,
     "wof:name":"Cumbres del Ajusco National Park",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
