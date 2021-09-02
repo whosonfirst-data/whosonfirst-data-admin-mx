@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "El Potos\u00ed National Park"
+    ],
+    "name:fra_x_preferred":[
+        "parc national El Potos\u00ed"
+    ],
     "name:spa_x_preferred":[
         "El Potos\u00ed"
+    ],
+    "name:spa_x_variant":[
+        "Parque Nacional El Potos\u00ed"
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
@@ -36,7 +45,7 @@
     "wof:geomhash":"3b70501c98d4903bbfd10f2b8ba37859",
     "wof:hierarchy":[],
     "wof:id":1746277307,
-    "wof:lastmodified":1630562096,
+    "wof:lastmodified":1630562255,
     "wof:name":"El Potos\u00ed",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

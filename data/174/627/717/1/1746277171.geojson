@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "name:fra_x_preferred":[
+        "parc national Los M\u00e1rmoles"
+    ],
     "name:spa_x_preferred":[
         "Los M\u00e1rmoles"
+    ],
+    "name:spa_x_variant":[
+        "Parque nacional Los M\u00e1rmoles"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u99ac\u83ab\u840a\u65af\u570b\u5bb6\u516c\u5712"
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
@@ -36,7 +45,7 @@
     "wof:geomhash":"5726081e2c8954a8ba8cf6d88f6fc806",
     "wof:hierarchy":[],
     "wof:id":1746277171,
-    "wof:lastmodified":1630562106,
+    "wof:lastmodified":1630562280,
     "wof:name":"Los M\u00e1rmoles",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

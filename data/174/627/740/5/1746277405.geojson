@@ -20,8 +20,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "name:ceb_x_preferred":[
+        "Parque Nacional El Veladero"
+    ],
+    "name:eng_x_preferred":[
+        "El Veladero National Park"
+    ],
+    "name:fra_x_preferred":[
+        "parc national El Veladero"
+    ],
+    "name:por_x_preferred":[
+        "Parque Nacional El Veladero"
+    ],
     "name:spa_x_preferred":[
         "El Veladero"
+    ],
+    "name:spa_x_variant":[
+        "Parque nacional El Veladero"
+    ],
+    "name:swe_x_preferred":[
+        "Parque Nacional El Veladero"
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
@@ -36,7 +54,7 @@
     "wof:geomhash":"b9b72b661b7158bd54c07ee504b49959",
     "wof:hierarchy":[],
     "wof:id":1746277405,
-    "wof:lastmodified":1630562101,
+    "wof:lastmodified":1630562266,
     "wof:name":"El Veladero",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

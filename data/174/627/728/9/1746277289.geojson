@@ -20,8 +20,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
+    "name:ces_x_preferred":[
+        "N\u00e1rodn\u00ed park Cabo Pulmo"
+    ],
+    "name:deu_x_preferred":[
+        "Nationalpark Cabo Pulmo"
+    ],
+    "name:eng_x_preferred":[
+        "Cabo Pulmo National Park"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u06a9 \u0645\u0644\u06cc \u06a9\u0627\u0628\u0648 \u067e\u0627\u0644\u0645\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "parc national Cabo Pulmo"
+    ],
+    "name:hun_x_preferred":[
+        "Cabo Pulmo Nemzeti Park"
+    ],
     "name:spa_x_preferred":[
         "Cabo Pulmo"
+    ],
+    "name:spa_x_variant":[
+        "Parque nacional Cabo Pulmo"
+    ],
+    "name:swe_x_preferred":[
+        "Cabo Pulmo nationalpark"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u723e\u83ab\u89d2\u570b\u5bb6\u516c\u5712"
     ],
     "src:geom":"mx-conanp",
     "src:lbl_centroid":"mapshaper",
@@ -36,7 +63,7 @@
     "wof:geomhash":"ee47ce56c280f9ea43a2853fce2b4403",
     "wof:hierarchy":[],
     "wof:id":1746277289,
-    "wof:lastmodified":1630562106,
+    "wof:lastmodified":1630562280,
     "wof:name":"Cabo Pulmo",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
