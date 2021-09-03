@@ -1,0 +1,65 @@
+{
+  "id": 1746277285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012565,
+    "geom:bbox":"-100.239501,19.37484,-100.073705,19.48915",
+    "geom:latitude":19.448803,
+    "geom:longitude":-100.148359,
+    "iso:country":"MX",
+    "lbl:latitude":19.445594,
+    "lbl:longitude":-100.130159,
+    "mps:latitude":19.445594,
+    "mps:longitude":-100.130159,
+    "mx-conanp:id_anp":"6.3.20.040",
+    "mx-conanp:name":"Bosencheve",
+    "mx-conanp:type":"National Park",
+    "mx-conanp:type_es":"Parque Nacional",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Bosencheve"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"6.3.20.040",
+        "wd:id":"Q13583478"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532225,
+    "wof:geomhash":"083654509fc61bcd81f5d544e1a0bb26",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277285,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277285,
+    "wof:lastmodified":1630607944,
+    "wof:name":"Bosencheve",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Parque Nacional",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.239501,
+    19.37484,
+    -100.073705,
+    19.48915
+],
+  "geometry": {"coordinates":[[[[-100.152799,19.488636],[-100.074184,19.48915],[-100.074161,19.485584],[-100.073705,19.415476],[-100.145348,19.37484],[-100.133583,19.394797],[-100.168021,19.418515],[-100.182807,19.42265],[-100.18566800000001,19.423449],[-100.187805,19.424048],[-100.191203,19.424998],[-100.218452,19.432621],[-100.23165899999999,19.436311],[-100.23638200000001,19.437633],[-100.238792,19.438308],[-100.239105,19.438394],[-100.239394,19.475075],[-100.23947,19.484332],[-100.239501,19.48807],[-100.234251,19.488105],[-100.233542,19.488108],[-100.202505,19.488312],[-100.17768599999999,19.488474],[-100.176801,19.48848],[-100.160735,19.488585],[-100.152799,19.488636]]]],"type":"MultiPolygon"}
+}

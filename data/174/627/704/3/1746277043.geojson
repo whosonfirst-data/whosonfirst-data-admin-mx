@@ -1,0 +1,77 @@
+{
+  "id": 1746277043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.041817,
+    "geom:bbox":"-97.356814,18.647725,-96.974969,18.960946",
+    "geom:latitude":18.792293,
+    "geom:longitude":-97.216304,
+    "iso:country":"MX",
+    "lbl:latitude":18.78893,
+    "lbl:longitude":-97.251017,
+    "mps:latitude":18.78893,
+    "mps:longitude":-97.251017,
+    "mx-conanp:id_anp":"7.3.03.025",
+    "mx-conanp:name":"Ca\u00f1\u00f3n del R\u00edo Blanco",
+    "mx-conanp:type":"National Park",
+    "mx-conanp:type_es":"Parque Nacional",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Ca\u00f1\u00f3n del R\u00edo Blanco National Park"
+    ],
+    "name:fra_x_preferred":[
+        "parc national Ca\u00f1\u00f3n del R\u00edo Blanco"
+    ],
+    "name:pol_x_preferred":[
+        "Park Narodowy Ca\u00f1\u00f3n del R\u00edo Blanco"
+    ],
+    "name:spa_x_preferred":[
+        "Ca\u00f1\u00f3n del R\u00edo Blanco"
+    ],
+    "name:spa_x_variant":[
+        "Parque nacional Ca\u00f1\u00f3n del R\u00edo Blanco"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"7.3.03.025",
+        "wd:id":"Q3274500"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532128,
+    "wof:geomhash":"bb4b05c6c3c2f777205f5080b0e5d7bd",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277043,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277043,
+    "wof:lastmodified":1630623116,
+    "wof:name":"Ca\u00f1\u00f3n del R\u00edo Blanco National Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Parque Nacional",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.356814,
+    18.647725,
+    -96.974969,
+    18.960946
+],
+  "geometry": {"coordinates":[[[[-97.008928,18.894673],[-96.986604,18.837077],[-96.987245,18.824438],[-96.974969,18.799],[-97.045649,18.839075],[-97.125531,18.823155],[-97.15965,18.780598],[-97.176008,18.75816],[-97.246415,18.647725],[-97.296854,18.674843],[-97.328174,18.667883],[-97.352619,18.71532],[-97.325579,18.742479],[-97.356334,18.772956],[-97.356814,18.797792],[-97.32729500000001,18.808837],[-97.32753200000001,18.828712],[-97.31497299999999,18.853431],[-97.318575,18.87423],[-97.311334,18.884109],[-97.291856,18.88755],[-97.244056,18.873553],[-97.182013,18.863032],[-97.164411,18.867833],[-97.152654,18.858672],[-97.088489,18.867513],[-97.064212,18.873594],[-97.028688,18.910711],[-97.08413299999999,18.960946],[-97.008928,18.894673]]]],"type":"MultiPolygon"}
+}

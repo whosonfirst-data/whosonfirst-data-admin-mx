@@ -1,0 +1,77 @@
+{
+  "id": 1746277347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.076488,
+    "geom:bbox":"-88.052587,18.76623,-87.596019,19.164202",
+    "geom:latitude":18.986878,
+    "geom:longitude":-87.807389,
+    "iso:country":"MX",
+    "lbl:latitude":18.976846,
+    "lbl:longitude":-87.784907,
+    "mps:latitude":18.976846,
+    "mps:longitude":-87.784907,
+    "mx-conanp:id_anp":"9.7.02.116",
+    "mx-conanp:name":"Uaymil",
+    "mx-conanp:type":"Protected Flora and Fauna Area",
+    "mx-conanp:type_es":"\u00c1rea de Protecci\u00f3n de Flora y Fauna",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Uaymil"
+    ],
+    "name:fra_x_preferred":[
+        "Uaymil"
+    ],
+    "name:spa_x_preferred":[
+        "Uaymil"
+    ],
+    "name:spa_x_variant":[
+        "Isla Uaymil"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u7c73\u5c14"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"9.7.02.116",
+        "wd:id":"Q3547604"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532251,
+    "wof:geomhash":"01e253b0ca57181f313ac1b5d9c8f1ac",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277347,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277347,
+    "wof:lastmodified":1630607937,
+    "wof:name":"Uaymil",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"\u00c1rea De Protecci\u00f3n De Flora Y Fauna",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.052587,
+    18.76623,
+    -87.596019,
+    19.164202
+],
+  "geometry": {"coordinates":[[[[-88.040418,19.164085],[-88.019497,19.164202],[-87.99641699999999,19.121861],[-87.978279,19.109308],[-87.984798,19.086684],[-87.596019,19.087436],[-87.67259300000001,18.928529],[-87.671712,18.892052],[-87.72870899999999,18.76623],[-87.92349299999999,18.97033],[-87.970214,18.972894],[-87.970259,19.017883],[-88.052587,19.020688],[-88.037351,19.121185],[-88.020985,19.118953],[-88.021632,19.157341],[-88.040268,19.156948],[-88.040418,19.164085]]]],"type":"MultiPolygon"}
+}

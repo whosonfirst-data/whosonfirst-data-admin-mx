@@ -1,0 +1,68 @@
+{
+  "id": 1746277139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.441939,
+    "geom:bbox":"-118.634376,28.667778,-118.017709,29.384445",
+    "geom:latitude":29.026107,
+    "geom:longitude":-118.326044,
+    "iso:country":"MX",
+    "lbl:latitude":29.026107,
+    "lbl:longitude":-118.326044,
+    "mps:latitude":29.026107,
+    "mps:longitude":-118.326044,
+    "mx-conanp:id_anp":"1.1.05.157",
+    "mx-conanp:name":"Isla Guadalupe",
+    "mx-conanp:type":"Biosphere Reserve",
+    "mx-conanp:type_es":"Reserva de la Biosfera",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Guadalupe Island Biosphere Reserve"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Guadalupe"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"1.1.05.157",
+        "wd:id":"Q107017216"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532165,
+    "wof:geomhash":"1ad999e3cf9476e3509a2ffa9d67f961",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277139,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277139,
+    "wof:lastmodified":1630607933,
+    "wof:name":"Guadalupe Island Biosphere Reserve",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Reserva De La Biosfera",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.634376,
+    28.667778,
+    -118.017709,
+    29.384445
+],
+  "geometry": {"coordinates":[[[[-118.017709,29.384427],[-118.017709,28.667778],[-118.634376,28.667778],[-118.634376,29.384445],[-118.017709,29.384427]]]],"type":"MultiPolygon"}
+}

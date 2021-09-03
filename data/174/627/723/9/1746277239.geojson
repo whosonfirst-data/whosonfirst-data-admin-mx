@@ -1,0 +1,74 @@
+{
+  "id": 1746277239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008332,
+    "geom:bbox":"-101.084816,24.066652,-101.01988,24.235027",
+    "geom:latitude":24.149955,
+    "geom:longitude":-101.054118,
+    "iso:country":"MX",
+    "lbl:latitude":24.158355,
+    "lbl:longitude":-101.051489,
+    "mps:latitude":24.158355,
+    "mps:longitude":-101.051489,
+    "mx-conanp:id_anp":"4.7.02.067",
+    "mx-conanp:name":"Sierra La Mojonera",
+    "mx-conanp:type":"Protected Flora and Fauna Area",
+    "mx-conanp:type_es":"\u00c1rea de Protecci\u00f3n de Flora y Fauna",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:ceb_x_preferred":[
+        "Sierra La Mojonera"
+    ],
+    "name:eng_x_preferred":[
+        "Sierra La Mojonera"
+    ],
+    "name:spa_x_preferred":[
+        "Sierra La Mojonera"
+    ],
+    "name:swe_x_preferred":[
+        "Sierra La Mojonera"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"4.7.02.067",
+        "wd:id":"Q27783540"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532205,
+    "wof:geomhash":"c0a8f2c4e230fb01b5f24c53e48b886a",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277239,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277239,
+    "wof:lastmodified":1630607934,
+    "wof:name":"Sierra La Mojonera",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"\u00c1rea De Protecci\u00f3n De Flora Y Fauna",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.084816,
+    24.066652,
+    -101.01988,
+    24.235027
+],
+  "geometry": {"coordinates":[[[[-101.050591,24.235027],[-101.050331,24.218327],[-101.041977,24.218438],[-101.041832,24.209863],[-101.033462,24.209977],[-101.03304900000001,24.184253],[-101.020758,24.184414],[-101.01988,24.1289],[-101.042013,24.12861],[-101.025029,24.091582],[-101.024647,24.067213],[-101.066434,24.066652],[-101.066694,24.083352],[-101.075048,24.083238],[-101.07571299999999,24.124306],[-101.083579,24.124201],[-101.084816,24.199569],[-101.080376,24.199628],[-101.08062099999999,24.234617],[-101.050591,24.235027]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1746277181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.039639,
+    "geom:bbox":"-98.16563,19.109157,-97.92604,19.339382",
+    "geom:latitude":19.227002,
+    "geom:longitude":-98.041223,
+    "iso:country":"MX",
+    "lbl:latitude":19.229114,
+    "lbl:longitude":-98.038948,
+    "mps:latitude":19.229114,
+    "mps:longitude":-98.038948,
+    "mx-conanp:id_anp":"6.3.18.031",
+    "mx-conanp:name":"La Monta\u00f1a Malinche o Matlalcu\u00e9yatl",
+    "mx-conanp:type":"National Park",
+    "mx-conanp:type_es":"Parque Nacional",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:ceb_x_preferred":[
+        "Parque Nacional La Malinche"
+    ],
+    "name:deu_x_preferred":[
+        "Parque Nacional La Malinche"
+    ],
+    "name:eng_x_preferred":[
+        "La Malinche National Park"
+    ],
+    "name:fra_x_preferred":[
+        "parc national La Malinche"
+    ],
+    "name:spa_x_preferred":[
+        "La Monta\u00f1a Malinche o Matlalcu\u00e9yatl"
+    ],
+    "name:spa_x_variant":[
+        "parque nacional La Malinche"
+    ],
+    "name:swe_x_preferred":[
+        "Parque Nacional La Malinche"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"6.3.18.031",
+        "wd:id":"Q6463645"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532181,
+    "wof:geomhash":"80092f20ea8020177bfa24e96d2985f9",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277181,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277181,
+    "wof:lastmodified":1630607951,
+    "wof:name":"La Malinche National Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Parque Nacional",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.16563,
+    19.109157,
+    -97.92604,
+    19.339382
+],
+  "geometry": {"coordinates":[[[[-97.987392,19.116571],[-98.015086,19.109157],[-98.10388500000001,19.149929],[-98.104663,19.150653],[-98.140494,19.175095],[-98.160105,19.219205],[-98.16562999999999,19.251625],[-98.14839600000001,19.29477],[-98.051481,19.339382],[-98.01123,19.335312],[-97.95817,19.298686],[-97.947755,19.26794],[-97.92604,19.245282],[-97.92633499999999,19.208802],[-97.935861,19.160713],[-97.987392,19.116571]]]],"type":"MultiPolygon"}
+}

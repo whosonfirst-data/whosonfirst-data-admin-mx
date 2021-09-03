@@ -1,0 +1,64 @@
+{
+  "id": 1746277145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001706,
+    "geom:bbox":"-105.146845,19.513834,-105.075169,19.585491",
+    "geom:latitude":19.549662,
+    "geom:longitude":-105.111008,
+    "iso:country":"MX",
+    "lbl:latitude":19.549662,
+    "lbl:longitude":-105.111007,
+    "mps:latitude":19.549662,
+    "mps:longitude":-105.111007,
+    "mx-conanp:id_anp":"5.8.08.148",
+    "mx-conanp:name":"Islas La Pajarera, Cocinas, Mamut, Colorada, San Pedro, San Agust\u00edn, San Andr\u00e9s y Negrita y los Islotes Los Anegados, Novillas, Mosca y Submarino",
+    "mx-conanp:type":"Nature Sanctuary",
+    "mx-conanp:type_es":"Santuario Natural",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Islas La Pajarera, Cocinas, Mamut, Colorada, San Pedro, San Agust\u00edn, San Andr\u00e9s y Negrita y los Islotes Los Anegados, Novillas, Mosca y Submarino"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"5.8.08.148"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532168,
+    "wof:geomhash":"21177a2991048200599966853c3340c8",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277145,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277145,
+    "wof:lastmodified":1630607933,
+    "wof:name":"Islas La Pajarera, Cocinas, Mamut, Colorada, San Pedro, San Agust\u00edn, San Andr\u00e9s y Negrita y los Islotes Los Anegados, Novillas, Mosca y Submarino",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Santuario Natural",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.146845,
+    19.513834,
+    -105.075169,
+    19.585491
+],
+  "geometry": {"coordinates":[[[[-105.075169,19.527162],[-105.09183899999999,19.513834],[-105.146845,19.572159],[-105.13017499999999,19.585491],[-105.075169,19.527162]]]],"type":"MultiPolygon"}
+}

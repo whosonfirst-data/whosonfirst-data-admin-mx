@@ -1,0 +1,65 @@
+{
+  "id": 1746277287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.03011,
+    "geom:bbox":"-87.521584,19.087778,-87.376013,20.127955",
+    "geom:latitude":19.68546,
+    "geom:longitude":-87.408857,
+    "iso:country":"MX",
+    "lbl:latitude":19.318449,
+    "lbl:longitude":-87.397296,
+    "mps:latitude":19.318449,
+    "mps:longitude":-87.397296,
+    "mx-conanp:id_anp":"9.1.04.127",
+    "mx-conanp:name":"Arrecifes de Sian Ka'an",
+    "mx-conanp:type":"Biosphere Reserve",
+    "mx-conanp:type_es":"Reserva de la Biosfera",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Arrecifes de Sian Ka'an"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"9.1.04.127",
+        "wd:id":"Q49178578"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532225,
+    "wof:geomhash":"b6aba5df323524b2508654561c757ed8",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277287,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277287,
+    "wof:lastmodified":1630607944,
+    "wof:name":"Arrecifes de Sian Ka'an",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Reserva De La Biosfera",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.521584,
+    19.087778,
+    -87.376013,
+    20.127955
+],
+  "geometry": {"coordinates":[[[[-87.37669200000001,19.600333],[-87.376013,19.313909],[-87.479094,19.087778],[-87.4198,19.313813],[-87.37669200000001,19.600333]]],[[[-87.48017299999999,20.085336],[-87.510988,20.085026],[-87.511228,20.088306],[-87.50895,20.093753],[-87.514261,20.091551],[-87.51966299999999,20.093713],[-87.521584,20.096229],[-87.520425,20.098591],[-87.521027,20.101472],[-87.518337,20.103667],[-87.51835,20.10795],[-87.505938,20.115386],[-87.505954,20.12023],[-87.49982799999999,20.119343],[-87.483778,20.120109],[-87.483187,20.117589],[-87.481065,20.118228],[-87.480268,20.117227],[-87.48017299999999,20.085336]]],[[[-87.37669200000001,19.600333],[-87.433441,19.780925],[-87.402311,19.92919],[-87.451475,20.083602],[-87.452094,20.108958],[-87.452556,20.12788],[-87.420985,20.127955],[-87.37746799999999,19.929242],[-87.37669200000001,19.600333]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1746277211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.016947,
+    "geom:bbox":"-97.368272,18.950942,-97.202679,19.162349",
+    "geom:latitude":19.044946,
+    "geom:longitude":-97.280397,
+    "iso:country":"MX",
+    "lbl:latitude":19.045966,
+    "lbl:longitude":-97.274752,
+    "mps:latitude":19.045966,
+    "mps:longitude":-97.274752,
+    "mx-conanp:id_anp":"7.3.01.014",
+    "mx-conanp:name":"Pico de Orizaba",
+    "mx-conanp:type":"National Park",
+    "mx-conanp:type_es":"Parque Nacional",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Pico de Orizaba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u91cc\u85a9\u5df4\u5c71\u570b\u5bb6\u516c\u5712"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"7.3.01.014",
+        "wd:id":"Q3019685"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532193,
+    "wof:geomhash":"404486994e35d36540f24e467785becb",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277211,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277211,
+    "wof:lastmodified":1630607944,
+    "wof:name":"Pico de Orizaba",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Parque Nacional",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.368272,
+    18.950942,
+    -97.202679,
+    19.162349
+],
+  "geometry": {"coordinates":[[[[-97.202679,19.042727],[-97.28873900000001,18.950942],[-97.368272,19.003517],[-97.26033,19.162349],[-97.202679,19.042727]]]],"type":"MultiPolygon"}
+}

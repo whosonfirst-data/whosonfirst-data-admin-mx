@@ -1,0 +1,71 @@
+{
+  "id": 1746277259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005366,
+    "geom:bbox":"-92.19032,15.069245,-92.07284,15.159958",
+    "geom:latitude":15.115177,
+    "geom:longitude":-92.133902,
+    "iso:country":"MX",
+    "lbl:latitude":15.123372,
+    "lbl:longitude":-92.134792,
+    "mps:latitude":15.123372,
+    "mps:longitude":-92.134792,
+    "mx-conanp:id_anp":"8.1.07.154",
+    "mx-conanp:name":"Volc\u00e1n Tacan\u00e1",
+    "mx-conanp:type":"Biosphere Reserve",
+    "mx-conanp:type_es":"Reserva de la Biosfera",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Volc\u00e1n Tacan\u00e1 Biosphere Reserve"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u043e\u0441\u0444\u0435\u0440\u0435\u043d \u0440\u0435\u0437\u0435\u0440\u0432\u0430\u0442 \u0412\u0443\u043b\u043a\u0430\u043d \u0422\u0430\u043a\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Volc\u00e1n Tacan\u00e1"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"8.1.07.154",
+        "wd:id":"Q22771843"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532214,
+    "wof:geomhash":"462153c18f5c58073f067db23b06159f",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277259,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277259,
+    "wof:lastmodified":1630607931,
+    "wof:name":"Volc\u00e1n Tacan\u00e1 Biosphere Reserve",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Reserva De La Biosfera",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.19032,
+    15.069245,
+    -92.07284,
+    15.159958
+],
+  "geometry": {"coordinates":[[[[-92.130397,15.159878],[-92.07284,15.087686],[-92.081836,15.087284],[-92.08472,15.090244],[-92.087756,15.087484],[-92.088123,15.078285],[-92.09035799999999,15.078205],[-92.09383699999999,15.081325],[-92.09731600000001,15.078964],[-92.097477,15.069245],[-92.116123,15.069324],[-92.116001,15.078444],[-92.120243,15.078483],[-92.12028100000001,15.082643],[-92.117321,15.093243],[-92.11999900000001,15.099482],[-92.12440100000001,15.099882],[-92.125637,15.096881],[-92.13467799999999,15.087762],[-92.13464,15.069363],[-92.143964,15.069363],[-92.14412400000001,15.078442],[-92.149159,15.081642],[-92.147801,15.085282],[-92.143918,15.087922],[-92.143879,15.096682],[-92.152798,15.106],[-92.162282,15.09692],[-92.17168100000001,15.09692],[-92.171803,15.11488],[-92.18084399999999,15.114799],[-92.180958,15.124238],[-92.19032,15.132918],[-92.190083,15.142078],[-92.18092,15.141998],[-92.180843,15.150957],[-92.13431799999999,15.150679],[-92.134478,15.159958],[-92.130397,15.159878]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1746277133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006192,
+    "geom:bbox":"-101.061209,19.578362,-100.933921,19.672326",
+    "geom:latitude":19.634239,
+    "geom:longitude":-100.984172,
+    "iso:country":"MX",
+    "lbl:latitude":19.634088,
+    "lbl:longitude":-100.984172,
+    "mps:latitude":19.634088,
+    "mps:longitude":-100.984172,
+    "mx-conanp:id_anp":"5.3.04.034",
+    "mx-conanp:name":"Insurgente Jos\u00e9 Mar\u00eda Morelos",
+    "mx-conanp:type":"National Park",
+    "mx-conanp:type_es":"Parque Nacional",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Insurgente Jos\u00e9 Mar\u00eda Morelos National Park"
+    ],
+    "name:fra_x_preferred":[
+        "parc national Insurgente Jos\u00e9 Mar\u00eda Morelos"
+    ],
+    "name:spa_x_preferred":[
+        "Insurgente Jos\u00e9 Mar\u00eda Morelos"
+    ],
+    "name:spa_x_variant":[
+        "Parque nacional Insurgente Jos\u00e9 Mar\u00eda Morelos"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"5.3.04.034",
+        "wd:id":"Q6062990"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532163,
+    "wof:geomhash":"8f54687eafd5d5f30dadf069363851bc",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277133,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277133,
+    "wof:lastmodified":1630607933,
+    "wof:name":"Insurgente Jos\u00e9 Mar\u00eda Morelos National Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"Parque Nacional",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.061209,
+    19.578362,
+    -100.933921,
+    19.672326
+],
+  "geometry": {"coordinates":[[[[-100.939559,19.65934],[-100.933921,19.578362],[-101.02428500000001,19.624599],[-101.06120900000001,19.672326],[-100.939559,19.65934]]]],"type":"MultiPolygon"}
+}

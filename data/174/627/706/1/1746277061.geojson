@@ -1,0 +1,64 @@
+{
+  "id": 1746277061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.100797,
+    "geom:bbox":"-108.653147,29.50757,-108.339236,30.073533",
+    "geom:latitude":29.838451,
+    "geom:longitude":-108.507631,
+    "iso:country":"MX",
+    "lbl:latitude":29.960159,
+    "lbl:longitude":-108.496929,
+    "mps:latitude":29.960159,
+    "mps:longitude":-108.496929,
+    "mx-conanp:id_anp":"3.7.02.024",
+    "mx-conanp:name":"Campo Verde",
+    "mx-conanp:type":"Protected Flora and Fauna Area",
+    "mx-conanp:type_es":"\u00c1rea de Protecci\u00f3n de Flora y Fauna",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Campo Verde"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"3.7.02.024"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532135,
+    "wof:geomhash":"87ceb3171b73a77c107d919343ae0a9a",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277061,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277061,
+    "wof:lastmodified":1630607927,
+    "wof:name":"Campo Verde",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"\u00c1rea De Protecci\u00f3n De Flora Y Fauna",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.653147,
+    29.50757,
+    -108.339236,
+    30.073533
+],
+  "geometry": {"coordinates":[[[[-108.41262399999999,30.070284],[-108.35068,29.845586],[-108.515837,29.848797],[-108.339236,29.699099],[-108.33945799999999,29.690806],[-108.426259,29.7102],[-108.49783100000001,29.651224],[-108.367771,29.515929],[-108.438619,29.50757],[-108.581039,29.671984],[-108.620064,29.672689],[-108.653147,29.851309],[-108.583352,30.073533],[-108.41262399999999,30.070284]]]],"type":"MultiPolygon"}
+}

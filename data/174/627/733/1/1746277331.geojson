@@ -1,0 +1,68 @@
+{
+  "id": 1746277331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002861,
+    "geom:bbox":"-91.664009,17.079737,-91.575487,17.143238",
+    "geom:latitude":17.11621,
+    "geom:longitude":-91.618438,
+    "iso:country":"MX",
+    "lbl:latitude":17.116248,
+    "lbl:longitude":-91.61475,
+    "mps:latitude":17.116248,
+    "mps:longitude":-91.61475,
+    "mx-conanp:id_anp":"8.7.04.132",
+    "mx-conanp:name":"Metzabok",
+    "mx-conanp:type":"Protected Flora and Fauna Area",
+    "mx-conanp:type_es":"\u00c1rea de Protecci\u00f3n de Flora y Fauna",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:eng_x_preferred":[
+        "Naha-Metzabok"
+    ],
+    "name:spa_x_preferred":[
+        "Metzabok"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"8.7.04.132",
+        "wd:id":"Q22680931"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532244,
+    "wof:geomhash":"37c915968a2b91d5c6fe534070c535fc",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277331,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277331,
+    "wof:lastmodified":1630607938,
+    "wof:name":"Naha-Metzabok",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"\u00c1rea De Protecci\u00f3n De Flora Y Fauna",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.664009,
+    17.079737,
+    -91.575487,
+    17.143238
+],
+  "geometry": {"coordinates":[[[[-91.66400899999999,17.124036],[-91.663721,17.130143],[-91.655123,17.140245],[-91.65261099999999,17.140644],[-91.634159,17.140637],[-91.629238,17.141335],[-91.62423800000001,17.141238],[-91.62204300000001,17.143238],[-91.61940199999999,17.138042],[-91.61383600000001,17.138239],[-91.60855599999999,17.136639],[-91.597488,17.129739],[-91.59749100000001,17.126838],[-91.59235700000001,17.122238],[-91.584238,17.119542],[-91.575487,17.109738],[-91.589523,17.09544],[-91.592557,17.089334],[-91.592888,17.086534],[-91.593408,17.084839],[-91.596688,17.079737],[-91.598721,17.08174],[-91.602086,17.088035],[-91.605205,17.091834],[-91.615955,17.085537],[-91.62072000000001,17.093134],[-91.628237,17.098337],[-91.630402,17.100439],[-91.629802,17.102839],[-91.63176,17.103638],[-91.63563499999999,17.104541],[-91.636039,17.108439],[-91.63775800000001,17.109843],[-91.642292,17.110542],[-91.642127,17.115141],[-91.64816,17.117839],[-91.65204300000001,17.11894],[-91.65443500000001,17.116941],[-91.66400899999999,17.124036]]]],"type":"MultiPolygon"}
+}

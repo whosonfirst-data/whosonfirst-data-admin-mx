@@ -1,0 +1,65 @@
+{
+  "id": 1746277223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.084468,
+    "geom:bbox":"-109.050598,26.883619,-108.481699,27.208603",
+    "geom:latitude":27.008799,
+    "geom:longitude":-108.768366,
+    "iso:country":"MX",
+    "lbl:latitude":27.002802,
+    "lbl:longitude":-108.748972,
+    "mps:latitude":27.002802,
+    "mps:longitude":-108.748972,
+    "mx-conanp:id_anp":"2.7.02.121",
+    "mx-conanp:name":"Sierra de \u00c1lamos-R\u00edo Cuchujaqui",
+    "mx-conanp:type":"Protected Flora and Fauna Area",
+    "mx-conanp:type_es":"\u00c1rea de Protecci\u00f3n de Flora y Fauna",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_landuse_aoi":1,
+    "name:spa_x_preferred":[
+        "Sierra de \u00c1lamos-R\u00edo Cuchujaqui"
+    ],
+    "src:geom":"mx-conanp",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mx-conanp":"2.7.02.121",
+        "wd:id":"Q22673923"
+    },
+    "wof:country":"MX",
+    "wof:created":1630532199,
+    "wof:geomhash":"123409260e3e097c58f92f8f4dc4fa59",
+    "wof:hierarchy":[
+        {
+            "campus_id":1746277223,
+            "continent_id":102191575,
+            "country_id":85633293
+        }
+    ],
+    "wof:id":1746277223,
+    "wof:lastmodified":1630607931,
+    "wof:name":"Sierra de \u00c1lamos-R\u00edo Cuchujaqui",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:placetype_local":"\u00c1rea De Protecci\u00f3n De Flora Y Fauna",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.050598,
+    26.883619,
+    -108.481699,
+    27.208603
+],
+  "geometry": {"coordinates":[[[[-108.675579,27.208603],[-108.605017,27.107768],[-108.605019,27.046131],[-108.550584,27.000295],[-108.49282100000001,27.000295],[-108.48169900000001,26.938378],[-108.867152,26.922136],[-108.88834799999999,26.883619],[-109.05059799999999,26.886136],[-109.05059199999999,27.050286],[-108.950586,27.00029],[-108.938389,26.938616],[-108.88794900000001,26.967612],[-108.88391,27.029451],[-108.917266,27.050287],[-108.88834199999999,27.046689],[-108.861707,27.065288],[-108.769465,27.077248],[-108.76245900000001,27.148844],[-108.750578,27.181924],[-108.7217,27.181924],[-108.692814,27.190284],[-108.675579,27.208603]]]],"type":"MultiPolygon"}
+}
