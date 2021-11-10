@@ -57,6 +57,9 @@
     "name:glg_x_preferred":[
         "Altamira"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d8\u05de\u05d9\u05e8\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u057f\u0561\u0574\u056b\u0580\u0561"
     ],
@@ -127,7 +130,7 @@
         "gn:id":8774260
     },
     "wof:country":"MX",
-    "wof:geomhash":"2724847b1a4464cd5f25e31ba48de53b",
+    "wof:geomhash":"d5ff6c41aaaa4144a8dd42e2404d407b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1326778379,
-    "wof:lastmodified":1566614516,
+    "wof:lastmodified":1636492068,
     "wof:name":"Altamira",
     "wof:parent_id":102074345,
     "wof:placetype":"locality",
@@ -151,9 +154,9 @@
 },
   "bbox": [
     -109.32358,
-    27.17279000000001,
+    27.17279,
     -109.32358,
-    27.17279000000001
+    27.17279
 ],
-  "geometry": {"coordinates":[-109.32358000000001,27.17279000000001],"type":"Point"}
+  "geometry": {"coordinates":[-109.32358000000001,27.17279],"type":"Point"}
 }

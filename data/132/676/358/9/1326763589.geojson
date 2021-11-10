@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Santa Elena"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05d0\u05dc\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Elena"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576\u057f\u0561 \u0537\u056c\u0565\u0576\u0561"
     ],
@@ -104,7 +110,7 @@
         "gn:id":11269757
     },
     "wof:country":"MX",
-    "wof:geomhash":"8f16832586fd039886bc6e647c702372",
+    "wof:geomhash":"dcccc7674f0f439650d513ed38915851",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1326763589,
-    "wof:lastmodified":1566614193,
+    "wof:lastmodified":1636492038,
     "wof:name":"Santa Elena",
     "wof:parent_id":102079111,
     "wof:placetype":"locality",
@@ -125,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.08015999999998,
+    -88.08016,
     21.11116,
-    -88.08015999999998,
+    -88.08016,
     21.11116
 ],
-  "geometry": {"coordinates":[-88.08015999999998,21.11116],"type":"Point"}
+  "geometry": {"coordinates":[-88.08016000000001,21.11116],"type":"Point"}
 }

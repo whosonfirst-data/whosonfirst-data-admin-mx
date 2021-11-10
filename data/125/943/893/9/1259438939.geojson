@@ -136,6 +136,9 @@
         "Santa Cruz"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:sco_x_preferred":[
@@ -159,7 +162,13 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Santa Cruz"
+    ],
+    "name:vie_x_variant":[
         "Santa Cruz"
     ],
     "name:vol_x_preferred":[
@@ -167,6 +176,12 @@
     ],
     "name:war_x_preferred":[
         "Santa Cruz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u514b\u9c81\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af"
     ],
     "name:zho_x_preferred":[
         "\u8056\u514b\u9b6f\u65af"
@@ -183,7 +198,7 @@
         "gn:id":9082100
     },
     "wof:country":"MX",
-    "wof:geomhash":"172f32a15fa397dca53f66fee63d9faf",
+    "wof:geomhash":"3cf40129026c76971d06a49585130f08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -194,7 +209,7 @@
         }
     ],
     "wof:id":1259438939,
-    "wof:lastmodified":1566638905,
+    "wof:lastmodified":1636494106,
     "wof:name":"Santa Cruz",
     "wof:parent_id":102079245,
     "wof:placetype":"locality",
@@ -204,10 +219,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.00301999999998,
+    -88.00302,
     20.35078,
-    -88.00301999999998,
+    -88.00302,
     20.35078
 ],
-  "geometry": {"coordinates":[-88.00301999999998,20.35078],"type":"Point"}
+  "geometry": {"coordinates":[-88.00302000000001,20.35078],"type":"Point"}
 }

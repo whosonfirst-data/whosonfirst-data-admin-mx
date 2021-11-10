@@ -118,6 +118,9 @@
         "\u10e2\u10e0\u10d8\u10dc\u10d8\u10d3\u10d0\u10d3\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc\uc12c"
     ],
     "name:kur_x_preferred":[
@@ -228,7 +231,7 @@
         "gn:id":3515102
     },
     "wof:country":"MX",
-    "wof:geomhash":"90e5ec4718116f5300cfdd843eeafc75",
+    "wof:geomhash":"9b3afb4837265846ad88cee49f7125fc",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":1209178753,
-    "wof:lastmodified":1566627354,
+    "wof:lastmodified":1636493103,
     "wof:name":"Trinidad",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -247,9 +250,9 @@
 },
   "bbox": [
     -94.32558,
-    16.42607000000001,
+    16.42607,
     -94.32558,
-    16.42607000000001
+    16.42607
 ],
-  "geometry": {"coordinates":[-94.32558,16.42607000000001],"type":"Point"}
+  "geometry": {"coordinates":[-94.32558,16.42607],"type":"Point"}
 }

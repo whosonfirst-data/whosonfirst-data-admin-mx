@@ -30,6 +30,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "San Felipe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u06cc\u0644\u06cc\u067e\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05dc\u05d9\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "San Felipe"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -43,7 +55,7 @@
         "gn:id":8945467
     },
     "wof:country":"MX",
-    "wof:geomhash":"1f2c12602b7cf1b42cda47825d78c943",
+    "wof:geomhash":"e25e2eb7d540e08b648c6b36e57d4acb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1226679353,
-    "wof:lastmodified":1566640105,
+    "wof:lastmodified":1636494207,
     "wof:name":"San Felipe",
     "wof:parent_id":102079079,
     "wof:placetype":"locality",
@@ -66,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.70333000000002,
+    -87.70333,
     20.78139,
-    -87.70333000000002,
+    -87.70333,
     20.78139
 ],
-  "geometry": {"coordinates":[-87.70333000000002,20.78139],"type":"Point"}
+  "geometry": {"coordinates":[-87.70332999999999,20.78139],"type":"Point"}
 }

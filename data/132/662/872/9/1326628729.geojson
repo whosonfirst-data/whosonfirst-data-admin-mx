@@ -83,6 +83,9 @@
         "\u10e1\u10d0\u10dc-\u10da\u10e3\u10d8\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub8e8\uc774\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub8e8\uc774\uc2a4"
     ],
     "name:lit_x_preferred":[
@@ -124,11 +127,20 @@
     "name:tgl_x_preferred":[
         "San Luis"
     ],
+    "name:tur_x_preferred":[
+        "San Luis"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u0443\u0457\u0441"
     ],
     "name:und_x_variant":[
         "Fabrica de San Luis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Luis"
     ],
     "name:vol_x_preferred":[
         "San Luis"
@@ -148,7 +160,7 @@
         "gn:id":3518504
     },
     "wof:country":"MX",
-    "wof:geomhash":"e82a1f70aa85dbae0834df8e9d0b65dd",
+    "wof:geomhash":"03b5f53c94a97e50cb4ae1e50d662c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":1326628729,
-    "wof:lastmodified":1566614737,
+    "wof:lastmodified":1636492091,
     "wof:name":"San Luis",
     "wof:parent_id":102075549,
     "wof:placetype":"locality",
@@ -170,9 +182,9 @@
 },
   "bbox": [
     -93.18333,
-    17.68332999999999,
+    17.68333,
     -93.18333,
-    17.68332999999999
+    17.68333
 ],
-  "geometry": {"coordinates":[-93.18333,17.68332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-93.18333,17.68333],"type":"Point"}
 }

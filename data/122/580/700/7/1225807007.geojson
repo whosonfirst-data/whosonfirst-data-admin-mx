@@ -76,6 +76,9 @@
         "\u30b5\u30f3\u30ed\u30ec\u30f3\u30bd"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub85c\ub80c\uc870"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub85c\ub80c\uc18c"
     ],
     "name:lit_x_preferred":[
@@ -120,8 +123,14 @@
     "name:swe_x_preferred":[
         "San Lorenzo"
     ],
+    "name:tur_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0632\u0648"
     ],
     "name:vep_x_preferred":[
         "San Lorenso"
@@ -135,6 +144,12 @@
     "name:war_x_preferred":[
         "San Lorenzo"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -147,7 +162,7 @@
         "gn:id":8529017
     },
     "wof:country":"MX",
-    "wof:geomhash":"0338e71e2b0a3f84750a7f0ad449857c",
+    "wof:geomhash":"70dacf9d1b58c0947fda1ac2028b2ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -158,7 +173,7 @@
         }
     ],
     "wof:id":1225807007,
-    "wof:lastmodified":1566640500,
+    "wof:lastmodified":1636494238,
     "wof:name":"San Lorenzo",
     "wof:parent_id":102078697,
     "wof:placetype":"locality",
@@ -169,9 +184,9 @@
 },
   "bbox": [
     -100.38765,
-    26.34189000000001,
+    26.34189,
     -100.38765,
-    26.34189000000001
+    26.34189
 ],
-  "geometry": {"coordinates":[-100.38764999999999,26.34189000000001],"type":"Point"}
+  "geometry": {"coordinates":[-100.38764999999999,26.34189],"type":"Point"}
 }

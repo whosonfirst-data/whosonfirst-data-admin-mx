@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-103.879974815,18.9203812856,-103.879974815,18.9203812856",
+    "geom:bbox":"-103.879975,18.920381,-103.879975,18.920381",
     "geom:latitude":18.920381,
     "geom:longitude":-103.879975,
     "iso:country":"MX",
@@ -64,7 +64,16 @@
         "\u062a\u06cc\u06a9\u0648\u0645\u0627\u0646"
     ],
     "name:vie_x_preferred":[
+        "Tecoman"
+    ],
+    "name:vie_x_variant":[
         "Tecom\u00e1n"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7279\u79d1\u66fc"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7279\u79d1\u66fc"
     ],
     "name:zho_x_preferred":[
         "\u7279\u79d1\u66fc"
@@ -177,7 +186,7 @@
     },
     "wof:country":"MX",
     "wof:created":1499130716,
-    "wof:geomhash":"88a083f7df1c6624a9ccd90a60cabba3",
+    "wof:geomhash":"6f224fc011ea7f5b6e7a47e558ee1ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":1141907367,
-    "wof:lastmodified":1566641995,
+    "wof:lastmodified":1636494371,
     "wof:name":"Tecoman",
     "wof:parent_id":102074527,
     "wof:placetype":"locality",
@@ -198,10 +207,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.87997481465572,
-    18.92038128557385,
-    -103.87997481465572,
-    18.92038128557385
+    -103.879975,
+    18.920381,
+    -103.879975,
+    18.920381
 ],
-  "geometry": {"coordinates":[-103.87997481465572,18.92038128557385],"type":"Point"}
+  "geometry": {"coordinates":[-103.879975,18.920381],"type":"Point"}
 }

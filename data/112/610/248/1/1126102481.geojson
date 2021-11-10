@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-98.877768,19.5140945,-98.877768,19.5140945",
+    "geom:bbox":"-98.877768,19.514094,-98.877768,19.514094",
     "geom:latitude":19.514094,
     "geom:longitude":-98.877768,
     "gn:country":null,
@@ -19,6 +19,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "San Felipe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u06cc\u0644\u06cc\u067e\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05dc\u05d9\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "San Felipe"
+    ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":null,
     "qs_pg:name":"San Felipe",
@@ -56,7 +68,7 @@
     },
     "wof:country":"MX",
     "wof:created":1497316319,
-    "wof:geomhash":"c77cc5830b5c80ce35283897d38af03e",
+    "wof:geomhash":"0ebe925ef5c0c881cd4c988c4bb8a113",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":1126102481,
-    "wof:lastmodified":1566633932,
+    "wof:lastmodified":1636493649,
     "wof:name":"San Felipe",
     "wof:parent_id":101991795,
     "wof:placetype":"neighbourhood",
@@ -79,9 +91,9 @@
 },
   "bbox": [
     -98.877768,
-    19.5140945,
+    19.514094,
     -98.877768,
-    19.5140945
+    19.514094
 ],
-  "geometry": {"coordinates":[-98.877768,19.5140945],"type":"Point"}
+  "geometry": {"coordinates":[-98.877768,19.514094],"type":"Point"}
 }

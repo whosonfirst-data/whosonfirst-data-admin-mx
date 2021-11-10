@@ -103,6 +103,9 @@
         "Tlaxcala"
     ],
     "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05e7\u05e1\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d8\u05dc\u05e7\u05e1\u05e7\u05dc\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -264,7 +267,7 @@
         "gn:id":3980831
     },
     "wof:country":"MX",
-    "wof:geomhash":"116556c35bb9b9fc0e3633e64a0f2938",
+    "wof:geomhash":"33031ff31d2634f4dd5ebf57eec58959",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":1326518399,
-    "wof:lastmodified":1566613334,
+    "wof:lastmodified":1636491950,
     "wof:name":"Tlaxcala",
     "wof:parent_id":102075213,
     "wof:placetype":"locality",
@@ -286,9 +289,9 @@
 },
   "bbox": [
     -106.2283,
-    26.34574000000001,
+    26.34574,
     -106.2283,
-    26.34574000000001
+    26.34574
 ],
-  "geometry": {"coordinates":[-106.2283,26.34574000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.2283,26.34574],"type":"Point"}
 }

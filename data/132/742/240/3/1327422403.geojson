@@ -30,8 +30,71 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0645\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09b0\u09be\u09ae\u09cb\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a1\u03b1\u03bc\u03cc\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0631\u0627\u0645\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e8\u05de\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0930\u0947\u092e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "San Ramon"
+    ],
+    "name:ind_x_preferred":[
+        "San Ramon"
+    ],
+    "name:ita_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ub77c\ubaac"
+    ],
+    "name:pol_x_preferred":[
+        "San Ramon"
+    ],
+    "name:por_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u043c\u043e\u043d"
+    ],
     "name:spa_x_preferred":[
         "San Ram\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "San Ramon"
+    ],
+    "name:tur_x_preferred":[
+        "San Ramon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u043c\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u06cc\u0645\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "San Ramon"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u62c9\u8499"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u62c9\u8499"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +108,7 @@
         "gn:id":9190961
     },
     "wof:country":"MX",
-    "wof:geomhash":"582be852673501870a0f04f64660d8f6",
+    "wof:geomhash":"af941e9eb8b7390268e76a38c92d51a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +119,7 @@
         }
     ],
     "wof:id":1327422403,
-    "wof:lastmodified":1566615067,
+    "wof:lastmodified":1636492126,
     "wof:name":"San Ramon",
     "wof:parent_id":102075135,
     "wof:placetype":"locality",
@@ -67,9 +130,9 @@
 },
   "bbox": [
     -106.48403,
-    25.21877000000001,
+    25.21877,
     -106.48403,
-    25.21877000000001
+    25.21877
 ],
-  "geometry": {"coordinates":[-106.48403,25.21877000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.48403,25.21877],"type":"Point"}
 }

@@ -421,6 +421,9 @@
         "Puerto-riko"
     ],
     "name:tur_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:tur_x_variant":[
         "Porto Riko"
     ],
     "name:uig_x_preferred":[
@@ -462,6 +465,12 @@
     "name:zea_x_preferred":[
         "Puerto Rico"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6ce2\u591a\u9ece\u5404\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6ce2\u591a\u9ece\u5404"
+    ],
     "name:zho_x_preferred":[
         "\u6ce2\u591a\u9ece\u5404"
     ],
@@ -478,7 +487,7 @@
         "gn:id":8928680
     },
     "wof:country":"MX",
-    "wof:geomhash":"8e7246056ea4a4aa1dbcd5da0d455f8d",
+    "wof:geomhash":"1070cacd255937f9e8a3027326a3ecb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -489,7 +498,7 @@
         }
     ],
     "wof:id":1326623205,
-    "wof:lastmodified":1566614755,
+    "wof:lastmodified":1636492093,
     "wof:name":"Puerto Rico",
     "wof:parent_id":102075509,
     "wof:placetype":"locality",
@@ -502,9 +511,9 @@
 },
   "bbox": [
     -91.70944,
-    16.83917000000001,
+    16.83917,
     -91.70944,
-    16.83917000000001
+    16.83917
 ],
-  "geometry": {"coordinates":[-91.70944,16.83917000000001],"type":"Point"}
+  "geometry": {"coordinates":[-91.70944,16.83917],"type":"Point"}
 }

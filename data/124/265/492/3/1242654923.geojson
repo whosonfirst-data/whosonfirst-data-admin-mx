@@ -30,6 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u06a9\u0631\u06cc\u0633\u062a\u0648\u0628\u0627\u0644"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05e1\u05df \u05db\u05e8\u05d9\u05e1\u05d8\u05d5\u05d1\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "San Cristobal"
+    ],
     "name:spa_x_preferred":[
         "San Crist\u00f3bal"
     ],
@@ -46,7 +55,7 @@
         "gn:id":3987383
     },
     "wof:country":"MX",
-    "wof:geomhash":"dc316931e2d5e1c001634b42c27fa1b6",
+    "wof:geomhash":"8c024d9743e81307ce8ddc0744e857eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1242654923,
-    "wof:lastmodified":1566636630,
+    "wof:lastmodified":1636493903,
     "wof:name":"San Cristobal",
     "wof:parent_id":102077341,
     "wof:placetype":"locality",
@@ -70,9 +79,9 @@
 },
   "bbox": [
     -101.47683,
-    20.65787000000001,
+    20.65787,
     -101.47683,
-    20.65787000000001
+    20.65787
 ],
-  "geometry": {"coordinates":[-101.47683000000001,20.65787000000001],"type":"Point"}
+  "geometry": {"coordinates":[-101.47683000000001,20.65787],"type":"Point"}
 }

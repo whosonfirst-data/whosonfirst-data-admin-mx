@@ -69,6 +69,9 @@
     "name:fra_x_preferred":[
         "Tabora"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05d5\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Tabora"
     ],
@@ -94,6 +97,9 @@
         "Tabora"
     ],
     "name:pol_x_preferred":[
+        "Tabora"
+    ],
+    "name:por_x_preferred":[
         "Tabora"
     ],
     "name:ron_x_preferred":[
@@ -138,7 +144,7 @@
         "gn:id":3982702
     },
     "wof:country":"MX",
-    "wof:geomhash":"764b586ccf571c6b5846d8935cdd89ce",
+    "wof:geomhash":"22f39d456443fa9494999e07ed1a37f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1276608453,
-    "wof:lastmodified":1566623459,
+    "wof:lastmodified":1636492752,
     "wof:name":"Tabora",
     "wof:parent_id":102074317,
     "wof:placetype":"locality",
@@ -160,9 +166,9 @@
 },
   "bbox": [
     -107.83333,
-    25.11667000000001,
+    25.11667,
     -107.83333,
-    25.11667000000001
+    25.11667
 ],
-  "geometry": {"coordinates":[-107.83333,25.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-107.83333,25.11667],"type":"Point"}
 }

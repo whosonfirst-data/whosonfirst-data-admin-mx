@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-107.979982953,31.1000254507,-107.979982953,31.1000254507",
+    "geom:bbox":"-107.979983,31.100025,-107.979983,31.100025",
     "geom:latitude":31.100025,
     "geom:longitude":-107.979983,
     "iso:country":"MX",
@@ -21,16 +21,52 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0623\u0633\u0643\u064a\u0646\u0633\u064a\u0648\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b8\u09b8\u09c7\u09a8\u09b8\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Ascenci\u00f3n"
     ],
     "name:deu_x_preferred":[
         "Ascensi\u00f3n"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03b5\u03bd\u03c3\u03b9\u03cc\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Ascensi\u00f3n"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0633\u0646\u0633\u06cc\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ascenci\u00f3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05e0\u05e1\u05d9\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0938\u0947\u0902\u0938\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Ascension"
+    ],
+    "name:ind_x_preferred":[
+        "Ascension"
+    ],
+    "name:ita_x_preferred":[
+        "Ascensi\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b5\u30f3\u30b7\u30aa\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5b4\uc13c\uc158"
+    ],
     "name:nld_x_preferred":[
+        "Ascensi\u00f3n"
+    ],
+    "name:pol_x_preferred":[
         "Ascensi\u00f3n"
     ],
     "name:por_x_preferred":[
@@ -47,6 +83,15 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u0441\u0435\u043d\u0441\u0438\u043e\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Ascension"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u0441\u0435\u043d\u0441\u044c\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u06cc\u0646\u0634\u0646"
     ],
     "name:vie_x_preferred":[
         "Ascensi\u00f3n"
@@ -159,7 +204,7 @@
     },
     "wof:country":"MX",
     "wof:created":1499130599,
-    "wof:geomhash":"b790d6e0d989e7d5d942a19a4fdebac5",
+    "wof:geomhash":"9e43441a6dd62d95bea050a7ba5689f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -170,7 +215,7 @@
         }
     ],
     "wof:id":1141906479,
-    "wof:lastmodified":1566641997,
+    "wof:lastmodified":1636494372,
     "wof:name":"Ascension",
     "wof:parent_id":102075231,
     "wof:placetype":"locality",
@@ -180,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -107.97998295269292,
-    31.10002545066175,
-    -107.97998295269292,
-    31.10002545066175
+    -107.979983,
+    31.100025,
+    -107.979983,
+    31.100025
 ],
-  "geometry": {"coordinates":[-107.97998295269292,31.10002545066175],"type":"Point"}
+  "geometry": {"coordinates":[-107.979983,31.100025],"type":"Point"}
 }

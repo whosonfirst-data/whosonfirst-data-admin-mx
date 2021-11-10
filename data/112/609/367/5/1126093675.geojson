@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.8747435,19.798999,-99.8747435,19.798999",
+    "geom:bbox":"-99.874743,19.798999,-99.874743,19.798999",
     "geom:latitude":19.798999,
     "geom:longitude":-99.874743,
     "gn:country":null,
@@ -93,6 +93,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e8\u05dc\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0930\u0947\u0932\u094b\u0938"
     ],
     "name:hrv_x_preferred":[
         "Morelos"
@@ -281,7 +284,7 @@
     },
     "wof:country":"MX",
     "wof:created":1497314657,
-    "wof:geomhash":"0836dd4e3cacb3f4208822ad46f78216",
+    "wof:geomhash":"241ffd6403230498012c17138ca6285c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":1126093675,
-    "wof:lastmodified":1566634287,
+    "wof:lastmodified":1636493686,
     "wof:name":"Morelos",
     "wof:parent_id":101993135,
     "wof:placetype":"neighbourhood",
@@ -303,10 +306,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -99.8747435,
+    -99.874743,
     19.798999,
-    -99.8747435,
+    -99.874743,
     19.798999
 ],
-  "geometry": {"coordinates":[-99.87474349999999,19.798999],"type":"Point"}
+  "geometry": {"coordinates":[-99.874743,19.798999],"type":"Point"}
 }

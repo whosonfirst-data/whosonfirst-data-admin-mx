@@ -211,12 +211,18 @@
         "Victoria"
     ],
     "name:urd_x_preferred":[
+        "\u0648\u06a9\u0679\u0648\u0631\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
     ],
     "name:vep_x_preferred":[
         "Viktorii"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Victoria"
+    ],
+    "name:vie_x_variant":[
         "Victoria"
     ],
     "name:vol_x_preferred":[
@@ -224,6 +230,12 @@
     ],
     "name:war_x_preferred":[
         "Victoria"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7dad\u591a\u5229\u4e9e\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u7ef4\u591a\u5229\u4e9a"
@@ -240,7 +252,7 @@
         "gn:id":3514730
     },
     "wof:country":"MX",
-    "wof:geomhash":"8614d56b5f455249b00a4ed133f04298",
+    "wof:geomhash":"db876699abdffb1a77b99b6f370734d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -251,7 +263,7 @@
         }
     ],
     "wof:id":1259737349,
-    "wof:lastmodified":1566638686,
+    "wof:lastmodified":1636494085,
     "wof:name":"Victoria",
     "wof:parent_id":102075769,
     "wof:placetype":"locality",
@@ -262,9 +274,9 @@
 },
   "bbox": [
     -93.45,
-    17.61667000000001,
+    17.61667,
     -93.45,
-    17.61667000000001
+    17.61667
 ],
-  "geometry": {"coordinates":[-93.45,17.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-93.45,17.61667],"type":"Point"}
 }

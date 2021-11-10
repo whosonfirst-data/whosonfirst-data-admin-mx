@@ -106,6 +106,9 @@
         "San Pedro"
     ],
     "name:rus_x_preferred":[
+        "\u043e\u0437\u0435\u0440\u043e \u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
     "name:sco_x_preferred":[
@@ -121,13 +124,31 @@
         "\u0421\u0430\u043d \u041f\u0435\u0434\u0440\u043e"
     ],
     "name:swe_x_preferred":[
+        "R\u00edo San Pedro"
+    ],
+    "name:swe_x_variant":[
+        "San Pedro"
+    ],
+    "name:tur_x_preferred":[
         "San Pedro"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u067e\u06cc\u0688\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng San Pedro"
+    ],
     "name:war_x_preferred":[
         "San Pedro"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u4f69\u5fb7\u7f57\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -141,7 +162,7 @@
         "gn:id":3801196
     },
     "wof:country":"MX",
-    "wof:geomhash":"fa5aba530df3675d19896123aaf31292",
+    "wof:geomhash":"0c527307fd540ddfcff93e16a2fef40e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -152,7 +173,7 @@
         }
     ],
     "wof:id":1243228299,
-    "wof:lastmodified":1566635622,
+    "wof:lastmodified":1636493813,
     "wof:name":"San Pedro",
     "wof:parent_id":102076293,
     "wof:placetype":"locality",
@@ -163,9 +184,9 @@
 },
   "bbox": [
     -96.88681,
-    18.01336000000001,
+    18.01336,
     -96.88681,
-    18.01336000000001
+    18.01336
 ],
-  "geometry": {"coordinates":[-96.88681,18.01336000000001],"type":"Point"}
+  "geometry": {"coordinates":[-96.88681,18.01336],"type":"Point"}
 }

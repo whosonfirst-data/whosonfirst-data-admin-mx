@@ -30,11 +30,86 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u0643\u0627\u064a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09a8\u0995\u09be\u09df\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Moncayo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ba\u03b1\u03b3\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Moncayo Massif"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u06a9\u0627\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Moncayo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d3\u05d5\u05dc \u05e7\u05d9\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u0915\u093e\u092f\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Moncayo"
+    ],
+    "name:ind_x_preferred":[
+        "Moncayo"
+    ],
+    "name:ita_x_preferred":[
+        "Moncayo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30ab\u30e8\u5c71\u584a"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaac\uce74\uc694"
+    ],
+    "name:nld_x_preferred":[
+        "Sierra del Moncayo"
+    ],
+    "name:pol_x_preferred":[
+        "Moncayo"
+    ],
+    "name:por_x_preferred":[
+        "Moncayo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0433\u043e\u0440\u0430 \u041c\u043e\u043d\u043a\u0430\u0439\u043e"
+    ],
     "name:spa_x_preferred":[
         "Moncayo"
     ],
     "name:spa_x_variant":[
         "Los Carpinteros"
+    ],
+    "name:swe_x_preferred":[
+        "Moncayo"
+    ],
+    "name:tur_x_preferred":[
+        "Moncayo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u043a\u0430\u0439\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u06a9\u0627\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00fai Moncayo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8499\u5361\u7ea6\u5c71"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8499\u5361\u7d04\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +123,7 @@
         "gn:id":8687512
     },
     "wof:country":"MX",
-    "wof:geomhash":"c6a98359e442461ba921d6994fbe2248",
+    "wof:geomhash":"0330e5b6a025a4168114f8c89da3423b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +134,7 @@
         }
     ],
     "wof:id":1242920669,
-    "wof:lastmodified":1566634965,
+    "wof:lastmodified":1636493758,
     "wof:name":"Moncayo",
     "wof:parent_id":102078879,
     "wof:placetype":"locality",
@@ -70,9 +145,9 @@
 },
   "bbox": [
     -98.57477,
-    23.01457000000001,
+    23.01457,
     -98.57477,
-    23.01457000000001
+    23.01457
 ],
-  "geometry": {"coordinates":[-98.57477,23.01457000000001],"type":"Point"}
+  "geometry": {"coordinates":[-98.57477,23.01457],"type":"Point"}
 }

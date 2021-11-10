@@ -82,6 +82,9 @@
         "\u30b5\u30f3\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ud398\ub974\ub09c\ub3c4"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ud398\ub974\ub09c\ub3c4"
     ],
     "name:lit_x_preferred":[
@@ -129,11 +132,20 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0646\u06cc\u0646\u062f\u0648"
+    ],
     "name:vie_x_preferred":[
         "San Fernando"
     ],
     "name:war_x_preferred":[
         "San Fernando"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u8d39\u5c14\u5357\u591a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u8cbb\u723e\u5357\u591a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -147,7 +159,7 @@
         "gn:id":3971735
     },
     "wof:country":"MX",
-    "wof:geomhash":"509bd9f5c5c0d4b916fedcab34f3e1a4",
+    "wof:geomhash":"bd2669ccc700aea46c87758d364b4634",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -158,7 +170,7 @@
         }
     ],
     "wof:id":1343609317,
-    "wof:lastmodified":1566618544,
+    "wof:lastmodified":1636492350,
     "wof:name":"San Fernando",
     "wof:parent_id":102074457,
     "wof:placetype":"locality",
@@ -168,10 +180,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -112.79706000000002,
+    -112.79706,
     31.54174,
-    -112.79706000000002,
+    -112.79706,
     31.54174
 ],
-  "geometry": {"coordinates":[-112.79706000000002,31.54174],"type":"Point"}
+  "geometry": {"coordinates":[-112.79706,31.54174],"type":"Point"}
 }

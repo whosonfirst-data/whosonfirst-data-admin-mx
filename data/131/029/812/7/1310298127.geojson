@@ -48,6 +48,9 @@
     "name:fas_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0644\u0645\u0627\u0633"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05e4\u05dc\u05de\u05d0\u05e1"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30b9\u30fb\u30d1\u30eb\u30de\u30b9\u30fb\u30c7\u30fb\u30b0\u30e9\u30f3\u30fb\u30ab\u30ca\u30ea\u30a2"
     ],
@@ -129,7 +132,7 @@
         "gn:id":3524664
     },
     "wof:country":"MX",
-    "wof:geomhash":"e4dd0c4e3e69d0cd3a8a8d7e728f4567",
+    "wof:geomhash":"e35662f1c03c5a9b4bd4dfbf095e322b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1310298127,
-    "wof:lastmodified":1566630702,
+    "wof:lastmodified":1636493400,
     "wof:name":"Las Palmas",
     "wof:parent_id":102075531,
     "wof:placetype":"locality",
@@ -151,9 +154,9 @@
 },
   "bbox": [
     -93.54121,
-    17.27207000000001,
+    17.27207,
     -93.54121,
-    17.27207000000001
+    17.27207
 ],
-  "geometry": {"coordinates":[-93.54121000000001,17.27207000000001],"type":"Point"}
+  "geometry": {"coordinates":[-93.54121000000001,17.27207],"type":"Point"}
 }

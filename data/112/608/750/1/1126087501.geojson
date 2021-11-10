@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.490562,17.4051465,-93.490562,17.4051465",
+    "geom:bbox":"-93.490562,17.405147,-93.490562,17.405147",
     "geom:latitude":17.405147,
     "geom:longitude":-93.490562,
     "gn:country":null,
@@ -32,6 +32,12 @@
         "Independencia"
     ],
     "name:fra_x_preferred":[
+        "Independencia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e0\u05d3\u05e4\u05e0\u05d3\u05e0\u05e1\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Independencia"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +103,7 @@
     },
     "wof:country":"MX",
     "wof:created":1497313044,
-    "wof:geomhash":"29d09c69c23e829d6a34b5e7ef539d43",
+    "wof:geomhash":"cbfc1400566ba4ee1d9f7388c6289338",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1126087501,
-    "wof:lastmodified":1566634095,
+    "wof:lastmodified":1636493665,
     "wof:name":"Independencia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -120,9 +126,9 @@
 },
   "bbox": [
     -93.490562,
-    17.4051465,
+    17.405147,
     -93.490562,
-    17.4051465
+    17.405147
 ],
-  "geometry": {"coordinates":[-93.490562,17.4051465],"type":"Point"}
+  "geometry": {"coordinates":[-93.490562,17.405147],"type":"Point"}
 }

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05d5 \u05e8\u05d5\u05d1\u05dc\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Paso Robles"
+    ],
     "name:spa_x_preferred":[
         "Paso Robles"
     ],
@@ -46,7 +52,7 @@
         "gn:id":8511949
     },
     "wof:country":"MX",
-    "wof:geomhash":"84c88bc35b86984396a4c9bdbf45dfe1",
+    "wof:geomhash":"85989c71cfccffe7e94a89f924798eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1310266711,
-    "wof:lastmodified":1566630880,
+    "wof:lastmodified":1636493417,
     "wof:name":"Paso Robles",
     "wof:parent_id":102078751,
     "wof:placetype":"locality",
@@ -70,9 +76,9 @@
 },
   "bbox": [
     -100.48962,
-    26.81149000000001,
+    26.81149,
     -100.48962,
-    26.81149000000001
+    26.81149
 ],
-  "geometry": {"coordinates":[-100.48962,26.81149000000001],"type":"Point"}
+  "geometry": {"coordinates":[-100.48962,26.81149],"type":"Point"}
 }

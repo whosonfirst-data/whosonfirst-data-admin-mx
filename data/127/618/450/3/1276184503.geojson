@@ -30,14 +30,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u09a4\u09c7\u09ae\u09cb\u09b0\u09c7\u09b2\u09cb\u09b8"
+    ],
     "name:deu_x_preferred":[
         "Montemorelos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03b5\u03bc\u03cc\u03c1\u03b5\u03bb\u03bf\u03c2"
     ],
     "name:epo_x_preferred":[
         "Montemorelos"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0647 \u0645\u0648\u0631\u0644\u0648\u0633"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05de\u05d5\u05e8\u05dc\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0947\u092e\u094b\u0930\u0947\u0932\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Montemorelos"
+    ],
+    "name:ind_x_preferred":[
+        "Montemorelos"
+    ],
     "name:ita_x_preferred":[
         "Montemorelos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30e2\u30ec\u30ed\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaac\ud14c\ubaa8\ub810\ub85c\uc2a4"
     ],
     "name:pol_x_preferred":[
         "Montemorelos"
@@ -45,14 +72,32 @@
     "name:por_x_preferred":[
         "Montemorelos"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u043c\u043e\u0440\u0435\u043b\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "Montemorelos"
     ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u043c\u043e\u0440\u0435\u043b\u043e\u0441"
     ],
+    "name:tur_x_preferred":[
+        "Montemorelos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u043c\u043e\u0440\u0435\u043b\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0679\u06cc \u0645\u0648\u0631\u06cc\u0644\u0648\u0633"
+    ],
     "name:vie_x_preferred":[
         "Montemorelos"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8499\u7279\u83ab\u96f7\u6d1b\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8499\u7279\u83ab\u96f7\u6d1b\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +111,7 @@
         "gn:id":3523012
     },
     "wof:country":"MX",
-    "wof:geomhash":"9bdc66f61e4aefdbe0e11ab7ee5fe614",
+    "wof:geomhash":"af38e34992f42224fc92a9f6a78b0cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +122,7 @@
         }
     ],
     "wof:id":1276184503,
-    "wof:lastmodified":1566623182,
+    "wof:lastmodified":1636492730,
     "wof:name":"Montemorelos",
     "wof:parent_id":102077729,
     "wof:placetype":"locality",
@@ -88,9 +133,9 @@
 },
   "bbox": [
     -97.66667,
-    21.11667000000001,
+    21.11667,
     -97.66667,
-    21.11667000000001
+    21.11667
 ],
-  "geometry": {"coordinates":[-97.66667,21.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-97.66667,21.11667],"type":"Point"}
 }

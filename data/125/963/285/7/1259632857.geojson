@@ -97,6 +97,9 @@
         "Salinas"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0421\u0430\u043b\u0438\u043d\u0430\u0441"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0430\u043b\u0438\u043d\u0430\u0441"
     ],
     "name:sco_x_preferred":[
@@ -109,12 +112,24 @@
         "\u0421\u0430\u043b\u0438\u043d\u0430\u0441"
     ],
     "name:swe_x_preferred":[
+        "Salinas River"
+    ],
+    "name:swe_x_variant":[
+        "Salinas"
+    ],
+    "name:tur_x_preferred":[
         "Salinas"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0456\u043d\u0430\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644\u06cc\u0646\u0627\u0633"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Salinas"
+    ],
+    "name:vie_x_variant":[
         "Salinas"
     ],
     "name:vol_x_preferred":[
@@ -138,7 +153,7 @@
         "gn:id":3520059
     },
     "wof:country":"MX",
-    "wof:geomhash":"71c466a90fb1a54ca2fc281635f8f85c",
+    "wof:geomhash":"319327e2df2a338162004c5fdd8f990a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +164,7 @@
         }
     ],
     "wof:id":1259632857,
-    "wof:lastmodified":1566637481,
+    "wof:lastmodified":1636493978,
     "wof:name":"Salinas",
     "wof:parent_id":102077407,
     "wof:placetype":"locality",
@@ -160,9 +175,9 @@
 },
   "bbox": [
     -95.94299,
-    18.89022000000001,
+    18.89022,
     -95.94299,
-    18.89022000000001
+    18.89022
 ],
-  "geometry": {"coordinates":[-95.94298999999999,18.89022000000001],"type":"Point"}
+  "geometry": {"coordinates":[-95.94298999999999,18.89022],"type":"Point"}
 }

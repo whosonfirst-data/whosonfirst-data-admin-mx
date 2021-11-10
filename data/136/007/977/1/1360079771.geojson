@@ -78,6 +78,9 @@
         "Flores"
     ],
     "name:fas_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u0632"
+    ],
+    "name:fas_x_variant":[
         "\u0641\u0644\u0648\u0631\u0633"
     ],
     "name:fin_x_preferred":[
@@ -88,6 +91,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05dc\u05d5\u05e8\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u095e\u094d\u0932\u094b\u0930\u0947\u0938"
     ],
     "name:hrv_x_preferred":[
         "Flores"
@@ -206,7 +212,7 @@
         "gn:id":4006270
     },
     "wof:country":"MX",
-    "wof:geomhash":"16ec7b33cce4f7a6c7692d34c7b0c9f3",
+    "wof:geomhash":"796f53461d8d15c5f1ca6bb5430f8327",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -217,7 +223,7 @@
         }
     ],
     "wof:id":1360079771,
-    "wof:lastmodified":1566631708,
+    "wof:lastmodified":1636493489,
     "wof:name":"Flores",
     "wof:parent_id":102081071,
     "wof:placetype":"locality",
@@ -228,9 +234,9 @@
 },
   "bbox": [
     -100.06667,
-    28.11667000000001,
+    28.11667,
     -100.06667,
-    28.11667000000001
+    28.11667
 ],
-  "geometry": {"coordinates":[-100.06667,28.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-100.06667,28.11667],"type":"Point"}
 }

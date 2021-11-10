@@ -42,8 +42,14 @@
     "name:eus_x_preferred":[
         "Ocotal"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0648\u062a\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
         "Ocotal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e7\u05d5\u05d8\u05dc"
     ],
     "name:ita_x_preferred":[
         "Ocotal"
@@ -99,7 +105,7 @@
         "gn:id":3522481
     },
     "wof:country":"MX",
-    "wof:geomhash":"44d7a5412b07e791196491da25d7c1bc",
+    "wof:geomhash":"6e7c1ad7aebce2ec1cb52a8857c89883",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1326994743,
-    "wof:lastmodified":1566614595,
+    "wof:lastmodified":1636492077,
     "wof:name":"Ocotal",
     "wof:parent_id":102076629,
     "wof:placetype":"locality",
@@ -121,9 +127,9 @@
 },
   "bbox": [
     -94.66667,
-    16.63332999999999,
+    16.63333,
     -94.66667,
-    16.63332999999999
+    16.63333
 ],
-  "geometry": {"coordinates":[-94.66667,16.63332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-94.66667,16.63333],"type":"Point"}
 }

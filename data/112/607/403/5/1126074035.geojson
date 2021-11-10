@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-101.4028925,20.689162,-101.4028925,20.689162",
+    "geom:bbox":"-101.402892,20.689162,-101.402892,20.689162",
     "geom:latitude":20.689162,
     "geom:longitude":-101.402892,
     "gn:country":null,
@@ -19,6 +19,45 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u099c\u09cb\u09b8"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u062e\u0648\u0632\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05df \u05d7\u05d5\u05d6\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u091c\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "San Jose"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ud638\uc138"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "San Jose"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "San Jose"
+    ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":null,
     "qs_pg:name":"San Jose",
@@ -56,7 +95,7 @@
     },
     "wof:country":"MX",
     "wof:created":1497310573,
-    "wof:geomhash":"1724f540d21f6fdde0207a2b108c5df3",
+    "wof:geomhash":"f022aeee67f879a046459eaae8a8d9b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +107,7 @@
         }
     ],
     "wof:id":1126074035,
-    "wof:lastmodified":1566634253,
+    "wof:lastmodified":1636493682,
     "wof:name":"San Jose",
     "wof:parent_id":101996645,
     "wof:placetype":"neighbourhood",
@@ -78,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -101.4028925,
+    -101.402892,
     20.689162,
-    -101.4028925,
+    -101.402892,
     20.689162
 ],
-  "geometry": {"coordinates":[-101.40289249999999,20.689162],"type":"Point"}
+  "geometry": {"coordinates":[-101.40289199999999,20.689162],"type":"Point"}
 }

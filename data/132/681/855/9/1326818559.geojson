@@ -30,11 +30,50 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u099c\u09cb\u09b8"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u062e\u0648\u0632\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05df \u05d7\u05d5\u05d6\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u091c\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "San Jose"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ud638\uc138"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
     "name:spa_x_preferred":[
         "Argentina"
     ],
     "name:spa_x_variant":[
         "San Jos\u00e9"
+    ],
+    "name:tur_x_preferred":[
+        "San Jose"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "San Jose"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +87,7 @@
         "gn:id":9030940
     },
     "wof:country":"MX",
-    "wof:geomhash":"465185c137fde71fe0659b03345fc4fe",
+    "wof:geomhash":"e9d7499a3172c6a01ba1ba37a2f69772",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +98,7 @@
         }
     ],
     "wof:id":1326818559,
-    "wof:lastmodified":1566613136,
+    "wof:lastmodified":1636491932,
     "wof:name":"San Jose",
     "wof:parent_id":102075169,
     "wof:placetype":"locality",
@@ -70,9 +109,9 @@
 },
   "bbox": [
     -104.16383,
-    26.53062000000001,
+    26.53062,
     -104.16383,
-    26.53062000000001
+    26.53062
 ],
-  "geometry": {"coordinates":[-104.16383,26.53062000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.16383,26.53062],"type":"Point"}
 }

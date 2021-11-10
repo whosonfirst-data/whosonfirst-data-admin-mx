@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-101.1921715,19.702071,-101.1921715,19.702071",
+    "geom:bbox":"-101.192172,19.702071,-101.192172,19.702071",
     "geom:latitude":19.702071,
     "geom:longitude":-101.192172,
     "gn:country":null,
@@ -83,6 +83,9 @@
         "Vicente Guerrero"
     ],
     "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0441\u0435\u043d\u0442\u0435-\u0413\u0435\u0440\u0440\u0435\u0440\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0413\u0435\u0440\u0440\u0435\u0440\u043e"
     ],
     "name:sco_x_preferred":[
@@ -97,11 +100,26 @@
     "name:swe_x_preferred":[
         "Vicente Guerrero"
     ],
+    "name:tur_x_preferred":[
+        "Vicente Guerrero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0441\u0435\u043d\u0442\u0435-\u0413\u0435\u0440\u0440\u0435\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u06cc\u0646\u0679 \u06af\u0631\u06cc\u0631\u0648"
+    ],
     "name:vie_x_preferred":[
         "Vicente Guerrero"
     ],
     "name:yor_x_preferred":[
         "Vicente Guerrero"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7ef4\u68ee\u7279\u683c\u96f7\u7f57"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7dad\u68ee\u7279\u00b7\u683c\u96f7\u7f85"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u68ee\u7279\u00b7\u683c\u96f7\u7f57"
@@ -143,7 +161,7 @@
     },
     "wof:country":"MX",
     "wof:created":1497312792,
-    "wof:geomhash":"2fd37399134e1e670048d28b440b079d",
+    "wof:geomhash":"06dbf83aad4b553a97d2850752b855d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":1126085939,
-    "wof:lastmodified":1566634046,
+    "wof:lastmodified":1636493658,
     "wof:name":"Vicente Guerrero",
     "wof:parent_id":101997341,
     "wof:placetype":"neighbourhood",
@@ -165,10 +183,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -101.1921715,
+    -101.192172,
     19.702071,
-    -101.1921715,
+    -101.192172,
     19.702071
 ],
-  "geometry": {"coordinates":[-101.1921715,19.702071],"type":"Point"}
+  "geometry": {"coordinates":[-101.192172,19.702071],"type":"Point"}
 }

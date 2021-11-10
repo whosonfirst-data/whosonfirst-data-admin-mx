@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Sal"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Sal"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:dan_x_preferred":[
         "Sal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Sal"
@@ -90,6 +96,12 @@
     "name:swe_x_preferred":[
         "Sal"
     ],
+    "name:tur_x_preferred":[
+        "Sal"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Sal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -102,7 +114,7 @@
         "gn:id":3520085
     },
     "wof:country":"MX",
-    "wof:geomhash":"dcc1bd1567ebc5c9425cd35246d076f2",
+    "wof:geomhash":"636f7fcb429d1cbee1835503d7b8815d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":1326759045,
-    "wof:lastmodified":1566613102,
+    "wof:lastmodified":1636491929,
     "wof:name":"Sal",
     "wof:parent_id":102079085,
     "wof:placetype":"locality",
@@ -123,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.98333000000002,
+    -88.98333,
     20.25,
-    -88.98333000000002,
+    -88.98333,
     20.25
 ],
-  "geometry": {"coordinates":[-88.98333000000002,20.25],"type":"Point"}
+  "geometry": {"coordinates":[-88.98333,20.25],"type":"Point"}
 }

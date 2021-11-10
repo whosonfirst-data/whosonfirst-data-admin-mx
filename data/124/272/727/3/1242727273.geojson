@@ -76,6 +76,9 @@
         "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \uce74\ub97c\ub85c\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\uce74\ub97c\ub85c\uc2a4"
     ],
     "name:lit_x_preferred":[
@@ -111,8 +114,17 @@
     "name:swe_x_preferred":[
         "San Carlos"
     ],
+    "name:tur_x_preferred":[
+        "San Carlos"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Carlos"
     ],
     "name:vol_x_preferred":[
         "San Carlos"
@@ -136,7 +148,7 @@
         "gn:id":8932004
     },
     "wof:country":"MX",
-    "wof:geomhash":"c2626b84b58f4bdf6848e27fbf1c57fe",
+    "wof:geomhash":"fba2de4c8f9f538e7481be3c928644de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":1242727273,
-    "wof:lastmodified":1566634842,
+    "wof:lastmodified":1636493746,
     "wof:name":"San Carlos",
     "wof:parent_id":102077665,
     "wof:placetype":"locality",
@@ -160,9 +172,9 @@
 },
   "bbox": [
     -95.52306,
-    17.69693999999999,
+    17.69694,
     -95.52306,
-    17.69693999999999
+    17.69694
 ],
-  "geometry": {"coordinates":[-95.52306,17.69693999999999],"type":"Point"}
+  "geometry": {"coordinates":[-95.52306,17.69694],"type":"Point"}
 }

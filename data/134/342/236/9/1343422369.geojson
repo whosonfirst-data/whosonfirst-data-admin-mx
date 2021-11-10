@@ -91,6 +91,9 @@
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d1\u10d0\u10e0\u10d1\u10d0\u10e0\u10d0"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0\ud0c0 \ubc14\ubc14\ub77c"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ud0c0\ubc14\ub974\ubc14\ub77c"
     ],
     "name:nld_x_preferred":[
@@ -135,6 +138,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u06cc\u0631\u0627"
+    ],
     "name:vol_x_preferred":[
         "Santa B\u00e1rbara"
     ],
@@ -153,7 +159,7 @@
         "gn:id":3517707
     },
     "wof:country":"MX",
-    "wof:geomhash":"188616726ddc591e27db337bd4a3f54a",
+    "wof:geomhash":"e930ee6ed015d6da22655cf12afdd908",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1343422369,
-    "wof:lastmodified":1566619023,
+    "wof:lastmodified":1636492391,
     "wof:name":"Santa Barbara",
     "wof:parent_id":102075769,
     "wof:placetype":"locality",
@@ -175,9 +181,9 @@
 },
   "bbox": [
     -93.4,
-    17.86667000000001,
+    17.86667,
     -93.4,
-    17.86667000000001
+    17.86667
 ],
-  "geometry": {"coordinates":[-93.40000000000001,17.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-93.40000000000001,17.86667],"type":"Point"}
 }

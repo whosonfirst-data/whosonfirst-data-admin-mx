@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0643\u0627"
+    ],
     "name:bre_x_preferred":[
         "Cauca"
     ],
@@ -39,6 +42,12 @@
     "name:deu_x_preferred":[
         "Cauca"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03cd\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0626\u0648\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Cauca"
     ],
@@ -46,6 +55,9 @@
         "\u05e7\u05d0\u05d5\u05e7\u05d4"
     ],
     "name:hun_x_preferred":[
+        "Cauca"
+    ],
+    "name:ind_x_preferred":[
         "Cauca"
     ],
     "name:nld_x_preferred":[
@@ -63,7 +75,16 @@
     "name:spa_x_preferred":[
         "Cauca"
     ],
+    "name:tur_x_preferred":[
+        "Cauca"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0624\u06a9\u0627"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Cauca"
+    ],
+    "name:vie_x_variant":[
         "Cauca"
     ],
     "src:geom":"geonames",
@@ -89,7 +110,7 @@
         }
     ],
     "wof:id":1259818197,
-    "wof:lastmodified":1566638934,
+    "wof:lastmodified":1636494109,
     "wof:name":"Cauca",
     "wof:parent_id":102079057,
     "wof:placetype":"locality",

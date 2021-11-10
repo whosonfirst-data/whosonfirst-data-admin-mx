@@ -30,8 +30,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0631\u0645\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u0440\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b0\u09cd\u09ae\u09be"
     ],
     "name:cat_x_preferred":[
         "Lerma"
@@ -45,8 +51,14 @@
     "name:deu_x_preferred":[
         "Lerma"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ad\u03c1\u03bc\u03b1"
+    ],
     "name:eus_x_preferred":[
         "Lerma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0631\u0645\u0627"
     ],
     "name:fra_x_preferred":[
         "Lerma"
@@ -54,7 +66,16 @@
     "name:glg_x_preferred":[
         "Lerma"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e8\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0930\u094d\u092e\u093e"
+    ],
     "name:hun_x_preferred":[
+        "Lerma"
+    ],
+    "name:ind_x_preferred":[
         "Lerma"
     ],
     "name:ita_x_preferred":[
@@ -62,6 +83,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30eb\u30de"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ub974\ub9c8"
     ],
     "name:lad_x_preferred":[
         "Lerma"
@@ -90,10 +114,19 @@
     "name:swe_x_preferred":[
         "Lerma"
     ],
+    "name:tur_x_preferred":[
+        "Lerma"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0440\u043c\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0631\u0645\u0627"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Lerma"
+    ],
+    "name:vie_x_variant":[
         "Lerma"
     ],
     "name:war_x_preferred":[
@@ -108,7 +141,7 @@
         "gn:id":11111937
     },
     "wof:country":"MX",
-    "wof:geomhash":"8b9b40732a67201343b6101da9f43369",
+    "wof:geomhash":"4ad5555e80e49b5fabe50c9223d6034e",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -116,7 +149,7 @@
         }
     ],
     "wof:id":1209129383,
-    "wof:lastmodified":1566626065,
+    "wof:lastmodified":1636492979,
     "wof:name":"Lerma",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -127,9 +160,9 @@
 },
   "bbox": [
     -91.72019,
-    18.34152000000001,
+    18.34152,
     -91.72019,
-    18.34152000000001
+    18.34152
 ],
-  "geometry": {"coordinates":[-91.72019,18.34152000000001],"type":"Point"}
+  "geometry": {"coordinates":[-91.72019,18.34152],"type":"Point"}
 }

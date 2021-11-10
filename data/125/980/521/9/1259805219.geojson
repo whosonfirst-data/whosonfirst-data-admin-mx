@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Piedras Negras"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u062f\u0631\u0627\u0633 \u0646\u06af\u0631\u0627\u0633"
+    ],
     "name:fra_x_preferred":[
         "Piedras Negras"
     ],
@@ -66,7 +69,7 @@
         "gn:id":8738723
     },
     "wof:country":"MX",
-    "wof:geomhash":"0cf04f3ecb6387d2be5bb0972c6d0ea7",
+    "wof:geomhash":"22842e79ab6b7b4b29d6fc2feb78c34b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1259805219,
-    "wof:lastmodified":1566638763,
+    "wof:lastmodified":1636494093,
     "wof:name":"Piedras Negras",
     "wof:parent_id":102075299,
     "wof:placetype":"locality",
@@ -88,9 +91,9 @@
 },
   "bbox": [
     -105.31565,
-    28.03474000000001,
+    28.03474,
     -105.31565,
-    28.03474000000001
+    28.03474
 ],
-  "geometry": {"coordinates":[-105.31565000000001,28.03474000000001],"type":"Point"}
+  "geometry": {"coordinates":[-105.31565000000001,28.03474],"type":"Point"}
 }

@@ -39,8 +39,14 @@
     "name:glg_x_preferred":[
         "Canela"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u0928\u0947\u0932\u093e"
+    ],
     "name:ita_x_preferred":[
         "Canela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30cd\u30e9"
     ],
     "name:kor_x_preferred":[
         "\uce74\ub12c\ub77c"
@@ -78,7 +84,7 @@
         "gn:id":3531653
     },
     "wof:country":"MX",
-    "wof:geomhash":"075e39098b785efd720978777be4366f",
+    "wof:geomhash":"a24bf52bb82ecb1fa926618ec1d9f1dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1343717373,
-    "wof:lastmodified":1566617918,
+    "wof:lastmodified":1636492294,
     "wof:name":"Canela",
     "wof:parent_id":102077195,
     "wof:placetype":"locality",
@@ -100,9 +106,9 @@
 },
   "bbox": [
     -99.83333,
-    21.61667000000001,
+    21.61667,
     -99.83333,
-    21.61667000000001
+    21.61667
 ],
-  "geometry": {"coordinates":[-99.83333,21.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-99.83333,21.61667],"type":"Point"}
 }

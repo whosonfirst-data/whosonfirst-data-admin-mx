@@ -45,6 +45,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09aa\u09be\u09b2\u09ae\u09be"
+    ],
     "name:bre_x_preferred":[
         "La Palma"
     ],
@@ -95,6 +98,12 @@
     ],
     "name:glg_x_preferred":[
         "La Palma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e4\u05dc\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u0932\u094d\u092e\u093e"
     ],
     "name:hun_x_preferred":[
         "La Palma"
@@ -171,6 +180,9 @@
     "name:und_x_variant":[
         "Palmar"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0644\u0645\u0627"
+    ],
     "name:vie_x_preferred":[
         "La Palma"
     ],
@@ -192,7 +204,7 @@
         "gn:id":4008808
     },
     "wof:country":"MX",
-    "wof:geomhash":"ca6c3822e7af93c2ec86d7ef3154af8f",
+    "wof:geomhash":"e89cf9af913226e1658389e3e09b2aff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -203,7 +215,7 @@
         }
     ],
     "wof:id":1343638819,
-    "wof:lastmodified":1566616932,
+    "wof:lastmodified":1636492223,
     "wof:name":"La Palma",
     "wof:parent_id":102077305,
     "wof:placetype":"locality",
@@ -214,9 +226,9 @@
 },
   "bbox": [
     -100.91967,
-    20.50612000000001,
+    20.50612,
     -100.91967,
-    20.50612000000001
+    20.50612
 ],
-  "geometry": {"coordinates":[-100.91967,20.50612000000001],"type":"Point"}
+  "geometry": {"coordinates":[-100.91967,20.50612],"type":"Point"}
 }
