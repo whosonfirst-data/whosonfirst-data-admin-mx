@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.1265895,19.265441,-99.1265895,19.265441",
+    "geom:bbox":"-99.126589,19.265441,-99.126589,19.265441",
     "geom:latitude":19.265441,
     "geom:longitude":-99.126589,
     "gn:country":null,
@@ -41,8 +41,17 @@
     "name:pol_x_preferred":[
         "Tepexpan"
     ],
+    "name:por_x_preferred":[
+        "Tepexpan"
+    ],
     "name:spa_x_preferred":[
         "Tepexpan"
+    ],
+    "name:swe_x_preferred":[
+        "Tepexpan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u043f\u0435\u0441\u043f\u0430\u043d"
     ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":null,
@@ -81,7 +90,7 @@
     },
     "wof:country":"MX",
     "wof:created":1497304156,
-    "wof:geomhash":"aac4a3e97eafcf8c5f888a183acf7046",
+    "wof:geomhash":"ecbd984f2d4a1eb8b021205c58f85fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1126060465,
-    "wof:lastmodified":1566634130,
+    "wof:lastmodified":1690847962,
     "wof:name":"Tepepan",
     "wof:parent_id":102073731,
     "wof:placetype":"locality",
@@ -102,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -99.1265895,
+    -99.126589,
     19.265441,
-    -99.1265895,
+    -99.126589,
     19.265441
 ],
-  "geometry": {"coordinates":[-99.12658949999999,19.265441],"type":"Point"}
+  "geometry": {"coordinates":[-99.126589,19.265441],"type":"Point"}
 }

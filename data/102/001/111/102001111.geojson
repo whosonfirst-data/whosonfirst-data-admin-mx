@@ -44,8 +44,14 @@
         "Motul",
         "Motul de Carrillo Puerto"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0442\u0443\u043b \u0434\u0435 \u041a\u0430\u0440\u0438\u0459\u043e \u041f\u0443\u0435\u0440\u0442\u043e"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u062a\u0648\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u062a\u0648\u0644 "
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mexico",
@@ -159,8 +165,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102079207,
-        85686701
+        85686701,
+        102079207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -186,7 +192,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1587163111,
+    "wof:lastmodified":1690846972,
     "wof:name":"Motul de Carrillo Puerto",
     "wof:parent_id":102079207,
     "wof:placetype":"locality",

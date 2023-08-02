@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u064a\u0633\u0646\u062f\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u0441\u0438\u0435\u043d\u0434\u0430"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ceb_x_preferred":[
         "Asyenda"
+    ],
+    "name:ceb_x_variant":[
+        "asyenda"
     ],
     "name:deu_x_preferred":[
         "Hazienda"
@@ -45,6 +51,12 @@
     ],
     "name:fra_x_preferred":[
         "hacienda"
+    ],
+    "name:fry_x_preferred":[
+        "Hacienda"
+    ],
+    "name:hil_x_preferred":[
+        "asyenda"
     ],
     "name:hun_x_preferred":[
         "hacienda"
@@ -76,6 +88,9 @@
     "name:nob_x_preferred":[
         "hacienda"
     ],
+    "name:pam_x_preferred":[
+        "asienda"
+    ],
     "name:pol_x_preferred":[
         "Hacjenda"
     ],
@@ -103,17 +118,29 @@
     "name:swe_x_preferred":[
         "Hacienda"
     ],
+    "name:swe_x_variant":[
+        "hacienda"
+    ],
     "name:tat_x_preferred":[
         "Asienda"
     ],
     "name:tgl_x_preferred":[
         "Asyenda"
     ],
+    "name:tgl_x_variant":[
+        "asyenda"
+    ],
     "name:tur_x_preferred":[
         "Hacienda"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u044c\u0454\u043d\u0434\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0430\u0441\u044c\u0454\u043d\u0434\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Hacienda"
     ],
     "name:zho_x_preferred":[
         "\u5927\u571f\u5730\u6240\u6709\u5236"
@@ -183,7 +210,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1690847303,
     "wof:name":"Hacienda",
     "wof:parent_id":101995147,
     "wof:placetype":"neighbourhood",

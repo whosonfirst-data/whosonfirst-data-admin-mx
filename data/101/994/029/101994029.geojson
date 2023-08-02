@@ -23,11 +23,17 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0628\u0627\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627 \u0628\u0627\u0632"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7 \u09aa\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be \u09aa\u09be\u09b8"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0430 \u041f\u0430\u0441"
@@ -35,8 +41,14 @@
     "name:cat_x_preferred":[
         "La Paz"
     ],
+    "name:ceb_x_preferred":[
+        "La Paz"
+    ],
     "name:ces_x_preferred":[
         "La Paz"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632"
     ],
     "name:dan_x_preferred":[
         "La Paz"
@@ -60,6 +72,9 @@
         "La Paz"
     ],
     "name:fra_x_preferred":[
+        "La Paz"
+    ],
+    "name:gle_x_preferred":[
         "La Paz"
     ],
     "name:glg_x_preferred":[
@@ -186,6 +201,9 @@
     "name:tam_x_preferred":[
         "\u0bb2 \u0baa\u0bbe\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c2a\u0c3e\u0c1c\u0c4d"
     ],
@@ -208,7 +226,13 @@
     "name:urd_x_preferred":[
         "\u0644\u0627 \u067e\u0627\u0632"
     ],
+    "name:vec_x_preferred":[
+        "La Paz"
+    ],
     "name:vie_x_preferred":[
+        "La Paz"
+    ],
+    "name:vol_x_preferred":[
         "La Paz"
     ],
     "name:war_x_preferred":[
@@ -373,7 +397,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1636493556,
+    "wof:lastmodified":1690847908,
     "wof:name":"La Paz",
     "wof:parent_id":102074519,
     "wof:placetype":"locality",

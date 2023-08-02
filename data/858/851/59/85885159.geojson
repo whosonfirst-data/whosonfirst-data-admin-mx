@@ -99,6 +99,9 @@
     "name:eus_x_preferred":[
         "Sekta"
     ],
+    "name:eus_x_variant":[
+        "sekta"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0630\u0647\u0628"
     ],
@@ -114,6 +117,9 @@
     "name:glg_x_preferred":[
         "Seita"
     ],
+    "name:hau_x_preferred":[
+        "dari\u0199a"
+    ],
     "name:hbs_x_preferred":[
         "Sekta"
     ],
@@ -128,6 +134,9 @@
     ],
     "name:hrv_x_preferred":[
         "Sekta"
+    ],
+    "name:hrv_x_variant":[
+        "sekta"
     ],
     "name:hun_x_preferred":[
         "Szekta"
@@ -189,8 +198,17 @@
     "name:ltz_x_preferred":[
         "Sekt"
     ],
+    "name:mkd_x_preferred":[
+        "\u0441\u0435\u043a\u0442\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Sekta"
+    ],
     "name:msa_x_preferred":[
         "Organisasi ajaran sesat"
+    ],
+    "name:msa_x_variant":[
+        "taifah"
     ],
     "name:nld_x_preferred":[
         "Sekte"
@@ -228,6 +246,9 @@
     "name:ron_x_preferred":[
         "Sect\u0103"
     ],
+    "name:ron_x_variant":[
+        "sect\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043a\u0442\u0430"
     ],
@@ -242,6 +263,9 @@
     ],
     "name:slk_x_preferred":[
         "Sekta"
+    ],
+    "name:slk_x_variant":[
+        "sekta"
     ],
     "name:slv_x_preferred":[
         "Sekta"
@@ -279,6 +303,9 @@
     ],
     "name:tur_x_preferred":[
         "Mezhep"
+    ],
+    "name:tur_x_variant":[
+        "mezhep"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043a\u0442\u0430\u043d\u0442\u0441\u0442\u0432\u043e"
@@ -354,7 +381,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147375,
+    "wof:lastmodified":1690847302,
     "wof:name":"Sect A",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

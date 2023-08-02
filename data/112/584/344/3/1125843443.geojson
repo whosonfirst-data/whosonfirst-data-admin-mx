@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vicente Guerrero"
+    ],
+    "name:ceb_x_preferred":[
+        "Los Algodones"
+    ],
     "name:dan_x_preferred":[
         "Los Algodones"
     ],
@@ -46,8 +52,17 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u0441-\u0410\u043b\u044c\u0433\u043e\u0434\u043e\u043d\u0435\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0438\u0441\u0435\u043d\u0442\u0435-\u0413\u0435\u0440\u0440\u0435\u0440\u043e"
+    ],
     "name:spa_x_preferred":[
         "Vicente Guerrero"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u0435\u043d\u0442\u0435 \u0413\u0435\u0440\u0435\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Los Algodones"
     ],
     "qs_pg:aaroncc":"MX",
     "qs_pg:gn_country":"MX",
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":1125843443,
-    "wof:lastmodified":1566634323,
+    "wof:lastmodified":1690847970,
     "wof:name":"Los Algodones",
     "wof:parent_id":102074507,
     "wof:placetype":"locality",
