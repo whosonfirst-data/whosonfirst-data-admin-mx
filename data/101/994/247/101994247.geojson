@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b2\u09cb\u09b0\u09c7\u099e\u09cd\u099c\u09cb"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b2\u09cb\u09b0\u09c7\u09a8\u09cd\u09b8\u09cb"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u039b\u03bf\u03c1\u03ad\u03bd\u03c4\u03b6\u03bf"
     ],
@@ -67,11 +70,17 @@
     "name:por_x_preferred":[
         "San Lorenzo"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
     "name:sco_x_preferred":[
         "San Lorenzo"
     ],
     "name:spa_x_preferred":[
         "San Lorenzo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0437\u043e"
     ],
     "name:swe_x_preferred":[
         "San Lorenzo"
@@ -96,6 +105,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u8056\u6d1b\u502b\u7d22"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Chihuahua",
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":101994247,
-    "wof:lastmodified":1636493556,
+    "wof:lastmodified":1690847909,
     "wof:name":"San Lorenzo",
     "wof:parent_id":102075323,
     "wof:placetype":"locality",

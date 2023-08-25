@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-110.133339886,29.0171034943,-110.133339886,29.0171034943",
+    "geom:bbox":"-110.13334,29.017103,-110.13334,29.017103",
     "geom:latitude":29.017103,
     "geom:longitude":-110.13334,
     "iso:country":"MX",
@@ -42,11 +42,17 @@
     "name:ron_x_preferred":[
         "Mazat\u00e1n"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0430\u0442\u0430\u043d"
+    ],
     "name:sco_x_preferred":[
         "Mazat\u00e1n"
     ],
     "name:spa_x_preferred":[
         "Mazat\u00e1n"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0442\u0430\u043d"
     ],
     "name:swe_x_preferred":[
         "Mazat\u00e1n"
@@ -162,7 +168,7 @@
     },
     "wof:country":"MX",
     "wof:created":1499130715,
-    "wof:geomhash":"9154f5b2ec10226601a9aea41d8ce541",
+    "wof:geomhash":"2115913a5b76085aded08e4650f3cb07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1141907361,
-    "wof:lastmodified":1566641995,
+    "wof:lastmodified":1690848006,
     "wof:name":"Mazatlan",
     "wof:parent_id":102074383,
     "wof:placetype":"locality",
@@ -183,10 +189,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -110.13333988629518,
-    29.01710349427316,
-    -110.13333988629518,
-    29.01710349427316
+    -110.13334,
+    29.017103,
+    -110.13334,
+    29.017103
 ],
-  "geometry": {"coordinates":[-110.13333988629518,29.01710349427316],"type":"Point"}
+  "geometry": {"coordinates":[-110.13334,29.017103],"type":"Point"}
 }

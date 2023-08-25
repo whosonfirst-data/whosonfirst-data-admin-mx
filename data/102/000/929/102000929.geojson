@@ -22,11 +22,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":8.0,
+    "name:cat_x_preferred":[
+        "Frontera"
+    ],
     "name:ceb_x_preferred":[
         "Ciudad Frontera"
     ],
     "name:eng_x_preferred":[
         "Ciudad Frontera"
+    ],
+    "name:eng_x_variant":[
+        "Frontera"
     ],
     "name:ita_x_preferred":[
         "Frontera"
@@ -55,6 +61,9 @@
     "name:spa_x_variant":[
         "Ciudad Frontera",
         "Frontera"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0440\u043e\u043d\u0442\u0435\u0440\u0430"
     ],
     "name:swe_x_preferred":[
         "Ciudad Frontera"
@@ -129,7 +138,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1636492162,
+    "wof:lastmodified":1690846948,
     "wof:name":"Frontera",
     "wof:parent_id":102078851,
     "wof:placetype":"locality",

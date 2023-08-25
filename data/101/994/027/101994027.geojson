@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633 \u0631\u06cc\u0648 \u06a9\u0648\u0644\u0648\u0631\u0627\u062f\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b2\u09c1\u0987\u09b8 \u09b0\u09bf\u0993 \u0995\u09cb\u09b2\u09cb\u09b0\u09be\u09a6\u09cb"
     ],
     "name:ceb_x_preferred":[
         "San Luis R\u00edo Colorado"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u06cc\u0633 \u0695\u06cc\u06c6 \u06a9\u06c6\u0644\u06c6\u0631\u0627\u062f\u06c6"
     ],
     "name:dan_x_preferred":[
         "San Luis R\u00edo Colorado"
@@ -53,8 +59,14 @@
     "name:fra_x_preferred":[
         "San Luis R\u00edo Colorado"
     ],
+    "name:gle_x_preferred":[
+        "San Luis R\u00edo Colorado"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0ab2\u0ac1\u0a88\u0ab8 \u0ab0\u0abf\u0aaf\u0acb"
+    ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0abe\u0aa8 \u0ab2\u0ac1\u0a88\u0ab8 \u0ab0\u0abf\u0aaf\u0acb "
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05dc\u05d5\u05d0\u05d9\u05e1 \u05e8\u05d9\u05d5 \u05e7\u05d5\u05dc\u05d5\u05e8\u05d3\u05d5"
@@ -144,6 +156,9 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u06cc\u0633 \u0631\u06cc\u0648 \u06a9\u0648\u0644\u0648\u0631\u0627\u062f\u0648"
     ],
+    "name:vec_x_preferred":[
+        "San Luis R\u00edo Colorado"
+    ],
     "name:vie_x_preferred":[
         "San Luis R\u00edo Colorado"
     ],
@@ -175,8 +190,8 @@
     "wof:belongsto":[
         102191575,
         85633293,
-        102074497,
-        85686549
+        85686549,
+        102074497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,7 +223,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1587163111,
+    "wof:lastmodified":1690847906,
     "wof:name":"San Luis R\u00edo Colorado",
     "wof:parent_id":102074497,
     "wof:placetype":"locality",

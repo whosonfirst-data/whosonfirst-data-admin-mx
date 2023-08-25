@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u063a\u0631\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0648\u062c\u0631\u0633\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Progreso"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09c7\u09b8\u09cb"
     ],
@@ -136,11 +142,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bcd\u0bb0\u0bcb\u0b95\u0bcd\u0bb0\u0bc7\u0b9a\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bcd\u0bb0\u0bcb\u0b95\u0bcd\u0bb0\u0bc7\u0b9a\u0bcb "
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4d\u0c30\u0c4b\u0c17\u0c4d\u0c30\u0c46\u0c38\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1b\u0e23\u0e40\u0e01\u0e23\u0e2a\u0e42\u0e0b\u0e48 ,\u0e22\u0e39\u0e01\u0e32\u0e15\u0e31\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1b\u0e23\u0e40\u0e01\u0e23\u0e42\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Progreso"
@@ -150,6 +162,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u0648\u062c\u0631\u06cc\u0633\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0631\u0648\u062c\u0631\u06cc\u0633\u0648 "
     ],
     "name:vie_x_preferred":[
         "Progreso"
@@ -303,7 +318,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1636492164,
+    "wof:lastmodified":1690846977,
     "wof:name":"Progreso",
     "wof:parent_id":102078975,
     "wof:placetype":"locality",

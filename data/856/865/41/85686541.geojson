@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
+    "name:abk_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f\u044f \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f"
+    ],
     "name:afr_x_preferred":[
         "Baja California"
     ],
@@ -80,11 +83,17 @@
     "name:ces_x_preferred":[
         "Baja California"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u0445\u0430 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438"
+    ],
     "name:chy_x_preferred":[
         "Baja California"
     ],
     "name:cor_x_preferred":[
         "Baja California"
+    ],
+    "name:cos_x_preferred":[
+        "Bassa California"
     ],
     "name:cym_x_preferred":[
         "Baja California"
@@ -128,11 +137,17 @@
     "name:frr_x_preferred":[
         "Baja California"
     ],
+    "name:fry_x_preferred":[
+        "Leech-Kalifornje"
+    ],
     "name:gle_x_preferred":[
         "Baja California"
     ],
     "name:glg_x_preferred":[
         "Estado de Baixa California"
+    ],
+    "name:glg_x_variant":[
+        "Baixa California"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a9c\u0abe \u0a95\u0ac7\u0ab2\u0abf\u0aab\u0acb\u0ab0\u0acd\u0aa8\u0abf\u0aaf\u0abe"
@@ -146,6 +161,9 @@
     "name:hin_x_preferred":[
         "\u092c\u093e\u0916\u093e \u0915\u0948\u0932\u093f\u092b\u093c\u094b\u0930\u094d\u0928\u093f\u092f\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u092c\u093e\u0939\u093e \u0915\u0948\u0932\u093f\u092b\u093c\u094b\u0930\u094d\u0928\u093f\u092f\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Baja California"
     ],
@@ -154,6 +172,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0578\u0580\u056b\u0576 \u053f\u0561\u056c\u056b\u0586\u0578\u057c\u0576\u056b\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Basa Kalifornia"
     ],
     "name:ilo_x_preferred":[
         "Amianan a Baja California"
@@ -168,6 +189,9 @@
         "Baja California"
     ],
     "name:ind_x_preferred":[
+        "Baja California"
+    ],
+    "name:isl_x_preferred":[
         "Baja California"
     ],
     "name:ita_x_preferred":[
@@ -263,6 +287,9 @@
     "name:por_x_preferred":[
         "Baja California"
     ],
+    "name:por_x_variant":[
+        "Baixa Calif\u00f3rnia"
+    ],
     "name:que_x_preferred":[
         "Baja California suyu"
     ],
@@ -274,6 +301,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f\u044f \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f"
+    ],
+    "name:scn_x_preferred":[
+        "Bassa California"
     ],
     "name:sco_x_preferred":[
         "Baja California"
@@ -296,6 +326,9 @@
     "name:srd_x_preferred":[
         "Bassa California"
     ],
+    "name:srd_x_variant":[
+        "Bassa Calif\u00f2rnia"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0430 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0458\u0430"
     ],
@@ -307,6 +340,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0b95\u0bbe \u0b95\u0bb2\u0bbf\u0baa\u0bcb\u0bb0\u0bcd\u0ba9\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0445\u0430-\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c1c\u0c3e \u0c15\u0c3e\u0c32\u0c3f\u0c2b\u0c4b\u0c30\u0c4d\u0c28\u0c3f\u0c2f\u0c3e"
@@ -340,6 +376,9 @@
     ],
     "name:uzb_x_preferred":[
         "Quyi shimoliy Kaliforniya"
+    ],
+    "name:vec_x_preferred":[
+        "Basa Ca\u0142if\u00f2rnia"
     ],
     "name:vie_x_preferred":[
         "Baja California"
@@ -472,7 +511,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617131111,
+    "wof:lastmodified":1690847289,
     "wof:name":"Baja California",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
