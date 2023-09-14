@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":174.846809,
-    "geom:area_square_m":1969760367147.196777,
+    "geom:area_square_m":1969760367147.421875,
     "geom:bbox":"-118.40765,14.532098,-86.710687,32.718654",
     "geom:latitude":23.941047,
     "geom:longitude":-102.532362,
@@ -13,6 +13,9 @@
     "iso:country":"MX",
     "itu:country_code":[
         "52"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "lbl:latitude":23.920061,
     "lbl:longitude":-102.289691,
@@ -1392,7 +1395,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"52",
     "statoids:ds":"MEX",
     "statoids:fifa":"MEX",
@@ -1451,7 +1455,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"f62ffb190aeb3aaa60f9d7054206a4b4",
+    "wof:geomhash":"f39d59a6c0ca101a21744d004e2bb583",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1465,12 +1469,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847276,
+    "wof:lastmodified":1694639491,
     "wof:name":"Mexico",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":120286655,
-    "wof:population_rank":17,
+    "wof:population":127575529,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:shortcode":"MX",
     "wof:superseded_by":[],
