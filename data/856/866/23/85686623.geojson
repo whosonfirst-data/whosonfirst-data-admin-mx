@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.954785,
-    "geom:area_square_m":94077975565.986496,
+    "geom:area_square_m":94077974274.864059,
     "geom:bbox":"-98.552707,15.657169,-93.867427,18.669688",
     "geom:latitude":16.961442,
     "geom:longitude":-96.43013,
@@ -498,12 +498,18 @@
         "gn:id":3522509,
         "gp:id":2346283,
         "hasc:id":"MX.OA",
+        "inegi:id":"20",
+        "iso:code":"MX-OAX",
         "iso:id":"MX-OAX",
         "unlc:id":"MX-OAX",
         "wd:id":"Q34110"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f4e295098e9dc08785c23ad5fe331866",
+    "wof:geomhash":"0fec44b536cb969893eba7061ecb1699",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -518,7 +524,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847270,
+    "wof:lastmodified":1695884661,
     "wof:name":"Oaxaca",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

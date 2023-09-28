@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.343837,
-    "geom:area_square_m":4009502924.874697,
+    "geom:area_square_m":4009503243.66404,
     "geom:bbox":"-98.708399,19.105072,-97.625439,19.728917",
     "geom:latitude":19.428576,
     "geom:longitude":-98.168549,
@@ -429,12 +429,18 @@
         "gn:id":3515359,
         "gp:id":2346292,
         "hasc:id":"MX.TL",
+        "inegi:id":"29",
+        "iso:code":"MX-TLA",
         "iso:id":"MX-TLA",
         "unlc:id":"MX-TLA",
         "wd:id":"Q82681"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"309851ada59db3112d20d6469e590afd",
+    "wof:geomhash":"fa3e772667ea0f5c6c8f116135ea2a01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -449,7 +455,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847269,
+    "wof:lastmodified":1695884762,
     "wof:name":"Tlaxcala",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

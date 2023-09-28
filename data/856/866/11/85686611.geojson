@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.204907,
-    "geom:area_square_m":73565757868.247513,
+    "geom:area_square_m":73565759169.997864,
     "geom:bbox":"-94.139156,14.532098,-90.370214,17.985288",
     "geom:latitude":16.48524,
     "geom:longitude":-92.472912,
@@ -435,12 +435,18 @@
         "gn:id":3531011,
         "gp:id":2346268,
         "hasc:id":"MX.CP",
+        "inegi:id":"07",
+        "iso:code":"MX-CHP",
         "iso:id":"MX-CHP",
         "unlc:id":"MX-CHP",
         "wd:id":"Q60123"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"634bb87067912cb305b83143f1862a9d",
+    "wof:geomhash":"3d426596888843d8a8050275586bfa8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -455,7 +461,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847263,
+    "wof:lastmodified":1695884655,
     "wof:name":"Chiapas",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

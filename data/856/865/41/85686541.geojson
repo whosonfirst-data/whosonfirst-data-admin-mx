@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.883537,
-    "geom:area_square_m":73279225917.618423,
+    "geom:area_square_m":73279225060.928696,
     "geom:bbox":"-118.40765,28.0,-112.65424,32.718654",
     "geom:latitude":30.550925,
     "geom:longitude":-115.097531,
@@ -492,11 +492,17 @@
         "gn:id":4017700,
         "gp:id":2346265,
         "hasc:id":"MX.BN",
+        "inegi:id":"02",
+        "iso:code":"MX-BCN",
         "iso:id":"MX-BCN",
         "wd:id":"Q58731"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"040be9f5152f6ed2ba4d88f8ef36faab",
+    "wof:geomhash":"9554958812ebc4c8746061d39ad5230e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -511,7 +517,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847289,
+    "wof:lastmodified":1695884632,
     "wof:name":"Baja California",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.723932,
-    "geom:area_square_m":74756733368.887436,
+    "geom:area_square_m":74756733719.597702,
     "geom:bbox":"-115.223764,22.871954,-109.413173,28.000002",
     "geom:latitude":25.918669,
     "geom:longitude":-112.066215,
@@ -435,12 +435,18 @@
         "gn:id":4017698,
         "gp:id":2346266,
         "hasc:id":"MX.BS",
+        "inegi:id":"03",
+        "iso:code":"MX-BCS",
         "iso:id":"MX-BCS",
         "unlc:id":"MX-BCS",
         "wd:id":"Q46508"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1a972f4698423b8d1e7cdf0afc655b90",
+    "wof:geomhash":"53ad3df8a52a925b421001251504cd2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -455,7 +461,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847287,
+    "wof:lastmodified":1695884531,
     "wof:name":"Baja California Sur",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.138182,
-    "geom:area_square_m":80432513785.394531,
+    "geom:area_square_m":80432513219.269989,
     "geom:bbox":"-100.14495,22.206966,-97.144224,27.679126",
     "geom:latitude":24.291012,
     "geom:longitude":-98.640894,
@@ -428,12 +428,18 @@
         "gn:id":3516391,
         "gp:id":2346291,
         "hasc:id":"MX.TM",
+        "inegi:id":"28",
+        "iso:code":"MX-TAM",
         "iso:id":"MX-TAM",
         "unlc:id":"MX-TAM",
         "wd:id":"Q80007"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4e2db1ec761c75262be0c0072d38c314",
+    "wof:geomhash":"e3f11badf98a17bf4b2f4bba42621270",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -448,7 +454,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847258,
+    "wof:lastmodified":1695884608,
     "wof:name":"Tamaulipas",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

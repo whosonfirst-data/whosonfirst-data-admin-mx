@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.496665,
-    "geom:area_square_m":5802173803.23333,
+    "geom:area_square_m":5802174516.174423,
     "geom:bbox":"-114.759455,18.332594,-103.486346,19.512519",
     "geom:latitude":19.130411,
     "geom:longitude":-104.11728,
@@ -414,12 +414,18 @@
         "gn:id":4013513,
         "gp:id":2346271,
         "hasc:id":"MX.CL",
+        "inegi:id":"06",
+        "iso:code":"MX-COL",
         "iso:id":"MX-COL",
         "unlc:id":"MX-COL",
         "wd:id":"Q61309"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bd7994121e53688a9e37dba3f6fdff39",
+    "wof:geomhash":"4c75b78d1929264c3fe87f7e324c5c59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -434,7 +440,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847283,
+    "wof:lastmodified":1695884553,
     "wof:name":"Colima",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

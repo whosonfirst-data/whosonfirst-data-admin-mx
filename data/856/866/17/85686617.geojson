@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.109201,
-    "geom:area_square_m":24812623992.75193,
+    "geom:area_square_m":24812624503.418156,
     "geom:bbox":"-94.130025,17.250893,-90.987459,18.650965",
     "geom:latitude":17.937691,
     "geom:longitude":-92.593987,
@@ -422,12 +422,18 @@
         "gn:id":3516458,
         "gp:id":2346290,
         "hasc:id":"MX.TB",
+        "inegi:id":"27",
+        "iso:code":"MX-TAB",
         "iso:id":"MX-TAB",
         "unlc:id":"MX-TAB",
         "wd:id":"Q80914"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a19b59c39ba9aea3f81315b11ff83a6f",
+    "wof:geomhash":"eca8e8e3b94d370251ee0357216537eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -442,7 +448,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847266,
+    "wof:lastmodified":1695884662,
     "wof:name":"Tabasco",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

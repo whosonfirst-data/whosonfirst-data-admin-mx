@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.93058,
-    "geom:area_square_m":57697064455.954102,
+    "geom:area_square_m":57697060354.804077,
     "geom:bbox":"-92.46879,17.812871,-89.121229,20.848327",
     "geom:latitude":18.840552,
     "geom:longitude":-90.360277,
@@ -423,12 +423,18 @@
         "gn:id":3531730,
         "gp:id":2346267,
         "hasc:id":"MX.CM",
+        "inegi:id":"04",
+        "iso:code":"MX-CAM",
         "iso:id":"MX-CAM",
         "unlc:id":"MX-CAM",
         "wd:id":"Q80908"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"09a11eb5c3635b59212a94886ebef262",
+    "wof:geomhash":"1cdc081777e11843513efa0995c9c2e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -443,7 +449,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847274,
+    "wof:lastmodified":1695884561,
     "wof:name":"Campeche",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

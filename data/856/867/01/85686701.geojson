@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.458466,
-    "geom:area_square_m":39986154834.350685,
+    "geom:area_square_m":39986156422.992775,
     "geom:bbox":"-92.3263,19.551174,-87.533145,22.6138",
     "geom:latitude":20.762259,
     "geom:longitude":-88.928164,
@@ -459,12 +459,18 @@
         "gn:id":3514211,
         "gp:id":2346294,
         "hasc:id":"MX.YU",
+        "inegi:id":"31",
+        "iso:code":"MX-YUC",
         "iso:id":"MX-YUC",
         "unlc:id":"MX-YUC",
         "wd:id":"Q60176"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9eae9384c83ac956846f98f3474aca9c",
+    "wof:geomhash":"3ccd9ad40cf944d0aa58102100ae73cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -479,7 +485,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847275,
+    "wof:lastmodified":1695884527,
     "wof:name":"Yucat\u00e1n",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

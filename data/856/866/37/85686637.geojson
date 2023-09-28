@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.491151,
-    "geom:area_square_m":5630675448.848812,
+    "geom:area_square_m":5630675926.74572,
     "geom:bbox":"-102.874177,21.622266,-101.835289,22.45959",
     "geom:latitude":22.006441,
     "geom:longitude":-102.361938,
@@ -447,12 +447,18 @@
         "gn:id":4019231,
         "gp:id":2346264,
         "hasc:id":"MX.AG",
+        "inegi:id":"01",
+        "iso:code":"MX-AGU",
         "iso:id":"MX-AGU",
         "unlc:id":"MX-AGU",
         "wd:id":"Q79952"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8a3e35c015dc381079344f71af5cb235",
+    "wof:geomhash":"ccdb852e7f346457d163fa45bf168bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -467,7 +473,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847269,
+    "wof:lastmodified":1695884526,
     "wof:name":"Aguascalientes",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

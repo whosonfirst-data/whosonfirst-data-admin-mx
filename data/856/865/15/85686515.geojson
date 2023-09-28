@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128447,
-    "geom:area_square_m":1499218275.490244,
+    "geom:area_square_m":1499218277.43435,
     "geom:bbox":"-99.364924,19.048237,-98.940303,19.592757",
     "geom:latitude":19.27689,
     "geom:longitude":-99.139411,
@@ -144,14 +144,20 @@
         "gn:id":3527646,
         "gp:id":2346272,
         "hasc:id":"MX.DF",
+        "inegi:id":"09",
+        "iso:code":"MX-DIF",
         "iso:id":"MX-DIF",
         "unlc:id":"MX-DIF"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         857683023
     ],
     "wof:country":"MX",
-    "wof:geomhash":"e8d860edffafd920d69f2fcc1d031c43",
+    "wof:geomhash":"e19d974a59a5994c30f7a819dda5c1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -166,7 +172,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617130357,
+    "wof:lastmodified":1695884598,
     "wof:name":"Ciudad de M\u00e9xico",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

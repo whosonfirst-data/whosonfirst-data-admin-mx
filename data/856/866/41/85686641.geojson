@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.014638,
-    "geom:area_square_m":11723963596.309967,
+    "geom:area_square_m":11723964715.310032,
     "geom:bbox":"-100.596536,20.015018,-99.04308,21.670005",
     "geom:latitude":20.855176,
     "geom:longitude":-99.845796,
@@ -437,12 +437,18 @@
         "gn:id":3520914,
         "gp:id":2346285,
         "hasc:id":"MX.QE",
+        "inegi:id":"22",
+        "iso:code":"MX-QUE",
         "iso:id":"MX-QUE",
         "unlc:id":"MX-QUE",
         "wd:id":"Q79754"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"318df3d5ca2ee969e2dc2c09d532c0a1",
+    "wof:geomhash":"7526da0c8dfb4914d30cbd673cca1437",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -457,7 +463,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847270,
+    "wof:lastmodified":1695884597,
     "wof:name":"Quer\u00e9taro",
     "wof:parent_id":85633293,
     "wof:placetype":"region",
