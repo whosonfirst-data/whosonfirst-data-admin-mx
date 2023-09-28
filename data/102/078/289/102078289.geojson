@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013919,
-    "geom:area_square_m":162658611.116996,
+    "geom:area_square_m":162658611.116986,
     "geom:bbox":"-98.6406570634,19.0208129099,-98.4522434325,19.1538036091",
     "geom:latitude":19.079426,
     "geom:longitude":-98.566931,
@@ -107,8 +107,12 @@
         "inegi:id":"21138",
         "wd:id":"Q549962"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2427b7a9e176b99d2d00744b5ae07fc6",
+    "wof:geomhash":"e1cec5e67e78bd0b08387ac52b6b8c97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102078289,
-    "wof:lastmodified":1566615542,
+    "wof:lastmodified":1695886909,
     "wof:name":"San Nicol\u00e1s de los Ranchos",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

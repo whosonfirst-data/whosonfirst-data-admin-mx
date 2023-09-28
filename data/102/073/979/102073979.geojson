@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019282,
-    "geom:area_square_m":224317397.649888,
+    "geom:area_square_m":224317536.643388,
     "geom:bbox":"-99.193583,19.721695,-98.970198,19.904127",
     "geom:latitude":19.809107,
     "geom:longitude":-99.071821,
@@ -212,8 +212,12 @@
         "inegi:id":"15120",
         "wd:id":"Q1115965"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a6083a2614544c69c5ac0a27e7057024",
+    "wof:geomhash":"1dd2d12808c43dab9a294724b3fa7303",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -223,7 +227,7 @@
         }
     ],
     "wof:id":102073979,
-    "wof:lastmodified":1690847009,
+    "wof:lastmodified":1695886519,
     "wof:name":"Zumpango",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

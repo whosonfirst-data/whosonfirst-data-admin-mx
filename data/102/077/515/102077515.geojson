@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003802,
-    "geom:area_square_m":44456548.670855,
+    "geom:area_square_m":44456496.265382,
     "geom:bbox":"-97.091979,18.963753,-96.989401,19.03704",
     "geom:latitude":19.000607,
     "geom:longitude":-97.039526,
@@ -116,8 +116,12 @@
         "inegi:id":"30062",
         "wd:id":"Q5103501"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6daf2be0601895ea1dddf37aefc1be1c",
+    "wof:geomhash":"e5c85a176039e575b620e8e65438dff3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102077515,
-    "wof:lastmodified":1690846701,
+    "wof:lastmodified":1695886891,
     "wof:name":"Chocam\u00e1n",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

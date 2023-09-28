@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074832,
-    "geom:area_square_m":879881262.571602,
+    "geom:area_square_m":879881130.30965,
     "geom:bbox":"-96.313098,17.783085,-95.848496,18.31802",
     "geom:latitude":18.028559,
     "geom:longitude":-96.092538,
@@ -108,8 +108,12 @@
         "inegi:id":"20184",
         "wd:id":"Q11200804"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6e02628861cce2afcf16a502fc2e7c84",
+    "wof:geomhash":"377153a80c675be200dfc8383dcbeb19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":102076403,
-    "wof:lastmodified":1690846782,
+    "wof:lastmodified":1695886901,
     "wof:name":"San Juan Bautista Tuxtepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

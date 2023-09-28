@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020955,
-    "geom:area_square_m":245386560.241539,
+    "geom:area_square_m":245386560.241356,
     "geom:bbox":"-97.5234658344,18.6286020445,-97.3263393846,18.8221486703",
     "geom:latitude":18.733157,
     "geom:longitude":-97.428126,
@@ -84,8 +84,12 @@
         "hasc:id":"MX.PU.CM",
         "inegi:id":"21099"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2e82a90bb749f74082e1a9f9d0ad320c",
+    "wof:geomhash":"83e189972e6577fb7b90490416594e71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":102078203,
-    "wof:lastmodified":1566615557,
+    "wof:lastmodified":1695886913,
     "wof:name":"Ca\u00f1ada Morelos",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

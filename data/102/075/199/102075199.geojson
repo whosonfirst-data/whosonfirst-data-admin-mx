@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054245,
-    "geom:area_square_m":606027800.530122,
+    "geom:area_square_m":606027483.814987,
     "geom:bbox":"-104.54737,25.265341,-104.119931,25.511168",
     "geom:latitude":25.376102,
     "geom:longitude":-104.306486,
@@ -95,8 +95,12 @@
         "inegi:id":"10029",
         "wd:id":"Q3846437"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2cba456e650b9992d9c893bb45cb6e11",
+    "wof:geomhash":"c6ba30adb5c6118d743d81bb9dba413f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102075199,
-    "wof:lastmodified":1690847201,
+    "wof:lastmodified":1695886132,
     "wof:name":"San Luis del Cordero",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

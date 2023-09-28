@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004005,
-    "geom:area_square_m":46752050.946373,
+    "geom:area_square_m":46752050.946347,
     "geom:bbox":"-98.9765306257,19.2249543075,-98.9111869554,19.3401813059",
     "geom:latitude":19.276389,
     "geom:longitude":-98.94836,
@@ -133,8 +133,12 @@
         "inegi:id":"15122",
         "wd:id":"Q1962387"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f16504ec7268ce816f971ecb4cc1528d",
+    "wof:geomhash":"79203c8abd4af01be8b2d1e80298c29f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":102073973,
-    "wof:lastmodified":1566615800,
+    "wof:lastmodified":1695885984,
     "wof:name":"Valle de Chalco Solidaridad",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

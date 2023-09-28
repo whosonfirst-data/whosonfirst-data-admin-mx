@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005874,
-    "geom:area_square_m":69795889.487954,
+    "geom:area_square_m":69795936.769083,
     "geom:bbox":"-96.515479,16.029575,-96.409419,16.127639",
     "geom:latitude":16.080168,
     "geom:longitude":-96.458427,
@@ -113,8 +113,12 @@
         "inegi:id":"20279",
         "wd:id":"Q3892480"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"57281894f24036f16d1000fe07a6324c",
+    "wof:geomhash":"0ecb2680bbfa77e587ff4854f2a6f25f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076481,
-    "wof:lastmodified":1690846764,
+    "wof:lastmodified":1695886899,
     "wof:name":"San Miguel Suchixtepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

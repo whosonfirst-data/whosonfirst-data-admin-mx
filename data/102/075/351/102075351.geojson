@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120939,
-    "geom:area_square_m":1321697677.477197,
+    "geom:area_square_m":1321697677.476726,
     "geom:bbox":"-106.974838189,27.6772319022,-106.511053952,28.1055323625",
     "geom:latitude":27.892499,
     "geom:longitude":-106.735187,
@@ -104,8 +104,12 @@
         "inegi:id":"08057",
         "wd:id":"Q2466537"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1b7a9c1bf542a52744ec54343c166f51",
+    "wof:geomhash":"c7d890beb4cb115293aade76cd2a1139",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102075351,
-    "wof:lastmodified":1566616141,
+    "wof:lastmodified":1695886130,
     "wof:name":"San Francisco de Borja",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

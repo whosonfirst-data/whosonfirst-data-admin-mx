@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165384,
-    "geom:area_square_m":1855705443.565502,
+    "geom:area_square_m":1855705443.565558,
     "geom:bbox":"-105.319805184,24.5574677549,-104.721842303,25.1168299646",
     "geom:latitude":24.846695,
     "geom:longitude":-105.038031,
@@ -110,8 +110,12 @@
         "inegi:id":"10039",
         "wd:id":"Q3016779"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"83f964c65204ccfbc8f14529742d7e9e",
+    "wof:geomhash":"7f93bce2fdd16e246c85216cdaa2f22c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102075139,
-    "wof:lastmodified":1566616155,
+    "wof:lastmodified":1695886133,
     "wof:name":"Nuevo Ideal",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

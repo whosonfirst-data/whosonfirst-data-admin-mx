@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01863,
-    "geom:area_square_m":221094692.317777,
+    "geom:area_square_m":221094692.317804,
     "geom:bbox":"-97.6294482356,16.2373791835,-97.4370529835,16.388097114",
     "geom:latitude":16.309652,
     "geom:longitude":-97.534942,
@@ -98,8 +98,12 @@
         "inegi:id":"20543",
         "wd:id":"Q3890430"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"eca17825cd8be8bbf572c4eff37a2e7b",
+    "wof:geomhash":"af51aecd7bfe875aa727dba51f80f01a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102076233,
-    "wof:lastmodified":1566615461,
+    "wof:lastmodified":1695886895,
     "wof:name":"Tataltepec de Vald\u00e9s",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

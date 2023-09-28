@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090886,
-    "geom:area_square_m":1009465429.17932,
+    "geom:area_square_m":1009465344.666805,
     "geom:bbox":"-99.970669,25.863748,-99.475845,26.256534",
     "geom:latitude":26.072319,
     "geom:longitude":-99.705365,
@@ -79,8 +79,12 @@
         "hasc:id":"MX.NL.CE",
         "inegi:id":"19011"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"15434d56606b52d48b79b040e27ce9ba",
+    "wof:geomhash":"fc6c87169a73b02562e8d543d621fd9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":102078775,
-    "wof:lastmodified":1625076029,
+    "wof:lastmodified":1695886650,
     "wof:name":"Cerralvo",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

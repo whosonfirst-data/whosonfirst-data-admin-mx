@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003251,
-    "geom:area_square_m":38575970.346294,
+    "geom:area_square_m":38575970.346366,
     "geom:bbox":"-96.3110227273,16.2735096578,-96.2090076911,16.3626200396",
     "geom:latitude":16.309181,
     "geom:longitude":-96.270255,
@@ -101,8 +101,12 @@
         "inegi:id":"20074",
         "wd:id":"Q3893314"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6ecd5f477a11ee8c26c64fba709c9056",
+    "wof:geomhash":"aa4c21434829c353bb42010548029e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102076337,
-    "wof:lastmodified":1566615436,
+    "wof:lastmodified":1695886892,
     "wof:name":"Santa Catarina Quioquitani",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

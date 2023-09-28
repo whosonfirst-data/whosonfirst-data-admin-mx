@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010724,
-    "geom:area_square_m":124967878.018206,
+    "geom:area_square_m":124967744.516002,
     "geom:bbox":"-96.970843,19.484592,-96.798973,19.599508",
     "geom:latitude":19.54387,
     "geom:longitude":-96.888345,
@@ -122,8 +122,12 @@
         "inegi:id":"30087",
         "wd:id":"Q12816823"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f082439b3cb824542fa571b2b2eee9af",
+    "wof:geomhash":"0d337a7ae421ca5819514881445ddf2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102077571,
-    "wof:lastmodified":1690846689,
+    "wof:lastmodified":1695886886,
     "wof:name":"Xalapa",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

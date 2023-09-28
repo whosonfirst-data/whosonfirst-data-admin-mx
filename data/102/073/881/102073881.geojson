@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068099,
-    "geom:area_square_m":805526766.352693,
+    "geom:area_square_m":805526065.769173,
     "geom:bbox":"-98.495008,16.747029,-98.066313,17.202528",
     "geom:latitude":16.939061,
     "geom:longitude":-98.277127,
@@ -119,8 +119,12 @@
         "inegi:id":"12062",
         "wd:id":"Q3847037"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d85ec1d63d24c9b372fe106322e86258",
+    "wof:geomhash":"26925e27065048f43ebe8e293a255945",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102073881,
-    "wof:lastmodified":1690847005,
+    "wof:lastmodified":1695885968,
     "wof:name":"Tlacoachistlahuaca",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

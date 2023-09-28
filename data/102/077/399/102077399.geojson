@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010646,
-    "geom:area_square_m":124456675.834272,
+    "geom:area_square_m":124456675.834225,
     "geom:bbox":"-96.6677800935,18.9503442342,-96.4824680442,19.055707425",
     "geom:latitude":19.010881,
     "geom:longitude":-96.56902,
@@ -104,8 +104,12 @@
         "inegi:id":"30007",
         "wd:id":"Q5024980"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"230e962fb768d9858e9b620a9b4bc3df",
+    "wof:geomhash":"c41675665af3f5659d25b1486a3ce140",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102077399,
-    "wof:lastmodified":1566615307,
+    "wof:lastmodified":1695886858,
     "wof:name":"Camar\u00f3n de Tejeda",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

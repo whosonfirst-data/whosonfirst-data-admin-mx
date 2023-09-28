@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03026,
-    "geom:area_square_m":359451115.495907,
+    "geom:area_square_m":359451575.397904,
     "geom:bbox":"-92.335104,15.947664,-92.13904,16.270609",
     "geom:latitude":16.124083,
     "geom:longitude":-92.24644,
@@ -131,8 +131,12 @@
         "inegi:id":"07104",
         "wd:id":"Q1769090"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e51ea49b193dd4aba0e4099da2d88586",
+    "wof:geomhash":"20f5c71bbd290dca458b81a768a45435",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102075661,
-    "wof:lastmodified":1690847176,
+    "wof:lastmodified":1695886114,
     "wof:name":"Tzimol",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

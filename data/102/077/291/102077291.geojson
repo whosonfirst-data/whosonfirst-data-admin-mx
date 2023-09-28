@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032357,
-    "geom:area_square_m":374957831.617713,
+    "geom:area_square_m":374957688.325943,
     "geom:bbox":"-100.695857,20.310537,-100.468785,20.555033",
     "geom:latitude":20.421841,
     "geom:longitude":-100.57352,
@@ -125,8 +125,12 @@
         "inegi:id":"11004",
         "wd:id":"Q2651599"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"996857044fab9800731787cc55e081c0",
+    "wof:geomhash":"a1b104bcb37c3848d9912d1b332736ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102077291,
-    "wof:lastmodified":1690846680,
+    "wof:lastmodified":1695886883,
     "wof:name":"Apaseo el Alto",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

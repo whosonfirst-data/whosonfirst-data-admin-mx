@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076863,
-    "geom:area_square_m":912471092.903937,
+    "geom:area_square_m":912471092.903467,
     "geom:bbox":"-90.9611877226,16.0740361504,-90.5567187941,16.4733688016",
     "geom:latitude":16.24635,
     "geom:longitude":-90.743423,
@@ -101,8 +101,12 @@
         "inegi:id":"07116",
         "wd:id":"Q1179985"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c4bf4dd65f053877c984153c1d89c3b5",
+    "wof:geomhash":"6e0f08b8b317e9a89cd315eff99316ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102075637,
-    "wof:lastmodified":1566616193,
+    "wof:lastmodified":1695886149,
     "wof:name":"Marqu\u00e9s de Comillas",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

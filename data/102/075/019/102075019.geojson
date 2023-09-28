@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016999,
-    "geom:area_square_m":197798867.797599,
+    "geom:area_square_m":197798867.797559,
     "geom:bbox":"-100.290669497,19.6971377858,-100.134237538,19.8705484727",
     "geom:latitude":19.779887,
     "geom:longitude":-100.206583,
@@ -114,8 +114,12 @@
         "inegi:id":"16093",
         "wd:id":"Q2605379"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"808467d92a40da7d45915f1eb1f71f5e",
+    "wof:geomhash":"02e77ae049514d1c0a21c05150482f05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":102075019,
-    "wof:lastmodified":1566616181,
+    "wof:lastmodified":1695886143,
     "wof:name":"Tlalpujahua",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

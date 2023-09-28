@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014678,
-    "geom:area_square_m":173632181.787504,
+    "geom:area_square_m":173632167.059079,
     "geom:bbox":"-92.458237,16.851337,-92.309948,17.01006",
     "geom:latitude":16.93016,
     "geom:longitude":-92.391668,
@@ -128,8 +128,12 @@
         "inegi:id":"07112",
         "wd:id":"Q1953181"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7186815a5338b44fa859ac9dec5a1e04",
+    "wof:geomhash":"3e06fbae26da677ba6f588ec7a4854ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075643,
-    "wof:lastmodified":1690847156,
+    "wof:lastmodified":1695886098,
     "wof:name":"San Juan Cancuc",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

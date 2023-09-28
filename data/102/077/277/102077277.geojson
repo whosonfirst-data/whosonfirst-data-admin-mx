@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091206,
-    "geom:area_square_m":1050272022.569329,
+    "geom:area_square_m":1050272152.719009,
     "geom:bbox":"-100.382202,21.107405,-100.058048,21.665652",
     "geom:latitude":21.365957,
     "geom:longitude":-100.21461,
@@ -175,8 +175,12 @@
         "inegi:id":"11043",
         "wd:id":"Q2651591"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8ffb73022898aafac22b2aad93b47ba9",
+    "wof:geomhash":"50fe69f6398c31837d32ac940637b382",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":102077277,
-    "wof:lastmodified":1690846664,
+    "wof:lastmodified":1695886503,
     "wof:name":"Victoria",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

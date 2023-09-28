@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004366,
-    "geom:area_square_m":51575505.352336,
+    "geom:area_square_m":51575412.080514,
     "geom:bbox":"-97.574084,17.161276,-97.47959,17.239272",
     "geom:latitude":17.198269,
     "geom:longitude":-97.515741,
@@ -116,8 +116,12 @@
         "inegi:id":"20086",
         "wd:id":"Q4358545"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"07e65a4c3abeb98ecb1ca53d7f6c0afe",
+    "wof:geomhash":"89e9ac830ccb4fc8873a40b5efd9fd56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102076307,
-    "wof:lastmodified":1690846703,
+    "wof:lastmodified":1695886891,
     "wof:name":"San Agust\u00edn Tlacotepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

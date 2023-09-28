@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002162,
-    "geom:area_square_m":25664398.146227,
+    "geom:area_square_m":25664381.064476,
     "geom:bbox":"-96.678701,16.261568,-96.621577,16.329617",
     "geom:latitude":16.294916,
     "geom:longitude":-96.648214,
@@ -104,8 +104,12 @@
         "inegi:id":"20362",
         "wd:id":"Q3890616"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f24e2dbe1a9dd76701715a0e0a6ad75d",
+    "wof:geomhash":"366f72f79dfecd2ee02a09a297ee6c45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102076549,
-    "wof:lastmodified":1625076021,
+    "wof:lastmodified":1695886646,
     "wof:name":"Santa Catarina Cuixtla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

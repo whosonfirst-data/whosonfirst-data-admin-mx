@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068343,
-    "geom:area_square_m":788986284.690911,
+    "geom:area_square_m":788986165.560879,
     "geom:bbox":"-102.573337,20.865029,-102.201609,21.120817",
     "geom:latitude":20.992631,
     "geom:longitude":-102.379619,
@@ -128,8 +128,12 @@
         "inegi:id":"14078",
         "wd:id":"Q1658586"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1b0e98baa5fb0f7043cc3d2abda28660",
+    "wof:geomhash":"6793e8d69e31786dc18aa5d2aa5a691f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102074671,
-    "wof:lastmodified":1690847102,
+    "wof:lastmodified":1695886049,
     "wof:name":"San Miguel el Alto",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

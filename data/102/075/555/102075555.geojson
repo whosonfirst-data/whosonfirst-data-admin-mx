@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015421,
-    "geom:area_square_m":182035266.28436,
+    "geom:area_square_m":182035098.710146,
     "geom:bbox":"-93.216023,17.261965,-93.043838,17.409518",
     "geom:latitude":17.326797,
     "geom:longitude":-93.131538,
@@ -129,8 +129,12 @@
         "inegi:id":"07025",
         "wd:id":"Q1952925"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d4d8c41932b494227b7f2dbc2a651973",
+    "wof:geomhash":"f5c5902e6861e4e773c865a6c40fe2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102075555,
-    "wof:lastmodified":1690847195,
+    "wof:lastmodified":1695886127,
     "wof:name":"Chapultenango",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

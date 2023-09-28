@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004425,
-    "geom:area_square_m":52148004.910673,
+    "geom:area_square_m":52147900.847359,
     "geom:bbox":"-98.169368,17.564352,-98.083745,17.685354",
     "geom:latitude":17.631899,
     "geom:longitude":-98.123833,
@@ -113,8 +113,12 @@
         "inegi:id":"20230",
         "wd:id":"Q3892239"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"124ba5a038f9edb32ca3e0552814da4a",
+    "wof:geomhash":"8d7851945ea050adf4a6d14347eab5ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076139,
-    "wof:lastmodified":1690846757,
+    "wof:lastmodified":1695886898,
     "wof:name":"San Lorenzo Victoria",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

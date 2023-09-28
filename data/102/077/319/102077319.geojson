@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070918,
-    "geom:area_square_m":822034921.013125,
+    "geom:area_square_m":822034921.013055,
     "geom:bbox":"-101.460127019,20.2464152021,-101.078528937,20.5471767413",
     "geom:latitude":20.378328,
     "geom:longitude":-101.270561,
@@ -123,8 +123,12 @@
         "inegi:id":"11042",
         "wd:id":"Q20209210"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bf3c9dd73014c3cea70cd12f8828c7ac",
+    "wof:geomhash":"2b9783643b9f9a1e7c8a85fb9685b6ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":102077319,
-    "wof:lastmodified":1566615425,
+    "wof:lastmodified":1695886889,
     "wof:name":"Valle de Santiago",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

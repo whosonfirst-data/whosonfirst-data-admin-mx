@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254029,
-    "geom:area_square_m":2815448655.16703,
+    "geom:area_square_m":2815448795.303965,
     "geom:bbox":"-103.415964,25.70683,-102.879663,26.754099",
     "geom:latitude":26.320146,
     "geom:longitude":-103.180857,
@@ -239,8 +239,12 @@
         "inegi:id":"05009",
         "wd:id":"Q3849705"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b89324a3a39206310946acb8539e5fb4",
+    "wof:geomhash":"276caaaee407ac7f0dd9a88960d62c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -250,7 +254,7 @@
         }
     ],
     "wof:id":102078853,
-    "wof:lastmodified":1690846880,
+    "wof:lastmodified":1695886932,
     "wof:name":"Francisco I. Madero",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

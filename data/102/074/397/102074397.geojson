@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033942,
-    "geom:area_square_m":364345736.141355,
+    "geom:area_square_m":364345736.141396,
     "geom:bbox":"-109.432889234,29.6282201071,-109.194915199,29.8741150224",
     "geom:latitude":29.761139,
     "geom:longitude":-109.312385,
@@ -100,8 +100,12 @@
         "hasc:id":"MX.SO.GR",
         "inegi:id":"26028"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4e978d10e420c7b7436b3d59f5e38aba",
+    "wof:geomhash":"ca1774cf3f7d2bfaaa8eb7332c3573ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":102074397,
-    "wof:lastmodified":1566615822,
+    "wof:lastmodified":1695885994,
     "wof:name":"Granados",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

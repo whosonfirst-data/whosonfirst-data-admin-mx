@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317077,
-    "geom:area_square_m":3537317552.353639,
+    "geom:area_square_m":3537317170.454897,
     "geom:bbox":"-105.572619,25.161142,-104.70168,26.11298",
     "geom:latitude":25.549024,
     "geom:longitude":-105.215851,
@@ -135,8 +135,12 @@
         "inegi:id":"10018",
         "wd:id":"Q2749781"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3b5a59b36a388a6eb65edd4361ee4432",
+    "wof:geomhash":"d8bbc63ecff11fb618843d905b1c0748",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":102075177,
-    "wof:lastmodified":1690847235,
+    "wof:lastmodified":1695886158,
     "wof:name":"El Oro",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

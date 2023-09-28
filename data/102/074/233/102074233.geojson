@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020793,
-    "geom:area_square_m":243128984.205115,
+    "geom:area_square_m":243128984.205055,
     "geom:bbox":"-99.1933469155,18.8961058358,-99.0145629812,19.0892960709",
     "geom:latitude":18.981302,
     "geom:longitude":-99.105184,
@@ -123,8 +123,12 @@
         "hasc:id":"MX.MR.TP",
         "inegi:id":"17020"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c9f126216a33fe679fb5b0164d7047b5",
+    "wof:geomhash":"f656fc6978ca4aa286240813ea66f3c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":102074233,
-    "wof:lastmodified":1566615879,
+    "wof:lastmodified":1695886015,
     "wof:name":"Tepoztl\u00e1n",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

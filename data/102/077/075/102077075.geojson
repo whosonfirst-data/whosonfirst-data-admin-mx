@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067647,
-    "geom:area_square_m":799689063.876181,
+    "geom:area_square_m":799689014.053881,
     "geom:bbox":"-95.295112,16.897045,-94.932667,17.312813",
     "geom:latitude":17.05407,
     "geom:longitude":-95.112167,
@@ -119,8 +119,12 @@
         "inegi:id":"20198",
         "wd:id":"Q3846992"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"166dccd6a68710fe53e8418dbb570f30",
+    "wof:geomhash":"dd93035b60cf952da1c405ebcb5ac929",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077075,
-    "wof:lastmodified":1690846668,
+    "wof:lastmodified":1695886880,
     "wof:name":"San Juan Guichicovi",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

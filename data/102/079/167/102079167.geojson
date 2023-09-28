@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019223,
-    "geom:area_square_m":222192892.68212,
+    "geom:area_square_m":222192555.965994,
     "geom:bbox":"-89.051757,20.668968,-88.752453,20.89985",
     "geom:latitude":20.804838,
     "geom:longitude":-88.889214,
@@ -129,8 +129,12 @@
         "inegi:id":"31071",
         "wd:id":"Q2591099"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b865489c3f33fc6ddbe9da9a1bf22bc7",
+    "wof:geomhash":"d0faf01b463279a8a0646ebb10a55ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102079167,
-    "wof:lastmodified":1690846564,
+    "wof:lastmodified":1695886850,
     "wof:name":"Sudzal",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

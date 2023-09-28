@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015211,
-    "geom:area_square_m":177564313.255505,
+    "geom:area_square_m":177564313.255588,
     "geom:bbox":"-97.8396723007,19.1855016071,-97.6246117021,19.3106645251",
     "geom:latitude":19.254675,
     "geom:longitude":-97.728571,
@@ -96,8 +96,12 @@
         "hasc:id":"MX.PU.JC",
         "inegi:id":"21128"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d9c9c6814d6d4db1444d45f547484443",
+    "wof:geomhash":"85943a19a469dbd7a5364b804a47d3f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":102078267,
-    "wof:lastmodified":1566615558,
+    "wof:lastmodified":1695886913,
     "wof:name":"San Jos\u00e9 Chiapa",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

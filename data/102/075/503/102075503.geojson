@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001911,
-    "geom:area_square_m":22839690.879698,
+    "geom:area_square_m":22839591.023408,
     "geom:bbox":"-92.237175,14.790878,-92.177074,14.853515",
     "geom:latitude":14.821664,
     "geom:longitude":-92.2016,
@@ -126,8 +126,12 @@
         "inegi:id":"07055",
         "wd:id":"Q3288007"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"eade5bd67465984be7cf13d07215b107",
+    "wof:geomhash":"5c9e8545dc788f838bda5eee69b3d664",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":102075503,
-    "wof:lastmodified":1690847151,
+    "wof:lastmodified":1695886094,
     "wof:name":"Metapa",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

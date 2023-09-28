@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048056,
-    "geom:area_square_m":550465749.030154,
+    "geom:area_square_m":550465392.16877,
     "geom:bbox":"-102.21933,21.958388,-101.85416,22.306073",
     "geom:latitude":22.126508,
     "geom:longitude":-102.045638,
@@ -152,8 +152,12 @@
         "inegi:id":"01002",
         "wd:id":"Q8206694"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8e209f9042adb150e4685c8eff52c9a2",
+    "wof:geomhash":"c1afc97076b533f1a4d23dfb9e81f7ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":102077375,
-    "wof:lastmodified":1690846700,
+    "wof:lastmodified":1695886890,
     "wof:name":"Asientos",
     "wof:parent_id":85686637,
     "wof:placetype":"county",

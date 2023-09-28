@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022241,
-    "geom:area_square_m":260892300.332039,
+    "geom:area_square_m":260892046.927995,
     "geom:bbox":"-100.227902,18.338892,-99.999302,18.548758",
     "geom:latitude":18.441126,
     "geom:longitude":-100.104175,
@@ -119,8 +119,12 @@
         "inegi:id":"12031",
         "wd:id":"Q5531754"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5a861cb4399d0f98e8829a6dcd0ccc28",
+    "wof:geomhash":"1d2b096187442be9c59e3e8e0d786cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102073775,
-    "wof:lastmodified":1690847023,
+    "wof:lastmodified":1695886652,
     "wof:name":"General Canuto A. Neri",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

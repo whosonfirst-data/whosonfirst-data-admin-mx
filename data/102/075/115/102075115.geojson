@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005852,
-    "geom:area_square_m":67895985.375257,
+    "geom:area_square_m":67895947.372901,
     "geom:bbox":"-102.68537,20.205968,-102.521382,20.280809",
     "geom:latitude":20.237543,
     "geom:longitude":-102.589795,
@@ -125,8 +125,12 @@
         "inegi:id":"16011",
         "wd:id":"Q10741338"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"51d335c07bb30b62a588187ea3818eb5",
+    "wof:geomhash":"da45fb919ae08e977df03291d346adf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075115,
-    "wof:lastmodified":1690847232,
+    "wof:lastmodified":1695886155,
     "wof:name":"Brise\u00f1as",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

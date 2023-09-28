@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025227,
-    "geom:area_square_m":292719312.07011,
+    "geom:area_square_m":292719268.257343,
     "geom:bbox":"-97.021374,20.130571,-96.776264,20.297863",
     "geom:latitude":20.217289,
     "geom:longitude":-96.915217,
@@ -161,8 +161,12 @@
         "inegi:id":"30211",
         "wd:id":"Q18555530"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1496ee134a6e20819767aa60fad3121c",
+    "wof:geomhash":"1623a6f5cf0dffa414a731e838d3e1e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":102077841,
-    "wof:lastmodified":1690846662,
+    "wof:lastmodified":1695886528,
     "wof:name":"San Rafael",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

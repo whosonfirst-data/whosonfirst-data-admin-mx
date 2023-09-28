@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033392,
-    "geom:area_square_m":395533681.068195,
+    "geom:area_square_m":395533681.068149,
     "geom:bbox":"-92.7202806223,16.5389023697,-92.3398105352,16.7897723201",
     "geom:latitude":16.678297,
     "geom:longitude":-92.589946,
@@ -107,8 +107,12 @@
         "inegi:id":"07078",
         "wd:id":"Q2884933"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c11f734b33b766d28d32184a95553742",
+    "wof:geomhash":"9a03403adf16b6955e8857fb0d542d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102075763,
-    "wof:lastmodified":1566616016,
+    "wof:lastmodified":1695886084,
     "wof:name":"San Crist\u00f3bal de las Casas",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

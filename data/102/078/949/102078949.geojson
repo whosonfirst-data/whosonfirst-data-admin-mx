@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145899,
-    "geom:area_square_m":1666228592.327613,
+    "geom:area_square_m":1666228342.842265,
     "geom:bbox":"-98.343485,22.321499,-97.81966,22.804452",
     "geom:latitude":22.541993,
     "geom:longitude":-98.082452,
@@ -157,8 +157,12 @@
         "hasc:id":"MX.TM.AT",
         "inegi:id":"28003"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6ad148afc32196c7e29c086c36ba1318",
+    "wof:geomhash":"bdea95dbb70eca2920cc9eae37af30a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":102078949,
-    "wof:lastmodified":1636492154,
+    "wof:lastmodified":1695886505,
     "wof:name":"Altamira",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

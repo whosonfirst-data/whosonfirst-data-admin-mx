@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018094,
-    "geom:area_square_m":213732552.619881,
+    "geom:area_square_m":213732405.941544,
     "geom:bbox":"-95.980591,17.12443,-95.779791,17.281944",
     "geom:latitude":17.194246,
     "geom:longitude":-95.88493,
@@ -116,8 +116,12 @@
         "inegi:id":"20502",
         "wd:id":"Q942478"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8a187726bf710f21ef60b39d857b9f54",
+    "wof:geomhash":"cd6b39c450ad1b08953db56a98abbba1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102076625,
-    "wof:lastmodified":1690846762,
+    "wof:lastmodified":1695886899,
     "wof:name":"Santiago Zacatepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021957,
-    "geom:area_square_m":255164149.21155,
+    "geom:area_square_m":255164002.80996,
     "geom:bbox":"-101.210796,19.876353,-101.018671,20.097828",
     "geom:latitude":19.980593,
     "geom:longitude":-101.111824,
@@ -122,8 +122,12 @@
         "inegi:id":"16020",
         "wd:id":"Q3381253"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7a59e4b00a72490ba5ac0a51d25c6bfa",
+    "wof:geomhash":"b02cb9991dc1888001e81ebf5c5a91ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102075067,
-    "wof:lastmodified":1690847229,
+    "wof:lastmodified":1695886154,
     "wof:name":"Cuitzeo",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

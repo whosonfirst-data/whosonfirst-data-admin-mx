@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01528,
-    "geom:area_square_m":177150302.944372,
+    "geom:area_square_m":177150302.944388,
     "geom:bbox":"-98.3196244556,20.2627888493,-98.0938904974,20.4104143512",
     "geom:latitude":20.343358,
     "geom:longitude":-98.210833,
@@ -98,8 +98,12 @@
         "inegi:id":"13060",
         "wd:id":"Q3844567"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"08e17fa647669ad6d4c81b0203358730",
+    "wof:geomhash":"bc2c5cf36b5f2d1943606185465f29d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102078557,
-    "wof:lastmodified":1566615527,
+    "wof:lastmodified":1695886906,
     "wof:name":"Tenango de Doria",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

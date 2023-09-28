@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009599,
-    "geom:area_square_m":112507298.27416,
+    "geom:area_square_m":112507450.119764,
     "geom:bbox":"-96.726899,18.491248,-96.584175,18.669688",
     "geom:latitude":18.579872,
     "geom:longitude":-96.661879,
@@ -122,8 +122,12 @@
         "inegi:id":"20021",
         "wd:id":"Q16491588"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0339ecfa9cc3dfa34ec8355ebb5c17f4",
+    "wof:geomhash":"6ac8dd6cecf5969008594c5afe20cd1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102076147,
-    "wof:lastmodified":1690846792,
+    "wof:lastmodified":1695886903,
     "wof:name":"Cosolapa",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

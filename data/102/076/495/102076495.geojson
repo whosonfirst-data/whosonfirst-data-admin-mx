@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023793,
-    "geom:area_square_m":281400815.413586,
+    "geom:area_square_m":281400575.681525,
     "geom:bbox":"-96.423077,16.858323,-96.156506,17.077084",
     "geom:latitude":16.968798,
     "geom:longitude":-96.294894,
@@ -80,8 +80,12 @@
         "inegi:id":"20298",
         "wd:id":"Q2396153"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"edc0982cf78af69b4079dd20056ab021",
+    "wof:geomhash":"a964f9229e594ec2c7bd2572382983f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":102076495,
-    "wof:lastmodified":1690846779,
+    "wof:lastmodified":1695886646,
     "wof:name":"San Pablo Villa de Mitla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

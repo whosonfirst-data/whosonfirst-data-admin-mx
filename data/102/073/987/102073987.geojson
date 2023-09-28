@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005724,
-    "geom:area_square_m":66902361.086787,
+    "geom:area_square_m":66902361.086777,
     "geom:bbox":"-100.303870821,19.0072733131,-100.213356051,19.1180591867",
     "geom:latitude":19.06083,
     "geom:longitude":-100.25611,
@@ -132,8 +132,12 @@
         "inegi:id":"15116",
         "wd:id":"Q3308513"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a31e079f8b7eda22da3586c0bc1ddad4",
+    "wof:geomhash":"1aab8bf0b68d1cca2c6cafcada30599f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102073987,
-    "wof:lastmodified":1566615800,
+    "wof:lastmodified":1695885984,
     "wof:name":"Zacazonapan",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

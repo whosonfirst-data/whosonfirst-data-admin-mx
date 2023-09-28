@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.421762,
-    "geom:area_square_m":4461953779.253321,
+    "geom:area_square_m":4461953866.622262,
     "geom:bbox":"-112.294986,30.525216,-111.612457,31.664664",
     "geom:latitude":31.175897,
     "geom:longitude":-111.924874,
@@ -396,8 +396,12 @@
         "inegi:id":"26004",
         "wd:id":"Q101687"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7a4a8cc4892194ee334679a617aa1d79",
+    "wof:geomhash":"970395a76318602d2a8c48635c5b033b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -407,7 +411,7 @@
         }
     ],
     "wof:id":102074443,
-    "wof:lastmodified":1690847102,
+    "wof:lastmodified":1695886048,
     "wof:name":"Altar",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

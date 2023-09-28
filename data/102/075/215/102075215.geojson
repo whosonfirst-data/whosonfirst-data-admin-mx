@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088048,
-    "geom:area_square_m":953527292.730178,
+    "geom:area_square_m":953526819.166576,
     "geom:bbox":"-107.457547,28.625162,-107.107416,29.080643",
     "geom:latitude":28.857997,
     "geom:longitude":-107.291643,
@@ -125,8 +125,12 @@
         "inegi:id":"08006",
         "wd:id":"Q4838929"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"08b033d336ecec187309cd011e614234",
+    "wof:geomhash":"1f34144a264e1bd0b84bac7cc0a5fb82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075215,
-    "wof:lastmodified":1690847209,
+    "wof:lastmodified":1695886663,
     "wof:name":"Bach\u00edniva",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

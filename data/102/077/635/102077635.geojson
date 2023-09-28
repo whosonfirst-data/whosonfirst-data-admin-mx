@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006652,
-    "geom:area_square_m":78272590.805645,
+    "geom:area_square_m":78272482.88589,
     "geom:bbox":"-94.949564,17.836815,-94.846475,17.955175",
     "geom:latitude":17.903217,
     "geom:longitude":-94.891653,
@@ -122,8 +122,12 @@
         "inegi:id":"30116",
         "wd:id":"Q3845769"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"aa0003a8119cad123883dde422ee61ff",
+    "wof:geomhash":"12979e0a140b82be373f26ba86f190b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102077635,
-    "wof:lastmodified":1690846630,
+    "wof:lastmodified":1695886865,
     "wof:name":"Oluta",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

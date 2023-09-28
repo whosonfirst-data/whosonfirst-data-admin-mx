@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004705,
-    "geom:area_square_m":55782746.959655,
+    "geom:area_square_m":55782577.935841,
     "geom:bbox":"-96.895264,16.475906,-96.75255,16.563422",
     "geom:latitude":16.513788,
     "geom:longitude":-96.813797,
@@ -117,8 +117,12 @@
         "inegi:id":"20080",
         "wd:id":"Q5363812"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"01270f98253a8603b05da25add83ea18",
+    "wof:geomhash":"0e7bfd2840180bdca5cfdd9d5e41385d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":102076341,
-    "wof:lastmodified":1690846737,
+    "wof:lastmodified":1695886895,
     "wof:name":"San Agust\u00edn Amatengo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

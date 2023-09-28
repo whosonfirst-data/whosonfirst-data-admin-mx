@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025396,
-    "geom:area_square_m":293699936.846203,
+    "geom:area_square_m":293699196.213408,
     "geom:bbox":"-90.018531,20.627678,-89.714375,20.825409",
     "geom:latitude":20.73,
     "geom:longitude":-89.848728,
@@ -124,8 +124,12 @@
         "inegi:id":"31023",
         "wd:id":"Q2576853"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7ff8f49044117ae789af24476531adc2",
+    "wof:geomhash":"afb6af83f41eb1178258b05a31f5472c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":102078983,
-    "wof:lastmodified":1690846836,
+    "wof:lastmodified":1695886915,
     "wof:name":"Chochol\u00e1",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

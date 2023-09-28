@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016763,
-    "geom:area_square_m":198454418.94433,
+    "geom:area_square_m":198454112.928495,
     "geom:bbox":"-97.564387,16.664598,-97.207092,16.918722",
     "geom:latitude":16.780479,
     "geom:longitude":-97.382166,
@@ -74,8 +74,12 @@
         "hasc:id":"MX.OA.ZP",
         "inegi:id":"20566"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"35ecb2c0fc4d787f461ec72b03d723aa",
+    "wof:geomhash":"7a1f37474277acddb0364afdd40013d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":102076251,
-    "wof:lastmodified":1625076015,
+    "wof:lastmodified":1695886642,
     "wof:name":"San Mateo Yucutind\u00f3",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

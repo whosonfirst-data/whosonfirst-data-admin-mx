@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049443,
-    "geom:area_square_m":536723202.621254,
+    "geom:area_square_m":536722881.708447,
     "geom:bbox":"-109.880147,28.458951,-109.625724,28.764121",
     "geom:latitude":28.609535,
     "geom:longitude":-109.758696,
@@ -145,8 +145,12 @@
         "hasc:id":"MX.SO.SJ",
         "inegi:id":"26054"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1e143e5979536edb01dc6cb65c1436a7",
+    "wof:geomhash":"b91f27ced12380fe4a2ba004bf9eaaa8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":102074489,
-    "wof:lastmodified":1636492173,
+    "wof:lastmodified":1695886518,
     "wof:name":"San Javier",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

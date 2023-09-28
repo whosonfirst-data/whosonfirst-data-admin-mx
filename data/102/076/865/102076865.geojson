@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006294,
-    "geom:area_square_m":74608626.90375,
+    "geom:area_square_m":74608450.239685,
     "geom:bbox":"-98.041736,16.473964,-97.913234,16.569749",
     "geom:latitude":16.518808,
     "geom:longitude":-97.969463,
@@ -104,8 +104,12 @@
         "inegi:id":"20302",
         "wd:id":"Q3888183"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"eba588a0e9aefbf1ef61810f5300a621",
+    "wof:geomhash":"6ed021f5e3732e1113a59d5ef4f0bd51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102076865,
-    "wof:lastmodified":1625076020,
+    "wof:lastmodified":1695886646,
     "wof:name":"San Pedro Atoyac",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

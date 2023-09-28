@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002929,
-    "geom:area_square_m":34313179.992454,
+    "geom:area_square_m":34313155.476622,
     "geom:bbox":"-97.084712,18.629377,-97.007896,18.714508",
     "geom:latitude":18.673979,
     "geom:longitude":-97.043438,
@@ -113,8 +113,12 @@
         "inegi:id":"30137",
         "wd:id":"Q5980299"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4e46c9d232be86ef2741c61ea3e0db45",
+    "wof:geomhash":"71d5e7075918ef849f8dd926b88ff035",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077681,
-    "wof:lastmodified":1690846607,
+    "wof:lastmodified":1695886859,
     "wof:name":"Los Reyes",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

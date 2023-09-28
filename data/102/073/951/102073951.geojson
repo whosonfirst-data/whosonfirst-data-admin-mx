@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006027,
-    "geom:area_square_m":70150796.488239,
+    "geom:area_square_m":70150796.488326,
     "geom:bbox":"-98.8908581603,19.6182668912,-98.7613753611,19.7727881505",
     "geom:latitude":19.719771,
     "geom:longitude":-98.832195,
@@ -119,8 +119,12 @@
         "inegi:id":"15075",
         "wd:id":"Q3844585"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"79e315edb46f2169629d0f454e47b664",
+    "wof:geomhash":"9ae890fc5c9daf4c7de8250283c07e17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102073951,
-    "wof:lastmodified":1566615789,
+    "wof:lastmodified":1695885976,
     "wof:name":"San Mart\u00edn de las Pir\u00e1mides",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005032,
-    "geom:area_square_m":58592758.450446,
+    "geom:area_square_m":58592891.155675,
     "geom:bbox":"-100.459307,19.626107,-100.335849,19.704876",
     "geom:latitude":19.661982,
     "geom:longitude":-100.395426,
@@ -79,8 +79,12 @@
         "hasc:id":"MX.MC.AP",
         "inegi:id":"16007"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"51ad3b2fc4eb1865a127fbccbac30deb",
+    "wof:geomhash":"df271ac2a8f407bdbe3d2c482bd7f140",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":102074989,
-    "wof:lastmodified":1625076045,
+    "wof:lastmodified":1695886658,
     "wof:name":"Aporo",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

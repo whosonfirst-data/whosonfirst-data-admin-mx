@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00997,
-    "geom:area_square_m":117893964.354796,
+    "geom:area_square_m":117893964.35479,
     "geom:bbox":"-97.5274300197,16.930868841,-97.4168954289,17.0790614023",
     "geom:latitude":17.007544,
     "geom:longitude":-97.471285,
@@ -101,8 +101,12 @@
         "inegi:id":"20297",
         "wd:id":"Q4969058"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"731bbab56a917883cb74e353423456e5",
+    "wof:geomhash":"5ef220f4ec822981cdb19fd0f0eeeb98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102076861,
-    "wof:lastmodified":1566615454,
+    "wof:lastmodified":1695886894,
     "wof:name":"San Pablo Tijaltepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029013,
-    "geom:area_square_m":336191135.338273,
+    "geom:area_square_m":336190969.921108,
     "geom:bbox":"-101.047413,20.328357,-100.823608,20.515633",
     "geom:latitude":20.429114,
     "geom:longitude":-100.93837,
@@ -169,8 +169,12 @@
         "inegi:id":"11011",
         "wd:id":"Q625906"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6c3579388606b03336a9eb302b712ca8",
+    "wof:geomhash":"0fb36758d64afcdda62340d53abec94e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":102077305,
-    "wof:lastmodified":1690846660,
+    "wof:lastmodified":1695886876,
     "wof:name":"Cortazar",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

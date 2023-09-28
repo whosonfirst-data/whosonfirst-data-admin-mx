@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004763,
-    "geom:area_square_m":56053005.424821,
+    "geom:area_square_m":56053045.323952,
     "geom:bbox":"-97.529019,17.824892,-97.427792,17.917552",
     "geom:latitude":17.872013,
     "geom:longitude":-97.475541,
@@ -107,8 +107,12 @@
         "inegi:id":"20552",
         "wd:id":"Q3578681"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"62371c859ed3742197c7278344268123",
+    "wof:geomhash":"2c7230484b26b1777a8ecfc9eb9796d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102076241,
-    "wof:lastmodified":1690846762,
+    "wof:lastmodified":1695886644,
     "wof:name":"Tlacotepec Plumas",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

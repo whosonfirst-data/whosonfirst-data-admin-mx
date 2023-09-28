@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190258,
-    "geom:area_square_m":2162027096.560163,
+    "geom:area_square_m":2162027096.559966,
     "geom:bbox":"-101.446747768,22.9570866414,-100.822646191,23.5848600048",
     "geom:latitude":23.219138,
     "geom:longitude":-101.121377,
@@ -128,8 +128,12 @@
         "inegi:id":"24015",
         "wd:id":"Q8344891"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6ed43c4bffc56c94553d330df465e368",
+    "wof:geomhash":"e9634c03980cbe1e62f53f58ca91d972",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102077223,
-    "wof:lastmodified":1566615387,
+    "wof:lastmodified":1695886880,
     "wof:name":"Charcas",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004744,
-    "geom:area_square_m":56257352.232547,
+    "geom:area_square_m":56257184.727632,
     "geom:bbox":"-95.100616,16.401667,-94.968603,16.523656",
     "geom:latitude":16.467172,
     "geom:longitude":-95.039536,
@@ -138,8 +138,12 @@
         "inegi:id":"20030",
         "wd:id":"Q4968496"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"061775b8502c5107460fbd21f99cb3ee",
+    "wof:geomhash":"cfd1e6fae97f5f7da643082ff8f0affb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":102076939,
-    "wof:lastmodified":1690846709,
+    "wof:lastmodified":1695886892,
     "wof:name":"El Espinal",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

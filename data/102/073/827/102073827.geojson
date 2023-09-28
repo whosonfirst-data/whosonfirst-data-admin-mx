@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025115,
-    "geom:area_square_m":297593968.922595,
+    "geom:area_square_m":297593698.824601,
     "geom:bbox":"-99.079948,16.528249,-98.813382,16.720681",
     "geom:latitude":16.608034,
     "geom:longitude":-98.930604,
@@ -132,8 +132,12 @@
         "inegi:id":"12018",
         "wd:id":"Q5168293"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0cce852fd764e67c1c04ed8cfdfe047b",
+    "wof:geomhash":"9a89e82ce3b2ef0609fe43378bf791c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102073827,
-    "wof:lastmodified":1690847003,
+    "wof:lastmodified":1695886943,
     "wof:name":"Copala",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

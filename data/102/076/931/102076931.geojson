@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024904,
-    "geom:area_square_m":295071206.059801,
+    "geom:area_square_m":295071146.885823,
     "geom:bbox":"-95.169264,16.517526,-94.999584,16.717454",
     "geom:latitude":16.623388,
     "geom:longitude":-95.089335,
@@ -112,8 +112,12 @@
         "inegi:id":"20014",
         "wd:id":"Q5770638"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"875566ce1969c7ffaa5a51f4de9c8ac3",
+    "wof:geomhash":"f648420ef3716a785b5d6423c02b0f4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":102076931,
-    "wof:lastmodified":1690846703,
+    "wof:lastmodified":1695886891,
     "wof:name":"Ciudad Ixtepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

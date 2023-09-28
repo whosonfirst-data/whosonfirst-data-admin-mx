@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000843,
-    "geom:area_square_m":9805859.262189,
+    "geom:area_square_m":9805859.26218,
     "geom:bbox":"-97.4733010751,19.8322478138,-97.4195197211,19.871342955",
     "geom:latitude":19.854371,
     "geom:longitude":-97.449363,
@@ -97,8 +97,12 @@
         "inegi:id":"21173",
         "wd:id":"Q6143595"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"521e890fc44e3c7aa864992ef4d34f3c",
+    "wof:geomhash":"6637d93cdb296a193fb355cc09de9553",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":102078365,
-    "wof:lastmodified":1566615520,
+    "wof:lastmodified":1695886904,
     "wof:name":"Teteles de Avila Castillo",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

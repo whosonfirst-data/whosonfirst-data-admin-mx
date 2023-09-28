@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010493,
-    "geom:area_square_m":124409039.411801,
+    "geom:area_square_m":124409016.301567,
     "geom:bbox":"-97.990837,16.425671,-97.854469,16.577079",
     "geom:latitude":16.495151,
     "geom:longitude":-97.91067,
@@ -110,8 +110,12 @@
         "inegi:id":"20188",
         "wd:id":"Q3893751"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a9c071c6cbef3c964fd99e5231adc926",
+    "wof:geomhash":"bfb5cbca4eb4101eafe946aca8111604",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102076999,
-    "wof:lastmodified":1690846713,
+    "wof:lastmodified":1695886892,
     "wof:name":"San Juan Colorado",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

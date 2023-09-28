@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007993,
-    "geom:area_square_m":94187005.428255,
+    "geom:area_square_m":94186744.132878,
     "geom:bbox":"-98.5618,17.563363,-98.461045,17.703439",
     "geom:latitude":17.642235,
     "geom:longitude":-98.510569,
@@ -125,8 +125,12 @@
         "inegi:id":"12005",
         "wd:id":"Q530575"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f8c9db82c7fdd26beb6ea655770e030e",
+    "wof:geomhash":"521d4f0d6b116abd0b5aab7804b028bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102073813,
-    "wof:lastmodified":1690847019,
+    "wof:lastmodified":1695885979,
     "wof:name":"Alpoyeca",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

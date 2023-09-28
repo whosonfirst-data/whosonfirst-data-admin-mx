@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.449303,
-    "geom:area_square_m":5105029852.045076,
+    "geom:area_square_m":5105029535.409602,
     "geom:bbox":"-103.52359,22.852991,-102.484508,23.596354",
     "geom:latitude":23.236827,
     "geom:longitude":-102.995938,
@@ -125,8 +125,12 @@
         "inegi:id":"32010",
         "wd:id":"Q2664775"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"21ee91dfd689dcaa728c3540d2af6747",
+    "wof:geomhash":"ffff40c8d3925db44a7742c5bcec567d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075379,
-    "wof:lastmodified":1690847179,
+    "wof:lastmodified":1695886527,
     "wof:name":"Fresnillo",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

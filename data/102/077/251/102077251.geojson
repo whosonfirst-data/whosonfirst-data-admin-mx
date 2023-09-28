@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051306,
-    "geom:area_square_m":587792536.478299,
+    "geom:area_square_m":587792262.048377,
     "geom:bbox":"-99.889755,21.943911,-99.414375,22.218362",
     "geom:latitude":22.099926,
     "geom:longitude":-99.619504,
@@ -105,8 +105,12 @@
         "inegi:id":"24002",
         "wd:id":"Q3311839"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5d7193dfb39d070cb2a4bc877b595221",
+    "wof:geomhash":"7a6b14b495e5700a8aec139d0d402d51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":102077251,
-    "wof:lastmodified":1690846630,
+    "wof:lastmodified":1695886865,
     "wof:name":"Alaquines",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017446,
-    "geom:area_square_m":207257236.858808,
+    "geom:area_square_m":207257168.145303,
     "geom:bbox":"-96.311493,16.008692,-96.087168,16.186904",
     "geom:latitude":16.106856,
     "geom:longitude":-96.208804,
@@ -124,8 +124,12 @@
         "inegi:id":"20211",
         "wd:id":"Q3888616"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"05be1c0e327e273f65c91f37e8e243cb",
+    "wof:geomhash":"a0b8d72a7ccf70d5cf6a628bd7dfc58f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":102076151,
-    "wof:lastmodified":1690846713,
+    "wof:lastmodified":1695886892,
     "wof:name":"San Juan Ozolotepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

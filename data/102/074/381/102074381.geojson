@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175073,
-    "geom:area_square_m":1879893288.625195,
+    "geom:area_square_m":1879892766.669285,
     "geom:bbox":"-110.066555,29.518499,-109.376725,29.977268",
     "geom:latitude":29.728556,
     "geom:longitude":-109.723792,
@@ -146,8 +146,12 @@
         "hasc:id":"MX.SO.MO",
         "inegi:id":"26038"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d95ed026c821b094e07c3d8e94eafe8a",
+    "wof:geomhash":"c678c5e063cb3d522c56ce2b135c6fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102074381,
-    "wof:lastmodified":1636492175,
+    "wof:lastmodified":1695886520,
     "wof:name":"Moctezuma",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

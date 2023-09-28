@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008699,
-    "geom:area_square_m":102208365.782813,
+    "geom:area_square_m":102208257.327043,
     "geom:bbox":"-96.62514,18.108716,-96.469186,18.223679",
     "geom:latitude":18.159143,
     "geom:longitude":-96.551454,
@@ -122,8 +122,12 @@
         "inegi:id":"20309",
         "wd:id":"Q3889574"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"542866242dfa186184fb395315481605",
+    "wof:geomhash":"c24f7689dd19afc2ca710572f13ea4e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102076507,
-    "wof:lastmodified":1690846755,
+    "wof:lastmodified":1695886898,
     "wof:name":"San Pedro Ixcatl\u00e1n",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

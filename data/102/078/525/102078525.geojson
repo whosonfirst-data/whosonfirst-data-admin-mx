@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004616,
-    "geom:area_square_m":53585534.875957,
+    "geom:area_square_m":53585455.763429,
     "geom:bbox":"-98.702775,20.088255,-98.605106,20.207226",
     "geom:latitude":20.140355,
     "geom:longitude":-98.658832,
@@ -146,8 +146,12 @@
         "inegi:id":"13039",
         "wd:id":"Q2391626"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b28e5e27fdd00ac24e3cb0cbe5a2c0fe",
+    "wof:geomhash":"e4588f1f5c37edd6ffd17a0bd5d4729a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102078525,
-    "wof:lastmodified":1690846893,
+    "wof:lastmodified":1695886938,
     "wof:name":"Mineral del Monte",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

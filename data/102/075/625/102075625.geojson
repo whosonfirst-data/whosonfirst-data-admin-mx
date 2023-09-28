@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040731,
-    "geom:area_square_m":482812569.466893,
+    "geom:area_square_m":482812587.207185,
     "geom:bbox":"-92.958214,16.383467,-92.726735,16.672629",
     "geom:latitude":16.537753,
     "geom:longitude":-92.840902,
@@ -182,8 +182,12 @@
         "inegi:id":"07002",
         "wd:id":"Q1577295"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fffed2aef278b56bedede018556480b1",
+    "wof:geomhash":"a544d2423000bba6ddf7883221affa5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -193,7 +197,7 @@
         }
     ],
     "wof:id":102075625,
-    "wof:lastmodified":1690847207,
+    "wof:lastmodified":1695886137,
     "wof:name":"Acala",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

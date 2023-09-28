@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006916,
-    "geom:area_square_m":80596031.552314,
+    "geom:area_square_m":80595986.810162,
     "geom:bbox":"-99.249467,19.497252,-99.080215,19.595575",
     "geom:latitude":19.542745,
     "geom:longitude":-99.170146,
@@ -134,8 +134,12 @@
         "inegi:id":"15104",
         "wd:id":"Q845307"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c7dbcb114ae8fc2a9fec76291a66b902",
+    "wof:geomhash":"b4bff70fd05b03078042294cebf24d44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102073949,
-    "wof:lastmodified":1690847011,
+    "wof:lastmodified":1695886538,
     "wof:name":"Tlalnepantla de Baz",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

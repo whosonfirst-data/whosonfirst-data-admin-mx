@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168703,
-    "geom:area_square_m":1917173097.099709,
+    "geom:area_square_m":1917173097.099677,
     "geom:bbox":"-100.918015137,22.9299743667,-100.478925208,23.6128983",
     "geom:latitude":23.212679,
     "geom:longitude":-100.717569,
@@ -116,8 +116,12 @@
         "inegi:id":"24047",
         "wd:id":"Q3846752"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c084ccce4a9e6ddcfdc75216dfca81be",
+    "wof:geomhash":"27f32a230e71159d6d58c02c6845a427",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102077151,
-    "wof:lastmodified":1566615310,
+    "wof:lastmodified":1695886859,
     "wof:name":"Villa de Guadalupe",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

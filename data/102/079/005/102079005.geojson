@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008978,
-    "geom:area_square_m":103752142.705772,
+    "geom:area_square_m":103752500.642165,
     "geom:bbox":"-88.68827,20.760979,-88.565668,20.91692",
     "geom:latitude":20.842694,
     "geom:longitude":-88.635835,
@@ -298,8 +298,12 @@
         "inegi:id":"31060",
         "wd:id":"Q2588077"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7ae250900bc00d3e686e05ec91a83981",
+    "wof:geomhash":"a99c34425c8835145bee20b848a6b10f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -309,7 +313,7 @@
         }
     ],
     "wof:id":102079005,
-    "wof:lastmodified":1690846589,
+    "wof:lastmodified":1695886854,
     "wof:name":"Quintana Roo",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044984,
-    "geom:area_square_m":519819813.70214,
+    "geom:area_square_m":519819813.702412,
     "geom:bbox":"-104.629088022,20.6032209478,-104.236382828,20.9957172227",
     "geom:latitude":20.848471,
     "geom:longitude":-104.401451,
@@ -104,8 +104,12 @@
         "inegi:id":"18003",
         "wd:id":"Q2651624"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4dd10fbc96f95638699fd9923371e36f",
+    "wof:geomhash":"3d629ec6ce02f36206d03b77ea1a7e66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102074555,
-    "wof:lastmodified":1566615915,
+    "wof:lastmodified":1695886028,
     "wof:name":"Amatl\u00e1n de Ca\u00f1as",
     "wof:parent_id":85686591,
     "wof:placetype":"county",

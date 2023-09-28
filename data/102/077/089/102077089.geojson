@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062603,
-    "geom:area_square_m":721431876.19838,
+    "geom:area_square_m":721431876.198687,
     "geom:bbox":"-99.3693949535,21.1012656851,-99.0430798533,21.4628315102",
     "geom:latitude":21.257686,
     "geom:longitude":-99.191825,
@@ -122,8 +122,12 @@
         "inegi:id":"22010",
         "wd:id":"Q2652446"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"54c5dfbeb0fba9e30ea77a9aa27034c0",
+    "wof:geomhash":"ae56c287663cd27d362c37abf1a9c650",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102077089,
-    "wof:lastmodified":1566615382,
+    "wof:lastmodified":1695886877,
     "wof:name":"Landa de Matamoros",
     "wof:parent_id":85686641,
     "wof:placetype":"county",

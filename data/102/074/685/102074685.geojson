@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013328,
-    "geom:area_square_m":154434289.612484,
+    "geom:area_square_m":154434289.61257,
     "geom:bbox":"-103.688424408,20.3422126518,-103.536258042,20.5056873763",
     "geom:latitude":20.428494,
     "geom:longitude":-103.608846,
@@ -116,8 +116,12 @@
         "inegi:id":"14002",
         "wd:id":"Q1658581"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bf87241ed32564df2d99419eb61a81ef",
+    "wof:geomhash":"64e4d5555f3c576f0655f323098288b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102074685,
-    "wof:lastmodified":1566615940,
+    "wof:lastmodified":1695886048,
     "wof:name":"Acatl\u00e1n de Ju\u00e1rez",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

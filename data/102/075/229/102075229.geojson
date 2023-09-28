@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035103,
-    "geom:area_square_m":371121272.891258,
+    "geom:area_square_m":371121621.601303,
     "geom:bbox":"-106.035932,31.103725,-105.806889,31.393789",
     "geom:latitude":31.238163,
     "geom:longitude":-105.925883,
@@ -146,8 +146,12 @@
         "inegi:id":"08053",
         "wd:id":"Q961853"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"110d4838250fb64a58a17f492f683ed4",
+    "wof:geomhash":"3e1b5b504782e33da128a202ae2b820d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102075229,
-    "wof:lastmodified":1690847153,
+    "wof:lastmodified":1695886095,
     "wof:name":"Praxedis G. Guerrero",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01191,
-    "geom:area_square_m":137644183.893216,
+    "geom:area_square_m":137644029.570136,
     "geom:bbox":"-89.510219,20.720695,-89.365707,20.91507",
     "geom:latitude":20.824486,
     "geom:longitude":-89.447444,
@@ -152,8 +152,12 @@
         "inegi:id":"31002",
         "wd:id":"Q2672565"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bc16c0b2f4466a26f4bcfb8de1c2cd86",
+    "wof:geomhash":"7ac830acee48c5f31c6107be209e05b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":102079195,
-    "wof:lastmodified":1690846563,
+    "wof:lastmodified":1695886850,
     "wof:name":"Acanceh",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

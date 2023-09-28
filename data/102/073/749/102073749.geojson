@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003991,
-    "geom:area_square_m":46534462.437935,
+    "geom:area_square_m":46534462.438106,
     "geom:bbox":"-99.25966,19.385957,-99.163713,19.47336",
     "geom:latitude":19.428062,
     "geom:longitude":-99.204567,
@@ -72,11 +72,15 @@
         "hasc:id":"MX.DF.MH",
         "inegi:id":"09016"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         890535785
     ],
     "wof:country":"MX",
-    "wof:geomhash":"d9b416b31b81e0de74ac3048aa5a63ac",
+    "wof:geomhash":"81a58e51d70e7e2efc1ec89670b748b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":102073749,
-    "wof:lastmodified":1625076035,
+    "wof:lastmodified":1695886651,
     "wof:name":"Miguel Hidalgo",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

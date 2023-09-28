@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058579,
-    "geom:area_square_m":696369859.529286,
+    "geom:area_square_m":696369802.653307,
     "geom:bbox":"-96.014751,15.808141,-95.536285,16.142662",
     "geom:latitude":15.974221,
     "geom:longitude":-95.7823,
@@ -119,8 +119,12 @@
         "inegi:id":"20307",
         "wd:id":"Q3889191"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"45f0c7a993662c954950b6c3de6489a1",
+    "wof:geomhash":"cd0bcf9b27e682f17912fb60fe509cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102076503,
-    "wof:lastmodified":1690846712,
+    "wof:lastmodified":1695886892,
     "wof:name":"San Pedro Huamelula",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

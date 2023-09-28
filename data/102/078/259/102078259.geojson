@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001012,
-    "geom:area_square_m":11825995.560979,
+    "geom:area_square_m":11825983.806583,
     "geom:bbox":"-98.369526,18.992363,-98.321879,19.033127",
     "geom:latitude":19.01049,
     "geom:longitude":-98.345619,
@@ -125,8 +125,12 @@
         "inegi:id":"21125",
         "wd:id":"Q7414271"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"10f8b3ad004383ae306851c15c34489e",
+    "wof:geomhash":"dc942a815193029eb67fbc5ab7134d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102078259,
-    "wof:lastmodified":1690846823,
+    "wof:lastmodified":1695886912,
     "wof:name":"San Gregorio Atzompa",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

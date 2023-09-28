@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044144,
-    "geom:area_square_m":506344911.107606,
+    "geom:area_square_m":506344911.107567,
     "geom:bbox":"-102.598873272,21.806359913,-102.264751051,22.0627672242",
     "geom:latitude":21.932118,
     "geom:longitude":-102.445649,
@@ -111,8 +111,12 @@
         "inegi:id":"01005",
         "wd:id":"Q1688438"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"138a5c17216651212b97e48818c550d6",
+    "wof:geomhash":"c71c9fff48af9d37f064397dad18cc2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":102077359,
-    "wof:lastmodified":1566615366,
+    "wof:lastmodified":1695886872,
     "wof:name":"Jes\u00fas Mar\u00eda",
     "wof:parent_id":85686637,
     "wof:placetype":"county",

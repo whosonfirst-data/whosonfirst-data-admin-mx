@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001493,
-    "geom:area_square_m":17669903.643423,
+    "geom:area_square_m":17669900.522021,
     "geom:bbox":"-96.758942,16.772967,-96.699198,16.813164",
     "geom:latitude":16.796192,
     "geom:longitude":-96.727318,
@@ -116,8 +116,12 @@
         "inegi:id":"20452",
         "wd:id":"Q3889582"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d751b1c6297af2f4218e96697585bcba",
+    "wof:geomhash":"b934cb3246bcbea8d19c48dcce3e873b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075851,
-    "wof:lastmodified":1690847172,
+    "wof:lastmodified":1695886110,
     "wof:name":"Santiago Ap\u00f3stol",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145867,
-    "geom:area_square_m":1647178544.985556,
+    "geom:area_square_m":1647178529.368097,
     "geom:bbox":"-107.165282,23.774347,-106.604707,24.287163",
     "geom:latitude":24.04339,
     "geom:longitude":-106.842138,
@@ -143,8 +143,12 @@
         "inegi:id":"25008",
         "wd:id":"Q11077460"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"79e8cb6efa0cd02355eb599d9fe71f7d",
+    "wof:geomhash":"779e9b5f11088cbb6bfe24a2065ecf51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":102074327,
-    "wof:lastmodified":1690847124,
+    "wof:lastmodified":1695886069,
     "wof:name":"Elota",
     "wof:parent_id":85686535,
     "wof:placetype":"county",

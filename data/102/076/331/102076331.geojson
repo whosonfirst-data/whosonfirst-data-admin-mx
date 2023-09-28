@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":2219914.007884,
+    "geom:area_square_m":2219914.007894,
     "geom:bbox":"-96.4375452184,17.2949243671,-96.4154957713,17.3101282183",
     "geom:latitude":17.301734,
     "geom:longitude":-96.426251,
@@ -93,8 +93,12 @@
         "hasc:id":"MX.OA.CR",
         "inegi:id":"20062"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cb62f4c7acf1c78e23cb10a2639a4c35",
+    "wof:geomhash":"13240fa688913f0a41212863cc8d2da8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":102076331,
-    "wof:lastmodified":1566615432,
+    "wof:lastmodified":1695886891,
     "wof:name":"Natividad",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208762,
-    "geom:area_square_m":2398086343.817024,
+    "geom:area_square_m":2398086343.817012,
     "geom:bbox":"-98.159562983,21.4020349363,-97.3874143833,21.9966234758",
     "geom:latitude":21.721259,
     "geom:longitude":-97.847609,
@@ -92,8 +92,12 @@
         "inegi:id":"30121",
         "wd:id":"Q7116693"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c6c0909c9a5eefbd62d85462f78308a6",
+    "wof:geomhash":"a0423ee73a500f13bff501976afa03fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102077645,
-    "wof:lastmodified":1566615320,
+    "wof:lastmodified":1695886861,
     "wof:name":"Ozuluama de Mascare\u00f1as",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

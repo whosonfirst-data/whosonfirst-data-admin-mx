@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019434,
-    "geom:area_square_m":225269922.981663,
+    "geom:area_square_m":225269964.099195,
     "geom:bbox":"-89.335848,20.306398,-89.10752,20.454852",
     "geom:latitude":20.377313,
     "geom:longitude":-89.221474,
@@ -127,8 +127,12 @@
         "inegi:id":"31075",
         "wd:id":"Q2978556"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dd67db9fd40072f183f9bdb7fe458276",
+    "wof:geomhash":"8d0cc8a263e18f09e5de3aec2b00bc6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102079157,
-    "wof:lastmodified":1690846562,
+    "wof:lastmodified":1695886850,
     "wof:name":"Teabo",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

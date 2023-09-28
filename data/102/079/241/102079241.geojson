@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183264,
-    "geom:area_square_m":2121371207.464415,
+    "geom:area_square_m":2121371801.848108,
     "geom:bbox":"-87.962742,20.356865,-86.915329,20.812064",
     "geom:latitude":20.586958,
     "geom:longitude":-87.397798,
@@ -146,8 +146,12 @@
         "inegi:id":"23008",
         "wd:id":"Q677463"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"df19d482f783bde39cf68022151364db",
+    "wof:geomhash":"f8d2d79b04346227687a40ad5205cc58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102079241,
-    "wof:lastmodified":1690846580,
+    "wof:lastmodified":1695886853,
     "wof:name":"Solidaridad",
     "wof:parent_id":85686711,
     "wof:placetype":"county",

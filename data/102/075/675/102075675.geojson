@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003619,
-    "geom:area_square_m":42738340.224428,
+    "geom:area_square_m":42738125.406206,
     "geom:bbox":"-93.048128,17.217559,-92.936598,17.282101",
     "geom:latitude":17.250969,
     "geom:longitude":-92.997277,
@@ -122,8 +122,12 @@
         "inegi:id":"07091",
         "wd:id":"Q1785646"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"994a75c78d4545126c132d5d429923eb",
+    "wof:geomhash":"2348b99e704b55204a32ba5359390f30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102075675,
-    "wof:lastmodified":1690847154,
+    "wof:lastmodified":1695886096,
     "wof:name":"Tapilula",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

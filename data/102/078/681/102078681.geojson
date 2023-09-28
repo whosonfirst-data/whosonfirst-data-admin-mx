@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06631,
-    "geom:area_square_m":740773892.904455,
+    "geom:area_square_m":740773293.381029,
     "geom:bbox":"-100.530883,25.223786,-100.031314,25.521169",
     "geom:latitude":25.384897,
     "geom:longitude":-100.237323,
@@ -561,8 +561,12 @@
         "hasc:id":"MX.NL.SA",
         "inegi:id":"19049"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"54a8e61e173cdd16bc4470921c47bae2",
+    "wof:geomhash":"bce6d7bc988dff9eaa137d82743eaf85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -572,7 +576,7 @@
         }
     ],
     "wof:id":102078681,
-    "wof:lastmodified":1636492151,
+    "wof:lastmodified":1695886503,
     "wof:name":"Santiago",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

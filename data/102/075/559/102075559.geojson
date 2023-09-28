@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068281,
-    "geom:area_square_m":810583226.759091,
+    "geom:area_square_m":810583370.016292,
     "geom:bbox":"-94.109568,16.084416,-93.721787,16.425619",
     "geom:latitude":16.248884,
     "geom:longitude":-93.937361,
@@ -146,8 +146,12 @@
         "inegi:id":"07009",
         "wd:id":"Q1499102"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"33c42c7800c27faea99344d942e94e05",
+    "wof:geomhash":"3edaf7179614817d2ec019a4426ed604",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102075559,
-    "wof:lastmodified":1690847147,
+    "wof:lastmodified":1695886090,
     "wof:name":"Arriaga",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

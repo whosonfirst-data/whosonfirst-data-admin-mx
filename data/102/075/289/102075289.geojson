@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.261556,
-    "geom:area_square_m":13768877786.984772,
+    "geom:area_square_m":13768877302.872009,
     "geom:bbox":"-105.290611,27.349759,-103.628556,28.766659",
     "geom:latitude":28.033698,
     "geom:longitude":-104.423656,
@@ -170,8 +170,12 @@
         "inegi:id":"08011",
         "wd:id":"Q2652276"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"14ea946cdcea0e033e032f6669fbfb0f",
+    "wof:geomhash":"92eafb1183a41ea9fac777a2764c38d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":102075289,
-    "wof:lastmodified":1690847159,
+    "wof:lastmodified":1695886524,
     "wof:name":"Camargo",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

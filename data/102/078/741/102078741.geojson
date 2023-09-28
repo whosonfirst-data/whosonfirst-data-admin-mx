@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.348836,
-    "geom:area_square_m":3867380017.698961,
+    "geom:area_square_m":3867380017.699443,
     "geom:bbox":"-101.20676271,25.8627358533,-100.448759624,26.7352078024",
     "geom:latitude":26.285584,
     "geom:longitude":-100.786277,
@@ -178,8 +178,12 @@
         "hasc:id":"MX.NL.MI",
         "inegi:id":"19037"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"87c789e909dabe97635d576418f5165d",
+    "wof:geomhash":"60de7ed78b49332d86fda3baa24c0e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":102078741,
-    "wof:lastmodified":1566615580,
+    "wof:lastmodified":1695886919,
     "wof:name":"Mina",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

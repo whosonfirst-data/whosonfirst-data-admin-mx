@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003742,
-    "geom:area_square_m":43420542.637275,
+    "geom:area_square_m":43420408.981441,
     "geom:bbox":"-97.741474,20.163433,-97.634288,20.262926",
     "geom:latitude":20.205282,
     "geom:longitude":-97.69908,
@@ -113,8 +113,12 @@
         "inegi:id":"30067",
         "wd:id":"Q13138788"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d3c4675bae5921741ce85798f07c8690",
+    "wof:geomhash":"e41baffd6cf75f78da540fdb89319c37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077527,
-    "wof:lastmodified":1690846642,
+    "wof:lastmodified":1695886869,
     "wof:name":"Filomeno Mata",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

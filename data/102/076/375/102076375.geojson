@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026307,
-    "geom:area_square_m":311437086.77484,
+    "geom:area_square_m":311437006.716092,
     "geom:bbox":"-96.424085,16.694402,-96.1984,16.873442",
     "geom:latitude":16.780918,
     "geom:longitude":-96.302065,
@@ -110,8 +110,12 @@
         "inegi:id":"20131",
         "wd:id":"Q2066177"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b396eb3f29a4445e0c382a2255cf79d4",
+    "wof:geomhash":"92cbb1ede71f5110a2e217769059c0d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102076375,
-    "wof:lastmodified":1690846792,
+    "wof:lastmodified":1695886903,
     "wof:name":"San Dionisio Ocotepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

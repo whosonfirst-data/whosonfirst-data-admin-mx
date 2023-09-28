@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042249,
-    "geom:area_square_m":489506011.622244,
+    "geom:area_square_m":489506128.3188,
     "geom:bbox":"-87.363429,20.27159,-86.723953,20.597711",
     "geom:latitude":20.44483,
     "geom:longitude":-86.90889,
@@ -215,8 +215,12 @@
         "inegi:id":"23001",
         "wd:id":"Q20119933"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2bccdc55014ec285ca3640d63df8bf0c",
+    "wof:geomhash":"ff3b806314ba70d4350baba424a43a10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -226,7 +230,7 @@
         }
     ],
     "wof:id":102079247,
-    "wof:lastmodified":1690846582,
+    "wof:lastmodified":1695886853,
     "wof:name":"Cozumel",
     "wof:parent_id":85686711,
     "wof:placetype":"county",

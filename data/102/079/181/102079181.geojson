@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011202,
-    "geom:area_square_m":129170391.377637,
+    "geom:area_square_m":129170262.707159,
     "geom:bbox":"-89.151306,21.107261,-88.993512,21.227509",
     "geom:latitude":21.16574,
     "geom:longitude":-89.073203,
@@ -127,8 +127,12 @@
         "inegi:id":"31009",
         "wd:id":"Q2669271"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a3fa7de06abc7502051d97b7a1d815db",
+    "wof:geomhash":"500b8eb1cc06d93886ddd83b89dcf531",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102079181,
-    "wof:lastmodified":1690846576,
+    "wof:lastmodified":1695886852,
     "wof:name":"Cansahcab",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

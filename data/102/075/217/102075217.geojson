@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.776184,
-    "geom:area_square_m":8393999712.246288,
+    "geom:area_square_m":8393997370.727629,
     "geom:bbox":"-106.621907,28.095849,-105.702809,29.784862",
     "geom:latitude":29.000538,
     "geom:longitude":-106.232517,
@@ -250,8 +250,12 @@
         "inegi:id":"08019",
         "wd:id":"Q2475171"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d0130764fd5d37ac90d756bfbac27b66",
+    "wof:geomhash":"e0d6ce16c3965f63fb2045eefdf099e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -261,7 +265,7 @@
         }
     ],
     "wof:id":102075217,
-    "wof:lastmodified":1690847161,
+    "wof:lastmodified":1695886100,
     "wof:name":"Chihuahua",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

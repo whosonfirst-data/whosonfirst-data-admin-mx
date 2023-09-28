@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134917,
-    "geom:area_square_m":1558242591.662929,
+    "geom:area_square_m":1558242591.662745,
     "geom:bbox":"-101.086680865,20.7160881522,-100.469958298,21.1091100774",
     "geom:latitude":20.925251,
     "geom:longitude":-100.737727,
@@ -96,8 +96,12 @@
         "inegi:id":"11003",
         "wd:id":"Q4063467"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a91e90e2bb1757289060ba202f496a04",
+    "wof:geomhash":"84fae6dc1913469d811f2c4d5d14c3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":102077311,
-    "wof:lastmodified":1566615416,
+    "wof:lastmodified":1695886887,
     "wof:name":"San Miguel de Allende",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

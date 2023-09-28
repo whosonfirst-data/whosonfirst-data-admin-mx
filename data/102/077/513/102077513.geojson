@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298596,
-    "geom:area_square_m":3520599278.67647,
+    "geom:area_square_m":3520599140.933667,
     "geom:bbox":"-94.315223,17.136965,-93.60794,17.990006",
     "geom:latitude":17.535836,
     "geom:longitude":-93.957236,
@@ -119,8 +119,12 @@
         "inegi:id":"30061",
         "wd:id":"Q20744250"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e9e0d702eed4040c11d77ee6aa4999b1",
+    "wof:geomhash":"98922bfbb0e89745323d3bbcba0652c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077513,
-    "wof:lastmodified":1690846693,
+    "wof:lastmodified":1695886888,
     "wof:name":"Las Choapas",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

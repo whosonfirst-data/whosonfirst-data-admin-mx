@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011225,
-    "geom:area_square_m":132419388.714463,
+    "geom:area_square_m":132419388.714534,
     "geom:bbox":"-99.0552911343,17.3654301456,-98.9383046723,17.5158016767",
     "geom:latitude":17.442634,
     "geom:longitude":-98.99594,
@@ -120,8 +120,12 @@
         "inegi:id":"12079",
         "wd:id":"Q6292609"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5a900263e43b9dc3f28987b62e109a3e",
+    "wof:geomhash":"e27dd3981f298892eeb53ab1d072fdd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102073873,
-    "wof:lastmodified":1566615774,
+    "wof:lastmodified":1695885968,
     "wof:name":"Jos\u00e9 Joaquin de Herrera",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

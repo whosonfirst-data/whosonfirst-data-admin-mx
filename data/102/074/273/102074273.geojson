@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005852,
-    "geom:area_square_m":68497430.27327,
+    "geom:area_square_m":68497350.26585,
     "geom:bbox":"-99.222813,18.742039,-99.144915,18.876955",
     "geom:latitude":18.813748,
     "geom:longitude":-99.180903,
@@ -293,8 +293,12 @@
         "inegi:id":"17008",
         "wd:id":"Q41718"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f5629bf3bb1f096857132d38e60804b1",
+    "wof:geomhash":"f07edb2731c60527584b096774a90593",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -304,7 +308,7 @@
         }
     ],
     "wof:id":102074273,
-    "wof:lastmodified":1690847045,
+    "wof:lastmodified":1695885998,
     "wof:name":"Emiliano Zapata",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

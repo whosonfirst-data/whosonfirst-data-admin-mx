@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007565,
-    "geom:area_square_m":88175215.453339,
+    "geom:area_square_m":88175215.453338,
     "geom:bbox":"-99.177046,19.444791,-99.050868,19.592757",
     "geom:latitude":19.504065,
     "geom:longitude":-99.115864,
@@ -116,11 +116,15 @@
         "inegi:id":"09005",
         "wd:id":"Q2732074"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         890535763
     ],
     "wof:country":"MX",
-    "wof:geomhash":"4b5a3cd03a8bf9a6b19ccc1fcf829da3",
+    "wof:geomhash":"3f0ff2c94cb7e28317e6c8bda398852e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102073745,
-    "wof:lastmodified":1690847026,
+    "wof:lastmodified":1695886617,
     "wof:name":"Gustavo A. Madero",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089228,
-    "geom:area_square_m":1055346404.648653,
+    "geom:area_square_m":1055346404.648237,
     "geom:bbox":"-99.2677164179,16.7707071991,-98.8503829499,17.1734311753",
     "geom:latitude":16.957271,
     "geom:longitude":-99.067536,
@@ -111,8 +111,12 @@
         "inegi:id":"12012",
         "wd:id":"Q4073765"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e3e654cb2197e0b7e4370708ac2142af",
+    "wof:geomhash":"1ed4fe66cf39ce46650f30daf308f7d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":102073823,
-    "wof:lastmodified":1566615791,
+    "wof:lastmodified":1695885977,
     "wof:name":"Ayutla de los Libres",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

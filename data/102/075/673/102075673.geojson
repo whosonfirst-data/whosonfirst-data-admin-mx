@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016317,
-    "geom:area_square_m":193121350.582448,
+    "geom:area_square_m":193121243.832779,
     "geom:bbox":"-92.546722,16.761155,-92.367573,16.934205",
     "geom:latitude":16.833188,
     "geom:longitude":-92.472006,
@@ -130,8 +130,12 @@
         "inegi:id":"07093",
         "wd:id":"Q376900"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fed639a79ce88f230ffa088f42feafc6",
+    "wof:geomhash":"80ff1c240153c1d1938a6feab5ff36ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":102075673,
-    "wof:lastmodified":1690847162,
+    "wof:lastmodified":1695886102,
     "wof:name":"Tenejapa",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

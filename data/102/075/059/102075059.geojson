@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010242,
-    "geom:area_square_m":119057361.310277,
+    "geom:area_square_m":119057361.310176,
     "geom:bbox":"-102.377800384,19.8816600013,-102.241852082,20.0000594503",
     "geom:latitude":19.934941,
     "geom:longitude":-102.316002,
@@ -113,8 +113,12 @@
         "inegi:id":"16043",
         "wd:id":"Q2446759"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1a0561c422418b513de72cefc9003945",
+    "wof:geomhash":"53274ecca36c2b726b38f9a084e33444",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102075059,
-    "wof:lastmodified":1566616194,
+    "wof:lastmodified":1695886149,
     "wof:name":"Jacona",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003572,
-    "geom:area_square_m":42249256.406145,
+    "geom:area_square_m":42249186.85205,
     "geom:bbox":"-95.880368,16.932545,-95.797096,17.019148",
     "geom:latitude":16.971773,
     "geom:longitude":-95.840788,
@@ -111,8 +111,12 @@
         "inegi:id":"20323",
         "wd:id":"Q3892500"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8029ed94936a98c042f3c6271f828b2b",
+    "wof:geomhash":"6b5b242d06a5cc47060e073bb514e161",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":102076511,
-    "wof:lastmodified":1690846745,
+    "wof:lastmodified":1695886643,
     "wof:name":"San Pedro Ocotepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

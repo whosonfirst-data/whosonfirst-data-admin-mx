@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038241,
-    "geom:area_square_m":441967161.181922,
+    "geom:area_square_m":441967032.570946,
     "geom:bbox":"-101.747959,20.687429,-101.452638,20.944346",
     "geom:latitude":20.82579,
     "geom:longitude":-101.595129,
@@ -117,8 +117,12 @@
         "inegi:id":"11026",
         "wd:id":"Q2651353"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0a0775c2818322f2ecc513e2ee167d22",
+    "wof:geomhash":"721d6e2418f6adb884e5cd7ce9798779",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":102077345,
-    "wof:lastmodified":1690846693,
+    "wof:lastmodified":1695886888,
     "wof:name":"Romita",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

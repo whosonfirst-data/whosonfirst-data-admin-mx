@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010383,
-    "geom:area_square_m":120370954.222933,
+    "geom:area_square_m":120370954.223084,
     "geom:bbox":"-98.4585481328,20.3022169846,-98.2972825945,20.4287806391",
     "geom:latitude":20.361567,
     "geom:longitude":-98.369376,
@@ -104,8 +104,12 @@
         "inegi:id":"13004",
         "wd:id":"Q29010416"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"eb8cb412a47b9347f0979d9fa1b13e28",
+    "wof:geomhash":"53ff9115de1bac5a33d0ec6664e1c7c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102078479,
-    "wof:lastmodified":1566615545,
+    "wof:lastmodified":1695886910,
     "wof:name":"Agua Blanca de Iturbide",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

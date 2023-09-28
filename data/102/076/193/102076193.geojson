@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003461,
-    "geom:area_square_m":41096819.31563,
+    "geom:area_square_m":41096504.865304,
     "geom:bbox":"-97.277251,16.172633,-97.199344,16.246475",
     "geom:latitude":16.208564,
     "geom:longitude":-97.23789,
@@ -114,8 +114,12 @@
         "inegi:id":"20497",
         "wd:id":"Q3889471"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ab7b2594fd47655aa9e2208b1b111fa5",
+    "wof:geomhash":"e348b2551d3107510eab909637c365b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":102076193,
-    "wof:lastmodified":1690846712,
+    "wof:lastmodified":1695886892,
     "wof:name":"Santiago Yaitepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

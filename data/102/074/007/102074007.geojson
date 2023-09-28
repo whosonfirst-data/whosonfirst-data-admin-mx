@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007725,
-    "geom:area_square_m":90436397.406063,
+    "geom:area_square_m":90436421.195009,
     "geom:bbox":"-99.712301,18.720334,-99.573729,18.833459",
     "geom:latitude":18.780904,
     "geom:longitude":-99.637559,
@@ -146,8 +146,12 @@
         "inegi:id":"15107",
         "wd:id":"Q532067"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"060a2b5568fd9654efe5347414cb2898",
+    "wof:geomhash":"1bb508df1f3fde0aa3c333c87e6843e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102074007,
-    "wof:lastmodified":1690847060,
+    "wof:lastmodified":1695886008,
     "wof:name":"Tonatico",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

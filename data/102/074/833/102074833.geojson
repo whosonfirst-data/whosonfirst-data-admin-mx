@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014074,
-    "geom:area_square_m":163242052.861609,
+    "geom:area_square_m":163242027.585653,
     "geom:bbox":"-102.74981,20.210086,-102.603726,20.376657",
     "geom:latitude":20.280131,
     "geom:longitude":-102.685675,
@@ -119,8 +119,12 @@
         "inegi:id":"14047",
         "wd:id":"Q3160815"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2eceb6cd933a04ff5ab4864d111e8015",
+    "wof:geomhash":"504097ef494440523fd59f3e105df901",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102074833,
-    "wof:lastmodified":1690847067,
+    "wof:lastmodified":1695886014,
     "wof:name":"Jamay",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044095,
-    "geom:area_square_m":514164527.856602,
+    "geom:area_square_m":514164258.253457,
     "geom:bbox":"-100.484124,19.314674,-100.176715,19.557931",
     "geom:latitude":19.438225,
     "geom:longitude":-100.337949,
@@ -212,8 +212,12 @@
         "inegi:id":"16112",
         "wd:id":"Q1962272"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"974e7d4fb0597d2e2452bb2479084be5",
+    "wof:geomhash":"ebc944fdc92cb9d93a0bb5e5e7685034",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -223,7 +227,7 @@
         }
     ],
     "wof:id":102074961,
-    "wof:lastmodified":1690847085,
+    "wof:lastmodified":1695886027,
     "wof:name":"Zit\u00e1cuaro",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

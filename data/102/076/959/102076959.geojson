@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009272,
-    "geom:area_square_m":109593509.390269,
+    "geom:area_square_m":109593356.540034,
     "geom:bbox":"-97.752525,17.018743,-97.633199,17.129965",
     "geom:latitude":17.076934,
     "geom:longitude":-97.691982,
@@ -105,8 +105,12 @@
         "inegi:id":"20133",
         "wd:id":"Q3893346"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6eef49edc905da4c7ea0bbe4a811a25a",
+    "wof:geomhash":"324a8d13d0c2076f478a38c88d4b93b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":102076959,
-    "wof:lastmodified":1690846750,
+    "wof:lastmodified":1695886644,
     "wof:name":"San Esteban Atatlahuca",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076276,
-    "geom:area_square_m":886003224.754521,
+    "geom:area_square_m":886003119.077702,
     "geom:bbox":"-104.671165,19.839747,-104.194307,20.241414",
     "geom:latitude":20.050257,
     "geom:longitude":-104.434823,
@@ -170,8 +170,12 @@
         "inegi:id":"14017",
         "wd:id":"Q2875055"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"706ffcdc62db1013d640983bf33ffc6c",
+    "wof:geomhash":"c55cb15533b87623672756595e5290bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":102074793,
-    "wof:lastmodified":1690847087,
+    "wof:lastmodified":1695886517,
     "wof:name":"Ayutla",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

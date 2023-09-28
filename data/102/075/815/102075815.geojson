@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021366,
-    "geom:area_square_m":252936828.968031,
+    "geom:area_square_m":252936828.968029,
     "geom:bbox":"-95.1748652907,16.705143067,-94.8860489281,16.8982328366",
     "geom:latitude":16.788277,
     "geom:longitude":-95.043037,
@@ -104,8 +104,12 @@
         "inegi:id":"20010",
         "wd:id":"Q949138"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e7f4a6d7605c1ef7d78e0134c617854b",
+    "wof:geomhash":"a95fbd8b1625d7eaf12d91f336494285",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102075815,
-    "wof:lastmodified":1566616173,
+    "wof:lastmodified":1695886140,
     "wof:name":"El Barrio de la Soledad",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

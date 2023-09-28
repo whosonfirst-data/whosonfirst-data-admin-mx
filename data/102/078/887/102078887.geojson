@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226681,
-    "geom:area_square_m":2574902291.90878,
+    "geom:area_square_m":2574902291.908751,
     "geom:bbox":"-99.2671692625,23.0201531074,-98.4078958842,23.5749878939",
     "geom:latitude":23.272024,
     "geom:longitude":-98.857369,
@@ -88,8 +88,12 @@
         "hasc:id":"MX.TM.LL",
         "inegi:id":"28019"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"728d7c94d768119f7527dfe898f45320",
+    "wof:geomhash":"f8028e0bbd6b45b4bc119430c3f45c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102078887,
-    "wof:lastmodified":1566615542,
+    "wof:lastmodified":1695886910,
     "wof:name":"Llera",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

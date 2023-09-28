@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002798,
-    "geom:area_square_m":32624716.869194,
+    "geom:area_square_m":32624716.869236,
     "geom:bbox":"-99.184304,19.39979,-99.122241,19.465824",
     "geom:latitude":19.431373,
     "geom:longitude":-99.149056,
@@ -206,11 +206,15 @@
         "inegi:id":"09015",
         "wd:id":"Q297050"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         890535757
     ],
     "wof:country":"MX",
-    "wof:geomhash":"69766b3572e675325b82607792feed23",
+    "wof:geomhash":"8b1a7a9ea9377d9fab599d0bd41596ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -220,7 +224,7 @@
         }
     ],
     "wof:id":102073739,
-    "wof:lastmodified":1690846999,
+    "wof:lastmodified":1695886402,
     "wof:name":"Cuauht\u00e9moc",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

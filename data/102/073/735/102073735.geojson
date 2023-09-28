@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002885,
-    "geom:area_square_m":33625569.902158,
+    "geom:area_square_m":33625569.902177,
     "geom:bbox":"-99.221115,19.456435,-99.143055,19.515136",
     "geom:latitude":19.485329,
     "geom:longitude":-99.182107,
@@ -167,11 +167,15 @@
         "inegi:id":"09002",
         "wd:id":"Q994867"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         890535755
     ],
     "wof:country":"MX",
-    "wof:geomhash":"805efbd05949836271efad9d8b250f94",
+    "wof:geomhash":"d3a4f1955693e605e3956b29718afc72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":102073735,
-    "wof:lastmodified":1690847015,
+    "wof:lastmodified":1695886402,
     "wof:name":"Azcapotzalco",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

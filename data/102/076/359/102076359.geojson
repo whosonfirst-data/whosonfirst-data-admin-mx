@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004899,
-    "geom:area_square_m":57593424.151361,
+    "geom:area_square_m":57593370.304109,
     "geom:bbox":"-96.725308,18.005788,-96.630269,18.110943",
     "geom:latitude":18.050078,
     "geom:longitude":-96.675522,
@@ -113,8 +113,12 @@
         "inegi:id":"20116",
         "wd:id":"Q3891771"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0d35a7921feb8717ec484b9fafcfe14c",
+    "wof:geomhash":"e9fe8c3f6b299afef26f592e001c980f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076359,
-    "wof:lastmodified":1690846748,
+    "wof:lastmodified":1695886897,
     "wof:name":"San Bartolom\u00e9 Ayautla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

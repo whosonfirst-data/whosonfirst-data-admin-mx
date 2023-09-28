@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009869,
-    "geom:area_square_m":115485853.835075,
+    "geom:area_square_m":115485853.835257,
     "geom:bbox":"-99.7627286236,18.7688388839,-99.609352748,18.9130521974",
     "geom:latitude":18.850696,
     "geom:longitude":-99.690841,
@@ -119,8 +119,12 @@
         "inegi:id":"15040",
         "wd:id":"Q2018330"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dc30f6fb47fb47a2f9f00002a51f494d",
+    "wof:geomhash":"21ad0b3d143285f850a29186362dcaff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102074141,
-    "wof:lastmodified":1566615998,
+    "wof:lastmodified":1695886074,
     "wof:name":"Ixtapan de la Sal",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

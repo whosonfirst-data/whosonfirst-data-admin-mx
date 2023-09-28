@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001667,
-    "geom:area_square_m":19676447.862921,
+    "geom:area_square_m":19676402.253191,
     "geom:bbox":"-96.24728,17.296593,-96.19258,17.341997",
     "geom:latitude":17.318614,
     "geom:longitude":-96.218509,
@@ -114,8 +114,12 @@
         "inegi:id":"20216",
         "wd:id":"Q10812444"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"70c1b339c053970bd23dda11ea4b8ba6",
+    "wof:geomhash":"964f2803e0f0182ef7f968a681a43697",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":102076433,
-    "wof:lastmodified":1690846777,
+    "wof:lastmodified":1695886900,
     "wof:name":"San Juan Taba\u00e1",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

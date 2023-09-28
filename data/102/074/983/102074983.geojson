@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080972,
-    "geom:area_square_m":944201848.976601,
+    "geom:area_square_m":944201870.137163,
     "geom:bbox":"-101.131848,19.180506,-100.748052,19.67236",
     "geom:latitude":19.43162,
     "geom:longitude":-100.914012,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.MC.TT",
         "inegi:id":"16101"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"920b8702c61c3b5221ba495fc4bc8a96",
+    "wof:geomhash":"b1e672b28b9f13d8e0be5e43528fdb98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102074983,
-    "wof:lastmodified":1625076039,
+    "wof:lastmodified":1695886654,
     "wof:name":"Tzitzio",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

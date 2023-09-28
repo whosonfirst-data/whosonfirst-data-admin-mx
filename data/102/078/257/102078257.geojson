@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009339,
-    "geom:area_square_m":109628850.398913,
+    "geom:area_square_m":109628797.898568,
     "geom:bbox":"-97.431309,18.237032,-97.314123,18.386729",
     "geom:latitude":18.31813,
     "geom:longitude":-97.383969,
@@ -107,8 +107,12 @@
         "inegi:id":"21124",
         "wd:id":"Q7414200"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"147c1a34fd553390e4c5f8971eec184d",
+    "wof:geomhash":"60cccfca92aa434b2bdee2f2d36729b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102078257,
-    "wof:lastmodified":1690846821,
+    "wof:lastmodified":1695886648,
     "wof:name":"San Gabriel Chilac",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

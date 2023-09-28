@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007601,
-    "geom:area_square_m":89829532.06581,
+    "geom:area_square_m":89829341.859635,
     "geom:bbox":"-96.780486,17.029302,-96.672719,17.164",
     "geom:latitude":17.102105,
     "geom:longitude":-96.72412,
@@ -109,8 +109,12 @@
         "inegi:id":"20067",
         "wd:id":"Q2000066"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2975e7a1dcf22ecbdbf4708ce6649cfa",
+    "wof:geomhash":"8ae277168d0efb3a1c920a6ba6577abd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":102075881,
-    "wof:lastmodified":1690847163,
+    "wof:lastmodified":1695886104,
     "wof:name":"Oaxaca de Ju\u00e1rez",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

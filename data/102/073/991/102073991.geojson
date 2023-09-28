@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036544,
-    "geom:area_square_m":426099433.223365,
+    "geom:area_square_m":426099433.224061,
     "geom:bbox":"-100.151361311,19.2927075074,-99.8530801965,19.5719955564",
     "geom:latitude":19.44275,
     "geom:longitude":-99.992134,
@@ -125,8 +125,12 @@
         "inegi:id":"15114",
         "wd:id":"Q3545911"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ad9a7699a92984eb8bf3d6f120f8d7a1",
+    "wof:geomhash":"347119bb408d115dda16a2dc4b5cbb3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102073991,
-    "wof:lastmodified":1566615769,
+    "wof:lastmodified":1695886942,
     "wof:name":"Villa Victoria",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

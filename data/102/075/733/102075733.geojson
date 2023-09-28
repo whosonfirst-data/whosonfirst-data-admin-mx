@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009285,
-    "geom:area_square_m":110698714.681949,
+    "geom:area_square_m":110698714.681909,
     "geom:bbox":"-92.2357548656,15.2611589065,-92.1287267763,15.4552083102",
     "geom:latitude":15.372766,
     "geom:longitude":-92.185764,
@@ -110,8 +110,12 @@
         "inegi:id":"07053",
         "wd:id":"Q1953050"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2ab276527d19eafa58475a951c86bff7",
+    "wof:geomhash":"afe778184fc1a9b4860d8d8628259d40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102075733,
-    "wof:lastmodified":1566616133,
+    "wof:lastmodified":1695886127,
     "wof:name":"Mazapa de Madero",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.07805,
-    "geom:area_square_m":12144124563.568638,
+    "geom:area_square_m":12144124274.898283,
     "geom:bbox":"-102.673062,23.693568,-101.192505,25.066636",
     "geom:latitude":24.351924,
     "geom:longitude":-101.922796,
@@ -73,8 +73,12 @@
         "hasc:id":"MX.ZA.MZ",
         "inegi:id":"32026"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9a969acaee99ad8d65e957384ede5e02",
+    "wof:geomhash":"72003774a3cd9addee39e0141e98a0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102075395,
-    "wof:lastmodified":1642551748,
+    "wof:lastmodified":1695886507,
     "wof:name":"Mazapil",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

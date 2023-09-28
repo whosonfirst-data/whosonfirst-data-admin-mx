@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028331,
-    "geom:area_square_m":329572892.345347,
+    "geom:area_square_m":329572892.345822,
     "geom:bbox":"-97.9125187548,19.6952640708,-97.643184474,19.9278078152",
     "geom:latitude":19.818211,
     "geom:longitude":-97.785734,
@@ -95,8 +95,12 @@
         "inegi:id":"21172",
         "wd:id":"Q1393877"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1d9be8a1a12a12c4b00f4931bac0100f",
+    "wof:geomhash":"cfadb94a596e3d0f916b001c95e4d936",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102078363,
-    "wof:lastmodified":1566615532,
+    "wof:lastmodified":1695886907,
     "wof:name":"Tetela de Ocampo",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

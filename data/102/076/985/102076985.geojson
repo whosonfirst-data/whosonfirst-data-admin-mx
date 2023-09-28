@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003028,
-    "geom:area_square_m":35733843.915124,
+    "geom:area_square_m":35733843.91511,
     "geom:bbox":"-97.5329172123,17.3158680877,-97.4427383589,17.3785839668",
     "geom:latitude":17.350008,
     "geom:longitude":-97.500552,
@@ -107,8 +107,12 @@
         "inegi:id":"20172",
         "wd:id":"Q3846920"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9fdbbdd243843d7a36e01934cff43790",
+    "wof:geomhash":"0dcd8885be9418060ecfb30f2e9a10c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102076985,
-    "wof:lastmodified":1566615469,
+    "wof:lastmodified":1695886896,
     "wof:name":"San Juan Achiutla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

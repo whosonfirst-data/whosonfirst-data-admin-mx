@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266517,
-    "geom:area_square_m":3021278370.163389,
+    "geom:area_square_m":3021278370.163491,
     "geom:bbox":"-99.0412806644,23.0903799774,-98.2098450821,23.996781513",
     "geom:latitude":23.539411,
     "geom:longitude":-98.616423,
@@ -106,8 +106,12 @@
         "hasc:id":"MX.TM.CS",
         "inegi:id":"28008"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6cc85043479cfa3be56521a1b2b7c080",
+    "wof:geomhash":"aa7c5b953e8102b5bfd351a6df6ad261",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":102078885,
-    "wof:lastmodified":1566615612,
+    "wof:lastmodified":1695886927,
     "wof:name":"Casas",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

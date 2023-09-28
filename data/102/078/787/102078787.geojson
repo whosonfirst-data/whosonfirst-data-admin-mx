@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088654,
-    "geom:area_square_m":982759382.088956,
+    "geom:area_square_m":982759382.089422,
     "geom:bbox":"-99.9556249472,26.1507498041,-99.4097298091,26.4460276579",
     "geom:latitude":26.298712,
     "geom:longitude":-99.703083,
@@ -116,8 +116,12 @@
         "inegi:id":"19002",
         "wd:id":"Q3310805"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c38a3391ac90d01fdf5de4b3059c8903",
+    "wof:geomhash":"f74eac0bcd1abd3534387cdd71b0c3d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102078787,
-    "wof:lastmodified":1566615643,
+    "wof:lastmodified":1695886939,
     "wof:name":"Agualeguas",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

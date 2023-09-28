@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020241,
-    "geom:area_square_m":237515549.609041,
+    "geom:area_square_m":237515211.686101,
     "geom:bbox":"-96.911998,18.236508,-96.724683,18.517657",
     "geom:latitude":18.379583,
     "geom:longitude":-96.828803,
@@ -119,8 +119,12 @@
         "inegi:id":"21145",
         "wd:id":"Q6119712"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"38b79b72ba781d73f29e2fdd10966fd0",
+    "wof:geomhash":"e18ec58a1d475ca10bf05dce50e14006",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102078305,
-    "wof:lastmodified":1690846860,
+    "wof:lastmodified":1695886924,
     "wof:name":"San Sebasti\u00e1n Tlacotepec",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

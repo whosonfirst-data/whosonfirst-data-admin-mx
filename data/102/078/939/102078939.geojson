@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221821,
-    "geom:area_square_m":2445973455.002012,
+    "geom:area_square_m":2445973454.995916,
     "geom:bbox":"-99.7701314949,26.5476420909,-99.1673132957,27.2944481925",
     "geom:latitude":26.904053,
     "geom:longitude":-99.482652,
@@ -318,8 +318,12 @@
         "hasc:id":"MX.TM.GR",
         "inegi:id":"28014"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2e623479f87d4b78c22a911234c698ec",
+    "wof:geomhash":"f5f627352325316f83bcd77a9fcf8df3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -329,7 +333,7 @@
         }
     ],
     "wof:id":102078939,
-    "wof:lastmodified":1566615525,
+    "wof:lastmodified":1695886905,
     "wof:name":"Guerrero",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

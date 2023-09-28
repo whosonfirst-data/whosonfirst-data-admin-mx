@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049068,
-    "geom:area_square_m":570075064.153522,
+    "geom:area_square_m":570075064.152723,
     "geom:bbox":"-99.7364591661,19.8528732567,-99.4326922014,20.1808205439",
     "geom:latitude":20.019103,
     "geom:longitude":-99.596569,
@@ -84,8 +84,12 @@
         "hasc:id":"MX.MX.JI",
         "inegi:id":"15045"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2da2b44a5ab32f92778c7dac221cc614",
+    "wof:geomhash":"b4d9ba138f8a06c53882558b9bd5b8ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":102074131,
-    "wof:lastmodified":1566615916,
+    "wof:lastmodified":1695886029,
     "wof:name":"Jilotepec",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

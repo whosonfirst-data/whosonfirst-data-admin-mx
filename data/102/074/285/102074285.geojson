@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025471,
-    "geom:area_square_m":298540913.480781,
+    "geom:area_square_m":298540913.480768,
     "geom:bbox":"-99.3801398695,18.4509992526,-99.1759230542,18.7243600193",
     "geom:latitude":18.57779,
     "geom:longitude":-99.285674,
@@ -91,8 +91,12 @@
         "inegi:id":"17017",
         "wd:id":"Q6091388"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1e31b1b3eb13f22f24d1a8b942e7951a",
+    "wof:geomhash":"765d681feac49ffccddf8fa851c06cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":102074285,
-    "wof:lastmodified":1566615951,
+    "wof:lastmodified":1695886053,
     "wof:name":"Puente de Ixtla",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

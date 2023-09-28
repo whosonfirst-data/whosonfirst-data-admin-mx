@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087664,
-    "geom:area_square_m":1022791158.21838,
+    "geom:area_square_m":1022791288.462585,
     "geom:bbox":"-101.355822,19.169491,-101.000421,19.538875",
     "geom:latitude":19.342468,
     "geom:longitude":-101.170218,
@@ -126,8 +126,12 @@
         "inegi:id":"16049",
         "wd:id":"Q6162251"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4dbcc8df5b17d0cf1ee89941d78d9732",
+    "wof:geomhash":"ece04af227e226c7e45b2e34ee9c1f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":102074957,
-    "wof:lastmodified":1690847084,
+    "wof:lastmodified":1695886027,
     "wof:name":"Madero",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

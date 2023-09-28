@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008626,
-    "geom:area_square_m":101833719.680961,
+    "geom:area_square_m":101833366.091251,
     "geom:bbox":"-96.965605,17.247067,-96.810884,17.384137",
     "geom:latitude":17.309749,
     "geom:longitude":-96.873596,
@@ -116,8 +116,12 @@
         "inegi:id":"20294",
         "wd:id":"Q3845842"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"751cda46cc320c32d647453f95cf4ffd",
+    "wof:geomhash":"ccc61e274147ccf81a8d0262fbbfd638",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075899,
-    "wof:lastmodified":1690847228,
+    "wof:lastmodified":1695886154,
     "wof:name":"San Pablo Huitzo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

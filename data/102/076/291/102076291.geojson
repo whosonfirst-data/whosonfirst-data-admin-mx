@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00487,
-    "geom:area_square_m":57730637.359185,
+    "geom:area_square_m":57730637.359225,
     "geom:bbox":"-98.2928294919,16.5103166636,-98.1881191763,16.5898894558",
     "geom:latitude":16.542123,
     "geom:longitude":-98.236804,
@@ -104,8 +104,12 @@
         "inegi:id":"20056",
         "wd:id":"Q3891781"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8d2c71bd4a8772a2e63a45aafdd8853a",
+    "wof:geomhash":"2f85a22a9caca09abdabf8737260dd7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102076291,
-    "wof:lastmodified":1566615498,
+    "wof:lastmodified":1695886900,
     "wof:name":"M\u00e1rtires de Tacubaya",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

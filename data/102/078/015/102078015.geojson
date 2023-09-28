@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033682,
-    "geom:area_square_m":395145427.43153,
+    "geom:area_square_m":395145581.155532,
     "geom:bbox":"-97.322539,18.338081,-96.925949,18.531916",
     "geom:latitude":18.421567,
     "geom:longitude":-97.125611,
@@ -140,8 +140,12 @@
         "inegi:id":"21010",
         "wd:id":"Q4699520"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"be3da67fa7e5125d3813781e4fc73417",
+    "wof:geomhash":"d91fc79ee4608c9a42572c596cadbeda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":102078015,
-    "wof:lastmodified":1690846810,
+    "wof:lastmodified":1695886908,
     "wof:name":"Ajalpan",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

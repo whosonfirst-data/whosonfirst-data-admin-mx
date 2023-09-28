@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.450147,
-    "geom:area_square_m":5156080961.002604,
+    "geom:area_square_m":5156080961.001833,
     "geom:bbox":"-105.054219366,21.4603677822,-104.284478819,22.6511385735",
     "geom:latitude":22.129071,
     "geom:longitude":-104.657109,
@@ -90,8 +90,12 @@
         "hasc:id":"MX.NA.DE",
         "inegi:id":"18009"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"74de401b5a0b199ebf2b9a8c482931ce",
+    "wof:geomhash":"4f7481f072e55e7709939cbb9702b7d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":102074565,
-    "wof:lastmodified":1566615930,
+    "wof:lastmodified":1695886039,
     "wof:name":"Del Nayar",
     "wof:parent_id":85686591,
     "wof:placetype":"county",

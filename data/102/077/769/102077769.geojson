@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049505,
-    "geom:area_square_m":580387890.377696,
+    "geom:area_square_m":580387584.48897,
     "geom:bbox":"-95.765559,18.334524,-95.502982,18.707309",
     "geom:latitude":18.533699,
     "geom:longitude":-95.622983,
@@ -119,8 +119,12 @@
         "inegi:id":"30178",
         "wd:id":"Q20165790"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0001f71e46f1684c61c3b10fdbc21f47",
+    "wof:geomhash":"b822f8b3c67778337a0c397770b8c796",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077769,
-    "wof:lastmodified":1690846653,
+    "wof:lastmodified":1695886873,
     "wof:name":"Tlacotalpan",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

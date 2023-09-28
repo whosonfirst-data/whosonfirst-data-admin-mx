@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014996,
-    "geom:area_square_m":173824627.552115,
+    "geom:area_square_m":173824407.418974,
     "geom:bbox":"-98.115646,20.294356,-97.876243,20.466811",
     "geom:latitude":20.377743,
     "geom:longitude":-97.996198,
@@ -115,8 +115,12 @@
         "inegi:id":"21178",
         "wd:id":"Q6147689"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d1250b4ccd5699dc6ae3b11ad0bed4fa",
+    "wof:geomhash":"9d981d888242e316ef3ff44515986fa6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":102078377,
-    "wof:lastmodified":1690846838,
+    "wof:lastmodified":1695886916,
     "wof:name":"Tlacuilotepec",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

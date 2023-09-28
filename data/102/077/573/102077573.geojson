@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006252,
-    "geom:area_square_m":72943016.326864,
+    "geom:area_square_m":72942901.390892,
     "geom:bbox":"-96.825187,19.266947,-96.694768,19.40322",
     "geom:latitude":19.339528,
     "geom:longitude":-96.755798,
@@ -119,8 +119,12 @@
         "inegi:id":"30088",
         "wd:id":"Q3845106"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"427a801cc036859c35ccea7add2b0067",
+    "wof:geomhash":"347d6f02d3ab74a6816fc8c3d156cccb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077573,
-    "wof:lastmodified":1690846648,
+    "wof:lastmodified":1695886871,
     "wof:name":"Jalcomulco",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

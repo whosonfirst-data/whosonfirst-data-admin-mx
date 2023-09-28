@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170556,
-    "geom:area_square_m":1909082215.806741,
+    "geom:area_square_m":1909082007.569947,
     "geom:bbox":"-108.384781,24.785141,-107.895094,25.450533",
     "geom:latitude":25.146097,
     "geom:longitude":-108.141463,
@@ -147,8 +147,12 @@
         "inegi:id":"25002",
         "wd:id":"Q2038545"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6fa787f129f74b1959f3eab77f04bbe6",
+    "wof:geomhash":"31a5f009c6745a055b6fb25980d649cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -158,7 +162,7 @@
         }
     ],
     "wof:id":102074341,
-    "wof:lastmodified":1690847071,
+    "wof:lastmodified":1695886017,
     "wof:name":"Angostura",
     "wof:parent_id":85686535,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076694,
-    "geom:area_square_m":872913390.819682,
+    "geom:area_square_m":872913390.819436,
     "geom:bbox":"-99.1481419046,22.7986783531,-98.7631455304,23.1743114427",
     "geom:latitude":23.00571,
     "geom:longitude":-98.931516,
@@ -79,8 +79,12 @@
         "hasc:id":"MX.TM.XI",
         "inegi:id":"28043"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"94952eb030ff3671953bfa19bedbb2eb",
+    "wof:geomhash":"aba22528449ccf4421866198623bc78a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":102078951,
-    "wof:lastmodified":1566615596,
+    "wof:lastmodified":1695886923,
     "wof:name":"Xicot\u00e9ncatl",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

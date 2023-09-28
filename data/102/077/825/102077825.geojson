@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031783,
-    "geom:area_square_m":373585682.392714,
+    "geom:area_square_m":373585970.810617,
     "geom:bbox":"-94.282428,17.966044,-94.0614,18.213457",
     "geom:latitude":18.08487,
     "geom:longitude":-94.160762,
@@ -137,8 +137,12 @@
         "inegi:id":"30204",
         "wd:id":"Q3891319"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9f8c3a18c8ad083a6417713c996e9fc3",
+    "wof:geomhash":"477c60b60cdc12d7294a5db7d94d74fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":102077825,
-    "wof:lastmodified":1690846672,
+    "wof:lastmodified":1695886881,
     "wof:name":"Agua Dulce",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

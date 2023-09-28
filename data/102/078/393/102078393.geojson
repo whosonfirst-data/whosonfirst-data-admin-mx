@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007176,
-    "geom:area_square_m":84047752.438665,
+    "geom:area_square_m":84047752.438809,
     "geom:bbox":"-98.584428666,18.6408448891,-98.4765586484,18.7489767193",
     "geom:latitude":18.689965,
     "geom:longitude":-98.536197,
@@ -93,8 +93,12 @@
         "hasc:id":"MX.PU.UR",
         "inegi:id":"21185"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e3f12565afe75ef8ed7dfb2768e32b3e",
+    "wof:geomhash":"674755215083b7796b0d019ca2868e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":102078393,
-    "wof:lastmodified":1566615595,
+    "wof:lastmodified":1695886923,
     "wof:name":"Tlapanal\u00e1",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039157,
-    "geom:area_square_m":454654337.698961,
+    "geom:area_square_m":454654188.99828,
     "geom:bbox":"-99.986464,19.999021,-99.670345,20.272462",
     "geom:latitude":20.115676,
     "geom:longitude":-99.833347,
@@ -152,8 +152,12 @@
         "inegi:id":"15003",
         "wd:id":"Q2278207"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"699af8ab5fe2ef9c757a3ab03c04984a",
+    "wof:geomhash":"c9aaa8481d78b41f2decac55adbdf769",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":102074221,
-    "wof:lastmodified":1690847050,
+    "wof:lastmodified":1695886001,
     "wof:name":"Aculco",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

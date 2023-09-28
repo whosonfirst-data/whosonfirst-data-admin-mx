@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026298,
-    "geom:area_square_m":289888085.762308,
+    "geom:area_square_m":289888756.980305,
     "geom:bbox":"-101.868985,26.82984,-101.650012,27.04245",
     "geom:latitude":26.939833,
     "geom:longitude":-101.756494,
@@ -148,8 +148,12 @@
         "inegi:id":"05029",
         "wd:id":"Q3849700"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8e94e435a79b72be8dc679df48fb8ac6",
+    "wof:geomhash":"f41efbad7d272fd2962ca8e3608ff393",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":102078813,
-    "wof:lastmodified":1690846872,
+    "wof:lastmodified":1695886507,
     "wof:name":"Sacramento",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

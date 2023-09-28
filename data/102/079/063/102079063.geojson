@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037658,
-    "geom:area_square_m":433446146.077324,
+    "geom:area_square_m":433446146.07755,
     "geom:bbox":"-88.9714464758,21.3388873087,-88.4114347017,21.5426035721",
     "geom:latitude":21.433613,
     "geom:longitude":-88.668376,
@@ -110,8 +110,12 @@
         "inegi:id":"31028",
         "wd:id":"Q2577531"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d5fdd85bc634711ff07a3384b97c6839",
+    "wof:geomhash":"269292e17100b567c345e21324fa03c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102079063,
-    "wof:lastmodified":1566615277,
+    "wof:lastmodified":1695886852,
     "wof:name":"Dzilam de Bravo",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

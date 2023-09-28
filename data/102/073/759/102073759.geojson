@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00973,
-    "geom:area_square_m":113522797.009086,
+    "geom:area_square_m":113522797.008858,
     "geom:bbox":"-99.139894,19.284956,-98.960448,19.400736",
     "geom:latitude":19.349163,
     "geom:longitude":-99.056799,
@@ -164,11 +164,15 @@
         "inegi:id":"09007",
         "wd:id":"Q741771"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         890535765
     ],
     "wof:country":"MX",
-    "wof:geomhash":"a67bf479f730e409c4483e74beb5ff36",
+    "wof:geomhash":"2d2b6d501aabec244fe6cf071b451d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":102073759,
-    "wof:lastmodified":1690847017,
+    "wof:lastmodified":1695886607,
     "wof:name":"Iztapalapa",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

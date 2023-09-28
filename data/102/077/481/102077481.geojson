@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04426,
-    "geom:area_square_m":519604031.5921,
+    "geom:area_square_m":519604031.592096,
     "geom:bbox":"-96.1882820418,18.1316185457,-95.765363537,18.4321208169",
     "geom:latitude":18.301893,
     "geom:longitude":-95.972786,
@@ -94,8 +94,12 @@
         "inegi:id":"30045",
         "wd:id":"Q5655703"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d15316e4f11c01357e3f59e14e8e8660",
+    "wof:geomhash":"1ffe09447cb7ce6757621cf0c4ec1b56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":102077481,
-    "wof:lastmodified":1566615386,
+    "wof:lastmodified":1695886879,
     "wof:name":"Cosamaloapan de Carpio",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20833,
-    "geom:area_square_m":2311673712.918527,
+    "geom:area_square_m":2311673357.884935,
     "geom:bbox":"-105.956326,25.825091,-105.378797,26.542898",
     "geom:latitude":26.184115,
     "geom:longitude":-105.672447,
@@ -133,8 +133,12 @@
         "hasc:id":"MX.DU.SB",
         "inegi:id":"10025"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"caa227f32da95650b504334d167d6818",
+    "wof:geomhash":"6a5b582ba7c6e67380408af7d7596383",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":102075193,
-    "wof:lastmodified":1636492176,
+    "wof:lastmodified":1695886522,
     "wof:name":"San Bernardo",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

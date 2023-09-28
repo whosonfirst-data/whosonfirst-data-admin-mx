@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004101,
-    "geom:area_square_m":48865987.986921,
+    "geom:area_square_m":48865903.248775,
     "geom:bbox":"-92.250899,15.459898,-92.1858,15.559272",
     "geom:latitude":15.512997,
     "geom:longitude":-92.218401,
@@ -126,8 +126,12 @@
         "inegi:id":"07036",
         "wd:id":"Q1785311"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d40e26a41dc91ee57710dbd8377dfea5",
+    "wof:geomhash":"b16753842abb7a40609189c8480ad1be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":102075757,
-    "wof:lastmodified":1690847202,
+    "wof:lastmodified":1695886133,
     "wof:name":"La Grandeza",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001845,
-    "geom:area_square_m":21551209.022137,
+    "geom:area_square_m":21551104.753075,
     "geom:bbox":"-98.374561,19.133134,-98.318169,19.192014",
     "geom:latitude":19.156497,
     "geom:longitude":-98.342842,
@@ -113,8 +113,12 @@
         "inegi:id":"21181",
         "wd:id":"Q7810705"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7c0e5effb23a978cb8d6b8125fc7e042",
+    "wof:geomhash":"5a60e7d1e171684dee2b4a4ba2cb71e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102078383,
-    "wof:lastmodified":1690846837,
+    "wof:lastmodified":1695886916,
     "wof:name":"Tlaltenango",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

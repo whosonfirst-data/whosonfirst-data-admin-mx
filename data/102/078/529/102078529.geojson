@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017208,
-    "geom:area_square_m":198831662.284733,
+    "geom:area_square_m":198831552.532456,
     "geom:bbox":"-98.862631,20.72122,-98.692829,20.976045",
     "geom:latitude":20.864388,
     "geom:longitude":-98.776416,
@@ -82,8 +82,12 @@
         "inegi:id":"13042",
         "wd:id":"Q27796607"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5b25c874deb7f3bc0a086126f9a02407",
+    "wof:geomhash":"8dd706f10fd51c8b4b9fc228312cd1d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":102078529,
-    "wof:lastmodified":1690846843,
+    "wof:lastmodified":1695886918,
     "wof:name":"Molango de Escamilla",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

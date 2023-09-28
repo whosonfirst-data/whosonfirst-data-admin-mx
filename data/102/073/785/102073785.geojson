@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061361,
-    "geom:area_square_m":723097963.658274,
+    "geom:area_square_m":723097293.117543,
     "geom:bbox":"-99.959157,17.467661,-99.616232,17.801205",
     "geom:latitude":17.631936,
     "geom:longitude":-99.795794,
@@ -121,8 +121,12 @@
         "inegi:id":"12040",
         "wd:id":"Q2652080"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e76e457a65fc2a3cbd3bb489fb101d4c",
+    "wof:geomhash":"40a5a0fe5fb7b1407639af7cf2bdfd27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102073785,
-    "wof:lastmodified":1690847009,
+    "wof:lastmodified":1695885971,
     "wof:name":"Leonardo Bravo",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

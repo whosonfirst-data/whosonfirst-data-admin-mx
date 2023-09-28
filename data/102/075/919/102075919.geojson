@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003479,
-    "geom:area_square_m":41165134.228272,
+    "geom:area_square_m":41165097.968722,
     "geom:bbox":"-96.971571,16.864193,-96.847844,16.944889",
     "geom:latitude":16.896345,
     "geom:longitude":-96.908752,
@@ -113,8 +113,12 @@
         "inegi:id":"20048",
         "wd:id":"Q3305435"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c806f965b9b54d765528d3e5acfab974",
+    "wof:geomhash":"10cb8f58a9f630233775c52687e49448",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102075919,
-    "wof:lastmodified":1690847238,
+    "wof:lastmodified":1695886161,
     "wof:name":"Magdalena Mixtepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037043,
-    "geom:area_square_m":431279797.754702,
+    "geom:area_square_m":431279645.963292,
     "geom:bbox":"-104.165536,19.566156,-103.861479,19.807273",
     "geom:latitude":19.681222,
     "geom:longitude":-104.03316,
@@ -134,8 +134,12 @@
         "inegi:id":"14106",
         "wd:id":"Q2918021"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a3f486da6640dbadca85785c21118f91",
+    "wof:geomhash":"037b75a18fcf404a739555f8fbb6f411",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102074843,
-    "wof:lastmodified":1690847055,
+    "wof:lastmodified":1695886005,
     "wof:name":"Tuxcacuesco",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

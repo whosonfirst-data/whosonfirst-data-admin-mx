@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.501976,
-    "geom:area_square_m":5722884013.168536,
+    "geom:area_square_m":5722884013.169965,
     "geom:bbox":"-104.353533039,22.1668824296,-103.191954097,23.1638249956",
     "geom:latitude":22.778996,
     "geom:longitude":-103.752819,
@@ -732,8 +732,12 @@
         "hasc:id":"MX.ZA.VA",
         "inegi:id":"32049"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"827d6f7e54acb29077b3b1d26e2d119d",
+    "wof:geomhash":"431c540d205f0b88086e39649f630bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -743,7 +747,7 @@
         }
     ],
     "wof:id":102075479,
-    "wof:lastmodified":1566616073,
+    "wof:lastmodified":1695886101,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

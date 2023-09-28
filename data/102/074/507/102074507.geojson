@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.490007,
-    "geom:area_square_m":15667474416.570688,
+    "geom:area_square_m":15667474030.176149,
     "geom:bbox":"-115.882242,28.57726,-112.755555,32.718654",
     "geom:latitude":31.73902,
     "geom:longitude":-115.164096,
@@ -177,8 +177,12 @@
         "inegi:id":"02002",
         "wd:id":"Q1477270"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d9c1ebea0adab5540a142259f3991d27",
+    "wof:geomhash":"36cce763aa81327d8dc606d32a467413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -188,7 +192,7 @@
         }
     ],
     "wof:id":102074507,
-    "wof:lastmodified":1690847091,
+    "wof:lastmodified":1695886033,
     "wof:name":"Mexicali",
     "wof:parent_id":85686541,
     "wof:placetype":"county",

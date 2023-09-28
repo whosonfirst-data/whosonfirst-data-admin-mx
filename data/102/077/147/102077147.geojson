@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219399,
-    "geom:area_square_m":2498499784.255086,
+    "geom:area_square_m":2498499784.25463,
     "geom:bbox":"-102.260050972,22.6504103181,-101.446269927,23.1583183999",
     "geom:latitude":22.932418,
     "geom:longitude":-101.916313,
@@ -95,8 +95,12 @@
         "inegi:id":"24049",
         "wd:id":"Q3311886"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"36482ec5229a6dc41a00146b2e7f1899",
+    "wof:geomhash":"47b5e0303262ae9b87c819eb42e33470",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102077147,
-    "wof:lastmodified":1566615426,
+    "wof:lastmodified":1695886889,
     "wof:name":"Villa de Ramos",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

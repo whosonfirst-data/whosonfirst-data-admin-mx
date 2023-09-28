@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083735,
-    "geom:area_square_m":967046641.113426,
+    "geom:area_square_m":967046610.014886,
     "geom:bbox":"-97.599906,20.727927,-97.218092,21.139432",
     "geom:latitude":20.934794,
     "geom:longitude":-97.411787,
@@ -132,8 +132,12 @@
         "hasc:id":"MX.VE.TU",
         "inegi:id":"30189"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"402da21536c70aee3bdce747fe41e119",
+    "wof:geomhash":"6af10fde5709525c95629d1df0e65f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102077795,
-    "wof:lastmodified":1636492148,
+    "wof:lastmodified":1695886501,
     "wof:name":"Tuxpan",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

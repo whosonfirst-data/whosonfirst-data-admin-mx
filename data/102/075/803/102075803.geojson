@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015703,
-    "geom:area_square_m":186666134.924652,
+    "geom:area_square_m":186665846.236992,
     "geom:bbox":"-95.712105,15.907789,-95.513725,16.06306",
     "geom:latitude":15.97757,
     "geom:longitude":-95.612144,
@@ -120,8 +120,12 @@
         "inegi:id":"20453",
         "wd:id":"Q3889461"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f3d16a9a4dee6e081898b0b73413c4df",
+    "wof:geomhash":"515d85c7ce46979846de0b4f9d33a130",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102075803,
-    "wof:lastmodified":1690847170,
+    "wof:lastmodified":1695886109,
     "wof:name":"Santiago Astata",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

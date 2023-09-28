@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001897,
-    "geom:area_square_m":22504876.064935,
+    "geom:area_square_m":22504876.064911,
     "geom:bbox":"-96.6532491324,16.3296174155,-96.6081363649,16.4191072222",
     "geom:latitude":16.37316,
     "geom:longitude":-96.630976,
@@ -100,8 +100,12 @@
         "hasc:id":"MX.OA.CQ",
         "inegi:id":"20061"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a1f3068c10534c79025c0d75ee147a4c",
+    "wof:geomhash":"f3a88ab390de15abc9f64b6c0341213c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":102076329,
-    "wof:lastmodified":1566615506,
+    "wof:lastmodified":1695886901,
     "wof:name":"Monjas",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

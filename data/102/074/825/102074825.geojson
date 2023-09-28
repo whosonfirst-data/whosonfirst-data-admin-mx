@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054472,
-    "geom:area_square_m":631881436.05739,
+    "geom:area_square_m":631881562.572898,
     "geom:bbox":"-103.422011,20.152605,-103.022948,20.406563",
     "geom:latitude":20.25986,
     "geom:longitude":-103.187911,
@@ -125,8 +125,12 @@
         "inegi:id":"14030",
         "wd:id":"Q5260647"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ecf21c9463d19af564836644ac920e6e",
+    "wof:geomhash":"b487d7506a6d7218819e5b378be57fb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102074825,
-    "wof:lastmodified":1690847109,
+    "wof:lastmodified":1695886055,
     "wof:name":"Chapala",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08714,
-    "geom:area_square_m":1027640782.187231,
+    "geom:area_square_m":1027640502.139951,
     "geom:bbox":"-95.837351,17.234232,-95.181414,17.74117",
     "geom:latitude":17.499269,
     "geom:longitude":-95.49063,
@@ -108,8 +108,12 @@
         "inegi:id":"20498",
         "wd:id":"Q3889983"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bd8358dc8cd6f2c6da1477f5cd4cfbdb",
+    "wof:geomhash":"090030114dd27cb27f715cf23eb2eb56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":102076621,
-    "wof:lastmodified":1642551750,
+    "wof:lastmodified":1695886508,
     "wof:name":"Santiago Yaveo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

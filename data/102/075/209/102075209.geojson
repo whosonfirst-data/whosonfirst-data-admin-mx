@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192799,
-    "geom:area_square_m":2152158699.547104,
+    "geom:area_square_m":2152158699.54675,
     "geom:bbox":"-103.978701567,25.1742335455,-103.336916196,25.7680914453",
     "geom:latitude":25.477645,
     "geom:longitude":-103.685834,
@@ -91,8 +91,12 @@
         "hasc:id":"MX.DU.LE",
         "inegi:id":"10012"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"12eeca1c16a8c94073b0c944c7239e56",
+    "wof:geomhash":"5bc5b5337297d89fe10f71199215854d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":102075209,
-    "wof:lastmodified":1566616189,
+    "wof:lastmodified":1695886146,
     "wof:name":"Lerdo",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

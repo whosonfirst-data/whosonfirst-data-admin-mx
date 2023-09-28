@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003297,
-    "geom:area_square_m":38832398.088692,
+    "geom:area_square_m":38832377.387362,
     "geom:bbox":"-97.777847,17.691786,-97.688681,17.768495",
     "geom:latitude":17.731102,
     "geom:longitude":-97.734447,
@@ -117,8 +117,12 @@
         "inegi:id":"20456",
         "wd:id":"Q3889481"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"453a1d31994f1911d70a91cc5965c68c",
+    "wof:geomhash":"66cfd2b23f00b53804deb511e6f67337",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":102076751,
-    "wof:lastmodified":1690846753,
+    "wof:lastmodified":1695886898,
     "wof:name":"Santiago Cacaloxtepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

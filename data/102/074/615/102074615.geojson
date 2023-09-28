@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039523,
-    "geom:area_square_m":454178925.881314,
+    "geom:area_square_m":454178851.283322,
     "geom:bbox":"-102.747672,21.55852,-102.419628,21.767339",
     "geom:latitude":21.667716,
     "geom:longitude":-102.593593,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.JA.VH",
         "inegi:id":"14116"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2a39e47043510f6716941ad181be02eb",
+    "wof:geomhash":"8fe8a04eddd009c394969ce803dbbee6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102074615,
-    "wof:lastmodified":1625076043,
+    "wof:lastmodified":1695886656,
     "wof:name":"Villa Hidalgo",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

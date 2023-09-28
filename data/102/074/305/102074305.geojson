@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.570162,
-    "geom:area_square_m":6338298972.551929,
+    "geom:area_square_m":6338298972.549854,
     "geom:bbox":"-108.764807041,25.5857964969,-107.489940247,26.4532765849",
     "geom:latitude":25.96879,
     "geom:longitude":-108.11032,
@@ -302,8 +302,12 @@
         "hasc:id":"MX.SI.SN",
         "inegi:id":"25017"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a76e26a40e1204c2dd320dfd4b04ae1e",
+    "wof:geomhash":"9b0d8f42b1adf339dfd79f497520ea85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -313,7 +317,7 @@
         }
     ],
     "wof:id":102074305,
-    "wof:lastmodified":1566615932,
+    "wof:lastmodified":1695886041,
     "wof:name":"Sinaloa",
     "wof:parent_id":85686535,
     "wof:placetype":"county",

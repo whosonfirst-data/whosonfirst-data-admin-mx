@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011314,
-    "geom:area_square_m":133798796.915809,
+    "geom:area_square_m":133798796.915799,
     "geom:bbox":"-97.6382028876,16.9260907449,-97.4639500173,17.0697300075",
     "geom:latitude":16.986833,
     "geom:longitude":-97.562328,
@@ -98,8 +98,12 @@
         "inegi:id":"20026",
         "wd:id":"Q993974"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a01ece7f3ae57325ba4b0fb519972ace",
+    "wof:geomhash":"a0341f3e0f79b55190b2b853afcd5212",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102076269,
-    "wof:lastmodified":1566615460,
+    "wof:lastmodified":1695886895,
     "wof:name":"Chalcatongo de Hidalgo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

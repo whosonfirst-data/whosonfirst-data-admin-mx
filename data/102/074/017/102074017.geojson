@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014384,
-    "geom:area_square_m":167242462.565637,
+    "geom:area_square_m":167242462.565385,
     "geom:bbox":"-99.7895321765,19.7954104246,-99.6402057239,20.0493386892",
     "geom:latitude":19.896346,
     "geom:longitude":-99.718042,
@@ -126,8 +126,12 @@
         "inegi:id":"15102",
         "wd:id":"Q3300331"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"21443571b29be3016c2b3bb44452534d",
+    "wof:geomhash":"9e93528b5503bae7aeacb8d0699d9613",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":102074017,
-    "wof:lastmodified":1566615953,
+    "wof:lastmodified":1695886054,
     "wof:name":"Timilpan",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

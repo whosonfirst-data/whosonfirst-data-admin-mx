@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05345,
-    "geom:area_square_m":621259313.841325,
+    "geom:area_square_m":621259105.012746,
     "geom:bbox":"-103.897176,19.800225,-103.621477,20.092909",
     "geom:latitude":19.948239,
     "geom:longitude":-103.765471,
@@ -122,8 +122,12 @@
         "inegi:id":"14086",
         "wd:id":"Q20291006"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c5fa620173a11c1fdaf78de00f5fbd58",
+    "wof:geomhash":"41a470c9784129c007741c27e2a2fa6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102074741,
-    "wof:lastmodified":1690847082,
+    "wof:lastmodified":1695886655,
     "wof:name":"Tapalpa",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

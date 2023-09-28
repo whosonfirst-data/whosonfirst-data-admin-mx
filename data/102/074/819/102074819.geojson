@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159679,
-    "geom:area_square_m":1848467327.675847,
+    "geom:area_square_m":1848467162.425472,
     "geom:bbox":"-105.175289,20.266086,-104.531531,20.84059",
     "geom:latitude":20.578946,
     "geom:longitude":-104.81406,
@@ -137,8 +137,12 @@
         "inegi:id":"14058",
         "wd:id":"Q3056144"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ef94ff31d19a5483aa1da2c6081992c4",
+    "wof:geomhash":"31c4c59d2ab9fd69e289ce4e4bc4e0a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":102074819,
-    "wof:lastmodified":1690847052,
+    "wof:lastmodified":1695886003,
     "wof:name":"Mascota",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

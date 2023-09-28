@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10723,
-    "geom:area_square_m":1184279474.581682,
+    "geom:area_square_m":1184279391.822924,
     "geom:bbox":"-105.794261,26.508651,-105.321218,26.91527",
     "geom:latitude":26.725057,
     "geom:longitude":-105.522918,
@@ -119,8 +119,12 @@
         "inegi:id":"08044",
         "wd:id":"Q1908081"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9e94dac03edea101491f12a42a10afdd",
+    "wof:geomhash":"c0cca21dc1d6de3adbc9790d19bca908",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102075341,
-    "wof:lastmodified":1690847180,
+    "wof:lastmodified":1695886116,
     "wof:name":"Matamoros",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082276,
-    "geom:area_square_m":917680028.441184,
+    "geom:area_square_m":917680028.441166,
     "geom:bbox":"-100.7297729,25.4135286627,-100.238720651,25.750043059",
     "geom:latitude":25.57461,
     "geom:longitude":-100.483863,
@@ -148,8 +148,12 @@
         "hasc:id":"MX.NL.SC",
         "inegi:id":"19048"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"005bce97a71108b9fd26869a86380394",
+    "wof:geomhash":"f11947d1c5f6ac69ab95a1548424852b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":102078685,
-    "wof:lastmodified":1566615605,
+    "wof:lastmodified":1695886925,
     "wof:name":"Santa Catarina",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

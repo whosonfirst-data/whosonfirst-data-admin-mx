@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007108,
-    "geom:area_square_m":83692144.226925,
+    "geom:area_square_m":83692082.160223,
     "geom:bbox":"-96.942178,17.750757,-96.81274,17.832654",
     "geom:latitude":17.793679,
     "geom:longitude":-96.875264,
@@ -110,8 +110,12 @@
         "inegi:id":"20527",
         "wd:id":"Q3887656"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f91c882ce25b23a4d231e84bd58c360f",
+    "wof:geomhash":"47de42eea59576ab78b47cd218b3e79f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102076219,
-    "wof:lastmodified":1690846722,
+    "wof:lastmodified":1695886641,
     "wof:name":"Santos Reyes P\u00e1palo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

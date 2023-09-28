@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001998,
-    "geom:area_square_m":23373893.43046,
+    "geom:area_square_m":23373893.430453,
     "geom:bbox":"-97.8568973939,18.8934531325,-97.785844356,18.9625849854",
     "geom:latitude":18.920187,
     "geom:longitude":-97.826375,
@@ -98,8 +98,12 @@
         "inegi:id":"21038",
         "wd:id":"Q5191855"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cc0c9b1e14e5405e8b4e62430add1abd",
+    "wof:geomhash":"105b0436ad1f2e84c1d3a43553b39672",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102078075,
-    "wof:lastmodified":1566615611,
+    "wof:lastmodified":1695886927,
     "wof:name":"Cuapiaxtla de Madero",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036269,
-    "geom:area_square_m":421463269.718891,
+    "geom:area_square_m":421463122.49735,
     "geom:bbox":"-98.620577,19.868569,-98.358175,20.126572",
     "geom:latitude":19.987603,
     "geom:longitude":-98.495461,
@@ -110,8 +110,12 @@
         "inegi:id":"13057",
         "wd:id":"Q3845448"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e457f7726ac03af8cc5c1ec027605842",
+    "wof:geomhash":"4eba6e35ed30f3d968b6018ff233d1be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102078553,
-    "wof:lastmodified":1690846860,
+    "wof:lastmodified":1695886924,
     "wof:name":"Singuilucan",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

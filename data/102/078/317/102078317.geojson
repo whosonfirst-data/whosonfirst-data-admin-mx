@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015453,
-    "geom:area_square_m":180927067.379461,
+    "geom:area_square_m":180927067.379563,
     "geom:bbox":"-98.2409993459,18.670345017,-98.0657363595,18.8448862689",
     "geom:latitude":18.757176,
     "geom:longitude":-98.156965,
@@ -94,8 +94,12 @@
         "hasc:id":"MX.PU.HE",
         "inegi:id":"21150"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2a85a0ea2d031716d79a1def265b3321",
+    "wof:geomhash":"a24020035c5b28f7d6a5c27f0d44dfa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":102078317,
-    "wof:lastmodified":1566615642,
+    "wof:lastmodified":1695886939,
     "wof:name":"Huehuetl\u00e1n el Grande",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

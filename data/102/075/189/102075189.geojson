@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.613482,
-    "geom:area_square_m":6961256627.38002,
+    "geom:area_square_m":6961256627.379448,
     "geom:bbox":"-105.797383587,22.9413301685,-104.755192088,23.967688225",
     "geom:latitude":23.411442,
     "geom:longitude":-105.314266,
@@ -122,8 +122,12 @@
         "inegi:id":"10023",
         "wd:id":"Q412427"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3540d0acb7b0d8ff3e41d9173da93deb",
+    "wof:geomhash":"8dff05f0af8c682dd58f5f629cb7fe2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102075189,
-    "wof:lastmodified":1566616109,
+    "wof:lastmodified":1695886117,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

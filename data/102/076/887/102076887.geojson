@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003906,
-    "geom:area_square_m":46099864.619089,
+    "geom:area_square_m":46099996.359377,
     "geom:bbox":"-97.443071,17.308267,-97.338857,17.365215",
     "geom:latitude":17.337349,
     "geom:longitude":-97.391304,
@@ -113,8 +113,12 @@
         "inegi:id":"20331",
         "wd:id":"Q7415140"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fc77f569c27808003c3c8bde83f9369d",
+    "wof:geomhash":"700b75ee479250da61004cce30dd4352",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076887,
-    "wof:lastmodified":1690846720,
+    "wof:lastmodified":1695886893,
     "wof:name":"San Pedro Tida\u00e1",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

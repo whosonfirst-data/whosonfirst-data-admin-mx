@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075778,
-    "geom:area_square_m":844117014.788013,
+    "geom:area_square_m":844116884.243491,
     "geom:bbox":"-103.690469,25.535577,-103.318588,25.887997",
     "geom:latitude":25.727977,
     "geom:longitude":-103.490632,
@@ -130,8 +130,12 @@
         "inegi:id":"10007",
         "wd:id":"Q2351085"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"750db4ea731c53d9630e044744812450",
+    "wof:geomhash":"949be3766775f0fcba50efa7b75dc9d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":102075131,
-    "wof:lastmodified":1690847195,
+    "wof:lastmodified":1695886127,
     "wof:name":"G\u00f3mez Palacio",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

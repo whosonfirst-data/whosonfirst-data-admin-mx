@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007894,
-    "geom:area_square_m":94388985.761264,
+    "geom:area_square_m":94388705.266691,
     "geom:bbox":"-92.268126,14.696589,-92.155535,14.809356",
     "geom:latitude":14.750009,
     "geom:longitude":-92.213199,
@@ -135,8 +135,12 @@
         "inegi:id":"07035",
         "wd:id":"Q951899"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6cd9ab3a7790ca53e89deab997f02b7d",
+    "wof:geomhash":"836421bcd5a1980948ef508c31254133",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":102075573,
-    "wof:lastmodified":1690847191,
+    "wof:lastmodified":1695886125,
     "wof:name":"Frontera Hidalgo",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

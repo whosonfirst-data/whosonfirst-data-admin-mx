@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005421,
-    "geom:area_square_m":64381525.512213,
+    "geom:area_square_m":64381519.555134,
     "geom:bbox":"-96.378463,16.124555,-96.250107,16.226929",
     "geom:latitude":16.175974,
     "geom:longitude":-96.314414,
@@ -113,8 +113,12 @@
         "inegi:id":"20512",
         "wd:id":"Q3892629"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0f2071b3c4be4cb316b6ed0c68967051",
+    "wof:geomhash":"dd27e56a29c55cb576ae4a5ed7fd2446",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076637,
-    "wof:lastmodified":1690846775,
+    "wof:lastmodified":1695886900,
     "wof:name":"Santo Domingo Ozolotepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

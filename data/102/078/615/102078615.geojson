@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003655,
-    "geom:area_square_m":42440086.523233,
+    "geom:area_square_m":42440012.99527,
     "geom:bbox":"-99.291344,20.064395,-99.178399,20.127739",
     "geom:latitude":20.097122,
     "geom:longitude":-99.237049,
@@ -116,8 +116,12 @@
         "inegi:id":"13074",
         "wd:id":"Q2882111"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c1a889097588648e76bf13d2f69ba300",
+    "wof:geomhash":"d7f78df5185c0b27b9bab31661b8ce72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102078615,
-    "wof:lastmodified":1690846870,
+    "wof:lastmodified":1695886928,
     "wof:name":"Tlaxcoapan",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

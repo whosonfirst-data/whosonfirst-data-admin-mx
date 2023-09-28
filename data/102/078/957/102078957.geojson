@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107215,
-    "geom:area_square_m":1212195825.181568,
+    "geom:area_square_m":1212195825.181721,
     "geom:bbox":"-99.4869398575,23.6767629309,-98.7346199002,24.0969279908",
     "geom:latitude":23.885477,
     "geom:longitude":-99.086707,
@@ -88,8 +88,12 @@
         "hasc:id":"MX.TM.GU",
         "inegi:id":"28013"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c551568f60edd5638c51269732252daf",
+    "wof:geomhash":"b70f5421f91f2163838e2dc7a6955dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102078957,
-    "wof:lastmodified":1566615583,
+    "wof:lastmodified":1695886920,
     "wof:name":"G\u00fc\u00e9mez",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

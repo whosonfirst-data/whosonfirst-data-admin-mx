@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026797,
-    "geom:area_square_m":317086544.47279,
+    "geom:area_square_m":317086465.908421,
     "geom:bbox":"-95.976491,16.737619,-95.777643,17.000182",
     "geom:latitude":16.87466,
     "geom:longitude":-95.891036,
@@ -113,8 +113,12 @@
         "inegi:id":"20200",
         "wd:id":"Q3038784"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5eda712944a26f0dfba11fd3275c7fa9",
+    "wof:geomhash":"28850922a9cda00654f53db5df58363f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076417,
-    "wof:lastmodified":1690846762,
+    "wof:lastmodified":1695886899,
     "wof:name":"San Juan Juquila Mixes",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

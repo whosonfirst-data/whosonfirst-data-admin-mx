@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011282,
-    "geom:area_square_m":131658548.456455,
+    "geom:area_square_m":131658607.163381,
     "geom:bbox":"-96.384793,19.220818,-96.221559,19.414344",
     "geom:latitude":19.310049,
     "geom:longitude":-96.309023,
@@ -132,8 +132,12 @@
         "inegi:id":"30016",
         "wd:id":"Q1002990"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"016eb6b05b95954ebbb5256e391d9c11",
+    "wof:geomhash":"f14bcd544c7fa988169fc0e600e76780",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102077419,
-    "wof:lastmodified":1690846662,
+    "wof:lastmodified":1695886877,
     "wof:name":"La Antigua",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

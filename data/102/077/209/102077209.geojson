@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076846,
-    "geom:area_square_m":879404159.922512,
+    "geom:area_square_m":879404159.922498,
     "geom:bbox":"-101.370011144,22.0730157131,-100.965342268,22.4363881928",
     "geom:latitude":22.259043,
     "geom:longitude":-101.156693,
@@ -116,8 +116,12 @@
         "inegi:id":"24021",
         "wd:id":"Q3849201"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fd44582ea0d401a9098077042240161d",
+    "wof:geomhash":"074ca0d9bba9dfc8441603be702fe7e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102077209,
-    "wof:lastmodified":1566615398,
+    "wof:lastmodified":1695886882,
     "wof:name":"Mexquitic de Carmona",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

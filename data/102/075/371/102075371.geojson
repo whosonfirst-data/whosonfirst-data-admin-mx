@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055548,
-    "geom:area_square_m":625270318.32436,
+    "geom:area_square_m":625270318.324243,
     "geom:bbox":"-101.080495133,24.2811958902,-100.742324287,24.5911853152",
     "geom:latitude":24.449658,
     "geom:longitude":-100.904709,
@@ -636,8 +636,12 @@
         "hasc:id":"MX.ZA.SV",
         "inegi:id":"32041"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ebe72464cd1f04fe36577d2ff242cb77",
+    "wof:geomhash":"18668863c42e2b8110ef2b08124519ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -647,7 +651,7 @@
         }
     ],
     "wof:id":102075371,
-    "wof:lastmodified":1566616118,
+    "wof:lastmodified":1695886121,
     "wof:name":"El Salvador",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

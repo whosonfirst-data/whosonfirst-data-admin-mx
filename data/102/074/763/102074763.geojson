@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010238,
-    "geom:area_square_m":118511318.397755,
+    "geom:area_square_m":118511318.397705,
     "geom:bbox":"-103.457787652,20.5385474494,-103.239361255,20.6467176657",
     "geom:latitude":20.59091,
     "geom:longitude":-103.348908,
@@ -144,8 +144,12 @@
         "hasc:id":"MX.JA.TQ",
         "inegi:id":"14098"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e114a1b83a240e38e0b6b2a08e40de48",
+    "wof:geomhash":"1f92c3dd298bb173d78b8401bdd8d23d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":102074763,
-    "wof:lastmodified":1566615807,
+    "wof:lastmodified":1695885987,
     "wof:name":"Tlaquepaque",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

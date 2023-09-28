@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023615,
-    "geom:area_square_m":273130266.598367,
+    "geom:area_square_m":273130266.598399,
     "geom:bbox":"-97.4101857069,20.615632306,-97.1806594517,20.8027538654",
     "geom:latitude":20.71445,
     "geom:longitude":-97.285483,
@@ -93,8 +93,12 @@
         "inegi:id":"30033",
         "wd:id":"Q2448143"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d374509b9c924e320e61c9ce36130811",
+    "wof:geomhash":"609c80dc88532668eb42c7a66f030cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":102077455,
-    "wof:lastmodified":1566615336,
+    "wof:lastmodified":1695886865,
     "wof:name":"Cazones de Herrera",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

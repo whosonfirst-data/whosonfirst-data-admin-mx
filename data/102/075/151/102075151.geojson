@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.311071,
-    "geom:area_square_m":3499805863.16581,
+    "geom:area_square_m":3499805863.16456,
     "geom:bbox":"-105.50074381,24.2144652818,-104.445640122,24.8449665911",
     "geom:latitude":24.511116,
     "geom:longitude":-104.935886,
@@ -93,8 +93,12 @@
         "hasc:id":"MX.DU.CN",
         "inegi:id":"10001"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d43ad6de0d905b2aa87efc4a37dcbea6",
+    "wof:geomhash":"1e7a7c77681c1daa3e2611443efe1ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":102075151,
-    "wof:lastmodified":1566616045,
+    "wof:lastmodified":1695886095,
     "wof:name":"Canatl\u00e1n",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

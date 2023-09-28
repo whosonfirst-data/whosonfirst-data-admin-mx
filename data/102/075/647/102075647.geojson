@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007964,
-    "geom:area_square_m":94360984.113739,
+    "geom:area_square_m":94360917.270351,
     "geom:bbox":"-92.825847,16.56919,-92.616403,16.686581",
     "geom:latitude":16.62247,
     "geom:longitude":-92.723781,
@@ -140,8 +140,12 @@
         "inegi:id":"07110",
         "wd:id":"Q2595433"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"db801c6422104d8c644b8343b225ead8",
+    "wof:geomhash":"58d1c40f6538432376178925dddafa2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":102075647,
-    "wof:lastmodified":1690847210,
+    "wof:lastmodified":1695886139,
     "wof:name":"San Lucas",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

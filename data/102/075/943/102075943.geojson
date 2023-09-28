@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007812,
-    "geom:area_square_m":92495255.963615,
+    "geom:area_square_m":92495255.435103,
     "geom:bbox":"-96.560688,16.663535,-96.454825,16.851696",
     "geom:latitude":16.766334,
     "geom:longitude":-96.507368,
@@ -125,8 +125,12 @@
         "inegi:id":"20112",
         "wd:id":"Q1754432"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d44d9445d710e876b31873c880b57765",
+    "wof:geomhash":"9eba8affc2afebdd45c3b8c7c4f33bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075943,
-    "wof:lastmodified":1690847242,
+    "wof:lastmodified":1695886162,
     "wof:name":"San Baltazar Chichic\u00e1pam",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038105,
-    "geom:area_square_m":441858242.880647,
+    "geom:area_square_m":441858272.364764,
     "geom:bbox":"-104.410182,20.20426,-104.156389,20.436419",
     "geom:latitude":20.318076,
     "geom:longitude":-104.273925,
@@ -191,8 +191,12 @@
         "inegi:id":"14011",
         "wd:id":"Q3316715"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3f1129332d0a3237d297c0f661db047d",
+    "wof:geomhash":"2a63f20a4fac2fd6f95bce7ec593a78d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -202,7 +206,7 @@
         }
     ],
     "wof:id":102074815,
-    "wof:lastmodified":1690847104,
+    "wof:lastmodified":1695886518,
     "wof:name":"Atengo",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

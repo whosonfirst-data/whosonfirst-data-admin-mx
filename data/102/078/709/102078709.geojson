@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.38294,
-    "geom:area_square_m":4274546785.896718,
+    "geom:area_square_m":4274546471.563472,
     "geom:bbox":"-99.461227,25.067134,-98.421576,25.916182",
     "geom:latitude":25.480159,
     "geom:longitude":-98.972409,
@@ -118,8 +118,12 @@
         "inegi:id":"19013",
         "wd:id":"Q942154"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"107764257cd8a97d715cc98097d4cbd9",
+    "wof:geomhash":"55f7151b3dd4502749c936d9448f300a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":102078709,
-    "wof:lastmodified":1690846805,
+    "wof:lastmodified":1695886906,
     "wof:name":"China",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

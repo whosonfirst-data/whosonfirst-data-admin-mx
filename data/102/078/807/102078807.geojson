@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073655,
-    "geom:area_square_m":803670280.485345,
+    "geom:area_square_m":803670280.485632,
     "geom:bbox":"-101.613563289,27.879023015,-101.189773234,28.2395506896",
     "geom:latitude":28.063956,
     "geom:longitude":-101.389759,
@@ -104,8 +104,12 @@
         "inegi:id":"05032",
         "wd:id":"Q430781"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"874ead13dc298086d3e67fafefb95e12",
+    "wof:geomhash":"9a7191cdd4394ca71067216177e43cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102078807,
-    "wof:lastmodified":1566615620,
+    "wof:lastmodified":1695886930,
     "wof:name":"San Juan de Sabinas",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

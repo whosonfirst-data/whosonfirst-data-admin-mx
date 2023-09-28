@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028051,
-    "geom:area_square_m":325283603.899037,
+    "geom:area_square_m":325283456.55794,
     "geom:bbox":"-103.548306,20.167357,-103.28632,20.411336",
     "geom:latitude":20.314511,
     "geom:longitude":-103.417181,
@@ -119,8 +119,12 @@
         "inegi:id":"14050",
         "wd:id":"Q609546"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"58311e70b00f584096f3967aa11244b0",
+    "wof:geomhash":"7b34b704c3aa9f693af0f36ace5700e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102074827,
-    "wof:lastmodified":1690847042,
+    "wof:lastmodified":1695885995,
     "wof:name":"Jocotepec",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

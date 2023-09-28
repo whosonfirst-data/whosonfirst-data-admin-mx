@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036856,
-    "geom:area_square_m":431922414.205269,
+    "geom:area_square_m":431922402.101245,
     "geom:bbox":"-95.504791,18.468892,-95.260435,18.716674",
     "geom:latitude":18.602021,
     "geom:longitude":-95.392328,
@@ -113,8 +113,12 @@
         "inegi:id":"30015",
         "wd:id":"Q3893285"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"612141f6c84158d16c1515b9784b6de5",
+    "wof:geomhash":"45cfe20f6f939da936cd6052d3cd637b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077417,
-    "wof:lastmodified":1690846665,
+    "wof:lastmodified":1695886879,
     "wof:name":"Angel R. Cabada",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

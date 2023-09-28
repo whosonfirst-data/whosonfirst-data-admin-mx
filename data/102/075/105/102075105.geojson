@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0366,
-    "geom:area_square_m":424869983.480541,
+    "geom:area_square_m":424869983.480694,
     "geom:bbox":"-100.39725668,19.9878887064,-100.181136017,20.2980002137",
     "geom:latitude":20.147342,
     "geom:longitude":-100.289342,
@@ -93,8 +93,12 @@
         "hasc:id":"MX.MC.EH",
         "inegi:id":"16031"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7fe83f6b75b4096085e8c169334b1cab",
+    "wof:geomhash":"9721084eebe82e40877adabef7c978f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":102075105,
-    "wof:lastmodified":1566616030,
+    "wof:lastmodified":1695886091,
     "wof:name":"Epitacio Huerta",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

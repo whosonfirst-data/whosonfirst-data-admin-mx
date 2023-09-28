@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005265,
-    "geom:area_square_m":61506740.517264,
+    "geom:area_square_m":61506740.517256,
     "geom:bbox":"-98.0376407927,19.0604421488,-97.954047775,19.2309383823",
     "geom:latitude":19.145224,
     "geom:longitude":-98.003601,
@@ -94,8 +94,12 @@
         "inegi:id":"21163",
         "wd:id":"Q6142090"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5f09d7fe3c152d9c165a631cfb5819a6",
+    "wof:geomhash":"a409a466f4b1d69893617a2242959711",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":102078343,
-    "wof:lastmodified":1566615650,
+    "wof:lastmodified":1695886941,
     "wof:name":"Tepatlaxco de Hidalgo",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

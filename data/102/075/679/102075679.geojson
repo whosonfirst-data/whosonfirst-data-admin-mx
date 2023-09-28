@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024038,
-    "geom:area_square_m":284868275.438012,
+    "geom:area_square_m":284868549.935532,
     "geom:bbox":"-93.240976,16.495615,-93.041879,16.694843",
     "geom:latitude":16.585546,
     "geom:longitude":-93.136332,
@@ -131,8 +131,12 @@
         "inegi:id":"07086",
         "wd:id":"Q2005066"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8f8c01a4e89c3e32616729a090e1d2eb",
+    "wof:geomhash":"b855d2a2a43f7e0c8cf59ccbd865e393",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102075679,
-    "wof:lastmodified":1690847216,
+    "wof:lastmodified":1695886143,
     "wof:name":"Suchiapa",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

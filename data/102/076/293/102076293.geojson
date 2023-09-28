@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015546,
-    "geom:area_square_m":182788146.098203,
+    "geom:area_square_m":182788146.098313,
     "geom:bbox":"-96.9889089343,17.9335773607,-96.8118345191,18.0958034209",
     "geom:latitude":18.029365,
     "geom:longitude":-96.910948,
@@ -98,8 +98,12 @@
         "inegi:id":"20058",
         "wd:id":"Q3891812"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bbf755d12e681d6b0f1e4bc030263942",
+    "wof:geomhash":"ce011a3ec1e69a6d3bcfdaa57eed6f83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102076293,
-    "wof:lastmodified":1566615459,
+    "wof:lastmodified":1695886895,
     "wof:name":"Mazatl\u00e1n Villa de Flores",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

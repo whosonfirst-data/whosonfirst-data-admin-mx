@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006601,
-    "geom:area_square_m":77146716.769497,
+    "geom:area_square_m":77146690.227282,
     "geom:bbox":"-98.40435,19.026018,-98.261043,19.118687",
     "geom:latitude":19.072964,
     "geom:longitude":-98.343131,
@@ -131,8 +131,12 @@
         "inegi:id":"21140",
         "wd:id":"Q1962844"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ecc37abdf0966457d6bde22af9f6eece",
+    "wof:geomhash":"b730690d2ec6b28a7d5996f9a200087f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102078293,
-    "wof:lastmodified":1690846830,
+    "wof:lastmodified":1695886914,
     "wof:name":"San Pedro Cholula",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

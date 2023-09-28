@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006063,
-    "geom:area_square_m":71568960.541983,
+    "geom:area_square_m":71568493.350713,
     "geom:bbox":"-97.769358,17.296005,-97.625923,17.379601",
     "geom:latitude":17.335067,
     "geom:longitude":-97.701295,
@@ -110,8 +110,12 @@
         "inegi:id":"20480",
         "wd:id":"Q3893300"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dbb0d5e2588bba94cc322ae312684c60",
+    "wof:geomhash":"948ecfc02f1f5b8bd0d9b3c82537bf2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102076165,
-    "wof:lastmodified":1690846750,
+    "wof:lastmodified":1695886897,
     "wof:name":"Santiago Nundiche",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

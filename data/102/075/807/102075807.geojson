@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102667,
-    "geom:area_square_m":1219844198.333454,
+    "geom:area_square_m":1219844198.333233,
     "geom:bbox":"-97.7915977305,15.922866916,-97.1789706768,16.2740118602",
     "geom:latitude":16.077682,
     "geom:longitude":-97.537476,
@@ -92,8 +92,12 @@
         "inegi:id":"20334",
         "wd:id":"Q7930550"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ac0cd58c941a6dc176e0b49c4f49869f",
+    "wof:geomhash":"be9abbf9bf3395eae4edf3f18fc446a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102075807,
-    "wof:lastmodified":1566616188,
+    "wof:lastmodified":1695886146,
     "wof:name":"Villa de Tututepec de Melchor Ocampo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

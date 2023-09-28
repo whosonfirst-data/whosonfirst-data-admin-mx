@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007671,
-    "geom:area_square_m":90284693.258772,
+    "geom:area_square_m":90284602.85294,
     "geom:bbox":"-98.349255,17.815441,-98.199176,17.93515",
     "geom:latitude":17.865406,
     "geom:longitude":-98.270718,
@@ -115,8 +115,12 @@
         "inegi:id":"20186",
         "wd:id":"Q3892466"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ff2f5365ad27c8a9d16970e80e0d0ddf",
+    "wof:geomhash":"9de2ab32c6292e75fc1cd365f50ed4f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":102076997,
-    "wof:lastmodified":1690846712,
+    "wof:lastmodified":1695886892,
     "wof:name":"San Juan Cieneguilla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

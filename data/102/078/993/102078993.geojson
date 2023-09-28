@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039404,
-    "geom:area_square_m":453357115.008449,
+    "geom:area_square_m":453356951.168412,
     "geom:bbox":"-88.500519,21.38542,-88.163426,21.604552",
     "geom:latitude":21.493905,
     "geom:longitude":-88.314549,
@@ -142,8 +142,12 @@
         "inegi:id":"31065",
         "wd:id":"Q2669540"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"481009213b06703f6a86eee5cc4d023a",
+    "wof:geomhash":"56564b10f9889b3915c20407fe9ddfbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":102078993,
-    "wof:lastmodified":1690846855,
+    "wof:lastmodified":1695886506,
     "wof:name":"San Felipe",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

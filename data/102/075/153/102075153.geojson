@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079864,
-    "geom:area_square_m":894474182.271644,
+    "geom:area_square_m":894474182.271785,
     "geom:bbox":"-106.710789778,24.9476173938,-106.123043017,25.197196898",
     "geom:latitude":25.072722,
     "geom:longitude":-106.451108,
@@ -106,8 +106,12 @@
         "hasc:id":"MX.DU.CA",
         "inegi:id":"10002"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6002602991c07cd5502a89f8fdb0089a",
+    "wof:geomhash":"fa4db0ba0eab87278470215c16043b11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":102075153,
-    "wof:lastmodified":1566616130,
+    "wof:lastmodified":1695886125,
     "wof:name":"Canelas",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

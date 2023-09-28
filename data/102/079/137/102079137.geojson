@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029357,
-    "geom:area_square_m":338519385.223964,
+    "geom:area_square_m":338519255.575983,
     "geom:bbox":"-89.021434,21.051303,-88.697655,21.294879",
     "geom:latitude":21.167034,
     "geom:longitude":-88.873535,
@@ -127,8 +127,12 @@
         "inegi:id":"31084",
         "wd:id":"Q2588006"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"436e49319fc68c7f656805f2b7096f8e",
+    "wof:geomhash":"839e3a218e3dba71a3fbc663875e43af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102079137,
-    "wof:lastmodified":1690846579,
+    "wof:lastmodified":1695886853,
     "wof:name":"Temax",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117241,
-    "geom:area_square_m":1320086738.751013,
+    "geom:area_square_m":1320086870.344454,
     "geom:bbox":"-104.266957,24.117722,-103.895933,24.683521",
     "geom:latitude":24.412674,
     "geom:longitude":-104.073278,
@@ -222,8 +222,12 @@
         "inegi:id":"10008",
         "wd:id":"Q311425"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ac235a4d37ecaf71cff13497333fa658",
+    "wof:geomhash":"664c352d89d6a26e7d9f23d221a11056",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -233,7 +237,7 @@
         }
     ],
     "wof:id":102075161,
-    "wof:lastmodified":1690847145,
+    "wof:lastmodified":1695886088,
     "wof:name":"Guadalupe Victoria",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001403,
-    "geom:area_square_m":16592331.134803,
+    "geom:area_square_m":16592316.572746,
     "geom:bbox":"-92.743349,16.915995,-92.703815,16.980869",
     "geom:latitude":16.949364,
     "geom:longitude":-92.721549,
@@ -125,8 +125,12 @@
         "inegi:id":"07119",
         "wd:id":"Q3287586"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3f2e04b849413aceb90acbc848b2b645",
+    "wof:geomhash":"64b24f20f953f1aa74ecc06956255cab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075629,
-    "wof:lastmodified":1690847164,
+    "wof:lastmodified":1695886104,
     "wof:name":"Santiago el Pinar",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

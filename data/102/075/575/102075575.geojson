@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064469,
-    "geom:area_square_m":767194795.97056,
+    "geom:area_square_m":767194679.134786,
     "geom:bbox":"-92.248392,15.626631,-91.914584,15.93794",
     "geom:latitude":15.762651,
     "geom:longitude":-92.087767,
@@ -128,8 +128,12 @@
         "inegi:id":"07034",
         "wd:id":"Q651153"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4124782a800c9cad432969b119d2e5b1",
+    "wof:geomhash":"c1e2d54e09d29829d79e4a5ca7926c22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075575,
-    "wof:lastmodified":1690847183,
+    "wof:lastmodified":1695886118,
     "wof:name":"Frontera Comalapa",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

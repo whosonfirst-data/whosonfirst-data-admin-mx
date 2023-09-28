@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01521,
-    "geom:area_square_m":176997963.532399,
+    "geom:area_square_m":176997815.853093,
     "geom:bbox":"-101.010079,19.649438,-100.878634,19.871529",
     "geom:latitude":19.766022,
     "geom:longitude":-100.942158,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.MC.IN",
         "inegi:id":"16040"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c6c3a150a6363fcb4a809caad39fecfe",
+    "wof:geomhash":"bf978611ace298d3e8c268056ad6b002",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102075025,
-    "wof:lastmodified":1625076049,
+    "wof:lastmodified":1695886660,
     "wof:name":"Indaparapeo",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071088,
-    "geom:area_square_m":822200548.784204,
+    "geom:area_square_m":822200468.766074,
     "geom:bbox":"-102.073633,20.539985,-101.678106,20.846333",
     "geom:latitude":20.712947,
     "geom:longitude":-101.879784,
@@ -122,8 +122,12 @@
         "inegi:id":"11008",
         "wd:id":"Q2447549"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0cfb4b795317b571a4dd7f3af98555b6",
+    "wof:geomhash":"c59b7ce7e63281d823f0afc8664cc3ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102077315,
-    "wof:lastmodified":1690846640,
+    "wof:lastmodified":1695886869,
     "wof:name":"Manuel Doblado",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

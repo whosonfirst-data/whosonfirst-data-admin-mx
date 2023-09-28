@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034183,
-    "geom:area_square_m":403550494.256799,
+    "geom:area_square_m":403550500.203655,
     "geom:bbox":"-92.403193,17.209479,-92.088409,17.406422",
     "geom:latitude":17.30079,
     "geom:longitude":-92.269625,
@@ -128,8 +128,12 @@
         "inegi:id":"07100",
         "wd:id":"Q204609"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b302c17cb0620de28ed24c87bce6718b",
+    "wof:geomhash":"c2a4ceb2dd433251e86e01783bff5e65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075665,
-    "wof:lastmodified":1690847225,
+    "wof:lastmodified":1695886151,
     "wof:name":"Tumbal\u00e1",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

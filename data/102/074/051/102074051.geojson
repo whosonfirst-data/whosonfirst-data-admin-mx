@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048782,
-    "geom:area_square_m":570054210.669909,
+    "geom:area_square_m":570054086.357161,
     "geom:bbox":"-100.240112,18.97898,-99.816447,19.236258",
     "geom:latitude":19.081362,
     "geom:longitude":-99.996595,
@@ -127,8 +127,12 @@
         "inegi:id":"15086",
         "wd:id":"Q3844572"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"480a838dd430f8f690cc56a962955b37",
+    "wof:geomhash":"303ebf91887e90d13f6d4cd196a1a3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102074051,
-    "wof:lastmodified":1690847121,
+    "wof:lastmodified":1695886066,
     "wof:name":"Temascaltepec",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

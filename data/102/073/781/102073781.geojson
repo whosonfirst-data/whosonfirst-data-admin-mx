@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113406,
-    "geom:area_square_m":1331905679.772871,
+    "geom:area_square_m":1331905679.773171,
     "geom:bbox":"-99.4439787164,17.9075923556,-99.0489347816,18.4755493836",
     "geom:latitude":18.229774,
     "geom:longitude":-99.253422,
@@ -108,8 +108,12 @@
         "inegi:id":"12034",
         "wd:id":"Q2651789"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a89c19a419c6404e4f5a8824edcc8359",
+    "wof:geomhash":"6109405cc6928e349e1bbaed62f81201",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":102073781,
-    "wof:lastmodified":1566615799,
+    "wof:lastmodified":1695885983,
     "wof:name":"Huitzuco de los Figueroa",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

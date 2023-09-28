@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042219,
-    "geom:area_square_m":490668661.241622,
+    "geom:area_square_m":490668661.241542,
     "geom:bbox":"-98.1749965736,19.8290079488,-97.8561454486,20.0921482779",
     "geom:latitude":19.96492,
     "geom:longitude":-97.999011,
@@ -134,8 +134,12 @@
         "inegi:id":"21208",
         "wd:id":"Q2509912"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"29c3b8f53e1fecf7ee43a587f7ca0e39",
+    "wof:geomhash":"ba6d9e0f5bc0b34f8b6d8af0111642be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102078443,
-    "wof:lastmodified":1566615606,
+    "wof:lastmodified":1695886925,
     "wof:name":"Zacatl\u00e1n",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039967,
-    "geom:area_square_m":444053674.515248,
+    "geom:area_square_m":444053674.515193,
     "geom:bbox":"-100.118132441,25.9051965941,-99.8802261047,26.1659421693",
     "geom:latitude":26.033168,
     "geom:longitude":-99.997508,
@@ -136,8 +136,12 @@
         "hasc:id":"MX.NL.HG",
         "inegi:id":"19028"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9972f84d698a6b393f937698516c299a",
+    "wof:geomhash":"1c889de38c74da191328d471fc6c5754",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":102078757,
-    "wof:lastmodified":1566615596,
+    "wof:lastmodified":1695886923,
     "wof:name":"Higueras",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

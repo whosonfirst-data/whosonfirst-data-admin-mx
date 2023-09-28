@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.63148,
-    "geom:area_square_m":6804953257.404558,
+    "geom:area_square_m":6804953161.150635,
     "geom:bbox":"-105.02601,28.58346,-103.970259,30.507795",
     "geom:latitude":29.36422,
     "geom:longitude":-104.525296,
@@ -185,8 +185,12 @@
         "inegi:id":"08052",
         "wd:id":"Q2913712"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2791c02d2277abe3ea1a7c55630b669e",
+    "wof:geomhash":"c0b77b208df77dfc3d24163fc2b33e15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":102075297,
-    "wof:lastmodified":1690847228,
+    "wof:lastmodified":1695886530,
     "wof:name":"Ojinaga",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

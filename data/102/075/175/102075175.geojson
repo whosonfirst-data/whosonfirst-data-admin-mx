@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105078,
-    "geom:area_square_m":1188684180.018692,
+    "geom:area_square_m":1188684180.019064,
     "geom:bbox":"-104.41454935,23.6141504274,-103.948144671,24.0675392029",
     "geom:latitude":23.81386,
     "geom:longitude":-104.211115,
@@ -86,8 +86,12 @@
         "hasc:id":"MX.DU.NO",
         "inegi:id":"10016"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6d8278b71eba856264b4fc4fa498a05c",
+    "wof:geomhash":"53702e10cc32c73b2bd35c57fcded744",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":102075175,
-    "wof:lastmodified":1566616120,
+    "wof:lastmodified":1695886121,
     "wof:name":"Nombre de Dios",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

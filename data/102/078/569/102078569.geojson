@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018782,
-    "geom:area_square_m":218059987.542665,
+    "geom:area_square_m":218059812.551812,
     "geom:bbox":"-98.502164,20.052174,-98.246557,20.212298",
     "geom:latitude":20.123601,
     "geom:longitude":-98.35094,
@@ -154,8 +154,12 @@
         "inegi:id":"13077",
         "wd:id":"Q1962590"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"906df9ed3661d16f322117c6d2d09d44",
+    "wof:geomhash":"cba5b8d15b3147867a3cd9d38c6431d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":102078569,
-    "wof:lastmodified":1690846796,
+    "wof:lastmodified":1695886903,
     "wof:name":"Tulancingo de Bravo",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

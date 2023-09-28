@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176494,
-    "geom:area_square_m":2068995428.082618,
+    "geom:area_square_m":2068995202.338844,
     "geom:bbox":"-102.903854,18.321054,-102.166763,18.846391",
     "geom:latitude":18.550267,
     "geom:longitude":-102.510048,
@@ -125,8 +125,12 @@
         "inegi:id":"16096",
         "wd:id":"Q3847185"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a684e29dbdde90e59a6fb84603d073a6",
+    "wof:geomhash":"17609cea085f435d6332bf3f8092305b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102074887,
-    "wof:lastmodified":1690847048,
+    "wof:lastmodified":1695885999,
     "wof:name":"Tumbiscat\u00edo",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008536,
-    "geom:area_square_m":99640430.91188,
+    "geom:area_square_m":99640430.911635,
     "geom:bbox":"-100.337677749,19.1942805541,-100.219988985,19.3292073855",
     "geom:latitude":19.257426,
     "geom:longitude":-100.27785,
@@ -126,8 +126,12 @@
         "inegi:id":"15041",
         "wd:id":"Q3308590"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"02cf8de83c3de96caa351a35385d5c0c",
+    "wof:geomhash":"3e69e61988645021fefc5b674562fbbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":102074137,
-    "wof:lastmodified":1566615932,
+    "wof:lastmodified":1695886041,
     "wof:name":"Ixtapan del Oro",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

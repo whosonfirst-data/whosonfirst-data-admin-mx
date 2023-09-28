@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034963,
-    "geom:area_square_m":415864381.319122,
+    "geom:area_square_m":415864251.758694,
     "geom:bbox":"-97.061924,15.737586,-96.811823,15.968725",
     "geom:latitude":15.861989,
     "geom:longitude":-96.922154,
@@ -116,8 +116,12 @@
         "inegi:id":"20401",
         "wd:id":"Q3888686"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3dfb97864985fc71bc30d8da3431d5c2",
+    "wof:geomhash":"03b4a11c260a861529de84f5cbc26201",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075839,
-    "wof:lastmodified":1690847227,
+    "wof:lastmodified":1695886153,
     "wof:name":"Santa Mar\u00eda Colotepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

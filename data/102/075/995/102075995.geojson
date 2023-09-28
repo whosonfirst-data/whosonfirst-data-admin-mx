@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000934,
-    "geom:area_square_m":11038118.784147,
+    "geom:area_square_m":11038118.784135,
     "geom:bbox":"-96.7161555038,17.0053223306,-96.6628596671,17.0506562165",
     "geom:latitude":17.024112,
     "geom:longitude":-96.691818,
@@ -92,8 +92,12 @@
         "inegi:id":"20107",
         "wd:id":"Q1193761"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b76ca156f984bad1218c830fe071a2bf",
+    "wof:geomhash":"acbf0f4b6695c4638dc1352e2a176aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102075995,
-    "wof:lastmodified":1566616132,
+    "wof:lastmodified":1695886126,
     "wof:name":"San Antonio de la Cal",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

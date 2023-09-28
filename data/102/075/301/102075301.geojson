@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.465022,
-    "geom:area_square_m":5032574490.574568,
+    "geom:area_square_m":5032574216.307184,
     "geom:bbox":"-104.298739,28.54489,-103.306769,29.299889",
     "geom:latitude":28.928898,
     "geom:longitude":-103.824635,
@@ -140,8 +140,12 @@
         "inegi:id":"08042",
         "wd:id":"Q2652280"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8c1b3c0c67d0cc7afce1ee1b25fc756e",
+    "wof:geomhash":"b375d9ac8f4229123954039ed707489b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":102075301,
-    "wof:lastmodified":1690847149,
+    "wof:lastmodified":1695886094,
     "wof:name":"Manuel Benavides",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

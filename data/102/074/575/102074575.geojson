@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091587,
-    "geom:area_square_m":1047518590.983065,
+    "geom:area_square_m":1047518150.741851,
     "geom:bbox":"-105.760359,22.123955,-105.254364,22.572121",
     "geom:latitude":22.337018,
     "geom:longitude":-105.519453,
@@ -173,8 +173,12 @@
         "inegi:id":"18016",
         "wd:id":"Q2449012"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c6b517282f6d92646256e80968695131",
+    "wof:geomhash":"83c32b6fbeb002c797c01fcc2b82787a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":102074575,
-    "wof:lastmodified":1690847075,
+    "wof:lastmodified":1695886515,
     "wof:name":"Tecuala",
     "wof:parent_id":85686591,
     "wof:placetype":"county",

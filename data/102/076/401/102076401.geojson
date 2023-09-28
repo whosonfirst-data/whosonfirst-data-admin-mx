@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004274,
-    "geom:area_square_m":50297573.642725,
+    "geom:area_square_m":50297222.931718,
     "geom:bbox":"-96.642354,17.828398,-96.546755,17.911812",
     "geom:latitude":17.873008,
     "geom:longitude":-96.592416,
@@ -119,8 +119,12 @@
         "inegi:id":"20182",
         "wd:id":"Q3892637"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7e4323ee8cb5f89bc7f89759b3436002",
+    "wof:geomhash":"5f4f66a9134ce5bbe8d25aef9d1dc440",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102076401,
-    "wof:lastmodified":1690846726,
+    "wof:lastmodified":1695886894,
     "wof:name":"San Juan Bautista Tlacoatzintepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

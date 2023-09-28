@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026197,
-    "geom:area_square_m":305079281.087793,
+    "geom:area_square_m":305079270.411842,
     "geom:bbox":"-101.994286,19.548762,-101.788835,19.750694",
     "geom:latitude":19.645177,
     "geom:longitude":-101.879551,
@@ -115,8 +115,12 @@
         "inegi:id":"16056",
         "wd:id":"Q17623268"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"456f02c0c9121e1c80991c26532e891d",
+    "wof:geomhash":"aeba2a50104efb7ae87ce0645fbecdf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":102074995,
-    "wof:lastmodified":1690847084,
+    "wof:lastmodified":1695886028,
     "wof:name":"Nahuatzen",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

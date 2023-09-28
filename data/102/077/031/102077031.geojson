@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007987,
-    "geom:area_square_m":94253411.798142,
+    "geom:area_square_m":94253407.246863,
     "geom:bbox":"-96.197598,17.286253,-96.077053,17.459954",
     "geom:latitude":17.373846,
     "geom:longitude":-96.137002,
@@ -110,8 +110,12 @@
         "inegi:id":"20156",
         "wd:id":"Q338096"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bc10ac98699eee90c1344b9bb711f2c6",
+    "wof:geomhash":"0140ef02fb60b8add7ec91751f9ce20c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102077031,
-    "wof:lastmodified":1690846626,
+    "wof:lastmodified":1695886864,
     "wof:name":"San Ildefonso Villa Alta",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

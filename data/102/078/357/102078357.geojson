@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03354,
-    "geom:area_square_m":393309099.584052,
+    "geom:area_square_m":393309099.584014,
     "geom:bbox":"-98.050124481,18.3300444384,-97.841573245,18.6182505644",
     "geom:latitude":18.496749,
     "geom:longitude":-97.937339,
@@ -101,8 +101,12 @@
         "inegi:id":"21169",
         "wd:id":"Q3888990"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1981c8fb9758d46256f40fd68d524ade",
+    "wof:geomhash":"e0e0a095d924063f2841af712db3ff0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102078357,
-    "wof:lastmodified":1566615585,
+    "wof:lastmodified":1695886920,
     "wof:name":"Tepexi de Rodr\u00edguez",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

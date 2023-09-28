@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005893,
-    "geom:area_square_m":69615262.046961,
+    "geom:area_square_m":69615172.341699,
     "geom:bbox":"-96.983472,17.142967,-96.818413,17.221958",
     "geom:latitude":17.184201,
     "geom:longitude":-96.902976,
@@ -113,8 +113,12 @@
         "inegi:id":"20102",
         "wd:id":"Q1656545"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cf7b83bcc2aba53b3e83448a440ff5e2",
+    "wof:geomhash":"7b2fd40b7df378920a8d34553400968c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102075809,
-    "wof:lastmodified":1690847220,
+    "wof:lastmodified":1695886148,
     "wof:name":"San Andr\u00e9s Zautla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

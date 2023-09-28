@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1771,
-    "geom:area_square_m":1929849999.684997,
+    "geom:area_square_m":1929849272.915856,
     "geom:bbox":"-106.095444,27.879064,-105.4864,28.608333",
     "geom:latitude":28.205049,
     "geom:longitude":-105.747825,
@@ -293,8 +293,12 @@
         "inegi:id":"08055",
         "wd:id":"Q2652329"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"11ab66f49b432653a61d949486daa048",
+    "wof:geomhash":"00d9090a997ea8242be3975345c4d553",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -304,7 +308,7 @@
         }
     ],
     "wof:id":102075271,
-    "wof:lastmodified":1690847214,
+    "wof:lastmodified":1695886141,
     "wof:name":"Rosales",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

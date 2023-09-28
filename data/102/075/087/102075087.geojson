@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01313,
-    "geom:area_square_m":152520283.791032,
+    "geom:area_square_m":152520283.791091,
     "geom:bbox":"-102.52397827,19.9785713241,-102.372263169,20.116048804",
     "geom:latitude":20.044026,
     "geom:longitude":-102.446706,
@@ -101,8 +101,12 @@
         "inegi:id":"16023",
         "wd:id":"Q2447301"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"52c5ade86314c25425ed4785e7e64c3d",
+    "wof:geomhash":"0983c65fe06a6bc9825c9c6d6773c274",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102075087,
-    "wof:lastmodified":1566616162,
+    "wof:lastmodified":1695886136,
     "wof:name":"Chavinda",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

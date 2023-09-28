@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007377,
-    "geom:area_square_m":86107189.429028,
+    "geom:area_square_m":86107049.333066,
     "geom:bbox":"-99.068967,19.210571,-98.940303,19.327134",
     "geom:latitude":19.276995,
     "geom:longitude":-99.002816,
@@ -161,8 +161,12 @@
         "inegi:id":"09011",
         "wd:id":"Q408181"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"172b7aa4472a3bdda5f1f425804b0c5a",
+    "wof:geomhash":"4d14bcf27e203bc335fe6d9cca0358ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":102073757,
-    "wof:lastmodified":1690847016,
+    "wof:lastmodified":1695885977,
     "wof:name":"Tl\u00e1huac",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

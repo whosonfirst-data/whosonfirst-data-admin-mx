@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032465,
-    "geom:area_square_m":365041197.576505,
+    "geom:area_square_m":365041186.634825,
     "geom:bbox":"-99.732978,24.463996,-99.404905,24.736802",
     "geom:latitude":24.58793,
     "geom:longitude":-99.564428,
@@ -131,8 +131,12 @@
         "inegi:id":"28020",
         "wd:id":"Q1997488"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dd753b1fdff293755719c37f3b33261d",
+    "wof:geomhash":"b51fe9db8846a90c56129f72da57dc92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102078915,
-    "wof:lastmodified":1690846839,
+    "wof:lastmodified":1695886916,
     "wof:name":"Mainero",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004684,
-    "geom:area_square_m":54618841.243063,
+    "geom:area_square_m":54618841.243086,
     "geom:bbox":"-98.99059,19.372824,-98.894248,19.463564",
     "geom:latitude":19.416236,
     "geom:longitude":-98.947167,
@@ -104,11 +104,15 @@
         "inegi:id":"15031",
         "wd:id":"Q2497047"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101992745
     ],
     "wof:country":"MX",
-    "wof:geomhash":"3b07a2a419c9243244ad561a551e04e7",
+    "wof:geomhash":"afccec272ab6796da18abbfdaa5377b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102074161,
-    "wof:lastmodified":1690847035,
+    "wof:lastmodified":1695886652,
     "wof:name":"Chimalhuac\u00e1n",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

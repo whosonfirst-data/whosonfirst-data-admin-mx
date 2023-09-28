@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14027,
-    "geom:area_square_m":1603872219.454442,
+    "geom:area_square_m":1603872143.154304,
     "geom:bbox":"-103.690798,22.097105,-103.240761,22.662929",
     "geom:latitude":22.375056,
     "geom:longitude":-103.461877,
@@ -125,8 +125,12 @@
         "inegi:id":"32031",
         "wd:id":"Q4302025"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d16558595ba6b2124f36f1dedd2593a4",
+    "wof:geomhash":"2d633f9c19a069abba47f6d982d20c94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075397,
-    "wof:lastmodified":1690847152,
+    "wof:lastmodified":1695886095,
     "wof:name":"Monte Escobedo",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

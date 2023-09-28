@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034114,
-    "geom:area_square_m":388415506.249703,
+    "geom:area_square_m":388415506.250022,
     "geom:bbox":"-102.908086129,22.8355952965,-102.602726561,23.1218850658",
     "geom:latitude":22.956895,
     "geom:longitude":-102.746821,
@@ -121,8 +121,12 @@
         "hasc:id":"MX.ZA.CA",
         "inegi:id":"32005"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"93164a95c1f1560e4f341282a38ecf51",
+    "wof:geomhash":"43c90ffcfcdc614b4868935bdcfd7e69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102075373,
-    "wof:lastmodified":1566616224,
+    "wof:lastmodified":1695886159,
     "wof:name":"Calera",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

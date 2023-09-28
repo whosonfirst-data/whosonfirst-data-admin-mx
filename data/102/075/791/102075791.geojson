@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050469,
-    "geom:area_square_m":594305835.550557,
+    "geom:area_square_m":594305701.913138,
     "geom:bbox":"-92.937414,17.626032,-92.668434,17.915436",
     "geom:latitude":17.763594,
     "geom:longitude":-92.787034,
@@ -167,8 +167,12 @@
         "inegi:id":"27009",
         "wd:id":"Q2669496"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dc354628287460b426a4a778c7e470cf",
+    "wof:geomhash":"4449343aa3acd1844e17d34650315f3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":102075791,
-    "wof:lastmodified":1690847148,
+    "wof:lastmodified":1695886523,
     "wof:name":"Jalapa",
     "wof:parent_id":85686617,
     "wof:placetype":"county",

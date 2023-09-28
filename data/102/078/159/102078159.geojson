@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006004,
-    "geom:area_square_m":69784625.957572,
+    "geom:area_square_m":69784625.95743,
     "geom:bbox":"-97.7743126981,19.8901623875,-97.657917372,19.9981038869",
     "geom:latitude":19.943748,
     "geom:longitude":-97.7133,
@@ -93,8 +93,12 @@
         "inegi:id":"21078",
         "wd:id":"Q10769319"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d3697659bc0439f91dc315fe4fcf70ed",
+    "wof:geomhash":"50cfd2f528e961cf75bbf4c618429999",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":102078159,
-    "wof:lastmodified":1566615521,
+    "wof:lastmodified":1695886904,
     "wof:name":"Huitzilan de Serd\u00e1n",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

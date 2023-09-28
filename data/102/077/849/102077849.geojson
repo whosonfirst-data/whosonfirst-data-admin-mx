@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000519,
-    "geom:area_square_m":6063480.710872,
+    "geom:area_square_m":6063480.710868,
     "geom:bbox":"-98.225003,19.246532,-98.187937,19.28072",
     "geom:latitude":19.262464,
     "geom:longitude":-98.206579,
@@ -122,11 +122,15 @@
         "inegi:id":"29060",
         "wd:id":"Q7419630"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101998931
     ],
     "wof:country":"MX",
-    "wof:geomhash":"81e1b11d8e32f398a3ecaaa841c8d3f9",
+    "wof:geomhash":"5efc5daab86c61832807313148d7563e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102077849,
-    "wof:lastmodified":1690846669,
+    "wof:lastmodified":1695886403,
     "wof:name":"Santa Isabel Xiloxoxtla",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

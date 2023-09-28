@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072804,
-    "geom:area_square_m":855686469.053532,
+    "geom:area_square_m":855686469.052313,
     "geom:bbox":"-99.6346220211,17.9174586996,-99.3200588797,18.3372483753",
     "geom:latitude":18.100999,
     "geom:longitude":-99.469394,
@@ -89,8 +89,12 @@
         "inegi:id":"12059",
         "wd:id":"Q796311"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1f161ce08774b9aace33272bd698b30b",
+    "wof:geomhash":"c574913b96339ccb53cc2303870c4957",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":102073801,
-    "wof:lastmodified":1566615796,
+    "wof:lastmodified":1695885981,
     "wof:name":"Tepecoacuilco de Trujano",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058325,
-    "geom:area_square_m":686682447.917086,
+    "geom:area_square_m":686682359.63242,
     "geom:bbox":"-96.510476,17.641796,-96.162221,17.998933",
     "geom:latitude":17.797311,
     "geom:longitude":-96.334767,
@@ -116,8 +116,12 @@
         "inegi:id":"20559",
         "wd:id":"Q3892200"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e3c6b9825ea9bd3939a27694a60e1d1d",
+    "wof:geomhash":"2a1f6ba45034c22420f323c236f1e8b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102076663,
-    "wof:lastmodified":1690846773,
+    "wof:lastmodified":1695886900,
     "wof:name":"San Juan Bautista Valle Nacional",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

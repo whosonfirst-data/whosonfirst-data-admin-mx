@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063219,
-    "geom:area_square_m":683969142.367035,
+    "geom:area_square_m":683969142.367079,
     "geom:bbox":"-110.433273852,28.7594344883,-109.916984224,29.103437038",
     "geom:latitude":28.960072,
     "geom:longitude":-110.209644,
@@ -94,8 +94,12 @@
         "hasc:id":"MX.SO.MZ",
         "inegi:id":"26037"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"14cac570e958e2fd1de6cdd5ad367343",
+    "wof:geomhash":"9d7c0dd0cf920464620c8457a71d4a84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":102074383,
-    "wof:lastmodified":1566615884,
+    "wof:lastmodified":1695886017,
     "wof:name":"Mazat\u00e1n",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

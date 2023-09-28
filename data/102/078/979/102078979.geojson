@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040678,
-    "geom:area_square_m":471335540.522871,
+    "geom:area_square_m":471335027.540103,
     "geom:bbox":"-88.271858,20.281372,-88.064929,20.651491",
     "geom:latitude":20.437091,
     "geom:longitude":-88.181551,
@@ -124,8 +124,12 @@
         "inegi:id":"31021",
         "wd:id":"Q2093657"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0d7e5f0ae38e87daad119da93940c01c",
+    "wof:geomhash":"3a5a1b876109411e23dd2fdef992dd1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":102078979,
-    "wof:lastmodified":1690846837,
+    "wof:lastmodified":1695886916,
     "wof:name":"Chichimil\u00e1",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

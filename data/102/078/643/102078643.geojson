@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007869,
-    "geom:area_square_m":91245239.424083,
+    "geom:area_square_m":91245239.42425,
     "geom:bbox":"-99.2320996489,20.2306459092,-99.1187786314,20.3782472613",
     "geom:latitude":20.314333,
     "geom:longitude":-99.178155,
@@ -122,8 +122,12 @@
         "inegi:id":"13050",
         "wd:id":"Q3846293"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"984fcf7885b15c284ac8814ceeadbcde",
+    "wof:geomhash":"a4bd769693075570a7fe1b2612f15ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102078643,
-    "wof:lastmodified":1566615537,
+    "wof:lastmodified":1695886908,
     "wof:name":"Progreso de Obreg\u00f3n",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009845,
-    "geom:area_square_m":114355135.025484,
+    "geom:area_square_m":114355135.025694,
     "geom:bbox":"-98.7776317037,19.9800797683,-98.6618304701,20.1412544818",
     "geom:latitude":20.058991,
     "geom:longitude":-98.719704,
@@ -107,8 +107,12 @@
         "inegi:id":"13051",
         "wd:id":"Q3770181"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"de0508ffffc7963f8b21ab578bf6b98e",
+    "wof:geomhash":"11da20b75bddd53854ab3a085581ea74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102078543,
-    "wof:lastmodified":1566615571,
+    "wof:lastmodified":1695886917,
     "wof:name":"Mineral de la Reforma",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005194,
-    "geom:area_square_m":61345451.915491,
+    "geom:area_square_m":61345501.860884,
     "geom:bbox":"-93.225536,17.182342,-93.123183,17.26652",
     "geom:latitude":17.220798,
     "geom:longitude":-93.173876,
@@ -116,8 +116,12 @@
         "inegi:id":"07060",
         "wd:id":"Q1778353"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"04846afa8e2332e34fc83ac0b281c4f6",
+    "wof:geomhash":"9810e48d0b5b28dd25cef78bdff609ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075547,
-    "wof:lastmodified":1690847233,
+    "wof:lastmodified":1695886156,
     "wof:name":"Ocotepec",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

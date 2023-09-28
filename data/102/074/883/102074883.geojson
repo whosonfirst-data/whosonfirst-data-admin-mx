@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193572,
-    "geom:area_square_m":2271525539.321975,
+    "geom:area_square_m":2271525357.716179,
     "geom:bbox":"-103.711894,18.085054,-102.737771,18.68546",
     "geom:latitude":18.374238,
     "geom:longitude":-103.235837,
@@ -125,8 +125,12 @@
         "inegi:id":"16008",
         "wd:id":"Q3847312"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"887b142b8bb74105813364fde732a606",
+    "wof:geomhash":"1b3d579c7034e6c10dc6c3a0d47a90c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102074883,
-    "wof:lastmodified":1690847101,
+    "wof:lastmodified":1695886047,
     "wof:name":"Aquila",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

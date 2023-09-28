@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019673,
-    "geom:area_square_m":230039320.238313,
+    "geom:area_square_m":230039501.1628,
     "geom:bbox":"-99.772888,18.816275,-99.607311,19.066352",
     "geom:latitude":18.974299,
     "geom:longitude":-99.687729,
@@ -131,8 +131,12 @@
         "inegi:id":"15113",
         "wd:id":"Q3887947"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fd3f9b1a8e2f1a42fa557f5d727ed555",
+    "wof:geomhash":"eededbb6a328a47cf8c686e0d029d7aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102073993,
-    "wof:lastmodified":1690847014,
+    "wof:lastmodified":1695885976,
     "wof:name":"Villa Guerrero",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

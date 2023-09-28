@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005603,
-    "geom:area_square_m":65408254.463668,
+    "geom:area_square_m":65408219.072092,
     "geom:bbox":"-96.91751,19.216976,-96.753959,19.299833",
     "geom:latitude":19.260296,
     "geom:longitude":-96.840992,
@@ -119,8 +119,12 @@
         "inegi:id":"30162",
         "wd:id":"Q4967104"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e182229b7a6b94d300889d488824ea15",
+    "wof:geomhash":"df91a6e819843569323d4283a0743cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077733,
-    "wof:lastmodified":1690846651,
+    "wof:lastmodified":1695886872,
     "wof:name":"Tenampa",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

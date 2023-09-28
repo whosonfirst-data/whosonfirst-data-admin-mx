@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007124,
-    "geom:area_square_m":82873541.647432,
+    "geom:area_square_m":82873541.64752,
     "geom:bbox":"-98.7800500021,19.7361015099,-98.6397640418,19.8649734617",
     "geom:latitude":19.812314,
     "geom:longitude":-98.717089,
@@ -92,8 +92,12 @@
         "hasc:id":"MX.MX.NO",
         "inegi:id":"15061"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9a121abece799cea20033d41ef749410",
+    "wof:geomhash":"d04949209dd4490838970021c02abccb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102074099,
-    "wof:lastmodified":1566615859,
+    "wof:lastmodified":1695886010,
     "wof:name":"Nopaltepec",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026886,
-    "geom:area_square_m":318601714.624772,
+    "geom:area_square_m":318601714.62532,
     "geom:bbox":"-96.8650110857,16.452748116,-96.5929526322,16.7426186958",
     "geom:latitude":16.596582,
     "geom:longitude":-96.731392,
@@ -88,8 +88,12 @@
         "inegi:id":"20028",
         "wd:id":"Q17266451"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"43cc9117aae7663ed1d09b8101d207aa",
+    "wof:geomhash":"cacb5f24d3cb70ff5bae5e4f85940db9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102076105,
-    "wof:lastmodified":1566615436,
+    "wof:lastmodified":1695886891,
     "wof:name":"Heroica Ciudad de Ejutla de Crespo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

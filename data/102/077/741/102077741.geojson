@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005166,
-    "geom:area_square_m":60381289.840034,
+    "geom:area_square_m":60381228.972818,
     "geom:bbox":"-96.89669,19.00281,-96.804343,19.093998",
     "geom:latitude":19.044977,
     "geom:longitude":-96.853211,
@@ -111,8 +111,12 @@
         "inegi:id":"30165",
         "wd:id":"Q3845754"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"86aef5832c9cab0e676955124d127d66",
+    "wof:geomhash":"e25fc5676ce256f16b8827b00bb86a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":102077741,
-    "wof:lastmodified":1690846648,
+    "wof:lastmodified":1695886872,
     "wof:name":"Tepatlaxco",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069741,
-    "geom:area_square_m":796844587.205721,
+    "geom:area_square_m":796844587.20593,
     "geom:bbox":"-102.743958913,22.2908990376,-102.36088039,22.6238925478",
     "geom:latitude":22.47795,
     "geom:longitude":-102.559186,
@@ -85,8 +85,12 @@
         "hasc:id":"MX.ZA.GC",
         "inegi:id":"32012"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4db67f5553d2090370013579d000ebde",
+    "wof:geomhash":"00955427cae91223f508aa3981f42b77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":102075383,
-    "wof:lastmodified":1566616106,
+    "wof:lastmodified":1695886116,
     "wof:name":"Genaro Codina",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

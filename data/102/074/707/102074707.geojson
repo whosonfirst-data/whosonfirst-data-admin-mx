@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03571,
-    "geom:area_square_m":413293189.380678,
+    "geom:area_square_m":413293189.380719,
     "geom:bbox":"-103.848318992,20.4822553668,-103.571806534,20.7379914707",
     "geom:latitude":20.610582,
     "geom:longitude":-103.692488,
@@ -127,8 +127,12 @@
         "hasc:id":"MX.JA.TB",
         "inegi:id":"14083"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f9f5b3905394c6ab3a9b096f4daeb9ce",
+    "wof:geomhash":"275f855681796de926e6d0fdfe7a3370",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102074707,
-    "wof:lastmodified":1566615823,
+    "wof:lastmodified":1695885994,
     "wof:name":"Tala",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061115,
-    "geom:area_square_m":684517274.390065,
+    "geom:area_square_m":684517274.390032,
     "geom:bbox":"-100.332007414,24.8803749169,-99.9365573922,25.2703307232",
     "geom:latitude":25.065823,
     "geom:longitude":-100.127733,
@@ -105,8 +105,12 @@
         "inegi:id":"19043",
         "wd:id":"Q3844502"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"74a914c261ff913f6c55893806000051",
+    "wof:geomhash":"a0be1f6e60f72e932712505972718338",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":102078733,
-    "wof:lastmodified":1566615584,
+    "wof:lastmodified":1695886920,
     "wof:name":"Rayones",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

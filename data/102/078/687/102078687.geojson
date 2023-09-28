@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029195,
-    "geom:area_square_m":325440195.469872,
+    "geom:area_square_m":325440336.618365,
     "geom:bbox":"-100.443354,25.482134,-100.167447,25.797401",
     "geom:latitude":25.644787,
     "geom:longitude":-100.311,
@@ -398,8 +398,12 @@
         "inegi:id":"19039",
         "wd:id":"Q81033"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4c399561d8e2f493c276ded0ceb4a198",
+    "wof:geomhash":"719b0b00c82be89f34feddaec45322a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -409,7 +413,7 @@
         }
     ],
     "wof:id":102078687,
-    "wof:lastmodified":1690846818,
+    "wof:lastmodified":1695886910,
     "wof:name":"Monterrey",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00264,
-    "geom:area_square_m":30869645.368491,
+    "geom:area_square_m":30869645.368489,
     "geom:bbox":"-97.8715426553,18.9205117251,-97.7833528177,19.0153799724",
     "geom:latitude":18.962435,
     "geom:longitude":-97.823902,
@@ -101,8 +101,12 @@
         "inegi:id":"21118",
         "wd:id":"Q6683220"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4d4d8ab2237584e68cab3b96faf5b13f",
+    "wof:geomhash":"25ef1aa1ffd6e6c23518a9855bdb52ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102078245,
-    "wof:lastmodified":1566615542,
+    "wof:lastmodified":1695886909,
     "wof:name":"Los Reyes de Ju\u00e1rez",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

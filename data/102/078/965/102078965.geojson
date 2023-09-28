@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283272,
-    "geom:area_square_m":3153263411.680308,
+    "geom:area_square_m":3153263256.985767,
     "geom:bbox":"-98.585466,25.445959,-98.138111,26.22717",
     "geom:latitude":25.810236,
     "geom:longitude":-98.373361,
@@ -129,8 +129,12 @@
         "inegi:id":"28032",
         "wd:id":"Q3849133"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f6f7f93a6b572418fb532b6159c69ac2",
+    "wof:geomhash":"3ba8f1f3e852858bd26119a64871df22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102078965,
-    "wof:lastmodified":1690846800,
+    "wof:lastmodified":1695886904,
     "wof:name":"Reynosa",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

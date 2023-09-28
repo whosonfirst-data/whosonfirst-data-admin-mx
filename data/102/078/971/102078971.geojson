@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076734,
-    "geom:area_square_m":885902812.647241,
+    "geom:area_square_m":885902516.284281,
     "geom:bbox":"-89.801199,20.697106,-89.451303,21.191104",
     "geom:latitude":20.984072,
     "geom:longitude":-89.639526,
@@ -170,8 +170,12 @@
         "inegi:id":"31050",
         "wd:id":"Q2651972"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5d38204a91f818cab84a1e881655cd27",
+    "wof:geomhash":"153ac13b81eca2d31cd62be8be1b495a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":102078971,
-    "wof:lastmodified":1690846843,
+    "wof:lastmodified":1695886917,
     "wof:name":"M\u00e9rida",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

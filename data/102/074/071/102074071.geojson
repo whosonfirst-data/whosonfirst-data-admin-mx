@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001624,
-    "geom:area_square_m":18952397.005554,
+    "geom:area_square_m":18952397.005575,
     "geom:bbox":"-99.5681611835,19.2378195031,-99.5196248959,19.2864619155",
     "geom:latitude":19.26553,
     "geom:longitude":-99.539688,
@@ -131,8 +131,12 @@
         "inegi:id":"15076",
         "wd:id":"Q2391649"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d437087305488feda505bf8e39eb6719",
+    "wof:geomhash":"2356d58f959679304f3d247ec83a5067",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102074071,
-    "wof:lastmodified":1566615838,
+    "wof:lastmodified":1695886003,
     "wof:name":"San Mateo Atenco",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

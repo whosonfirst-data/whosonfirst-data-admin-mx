@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185421,
-    "geom:area_square_m":2187963001.435336,
+    "geom:area_square_m":2187963001.433989,
     "geom:bbox":"-100.060952621,17.1735888964,-99.3870300034,17.6100930026",
     "geom:latitude":17.390834,
     "geom:longitude":-99.697447,
@@ -110,8 +110,12 @@
         "inegi:id":"12029",
         "wd:id":"Q1997973"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"89675c4dd7a6f56775d6324568cc018f",
+    "wof:geomhash":"56bc5a5bb12645cccee897cc74ae7181",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102073773,
-    "wof:lastmodified":1566615802,
+    "wof:lastmodified":1695885984,
     "wof:name":"Chilpancingo de los Bravo",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004032,
-    "geom:area_square_m":47591809.662818,
+    "geom:area_square_m":47591719.434022,
     "geom:bbox":"-97.306074,17.290316,-97.243167,17.393201",
     "geom:latitude":17.346493,
     "geom:longitude":-97.275077,
@@ -113,8 +113,12 @@
         "inegi:id":"20144",
         "wd:id":"Q3888158"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9cf6a23e86c95ff1d6763f223564bb4f",
+    "wof:geomhash":"2fcc5d326d20f04c4522bdaab67e410f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076967,
-    "wof:lastmodified":1690846754,
+    "wof:lastmodified":1695886898,
     "wof:name":"San Francisco Jaltepetongo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

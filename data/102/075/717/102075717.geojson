@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245638,
-    "geom:area_square_m":2897655949.294638,
+    "geom:area_square_m":2897655615.734191,
     "geom:bbox":"-92.350195,17.06701,-91.26041,17.839473",
     "geom:latitude":17.444076,
     "geom:longitude":-91.812656,
@@ -116,8 +116,12 @@
         "inegi:id":"07065",
         "wd:id":"Q1859841"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5b87103c8bf0ddff0a5fc25d350871b7",
+    "wof:geomhash":"be8a607cfc9f9100fe5c5ec01a5dc0b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075717,
-    "wof:lastmodified":1690847236,
+    "wof:lastmodified":1695886664,
     "wof:name":"Palenque",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

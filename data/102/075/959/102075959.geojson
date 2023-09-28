@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002695,
-    "geom:area_square_m":31871065.522924,
+    "geom:area_square_m":31871036.633848,
     "geom:bbox":"-96.572422,16.929558,-96.506635,16.987318",
     "geom:latitude":16.953907,
     "geom:longitude":-96.541525,
@@ -116,8 +116,12 @@
         "inegi:id":"20197",
         "wd:id":"Q7414582"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"706943e46ae267db9733139c6bec2385",
+    "wof:geomhash":"3419da36d7e0fa51f1eab672a8721a35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075959,
-    "wof:lastmodified":1690847194,
+    "wof:lastmodified":1695886127,
     "wof:name":"San Juan Guelav\u00eda",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

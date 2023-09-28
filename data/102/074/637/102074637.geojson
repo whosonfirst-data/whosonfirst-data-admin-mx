@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048982,
-    "geom:area_square_m":564918232.414812,
+    "geom:area_square_m":564918232.414044,
     "geom:bbox":"-103.098615064,20.9833708176,-102.78997027,21.2633547997",
     "geom:latitude":21.137936,
     "geom:longitude":-102.933661,
@@ -107,8 +107,12 @@
         "inegi:id":"14118",
         "wd:id":"Q2445115"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"505eb9f17036b08937d9463017295be8",
+    "wof:geomhash":"207f82a166ba92a38c57dee563420e74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102074637,
-    "wof:lastmodified":1566615963,
+    "wof:lastmodified":1695886060,
     "wof:name":"Yahualica de Gonz\u00e1lez Gallo",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

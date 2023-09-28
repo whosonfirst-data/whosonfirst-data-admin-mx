@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005693,
-    "geom:area_square_m":66721038.822671,
+    "geom:area_square_m":66721038.82254,
     "geom:bbox":"-97.0415255751,18.5530307351,-96.9286109473,18.6498900192",
     "geom:latitude":18.591662,
     "geom:longitude":-96.976773,
@@ -95,8 +95,12 @@
         "inegi:id":"30110",
         "wd:id":"Q3846974"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3d69da17e5c983a45903e301064264d1",
+    "wof:geomhash":"c38d8111b401558d8ddd651f774e0950",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102077621,
-    "wof:lastmodified":1566615317,
+    "wof:lastmodified":1695886861,
     "wof:name":"Mixtla de Altamirano",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

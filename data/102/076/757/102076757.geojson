@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009432,
-    "geom:area_square_m":111041619.746554,
+    "geom:area_square_m":111041619.746566,
     "geom:bbox":"-97.749859005,17.7423261265,-97.6187789518,17.8862618559",
     "geom:latitude":17.803454,
     "geom:longitude":-97.689111,
@@ -101,8 +101,12 @@
         "inegi:id":"20462",
         "wd:id":"Q3845580"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"999da0a44b711ce570ded2645cb7c13f",
+    "wof:geomhash":"fdafef394e33e8642860cceb306f6dff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102076757,
-    "wof:lastmodified":1566615482,
+    "wof:lastmodified":1695886898,
     "wof:name":"Santiago Huajolotitl\u00e1n",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001137,
-    "geom:area_square_m":13283566.850036,
+    "geom:area_square_m":13283562.170552,
     "geom:bbox":"-98.224565,19.132699,-98.154943,19.16821",
     "geom:latitude":19.150748,
     "geom:longitude":-98.190285,
@@ -131,8 +131,12 @@
         "inegi:id":"29027",
         "wd:id":"Q3890858"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f8421c7778f47f99b64659cde6032895",
+    "wof:geomhash":"62e8ccc8107cd2551f53ecab8f02c881",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102077923,
-    "wof:lastmodified":1690846641,
+    "wof:lastmodified":1695886869,
     "wof:name":"Tenancingo",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

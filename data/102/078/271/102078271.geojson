@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008261,
-    "geom:area_square_m":96554403.182324,
+    "geom:area_square_m":96554381.56015,
     "geom:bbox":"-97.620016,18.982569,-97.473997,19.11225",
     "geom:latitude":19.047069,
     "geom:longitude":-97.551891,
@@ -109,8 +109,12 @@
         "inegi:id":"21130",
         "wd:id":"Q7414556"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d4f4941a97bee6a96ac14bf63d2d9b92",
+    "wof:geomhash":"5116edfa92af222e9709767aa88d77b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":102078271,
-    "wof:lastmodified":1690846870,
+    "wof:lastmodified":1695886927,
     "wof:name":"San Juan Atenco",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

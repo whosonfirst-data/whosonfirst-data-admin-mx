@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007462,
-    "geom:area_square_m":87427238.14118,
+    "geom:area_square_m":87427141.807546,
     "geom:bbox":"-97.473803,18.576681,-97.340383,18.716529",
     "geom:latitude":18.639641,
     "geom:longitude":-97.40364,
@@ -95,8 +95,12 @@
         "hasc:id":"MX.PU.CH",
         "inegi:id":"21046"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1e27dbe44d50fec1f113e7020ce8b12f",
+    "wof:geomhash":"0acbab22f96546dc99c19a341393fd8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102078093,
-    "wof:lastmodified":1625076029,
+    "wof:lastmodified":1695886650,
     "wof:name":"Chapulco",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

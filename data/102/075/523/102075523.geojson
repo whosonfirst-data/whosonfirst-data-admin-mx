@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035091,
-    "geom:area_square_m":418394795.14061,
+    "geom:area_square_m":418394370.923536,
     "geom:bbox":"-92.737137,15.214777,-92.429122,15.487327",
     "geom:latitude":15.364432,
     "geom:longitude":-92.558168,
@@ -166,8 +166,12 @@
         "inegi:id":"07032",
         "wd:id":"Q1477389"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3c083bd51a903f13f0055c20dadb6e03",
+    "wof:geomhash":"80a3ca8a049363ed0f74489557acadf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":102075523,
-    "wof:lastmodified":1690847242,
+    "wof:lastmodified":1695886531,
     "wof:name":"Escuintla",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027767,
-    "geom:area_square_m":323199810.100183,
+    "geom:area_square_m":323199712.85053,
     "geom:bbox":"-98.560582,19.602377,-98.28354,19.862263",
     "geom:latitude":19.722905,
     "geom:longitude":-98.447001,
@@ -125,8 +125,12 @@
         "inegi:id":"13008",
         "wd:id":"Q27796634"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4956ae6b0d5bbe393c60f333229e1cc7",
+    "wof:geomhash":"8304e85f8f625d15fe4bc67034d732eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102078469,
-    "wof:lastmodified":1690846876,
+    "wof:lastmodified":1695886930,
     "wof:name":"Apan",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

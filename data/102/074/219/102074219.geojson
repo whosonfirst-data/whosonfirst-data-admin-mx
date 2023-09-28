@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041301,
-    "geom:area_square_m":481681324.467478,
+    "geom:area_square_m":481681324.467542,
     "geom:bbox":"-99.9379530454,19.2438097245,-99.7022187557,19.5508496857",
     "geom:latitude":19.405578,
     "geom:longitude":-99.829454,
@@ -128,8 +128,12 @@
         "inegi:id":"15005",
         "wd:id":"Q1962111"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ce082c8fd1ad09577c257d4d88d1df0b",
+    "wof:geomhash":"5c2247a5dd5fada7de1c18252f3fdcea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102074219,
-    "wof:lastmodified":1566615835,
+    "wof:lastmodified":1695886001,
     "wof:name":"Almoloya de Ju\u00e1rez",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

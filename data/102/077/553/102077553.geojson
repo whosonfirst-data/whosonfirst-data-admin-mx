@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012883,
-    "geom:area_square_m":150289919.776558,
+    "geom:area_square_m":150289919.776458,
     "geom:bbox":"-97.1749378954,19.2800483575,-96.9714556056,19.4651009077",
     "geom:latitude":19.365568,
     "geom:longitude":-97.092269,
@@ -97,8 +97,12 @@
         "inegi:id":"30079",
         "wd:id":"Q3888173"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"783bd45f48577f864f367337995265ad",
+    "wof:geomhash":"03ce2d95a4ec7c4f20bc836e567af021",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":102077553,
-    "wof:lastmodified":1566615380,
+    "wof:lastmodified":1695886877,
     "wof:name":"Ixhuac\u00e1n de los Reyes",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

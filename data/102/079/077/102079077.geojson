@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00385,
-    "geom:area_square_m":44398162.423107,
+    "geom:area_square_m":44398144.192964,
     "geom:bbox":"-89.569055,21.115324,-89.470682,21.190404",
     "geom:latitude":21.150731,
     "geom:longitude":-89.526744,
@@ -152,8 +152,12 @@
         "inegi:id":"31020",
         "wd:id":"Q2533073"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8a8251304cf41b5f7a950b7badf22613",
+    "wof:geomhash":"1932e5f9574b02b9c1462c621f5be1b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":102079077,
-    "wof:lastmodified":1690846566,
+    "wof:lastmodified":1695886851,
     "wof:name":"Chicxulub Pueblo",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

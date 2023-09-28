@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004608,
-    "geom:area_square_m":53938111.900238,
+    "geom:area_square_m":53938111.900173,
     "geom:bbox":"-98.8041207403,18.758411131,-98.6886644045,18.8618637361",
     "geom:latitude":18.806869,
     "geom:longitude":-98.753802,
@@ -88,8 +88,12 @@
         "hasc:id":"MX.MR.ZA",
         "inegi:id":"17032"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9d736af26e2d66bc1129a7322833499b",
+    "wof:geomhash":"d8e6eb15a0d997e9ecb0f3ea8494e210",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102074253,
-    "wof:lastmodified":1566615963,
+    "wof:lastmodified":1695886060,
     "wof:name":"Zacualpan",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

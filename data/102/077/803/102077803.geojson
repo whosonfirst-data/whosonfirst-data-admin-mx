@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004432,
-    "geom:area_square_m":51608609.598739,
+    "geom:area_square_m":51608513.839447,
     "geom:bbox":"-97.25972,19.614196,-97.149508,19.688109",
     "geom:latitude":19.651949,
     "geom:longitude":-97.202932,
@@ -113,8 +113,12 @@
         "inegi:id":"30194",
         "wd:id":"Q3845860"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"186838bec82a9d87dd1aa1c124750a6a",
+    "wof:geomhash":"861dc00c23157075fd9d61dead82d0ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077803,
-    "wof:lastmodified":1690846625,
+    "wof:lastmodified":1695886864,
     "wof:name":"Villa Aldama",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

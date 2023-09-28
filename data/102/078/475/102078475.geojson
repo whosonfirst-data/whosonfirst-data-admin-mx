@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023508,
-    "geom:area_square_m":272601735.739377,
+    "geom:area_square_m":272601660.997683,
     "geom:bbox":"-98.993445,20.181852,-98.784035,20.435939",
     "geom:latitude":20.314547,
     "geom:longitude":-98.889691,
@@ -128,8 +128,12 @@
         "inegi:id":"13003",
         "wd:id":"Q344499"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"85668f524605d626de58993b43606541",
+    "wof:geomhash":"2b994d3a09076e99aa28a8f8cca8ef61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102078475,
-    "wof:lastmodified":1690846866,
+    "wof:lastmodified":1695886926,
     "wof:name":"Actopan",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001923,
-    "geom:area_square_m":22683288.081091,
+    "geom:area_square_m":22683208.164503,
     "geom:bbox":"-97.337517,17.460188,-97.257935,17.510094",
     "geom:latitude":17.484687,
     "geom:longitude":-97.296108,
@@ -115,8 +115,12 @@
         "inegi:id":"20096",
         "wd:id":"Q3889141"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"be40ca6310ec0fd9b7cb6ec16d578847",
+    "wof:geomhash":"a60c10880b154576ee0337f89504803c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":102076129,
-    "wof:lastmodified":1690846739,
+    "wof:lastmodified":1695886896,
     "wof:name":"San Andr\u00e9s Sinaxtla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

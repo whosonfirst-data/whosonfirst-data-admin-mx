@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":2281599.859233,
+    "geom:area_square_m":2281599.859241,
     "geom:bbox":"-96.693533,17.031561,-96.678688,17.063686",
     "geom:latitude":17.048594,
     "geom:longitude":-96.685094,
@@ -113,11 +113,15 @@
         "inegi:id":"20375",
         "wd:id":"Q3850573"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101992313
     ],
     "wof:country":"MX",
-    "wof:geomhash":"1edd630d3259299fbeb323e372b78572",
+    "wof:geomhash":"e1e00b459a78e82b548c25e58c639bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102076009,
-    "wof:lastmodified":1625076015,
+    "wof:lastmodified":1695886642,
     "wof:name":"Santa Cruz Amilpas",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

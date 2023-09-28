@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005225,
-    "geom:area_square_m":61474219.437901,
+    "geom:area_square_m":61474219.437856,
     "geom:bbox":"-98.1735639237,17.8779338326,-98.0775163108,17.9808218516",
     "geom:latitude":17.92988,
     "geom:longitude":-98.129169,
@@ -95,8 +95,12 @@
         "inegi:id":"20032",
         "wd:id":"Q4968485"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b0d126cf557d07b5aa7c6ffba07cc0fb",
+    "wof:geomhash":"ccecf4e42421e979e9b5f9bb8ff30d19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102076273,
-    "wof:lastmodified":1566615445,
+    "wof:lastmodified":1695886893,
     "wof:name":"Fresnillo de Trujano",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

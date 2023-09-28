@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014595,
-    "geom:area_square_m":172945905.579661,
+    "geom:area_square_m":172945754.185857,
     "geom:bbox":"-95.957091,16.518633,-95.803024,16.694293",
     "geom:latitude":16.604252,
     "geom:longitude":-95.883806,
@@ -119,8 +119,12 @@
         "inegi:id":"20357",
         "wd:id":"Q3889060"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8dd9747d22874491172fc449cdd4c174",
+    "wof:geomhash":"880dd78be18bea4c7776c490e2d067d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102076543,
-    "wof:lastmodified":1690846741,
+    "wof:lastmodified":1695886896,
     "wof:name":"Santa Ana Tavela",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

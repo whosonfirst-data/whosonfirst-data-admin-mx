@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02123,
-    "geom:area_square_m":247929624.963048,
+    "geom:area_square_m":247929549.548007,
     "geom:bbox":"-96.339672,19.102183,-96.090983,19.265381",
     "geom:latitude":19.185826,
     "geom:longitude":-96.221668,
@@ -335,8 +335,12 @@
         "inegi:id":"30193",
         "wd:id":"Q60130"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"96011387def813e9df166dcb04fee8d5",
+    "wof:geomhash":"acd250f521763e09000dc8ff7673beea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -346,7 +350,7 @@
         }
     ],
     "wof:id":102078669,
-    "wof:lastmodified":1690846826,
+    "wof:lastmodified":1695886913,
     "wof:name":"Veracruz",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

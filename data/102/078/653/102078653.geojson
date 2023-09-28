@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00098,
-    "geom:area_square_m":11429229.092431,
+    "geom:area_square_m":11429229.092394,
     "geom:bbox":"-98.2349666997,19.3384418064,-98.1495056023,19.3859886415",
     "geom:latitude":19.362071,
     "geom:longitude":-98.181523,
@@ -112,8 +112,12 @@
         "inegi:id":"29001",
         "wd:id":"Q4740701"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"07162b3c9a00ae47cca7e20fbd150353",
+    "wof:geomhash":"3e67be4e53e573c50f87264c158f36c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":102078653,
-    "wof:lastmodified":1566615628,
+    "wof:lastmodified":1695886933,
     "wof:name":"Amaxac de Guerrero",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065642,
-    "geom:area_square_m":770678654.272181,
+    "geom:area_square_m":770678633.082231,
     "geom:bbox":"-93.528556,18.151238,-93.095588,18.42862",
     "geom:latitude":18.286929,
     "geom:longitude":-93.336698,
@@ -144,8 +144,12 @@
         "inegi:id":"27005",
         "wd:id":"Q2177497"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0c9f032d300dd879bfc0b7a44041335c",
+    "wof:geomhash":"4c66fb918990bbc055fad96f99b51903",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":102075785,
-    "wof:lastmodified":1690847184,
+    "wof:lastmodified":1695886119,
     "wof:name":"Comalcalco",
     "wof:parent_id":85686617,
     "wof:placetype":"county",

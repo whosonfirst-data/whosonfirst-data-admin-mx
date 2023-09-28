@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000815,
-    "geom:area_square_m":9536229.988102,
+    "geom:area_square_m":9536205.423257,
     "geom:bbox":"-97.911853,18.886873,-97.872039,18.921912",
     "geom:latitude":18.907725,
     "geom:longitude":-97.891706,
@@ -116,8 +116,12 @@
         "inegi:id":"21097",
         "wd:id":"Q6884132"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"62d209d0b8ac68369a88a463ab622c89",
+    "wof:geomhash":"2cdd5f03b543ad321309ec8a13ad1482",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102078199,
-    "wof:lastmodified":1690846857,
+    "wof:lastmodified":1695886923,
     "wof:name":"Mixtla",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

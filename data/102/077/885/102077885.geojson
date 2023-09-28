@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002534,
-    "geom:area_square_m":29588348.583498,
+    "geom:area_square_m":29588348.133157,
     "geom:bbox":"-98.30631,19.160751,-98.230237,19.232714",
     "geom:latitude":19.193848,
     "geom:longitude":-98.260385,
@@ -118,8 +118,12 @@
         "inegi:id":"29044",
         "wd:id":"Q20204908"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e562bb6ec4f9d1c3d0a39a92b8f17ee4",
+    "wof:geomhash":"49f3c838062a87d039bed9e479266bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":102077885,
-    "wof:lastmodified":1690846670,
+    "wof:lastmodified":1695886881,
     "wof:name":"Zacatelco",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

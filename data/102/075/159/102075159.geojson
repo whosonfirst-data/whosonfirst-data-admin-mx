@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.823736,
-    "geom:area_square_m":9307123232.793333,
+    "geom:area_square_m":9307123232.792776,
     "geom:bbox":"-105.572473828,23.3975025279,-104.101998661,24.4246508747",
     "geom:latitude":23.970483,
     "geom:longitude":-104.843701,
@@ -321,8 +321,12 @@
         "hasc:id":"MX.DU.DU",
         "inegi:id":"10005"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"294dcf9986493b93659c0db38b1bc615",
+    "wof:geomhash":"4e0a256f8ce87b9e8b27f10c05b6b86a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -332,7 +336,7 @@
         }
     ],
     "wof:id":102075159,
-    "wof:lastmodified":1566616022,
+    "wof:lastmodified":1695886088,
     "wof:name":"Durango",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

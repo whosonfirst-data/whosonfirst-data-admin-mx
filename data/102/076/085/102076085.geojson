@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008821,
-    "geom:area_square_m":104535599.793257,
+    "geom:area_square_m":104535599.793225,
     "geom:bbox":"-96.9320378298,16.5230216165,-96.7768943729,16.6377428686",
     "geom:latitude":16.5798,
     "geom:longitude":-96.851457,
@@ -81,8 +81,12 @@
         "hasc:id":"MX.OA.AZ",
         "inegi:id":"20017"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1a44acc29ab27fcbf952496fba31f96e",
+    "wof:geomhash":"ad86f37e79557f1ade114a9a4c297d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":102076085,
-    "wof:lastmodified":1566615451,
+    "wof:lastmodified":1695886894,
     "wof:name":"La Compa\u00f1\u00eda",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

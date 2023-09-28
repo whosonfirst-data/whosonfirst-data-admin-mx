@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009805,
-    "geom:area_square_m":114470152.568586,
+    "geom:area_square_m":114470375.924235,
     "geom:bbox":"-99.154395,19.152544,-99.007045,19.32045",
     "geom:latitude":19.245145,
     "geom:longitude":-99.090364,
@@ -212,8 +212,12 @@
         "inegi:id":"09013",
         "wd:id":"Q643026"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"50da92bff37b86f7a3236e33444e9c52",
+    "wof:geomhash":"31ac433d1e16afd253168e5c1c348723",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -223,7 +227,7 @@
         }
     ],
     "wof:id":102073731,
-    "wof:lastmodified":1690847002,
+    "wof:lastmodified":1695886943,
     "wof:name":"Xochimilco",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

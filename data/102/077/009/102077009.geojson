@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010199,
-    "geom:area_square_m":119904892.604782,
+    "geom:area_square_m":119904892.604784,
     "geom:bbox":"-97.1169477132,17.9769101647,-96.9663363031,18.110502275",
     "geom:latitude":18.044337,
     "geom:longitude":-97.039239,
@@ -97,8 +97,12 @@
         "inegi:id":"20206",
         "wd:id":"Q7414641"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a734c047e5afbb14cad7f210295abe45",
+    "wof:geomhash":"6ea0ce6f71135c70283a92c9a857e28c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":102077009,
-    "wof:lastmodified":1566615335,
+    "wof:lastmodified":1695886864,
     "wof:name":"San Juan de los Cu\u00e9s",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

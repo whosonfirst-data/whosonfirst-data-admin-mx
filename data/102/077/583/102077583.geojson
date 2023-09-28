@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015402,
-    "geom:area_square_m":179583789.886722,
+    "geom:area_square_m":179583801.863159,
     "geom:bbox":"-97.151661,19.368611,-96.894774,19.523039",
     "geom:latitude":19.447817,
     "geom:longitude":-97.058336,
@@ -134,8 +134,12 @@
         "inegi:id":"30092",
         "wd:id":"Q20270917"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6a24bac0176e118fd62f16f70b5bb4af",
+    "wof:geomhash":"6893b5346d364595be6cc18ff33f752e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102077583,
-    "wof:lastmodified":1690846699,
+    "wof:lastmodified":1695886890,
     "wof:name":"Xico",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

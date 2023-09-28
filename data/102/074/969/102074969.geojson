@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028553,
-    "geom:area_square_m":332821327.48486,
+    "geom:area_square_m":332821263.730174,
     "geom:bbox":"-102.575943,19.405656,-102.334652,19.581863",
     "geom:latitude":19.495289,
     "geom:longitude":-102.45261,
@@ -122,8 +122,12 @@
         "inegi:id":"16068",
         "wd:id":"Q3889565"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a3d2a65eff5aa57aa4fd5343fa192957",
+    "wof:geomhash":"fe0d690765b2dbf8278e4f5160b7e745",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102074969,
-    "wof:lastmodified":1690847092,
+    "wof:lastmodified":1695886035,
     "wof:name":"Perib\u00e1n",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

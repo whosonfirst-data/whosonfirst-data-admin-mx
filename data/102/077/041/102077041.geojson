@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05905,
-    "geom:area_square_m":696397534.852866,
+    "geom:area_square_m":696397713.21611,
     "geom:bbox":"-95.975373,17.318491,-95.570272,17.705715",
     "geom:latitude":17.493296,
     "geom:longitude":-95.791307,
@@ -113,8 +113,12 @@
         "inegi:id":"20205",
         "wd:id":"Q3888107"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9675d2c5cd53ffb068c9dfce04c0ae47",
+    "wof:geomhash":"b5d5246d83bcb26f20619c5b42f100f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077041,
-    "wof:lastmodified":1690846610,
+    "wof:lastmodified":1695886860,
     "wof:name":"San Juan Lalana",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

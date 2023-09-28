@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016364,
-    "geom:area_square_m":188602520.378325,
+    "geom:area_square_m":188602455.606002,
     "geom:bbox":"-99.073731,21.151159,-98.898576,21.311337",
     "geom:latitude":21.234488,
     "geom:longitude":-98.988833,
@@ -116,8 +116,12 @@
         "inegi:id":"13049",
         "wd:id":"Q3845454"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dd858a8a09179bb2c94c9d3ad5921a94",
+    "wof:geomhash":"1e35a9e473b939c1bec3cf9771b5580f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102078541,
-    "wof:lastmodified":1690846894,
+    "wof:lastmodified":1695886939,
     "wof:name":"Pisaflores",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

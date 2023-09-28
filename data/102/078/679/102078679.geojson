@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029039,
-    "geom:area_square_m":323457687.814928,
+    "geom:area_square_m":323457485.974394,
     "geom:bbox":"-100.148574,25.657564,-99.766613,25.83647",
     "geom:latitude":25.736769,
     "geom:longitude":-99.977135,
@@ -119,8 +119,12 @@
         "inegi:id":"19041",
         "wd:id":"Q3844518"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"85c2a861cfcf49d189ff08f69056bcc6",
+    "wof:geomhash":"fdb9e7ce813e7daad5f2df2798629830",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102078679,
-    "wof:lastmodified":1690846872,
+    "wof:lastmodified":1695886928,
     "wof:name":"Pesquer\u00eda",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

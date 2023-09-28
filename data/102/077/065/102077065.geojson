@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101229,
-    "geom:area_square_m":1201875453.580921,
+    "geom:area_square_m":1201875053.675935,
     "geom:bbox":"-95.616775,15.963845,-95.164657,16.932865",
     "geom:latitude":16.22171,
     "geom:longitude":-95.391596,
@@ -127,8 +127,12 @@
         "inegi:id":"20515",
         "wd:id":"Q4407914"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b18822fd38ae89cca036a370688c35c5",
+    "wof:geomhash":"a7a65b05a73a25034658a6f34d5346c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102077065,
-    "wof:lastmodified":1690846620,
+    "wof:lastmodified":1695886863,
     "wof:name":"Santo Domingo Tehuantepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

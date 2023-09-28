@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00881,
-    "geom:area_square_m":103094399.628449,
+    "geom:area_square_m":103094345.294423,
     "geom:bbox":"-99.352308,18.773509,-99.203114,18.921865",
     "geom:latitude":18.842523,
     "geom:longitude":-99.272229,
@@ -140,8 +140,12 @@
         "inegi:id":"17018",
         "wd:id":"Q602729"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9affee2ba5626ff940b0502953cd057b",
+    "wof:geomhash":"60fa2518b7ef8a44870a6968202579c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":102074235,
-    "wof:lastmodified":1690847060,
+    "wof:lastmodified":1695886009,
     "wof:name":"Temixco",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

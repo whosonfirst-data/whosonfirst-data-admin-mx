@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005511,
-    "geom:area_square_m":63934344.978797,
+    "geom:area_square_m":63934192.420562,
     "geom:bbox":"-98.284624,20.215257,-98.182919,20.304545",
     "geom:latitude":20.26016,
     "geom:longitude":-98.238878,
@@ -531,8 +531,12 @@
         "inegi:id":"21057",
         "wd:id":"Q1998711"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c27dc14bc42ea5b5eed67c85b71fe8f8",
+    "wof:geomhash":"f8340826eebb60d909a2d5c8843a49cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -542,7 +546,7 @@
         }
     ],
     "wof:id":102078115,
-    "wof:lastmodified":1690846889,
+    "wof:lastmodified":1695886936,
     "wof:name":"Honey",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

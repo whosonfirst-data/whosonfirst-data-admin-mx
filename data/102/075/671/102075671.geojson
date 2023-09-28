@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024003,
-    "geom:area_square_m":284489562.560359,
+    "geom:area_square_m":284489258.103477,
     "geom:bbox":"-92.611032,16.454696,-92.37294,16.650395",
     "geom:latitude":16.561103,
     "geom:longitude":-92.508812,
@@ -138,8 +138,12 @@
         "inegi:id":"07094",
         "wd:id":"Q2980027"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c6e2268319cad9c189f3c9abc7e00efa",
+    "wof:geomhash":"1de654e52ae77c54b0680559a3682070",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":102075671,
-    "wof:lastmodified":1690847209,
+    "wof:lastmodified":1695886138,
     "wof:name":"Teopisca",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

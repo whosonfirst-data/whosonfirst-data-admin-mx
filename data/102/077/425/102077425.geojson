@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002554,
-    "geom:area_square_m":29932308.315785,
+    "geom:area_square_m":29932230.04668,
     "geom:bbox":"-97.144563,18.521315,-97.048074,18.588393",
     "geom:latitude":18.561756,
     "geom:longitude":-97.100341,
@@ -119,8 +119,12 @@
         "inegi:id":"30019",
         "wd:id":"Q513993"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c6bd8f735df4d766902c50192d7aa65c",
+    "wof:geomhash":"45ce4fa3879ad0007540e235ac0b14b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077425,
-    "wof:lastmodified":1690846611,
+    "wof:lastmodified":1695886860,
     "wof:name":"Astacinga",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

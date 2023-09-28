@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008758,
-    "geom:area_square_m":102585491.463042,
+    "geom:area_square_m":102585444.402246,
     "geom:bbox":"-98.854636,18.587832,-98.711426,18.752288",
     "geom:latitude":18.685403,
     "geom:longitude":-98.76471,
@@ -113,8 +113,12 @@
         "inegi:id":"17010",
         "wd:id":"Q17377213"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"060907fba6bd3c57ded52b2b8e4f6b63",
+    "wof:geomhash":"fefe7c54b4bcafbe16ae4ead9d397d70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102074291,
-    "wof:lastmodified":1690847117,
+    "wof:lastmodified":1695886062,
     "wof:name":"Jantetelco",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

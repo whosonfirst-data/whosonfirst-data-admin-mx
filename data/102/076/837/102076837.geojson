@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008766,
-    "geom:area_square_m":103614258.444368,
+    "geom:area_square_m":103614134.034218,
     "geom:bbox":"-97.653254,16.983026,-97.564686,17.166412",
     "geom:latitude":17.078551,
     "geom:longitude":-97.615872,
@@ -113,8 +113,12 @@
         "inegi:id":"20269",
         "wd:id":"Q7414958"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"066d956837af864c795766677e9ebf5a",
+    "wof:geomhash":"3809e29375b0b9d3e38e15a2500807e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076837,
-    "wof:lastmodified":1690846777,
+    "wof:lastmodified":1695886646,
     "wof:name":"San Miguel el Grande",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

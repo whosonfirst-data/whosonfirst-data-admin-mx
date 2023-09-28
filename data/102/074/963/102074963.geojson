@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006808,
-    "geom:area_square_m":79347046.5395,
+    "geom:area_square_m":79346966.962033,
     "geom:bbox":"-101.516865,19.473332,-101.404244,19.577178",
     "geom:latitude":19.521542,
     "geom:longitude":-101.457062,
@@ -121,8 +121,12 @@
         "inegi:id":"16039",
         "wd:id":"Q9005333"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cd665d6ee9092ce591290e92ebdeee46",
+    "wof:geomhash":"90b45cebc0c61c8236d013c8ae314d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102074963,
-    "wof:lastmodified":1690847039,
+    "wof:lastmodified":1695885993,
     "wof:name":"Huiramba",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

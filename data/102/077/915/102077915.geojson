@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013309,
-    "geom:area_square_m":155140195.788954,
+    "geom:area_square_m":155140116.712184,
     "geom:bbox":"-98.039153,19.414834,-97.847209,19.545518",
     "geom:latitude":19.483994,
     "geom:longitude":-97.934468,
@@ -82,8 +82,12 @@
         "hasc:id":"MX.TL.TR",
         "inegi:id":"29030"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a535e9462e6cabaadc22637a1328c643",
+    "wof:geomhash":"bafd3da375c2d1cc6d74c969347eb3f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":102077915,
-    "wof:lastmodified":1625076007,
+    "wof:lastmodified":1695886638,
     "wof:name":"Terrenate",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

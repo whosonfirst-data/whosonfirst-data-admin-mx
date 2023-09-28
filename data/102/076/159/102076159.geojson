@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016768,
-    "geom:area_square_m":198859814.549204,
+    "geom:area_square_m":198859709.08719,
     "geom:bbox":"-97.38179,16.369938,-97.159913,16.499051",
     "geom:latitude":16.439544,
     "geom:longitude":-97.266347,
@@ -107,8 +107,12 @@
         "inegi:id":"20477",
         "wd:id":"Q3892650"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b22c6f1e74f547efd5d0294c1afbe0bf",
+    "wof:geomhash":"60b057df5d43dd59236af27daa7ba2c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102076159,
-    "wof:lastmodified":1690846707,
+    "wof:lastmodified":1695886891,
     "wof:name":"Santiago Minas",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

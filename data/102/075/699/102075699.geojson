@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005749,
-    "geom:area_square_m":67907654.71002,
+    "geom:area_square_m":67907425.393813,
     "geom:bbox":"-93.038609,17.130262,-92.941979,17.238834",
     "geom:latitude":17.192221,
     "geom:longitude":-92.996576,
@@ -119,8 +119,12 @@
         "inegi:id":"07073",
         "wd:id":"Q9066806"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"de0c41cddbd4eb466290c6c0d36ee0d4",
+    "wof:geomhash":"01e21c8f5d01509d0632a665267e2822",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102075699,
-    "wof:lastmodified":1690847219,
+    "wof:lastmodified":1695886148,
     "wof:name":"Ray\u00f3n",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

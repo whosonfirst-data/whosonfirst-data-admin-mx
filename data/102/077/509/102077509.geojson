@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01489,
-    "geom:area_square_m":175045498.455229,
+    "geom:area_square_m":175045317.745887,
     "geom:bbox":"-94.819595,18.000965,-94.587865,18.119867",
     "geom:latitude":18.059832,
     "geom:longitude":-94.70118,
@@ -120,8 +120,12 @@
         "inegi:id":"30059",
         "wd:id":"Q5100104"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a2d60e42b6d748dfb1a8ac1566078869",
+    "wof:geomhash":"d4ebd2ecb36c24d3321c02884eb6da87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102077509,
-    "wof:lastmodified":1690846658,
+    "wof:lastmodified":1695886875,
     "wof:name":"Chinameca",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

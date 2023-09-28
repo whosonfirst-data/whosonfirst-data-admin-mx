@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00663,
-    "geom:area_square_m":79004512.227188,
+    "geom:area_square_m":79004512.227176,
     "geom:bbox":"-92.2073764363,15.4259195298,-92.1128979948,15.5503504014",
     "geom:latitude":15.491755,
     "geom:longitude":-92.161293,
@@ -113,8 +113,12 @@
         "inegi:id":"07010",
         "wd:id":"Q1507960"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a7cb9825828038f03e81aabb09b67796",
+    "wof:geomhash":"6db90fdbc8921e25e123dafad023da2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102075611,
-    "wof:lastmodified":1566616078,
+    "wof:lastmodified":1695886106,
     "wof:name":"Bejucal de Ocampo",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

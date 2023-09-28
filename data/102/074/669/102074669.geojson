@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013106,
-    "geom:area_square_m":151618460.882738,
+    "geom:area_square_m":151618460.882843,
     "geom:bbox":"-103.407065,20.603737,-103.263762,20.752655",
     "geom:latitude":20.675971,
     "geom:longitude":-103.335807,
@@ -118,11 +118,15 @@
         "inegi:id":"14039",
         "wd:id":"Q12348369"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101997865
     ],
     "wof:country":"MX",
-    "wof:geomhash":"223dd23779b8ba5c5b0efad737939553",
+    "wof:geomhash":"38bd25ccdf38e702931f481f802989f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102074669,
-    "wof:lastmodified":1690847061,
+    "wof:lastmodified":1695886511,
     "wof:name":"Guadalajara",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

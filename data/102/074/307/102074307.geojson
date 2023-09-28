@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.562284,
-    "geom:area_square_m":6319003868.368771,
+    "geom:area_square_m":6319003215.616463,
     "geom:bbox":"-107.823133,24.034688,-106.871157,25.275981",
     "geom:latitude":24.65149,
     "geom:longitude":-107.266654,
@@ -136,8 +136,12 @@
         "inegi:id":"25006",
         "wd:id":"Q2485095"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e6ea00e91ec943308eaa42742ceda3f5",
+    "wof:geomhash":"8fadf1c1841cd24bd401fe93d44d4a42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":102074307,
-    "wof:lastmodified":1690847029,
+    "wof:lastmodified":1695885987,
     "wof:name":"Culiac\u00e1n",
     "wof:parent_id":85686535,
     "wof:placetype":"county",

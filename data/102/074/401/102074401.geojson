@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05442,
-    "geom:area_square_m":594103795.138745,
+    "geom:area_square_m":594103795.138549,
     "geom:bbox":"-110.856138604,27.8581705108,-110.515313729,28.150622958",
     "geom:latitude":28.008495,
     "geom:longitude":-110.668726,
@@ -92,8 +92,12 @@
         "hasc:id":"MX.SO.EM",
         "inegi:id":"26025"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7fa44bba84d929b73df055a3e71e4f20",
+    "wof:geomhash":"6c993ed50455e63772e480dd2ac3dd5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102074401,
-    "wof:lastmodified":1566615842,
+    "wof:lastmodified":1695886006,
     "wof:name":"Empalme",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

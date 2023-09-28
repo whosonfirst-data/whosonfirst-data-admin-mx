@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021363,
-    "geom:area_square_m":254481528.647177,
+    "geom:area_square_m":254481528.647302,
     "geom:bbox":"-92.2000253082,15.3999046005,-91.9900749055,15.6459439271",
     "geom:latitude":15.556835,
     "geom:longitude":-92.097163,
@@ -120,8 +120,12 @@
         "inegi:id":"07006",
         "wd:id":"Q1265580"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"03a70edd35ababc8edf2c4c958779d61",
+    "wof:geomhash":"7945f7c88b1b3397c32d6a0179001f65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102075619,
-    "wof:lastmodified":1566616069,
+    "wof:lastmodified":1695886100,
     "wof:name":"Amatenango de la Frontera",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

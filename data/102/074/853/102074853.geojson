@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026316,
-    "geom:area_square_m":306704214.12784,
+    "geom:area_square_m":306704214.127929,
     "geom:bbox":"-103.895124861,19.4087397084,-103.618276501,19.5977126204",
     "geom:latitude":19.515573,
     "geom:longitude":-103.758337,
@@ -107,8 +107,12 @@
         "inegi:id":"14122",
         "wd:id":"Q3311317"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2e9ec8d127e2209ec1b33f7ddc1fa08b",
+    "wof:geomhash":"297d62f5803552f58e2f6f3eca3334e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102074853,
-    "wof:lastmodified":1566615971,
+    "wof:lastmodified":1695886062,
     "wof:name":"Zapotitl\u00e1n de Vadillo",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

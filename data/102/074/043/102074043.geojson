@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0179,
-    "geom:area_square_m":209171386.859779,
+    "geom:area_square_m":209171440.608247,
     "geom:bbox":"-99.785134,19.009978,-99.526502,19.142517",
     "geom:latitude":19.081664,
     "geom:longitude":-99.629261,
@@ -125,8 +125,12 @@
         "inegi:id":"15090",
         "wd:id":"Q2607191"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8d5bfefbbc02b0b2157d50131b3eba31",
+    "wof:geomhash":"12d28d475482e13045efb942bcae849b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102074043,
-    "wof:lastmodified":1690847107,
+    "wof:lastmodified":1695886053,
     "wof:name":"Tenango del Valle",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

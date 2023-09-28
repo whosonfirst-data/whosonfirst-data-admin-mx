@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034716,
-    "geom:area_square_m":399711832.892604,
+    "geom:area_square_m":399711595.257857,
     "geom:bbox":"-99.13783,21.279433,-98.866388,21.502809",
     "geom:latitude":21.385887,
     "geom:longitude":-99.025405,
@@ -131,8 +131,12 @@
         "inegi:id":"24054",
         "wd:id":"Q2313212"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ed35945a7f648df579ad0551504ae18c",
+    "wof:geomhash":"4ffa387cde844adeb72fea9b4734f8db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102077135,
-    "wof:lastmodified":1690846594,
+    "wof:lastmodified":1695886855,
     "wof:name":"Xilitla",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

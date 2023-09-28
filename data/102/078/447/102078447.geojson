@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001756,
-    "geom:area_square_m":20406761.748304,
+    "geom:area_square_m":20406761.748326,
     "geom:bbox":"-97.738423741,19.9870812392,-97.6305524235,20.0215904817",
     "geom:latitude":20.00415,
     "geom:longitude":-97.692609,
@@ -102,8 +102,12 @@
         "inegi:id":"21210",
         "wd:id":"Q2449205"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e6c1995e434dd600cc3ccbcd82782fff",
+    "wof:geomhash":"3ac66ff23d69452ebf808afb45f898dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":102078447,
-    "wof:lastmodified":1566615535,
+    "wof:lastmodified":1695886908,
     "wof:name":"Zapotitl\u00e1n de M\u00e9ndez",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

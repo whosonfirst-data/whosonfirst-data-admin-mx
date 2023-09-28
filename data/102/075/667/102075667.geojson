@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014265,
-    "geom:area_square_m":169113947.710505,
+    "geom:area_square_m":169113947.710395,
     "geom:bbox":"-92.7664476338,16.4419614337,-92.5754281946,16.5813096765",
     "geom:latitude":16.515155,
     "geom:longitude":-92.659963,
@@ -116,8 +116,12 @@
         "inegi:id":"07098",
         "wd:id":"Q2595443"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e8a15a10b505c496ef941c8985577705",
+    "wof:geomhash":"6133c0d3be0b285b5670007925547bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075667,
-    "wof:lastmodified":1566616093,
+    "wof:lastmodified":1695886110,
     "wof:name":"Totolapa",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02014,
-    "geom:area_square_m":234468905.788066,
+    "geom:area_square_m":234468846.716467,
     "geom:bbox":"-102.306296,19.580575,-102.146246,19.814238",
     "geom:latitude":19.692418,
     "geom:longitude":-102.22797,
@@ -113,8 +113,12 @@
         "inegi:id":"16021",
         "wd:id":"Q3893388"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a4f8bc4693246afed0bb41cab7b284ef",
+    "wof:geomhash":"d146525c14db9e5c8b8f6a5953062e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102075009,
-    "wof:lastmodified":1690847171,
+    "wof:lastmodified":1695886110,
     "wof:name":"Charapan",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

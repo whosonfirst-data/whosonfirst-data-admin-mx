@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03444,
-    "geom:area_square_m":399838063.598242,
+    "geom:area_square_m":399838063.59857,
     "geom:bbox":"-97.1575292375,19.9586007707,-96.9430983614,20.280832441",
     "geom:latitude":20.133548,
     "geom:longitude":-97.051033,
@@ -114,8 +114,12 @@
         "inegi:id":"30102",
         "wd:id":"Q974535"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4131a284e3fbbb8b31299ffb8adef7f8",
+    "wof:geomhash":"efc0b1ef21831249f52f4641b56b4d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":102077605,
-    "wof:lastmodified":1566615331,
+    "wof:lastmodified":1695886864,
     "wof:name":"Mart\u00ednez de la Torre",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017308,
-    "geom:area_square_m":198287306.958714,
+    "geom:area_square_m":198287306.958922,
     "geom:bbox":"-102.418454614,22.0267345142,-102.190897199,22.1830851292",
     "geom:latitude":22.104542,
     "geom:longitude":-102.301677,
@@ -126,8 +126,12 @@
         "inegi:id":"01006",
         "wd:id":"Q2656546"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c88920fe86b9e08c2c4b818b8cd50a9f",
+    "wof:geomhash":"b88ffeb766a5a21d2b3640f29beead55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":102077383,
-    "wof:lastmodified":1566615348,
+    "wof:lastmodified":1695886867,
     "wof:name":"Pabell\u00f3n de Arteaga",
     "wof:parent_id":85686637,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002248,
-    "geom:area_square_m":26232921.237996,
+    "geom:area_square_m":26232921.23801,
     "geom:bbox":"-98.191814935,19.2958260921,-98.0722917477,19.3438229501",
     "geom:latitude":19.319961,
     "geom:longitude":-98.133395,
@@ -98,8 +98,12 @@
         "inegi:id":"29018",
         "wd:id":"Q3890522"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7f894594c3e74c43aee547b89322bc96",
+    "wof:geomhash":"8dd3ee9c7c3ec8af5be79cd38e608e47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102077941,
-    "wof:lastmodified":1566615350,
+    "wof:lastmodified":1695886868,
     "wof:name":"Contla de Juan Cuamatzi",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

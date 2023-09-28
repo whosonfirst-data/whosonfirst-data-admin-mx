@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.347947,
-    "geom:area_square_m":3659741943.737416,
+    "geom:area_square_m":3659741943.737816,
     "geom:bbox":"-113.510713543,31.3198371482,-112.3101837,32.0714635571",
     "geom:latitude":31.71999,
     "geom:longitude":-112.908288,
@@ -84,8 +84,12 @@
         "hasc:id":"MX.SO.GP",
         "inegi:id":"26070"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"15fe955d7ef681c6c987d996487a8714",
+    "wof:geomhash":"19bf7dfd20e5dabeb7206fde6901df98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":102074457,
-    "wof:lastmodified":1566615977,
+    "wof:lastmodified":1695886064,
     "wof:name":"General Plutarco El\u00edas Calles",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

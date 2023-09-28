@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001058,
-    "geom:area_square_m":12294565.548049,
+    "geom:area_square_m":12294534.066163,
     "geom:bbox":"-97.746108,20.025437,-97.712911,20.083665",
     "geom:latitude":20.055153,
     "geom:longitude":-97.731051,
@@ -107,8 +107,12 @@
         "inegi:id":"21030",
         "wd:id":"Q1178216"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ad97aaf5df8c8b9f24fd1cf8c5594b32",
+    "wof:geomhash":"4096602e01d33f5f07cb440083c6684b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102078057,
-    "wof:lastmodified":1690846881,
+    "wof:lastmodified":1695886932,
     "wof:name":"Coatepec",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

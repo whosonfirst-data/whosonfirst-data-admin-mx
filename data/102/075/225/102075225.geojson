@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.35176,
-    "geom:area_square_m":3759445560.828684,
+    "geom:area_square_m":3759444363.084841,
     "geom:bbox":"-108.628709,29.750026,-107.910358,30.680564",
     "geom:latitude":30.19392,
     "geom:longitude":-108.202293,
@@ -198,8 +198,12 @@
         "inegi:id":"08013",
         "wd:id":"Q2652268"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0e5b8dcb16576e1630d94c060e36f159",
+    "wof:geomhash":"8510ace09bb8e83f2988df8c4c66e13a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -209,7 +213,7 @@
         }
     ],
     "wof:id":102075225,
-    "wof:lastmodified":1690847215,
+    "wof:lastmodified":1695886142,
     "wof:name":"Casas Grandes",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002292,
-    "geom:area_square_m":27061436.721622,
+    "geom:area_square_m":27061436.721632,
     "geom:bbox":"-96.8480829764,17.2132844167,-96.7799659287,17.2842478129",
     "geom:latitude":17.247153,
     "geom:longitude":-96.815236,
@@ -114,8 +114,12 @@
         "inegi:id":"20045",
         "wd:id":"Q1656601"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5e70036c86b857b092bed6be3ef1f999",
+    "wof:geomhash":"8d3d44f13d38be0a3f02b762bb62c6ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":102075893,
-    "wof:lastmodified":1566616099,
+    "wof:lastmodified":1695886113,
     "wof:name":"Magdalena Apasco",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

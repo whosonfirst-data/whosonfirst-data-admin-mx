@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.590041,
-    "geom:area_square_m":6685469052.661403,
+    "geom:area_square_m":6685469052.661399,
     "geom:bbox":"-102.732751575,23.0406304545,-101.466715905,24.0154121232",
     "geom:latitude":23.604836,
     "geom:longitude":-102.176367,
@@ -116,8 +116,12 @@
         "inegi:id":"32051",
         "wd:id":"Q4111402"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"24a3819db3d746210c509a2d2f672310",
+    "wof:geomhash":"360eb76e8563288245fae3cfbd0d497c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075481,
-    "wof:lastmodified":1566616171,
+    "wof:lastmodified":1695886138,
     "wof:name":"Villa de Cos",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

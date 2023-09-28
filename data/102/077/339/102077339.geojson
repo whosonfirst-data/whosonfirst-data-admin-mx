@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06548,
-    "geom:area_square_m":757779270.485021,
+    "geom:area_square_m":757779270.483554,
     "geom:bbox":"-101.313420603,20.4368646863,-101.033069713,20.8668882879",
     "geom:latitude":20.62511,
     "geom:longitude":-101.165096,
@@ -324,8 +324,12 @@
         "hasc:id":"MX.GJ.SA",
         "inegi:id":"11027"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f43dac118b18a8ea4e5c09db142c347f",
+    "wof:geomhash":"a3b1aea88eaff254467e8dc8da431918",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -335,7 +339,7 @@
         }
     ],
     "wof:id":102077339,
-    "wof:lastmodified":1566615306,
+    "wof:lastmodified":1695886858,
     "wof:name":"Salamanca",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

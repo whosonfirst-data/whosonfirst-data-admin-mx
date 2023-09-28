@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01976,
-    "geom:area_square_m":228461930.224353,
+    "geom:area_square_m":228461930.224412,
     "geom:bbox":"-102.590507447,20.6684797399,-102.433246939,20.8680594858",
     "geom:latitude":20.764603,
     "geom:longitude":-102.506402,
@@ -29,7 +29,7 @@
     "mps:latitude":20.761732,
     "mps:longitude":-102.507964,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Ignacio Cerro Gordo"
@@ -80,10 +80,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":12600201
+        "gp:id":12600201,
+        "inegi:id":"14125"
     },
+    "wof:concordances_official":"inegi:id",
     "wof:country":"MX",
-    "wof:geomhash":"ef58147cc0cabd02498da5afce58bee2",
+    "wof:geomhash":"7397c0b408ef2cb6dcb27727dfca7172",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":102074705,
-    "wof:lastmodified":1566615911,
+    "wof:lastmodified":1695886971,
     "wof:name":"San Ignacio Cerro Gordo",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

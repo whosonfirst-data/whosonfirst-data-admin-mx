@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023644,
-    "geom:area_square_m":273426530.929129,
+    "geom:area_square_m":273426530.92938,
     "geom:bbox":"-97.7575371491,20.6295737757,-97.5748488676,20.8336312834",
     "geom:latitude":20.731943,
     "geom:longitude":-97.669086,
@@ -92,8 +92,12 @@
         "inegi:id":"30157",
         "wd:id":"Q5049945"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c4bc4985c8fb0900839a82ed49fd9f02",
+    "wof:geomhash":"f6d3985ce206da437f2f0cafbf0330b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102077723,
-    "wof:lastmodified":1566615359,
+    "wof:lastmodified":1695886870,
     "wof:name":"Castillo de Teayo",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065143,
-    "geom:area_square_m":747981754.195163,
+    "geom:area_square_m":747981754.195475,
     "geom:bbox":"-103.429204248,21.6311621202,-103.06922569,21.918307931",
     "geom:latitude":21.784791,
     "geom:longitude":-103.227185,
@@ -120,8 +120,12 @@
         "inegi:id":"32048",
         "wd:id":"Q3890323"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"329497bb20cbcdfa8a87e502ed2c2523",
+    "wof:geomhash":"42feb969cc8528cd8ee964457cde5f00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102075469,
-    "wof:lastmodified":1566616190,
+    "wof:lastmodified":1695886147,
     "wof:name":"Tlaltenango de S\u00e1nchez Rom\u00e1n",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

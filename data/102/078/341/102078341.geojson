@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00248,
-    "geom:area_square_m":28817164.161919,
+    "geom:area_square_m":28817164.161898,
     "geom:bbox":"-97.8301697092,19.9829332159,-97.7259357604,20.0391860406",
     "geom:latitude":20.008458,
     "geom:longitude":-97.784328,
@@ -101,8 +101,12 @@
         "inegi:id":"21162",
         "wd:id":"Q3888771"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ebd3e85148c343d8503ef0fc85b7bf43",
+    "wof:geomhash":"63a3cef7211a8e29f561949c5d76e24b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102078341,
-    "wof:lastmodified":1566615567,
+    "wof:lastmodified":1695886916,
     "wof:name":"Tepango de Rodr\u00edguez",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

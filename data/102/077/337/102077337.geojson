@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037196,
-    "geom:area_square_m":430322237.479266,
+    "geom:area_square_m":430322237.479533,
     "geom:bbox":"-101.120502548,20.5526308231,-100.851797437,20.8139222272",
     "geom:latitude":20.674104,
     "geom:longitude":-100.994084,
@@ -119,8 +119,12 @@
         "inegi:id":"11035",
         "wd:id":"Q2447599"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8fd2a4e73c229ef999f9d19fd21624c5",
+    "wof:geomhash":"bee236d6dee6cc3517d673c2e1731058",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077337,
-    "wof:lastmodified":1566615304,
+    "wof:lastmodified":1695886857,
     "wof:name":"Santa Cruz de Juventino Rosas",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

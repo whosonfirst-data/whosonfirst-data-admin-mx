@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005551,
-    "geom:area_square_m":64482806.22187,
+    "geom:area_square_m":64482806.221963,
     "geom:bbox":"-98.473588708,19.9883631205,-98.3344513412,20.0808052598",
     "geom:latitude":20.035651,
     "geom:longitude":-98.392777,
@@ -101,8 +101,12 @@
         "inegi:id":"13056",
         "wd:id":"Q4407948"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"40a6abe057db82227eb529611e3a9052",
+    "wof:geomhash":"db210bc05f64191071b8440b1481b720",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102078551,
-    "wof:lastmodified":1566615516,
+    "wof:lastmodified":1695886903,
     "wof:name":"Santiago Tulantepec de Lugo Guerrero",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

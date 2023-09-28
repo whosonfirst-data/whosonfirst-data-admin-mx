@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044507,
-    "geom:area_square_m":510549892.490227,
+    "geom:area_square_m":510549564.30614,
     "geom:bbox":"-102.176041,21.787849,-101.835289,22.069365",
     "geom:latitude":21.921519,
     "geom:longitude":-102.035398,
@@ -152,8 +152,12 @@
         "inegi:id":"01010",
         "wd:id":"Q2474668"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2dc824259203995fe9e02759ece2395e",
+    "wof:geomhash":"ed70aa6b91a8de5b7aeeb9aab5c78c59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":102077381,
-    "wof:lastmodified":1690846700,
+    "wof:lastmodified":1695886890,
     "wof:name":"El Llano",
     "wof:parent_id":85686637,
     "wof:placetype":"county",

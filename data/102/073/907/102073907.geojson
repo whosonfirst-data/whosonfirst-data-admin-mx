@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22602,
-    "geom:area_square_m":2653688040.069183,
+    "geom:area_square_m":2653688040.07031,
     "geom:bbox":"-101.90715409,17.975935974,-101.334635239,18.6124777534",
     "geom:latitude":18.283026,
     "geom:longitude":-101.649442,
@@ -105,8 +105,12 @@
         "inegi:id":"12016",
         "wd:id":"Q3311173"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"65fc2b15a868bde58f4d68d40ebc4df0",
+    "wof:geomhash":"75695e7ad71aa3b00ff8c349d4984e80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":102073907,
-    "wof:lastmodified":1566615767,
+    "wof:lastmodified":1695886942,
     "wof:name":"Coahuayutla de Jos\u00e9 Mar\u00eda Izazaga",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

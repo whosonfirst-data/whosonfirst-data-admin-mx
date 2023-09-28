@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009283,
-    "geom:area_square_m":109801902.318701,
+    "geom:area_square_m":109801555.008976,
     "geom:bbox":"-97.093058,16.868512,-96.917031,16.987945",
     "geom:latitude":16.943198,
     "geom:longitude":-97.009745,
@@ -113,8 +113,12 @@
         "inegi:id":"20273",
         "wd:id":"Q3891003"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"576f36dc974372d8e91d3858010d79ca",
+    "wof:geomhash":"a399456ba90503ce4acc5dd67bf8725e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076079,
-    "wof:lastmodified":1690846718,
+    "wof:lastmodified":1695886640,
     "wof:name":"San Miguel Peras",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

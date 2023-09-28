@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011398,
-    "geom:area_square_m":133441086.465849,
+    "geom:area_square_m":133441055.756219,
     "geom:bbox":"-98.393847,18.682276,-98.248545,18.841892",
     "geom:latitude":18.767414,
     "geom:longitude":-98.335863,
@@ -115,8 +115,12 @@
         "inegi:id":"21121",
         "wd:id":"Q4407249"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f296e03d13d11094b5948d8556a95211",
+    "wof:geomhash":"0eea25b7ae881ee8972dd40ba1a83306",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":102078251,
-    "wof:lastmodified":1690846831,
+    "wof:lastmodified":1695886914,
     "wof:name":"San Diego la Mesa Tochimiltzingo",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

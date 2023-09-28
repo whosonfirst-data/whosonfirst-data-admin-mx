@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026717,
-    "geom:area_square_m":307965486.727175,
+    "geom:area_square_m":307965415.845732,
     "geom:bbox":"-103.624538,21.11658,-103.402324,21.329292",
     "geom:latitude":21.216923,
     "geom:longitude":-103.5032,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.ZA.TG",
         "inegi:id":"32011"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fd768e584cad4da73bbca20ef776cc02",
+    "wof:geomhash":"ff14e94aee0e1f0017cb111112a2bd37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102075443,
-    "wof:lastmodified":1625076054,
+    "wof:lastmodified":1695886663,
     "wof:name":"Trinidad Garc\u00eda de la Cadena",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

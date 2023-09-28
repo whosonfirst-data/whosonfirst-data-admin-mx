@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003279,
-    "geom:area_square_m":38855486.146775,
+    "geom:area_square_m":38855432.329339,
     "geom:bbox":"-96.993691,16.514363,-96.92361,16.638106",
     "geom:latitude":16.591934,
     "geom:longitude":-96.956035,
@@ -110,8 +110,12 @@
         "inegi:id":"20155",
         "wd:id":"Q12354870"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5e0133c4915546ae3da3cdb4c5496458",
+    "wof:geomhash":"f5518b4a28210a8ad6c1f1755d26b163",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102075905,
-    "wof:lastmodified":1690847202,
+    "wof:lastmodified":1695886133,
     "wof:name":"San Ildefonso Sola",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

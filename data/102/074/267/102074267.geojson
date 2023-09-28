@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006808,
-    "geom:area_square_m":79629594.08338,
+    "geom:area_square_m":79629555.053502,
     "geom:bbox":"-98.955343,18.882017,-98.835891,18.999896",
     "geom:latitude":18.935046,
     "geom:longitude":-98.894505,
@@ -113,8 +113,12 @@
         "inegi:id":"17002",
         "wd:id":"Q17374320"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2a8257adbd6ef0c082bf8108cb934c9a",
+    "wof:geomhash":"5db1e7b7e6440dc4510e225ce83d4685",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102074267,
-    "wof:lastmodified":1690847063,
+    "wof:lastmodified":1695886010,
     "wof:name":"Atlatlahucan",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

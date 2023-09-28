@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013507,
-    "geom:area_square_m":159697105.260545,
+    "geom:area_square_m":159697047.510317,
     "geom:bbox":"-92.825499,16.953825,-92.646278,17.096194",
     "geom:latitude":17.031748,
     "geom:longitude":-92.741292,
@@ -137,8 +137,12 @@
         "inegi:id":"07014",
         "wd:id":"Q1784079"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8b5694ff25fda27729c1a58a84ec9eb7",
+    "wof:geomhash":"b57e5770934a397d75feab19d33c5e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":102075607,
-    "wof:lastmodified":1690847228,
+    "wof:lastmodified":1695886154,
     "wof:name":"El Bosque",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

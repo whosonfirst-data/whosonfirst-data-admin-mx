@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014113,
-    "geom:area_square_m":166267944.133384,
+    "geom:area_square_m":166267566.060699,
     "geom:bbox":"-98.069335,17.612535,-97.868611,17.747426",
     "geom:latitude":17.681348,
     "geom:longitude":-97.985963,
@@ -113,8 +113,12 @@
         "inegi:id":"20520",
         "wd:id":"Q3893792"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"083595eb76f8c4d5a3ce6667b7eef7a9",
+    "wof:geomhash":"b69e9a1d237f053d2c6ba3e12c3324fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076207,
-    "wof:lastmodified":1690846774,
+    "wof:lastmodified":1695886645,
     "wof:name":"Santo Domingo Tonal\u00e1",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

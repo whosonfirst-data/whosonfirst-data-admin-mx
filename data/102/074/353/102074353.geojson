@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.58815,
-    "geom:area_square_m":6198790079.528962,
+    "geom:area_square_m":6198790079.528339,
     "geom:bbox":"-114.005985,30.94482,-112.437662,32.115291",
     "geom:latitude":31.529429,
     "geom:longitude":-113.293119,
@@ -206,8 +206,12 @@
         "inegi:id":"26048",
         "wd:id":"Q746968"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a12984550ff7efffaee6c99deeb2a254",
+    "wof:geomhash":"2df1dea98dc75b321077f1776946074b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -217,7 +221,7 @@
         }
     ],
     "wof:id":102074353,
-    "wof:lastmodified":1690847034,
+    "wof:lastmodified":1695886286,
     "wof:name":"Puerto Pe\u00f1asco",
     "wof:parent_id":85686549,
     "wof:placetype":"county",
