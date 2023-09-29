@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003332,
-    "geom:area_square_m":39332607.753502,
+    "geom:area_square_m":39332300.427225,
     "geom:bbox":"-96.402297,17.312289,-96.311028,17.381235",
     "geom:latitude":17.348114,
     "geom:longitude":-96.353407,
@@ -101,8 +101,12 @@
         "inegi:id":"20288",
         "wd:id":"Q985844"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"aa6c7392228fd26d2edb00a5db90aa17",
+    "wof:geomhash":"d58581a4ba617935e0d0e52dc46e50f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102076487,
-    "wof:lastmodified":1690846769,
+    "wof:lastmodified":1695886645,
     "wof:name":"San Miguel Yotao",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

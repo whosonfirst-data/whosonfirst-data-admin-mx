@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041044,
-    "geom:area_square_m":476988323.644553,
+    "geom:area_square_m":476988125.595931,
     "geom:bbox":"-100.077009,19.840518,-99.699812,20.07748",
     "geom:latitude":19.972942,
     "geom:longitude":-99.87153,
@@ -158,8 +158,12 @@
         "inegi:id":"15001",
         "wd:id":"Q759233"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c4cafec26aebbf9e828152d224897ec1",
+    "wof:geomhash":"e05925b130a7e022f593cf7c13a4b5f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":102074225,
-    "wof:lastmodified":1690847108,
+    "wof:lastmodified":1695886054,
     "wof:name":"Acambay",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

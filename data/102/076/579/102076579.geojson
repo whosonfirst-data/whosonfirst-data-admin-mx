@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004754,
-    "geom:area_square_m":55970173.203728,
+    "geom:area_square_m":55970173.20374,
     "geom:bbox":"-96.8331612377,17.7366708079,-96.7042262852,17.8587274143",
     "geom:latitude":17.807294,
     "geom:longitude":-96.78378,
@@ -102,8 +102,12 @@
         "inegi:id":"20425",
         "wd:id":"Q3891713"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e7a2d9b6c63534f29348a205f1c3e5b3",
+    "wof:geomhash":"bb5bdcffdb97941e33f61cbe5445e34a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":102076579,
-    "wof:lastmodified":1566615511,
+    "wof:lastmodified":1695886902,
     "wof:name":"Santa Mar\u00eda P\u00e1palo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

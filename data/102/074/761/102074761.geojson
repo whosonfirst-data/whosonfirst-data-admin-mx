@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015287,
-    "geom:area_square_m":177847517.110893,
+    "geom:area_square_m":177847517.110715,
     "geom:bbox":"-104.292924138,19.6901587828,-104.109181173,19.9010930255",
     "geom:latitude":19.801056,
     "geom:longitude":-104.195125,
@@ -131,8 +131,12 @@
         "inegi:id":"14037",
         "wd:id":"Q512102"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6417ffa1e85a6ba4dbbf14dc3f409b1f",
+    "wof:geomhash":"8e5e56db97511a4be75fb1e37178a7c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102074761,
-    "wof:lastmodified":1566615932,
+    "wof:lastmodified":1695886042,
     "wof:name":"El Grullo",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106832,
-    "geom:area_square_m":1174186453.493069,
+    "geom:area_square_m":1174186353.295874,
     "geom:bbox":"-106.619525,27.122701,-106.043649,27.43487",
     "geom:latitude":27.268899,
     "geom:longitude":-106.314686,
@@ -163,8 +163,12 @@
         "inegi:id":"08056",
         "wd:id":"Q2990914"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fb650c903b51573e6c4e20c8256f6be5",
+    "wof:geomhash":"36d7af3d2b08f86a22fdb2908e600c59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -174,7 +178,7 @@
         }
     ],
     "wof:id":102075349,
-    "wof:lastmodified":1690847187,
+    "wof:lastmodified":1695886526,
     "wof:name":"Rosario",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

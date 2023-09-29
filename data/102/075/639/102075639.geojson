@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092405,
-    "geom:area_square_m":1096779334.820573,
+    "geom:area_square_m":1096779334.82128,
     "geom:bbox":"-90.7914853988,16.0740427128,-90.3702137216,16.6047788795",
     "geom:latitude":16.281836,
     "geom:longitude":-90.562509,
@@ -118,8 +118,12 @@
         "inegi:id":"07114",
         "wd:id":"Q1952882"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"df89c9c7c91f1b7df7640a1dc04c495c",
+    "wof:geomhash":"9133fc07c715b4495af5e52412aa3908",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":102075639,
-    "wof:lastmodified":1566616195,
+    "wof:lastmodified":1695886150,
     "wof:name":"Benem\u00e9rito de las Am\u00e9ricas",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

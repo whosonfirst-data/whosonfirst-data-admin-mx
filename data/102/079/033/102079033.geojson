@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030883,
-    "geom:area_square_m":356859838.168646,
+    "geom:area_square_m":356859812.515096,
     "geom:bbox":"-90.216474,20.736045,-89.901709,20.950125",
     "geom:latitude":20.851766,
     "geom:longitude":-90.050883,
@@ -125,8 +125,12 @@
         "inegi:id":"31044",
         "wd:id":"Q2588104"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7718667347fa61e2b3475bc4de8b561e",
+    "wof:geomhash":"e333f76f16640b14993cbbd760190370",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102079033,
-    "wof:lastmodified":1690846589,
+    "wof:lastmodified":1695886854,
     "wof:name":"Kinchil",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059184,
-    "geom:area_square_m":699915132.191015,
+    "geom:area_square_m":699915256.264829,
     "geom:bbox":"-99.474062,16.780811,-99.143106,17.160459",
     "geom:latitude":16.980455,
     "geom:longitude":-99.294887,
@@ -123,8 +123,12 @@
         "inegi:id":"12056",
         "wd:id":"Q7692766"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ba13281b529305a05c30d5a655ae9601",
+    "wof:geomhash":"97e6da0e8a7f3f69bd51ee716dfb547f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":102073795,
-    "wof:lastmodified":1690847016,
+    "wof:lastmodified":1695885977,
     "wof:name":"Tecoanapa",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142644,
-    "geom:area_square_m":1639716370.019411,
+    "geom:area_square_m":1639716562.021385,
     "geom:bbox":"-105.124187,21.394867,-104.597717,21.854607",
     "geom:latitude":21.62159,
     "geom:longitude":-104.840486,
@@ -284,8 +284,12 @@
         "inegi:id":"18017",
         "wd:id":"Q207972"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"903b50c0662b7db77b6ac4cc0f630326",
+    "wof:geomhash":"4f2adb9f5799d5fbabea55f2893683f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -295,7 +299,7 @@
         }
     ],
     "wof:id":102074577,
-    "wof:lastmodified":1690847134,
+    "wof:lastmodified":1695886078,
     "wof:name":"Tepic",
     "wof:parent_id":85686591,
     "wof:placetype":"county",

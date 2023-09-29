@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002344,
-    "geom:area_square_m":27697896.846759,
+    "geom:area_square_m":27697876.521198,
     "geom:bbox":"-96.832605,17.089094,-96.769348,17.162786",
     "geom:latitude":17.129044,
     "geom:longitude":-96.803562,
@@ -110,8 +110,12 @@
         "inegi:id":"20227",
         "wd:id":"Q1656269"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d08c4e2ce55487ceffd10c068b7d9a96",
+    "wof:geomhash":"1b4584131b1c3ecee48b3f9897a00364",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102075963,
-    "wof:lastmodified":1690847150,
+    "wof:lastmodified":1695886094,
     "wof:name":"San Lorenzo Cacaotepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07632,
-    "geom:area_square_m":885678488.872507,
+    "geom:area_square_m":885678460.925412,
     "geom:bbox":"-100.68697,19.982285,-100.354384,20.387172",
     "geom:latitude":20.197108,
     "geom:longitude":-100.507882,
@@ -126,8 +126,12 @@
         "inegi:id":"11019",
         "wd:id":"Q2651217"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4fd065283762b73df7a55c9e1d7f37e4",
+    "wof:geomhash":"13e8e9bacacccc1076a723acbef680d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":102077297,
-    "wof:lastmodified":1690846685,
+    "wof:lastmodified":1695886885,
     "wof:name":"Jer\u00e9cuaro",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

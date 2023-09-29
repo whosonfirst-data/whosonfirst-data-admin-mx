@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062484,
-    "geom:area_square_m":734888822.681306,
+    "geom:area_square_m":734888064.042344,
     "geom:bbox":"-99.230516,17.829618,-98.85237,18.134112",
     "geom:latitude":17.982143,
     "geom:longitude":-99.052042,
@@ -116,8 +116,12 @@
         "inegi:id":"12019",
         "wd:id":"Q5168294"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"00ff0efab92e7a484eab28263cce91a5",
+    "wof:geomhash":"ca8e9fe9c55ce214daf81cd2e8fe4e8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102073829,
-    "wof:lastmodified":1690847003,
+    "wof:lastmodified":1695886651,
     "wof:name":"Copalillo",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

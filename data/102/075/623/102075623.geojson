@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080905,
-    "geom:area_square_m":958404440.019562,
+    "geom:area_square_m":958404435.830512,
     "geom:bbox":"-92.132223,16.493875,-91.551866,16.85169",
     "geom:latitude":16.661884,
     "geom:longitude":-91.862573,
@@ -137,8 +137,12 @@
         "inegi:id":"07004",
         "wd:id":"Q175830"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7d2781c46f6a8b469128a1c17b027c6f",
+    "wof:geomhash":"7408e87ee9512e9be18230d056672ed9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":102075623,
-    "wof:lastmodified":1690847212,
+    "wof:lastmodified":1695886140,
     "wof:name":"Altamirano",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

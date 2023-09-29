@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046771,
-    "geom:area_square_m":540053667.229933,
+    "geom:area_square_m":540053560.906936,
     "geom:bbox":"-101.581783,20.799979,-101.317832,21.152595",
     "geom:latitude":20.963115,
     "geom:longitude":-101.437784,
@@ -103,8 +103,12 @@
         "inegi:id":"11037",
         "wd:id":"Q4968122"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"02b330c3914531ca872f872cecc7bb50",
+    "wof:geomhash":"e2ab3905081c2ae345ee4e3975ab3f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":102077327,
-    "wof:lastmodified":1690846689,
+    "wof:lastmodified":1695886886,
     "wof:name":"Silao",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

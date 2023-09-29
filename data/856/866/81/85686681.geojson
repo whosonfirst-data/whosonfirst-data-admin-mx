@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.764674,
-    "geom:area_square_m":64287982161.94059,
+    "geom:area_square_m":64287981363.694916,
     "geom:bbox":"-101.206763,23.162683,-98.421576,27.799137",
     "geom:latitude":25.57259,
     "geom:longitude":-99.96897,
@@ -429,12 +429,18 @@
         "gn:id":3522542,
         "gp:id":2346282,
         "hasc:id":"MX.NL",
+        "inegi:id":"19",
+        "iso:code":"MX-NLE",
         "iso:id":"MX-NLE",
         "unlc:id":"MX-NLE",
         "wd:id":"Q15282"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d36f8d9b88c46e87fb462c2714ebc570",
+    "wof:geomhash":"06ef2b098fff452c29a3968d9ad39021",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -449,7 +455,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847267,
+    "wof:lastmodified":1695884659,
     "wof:name":"Nuevo Le\u00f3n",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

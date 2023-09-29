@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062663,
-    "geom:area_square_m":695872101.10981,
+    "geom:area_square_m":695872101.109711,
     "geom:bbox":"-99.4012777771,25.88779975,-99.167019411,26.3063575458",
     "geom:latitude":26.091506,
     "geom:longitude":-99.27348,
@@ -113,8 +113,12 @@
         "inegi:id":"19003",
         "wd:id":"Q3311650"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"193d28a66b1ce2584aee7c9e654c256c",
+    "wof:geomhash":"e631903d32d2fb08f618c59dc6556198",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102078715,
-    "wof:lastmodified":1566615573,
+    "wof:lastmodified":1695886917,
     "wof:name":"Los Aldamas",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

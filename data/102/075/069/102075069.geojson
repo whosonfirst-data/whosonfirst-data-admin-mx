@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008988,
-    "geom:area_square_m":104404280.123329,
+    "geom:area_square_m":104404400.899965,
     "geom:bbox":"-101.132036,19.953173,-100.967335,20.091954",
     "geom:latitude":20.039251,
     "geom:longitude":-101.038886,
@@ -128,8 +128,12 @@
         "inegi:id":"16078",
         "wd:id":"Q3890602"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6e6e6fed5351bc1ab493dab3aee57d33",
+    "wof:geomhash":"5e6651c1a8df8a0d005ac514c7aa8db5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075069,
-    "wof:lastmodified":1690847228,
+    "wof:lastmodified":1695886153,
     "wof:name":"Santa Ana Maya",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070339,
-    "geom:area_square_m":833515164.142416,
+    "geom:area_square_m":833515004.060347,
     "geom:bbox":"-93.105397,16.2922,-92.802283,16.91033",
     "geom:latitude":16.598071,
     "geom:longitude":-92.970632,
@@ -107,8 +107,12 @@
         "inegi:id":"07027",
         "wd:id":"Q126028"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1e19267ac92eb3e84a0fd317d3f1c0e7",
+    "wof:geomhash":"74bb4a903c92a084b907e7e562ff093a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102075515,
-    "wof:lastmodified":1690847243,
+    "wof:lastmodified":1695886666,
     "wof:name":"Chiapa de Corzo",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

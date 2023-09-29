@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007167,
-    "geom:area_square_m":83447312.36313,
+    "geom:area_square_m":83447223.843563,
     "geom:bbox":"-98.937638,19.631344,-98.806616,19.755303",
     "geom:latitude":19.686319,
     "geom:longitude":-98.870661,
@@ -278,8 +278,12 @@
         "inegi:id":"15092",
         "wd:id":"Q3844591"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"763b8c88f5ac17f4d16c827430bc105d",
+    "wof:geomhash":"f1e25f630583ed8dbaab88185725026c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -289,7 +293,7 @@
         }
     ],
     "wof:id":102074039,
-    "wof:lastmodified":1690847069,
+    "wof:lastmodified":1695886016,
     "wof:name":"Teotihuac\u00e1n",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

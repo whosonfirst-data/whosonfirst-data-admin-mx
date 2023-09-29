@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030713,
-    "geom:area_square_m":356629758.211132,
+    "geom:area_square_m":356629575.812573,
     "geom:bbox":"-96.913308,20.002025,-96.680724,20.243505",
     "geom:latitude":20.107019,
     "geom:longitude":-96.793251,
@@ -145,8 +145,12 @@
         "inegi:id":"30114",
         "wd:id":"Q20270902"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5d155b6ae9dc8b44794e3e56ba01a8b6",
+    "wof:geomhash":"97c1ca8a2961c02dfd53f79c110b47cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":102077629,
-    "wof:lastmodified":1690846618,
+    "wof:lastmodified":1695886499,
     "wof:name":"Nautla",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

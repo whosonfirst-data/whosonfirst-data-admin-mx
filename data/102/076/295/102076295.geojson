@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006171,
-    "geom:area_square_m":72770292.985093,
+    "geom:area_square_m":72770292.98503,
     "geom:bbox":"-98.0730900208,17.4532626985,-97.9611015011,17.5545278779",
     "geom:latitude":17.50416,
     "geom:longitude":-98.014356,
@@ -113,8 +113,12 @@
         "inegi:id":"20065",
         "wd:id":"Q3893066"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"215d6b4440c2594ffecc604d54d1a814",
+    "wof:geomhash":"7de2e836a0f9cd5f756959b2a77aa027",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076295,
-    "wof:lastmodified":1566615455,
+    "wof:lastmodified":1695886894,
     "wof:name":"Ixpantepec Nieves",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

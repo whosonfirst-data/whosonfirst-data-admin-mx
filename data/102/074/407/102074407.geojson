@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148131,
-    "geom:area_square_m":1579646259.567719,
+    "geom:area_square_m":1579646259.567764,
     "geom:bbox":"-110.83992774,30.1798457359,-110.404069797,30.6789469704",
     "geom:latitude":30.411538,
     "geom:longitude":-110.63058,
@@ -93,8 +93,12 @@
         "hasc:id":"MX.SO.CC",
         "inegi:id":"26022"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"eeca293c39a08ad4b3a933e8d63c1261",
+    "wof:geomhash":"29aaf7771f504ab6c751073bd21739e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":102074407,
-    "wof:lastmodified":1566615861,
+    "wof:lastmodified":1695886011,
     "wof:name":"Cucurpe",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

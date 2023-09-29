@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049039,
-    "geom:area_square_m":583586218.938829,
+    "geom:area_square_m":583586212.687402,
     "geom:bbox":"-92.830297,15.600102,-92.49174,15.91703",
     "geom:latitude":15.758148,
     "geom:longitude":-92.680448,
@@ -131,8 +131,12 @@
         "inegi:id":"07008",
         "wd:id":"Q1953286"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"12f157d246f6ea4c028b4f7f3273d737",
+    "wof:geomhash":"c355c082ad5efe4d2de01ef2e36409de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102075613,
-    "wof:lastmodified":1690847205,
+    "wof:lastmodified":1695886136,
     "wof:name":"Angel Albino Corzo",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

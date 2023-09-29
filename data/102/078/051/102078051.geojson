@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005744,
-    "geom:area_square_m":67113846.567271,
+    "geom:area_square_m":67113825.005752,
     "geom:bbox":"-98.576255,19.062485,-98.391481,19.144399",
     "geom:latitude":19.106442,
     "geom:longitude":-98.476219,
@@ -131,8 +131,12 @@
         "inegi:id":"21026",
         "wd:id":"Q3893123"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e143802a50c583f6899f0d61b3636805",
+    "wof:geomhash":"73e7980a59cd98ae85823a4800d4bc44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102078051,
-    "wof:lastmodified":1690846886,
+    "wof:lastmodified":1695886935,
     "wof:name":"Calpan",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

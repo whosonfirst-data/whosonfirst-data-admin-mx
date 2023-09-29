@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006796,
-    "geom:area_square_m":79519914.242016,
+    "geom:area_square_m":79519732.689402,
     "geom:bbox":"-97.445555,18.810549,-97.298396,18.903719",
     "geom:latitude":18.859032,
     "geom:longitude":-97.364625,
@@ -174,8 +174,12 @@
         "inegi:id":"21063",
         "wd:id":"Q5398884"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a260056a183e62b223df18a553d71f97",
+    "wof:geomhash":"84f7cd3a741b6754c822611d2212b783",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":102078129,
-    "wof:lastmodified":1690846839,
+    "wof:lastmodified":1695886505,
     "wof:name":"Esperanza",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

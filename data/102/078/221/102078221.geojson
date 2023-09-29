@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005446,
-    "geom:area_square_m":63230477.344034,
+    "geom:area_square_m":63230471.562893,
     "geom:bbox":"-97.728926,20.045095,-97.621065,20.183227",
     "geom:latitude":20.112427,
     "geom:longitude":-97.671818,
@@ -113,8 +113,12 @@
         "inegi:id":"21107",
         "wd:id":"Q1997963"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"755f37be998b3ca2d4c06325563a1486",
+    "wof:geomhash":"4b4edd9684365519b78b1cf9c9fed782",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102078221,
-    "wof:lastmodified":1690846815,
+    "wof:lastmodified":1695886910,
     "wof:name":"Olintla",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

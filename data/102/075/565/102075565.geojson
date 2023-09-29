@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033303,
-    "geom:area_square_m":397580401.687381,
+    "geom:area_square_m":397580575.886624,
     "geom:bbox":"-92.732634,14.951578,-92.414657,15.292788",
     "geom:latitude":15.096986,
     "geom:longitude":-92.546854,
@@ -125,8 +125,12 @@
         "inegi:id":"07040",
         "wd:id":"Q1393838"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b8522a39cb1ee690df8ebe04174d9f34",
+    "wof:geomhash":"07d12d552133f4163b3d1ba15e78964b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075565,
-    "wof:lastmodified":1690847202,
+    "wof:lastmodified":1695886133,
     "wof:name":"Huixtla",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

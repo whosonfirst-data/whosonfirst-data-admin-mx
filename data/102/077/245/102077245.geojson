@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03415,
-    "geom:area_square_m":391543930.51459,
+    "geom:area_square_m":391543930.514586,
     "geom:bbox":"-99.8094227446,21.8843060824,-99.5045452029,22.1307948457",
     "geom:latitude":21.990524,
     "geom:longitude":-99.675993,
@@ -118,8 +118,12 @@
         "hasc:id":"MX.SL.CR",
         "inegi:id":"24005"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b69538b1183c11b434d4c568a4681320",
+    "wof:geomhash":"b30d624bdaedc01254ec7febd6c18539",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":102077245,
-    "wof:lastmodified":1566615318,
+    "wof:lastmodified":1695886861,
     "wof:name":"C\u00e1rdenas",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

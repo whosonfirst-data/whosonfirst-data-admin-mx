@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.860263,
-    "geom:area_square_m":44961438288.201233,
+    "geom:area_square_m":44961442004.01989,
     "geom:bbox":"-89.296562,17.893986,-86.710405,21.605504",
     "geom:latitude":19.601324,
     "geom:longitude":-88.111673,
@@ -435,12 +435,18 @@
         "gn:id":3520887,
         "gp:id":2346286,
         "hasc:id":"MX.QR",
+        "inegi:id":"23",
+        "iso:code":"MX-ROO",
         "iso:id":"MX-ROO",
         "unlc:id":"MX-ROO",
         "wd:id":"Q80245"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"caea977c160c5fb33638e94dc6d14561",
+    "wof:geomhash":"7453412566ac218d98d1f77795de2e75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -455,7 +461,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847273,
+    "wof:lastmodified":1695884526,
     "wof:name":"Quintana Roo",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

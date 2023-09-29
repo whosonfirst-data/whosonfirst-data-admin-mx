@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.43456,
-    "geom:area_square_m":4846247371.766234,
+    "geom:area_square_m":4846247065.407712,
     "geom:bbox":"-107.792963,25.066965,-106.965323,26.14286",
     "geom:latitude":25.590855,
     "geom:longitude":-107.395965,
@@ -132,8 +132,12 @@
         "inegi:id":"25003",
         "wd:id":"Q13583603"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bc3e4c26c55fc26859f4b55fc82c79ad",
+    "wof:geomhash":"f7ba0503a95917e7a950d8f42614fb0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102074335,
-    "wof:lastmodified":1690847089,
+    "wof:lastmodified":1695886031,
     "wof:name":"Badiraguato",
     "wof:parent_id":85686535,
     "wof:placetype":"county",

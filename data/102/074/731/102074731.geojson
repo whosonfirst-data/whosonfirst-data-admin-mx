@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063379,
-    "geom:area_square_m":730876593.941689,
+    "geom:area_square_m":730876593.941909,
     "geom:bbox":"-102.202057413,21.0366900575,-101.77376282,21.27856762",
     "geom:latitude":21.154678,
     "geom:longitude":-101.997183,
@@ -101,8 +101,12 @@
         "inegi:id":"14109",
         "wd:id":"Q3311306"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c620c69346379fa3563019d278fc117c",
+    "wof:geomhash":"56765bfcaef1f08ae4b1ea80cb96d005",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102074731,
-    "wof:lastmodified":1566615821,
+    "wof:lastmodified":1695885993,
     "wof:name":"Uni\u00f3n de San Antonio",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

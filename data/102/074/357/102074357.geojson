@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.00607,
-    "geom:area_square_m":10682683134.223761,
+    "geom:area_square_m":10682683053.19622,
     "geom:bbox":"-113.127167,30.060218,-112.067666,31.734967",
     "geom:latitude":30.824952,
     "geom:longitude":-112.539486,
@@ -185,8 +185,12 @@
         "inegi:id":"26017",
         "wd:id":"Q2878225"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ca801462cf5b33e93925fc87b52e6663",
+    "wof:geomhash":"85bb514603d4515804689048e10bd8d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":102074357,
-    "wof:lastmodified":1690847085,
+    "wof:lastmodified":1695886517,
     "wof:name":"Caborca",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

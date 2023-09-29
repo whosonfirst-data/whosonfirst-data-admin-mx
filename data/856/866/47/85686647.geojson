@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.369265,
-    "geom:area_square_m":61295429438.267426,
+    "geom:area_square_m":61295430072.109085,
     "geom:bbox":"-102.296038,21.160154,-98.325967,24.491522",
     "geom:latitude":22.58546,
     "geom:longitude":-100.416509,
@@ -420,12 +420,18 @@
         "gn:id":3985605,
         "gp:id":2346287,
         "hasc:id":"MX.SL",
+        "inegi:id":"24",
+        "iso:code":"MX-SLP",
         "iso:id":"MX-SLP",
         "unlc:id":"MX-SLP",
         "wd:id":"Q78980"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"048356636259b1c9f43a41e599e80384",
+    "wof:geomhash":"8d8505f8ab71347ac461ccc20b5f2e89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -440,7 +446,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847272,
+    "wof:lastmodified":1695884656,
     "wof:name":"San Luis Potos\u00ed",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

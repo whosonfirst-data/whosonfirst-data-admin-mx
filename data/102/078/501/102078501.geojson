@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0254,
-    "geom:area_square_m":293137608.536173,
+    "geom:area_square_m":293137575.903907,
     "geom:bbox":"-98.339326,20.926469,-98.147358,21.151755",
     "geom:latitude":21.038256,
     "geom:longitude":-98.247144,
@@ -122,8 +122,12 @@
         "inegi:id":"13025",
         "wd:id":"Q3846337"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dab450681626f1c90909af5bd5252a01",
+    "wof:geomhash":"4c207f8c45879cb88e353ba6894c97aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102078501,
-    "wof:lastmodified":1690846850,
+    "wof:lastmodified":1695886920,
     "wof:name":"Huautla",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

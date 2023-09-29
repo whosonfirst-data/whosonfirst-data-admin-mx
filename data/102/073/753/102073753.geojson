@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004636,
-    "geom:area_square_m":54089019.510643,
+    "geom:area_square_m":54089019.510545,
     "geom:bbox":"-99.205752,19.296837,-99.099076,19.359568",
     "geom:latitude":19.326667,
     "geom:longitude":-99.150376,
@@ -212,11 +212,15 @@
         "inegi:id":"09003",
         "wd:id":"Q661315"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         890535773
     ],
     "wof:country":"MX",
-    "wof:geomhash":"3795cac40751eb4a7e23dc159411874b",
+    "wof:geomhash":"58def118e016a357296464cd4440cad9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -226,7 +230,7 @@
         }
     ],
     "wof:id":102073753,
-    "wof:lastmodified":1690847001,
+    "wof:lastmodified":1695886402,
     "wof:name":"Coyoac\u00e1n",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

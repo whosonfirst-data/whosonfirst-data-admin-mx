@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008591,
-    "geom:area_square_m":100059806.420478,
+    "geom:area_square_m":100059806.420638,
     "geom:bbox":"-97.1688104747,19.547335695,-97.0214531,19.687624408",
     "geom:latitude":19.622284,
     "geom:longitude":-97.094782,
@@ -95,8 +95,12 @@
         "inegi:id":"30132",
         "wd:id":"Q2816117"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"34ca432e332e132de07b0df56f8aca82",
+    "wof:geomhash":"8119af801b78e1fa9ac43ed826b696e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102077671,
-    "wof:lastmodified":1566615386,
+    "wof:lastmodified":1695886880,
     "wof:name":"Las Vigas de Ram\u00edrez",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

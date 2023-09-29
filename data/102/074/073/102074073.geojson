@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031756,
-    "geom:area_square_m":369794725.051443,
+    "geom:area_square_m":369794725.05166,
     "geom:bbox":"-100.084587285,19.5331431349,-99.8672053183,19.7650848579",
     "geom:latitude":19.653217,
     "geom:longitude":-99.982523,
@@ -132,8 +132,12 @@
         "inegi:id":"15074",
         "wd:id":"Q2468405"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"77504a2e46c14b4790f8c4624b2ad966",
+    "wof:geomhash":"71d0f08052fdd11e0bf336144be7d427",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102074073,
-    "wof:lastmodified":1566615937,
+    "wof:lastmodified":1695886045,
     "wof:name":"San Felipe del Progreso",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

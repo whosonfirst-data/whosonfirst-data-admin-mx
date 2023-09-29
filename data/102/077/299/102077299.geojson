@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028904,
-    "geom:area_square_m":335208174.42407,
+    "geom:area_square_m":335208030.928877,
     "geom:bbox":"-100.84311,20.161543,-100.653599,20.424026",
     "geom:latitude":20.296736,
     "geom:longitude":-100.741497,
@@ -122,8 +122,12 @@
         "inegi:id":"11039",
         "wd:id":"Q4451992"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f918a04e945bc4d9ca836893d5647f69",
+    "wof:geomhash":"38a5e8e5a9eca5893e81c55c2b4d9135",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102077299,
-    "wof:lastmodified":1690846688,
+    "wof:lastmodified":1695886886,
     "wof:name":"Tarimoro",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

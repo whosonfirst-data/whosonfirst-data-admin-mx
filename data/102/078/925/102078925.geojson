@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259611,
-    "geom:area_square_m":2921646876.622413,
+    "geom:area_square_m":2921647514.219553,
     "geom:bbox":"-99.24542,24.115938,-98.6468,24.879644",
     "geom:latitude":24.475849,
     "geom:longitude":-98.975818,
@@ -175,8 +175,12 @@
         "hasc:id":"MX.TM.SC",
         "inegi:id":"28034"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f62264ef5866dfbf139fcb458622acf2",
+    "wof:geomhash":"9c1ba54f6fa0ad0c4eea5de485d4b686",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":102078925,
-    "wof:lastmodified":1636492155,
+    "wof:lastmodified":1695886506,
     "wof:name":"San Carlos",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

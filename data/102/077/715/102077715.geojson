@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02906,
-    "geom:area_square_m":334500830.507805,
+    "geom:area_square_m":334500819.95805,
     "geom:bbox":"-97.932125,21.296436,-97.562107,21.530989",
     "geom:latitude":21.426956,
     "geom:longitude":-97.755951,
@@ -130,8 +130,12 @@
         "inegi:id":"30154",
         "wd:id":"Q387963"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cb1b9864609307ded5bb908de5f5dea9",
+    "wof:geomhash":"4f39cd26e4b4f366ed871f990b77805f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":102077715,
-    "wof:lastmodified":1690846641,
+    "wof:lastmodified":1695886869,
     "wof:name":"Tantima",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

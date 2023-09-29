@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010712,
-    "geom:area_square_m":126517095.889462,
+    "geom:area_square_m":126517095.889347,
     "geom:bbox":"-98.3226995332,17.1160925804,-98.1570431651,17.3155689437",
     "geom:latitude":17.216021,
     "geom:longitude":-98.217179,
@@ -103,8 +103,12 @@
         "inegi:id":"20016",
         "wd:id":"Q5141448"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fb3f52f71b7afbbfcd77d6faa51a37bc",
+    "wof:geomhash":"d784be830d2733f0290cd2fb938db9a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":102076261,
-    "wof:lastmodified":1566615454,
+    "wof:lastmodified":1695886894,
     "wof:name":"Coicoy\u00e1n de las Flores",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

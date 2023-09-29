@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003098,
-    "geom:area_square_m":36660646.486251,
+    "geom:area_square_m":36660543.498921,
     "geom:bbox":"-92.63904,16.851815,-92.515978,16.901044",
     "geom:latitude":16.87481,
     "geom:longitude":-92.563101,
@@ -125,8 +125,12 @@
         "inegi:id":"07056",
         "wd:id":"Q1787613"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f4bd2bc4ba303ffc0e6fa0cce61d0620",
+    "wof:geomhash":"42b1a800a04f9ddee73d1da2d96421c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075729,
-    "wof:lastmodified":1690847242,
+    "wof:lastmodified":1695886162,
     "wof:name":"Mitontic",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

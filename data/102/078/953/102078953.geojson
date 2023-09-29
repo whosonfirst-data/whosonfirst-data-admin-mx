@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064326,
-    "geom:area_square_m":732139588.618082,
+    "geom:area_square_m":732139588.618078,
     "geom:bbox":"-99.358533453,22.83364017,-98.9927261518,23.1507646206",
     "geom:latitude":23.006698,
     "geom:longitude":-99.178516,
@@ -100,8 +100,12 @@
         "hasc:id":"MX.TM.GG",
         "inegi:id":"28011"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"757a82d9107289769ffb778045d1394f",
+    "wof:geomhash":"ab4fa9034497056f102a6d80dedc2da1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":102078953,
-    "wof:lastmodified":1566615521,
+    "wof:lastmodified":1695886904,
     "wof:name":"G\u00f3mez Far\u00edas",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

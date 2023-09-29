@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016866,
-    "geom:area_square_m":199880784.621721,
+    "geom:area_square_m":199880784.621651,
     "geom:bbox":"-94.8144492117,16.488872411,-94.6198417973,16.6523108131",
     "geom:latitude":16.579605,
     "geom:longitude":-94.731557,
@@ -105,8 +105,12 @@
         "inegi:id":"20505",
         "wd:id":"Q3891830"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a5770d216960141f064da25c0f35e835",
+    "wof:geomhash":"1136149d8c7aa0c14d2f2f49668edad9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":102076629,
-    "wof:lastmodified":1566615452,
+    "wof:lastmodified":1695886894,
     "wof:name":"Santo Domingo Ingenio",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

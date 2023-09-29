@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060634,
-    "geom:area_square_m":712252792.183463,
+    "geom:area_square_m":712252792.18386,
     "geom:bbox":"-95.4124401331,18.0621590183,-94.95817676,18.3279691674",
     "geom:latitude":18.197112,
     "geom:longitude":-95.154823,
@@ -102,8 +102,12 @@
         "inegi:id":"30073",
         "wd:id":"Q3847301"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0b0eec5bf81cb6535819a9ca8b6f56b8",
+    "wof:geomhash":"8c3d07139a3e1b2bfaddc95e7311363e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":102077539,
-    "wof:lastmodified":1566615366,
+    "wof:lastmodified":1695886872,
     "wof:name":"Hueyapan de Ocampo",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

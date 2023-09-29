@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00696,
-    "geom:area_square_m":82959116.880688,
+    "geom:area_square_m":82958925.152549,
     "geom:bbox":"-92.341293,15.389568,-92.203767,15.468389",
     "geom:latitude":15.432546,
     "geom:longitude":-92.263926,
@@ -162,8 +162,12 @@
         "inegi:id":"07070",
         "wd:id":"Q3288000"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"07260adb147c3bd50ad7e006388c61cf",
+    "wof:geomhash":"5b6a849e1988e4d9506c5e0969b29abb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":102075707,
-    "wof:lastmodified":1690847153,
+    "wof:lastmodified":1695886524,
     "wof:name":"El Porvenir",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

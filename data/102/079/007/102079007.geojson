@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091115,
-    "geom:area_square_m":1058180239.886518,
+    "geom:area_square_m":1058180120.501352,
     "geom:bbox":"-88.999705,19.790949,-88.612657,20.310875",
     "geom:latitude":20.077487,
     "geom:longitude":-88.827917,
@@ -326,8 +326,12 @@
         "inegi:id":"31058",
         "wd:id":"Q10864047"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"75df021e206081f15d0ab5fb9080db98",
+    "wof:geomhash":"9b6adb84b067d80c28bf194bb9c13d14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -337,7 +341,7 @@
         }
     ],
     "wof:id":102079007,
-    "wof:lastmodified":1636492144,
+    "wof:lastmodified":1695886496,
     "wof:name":"Peto",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

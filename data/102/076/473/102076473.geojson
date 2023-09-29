@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017625,
-    "geom:area_square_m":208444886.989504,
+    "geom:area_square_m":208444869.415078,
     "geom:bbox":"-95.851199,16.886368,-95.692172,17.072505",
     "geom:latitude":16.975671,
     "geom:longitude":-95.780221,
@@ -107,8 +107,12 @@
         "inegi:id":"20275",
         "wd:id":"Q3891682"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"604337f7d833701385fc8fc14bb1931a",
+    "wof:geomhash":"406c5f3ccabe2e0ac5d74b84802190b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102076473,
-    "wof:lastmodified":1690846769,
+    "wof:lastmodified":1695886645,
     "wof:name":"San Miguel Quetzaltepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

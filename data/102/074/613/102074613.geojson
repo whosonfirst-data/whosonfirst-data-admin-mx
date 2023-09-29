@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294623,
-    "geom:area_square_m":3372456890.290319,
+    "geom:area_square_m":3372456655.57735,
     "geom:bbox":"-104.373279,21.888509,-103.559194,22.574147",
     "geom:latitude":22.222441,
     "geom:longitude":-103.994428,
@@ -125,8 +125,12 @@
         "inegi:id":"14061",
         "wd:id":"Q3174443"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4e3c85349424bb301fd13870ab4959ef",
+    "wof:geomhash":"41dd0c1e6b7d74de7529a2966d890047",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102074613,
-    "wof:lastmodified":1690847098,
+    "wof:lastmodified":1695886044,
     "wof:name":"Mezquitic",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

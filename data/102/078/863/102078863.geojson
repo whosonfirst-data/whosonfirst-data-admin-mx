@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192413,
-    "geom:area_square_m":2122671873.272191,
+    "geom:area_square_m":2122671916.649893,
     "geom:bbox":"-101.112628,26.545595,-100.533998,27.111395",
     "geom:latitude":26.852453,
     "geom:longitude":-100.79925,
@@ -302,8 +302,12 @@
         "inegi:id":"05005",
         "wd:id":"Q3849687"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cca7689f70b8f98d9c14352a0955f6ce",
+    "wof:geomhash":"ac4c9b83e5c3d3c69008ac71a861d54b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -313,7 +317,7 @@
         }
     ],
     "wof:id":102078863,
-    "wof:lastmodified":1690846887,
+    "wof:lastmodified":1695886935,
     "wof:name":"Candela",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

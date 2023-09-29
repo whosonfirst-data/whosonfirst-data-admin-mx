@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159995,
-    "geom:area_square_m":1768221393.460969,
+    "geom:area_square_m":1768221393.460567,
     "geom:bbox":"-100.101373157,26.3631585499,-99.678133298,26.9139852683",
     "geom:latitude":26.648106,
     "geom:longitude":-99.884763,
@@ -103,8 +103,12 @@
         "hasc:id":"MX.NL.VA",
         "inegi:id":"19050"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6f8cc7c44fe37472ab3bec102cd27591",
+    "wof:geomhash":"2432719ae5c21e5274a3c5a5cab1353a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":102078731,
-    "wof:lastmodified":1566615530,
+    "wof:lastmodified":1695886907,
     "wof:name":"Vallecillo",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

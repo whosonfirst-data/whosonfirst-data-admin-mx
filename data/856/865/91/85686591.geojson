@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.45383,
-    "geom:area_square_m":28170512199.842934,
+    "geom:area_square_m":28170511726.821018,
     "geom:bbox":"-106.687727,20.603221,-103.720896,23.084503",
     "geom:latitude":21.802102,
     "geom:longitude":-104.854974,
@@ -420,12 +420,18 @@
         "gn:id":3995012,
         "gp:id":2346281,
         "hasc:id":"MX.NA",
+        "inegi:id":"18",
+        "iso:code":"MX-NAY",
         "iso:id":"MX-NAY",
         "unlc:id":"MX-NAY",
         "wd:id":"Q79920"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"233eef93ad3f13077ef33d939c4c9d01",
+    "wof:geomhash":"e68c60153088e8c101b1a2f1b709206a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -440,7 +446,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847286,
+    "wof:lastmodified":1695884530,
     "wof:name":"Nayarit",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

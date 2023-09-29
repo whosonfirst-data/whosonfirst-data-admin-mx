@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010557,
-    "geom:area_square_m":122686447.96988,
+    "geom:area_square_m":122686447.969748,
     "geom:bbox":"-99.3110319986,19.873494193,-99.1425131928,20.0470551642",
     "geom:latitude":19.973445,
     "geom:longitude":-99.231376,
@@ -107,8 +107,12 @@
         "inegi:id":"13013",
         "wd:id":"Q29043564"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"77ac39afd0aca03432791db78cef0508",
+    "wof:geomhash":"5c1acc4c69ba420f2803721fd57bf680",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102078629,
-    "wof:lastmodified":1566615548,
+    "wof:lastmodified":1695886911,
     "wof:name":"Atotonilco de Tula",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

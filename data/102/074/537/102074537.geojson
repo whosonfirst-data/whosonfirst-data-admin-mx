@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024755,
-    "geom:area_square_m":288880121.245169,
+    "geom:area_square_m":288880121.245064,
     "geom:bbox":"-104.029257266,19.2201674518,-103.6468107,19.4330223632",
     "geom:latitude":19.309604,
     "geom:longitude":-103.844433,
@@ -120,8 +120,12 @@
         "inegi:id":"06010",
         "wd:id":"Q12221222"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d16032a0640a7a77e7ed0f6573ba7e0f",
+    "wof:geomhash":"086fff6b90471b86c84a34429317f481",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102074537,
-    "wof:lastmodified":1566615911,
+    "wof:lastmodified":1695886027,
     "wof:name":"Villa de \u00c3lvarez",
     "wof:parent_id":85686587,
     "wof:placetype":"county",

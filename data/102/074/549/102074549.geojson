@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125228,
-    "geom:area_square_m":1430956654.315407,
+    "geom:area_square_m":1430956654.316479,
     "geom:bbox":"-105.682200251,22.2553148495,-104.987912532,22.6657399912",
     "geom:latitude":22.464838,
     "geom:longitude":-105.258957,
@@ -125,8 +125,12 @@
         "inegi:id":"18001",
         "wd:id":"Q429995"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4bb11c79c50a1dc27768ba70d0d96dbd",
+    "wof:geomhash":"e0d6cbb8c9f62eb692262ff744f8312f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102074549,
-    "wof:lastmodified":1566615989,
+    "wof:lastmodified":1695886068,
     "wof:name":"Acaponeta",
     "wof:parent_id":85686591,
     "wof:placetype":"county",

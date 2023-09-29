@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049172,
-    "geom:area_square_m":586430944.251531,
+    "geom:area_square_m":586430841.001961,
     "geom:bbox":"-92.481704,15.163817,-92.183988,15.446249",
     "geom:latitude":15.313826,
     "geom:longitude":-92.331464,
@@ -138,8 +138,12 @@
         "inegi:id":"07057",
         "wd:id":"Q74777"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"36473c22166a38dd8eaa393869fcf3fe",
+    "wof:geomhash":"805d3a3c97fe01aac250f93809b9aa33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":102075727,
-    "wof:lastmodified":1690847243,
+    "wof:lastmodified":1695886163,
     "wof:name":"Motozintla",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027443,
-    "geom:area_square_m":326271862.266679,
+    "geom:area_square_m":326271862.266562,
     "geom:bbox":"-97.2104869632,15.8557615072,-96.894896391,16.0332645781",
     "geom:latitude":15.949646,
     "geom:longitude":-97.069578,
@@ -102,8 +102,12 @@
         "inegi:id":"20318",
         "wd:id":"Q4407305"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cdcde486e41dded2a5bcb60c081f1250",
+    "wof:geomhash":"aa2374cd7263a473c6710337d2bbdefb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":102075841,
-    "wof:lastmodified":1566616158,
+    "wof:lastmodified":1695886135,
     "wof:name":"San Pedro Mixtepec -Dto. 22 -",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

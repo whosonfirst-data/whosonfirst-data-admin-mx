@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044427,
-    "geom:area_square_m":515330953.367485,
+    "geom:area_square_m":515330521.852811,
     "geom:bbox":"-89.902479,20.136172,-89.575968,20.374789",
     "geom:latitude":20.2683,
     "geom:longitude":-89.726477,
@@ -129,8 +129,12 @@
         "inegi:id":"31066",
         "wd:id":"Q776539"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"475d03af9c767abb9dec6021573fdc61",
+    "wof:geomhash":"1743cd3483f8c49b0f08cd95673cb018",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102078991,
-    "wof:lastmodified":1690846800,
+    "wof:lastmodified":1695886503,
     "wof:name":"Santa Elena",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

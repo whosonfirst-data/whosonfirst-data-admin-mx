@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.644529,
-    "geom:area_square_m":7157992564.244766,
+    "geom:area_square_m":7157991444.96904,
     "geom:bbox":"-103.235104,25.600611,-101.868987,26.648401",
     "geom:latitude":26.084042,
     "geom:longitude":-102.717997,
@@ -152,8 +152,12 @@
         "inegi:id":"05033",
         "wd:id":"Q3849657"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1f93f1ae9b10b0b49a0f244d042176af",
+    "wof:geomhash":"cd85b3ca08b27e85c9ede1fd726fef79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":102078805,
-    "wof:lastmodified":1690846835,
+    "wof:lastmodified":1695886504,
     "wof:name":"San Pedro",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

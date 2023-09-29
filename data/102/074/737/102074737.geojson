@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018627,
-    "geom:area_square_m":216621168.448484,
+    "geom:area_square_m":216621305.710931,
     "geom:bbox":"-103.7074,19.765302,-103.498225,19.949021",
     "geom:latitude":19.861762,
     "geom:longitude":-103.594644,
@@ -131,8 +131,12 @@
         "inegi:id":"14082",
         "wd:id":"Q3311403"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c27aee90d9549d4b5e36e65cda007126",
+    "wof:geomhash":"00a708dd43355661c6eeff2713c96b2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102074737,
-    "wof:lastmodified":1690847035,
+    "wof:lastmodified":1695885990,
     "wof:name":"Sayula",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

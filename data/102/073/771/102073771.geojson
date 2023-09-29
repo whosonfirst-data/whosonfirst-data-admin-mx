@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063795,
-    "geom:area_square_m":752226593.034593,
+    "geom:area_square_m":752226593.034223,
     "geom:bbox":"-99.2862312745,17.2960771167,-98.8881895372,17.6852856509",
     "geom:latitude":17.523691,
     "geom:longitude":-99.11236,
@@ -95,8 +95,12 @@
         "inegi:id":"12028",
         "wd:id":"Q14333083"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b0c9471bebfa20f0384018d08672503f",
+    "wof:geomhash":"bc6c755447f9829e4e28bbd42068c3af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102073771,
-    "wof:lastmodified":1566615782,
+    "wof:lastmodified":1695885972,
     "wof:name":"Chilapa de \u00c3lvarez",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

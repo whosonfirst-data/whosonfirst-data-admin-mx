@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017415,
-    "geom:area_square_m":198201736.546136,
+    "geom:area_square_m":198201599.668029,
     "geom:bbox":"-102.904336,22.956694,-102.68138,23.073419",
     "geom:latitude":23.015503,
     "geom:longitude":-102.787849,
@@ -99,8 +99,12 @@
         "inegi:id":"32013",
         "wd:id":"Q3847464"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"90d7d0e752b7dddb2e686fb8649b49e2",
+    "wof:geomhash":"04c2c6db39f3cc0dc1897819eb15454f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":102075385,
-    "wof:lastmodified":1690847185,
+    "wof:lastmodified":1695886662,
     "wof:name":"General Enrique Estrada",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

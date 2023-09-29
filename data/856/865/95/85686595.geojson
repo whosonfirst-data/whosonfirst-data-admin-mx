@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.034179,
-    "geom:area_square_m":58780559977.149307,
+    "geom:area_square_m":58780558286.296234,
     "geom:bbox":"-103.738127,17.914908,-100.063033,20.394556",
     "geom:latitude":19.207096,
     "geom:longitude":-101.878113,
@@ -436,12 +436,18 @@
         "gn:id":3995955,
         "gp:id":2346279,
         "hasc:id":"MX.MC",
+        "inegi:id":"16",
+        "iso:code":"MX-MIC",
         "iso:id":"MX-MIC",
         "unlc:id":"MX-MIC",
         "wd:id":"Q79861"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3ae00c91c245c1226e1740fb6e99feb2",
+    "wof:geomhash":"d5aa3da108dddc589feadf13a45defbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -456,7 +462,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847279,
+    "wof:lastmodified":1695884528,
     "wof:name":"Michoac\u00e1n de Ocampo",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00326,
-    "geom:area_square_m":38075449.874491,
+    "geom:area_square_m":38075449.874505,
     "geom:bbox":"-98.9253288644,19.114257825,-98.8255626902,19.1839512591",
     "geom:latitude":19.151637,
     "geom:longitude":-98.870151,
@@ -122,8 +122,12 @@
         "inegi:id":"15089",
         "wd:id":"Q2604977"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c15b283a0a758be869337394274c2271",
+    "wof:geomhash":"c771dac6d5cee09775f0af8b56501d55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102074045,
-    "wof:lastmodified":1566615936,
+    "wof:lastmodified":1695886044,
     "wof:name":"Tenango del Aire",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

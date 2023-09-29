@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024197,
-    "geom:area_square_m":283494967.646742,
+    "geom:area_square_m":283494967.646524,
     "geom:bbox":"-97.0277052608,18.521913786,-96.8337426455,18.7817081748",
     "geom:latitude":18.649261,
     "geom:longitude":-96.925485,
@@ -107,8 +107,12 @@
         "inegi:id":"30201",
         "wd:id":"Q3846375"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6cf3923729cda3a5bc0c0d0e318cb1ab",
+    "wof:geomhash":"1accb0a4e99cca400c0cb65c0512143e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102077819,
-    "wof:lastmodified":1566615322,
+    "wof:lastmodified":1695886862,
     "wof:name":"Zongolica",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

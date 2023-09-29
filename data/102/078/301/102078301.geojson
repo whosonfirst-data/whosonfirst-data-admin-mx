@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009531,
-    "geom:area_square_m":111272385.154218,
+    "geom:area_square_m":111272385.15413,
     "geom:bbox":"-98.6470223899,19.1671619763,-98.4420964603,19.3495252588",
     "geom:latitude":19.244586,
     "geom:longitude":-98.561338,
@@ -90,8 +90,12 @@
         "hasc:id":"MX.PU.SV",
         "inegi:id":"21143"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cbcbf6fa77e889af03f3a772c4248be0",
+    "wof:geomhash":"d5016b8364df351cda298bdba98efb64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":102078301,
-    "wof:lastmodified":1566615527,
+    "wof:lastmodified":1695886906,
     "wof:name":"San Salvador el Verde",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

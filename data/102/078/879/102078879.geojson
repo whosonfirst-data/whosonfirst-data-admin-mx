@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.285156,
-    "geom:area_square_m":3250807726.345329,
+    "geom:area_square_m":3250807726.345573,
     "geom:bbox":"-98.9073070678,22.3880068253,-98.2892494622,23.1925646095",
     "geom:latitude":22.786429,
     "geom:longitude":-98.554487,
@@ -101,8 +101,12 @@
         "hasc:id":"MX.TM.GO",
         "inegi:id":"28012"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9adbb720fe41a180f64bd4e21dc53139",
+    "wof:geomhash":"521eacfe7768ea9e328785d694946026",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102078879,
-    "wof:lastmodified":1566615602,
+    "wof:lastmodified":1695886924,
     "wof:name":"Gonz\u00e1lez",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

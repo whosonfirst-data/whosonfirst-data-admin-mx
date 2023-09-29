@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078754,
-    "geom:area_square_m":920921959.25039,
+    "geom:area_square_m":920921959.250448,
     "geom:bbox":"-101.232834138,18.8087812246,-100.856749728,19.191059541",
     "geom:latitude":18.968828,
     "geom:longitude":-101.036314,
@@ -96,8 +96,12 @@
         "hasc:id":"MX.MC.CA",
         "inegi:id":"16013"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bd7eeb18182b3c9f7d1bebacc2f4172d",
+    "wof:geomhash":"12ebb076fcfd06152745b8f1bdf6fc86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":102074911,
-    "wof:lastmodified":1566615989,
+    "wof:lastmodified":1695886069,
     "wof:name":"Car\u00e1cuaro",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

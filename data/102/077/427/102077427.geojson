@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005326,
-    "geom:area_square_m":62384911.269463,
+    "geom:area_square_m":62384842.825105,
     "geom:bbox":"-97.18677,18.640999,-97.053253,18.73032",
     "geom:latitude":18.679112,
     "geom:longitude":-97.107927,
@@ -122,8 +122,12 @@
         "inegi:id":"30020",
         "wd:id":"Q3847260"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"48fe6094ef1f0afc149a4d283d4f0de3",
+    "wof:geomhash":"101fc1280f52eca591c0e9a456acb464",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102077427,
-    "wof:lastmodified":1690846671,
+    "wof:lastmodified":1695886881,
     "wof:name":"Atlahuilco",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

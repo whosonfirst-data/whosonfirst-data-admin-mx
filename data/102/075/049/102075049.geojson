@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016781,
-    "geom:area_square_m":195071529.168955,
+    "geom:area_square_m":195071529.168827,
     "geom:bbox":"-101.882019772,19.8804975614,-101.547812285,19.9881169197",
     "geom:latitude":19.926831,
     "geom:longitude":-101.704392,
@@ -128,8 +128,12 @@
         "hasc:id":"MX.MC.JM",
         "inegi:id":"16044"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c87324fac157c466f53e7522213df620",
+    "wof:geomhash":"240ecc34f8031f36ac24408e5c85aef0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075049,
-    "wof:lastmodified":1566616076,
+    "wof:lastmodified":1695886103,
     "wof:name":"Jim\u00e9nez",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01926,
-    "geom:area_square_m":225807418.57356,
+    "geom:area_square_m":225807144.270535,
     "geom:bbox":"-97.852163,18.46044,-97.616225,18.621645",
     "geom:latitude":18.532091,
     "geom:longitude":-97.739878,
@@ -125,8 +125,12 @@
         "inegi:id":"21092",
         "wd:id":"Q15153937"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0176c9417c3a92097a281b02ab2257df",
+    "wof:geomhash":"f739b96939aca31fd7fe2156bcfb8a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102078187,
-    "wof:lastmodified":1690846836,
+    "wof:lastmodified":1695886915,
     "wof:name":"Juan N. M\u00e9ndez",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

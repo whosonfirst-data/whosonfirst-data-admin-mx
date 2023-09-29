@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045348,
-    "geom:area_square_m":519853786.204092,
+    "geom:area_square_m":519853982.311392,
     "geom:bbox":"-100.500522,21.855553,-99.948285,22.12685",
     "geom:latitude":22.015809,
     "geom:longitude":-100.211583,
@@ -133,8 +133,12 @@
         "inegi:id":"24011",
         "wd:id":"Q2651364"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"80d9a2091558d086caf690a3c79e800a",
+    "wof:geomhash":"d980e68f5516dc1729a9480f7839c5b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":102077231,
-    "wof:lastmodified":1690846675,
+    "wof:lastmodified":1695886882,
     "wof:name":"Ciudad Fern\u00e1ndez",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

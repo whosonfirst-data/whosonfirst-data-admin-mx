@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051436,
-    "geom:area_square_m":595347184.328951,
+    "geom:area_square_m":595347196.492584,
     "geom:bbox":"-99.179616,20.416272,-98.92802,20.775757",
     "geom:latitude":20.599169,
     "geom:longitude":-99.060196,
@@ -128,8 +128,12 @@
         "inegi:id":"13015",
         "wd:id":"Q3844672"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7616a7f1de466ea0a74ea9c33090b016",
+    "wof:geomhash":"f0ddeb2f148b9c46a7d81358260bdfa4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102078489,
-    "wof:lastmodified":1690846873,
+    "wof:lastmodified":1695886929,
     "wof:name":"Cardonal",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

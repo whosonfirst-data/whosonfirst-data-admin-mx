@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.380696,
-    "geom:area_square_m":4128091182.786872,
+    "geom:area_square_m":4128091182.787201,
     "geom:bbox":"-110.897188043,28.454227814,-109.76005096,28.9947306537",
     "geom:latitude":28.724312,
     "geom:longitude":-110.382695,
@@ -84,8 +84,12 @@
         "hasc:id":"MX.SO.CO",
         "inegi:id":"26021"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ea6cca8dbb06638a8f94869ea26eab5f",
+    "wof:geomhash":"1a867e4f9b0e5b8a64d07d56a4017359",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":102074411,
-    "wof:lastmodified":1566615949,
+    "wof:lastmodified":1695886051,
     "wof:name":"La Colorada",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

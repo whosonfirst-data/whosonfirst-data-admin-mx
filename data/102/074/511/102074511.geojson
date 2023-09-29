@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.730351,
-    "geom:area_square_m":7963146344.705819,
+    "geom:area_square_m":7963146344.707038,
     "geom:bbox":"-111.391633488,27.5165096157,-110.053033973,28.6311993081",
     "geom:latitude":28.142564,
     "geom:longitude":-110.625947,
@@ -144,8 +144,12 @@
         "hasc:id":"MX.SO.GU",
         "inegi:id":"26029"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"01f86ef82a205c5d9a581afa6830e3e7",
+    "wof:geomhash":"82d6f0748e677a7c2c01e40d2d456a51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":102074511,
-    "wof:lastmodified":1566615905,
+    "wof:lastmodified":1695886023,
     "wof:name":"Guaymas",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

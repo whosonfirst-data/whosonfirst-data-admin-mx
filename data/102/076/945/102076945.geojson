@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012644,
-    "geom:area_square_m":148573414.096224,
+    "geom:area_square_m":148573414.096384,
     "geom:bbox":"-96.8732867047,18.0601432939,-96.7309958545,18.2344865851",
     "geom:latitude":18.144551,
     "geom:longitude":-96.799925,
@@ -108,8 +108,12 @@
         "inegi:id":"20041",
         "wd:id":"Q3888662"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"be4d313bac6811f6c9718e79046cb951",
+    "wof:geomhash":"71771bf677e6ae94d4013d799e3164da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":102076945,
-    "wof:lastmodified":1566615510,
+    "wof:lastmodified":1695886902,
     "wof:name":"Huautla de Jim\u00e9nez",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

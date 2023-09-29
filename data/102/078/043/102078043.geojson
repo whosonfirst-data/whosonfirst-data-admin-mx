@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011419,
-    "geom:area_square_m":133558957.769875,
+    "geom:area_square_m":133558902.941673,
     "geom:bbox":"-97.361481,18.860485,-97.241768,19.028269",
     "geom:latitude":18.933788,
     "geom:longitude":-97.303989,
@@ -128,8 +128,12 @@
         "inegi:id":"21023",
         "wd:id":"Q962255"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3292a4cd737a1ad82181d7be6e50d19f",
+    "wof:geomhash":"f10b65f793be100cce2dc72435ad805d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102078043,
-    "wof:lastmodified":1690846870,
+    "wof:lastmodified":1695886927,
     "wof:name":"Atzitzintla",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

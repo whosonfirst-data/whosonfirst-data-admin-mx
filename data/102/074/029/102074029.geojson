@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010566,
-    "geom:area_square_m":122845524.598379,
+    "geom:area_square_m":122845564.512673,
     "geom:bbox":"-99.227761,19.82282,-99.058605,19.964439",
     "geom:latitude":19.904648,
     "geom:longitude":-99.149589,
@@ -386,8 +386,12 @@
         "inegi:id":"15096",
         "wd:id":"Q34828"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ed604b1053a1a27b16a2c01f680e4591",
+    "wof:geomhash":"6d4d5201cdf3d477e94689a068f120ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -397,7 +401,7 @@
         }
     ],
     "wof:id":102074029,
-    "wof:lastmodified":1690847104,
+    "wof:lastmodified":1695886050,
     "wof:name":"Tequixquiac",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

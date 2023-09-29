@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.237261,
-    "geom:area_square_m":2594912723.298601,
+    "geom:area_square_m":2594912453.351752,
     "geom:bbox":"-107.459392,27.411127,-106.687695,28.188078",
     "geom:latitude":27.810146,
     "geom:longitude":-107.063251,
@@ -135,8 +135,12 @@
         "inegi:id":"08012",
         "wd:id":"Q15043366"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"db25059680c0c25b13e158b2e266b5f4",
+    "wof:geomhash":"512fdb2fcb8aa30c5da5bb8d6415cd52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":102075313,
-    "wof:lastmodified":1690847189,
+    "wof:lastmodified":1695886122,
     "wof:name":"Carich\u00ed",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

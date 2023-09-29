@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100313,
-    "geom:area_square_m":1159585690.826953,
+    "geom:area_square_m":1159585761.185941,
     "geom:bbox":"-103.665033,20.584788,-103.306251,20.998238",
     "geom:latitude":20.794896,
     "geom:longitude":-103.494184,
@@ -121,8 +121,12 @@
         "inegi:id":"14120",
         "wd:id":"Q2143868"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0e309255bd15f839f842698cccbba947",
+    "wof:geomhash":"94b28e91b5232a0a9e3ca2b69d18b8cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102074709,
-    "wof:lastmodified":1690847039,
+    "wof:lastmodified":1695885993,
     "wof:name":"Zapopan",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

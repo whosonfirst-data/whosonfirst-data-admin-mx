@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061307,
-    "geom:area_square_m":674542055.695823,
+    "geom:area_square_m":674542319.357993,
     "geom:bbox":"-102.097429,27.021021,-101.710062,27.30557",
     "geom:latitude":27.150547,
     "geom:longitude":-101.913719,
@@ -143,8 +143,12 @@
         "inegi:id":"05016",
         "wd:id":"Q2656466"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4db316504d838865e2b98293e27cd3ed",
+    "wof:geomhash":"d745c9ce92a803841acace7a006a0cc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":102078839,
-    "wof:lastmodified":1690846884,
+    "wof:lastmodified":1695886934,
     "wof:name":"Lamadrid",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

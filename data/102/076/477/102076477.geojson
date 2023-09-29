@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063519,
-    "geom:area_square_m":745901382.91566,
+    "geom:area_square_m":745901530.204055,
     "geom:bbox":"-96.669444,18.100837,-96.255401,18.400846",
     "geom:latitude":18.252515,
     "geom:longitude":-96.439068,
@@ -115,8 +115,12 @@
         "inegi:id":"20278",
         "wd:id":"Q3892469"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ecd13f66c3f92cd83ea297d51691401a",
+    "wof:geomhash":"8bbf69a2acf2f81d77176047fe14d1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":102076477,
-    "wof:lastmodified":1690846720,
+    "wof:lastmodified":1695886893,
     "wof:name":"San Miguel Soyaltepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

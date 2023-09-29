@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":4170529.477806,
+    "geom:area_square_m":4170529.477829,
     "geom:bbox":"-96.76732,17.072701,-96.744879,17.114043",
     "geom:latitude":17.095368,
     "geom:longitude":-96.757431,
@@ -113,11 +113,15 @@
         "inegi:id":"20157",
         "wd:id":"Q1193686"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         101995345
     ],
     "wof:country":"MX",
-    "wof:geomhash":"8f642b071138a12dc1a342766ab9d935",
+    "wof:geomhash":"201278d9c761b7b61843213b66f992a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075947,
-    "wof:lastmodified":1690847186,
+    "wof:lastmodified":1695886403,
     "wof:name":"San Jacinto Amilpas",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

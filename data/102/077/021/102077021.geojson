@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003794,
-    "geom:area_square_m":44814559.509553,
+    "geom:area_square_m":44814503.139927,
     "geom:bbox":"-96.341057,17.156555,-96.19232,17.204121",
     "geom:latitude":17.180862,
     "geom:longitude":-96.264646,
@@ -119,8 +119,12 @@
         "inegi:id":"20138",
         "wd:id":"Q4967803"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5039c0804a564c17b7d91387c2c3ac4e",
+    "wof:geomhash":"15b66cab737d5f286c828e423e9b07f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077021,
-    "wof:lastmodified":1690846674,
+    "wof:lastmodified":1695886881,
     "wof:name":"San Francisco Cajonos",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

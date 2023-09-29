@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003268,
-    "geom:area_square_m":38553163.216812,
+    "geom:area_square_m":38552897.284644,
     "geom:bbox":"-98.141694,17.37577,-98.06459,17.489618",
     "geom:latitude":17.430839,
     "geom:longitude":-98.101384,
@@ -122,8 +122,12 @@
         "inegi:id":"20461",
         "wd:id":"Q7420395"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"37a995d2d5d4c9087b871f75335dccc9",
+    "wof:geomhash":"bb2225e382efc3677d99ec57fea60cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102076755,
-    "wof:lastmodified":1690846705,
+    "wof:lastmodified":1695886639,
     "wof:name":"Santiago del R\u00edo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

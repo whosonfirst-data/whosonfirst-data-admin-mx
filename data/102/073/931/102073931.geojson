@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0139,
-    "geom:area_square_m":162797113.214842,
+    "geom:area_square_m":162797041.544322,
     "geom:bbox":"-99.738831,18.645165,-99.480163,18.786337",
     "geom:latitude":18.704232,
     "geom:longitude":-99.60783,
@@ -89,8 +89,12 @@
         "inegi:id":"12049",
         "wd:id":"Q7193833"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c8772baf3a4f068c40890a8250fd7560",
+    "wof:geomhash":"4ebafede6b62cc89864c16dd3f6a79a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":102073931,
-    "wof:lastmodified":1690846998,
+    "wof:lastmodified":1695886651,
     "wof:name":"Pilcaya",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

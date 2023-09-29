@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020232,
-    "geom:area_square_m":233443528.539538,
+    "geom:area_square_m":233443438.01001,
     "geom:bbox":"-99.180876,20.956477,-98.957228,21.175095",
     "geom:latitude":21.070963,
     "geom:longitude":-99.070512,
@@ -122,8 +122,12 @@
         "inegi:id":"13040",
         "wd:id":"Q3849661"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a851358165903b452ff9ac00b8926b59",
+    "wof:geomhash":"ca565a6ea2567ee83a209cabe423e351",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102078527,
-    "wof:lastmodified":1690846841,
+    "wof:lastmodified":1695886917,
     "wof:name":"La Misi\u00f3n",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

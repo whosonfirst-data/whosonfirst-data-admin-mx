@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000971,
-    "geom:area_square_m":11379007.151976,
+    "geom:area_square_m":11379003.940178,
     "geom:bbox":"-98.563489,18.526332,-98.517669,18.567661",
     "geom:latitude":18.547044,
     "geom:longitude":-98.541717,
@@ -125,8 +125,12 @@
         "inegi:id":"21021",
         "wd:id":"Q3893095"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f284ecdec11fa4db700aad9585ccd54a",
+    "wof:geomhash":"4e7b111f602169d15dc23f724383ac4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102078039,
-    "wof:lastmodified":1690846835,
+    "wof:lastmodified":1695886915,
     "wof:name":"Atzala",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

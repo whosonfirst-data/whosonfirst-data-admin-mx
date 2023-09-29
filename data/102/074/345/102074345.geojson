@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.255565,
-    "geom:area_square_m":2813710488.251503,
+    "geom:area_square_m":2813710106.307059,
     "geom:bbox":"-109.82563,26.623525,-109.064288,27.430782",
     "geom:latitude":27.078101,
     "geom:longitude":-109.402733,
@@ -172,8 +172,12 @@
         "inegi:id":"26042",
         "wd:id":"Q1001522"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"520cc82785e059a9f365cc8c65d31dd8",
+    "wof:geomhash":"41f6c80409dfe0006e58f69597d0b6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":102074345,
-    "wof:lastmodified":1690847129,
+    "wof:lastmodified":1695886072,
     "wof:name":"Navojoa",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

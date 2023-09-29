@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176161,
-    "geom:area_square_m":2063837587.463777,
+    "geom:area_square_m":2063837373.558248,
     "geom:bbox":"-101.485448,18.443706,-100.82447,18.87539",
     "geom:latitude":18.653871,
     "geom:longitude":-101.105064,
@@ -119,8 +119,12 @@
         "inegi:id":"16038",
         "wd:id":"Q2651175"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4c6eff0055c5cc518143a526637525fa",
+    "wof:geomhash":"64eeed33a40b415a6cd0c2e47d73d46b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102074893,
-    "wof:lastmodified":1690847066,
+    "wof:lastmodified":1695886013,
     "wof:name":"Huetamo",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

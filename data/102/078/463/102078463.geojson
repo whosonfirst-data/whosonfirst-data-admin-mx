@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012571,
-    "geom:area_square_m":146327896.397253,
+    "geom:area_square_m":146327825.225706,
     "geom:bbox":"-97.428965,19.615343,-97.301848,19.876959",
     "geom:latitude":19.722536,
     "geom:longitude":-97.35992,
@@ -118,8 +118,12 @@
         "inegi:id":"21199",
         "wd:id":"Q1997999"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bde2d5058270229a58d06e872c80e97a",
+    "wof:geomhash":"e10e899f3d4668bb30ba799ec5bb3fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":102078463,
-    "wof:lastmodified":1690846825,
+    "wof:lastmodified":1695886912,
     "wof:name":"Xiutetelco",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

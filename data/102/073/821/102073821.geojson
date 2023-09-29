@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048795,
-    "geom:area_square_m":575383084.799569,
+    "geom:area_square_m":575382921.890871,
     "geom:bbox":"-99.079359,17.290728,-98.763298,17.660923",
     "geom:latitude":17.514337,
     "geom:longitude":-98.903045,
@@ -122,8 +122,12 @@
         "inegi:id":"12010",
         "wd:id":"Q1771198"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c1c560dce52e3fe64f928fcb3f67669e",
+    "wof:geomhash":"1f8043f54eb85eaee97a34825f08d044",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102073821,
-    "wof:lastmodified":1690847005,
+    "wof:lastmodified":1695885968,
     "wof:name":"Atlixtac",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.257685,
-    "geom:area_square_m":2689078236.453311,
+    "geom:area_square_m":2689077802.894462,
     "geom:bbox":"-116.701765,32.235912,-115.874205,32.636081",
     "geom:latitude":32.440889,
     "geom:longitude":-116.268975,
@@ -155,8 +155,12 @@
         "inegi:id":"02003",
         "wd:id":"Q2320825"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a7bb4b222d61ea63300b4ba8c2a7446a",
+    "wof:geomhash":"f9a44aa5340cb0808be1a652d0a3a751",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":102074503,
-    "wof:lastmodified":1690847040,
+    "wof:lastmodified":1695885993,
     "wof:name":"Tecate",
     "wof:parent_id":85686541,
     "wof:placetype":"county",

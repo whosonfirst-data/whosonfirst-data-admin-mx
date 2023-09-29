@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01457,
-    "geom:area_square_m":172264845.41028,
+    "geom:area_square_m":172264767.046413,
     "geom:bbox":"-96.20907,16.948908,-96.043864,17.126778",
     "geom:latitude":17.021742,
     "geom:longitude":-96.134983,
@@ -104,8 +104,12 @@
         "inegi:id":"20337",
         "wd:id":"Q556347"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"76c69ee1b72c9e0556d96baa38a8054d",
+    "wof:geomhash":"b2e4696d75152a3e3a0e4076022ba061",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102077013,
-    "wof:lastmodified":1690846614,
+    "wof:lastmodified":1695886861,
     "wof:name":"San Pedro y San Pablo Ayutla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

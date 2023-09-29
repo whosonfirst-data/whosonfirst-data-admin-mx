@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010738,
-    "geom:area_square_m":122941510.187095,
+    "geom:area_square_m":122941510.187059,
     "geom:bbox":"-100.884315298,22.1414133123,-100.706842711,22.2602337953",
     "geom:latitude":22.192476,
     "geom:longitude":-100.777764,
@@ -110,8 +110,12 @@
         "inegi:id":"24009",
         "wd:id":"Q3311798"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3c829f06b45b1d48755f1f5ddf31aba5",
+    "wof:geomhash":"c29e745db12ff885d30410534e3b3b70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102077237,
-    "wof:lastmodified":1566615408,
+    "wof:lastmodified":1695886884,
     "wof:name":"Cerro de San Pedro",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

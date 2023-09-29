@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007356,
-    "geom:area_square_m":86554623.930093,
+    "geom:area_square_m":86554470.982035,
     "geom:bbox":"-97.616937,17.823813,-97.468485,17.973976",
     "geom:latitude":17.890413,
     "geom:longitude":-97.543532,
@@ -113,8 +113,12 @@
         "inegi:id":"20151",
         "wd:id":"Q3889126"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e040e7fca02bfd3852eb22921f025755",
+    "wof:geomhash":"fc53bf3dd1948e2ef1c1eb2b7250bf96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076969,
-    "wof:lastmodified":1690846756,
+    "wof:lastmodified":1695886898,
     "wof:name":"San Francisco Teopan",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

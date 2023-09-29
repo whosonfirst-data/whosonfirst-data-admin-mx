@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04921,
-    "geom:area_square_m":534962564.717722,
+    "geom:area_square_m":534962534.782972,
     "geom:bbox":"-109.660047,28.340679,-109.33876,28.573595",
     "geom:latitude":28.457298,
     "geom:longitude":-109.492108,
@@ -122,8 +122,12 @@
         "inegi:id":"26044",
         "wd:id":"Q3844457"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6e6a234aa3cf6b5a4f5b542193776035",
+    "wof:geomhash":"baaf4fe841103ca8e9b9fc323eb9de87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102074369,
-    "wof:lastmodified":1690847090,
+    "wof:lastmodified":1695886032,
     "wof:name":"Onavas",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

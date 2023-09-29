@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025946,
-    "geom:area_square_m":302243471.125479,
+    "geom:area_square_m":302243366.506743,
     "geom:bbox":"-97.705004,19.462355,-97.475006,19.706266",
     "geom:latitude":19.59666,
     "geom:longitude":-97.573259,
@@ -127,8 +127,12 @@
         "inegi:id":"21044",
         "wd:id":"Q608391"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4a06d3592c23467c31444f717fa9979f",
+    "wof:geomhash":"23626d41cad1d2138200d999b0092790",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102078089,
-    "wof:lastmodified":1690846862,
+    "wof:lastmodified":1695886924,
     "wof:name":"Cuyoaco",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

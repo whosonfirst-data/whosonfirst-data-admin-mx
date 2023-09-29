@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021218,
-    "geom:area_square_m":247917196.850286,
+    "geom:area_square_m":247917082.201762,
     "geom:bbox":"-96.448238,18.974094,-96.256349,19.198783",
     "geom:latitude":19.104865,
     "geom:longitude":-96.33945,
@@ -104,8 +104,12 @@
         "inegi:id":"30100",
         "wd:id":"Q2290035"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"53aeeb65f74a1cfc515c32b605083399",
+    "wof:geomhash":"e7b1dabe5a4538de7e672dfb9352eb1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102077601,
-    "wof:lastmodified":1690846680,
+    "wof:lastmodified":1695886883,
     "wof:name":"Manlio Fabio Altamirano",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

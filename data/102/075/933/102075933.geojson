@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002277,
-    "geom:area_square_m":26982205.24649,
+    "geom:area_square_m":26982183.659003,
     "geom:bbox":"-96.825169,16.583195,-96.757501,16.662271",
     "geom:latitude":16.623503,
     "geom:longitude":-96.793886,
@@ -110,8 +110,12 @@
         "inegi:id":"20069",
         "wd:id":"Q3892800"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"451c1321a23729f845597bb92bf7c694",
+    "wof:geomhash":"0f42390ff7697d08a7dbdb13e5bafba6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102075933,
-    "wof:lastmodified":1690847205,
+    "wof:lastmodified":1695886135,
     "wof:name":"La Pe",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

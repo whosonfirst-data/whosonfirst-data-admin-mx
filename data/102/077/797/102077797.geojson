@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004793,
-    "geom:area_square_m":56300057.869446,
+    "geom:area_square_m":56300065.162874,
     "geom:bbox":"-95.919741,18.130791,-95.84111,18.250758",
     "geom:latitude":18.187902,
     "geom:longitude":-95.880143,
@@ -116,8 +116,12 @@
         "inegi:id":"30190",
         "wd:id":"Q3846714"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b30d26477d3af3ec0b73fc6534c467ca",
+    "wof:geomhash":"23c76b8bb76464f07df62a6d94d83fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102077797,
-    "wof:lastmodified":1690846593,
+    "wof:lastmodified":1695886855,
     "wof:name":"Tuxtilla",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

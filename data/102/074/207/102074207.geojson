@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00653,
-    "geom:area_square_m":75886495.397291,
+    "geom:area_square_m":75886264.173196,
     "geom:bbox":"-99.215394,19.929499,-99.083992,20.031714",
     "geom:latitude":19.984509,
     "geom:longitude":-99.147899,
@@ -251,8 +251,12 @@
         "inegi:id":"15010",
         "wd:id":"Q228854"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4ab8a300249e38c82dfa02f3a70c908c",
+    "wof:geomhash":"f6a30e84c373e83e3d4035f92f26e3b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -262,7 +266,7 @@
         }
     ],
     "wof:id":102074207,
-    "wof:lastmodified":1690847114,
+    "wof:lastmodified":1695886059,
     "wof:name":"Apaxco",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

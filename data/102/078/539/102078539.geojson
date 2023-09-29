@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03348,
-    "geom:area_square_m":386490505.039871,
+    "geom:area_square_m":386490424.29341,
     "geom:bbox":"-99.407606,20.858526,-99.222577,21.147313",
     "geom:latitude":20.999763,
     "geom:longitude":-99.315413,
@@ -116,8 +116,12 @@
         "inegi:id":"13047",
         "wd:id":"Q3887827"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e4b0821633054466d525fc8e863d0e2b",
+    "wof:geomhash":"cecfc07b2bddc52bc416ce617d1703b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102078539,
-    "wof:lastmodified":1690846849,
+    "wof:lastmodified":1695886919,
     "wof:name":"Pacula",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

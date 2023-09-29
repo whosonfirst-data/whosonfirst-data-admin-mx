@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044252,
-    "geom:area_square_m":512374393.983974,
+    "geom:area_square_m":512374253.456585,
     "geom:bbox":"-102.689676,20.415547,-102.413043,20.667306",
     "geom:latitude":20.547566,
     "geom:longitude":-102.539615,
@@ -153,8 +153,12 @@
         "inegi:id":"14013",
         "wd:id":"Q2702220"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"73703a7a799502e34e80361671b3d77f",
+    "wof:geomhash":"30f651ce3e98ec96976096527995e0bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":102074677,
-    "wof:lastmodified":1690847110,
+    "wof:lastmodified":1695886056,
     "wof:name":"Atotonilco el Alto",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

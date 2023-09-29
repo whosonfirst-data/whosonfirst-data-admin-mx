@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012652,
-    "geom:area_square_m":146771737.668172,
+    "geom:area_square_m":146771883.687221,
     "geom:bbox":"-98.427079,20.188183,-98.259741,20.329295",
     "geom:latitude":20.257814,
     "geom:longitude":-98.342923,
@@ -132,8 +132,12 @@
         "inegi:id":"13035",
         "wd:id":"Q2178664"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e94c72bbe8c451ef4d2a16c77c883f31",
+    "wof:geomhash":"6d28258b23df301ddf885e0b8eff2a79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102078465,
-    "wof:lastmodified":1690846834,
+    "wof:lastmodified":1695886915,
     "wof:name":"Metepec",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

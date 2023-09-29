@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.823476,
-    "geom:area_square_m":151857321776.450562,
+    "geom:area_square_m":151857321815.258514,
     "geom:bbox":"-103.960002,24.542684,-99.84312,29.880024",
     "geom:latitude":27.295443,
     "geom:longitude":-102.044039,
@@ -431,12 +431,18 @@
         "gn:id":4013674,
         "gp:id":2346270,
         "hasc:id":"MX.CA",
+        "inegi:id":"05",
+        "iso:code":"MX-COA",
         "iso:id":"MX-COA",
         "unlc:id":"MX-COA",
         "wd:id":"Q53079"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a96a5547fb2a90a37e5b68504c3e2fa2",
+    "wof:geomhash":"408620fc828b583b7191f7b7d99e148f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -451,7 +457,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847265,
+    "wof:lastmodified":1695884623,
     "wof:name":"Coahuila de Zaragoza",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

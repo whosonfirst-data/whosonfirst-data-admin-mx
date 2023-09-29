@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043586,
-    "geom:area_square_m":507579323.261231,
+    "geom:area_square_m":507579162.98344,
     "geom:bbox":"-102.738883,19.487047,-102.441898,19.868245",
     "geom:latitude":19.646397,
     "geom:longitude":-102.593698,
@@ -118,8 +118,12 @@
         "inegi:id":"16095",
         "wd:id":"Q3847335"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fa552e4ec72c851f8709b1c35b1dad8d",
+    "wof:geomhash":"a0651f6f901fff579dbb00f852425f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":102075015,
-    "wof:lastmodified":1690847155,
+    "wof:lastmodified":1695886097,
     "wof:name":"Tocumbo",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

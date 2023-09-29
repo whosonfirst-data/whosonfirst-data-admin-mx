@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033428,
-    "geom:area_square_m":390880832.56787,
+    "geom:area_square_m":390880832.567568,
     "geom:bbox":"-97.5597437891,18.8702165799,-97.2666257021,19.0843388089",
     "geom:latitude":18.977342,
     "geom:longitude":-97.42971,
@@ -101,8 +101,12 @@
         "inegi:id":"21045",
         "wd:id":"Q2652050"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"aca68a65e91f9206d3a64db3d6bd1c13",
+    "wof:geomhash":"2060b3e7179c55ed13e444cc386e4f76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102078091,
-    "wof:lastmodified":1566615551,
+    "wof:lastmodified":1695886912,
     "wof:name":"Chalchicomula de Sesma",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

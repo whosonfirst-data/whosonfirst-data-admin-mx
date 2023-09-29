@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022224,
-    "geom:area_square_m":247802577.698466,
+    "geom:area_square_m":247802577.698653,
     "geom:bbox":"-100.243231116,25.5120544676,-99.990121595,25.7032743482",
     "geom:latitude":25.61409,
     "geom:longitude":-100.12148,
@@ -284,8 +284,12 @@
         "inegi:id":"19031",
         "wd:id":"Q673148"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7418f2340d8713ec18a388fb4e5e529c",
+    "wof:geomhash":"41aa83a64646a2ec7c7114728173cee8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -295,7 +299,7 @@
         }
     ],
     "wof:id":102078677,
-    "wof:lastmodified":1566615618,
+    "wof:lastmodified":1695886929,
     "wof:name":"Ju\u00e1rez",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

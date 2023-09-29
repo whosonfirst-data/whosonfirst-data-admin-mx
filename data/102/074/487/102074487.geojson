@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103762,
-    "geom:area_square_m":1117106648.657036,
+    "geom:area_square_m":1117106648.656913,
     "geom:bbox":"-111.073708402,29.2751425749,-110.568273714,29.6746826409",
     "geom:latitude":29.463017,
     "geom:longitude":-110.79864,
@@ -89,8 +89,12 @@
         "inegi:id":"26056",
         "wd:id":"Q3311516"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"71f5b3914c3757366a0f8c51a561813d",
+    "wof:geomhash":"3c5aee622823f8d675c42e11dbb35667",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":102074487,
-    "wof:lastmodified":1566615952,
+    "wof:lastmodified":1695886054,
     "wof:name":"San Miguel de Horcasitas",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

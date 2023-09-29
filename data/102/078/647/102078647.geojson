@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010095,
-    "geom:area_square_m":117302320.464306,
+    "geom:area_square_m":117302320.464246,
     "geom:bbox":"-98.9191789363,19.924277649,-98.7899594507,20.0505362486",
     "geom:latitude":19.989408,
     "geom:longitude":-98.858916,
@@ -110,8 +110,12 @@
         "inegi:id":"13082",
         "wd:id":"Q3300386"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a840fd7d16f667aaf7fe00c84eaf0e41",
+    "wof:geomhash":"355f940704b5d09378ba3c276fb19fac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102078647,
-    "wof:lastmodified":1566615608,
+    "wof:lastmodified":1695886926,
     "wof:name":"Zapotl\u00e1n de Ju\u00e1rez",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

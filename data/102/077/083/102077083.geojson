@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023816,
-    "geom:area_square_m":281868198.464048,
+    "geom:area_square_m":281868198.46392,
     "geom:bbox":"-95.5704407131,16.7244465226,-95.300278229,16.9550390478",
     "geom:latitude":16.838769,
     "geom:longitude":-95.389393,
@@ -99,8 +99,12 @@
         "inegi:id":"20036",
         "wd:id":"Q4968997"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"af79fd1f8cf481693ba93e650b65f17a",
+    "wof:geomhash":"3ad28d29d12ae53a405481857795fb55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":102077083,
-    "wof:lastmodified":1566615318,
+    "wof:lastmodified":1695886861,
     "wof:name":"Guevea de Humboldt",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

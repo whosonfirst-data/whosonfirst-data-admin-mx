@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072071,
-    "geom:area_square_m":823393977.267417,
+    "geom:area_square_m":823393772.969623,
     "geom:bbox":"-99.544327,22.146461,-99.206086,22.748498",
     "geom:latitude":22.490104,
     "geom:longitude":-99.365991,
@@ -73,8 +73,12 @@
         "hasc:id":"MX.SL.NA",
         "inegi:id":"24058"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f3b06ec726f9f897a53d8531470a2eac",
+    "wof:geomhash":"bd781b175c54a5c6f029e0e24cddfa32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102077125,
-    "wof:lastmodified":1625076010,
+    "wof:lastmodified":1695886639,
     "wof:name":"El Naranjo",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

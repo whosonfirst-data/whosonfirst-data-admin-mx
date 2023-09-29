@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.699062,
-    "geom:area_square_m":7420992317.239504,
+    "geom:area_square_m":7420990251.689108,
     "geom:bbox":"-108.948302,30.179691,-107.935088,31.333677",
     "geom:latitude":30.849353,
     "geom:longitude":-108.450224,
@@ -158,8 +158,12 @@
         "inegi:id":"08035",
         "wd:id":"Q1998799"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e92ac30f7bd1c9c433f35fecc276dcc8",
+    "wof:geomhash":"88f3ed44e36f826e3a3f9a1c93db053a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":102075245,
-    "wof:lastmodified":1690847158,
+    "wof:lastmodified":1695886099,
     "wof:name":"Janos",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061603,
-    "geom:area_square_m":670557078.847841,
+    "geom:area_square_m":670557271.156597,
     "geom:bbox":"-106.545148,28.135934,-106.202847,28.474957",
     "geom:latitude":28.321201,
     "geom:longitude":-106.349551,
@@ -158,8 +158,12 @@
         "inegi:id":"08024",
         "wd:id":"Q2838480"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ff10d260eb37fc08ddfec1178380f836",
+    "wof:geomhash":"5397eca6e16170584dd5d034c79f19c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":102075325,
-    "wof:lastmodified":1690847191,
+    "wof:lastmodified":1695886526,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

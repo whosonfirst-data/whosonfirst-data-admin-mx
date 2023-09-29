@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008334,
-    "geom:area_square_m":98732137.191545,
+    "geom:area_square_m":98732137.191538,
     "geom:bbox":"-96.6119773642,16.5924932132,-96.4721456261,16.7061133252",
     "geom:latitude":16.64391,
     "geom:longitude":-96.533968,
@@ -101,8 +101,12 @@
         "inegi:id":"20328",
         "wd:id":"Q3892691"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cccf945b15abf91cdf18480d37b8c962",
+    "wof:geomhash":"e294b3e8298980a77d2d4c2fd0634ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102075985,
-    "wof:lastmodified":1566616120,
+    "wof:lastmodified":1695886122,
     "wof:name":"San Pedro Taviche",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

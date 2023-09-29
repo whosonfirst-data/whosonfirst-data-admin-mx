@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.84736,
-    "geom:area_square_m":8884038412.074293,
+    "geom:area_square_m":8884038412.074429,
     "geom:bbox":"-115.053022,31.491,-113.543451,32.493913",
     "geom:latitude":32.017035,
     "geom:longitude":-114.351253,
@@ -198,8 +198,12 @@
         "inegi:id":"26055",
         "wd:id":"Q995380"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7dedf34609e289ea01401f235bf14297",
+    "wof:geomhash":"a9cc2ff53f2aaca6de4e1494f73c48bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -209,7 +213,7 @@
         }
     ],
     "wof:id":102074497,
-    "wof:lastmodified":1690847061,
+    "wof:lastmodified":1695886287,
     "wof:name":"San Luis R\u00edo Colorado",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

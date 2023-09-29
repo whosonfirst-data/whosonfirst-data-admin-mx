@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076782,
-    "geom:area_square_m":880489543.011305,
+    "geom:area_square_m":880489543.011255,
     "geom:bbox":"-101.503515271,21.8099396589,-101.04395284,22.1537698762",
     "geom:latitude":21.968619,
     "geom:longitude":-101.273153,
@@ -111,8 +111,12 @@
         "inegi:id":"24046",
         "wd:id":"Q3846982"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"349144efe64d479a07d62d36f5f5c8b3",
+    "wof:geomhash":"c1d1ca35870f0f3e873296b134b5c6ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":102077153,
-    "wof:lastmodified":1566615364,
+    "wof:lastmodified":1695886872,
     "wof:name":"Villa de Arriaga",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

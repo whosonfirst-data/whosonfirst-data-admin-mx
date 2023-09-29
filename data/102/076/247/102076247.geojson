@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004661,
-    "geom:area_square_m":54887721.953521,
+    "geom:area_square_m":54887528.447935,
     "geom:bbox":"-97.027749,17.720314,-96.944298,17.825069",
     "geom:latitude":17.765046,
     "geom:longitude":-96.988235,
@@ -119,8 +119,12 @@
         "inegi:id":"20558",
         "wd:id":"Q7911393"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4fccd19456e5b081507cc5d220fd6e48",
+    "wof:geomhash":"86bcbfe41e2cc256660271663715dfb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102076247,
-    "wof:lastmodified":1690846766,
+    "wof:lastmodified":1695886899,
     "wof:name":"Valerio Trujano",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

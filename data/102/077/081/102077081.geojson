@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041449,
-    "geom:area_square_m":487437623.598615,
+    "geom:area_square_m":487437623.598643,
     "geom:bbox":"-95.9890863655,17.7654132771,-95.7999247171,18.1598651302",
     "geom:latitude":18.000832,
     "geom:longitude":-95.891044,
@@ -96,8 +96,12 @@
         "hasc:id":"MX.OA.BY",
         "inegi:id":"20044"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"32dd0f380df1ab37293acf9a131f7790",
+    "wof:geomhash":"ca2e04302237e81667ac853c46cec1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":102077081,
-    "wof:lastmodified":1566615388,
+    "wof:lastmodified":1695886880,
     "wof:name":"Loma Bonita",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

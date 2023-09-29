@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012728,
-    "geom:area_square_m":150086269.414368,
+    "geom:area_square_m":150086155.330418,
     "geom:bbox":"-96.620019,17.463442,-96.394049,17.570806",
     "geom:latitude":17.521707,
     "geom:longitude":-96.521619,
@@ -107,8 +107,12 @@
         "inegi:id":"20296",
         "wd:id":"Q284128"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"01c4ba08ad9a414baa882c3b177fbc50",
+    "wof:geomhash":"c56fff5d9a7d58c904bfc17da2ea9235",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102076493,
-    "wof:lastmodified":1690846771,
+    "wof:lastmodified":1695886900,
     "wof:name":"San Pablo Macuiltianguis",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

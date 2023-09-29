@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021572,
-    "geom:area_square_m":251061583.784837,
+    "geom:area_square_m":251061364.529559,
     "geom:bbox":"-100.448558,19.655313,-100.255332,19.837455",
     "geom:latitude":19.746177,
     "geom:longitude":-100.342332,
@@ -121,8 +121,12 @@
         "inegi:id":"16080",
         "wd:id":"Q10819400"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"549bcf3b7223be0414b4720ecbf1cea4",
+    "wof:geomhash":"a3f38e86e0a972fdd87c76fecd8081e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102075011,
-    "wof:lastmodified":1690847211,
+    "wof:lastmodified":1695886139,
     "wof:name":"Senguio",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

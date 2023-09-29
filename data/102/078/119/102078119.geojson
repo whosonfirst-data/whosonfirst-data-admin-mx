@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012538,
-    "geom:area_square_m":146358238.114556,
+    "geom:area_square_m":146358169.043521,
     "geom:bbox":"-97.276812,19.175957,-97.138168,19.335844",
     "geom:latitude":19.258272,
     "geom:longitude":-97.213564,
@@ -130,8 +130,12 @@
         "inegi:id":"21058",
         "wd:id":"Q5097637"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"133f9a323efb3844e2ddd171e530f4c7",
+    "wof:geomhash":"cb20a121aa19fe6015ce0bcfa566b788",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":102078119,
-    "wof:lastmodified":1690846846,
+    "wof:lastmodified":1695886918,
     "wof:name":"Chilchotla",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

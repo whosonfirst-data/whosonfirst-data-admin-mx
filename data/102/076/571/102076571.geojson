@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027642,
-    "geom:area_square_m":325348422.216657,
+    "geom:area_square_m":325348233.510583,
     "geom:bbox":"-96.28075,17.741875,-95.941594,17.9942",
     "geom:latitude":17.849852,
     "geom:longitude":-96.131575,
@@ -121,8 +121,12 @@
         "inegi:id":"20417",
         "wd:id":"Q3891011"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"25ef43852277baf212e3380b3a37dc83",
+    "wof:geomhash":"edcfe55529312dd410d0ffb4bfc723fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102076571,
-    "wof:lastmodified":1690846784,
+    "wof:lastmodified":1695886901,
     "wof:name":"Santa Mar\u00eda Jacatepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

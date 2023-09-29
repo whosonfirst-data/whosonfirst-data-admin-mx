@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002574,
-    "geom:area_square_m":30470368.590221,
+    "geom:area_square_m":30470348.500155,
     "geom:bbox":"-96.837887,16.743404,-96.754352,16.809564",
     "geom:latitude":16.781718,
     "geom:longitude":-96.793182,
@@ -113,8 +113,12 @@
         "inegi:id":"20387",
         "wd:id":"Q7419600"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bd5f0b2ed47277031cffdfcd2b933b65",
+    "wof:geomhash":"4e93eeecfed0862acadc63e279280e09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076019,
-    "wof:lastmodified":1690846770,
+    "wof:lastmodified":1695886900,
     "wof:name":"Santa Gertrudis",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083674,
-    "geom:area_square_m":909295405.053947,
+    "geom:area_square_m":909294994.256871,
     "geom:bbox":"-100.839304,28.333098,-100.396804,28.651015",
     "geom:latitude":28.496438,
     "geom:longitude":-100.620489,
@@ -144,8 +144,12 @@
         "inegi:id":"05022",
         "wd:id":"Q2651845"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e7d9343305d07a0ae36760190c6af48d",
+    "wof:geomhash":"196c79585c192971b2b812aec6730e79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":102078827,
-    "wof:lastmodified":1690846808,
+    "wof:lastmodified":1695886908,
     "wof:name":"Nava",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

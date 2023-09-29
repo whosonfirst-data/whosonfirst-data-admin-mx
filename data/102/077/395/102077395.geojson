@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014468,
-    "geom:area_square_m":169436019.610765,
+    "geom:area_square_m":169436083.421154,
     "geom:bbox":"-97.350025,18.624249,-97.205877,18.791989",
     "geom:latitude":18.716147,
     "geom:longitude":-97.276423,
@@ -127,8 +127,12 @@
         "inegi:id":"30006",
         "wd:id":"Q286349"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fdea069edbac9d49d93ca7dd3c8af0ae",
+    "wof:geomhash":"10e2429275c5fba359b8bdb1791b62af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102077395,
-    "wof:lastmodified":1690846649,
+    "wof:lastmodified":1695886872,
     "wof:name":"Acultzingo",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031052,
-    "geom:area_square_m":363401378.854188,
+    "geom:area_square_m":363401378.854131,
     "geom:bbox":"-97.6763006898,18.70965378,-97.3688035962,18.9654127028",
     "geom:latitude":18.835006,
     "geom:longitude":-97.535577,
@@ -100,8 +100,12 @@
         "inegi:id":"21110",
         "wd:id":"Q6058970"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"68e263d9c9217840dfca238024979d73",
+    "wof:geomhash":"ba07a1062f89438f8c0645f95f5d4ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":102078229,
-    "wof:lastmodified":1566615534,
+    "wof:lastmodified":1695886908,
     "wof:name":"Palmar de Bravo",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

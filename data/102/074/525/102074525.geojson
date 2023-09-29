@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331093,
-    "geom:area_square_m":3760782230.516362,
+    "geom:area_square_m":3760782447.653067,
     "geom:bbox":"-110.120405,22.871954,-109.413173,23.671482",
     "geom:latitude":23.276613,
     "geom:longitude":-109.753278,
@@ -169,8 +169,12 @@
         "inegi:id":"03008",
         "wd:id":"Q659516"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4254a5e817a279682de4c0c4483d41fa",
+    "wof:geomhash":"a7ac48e55857636eeb226cbb5551380b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":102074525,
-    "wof:lastmodified":1690847130,
+    "wof:lastmodified":1695886074,
     "wof:name":"Los Cabos",
     "wof:parent_id":85686555,
     "wof:placetype":"county",

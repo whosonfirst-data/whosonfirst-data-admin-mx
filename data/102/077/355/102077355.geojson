@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013797,
-    "geom:area_square_m":160224583.495773,
+    "geom:area_square_m":160224506.371165,
     "geom:bbox":"-101.32515,20.007224,-101.15995,20.161861",
     "geom:latitude":20.084316,
     "geom:longitude":-101.244689,
@@ -198,8 +198,12 @@
         "inegi:id":"11021",
         "wd:id":"Q605127"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0fb81f8c19f1e50ca14bab9b81966570",
+    "wof:geomhash":"dc761e74a466918ab69a6a8db122eb6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -209,7 +213,7 @@
         }
     ],
     "wof:id":102077355,
-    "wof:lastmodified":1690846604,
+    "wof:lastmodified":1695886859,
     "wof:name":"Morole\u00f3n",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

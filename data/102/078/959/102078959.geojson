@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120602,
-    "geom:area_square_m":1362101811.656747,
+    "geom:area_square_m":1362101853.406906,
     "geom:bbox":"-99.147175,23.761971,-98.60096,24.195879",
     "geom:latitude":24.022607,
     "geom:longitude":-98.846121,
@@ -133,8 +133,12 @@
         "hasc:id":"MX.TM.PD",
         "inegi:id":"28030"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5408b9e91aaf07d4d9dca75e6f788d33",
+    "wof:geomhash":"0b9381b7c2aa7dc6f1aab51c4e10e87e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":102078959,
-    "wof:lastmodified":1636492155,
+    "wof:lastmodified":1695886506,
     "wof:name":"Padilla",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

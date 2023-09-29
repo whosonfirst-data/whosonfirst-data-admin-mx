@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029408,
-    "geom:area_square_m":340917310.326292,
+    "geom:area_square_m":340917104.767214,
     "geom:bbox":"-89.728404,20.246506,-89.427532,20.483306",
     "geom:latitude":20.360388,
     "geom:longitude":-89.561291,
@@ -172,8 +172,12 @@
         "inegi:id":"31089",
         "wd:id":"Q2657301"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2df08648ca8db36de3daaa1c967b847b",
+    "wof:geomhash":"6ee917bda86d08c5ce53f4f66ea62201",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":102079127,
-    "wof:lastmodified":1690846575,
+    "wof:lastmodified":1695886497,
     "wof:name":"Ticul",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048565,
-    "geom:area_square_m":545872130.589636,
+    "geom:area_square_m":545872130.589686,
     "geom:bbox":"-98.9247492474,24.4642928564,-98.6467995716,24.7803918328",
     "geom:latitude":24.631956,
     "geom:longitude":-98.769669,
@@ -112,8 +112,12 @@
         "hasc:id":"MX.TM.SN",
         "inegi:id":"28036"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"55e701798b118d04d938da51453f75a5",
+    "wof:geomhash":"38f1f9885582d35b648acf3bc7369e69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":102078929,
-    "wof:lastmodified":1566615636,
+    "wof:lastmodified":1695886937,
     "wof:name":"San Nicol\u00e1s",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

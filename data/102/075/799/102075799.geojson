@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062509,
-    "geom:area_square_m":737052072.814862,
+    "geom:area_square_m":737052062.707827,
     "geom:bbox":"-92.912622,17.343299,-92.545696,17.689216",
     "geom:latitude":17.528232,
     "geom:longitude":-92.732603,
@@ -146,8 +146,12 @@
         "inegi:id":"27015",
         "wd:id":"Q2669523"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d2d7acf9f8a259309b474651c92571fa",
+    "wof:geomhash":"3fe8ed77531ffe019837275025c139eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102075799,
-    "wof:lastmodified":1690847141,
+    "wof:lastmodified":1695886085,
     "wof:name":"Tacotalpa",
     "wof:parent_id":85686617,
     "wof:placetype":"county",

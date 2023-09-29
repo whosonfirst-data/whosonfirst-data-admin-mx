@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014654,
-    "geom:area_square_m":171495836.398342,
+    "geom:area_square_m":171495836.398365,
     "geom:bbox":"-99.9545597552,18.6965316188,-99.7800623638,18.9174267194",
     "geom:latitude":18.832959,
     "geom:longitude":-99.866796,
@@ -129,8 +129,12 @@
         "inegi:id":"15004",
         "wd:id":"Q2429880"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4d7bb05402cdbb41deabef50139c76d6",
+    "wof:geomhash":"fd7bbefb476786a1e40c96e38d0481dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102073961,
-    "wof:lastmodified":1566615786,
+    "wof:lastmodified":1695885975,
     "wof:name":"Almoloya de Alquisiras",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

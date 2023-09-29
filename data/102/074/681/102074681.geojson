@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072679,
-    "geom:area_square_m":841553888.321698,
+    "geom:area_square_m":841553844.95171,
     "geom:bbox":"-104.268069,20.375056,-103.85678,20.694573",
     "geom:latitude":20.541664,
     "geom:longitude":-104.080543,
@@ -146,8 +146,12 @@
         "inegi:id":"14006",
         "wd:id":"Q2842525"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1976ae112a25ec6666686e2ab21fd08f",
+    "wof:geomhash":"39ba22410ee07275eedd3174a12b68eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102074681,
-    "wof:lastmodified":1690847043,
+    "wof:lastmodified":1695885996,
     "wof:name":"Ameca",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

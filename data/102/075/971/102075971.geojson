@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005169,
-    "geom:area_square_m":61052688.11331,
+    "geom:area_square_m":61052629.568215,
     "geom:bbox":"-96.490824,17.106065,-96.408718,17.293234",
     "geom:latitude":17.200153,
     "geom:longitude":-96.45641,
@@ -113,8 +113,12 @@
         "inegi:id":"20262",
         "wd:id":"Q985787"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2d8f3349d993d64271ada4719f5d81fa",
+    "wof:geomhash":"12770a15d02e7f7951f673d1525e464e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102075971,
-    "wof:lastmodified":1690847187,
+    "wof:lastmodified":1695886121,
     "wof:name":"San Miguel Amatl\u00e1n",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

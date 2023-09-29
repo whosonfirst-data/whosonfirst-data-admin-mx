@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.57034,
-    "geom:area_square_m":16978823658.099104,
+    "geom:area_square_m":16978823658.097557,
     "geom:bbox":"-112.61405591,28.2254348992,-110.382132673,29.7127613516",
     "geom:latitude":29.023674,
     "geom:longitude":-111.473511,
@@ -216,8 +216,12 @@
         "hasc:id":"MX.SO.HE",
         "inegi:id":"26030"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"778cad7e4754413b17756054d1024301",
+    "wof:geomhash":"b8ef0e71fc5428d60cccf20c7392c8d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -227,7 +231,7 @@
         }
     ],
     "wof:id":102074513,
-    "wof:lastmodified":1566615997,
+    "wof:lastmodified":1695886073,
     "wof:name":"Hermosillo",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045026,
-    "geom:area_square_m":523486998.198449,
+    "geom:area_square_m":523486959.178385,
     "geom:bbox":"-97.260559,19.756684,-96.952416,20.053702",
     "geom:latitude":19.908127,
     "geom:longitude":-97.115763,
@@ -120,8 +120,12 @@
         "inegi:id":"30023",
         "wd:id":"Q3847243"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c00c17c9d71ae87cf983ba0fba9d61a3",
+    "wof:geomhash":"18895f38e9d668292dad439e6c9deb55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102077435,
-    "wof:lastmodified":1690846685,
+    "wof:lastmodified":1695886885,
     "wof:name":"Atzalan",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

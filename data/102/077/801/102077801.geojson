@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029225,
-    "geom:area_square_m":339626439.595682,
+    "geom:area_square_m":339626439.595698,
     "geom:bbox":"-96.7759759651,19.8284408465,-96.5259398388,20.1569468874",
     "geom:latitude":19.976844,
     "geom:longitude":-96.634262,
@@ -101,8 +101,12 @@
         "inegi:id":"30192",
         "wd:id":"Q3846347"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4d8c4086ea180283e6d67e5fd10fd226",
+    "wof:geomhash":"32e0286da9fa6dbcc8bbd33202b64388",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102077801,
-    "wof:lastmodified":1566615408,
+    "wof:lastmodified":1695886885,
     "wof:name":"Vega de Alatorre",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

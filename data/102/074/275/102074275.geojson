@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004798,
-    "geom:area_square_m":56136735.827685,
+    "geom:area_square_m":56136735.827662,
     "geom:bbox":"-99.2172024628,18.8359660612,-99.1195179333,18.9367571122",
     "geom:latitude":18.885193,
     "geom:longitude":-99.166459,
@@ -141,8 +141,12 @@
         "hasc:id":"MX.MR.JI",
         "inegi:id":"17011"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f4bde63ef4e6fd5e08a42a693bb3979b",
+    "wof:geomhash":"2ded6f436992596ff02c37a8b50af9d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":102074275,
-    "wof:lastmodified":1566615841,
+    "wof:lastmodified":1695886005,
     "wof:name":"Jiutepec",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

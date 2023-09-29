@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064423,
-    "geom:area_square_m":756521688.883335,
+    "geom:area_square_m":756521912.381902,
     "geom:bbox":"-100.33309,18.074825,-100.05538,18.43279",
     "geom:latitude":18.252619,
     "geom:longitude":-100.198786,
@@ -125,8 +125,12 @@
         "inegi:id":"12007",
         "wd:id":"Q1998019"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b07bc4ac60ad921ad5b510dcfa0411a8",
+    "wof:geomhash":"5e45094e494dfda44f28306bbee7d583",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102073899,
-    "wof:lastmodified":1690847022,
+    "wof:lastmodified":1695885982,
     "wof:name":"Arcelia",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

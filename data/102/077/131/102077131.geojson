@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051552,
-    "geom:area_square_m":588246564.981976,
+    "geom:area_square_m":588246564.981895,
     "geom:bbox":"-100.949578862,22.5054606106,-100.66071769,22.8228719797",
     "geom:latitude":22.659931,
     "geom:longitude":-100.804388,
@@ -111,8 +111,12 @@
         "inegi:id":"24056",
         "wd:id":"Q7930541"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"83359998b4d10851bbc82b395173feb2",
+    "wof:geomhash":"eb30ded42015a87506a172127c7f002f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":102077131,
-    "wof:lastmodified":1566615370,
+    "wof:lastmodified":1695886873,
     "wof:name":"Villa de Arista",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

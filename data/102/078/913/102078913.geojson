@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080918,
-    "geom:area_square_m":901580850.87653,
+    "geom:area_square_m":901580850.876741,
     "geom:bbox":"-97.9793155944,25.5037964134,-97.735772315,26.0609258881",
     "geom:latitude":25.700682,
     "geom:longitude":-97.844797,
@@ -90,8 +90,12 @@
         "hasc:id":"MX.TM.VH",
         "inegi:id":"28040"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0c62893eddb6204ee5830b6c091587e9",
+    "wof:geomhash":"e203dfd60fd2d05a410ed231644c0528",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":102078913,
-    "wof:lastmodified":1566615579,
+    "wof:lastmodified":1695886919,
     "wof:name":"Valle Hermoso",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

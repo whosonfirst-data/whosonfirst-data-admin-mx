@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08241,
-    "geom:area_square_m":952805923.149216,
+    "geom:area_square_m":952805923.149219,
     "geom:bbox":"-102.550110423,20.5875762156,-102.051510278,20.9110817834",
     "geom:latitude":20.766462,
     "geom:longitude":-102.300658,
@@ -115,8 +115,12 @@
         "hasc:id":"MX.JA.AD",
         "inegi:id":"14008"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"af560d5251eda7767b5bd122933eb096",
+    "wof:geomhash":"5a57d23144dd36eb66c84c5f05dea193",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":102074703,
-    "wof:lastmodified":1566615925,
+    "wof:lastmodified":1695886035,
     "wof:name":"Arandas",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

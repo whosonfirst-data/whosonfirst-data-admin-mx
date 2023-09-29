@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021307,
-    "geom:area_square_m":245475551.280874,
+    "geom:area_square_m":245475421.275069,
     "geom:bbox":"-98.497843,21.177402,-98.248704,21.416224",
     "geom:latitude":21.294783,
     "geom:longitude":-98.375723,
@@ -103,8 +103,12 @@
         "inegi:id":"30129",
         "wd:id":"Q7202870"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9872d5d513c14e4ef7cd623245d70fb0",
+    "wof:geomhash":"ed1144943cfb180bd7f837df03146061",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":102077663,
-    "wof:lastmodified":1690846676,
+    "wof:lastmodified":1695886882,
     "wof:name":"Plat\u00f3n S\u00e1nchez",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

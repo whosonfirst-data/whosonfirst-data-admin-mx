@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020337,
-    "geom:area_square_m":235571314.836193,
+    "geom:area_square_m":235571291.626037,
     "geom:bbox":"-100.509756,20.360823,-100.367815,20.594779",
     "geom:latitude":20.485442,
     "geom:longitude":-100.441075,
@@ -134,8 +134,12 @@
         "inegi:id":"22006",
         "wd:id":"Q1962054"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6fd86e2de17804536156c08f93fbe129",
+    "wof:geomhash":"6c7e1e5859c81fe32411082cbcb4bdfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102077121,
-    "wof:lastmodified":1690846645,
+    "wof:lastmodified":1695886871,
     "wof:name":"Corregidora",
     "wof:parent_id":85686641,
     "wof:placetype":"county",

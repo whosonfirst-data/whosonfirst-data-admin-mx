@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012874,
-    "geom:area_square_m":152623175.694249,
+    "geom:area_square_m":152623153.319426,
     "geom:bbox":"-92.489705,16.445475,-92.308147,16.586911",
     "geom:latitude":16.51529,
     "geom:longitude":-92.395427,
@@ -131,8 +131,12 @@
         "inegi:id":"07007",
         "wd:id":"Q1785674"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"564356b25e5c6e741c98f9827577ecdb",
+    "wof:geomhash":"811b0df8acdfeace71ce7429b2a38d7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102075617,
-    "wof:lastmodified":1690847157,
+    "wof:lastmodified":1695886099,
     "wof:name":"Amatenango del Valle",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

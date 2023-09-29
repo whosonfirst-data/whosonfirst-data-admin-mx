@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017424,
-    "geom:area_square_m":203541120.141384,
+    "geom:area_square_m":203541062.951329,
     "geom:bbox":"-97.056155,19.072509,-96.683973,19.218656",
     "geom:latitude":19.136802,
     "geom:longitude":-96.939775,
@@ -113,8 +113,12 @@
         "inegi:id":"30071",
         "wd:id":"Q2448188"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d9dac2953cfe806ba1957d30a20973e3",
+    "wof:geomhash":"a7b88dade96927b6e6a2b86e2563beea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077535,
-    "wof:lastmodified":1690846605,
+    "wof:lastmodified":1695886859,
     "wof:name":"Huatusco",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

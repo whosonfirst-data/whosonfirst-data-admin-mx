@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091355,
-    "geom:area_square_m":1061706723.279819,
+    "geom:area_square_m":1061706968.046709,
     "geom:bbox":"-90.491147,19.785144,-89.991201,20.14243",
     "geom:latitude":19.969639,
     "geom:longitude":-90.233017,
@@ -146,8 +146,12 @@
         "inegi:id":"04008",
         "wd:id":"Q2476938"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6842629b7aba688b9992d8b329b814f2",
+    "wof:geomhash":"7f03dc8c5ee43eff8166de30e46bf9c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102079227,
-    "wof:lastmodified":1690846565,
+    "wof:lastmodified":1695886851,
     "wof:name":"Tenabo",
     "wof:parent_id":85686707,
     "wof:placetype":"county",

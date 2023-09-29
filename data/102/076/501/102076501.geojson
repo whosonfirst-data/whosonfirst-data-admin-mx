@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006288,
-    "geom:area_square_m":74735382.800976,
+    "geom:area_square_m":74735351.937655,
     "geom:bbox":"-96.527289,15.966032,-96.416451,16.079814",
     "geom:latitude":16.01582,
     "geom:longitude":-96.471691,
@@ -122,8 +122,12 @@
         "inegi:id":"20306",
         "wd:id":"Q7415111"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8d777ead1600c8223d395826b14bdee3",
+    "wof:geomhash":"e11afd4185126557dc7400da6f8035de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102076501,
-    "wof:lastmodified":1690846749,
+    "wof:lastmodified":1695886643,
     "wof:name":"San Pedro el Alto",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001851,
-    "geom:area_square_m":21768435.804708,
+    "geom:area_square_m":21768435.804694,
     "geom:bbox":"-94.6763174125,17.9233468436,-94.6072552354,17.9717256618",
     "geom:latitude":17.950478,
     "geom:longitude":-94.638675,
@@ -387,8 +387,12 @@
         "hasc:id":"MX.VE.ZG",
         "inegi:id":"30199"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"620b5fcee6138a30d91de5db00a514dc",
+    "wof:geomhash":"bf3f3ba4024e0567f56ba9b5607a05e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -398,7 +402,7 @@
         }
     ],
     "wof:id":102077815,
-    "wof:lastmodified":1566615388,
+    "wof:lastmodified":1695886880,
     "wof:name":"Zaragoza",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

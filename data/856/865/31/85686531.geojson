@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.417984,
-    "geom:area_square_m":4894368727.944853,
+    "geom:area_square_m":4894368186.930891,
     "geom:bbox":"-99.494414,18.332373,-98.632947,19.131702",
     "geom:latitude":18.742078,
     "geom:longitude":-99.074962,
@@ -411,12 +411,18 @@
         "gn:id":3522961,
         "gp:id":2346280,
         "hasc:id":"MX.MR",
+        "inegi:id":"17",
+        "iso:code":"MX-MOR",
         "iso:id":"MX-MOR",
         "unlc:id":"MX-MOR",
         "wd:id":"Q66117"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"30319c61d124a2906865ac38e22f341d",
+    "wof:geomhash":"3c42d1eb88d1c5062840251e238a4b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -431,7 +437,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847286,
+    "wof:lastmodified":1695884762,
     "wof:name":"Morelos",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

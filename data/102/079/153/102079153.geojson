@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017344,
-    "geom:area_square_m":200183252.819731,
+    "geom:area_square_m":200183252.819733,
     "geom:bbox":"-88.991142647,20.9600276518,-88.7099310118,21.0804596652",
     "geom:latitude":21.021934,
     "geom:longitude":-88.84829,
@@ -104,8 +104,12 @@
         "inegi:id":"31077",
         "wd:id":"Q2591037"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b465278612d02e91d8636263b81434f3",
+    "wof:geomhash":"ac304e5682a14fc64bb4471bff7b46dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102079153,
-    "wof:lastmodified":1566615280,
+    "wof:lastmodified":1695886853,
     "wof:name":"Tekal de Venegas",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

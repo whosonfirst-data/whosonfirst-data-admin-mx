@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035884,
-    "geom:area_square_m":422971558.521608,
+    "geom:area_square_m":422971530.053597,
     "geom:bbox":"-96.880578,17.475633,-96.62929,17.691681",
     "geom:latitude":17.588905,
     "geom:longitude":-96.768566,
@@ -98,8 +98,12 @@
         "inegi:id":"20175",
         "wd:id":"Q317229"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"edc25e7016370066980ef42af9d80dc8",
+    "wof:geomhash":"2ba8ea8faf781a2a9bb0ac02a1df3346",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102076397,
-    "wof:lastmodified":1690846713,
+    "wof:lastmodified":1695886892,
     "wof:name":"San Juan Bautista Atatlahuca",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

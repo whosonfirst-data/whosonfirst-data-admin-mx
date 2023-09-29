@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023696,
-    "geom:area_square_m":276049496.729528,
+    "geom:area_square_m":276049324.781181,
     "geom:bbox":"-99.741011,19.482492,-99.524644,19.700749",
     "geom:latitude":19.586037,
     "geom:longitude":-99.641604,
@@ -138,8 +138,12 @@
         "inegi:id":"15047",
         "wd:id":"Q3300374"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9e6eea6d6019ee7fefa10e131a5a23c9",
+    "wof:geomhash":"e2c8bd051d174c8bfb965ab0bff4920c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":102074127,
-    "wof:lastmodified":1690847076,
+    "wof:lastmodified":1695886021,
     "wof:name":"Jiquipilco",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

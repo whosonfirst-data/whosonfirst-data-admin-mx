@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007533,
-    "geom:area_square_m":88169125.15388,
+    "geom:area_square_m":88169020.393967,
     "geom:bbox":"-96.855307,18.762863,-96.747587,18.882216",
     "geom:latitude":18.826474,
     "geom:longitude":-96.79964,
@@ -88,8 +88,12 @@
         "hasc:id":"MX.VE.YA",
         "inegi:id":"30196"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6032c2b913b788667ef4b058b45ae049",
+    "wof:geomhash":"a8361b6779de1f6dd0e47aa82dce2515",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102077807,
-    "wof:lastmodified":1625076009,
+    "wof:lastmodified":1695886639,
     "wof:name":"Yanga",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

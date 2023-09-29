@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012548,
-    "geom:area_square_m":146319555.376374,
+    "geom:area_square_m":146319543.267245,
     "geom:bbox":"-103.618277,19.337945,-103.458844,19.520606",
     "geom:latitude":19.432101,
     "geom:longitude":-103.535089,
@@ -122,8 +122,12 @@
         "inegi:id":"14103",
         "wd:id":"Q3175276"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b8f099d6ce43242e21baaa32704586e5",
+    "wof:geomhash":"84d62a76bfa9af9f75f4db094395e3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102074855,
-    "wof:lastmodified":1690847120,
+    "wof:lastmodified":1695886065,
     "wof:name":"Tonila",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

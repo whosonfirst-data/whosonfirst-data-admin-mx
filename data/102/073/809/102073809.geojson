@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048726,
-    "geom:area_square_m":572280184.242742,
+    "geom:area_square_m":572280184.243536,
     "geom:bbox":"-99.7159379496,17.9536775553,-99.4302316997,18.4311494787",
     "geom:latitude":18.226808,
     "geom:longitude":-99.58212,
@@ -105,8 +105,12 @@
         "inegi:id":"12035",
         "wd:id":"Q2466669"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"94e70c961f47d8660298319926a8ad88",
+    "wof:geomhash":"f668d0347656bbce21049f57b5f996d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":102073809,
-    "wof:lastmodified":1566615794,
+    "wof:lastmodified":1695885980,
     "wof:name":"Iguala de la Independencia",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.810061,
-    "geom:area_square_m":78825113363.329681,
+    "geom:area_square_m":78825113722.732025,
     "geom:bbox":"-105.695403,18.925872,-101.510542,22.750246",
     "geom:latitude":20.580763,
     "geom:longitude":-103.613239,
@@ -453,12 +453,18 @@
         "gn:id":4004156,
         "gp:id":2346277,
         "hasc:id":"MX.JA",
+        "inegi:id":"14",
+        "iso:code":"MX-JAL",
         "iso:id":"MX-JAL",
         "unlc:id":"MX-JAL",
         "wd:id":"Q13160"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"92784bb7cca9bdc484bda4cc71fb1c54",
+    "wof:geomhash":"4aae335f62872a607ce54ddcda0e43a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -473,7 +479,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847261,
+    "wof:lastmodified":1695884523,
     "wof:name":"Jalisco",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

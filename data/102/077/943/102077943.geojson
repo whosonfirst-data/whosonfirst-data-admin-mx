@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001258,
-    "geom:area_square_m":14687539.461346,
+    "geom:area_square_m":14687539.461305,
     "geom:bbox":"-98.1947379337,19.1726356466,-98.1287833404,19.2122494573",
     "geom:latitude":19.191748,
     "geom:longitude":-98.164325,
@@ -110,8 +110,12 @@
         "inegi:id":"29017",
         "wd:id":"Q3890575"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cee84e3ed035e96ceaf9b9330afe69c4",
+    "wof:geomhash":"38e4edc700f281609d3ef942cc7033b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102077943,
-    "wof:lastmodified":1566615427,
+    "wof:lastmodified":1695886890,
     "wof:name":"Mazatecochco de Jos\u00e9 Mar\u00eda Morelos",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

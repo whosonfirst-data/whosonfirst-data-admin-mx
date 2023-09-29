@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056368,
-    "geom:area_square_m":661236493.144251,
+    "geom:area_square_m":661236426.413558,
     "geom:bbox":"-95.163609,18.271135,-94.863992,18.599638",
     "geom:latitude":18.434738,
     "geom:longitude":-95.025758,
@@ -143,8 +143,12 @@
         "inegi:id":"30032",
         "wd:id":"Q2382271"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f33d1b31abbe53141a8c3b580e0eab06",
+    "wof:geomhash":"dac89d0f7777ebdb871c3c634b1e21ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":102077453,
-    "wof:lastmodified":1690846632,
+    "wof:lastmodified":1695886866,
     "wof:name":"Catemaco",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

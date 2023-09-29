@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014116,
-    "geom:area_square_m":163834297.50189,
+    "geom:area_square_m":163834297.501899,
     "geom:bbox":"-99.3615234464,20.0936242336,-99.2113493524,20.2543934521",
     "geom:latitude":20.178866,
     "geom:longitude":-99.293281,
@@ -101,8 +101,12 @@
         "inegi:id":"13067",
         "wd:id":"Q2652286"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0fca6cbde2687aca425ddc9f5128d0ba",
+    "wof:geomhash":"2ba1bbe05dde95af771a55249a9c471d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102078611,
-    "wof:lastmodified":1566615548,
+    "wof:lastmodified":1695886911,
     "wof:name":"Tezontepec de Aldama",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

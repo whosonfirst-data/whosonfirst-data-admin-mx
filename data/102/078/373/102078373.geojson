@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007159,
-    "geom:area_square_m":83897288.923396,
+    "geom:area_square_m":83897218.261651,
     "geom:bbox":"-98.611638,18.569056,-98.46861,18.669626",
     "geom:latitude":18.614302,
     "geom:longitude":-98.541991,
@@ -112,8 +112,12 @@
         "inegi:id":"21176",
         "wd:id":"Q7802049"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d42be0ec3e9b37892817b4e6a7c6d151",
+    "wof:geomhash":"577f7c47d94b1b37214a001f87cd7fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":102078373,
-    "wof:lastmodified":1690846893,
+    "wof:lastmodified":1695886938,
     "wof:name":"Tilapa",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

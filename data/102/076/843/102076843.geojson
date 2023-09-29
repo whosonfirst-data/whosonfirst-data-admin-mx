@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012188,
-    "geom:area_square_m":144692506.323094,
+    "geom:area_square_m":144692506.323032,
     "geom:bbox":"-97.4620794921,16.1414499716,-97.3201817477,16.3101019466",
     "geom:latitude":16.238656,
     "geom:longitude":-97.400495,
@@ -105,8 +105,12 @@
         "inegi:id":"20272",
         "wd:id":"Q2449332"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"409ff54ad060c21d7b844370db82d43f",
+    "wof:geomhash":"b7da4a80561ec49b349ef1c0cb1512a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":102076843,
-    "wof:lastmodified":1566615452,
+    "wof:lastmodified":1695886894,
     "wof:name":"San Miguel Panixtlahuaca",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

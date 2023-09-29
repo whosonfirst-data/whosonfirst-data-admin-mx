@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031552,
-    "geom:area_square_m":369822338.074577,
+    "geom:area_square_m":369822280.770235,
     "geom:bbox":"-99.016988,18.457346,-98.759455,18.68152",
     "geom:latitude":18.574775,
     "geom:longitude":-98.894252,
@@ -117,8 +117,12 @@
         "inegi:id":"17019",
         "wd:id":"Q3310718"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4f08ad3d92e21177b9e82993e9297688",
+    "wof:geomhash":"e46a52781dfe66d6dd346ddcd712b1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":102074297,
-    "wof:lastmodified":1690847120,
+    "wof:lastmodified":1695886066,
     "wof:name":"Tepalcingo",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

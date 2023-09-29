@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020069,
-    "geom:area_square_m":231456070.668566,
+    "geom:area_square_m":231456346.48021,
     "geom:bbox":"-100.485731,21.075182,-100.240088,21.219536",
     "geom:latitude":21.141604,
     "geom:longitude":-100.359634,
@@ -129,8 +129,12 @@
         "inegi:id":"11013",
         "wd:id":"Q2448224"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8b273a8dfc2873a3e2f0d64c45179197",
+    "wof:geomhash":"c41b86dfb3052aecb339d0c63f76ff6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102077267,
-    "wof:lastmodified":1690846628,
+    "wof:lastmodified":1695886865,
     "wof:name":"Doctor Mora",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188056,
-    "geom:area_square_m":2012433558.792765,
+    "geom:area_square_m":2012433124.713883,
     "geom:bbox":"-110.106857,29.809541,-109.520283,30.320125",
     "geom:latitude":30.067403,
     "geom:longitude":-109.809946,
@@ -104,8 +104,12 @@
         "inegi:id":"26023",
         "wd:id":"Q3844664"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ba7db847c500f78a442ab915488546a1",
+    "wof:geomhash":"1d676758c1cd8c32d785c198fb34ec29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102074405,
-    "wof:lastmodified":1690847115,
+    "wof:lastmodified":1695886060,
     "wof:name":"Cumpas",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

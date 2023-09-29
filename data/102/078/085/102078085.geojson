@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017007,
-    "geom:area_square_m":199490426.380361,
+    "geom:area_square_m":199490426.380415,
     "geom:bbox":"-98.2927218601,18.3574575625,-98.076708116,18.5091291339",
     "geom:latitude":18.445666,
     "geom:longitude":-98.188989,
@@ -98,8 +98,12 @@
         "inegi:id":"21042",
         "wd:id":"Q5138674"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c99cd3ee6c27b951b9912cd8b49e96db",
+    "wof:geomhash":"f7750f4d477be34586de1ed07f1b1645",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102078085,
-    "wof:lastmodified":1566615547,
+    "wof:lastmodified":1695886911,
     "wof:name":"Cuayuca de Andrade",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

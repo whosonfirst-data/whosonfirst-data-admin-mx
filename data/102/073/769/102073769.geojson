@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031845,
-    "geom:area_square_m":374233978.679047,
+    "geom:area_square_m":374233956.614496,
     "geom:bbox":"-99.9076,17.895597,-99.715404,18.318788",
     "geom:latitude":18.124764,
     "geom:longitude":-99.814701,
@@ -119,8 +119,12 @@
         "inegi:id":"12026",
         "wd:id":"Q3845740"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3afb14541a89b959e59c231dfcb2731d",
+    "wof:geomhash":"11c10a2419f7e152a2b56e80a7cb73f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102073769,
-    "wof:lastmodified":1690847014,
+    "wof:lastmodified":1695885975,
     "wof:name":"Cuetzala del Progreso",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

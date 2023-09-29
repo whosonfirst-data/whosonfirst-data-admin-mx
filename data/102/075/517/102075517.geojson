@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029846,
-    "geom:area_square_m":353177829.706286,
+    "geom:area_square_m":353177925.600154,
     "geom:bbox":"-93.430706,16.717021,-93.204449,17.026846",
     "geom:latitude":16.866607,
     "geom:longitude":-93.319075,
@@ -128,8 +128,12 @@
         "inegi:id":"07012",
         "wd:id":"Q2007940"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"45dc21826e90f8893e670458e80833e0",
+    "wof:geomhash":"d13170cb87dba74207d18f82866b5bba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075517,
-    "wof:lastmodified":1690847180,
+    "wof:lastmodified":1695886116,
     "wof:name":"Berrioz\u00e1bal",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

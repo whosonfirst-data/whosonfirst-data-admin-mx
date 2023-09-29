@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009393,
-    "geom:area_square_m":109684319.44395,
+    "geom:area_square_m":109684226.756792,
     "geom:bbox":"-97.147497,19.128029,-96.98556,19.285787",
     "geom:latitude":19.204724,
     "geom:longitude":-97.070086,
@@ -124,8 +124,12 @@
         "inegi:id":"21050",
         "wd:id":"Q5096058"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"50b95fc5a793cae9d6998886ba9bda19",
+    "wof:geomhash":"20d57757d67c590d430c3776a161de73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":102078101,
-    "wof:lastmodified":1690846859,
+    "wof:lastmodified":1695886923,
     "wof:name":"Chichiquila",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

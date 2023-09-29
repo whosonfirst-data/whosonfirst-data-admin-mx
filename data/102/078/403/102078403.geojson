@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01328,
-    "geom:area_square_m":155916802.695515,
+    "geom:area_square_m":155916802.695316,
     "geom:bbox":"-97.9108747115,18.1852489456,-97.7750682545,18.381232816",
     "geom:latitude":18.29154,
     "geom:longitude":-97.848047,
@@ -92,8 +92,12 @@
         "inegi:id":"21190",
         "wd:id":"Q7828388"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"95207529e9b11f81c0d3e793ca194a25",
+    "wof:geomhash":"501bdb221856482cd92f99b89bdfc4d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102078403,
-    "wof:lastmodified":1566615632,
+    "wof:lastmodified":1695886935,
     "wof:name":"Totoltepec de Guerrero",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

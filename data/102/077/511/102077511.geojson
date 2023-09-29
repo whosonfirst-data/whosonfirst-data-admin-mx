@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012211,
-    "geom:area_square_m":140598400.819343,
+    "geom:area_square_m":140598400.819589,
     "geom:bbox":"-97.7768079346,21.3271146273,-97.5586562495,21.4240983996",
     "geom:latitude":21.376454,
     "geom:longitude":-97.668984,
@@ -101,8 +101,12 @@
         "inegi:id":"30060",
         "wd:id":"Q3844933"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9eda4bdd6cbd4c5f830a2ecfe09d8363",
+    "wof:geomhash":"22da72c5cccab46e74d2c40762b79db9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102077511,
-    "wof:lastmodified":1566615360,
+    "wof:lastmodified":1695886871,
     "wof:name":"Chinampa de Gorostiza",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

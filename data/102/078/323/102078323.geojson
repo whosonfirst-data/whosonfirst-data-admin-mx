@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015062,
-    "geom:area_square_m":176214076.552399,
+    "geom:area_square_m":176214076.552254,
     "geom:bbox":"-98.0748093195,18.8069717038,-97.8916714063,18.989603206",
     "geom:latitude":18.887005,
     "geom:longitude":-97.968228,
@@ -97,8 +97,12 @@
         "inegi:id":"21153",
         "wd:id":"Q4453799"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8f522db50549f0ccd289ca52d26ffa5e",
+    "wof:geomhash":"729affc6fd9a4d7684f148e3d178775b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":102078323,
-    "wof:lastmodified":1566615570,
+    "wof:lastmodified":1695886916,
     "wof:name":"Tecali de Herrera",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

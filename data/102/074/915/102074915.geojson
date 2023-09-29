@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068506,
-    "geom:area_square_m":800610648.577638,
+    "geom:area_square_m":800610540.673167,
     "geom:bbox":"-103.045031,18.913068,-102.663094,19.245359",
     "geom:latitude":19.068234,
     "geom:longitude":-102.858329,
@@ -110,8 +110,12 @@
         "inegi:id":"16089",
         "wd:id":"Q427595"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c600dbd9921a6446ed05b3c2badbe753",
+    "wof:geomhash":"d2f14cd911dbb7fdbc58c598f833c523",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102074915,
-    "wof:lastmodified":1690847074,
+    "wof:lastmodified":1695886020,
     "wof:name":"Tepalcatepec",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

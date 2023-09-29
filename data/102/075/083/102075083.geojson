@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011062,
-    "geom:area_square_m":128494152.82056,
+    "geom:area_square_m":128494152.820541,
     "geom:bbox":"-102.864851465,20.0023981948,-102.66769741,20.0935455699",
     "geom:latitude":20.055141,
     "geom:longitude":-102.766297,
@@ -129,8 +129,12 @@
         "inegi:id":"16076",
         "wd:id":"Q2448165"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ac118bd0e39a00a0a0632e445e70318f",
+    "wof:geomhash":"8aa59bd847245e2b6992c29aa9714119",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102075083,
-    "wof:lastmodified":1566616068,
+    "wof:lastmodified":1695886099,
     "wof:name":"Sahuayo",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

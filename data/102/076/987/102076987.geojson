@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024375,
-    "geom:area_square_m":287100634.224401,
+    "geom:area_square_m":287100500.726257,
     "geom:bbox":"-97.401612,17.641561,-97.161157,17.81613",
     "geom:latitude":17.72061,
     "geom:longitude":-97.262412,
@@ -116,8 +116,12 @@
         "inegi:id":"20176",
         "wd:id":"Q3891868"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"04cc473ba4050fc070f79aa5c23dc963",
+    "wof:geomhash":"a7dde0fef91f3b31e538ed13687abd64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102076987,
-    "wof:lastmodified":1690846786,
+    "wof:lastmodified":1695886902,
     "wof:name":"San Juan Bautista Coixtlahuaca",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

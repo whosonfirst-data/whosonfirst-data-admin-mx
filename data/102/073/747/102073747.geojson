@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006144,
-    "geom:area_square_m":71689082.304372,
+    "geom:area_square_m":71689076.058698,
     "geom:bbox":"-99.364924,19.232566,-99.246736,19.404848",
     "geom:latitude":19.324634,
     "geom:longitude":-99.310729,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.DF.CM",
         "inegi:id":"09004"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a4f45db05769e4a216a84c94a603150e",
+    "wof:geomhash":"3750c7325831f24c444b264915fec107",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102073747,
-    "wof:lastmodified":1642551798,
+    "wof:lastmodified":1695886524,
     "wof:name":"Cuajimalpa de Morelos",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

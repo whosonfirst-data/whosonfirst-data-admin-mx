@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027598,
-    "geom:area_square_m":320827911.58059,
+    "geom:area_square_m":320827686.021429,
     "geom:bbox":"-98.830983,19.813184,-98.528064,20.038677",
     "geom:latitude":19.92313,
     "geom:longitude":-98.672334,
@@ -130,8 +130,12 @@
         "inegi:id":"13083",
         "wd:id":"Q3845508"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fd77b0dd9aa7c6b71ded10650d13df0f",
+    "wof:geomhash":"72651b7ca32596d87dbf2bea4afd42b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":102078597,
-    "wof:lastmodified":1690846854,
+    "wof:lastmodified":1695886922,
     "wof:name":"Zempoala",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

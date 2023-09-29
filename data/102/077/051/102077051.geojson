@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027774,
-    "geom:area_square_m":326889392.17338,
+    "geom:area_square_m":326889392.173193,
     "geom:bbox":"-97.9117168791,17.7181493222,-97.7129062952,18.0485302588",
     "geom:latitude":17.855147,
     "geom:longitude":-97.799849,
@@ -92,8 +92,12 @@
         "hasc:id":"MX.OA.BG",
         "inegi:id":"20039"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"10a88d959cfc332c96925a8c5b51a87d",
+    "wof:geomhash":"d8139280466fb7464e5215a67be82ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102077051,
-    "wof:lastmodified":1566615411,
+    "wof:lastmodified":1695886885,
     "wof:name":"Heroica Ciudad de Huajuapan de Le\u00f3n",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

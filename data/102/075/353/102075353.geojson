@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080296,
-    "geom:area_square_m":880036976.273022,
+    "geom:area_square_m":880036976.27341,
     "geom:bbox":"-105.594127178,27.3595135145,-105.194728584,27.8022414763",
     "geom:latitude":27.582128,
     "geom:longitude":-105.362256,
@@ -101,8 +101,12 @@
         "inegi:id":"08058",
         "wd:id":"Q2466659"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"efb8205d2a166b22030298e78e9f2e48",
+    "wof:geomhash":"182af19b8229d64c1780b54f43aeae87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102075353,
-    "wof:lastmodified":1566616026,
+    "wof:lastmodified":1695886089,
     "wof:name":"San Francisco de Conchos",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

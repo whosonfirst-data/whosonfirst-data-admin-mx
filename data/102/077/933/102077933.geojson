@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001288,
-    "geom:area_square_m":15042657.643891,
+    "geom:area_square_m":15042657.6439,
     "geom:bbox":"-98.2132065803,19.20127034,-98.1226548879,19.2311527041",
     "geom:latitude":19.216873,
     "geom:longitude":-98.170515,
@@ -108,8 +108,12 @@
         "inegi:id":"29022",
         "wd:id":"Q4677862"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"521a3f214aed816ebd43aa8682b120e5",
+    "wof:geomhash":"0080eb6c725e57628706408bfdb74aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":102077933,
-    "wof:lastmodified":1566615381,
+    "wof:lastmodified":1695886877,
     "wof:name":"Acuamanala de Miguel Hidalgo",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

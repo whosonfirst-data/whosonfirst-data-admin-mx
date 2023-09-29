@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022174,
-    "geom:area_square_m":256974237.066613,
+    "geom:area_square_m":256974237.066523,
     "geom:bbox":"-99.1039565442,20.3268575675,-98.8927727916,20.5299191692",
     "geom:latitude":20.412371,
     "geom:longitude":-98.982853,
@@ -98,8 +98,12 @@
         "inegi:id":"13055",
         "wd:id":"Q3849654"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"828c98a77622b988ce60859507a8da9d",
+    "wof:geomhash":"1ab8404c75cd7205ce8f7b5afcb8025d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102078547,
-    "wof:lastmodified":1566615637,
+    "wof:lastmodified":1695886937,
     "wof:name":"Santiago de Anaya",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

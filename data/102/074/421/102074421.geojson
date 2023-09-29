@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161965,
-    "geom:area_square_m":1723517550.074189,
+    "geom:area_square_m":1723517472.626578,
     "geom:bbox":"-109.313013,30.404294,-108.657117,30.888431",
     "geom:latitude":30.617821,
     "geom:longitude":-109.006486,
@@ -164,8 +164,12 @@
         "inegi:id":"26015",
         "wd:id":"Q2919569"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1fd43dab7d5f7ecd7db5b654c9c93958",
+    "wof:geomhash":"c9dea26c88c2fdc0a5d548756aee5f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -175,7 +179,7 @@
         }
     ],
     "wof:id":102074421,
-    "wof:lastmodified":1636492172,
+    "wof:lastmodified":1695886517,
     "wof:name":"Bavispe",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

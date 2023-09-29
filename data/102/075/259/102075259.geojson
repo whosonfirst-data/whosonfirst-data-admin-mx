@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.300814,
-    "geom:area_square_m":3307494407.385738,
+    "geom:area_square_m":3307494148.715785,
     "geom:bbox":"-108.421178,26.810075,-107.622809,27.628246",
     "geom:latitude":27.226301,
     "geom:longitude":-107.976412,
@@ -125,8 +125,12 @@
         "inegi:id":"08065",
         "wd:id":"Q2651295"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"37170d4b8bc5f8eb5d841ba0b5e56074",
+    "wof:geomhash":"ec7b43444d84a8a4adc7c6fb67568c95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102075259,
-    "wof:lastmodified":1690847167,
+    "wof:lastmodified":1695886525,
     "wof:name":"Urique",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004807,
-    "geom:area_square_m":56737574.253667,
+    "geom:area_square_m":56737506.4854,
     "geom:bbox":"-96.363291,17.29196,-96.244243,17.368199",
     "geom:latitude":17.324012,
     "geom:longitude":-96.301727,
@@ -119,8 +119,12 @@
         "inegi:id":"20201",
         "wd:id":"Q7414596"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"38da031c3156a2344e3d32a63a34643b",
+    "wof:geomhash":"f0f72f92651d83bc7a086a78974988e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102076419,
-    "wof:lastmodified":1690846760,
+    "wof:lastmodified":1695886898,
     "wof:name":"San Juan Juquila Vijanos",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

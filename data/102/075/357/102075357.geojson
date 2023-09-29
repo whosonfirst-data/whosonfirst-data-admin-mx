@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031367,
-    "geom:area_square_m":346183234.469614,
+    "geom:area_square_m":346183217.09535,
     "geom:bbox":"-105.931786,26.660933,-105.648702,26.934832",
     "geom:latitude":26.803923,
     "geom:longitude":-105.782922,
@@ -128,8 +128,12 @@
         "inegi:id":"08060",
         "wd:id":"Q2652300"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"aedacca33a472479597298a1b82b4b38",
+    "wof:geomhash":"8613bdc8be84038eb8a2c2f67622ee31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075357,
-    "wof:lastmodified":1690847194,
+    "wof:lastmodified":1695886126,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

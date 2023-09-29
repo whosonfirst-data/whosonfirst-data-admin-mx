@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02785,
-    "geom:area_square_m":326553827.006605,
+    "geom:area_square_m":326553776.393329,
     "geom:bbox":"-98.716769,18.39803,-98.523655,18.621563",
     "geom:latitude":18.510367,
     "geom:longitude":-98.625909,
@@ -127,8 +127,12 @@
         "inegi:id":"21051",
         "wd:id":"Q4518485"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c7dca15e99bd1e2602ddade42b72093c",
+    "wof:geomhash":"c1d9f77b8fb186e613945692cdc363c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102078103,
-    "wof:lastmodified":1690846798,
+    "wof:lastmodified":1695886904,
     "wof:name":"Chietla",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032695,
-    "geom:area_square_m":379999169.341743,
+    "geom:area_square_m":379999054.771624,
     "geom:bbox":"-100.345058,19.838786,-100.063033,20.083002",
     "geom:latitude":19.959308,
     "geom:longitude":-100.207588,
@@ -90,8 +90,12 @@
         "hasc:id":"MX.MC.CN",
         "inegi:id":"16017"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"95bea142dc68d080087ef372764e98c6",
+    "wof:geomhash":"4bc2bbc5217584bb7b087ac2d03ef9d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":102075071,
-    "wof:lastmodified":1625076049,
+    "wof:lastmodified":1695886660,
     "wof:name":"Contepec",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030225,
-    "geom:area_square_m":351214230.576699,
+    "geom:area_square_m":351214230.576825,
     "geom:bbox":"-102.686052492,19.8817670244,-102.479390824,20.1017252808",
     "geom:latitude":19.993762,
     "geom:longitude":-102.586401,
@@ -214,8 +214,12 @@
         "hasc:id":"MX.MC.VI",
         "inegi:id":"16104"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b3fb3dfbb7997fa28380e2ee32d0a24a",
+    "wof:geomhash":"c04789f4e7343ea6ee1873713ad72cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -225,7 +229,7 @@
         }
     ],
     "wof:id":102075079,
-    "wof:lastmodified":1566616055,
+    "wof:lastmodified":1695886098,
     "wof:name":"Villamar",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

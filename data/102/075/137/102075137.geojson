@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032739,
-    "geom:area_square_m":370588536.53197,
+    "geom:area_square_m":370588237.608435,
     "geom:bbox":"-104.138597,23.592366,-103.816067,23.860971",
     "geom:latitude":23.73334,
     "geom:longitude":-103.951054,
@@ -227,8 +227,12 @@
         "inegi:id":"10038",
         "wd:id":"Q315618"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7c5c76a8b69a036595c2670d03a1a99e",
+    "wof:geomhash":"8bfce6471a44d4aa8793e4d1a52d399a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -238,7 +242,7 @@
         }
     ],
     "wof:id":102075137,
-    "wof:lastmodified":1690847203,
+    "wof:lastmodified":1695886528,
     "wof:name":"Vicente Guerrero",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

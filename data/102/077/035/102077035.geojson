@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000911,
-    "geom:area_square_m":10796146.49197,
+    "geom:area_square_m":10796133.09206,
     "geom:bbox":"-96.78821,16.548858,-96.742433,16.586201",
     "geom:latitude":16.571306,
     "geom:longitude":-96.769306,
@@ -113,8 +113,12 @@
         "inegi:id":"20542",
         "wd:id":"Q3846742"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c91bd3ec4d3e07b0a74ca9d727153787",
+    "wof:geomhash":"120a9934d97b7e9314292984698533f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077035,
-    "wof:lastmodified":1690846677,
+    "wof:lastmodified":1695886882,
     "wof:name":"Taniche",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088266,
-    "geom:area_square_m":1015884965.219496,
+    "geom:area_square_m":1015884965.219686,
     "geom:bbox":"-101.041386813,21.2942195554,-100.598390034,21.6189598482",
     "geom:latitude":21.442166,
     "geom:longitude":-100.846414,
@@ -92,8 +92,12 @@
         "inegi:id":"11029",
         "wd:id":"Q16628318"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dbe950bbb04bec828473d6ce6f159d05",
+    "wof:geomhash":"887bb54a032862fc95cf57185d50c1dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102077333,
-    "wof:lastmodified":1566615378,
+    "wof:lastmodified":1695886876,
     "wof:name":"San Diego de la Uni\u00f3n",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

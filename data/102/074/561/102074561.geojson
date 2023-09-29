@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043803,
-    "geom:area_square_m":505029400.175357,
+    "geom:area_square_m":505029556.977441,
     "geom:bbox":"-104.562366,21.05392,-104.237576,21.351263",
     "geom:latitude":21.184073,
     "geom:longitude":-104.399321,
@@ -128,8 +128,12 @@
         "inegi:id":"18007",
         "wd:id":"Q20290686"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"854d3e8cc0ef308b3ff3152a9437f5db",
+    "wof:geomhash":"bcd7f2925c28e7e9f221db152bcb917f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102074561,
-    "wof:lastmodified":1690847037,
+    "wof:lastmodified":1695885991,
     "wof:name":"Jala",
     "wof:parent_id":85686591,
     "wof:placetype":"county",

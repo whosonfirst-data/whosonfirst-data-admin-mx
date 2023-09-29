@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070868,
-    "geom:area_square_m":829547946.641136,
+    "geom:area_square_m":829547540.310289,
     "geom:bbox":"-96.120809,18.555035,-95.509933,19.102303",
     "geom:latitude":18.79995,
     "geom:longitude":-95.850336,
@@ -145,8 +145,12 @@
         "inegi:id":"30011",
         "wd:id":"Q10732346"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"96bb32a1f932e90cf42eb4e8678ac7c1",
+    "wof:geomhash":"bdcd02a90e731d01659d615117d052ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":102077407,
-    "wof:lastmodified":1690846629,
+    "wof:lastmodified":1695886638,
     "wof:name":"Alvarado",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

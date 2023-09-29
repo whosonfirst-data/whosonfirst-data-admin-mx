@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013447,
-    "geom:area_square_m":156671214.631978,
+    "geom:area_square_m":156671374.809593,
     "geom:bbox":"-99.118598,19.48457,-98.975765,19.659149",
     "geom:latitude":19.572784,
     "geom:longitude":-99.043212,
@@ -215,8 +215,12 @@
         "inegi:id":"15033",
         "wd:id":"Q15121208"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b3b4ae7bbc6ac57758bae08a9e0891b4",
+    "wof:geomhash":"d983c2783c65212383dcbbcddf7eeaf3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -226,7 +230,7 @@
         }
     ],
     "wof:id":102074155,
-    "wof:lastmodified":1690847093,
+    "wof:lastmodified":1695886035,
     "wof:name":"Ecatepec de Morelos",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

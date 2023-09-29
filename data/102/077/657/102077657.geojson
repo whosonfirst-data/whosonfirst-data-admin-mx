@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033344,
-    "geom:area_square_m":389263027.871021,
+    "geom:area_square_m":389263027.870861,
     "geom:bbox":"-96.6241717894,19.1496420755,-96.3220507601,19.3653070144",
     "geom:latitude":19.246367,
     "geom:longitude":-96.450049,
@@ -89,8 +89,12 @@
         "inegi:id":"30126",
         "wd:id":"Q3367774"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2045b19882edd4a60e38dbdf9486907b",
+    "wof:geomhash":"d710f034ef747392680eff89b4da8702",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":102077657,
-    "wof:lastmodified":1566615344,
+    "wof:lastmodified":1695886866,
     "wof:name":"Paso de Ovejas",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

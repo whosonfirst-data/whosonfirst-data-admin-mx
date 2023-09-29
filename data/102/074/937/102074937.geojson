@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015912,
-    "geom:area_square_m":185667102.953545,
+    "geom:area_square_m":185667102.953489,
     "geom:bbox":"-101.996815044,19.263752563,-101.789050265,19.3875542211",
     "geom:latitude":19.32931,
     "geom:longitude":-101.895106,
@@ -120,8 +120,12 @@
         "inegi:id":"16087",
         "wd:id":"Q3847224"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c584f81d2ef9c601bf18df99c254e11f",
+    "wof:geomhash":"fd7d660dc075fc2128549dc3b826eb07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102074937,
-    "wof:lastmodified":1566615819,
+    "wof:lastmodified":1695885992,
     "wof:name":"Taretan",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

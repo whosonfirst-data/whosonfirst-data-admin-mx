@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01517,
-    "geom:area_square_m":176861287.600953,
+    "geom:area_square_m":176861166.941754,
     "geom:bbox":"-101.441261,19.399835,-101.252192,19.543546",
     "geom:latitude":19.465831,
     "geom:longitude":-101.340002,
@@ -132,8 +132,12 @@
         "inegi:id":"16001",
         "wd:id":"Q3846405"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b333aeceae96a25d6f93f609e3994b88",
+    "wof:geomhash":"00df5897a70e221fcb4b1d05c06a3754",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102074959,
-    "wof:lastmodified":1690847086,
+    "wof:lastmodified":1695886029,
     "wof:name":"Acuitzio",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

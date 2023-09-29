@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06483,
-    "geom:area_square_m":749785649.142998,
+    "geom:area_square_m":749785784.66371,
     "geom:bbox":"-100.407239,20.500934,-100.154913,20.970999",
     "geom:latitude":20.720228,
     "geom:longitude":-100.278618,
@@ -135,8 +135,12 @@
         "inegi:id":"22011",
         "wd:id":"Q2652454"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d3363b994284e2a5e1591e5d6962e201",
+    "wof:geomhash":"66db9ca1a65295bc07b537938bbbbfc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":102077107,
-    "wof:lastmodified":1690846654,
+    "wof:lastmodified":1695886873,
     "wof:name":"El Marqu\u00e9s",
     "wof:parent_id":85686641,
     "wof:placetype":"county",

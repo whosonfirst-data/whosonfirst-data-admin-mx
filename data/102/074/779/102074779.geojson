@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024925,
-    "geom:area_square_m":289806208.646577,
+    "geom:area_square_m":289806208.646523,
     "geom:bbox":"-103.194874075,19.7848497867,-102.977965144,19.996949373",
     "geom:latitude":19.894239,
     "geom:longitude":-103.072534,
@@ -216,8 +216,12 @@
         "inegi:id":"14059",
         "wd:id":"Q1020745"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"98c8f4f3e0d4b653b90ac37ef0f1d342",
+    "wof:geomhash":"9c0b87e9d8e69e6bff36467e9bab9b83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -227,7 +231,7 @@
         }
     ],
     "wof:id":102074779,
-    "wof:lastmodified":1566615909,
+    "wof:lastmodified":1695886025,
     "wof:name":"Mazamitla",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017826,
-    "geom:area_square_m":206517802.845492,
+    "geom:area_square_m":206517973.56902,
     "geom:bbox":"-98.013298,20.389338,-97.733763,20.514149",
     "geom:latitude":20.456148,
     "geom:longitude":-97.875947,
@@ -73,8 +73,12 @@
         "hasc:id":"MX.PU.JP",
         "inegi:id":"21086"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fc7f28e2b30b4512cca7ee179c17568a",
+    "wof:geomhash":"280ab27648314f45d36a0d9e3b070650",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102078177,
-    "wof:lastmodified":1625076030,
+    "wof:lastmodified":1695886650,
     "wof:name":"Jalpan",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

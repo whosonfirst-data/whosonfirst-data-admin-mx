@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129942,
-    "geom:area_square_m":1480889477.994436,
+    "geom:area_square_m":1480889222.287298,
     "geom:bbox":"-99.564265,22.588605,-99.092431,23.099726",
     "geom:latitude":22.829799,
     "geom:longitude":-99.335855,
@@ -284,8 +284,12 @@
         "inegi:id":"28029",
         "wd:id":"Q447202"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ca4465d72cdd72ebfeffbecc82ed8e30",
+    "wof:geomhash":"47535c0d535864f9e60ca11b57102825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -295,7 +299,7 @@
         }
     ],
     "wof:id":102078907,
-    "wof:lastmodified":1690846796,
+    "wof:lastmodified":1695886903,
     "wof:name":"Ocampo",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123205,
-    "geom:area_square_m":1454270240.666926,
+    "geom:area_square_m":1454270240.666424,
     "geom:bbox":"-100.539354475,17.0597251347,-100.106690038,17.5644092962",
     "geom:latitude":17.332822,
     "geom:longitude":-100.342068,
@@ -104,8 +104,12 @@
         "inegi:id":"12011",
         "wd:id":"Q7339362"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d3fa76de8c1c3e709178dbd4d5e00613",
+    "wof:geomhash":"35a43687763fce7dcccd65c1dbcb9329",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102073901,
-    "wof:lastmodified":1566615769,
+    "wof:lastmodified":1695886942,
     "wof:name":"Atoyac de \u00c3lvarez",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

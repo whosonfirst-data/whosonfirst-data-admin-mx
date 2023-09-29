@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.286875,
-    "geom:area_square_m":3092173501.527122,
+    "geom:area_square_m":3092172706.64575,
     "geom:bbox":"-110.631741,29.008645,-109.955585,29.706247",
     "geom:latitude":29.342169,
     "geom:longitude":-110.329199,
@@ -176,8 +176,12 @@
         "inegi:id":"26066",
         "wd:id":"Q2119805"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e2250dc5378e1bf59ecef44dcadcaa0f",
+    "wof:geomhash":"e825405c652e8babc1278e68f2a4abd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":102074465,
-    "wof:lastmodified":1690847069,
+    "wof:lastmodified":1695886015,
     "wof:name":"Ures",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

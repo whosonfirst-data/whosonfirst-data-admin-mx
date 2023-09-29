@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014392,
-    "geom:area_square_m":168229635.752629,
+    "geom:area_square_m":168229499.251088,
     "geom:bbox":"-98.824999,18.940292,-98.619875,19.092319",
     "geom:latitude":19.031108,
     "geom:longitude":-98.717065,
@@ -146,8 +146,12 @@
         "inegi:id":"15015",
         "wd:id":"Q2606760"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1a016cf1114dbab734580a872eecde24",
+    "wof:geomhash":"c469f605f6fdd81004f1d7f5e0e94521",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102074197,
-    "wof:lastmodified":1690847092,
+    "wof:lastmodified":1695886034,
     "wof:name":"Atlautla",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

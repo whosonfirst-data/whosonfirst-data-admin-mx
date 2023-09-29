@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039953,
-    "geom:area_square_m":471484409.420022,
+    "geom:area_square_m":471484409.419026,
     "geom:bbox":"-98.4743802006,17.1674574652,-98.2004000417,17.5683870384",
     "geom:latitude":17.375899,
     "geom:longitude":-98.366107,
@@ -107,8 +107,12 @@
         "inegi:id":"12004",
         "wd:id":"Q2434384"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bfa245c52ad2a5b8c6454dbb0169d3d5",
+    "wof:geomhash":"88fef837c0b72ad9de8c68f5127ba40b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102073885,
-    "wof:lastmodified":1566615792,
+    "wof:lastmodified":1695885978,
     "wof:name":"Alcozauca de Guerrero",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

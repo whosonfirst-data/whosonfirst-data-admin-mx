@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008885,
-    "geom:area_square_m":105696880.152931,
+    "geom:area_square_m":105696880.152893,
     "geom:bbox":"-96.7043248347,15.784420865,-96.5662732756,15.9007813924",
     "geom:latitude":15.833547,
     "geom:longitude":-96.634413,
@@ -101,8 +101,12 @@
         "inegi:id":"20509",
         "wd:id":"Q3891748"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7f6cfdbcf485c459ecb1163145903fa3",
+    "wof:geomhash":"7a8b92de948c7d6ffd16d062edaa6fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102076635,
-    "wof:lastmodified":1566615459,
+    "wof:lastmodified":1695886895,
     "wof:name":"Santo Domingo de Morelos",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

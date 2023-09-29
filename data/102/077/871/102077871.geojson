@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003395,
-    "geom:area_square_m":39629223.014059,
+    "geom:area_square_m":39629151.743215,
     "geom:bbox":"-98.188791,19.231584,-98.03187,19.290481",
     "geom:latitude":19.257111,
     "geom:longitude":-98.084044,
@@ -127,8 +127,12 @@
         "inegi:id":"29050",
         "wd:id":"Q6118769"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ca8918934708a895cbd61d33e7abf97e",
+    "wof:geomhash":"34cd461c079898b2ba70a60330fc6d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102077871,
-    "wof:lastmodified":1690846669,
+    "wof:lastmodified":1695886880,
     "wof:name":"San Francisco Tetlanohcan",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

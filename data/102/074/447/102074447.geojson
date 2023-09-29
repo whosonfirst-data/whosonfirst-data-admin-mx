@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.584277,
-    "geom:area_square_m":6434237896.794616,
+    "geom:area_square_m":6434237896.794105,
     "geom:bbox":"-109.259973028,26.3901802603,-108.424270835,27.7756791982",
     "geom:latitude":27.051059,
     "geom:longitude":-108.876967,
@@ -96,8 +96,12 @@
         "hasc:id":"MX.SO.AM",
         "inegi:id":"26003"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d1592f7a9c5bdc4eb6a250aad0e98500",
+    "wof:geomhash":"3d98422e5f337aee9be919ae7468adcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":102074447,
-    "wof:lastmodified":1566615824,
+    "wof:lastmodified":1695885995,
     "wof:name":"Alamos",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

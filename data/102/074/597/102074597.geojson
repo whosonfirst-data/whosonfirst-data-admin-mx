@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173072,
-    "geom:area_square_m":2017128399.214623,
+    "geom:area_square_m":2017128201.013187,
     "geom:bbox":"-105.220298,19.22142,-104.527827,19.76371",
     "geom:latitude":19.514734,
     "geom:longitude":-104.863114,
@@ -131,8 +131,12 @@
         "inegi:id":"14043",
         "wd:id":"Q3847025"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3340186e16f71fb0473e937212df7fa8",
+    "wof:geomhash":"760575b55cc92c3155a080c27db725cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102074597,
-    "wof:lastmodified":1690847090,
+    "wof:lastmodified":1695886032,
     "wof:name":"La Huerta",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

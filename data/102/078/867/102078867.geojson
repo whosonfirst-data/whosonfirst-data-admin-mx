@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023144,
-    "geom:area_square_m":252031034.947562,
+    "geom:area_square_m":252030775.413551,
     "geom:bbox":"-101.034693,28.190503,-100.731781,28.381651",
     "geom:latitude":28.278348,
     "geom:longitude":-100.916003,
@@ -186,8 +186,12 @@
         "inegi:id":"05003",
         "wd:id":"Q3850565"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"336483e529f18039d1af411b37db63c0",
+    "wof:geomhash":"84ab603ec1d8748c06116ef8a4ac5bc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -197,7 +201,7 @@
         }
     ],
     "wof:id":102078867,
-    "wof:lastmodified":1690846832,
+    "wof:lastmodified":1695886504,
     "wof:name":"Allende",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

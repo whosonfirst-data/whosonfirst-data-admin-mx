@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009218,
-    "geom:area_square_m":107047382.226891,
+    "geom:area_square_m":107047382.226851,
     "geom:bbox":"-97.4647279677,19.9920712157,-97.3657529064,20.1519756091",
     "geom:latitude":20.08399,
     "geom:longitude":-97.408781,
@@ -98,8 +98,12 @@
         "inegi:id":"21025",
         "wd:id":"Q3893079"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d0bd5ea60cbdf536d1766ef28a82bca4",
+    "wof:geomhash":"c256e40d1fd769e182c499082a50bd88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102078049,
-    "wof:lastmodified":1566615547,
+    "wof:lastmodified":1695886911,
     "wof:name":"Ayotoxco de Guerrero",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

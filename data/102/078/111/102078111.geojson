@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010985,
-    "geom:area_square_m":129210535.854342,
+    "geom:area_square_m":129210535.854223,
     "geom:bbox":"-97.9488491422,17.9085323456,-97.8112136411,18.0259578614",
     "geom:latitude":17.960247,
     "geom:longitude":-97.879239,
@@ -88,8 +88,12 @@
         "hasc:id":"MX.PU.CI",
         "inegi:id":"21055"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7be55083ede3fad3e41d352444237bb6",
+    "wof:geomhash":"a552176a9c50db6745c903092e0bd7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102078111,
-    "wof:lastmodified":1566615570,
+    "wof:lastmodified":1695886916,
     "wof:name":"Chila",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

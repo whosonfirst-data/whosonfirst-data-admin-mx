@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064051,
-    "geom:area_square_m":748334617.18893,
+    "geom:area_square_m":748334617.188743,
     "geom:bbox":"-103.825840169,18.8713278948,-103.488453019,19.32576024",
     "geom:latitude":19.116099,
     "geom:longitude":-103.632669,
@@ -271,8 +271,12 @@
         "hasc:id":"MX.CL.CL",
         "inegi:id":"06002"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8aca4c4ed340e1abe79f12b5a952c97d",
+    "wof:geomhash":"d657cf2bf20191d5411b805bd262f4e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -282,7 +286,7 @@
         }
     ],
     "wof:id":102074543,
-    "wof:lastmodified":1566615898,
+    "wof:lastmodified":1695886020,
     "wof:name":"Colima",
     "wof:parent_id":85686587,
     "wof:placetype":"county",

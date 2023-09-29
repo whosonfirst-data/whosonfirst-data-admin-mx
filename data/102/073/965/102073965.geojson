@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020325,
-    "geom:area_square_m":236548288.677237,
+    "geom:area_square_m":236548313.766688,
     "geom:bbox":"-99.749055,19.609205,-99.519882,19.84058",
     "geom:latitude":19.743438,
     "geom:longitude":-99.64177,
@@ -205,8 +205,12 @@
         "inegi:id":"15056",
         "wd:id":"Q3018336"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7a97ecb2d200f517f1f82ca58870cfe8",
+    "wof:geomhash":"5931b2adeabc6bae2a865d71a449d4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -216,7 +220,7 @@
         }
     ],
     "wof:id":102073965,
-    "wof:lastmodified":1690847000,
+    "wof:lastmodified":1695886509,
     "wof:name":"Morelos",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

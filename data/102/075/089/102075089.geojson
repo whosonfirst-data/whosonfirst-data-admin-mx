@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011324,
-    "geom:area_square_m":131489125.720619,
+    "geom:area_square_m":131489125.720645,
     "geom:bbox":"-102.955578745,20.0472802498,-102.779762876,20.1716818362",
     "geom:latitude":20.111949,
     "geom:longitude":-102.879227,
@@ -75,8 +75,12 @@
         "hasc:id":"MX.MC.CR",
         "inegi:id":"16074"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bf75d39b139877b203ecb170254be1fb",
+    "wof:geomhash":"f38e8d1efdd5bb9b7c968afd7b8c66b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":102075089,
-    "wof:lastmodified":1566616159,
+    "wof:lastmodified":1695886135,
     "wof:name":"Cojumatl\u00e1n de R\u00e9gules",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

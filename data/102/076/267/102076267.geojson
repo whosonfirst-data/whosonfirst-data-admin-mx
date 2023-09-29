@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006748,
-    "geom:area_square_m":79376505.147566,
+    "geom:area_square_m":79376505.147531,
     "geom:bbox":"-96.9180217427,17.9220611526,-96.8017865432,18.0165191616",
     "geom:latitude":17.96613,
     "geom:longitude":-96.857308,
@@ -95,8 +95,12 @@
         "inegi:id":"20024",
         "wd:id":"Q7930551"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ddf538ed4558698605aed27c86dab4d6",
+    "wof:geomhash":"bd17e02876f3b825587ad1bc7c2f0253",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102076267,
-    "wof:lastmodified":1566615458,
+    "wof:lastmodified":1695886895,
     "wof:name":"Cuyamecalco Villa de Zaragoza",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

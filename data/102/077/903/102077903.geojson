@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001187,
-    "geom:area_square_m":13853593.735238,
+    "geom:area_square_m":13853579.359014,
     "geom:bbox":"-98.289669,19.316577,-98.223081,19.358903",
     "geom:latitude":19.336136,
     "geom:longitude":-98.24856,
@@ -125,8 +125,12 @@
         "inegi:id":"29036",
         "wd:id":"Q3845619"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"cbab278705b45c1bc0488a8c39d0c29b",
+    "wof:geomhash":"7ac39f8a543db46fa3cfe5e8681c2747",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102077903,
-    "wof:lastmodified":1690846653,
+    "wof:lastmodified":1695886873,
     "wof:name":"Totolac",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

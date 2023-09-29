@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002253,
-    "geom:area_square_m":26396681.120768,
+    "geom:area_square_m":26396681.29825,
     "geom:bbox":"-99.241329,18.615358,-99.176998,18.685596",
     "geom:latitude":18.654705,
     "geom:longitude":-99.206796,
@@ -119,8 +119,12 @@
         "inegi:id":"17031",
         "wd:id":"Q1023236"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"faf9d5679a0254c9a326c82d72f9bfc9",
+    "wof:geomhash":"5e9c724f5e08ef3bd39b618534dd64be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102074271,
-    "wof:lastmodified":1690847107,
+    "wof:lastmodified":1695886053,
     "wof:name":"Zacatepec",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028375,
-    "geom:area_square_m":331430490.176994,
+    "geom:area_square_m":331430490.177106,
     "geom:bbox":"-101.954575617,19.0286839467,-101.774818066,19.2884701332",
     "geom:latitude":19.159116,
     "geom:longitude":-101.863682,
@@ -110,8 +110,12 @@
         "inegi:id":"16059",
         "wd:id":"Q3888543"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f3f64f8b06f3d9e1fbcfddabbc65878a",
+    "wof:geomhash":"0a4542cb0c01ce69bc8e8874db4a9b12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102074923,
-    "wof:lastmodified":1566615900,
+    "wof:lastmodified":1695886022,
     "wof:name":"Nuevo Urecho",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

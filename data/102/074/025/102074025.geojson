@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002123,
-    "geom:area_square_m":24807343.662523,
+    "geom:area_square_m":24807323.625798,
     "geom:bbox":"-99.537378,19.087796,-99.480425,19.159269",
     "geom:latitude":19.129644,
     "geom:longitude":-99.506429,
@@ -134,8 +134,12 @@
         "inegi:id":"15098",
         "wd:id":"Q3300406"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a2c9afda6d19896a6d611a0bb2854617",
+    "wof:geomhash":"da35008861750cd129271ea896ec4c8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102074025,
-    "wof:lastmodified":1690847053,
+    "wof:lastmodified":1695886002,
     "wof:name":"Texcalyacac",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

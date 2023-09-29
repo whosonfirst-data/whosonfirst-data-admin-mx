@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009334,
-    "geom:area_square_m":110067418.123069,
+    "geom:area_square_m":110067356.569889,
     "geom:bbox":"-97.804347,17.455255,-97.695523,17.591144",
     "geom:latitude":17.518482,
     "geom:longitude":-97.743969,
@@ -119,8 +119,12 @@
         "inegi:id":"20105",
         "wd:id":"Q3890503"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"182833b7a58152a7e67df72485675af1",
+    "wof:geomhash":"d93f9dc334577e66b4049dc16ad52a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102076773,
-    "wof:lastmodified":1690846789,
+    "wof:lastmodified":1695886902,
     "wof:name":"San Antonino Monte Verde",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

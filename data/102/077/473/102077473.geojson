@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000809,
-    "geom:area_square_m":9470377.448083,
+    "geom:area_square_m":9470352.817661,
     "geom:bbox":"-96.93792,18.755111,-96.904327,18.795349",
     "geom:latitude":18.775413,
     "geom:longitude":-96.92152,
@@ -110,8 +110,12 @@
         "inegi:id":"30041",
         "wd:id":"Q3847083"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4e854d1bfef6901a27a8bfad9fdca197",
+    "wof:geomhash":"4f9301ff65eced3ea2e8e13aabbda492",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102077473,
-    "wof:lastmodified":1690846672,
+    "wof:lastmodified":1695886881,
     "wof:name":"Coetzala",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

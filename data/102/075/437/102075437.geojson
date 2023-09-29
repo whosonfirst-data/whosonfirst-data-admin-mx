@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017645,
-    "geom:area_square_m":203044235.453217,
+    "geom:area_square_m":203044145.927476,
     "geom:bbox":"-102.762373,21.339158,-102.624842,21.573268",
     "geom:latitude":21.466995,
     "geom:longitude":-102.691876,
@@ -131,8 +131,12 @@
         "inegi:id":"32002",
         "wd:id":"Q4782294"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"74293074506e301b82333b4fb0917f51",
+    "wof:geomhash":"44afdd31e7c133666eccaacb3a6dff6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102075437,
-    "wof:lastmodified":1690847168,
+    "wof:lastmodified":1695886107,
     "wof:name":"Apulco",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

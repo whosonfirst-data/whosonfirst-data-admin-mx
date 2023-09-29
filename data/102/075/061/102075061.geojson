@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060184,
-    "geom:area_square_m":699800094.115133,
+    "geom:area_square_m":699800094.115051,
     "geom:bbox":"-100.619686716,19.7720219469,-100.206870077,20.0082601832",
     "geom:latitude":19.889439,
     "geom:longitude":-100.428952,
@@ -134,8 +134,12 @@
         "inegi:id":"16050",
         "wd:id":"Q2990977"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"55290cd72b8c1bfc42fdcb8579a034b2",
+    "wof:geomhash":"6e73b0de01244ea1164786b43b9342e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102075061,
-    "wof:lastmodified":1566616194,
+    "wof:lastmodified":1695886150,
     "wof:name":"Maravat\u00edo",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

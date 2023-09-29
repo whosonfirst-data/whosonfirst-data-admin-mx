@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016194,
-    "geom:area_square_m":188380704.919287,
+    "geom:area_square_m":188380704.919225,
     "geom:bbox":"-96.7498442206,19.7447754883,-96.5577818106,19.9026879809",
     "geom:latitude":19.818945,
     "geom:longitude":-96.661639,
@@ -95,8 +95,12 @@
         "inegi:id":"30095",
         "wd:id":"Q3846692"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c49c0e89a8617c8496f936ec5fa54214",
+    "wof:geomhash":"b6ccb4aca699e6cbd6ca56d9b8e2635a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102077589,
-    "wof:lastmodified":1566615362,
+    "wof:lastmodified":1695886871,
     "wof:name":"Juchique de Ferrer",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

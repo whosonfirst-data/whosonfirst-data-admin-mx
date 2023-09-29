@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002913,
-    "geom:area_square_m":33967460.545685,
+    "geom:area_square_m":33967460.545713,
     "geom:bbox":"-99.1282,19.404331,-99.046459,19.459782",
     "geom:latitude":19.430495,
     "geom:longitude":-99.093106,
@@ -197,11 +197,15 @@
         "inegi:id":"09017",
         "wd:id":"Q313122"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         890535781
     ],
     "wof:country":"MX",
-    "wof:geomhash":"a3a0631880aeeaa355b66c98f21e1e85",
+    "wof:geomhash":"f3bab861677b3527914bdd41f70f46d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -211,7 +215,7 @@
         }
     ],
     "wof:id":102073755,
-    "wof:lastmodified":1690846999,
+    "wof:lastmodified":1695886403,
     "wof:name":"Venustiano Carranza",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

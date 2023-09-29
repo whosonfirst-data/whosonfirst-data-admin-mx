@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023587,
-    "geom:area_square_m":274981733.700266,
+    "geom:area_square_m":274981915.362111,
     "geom:bbox":"-97.797751,19.36511,-97.539017,19.542539",
     "geom:latitude":19.469154,
     "geom:longitude":-97.676135,
@@ -128,8 +128,12 @@
         "inegi:id":"21094",
         "wd:id":"Q2330365"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"73a356a68677511cee515da2e6097e58",
+    "wof:geomhash":"3f95df3ebeab11963a5a912b92292ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102078193,
-    "wof:lastmodified":1690846806,
+    "wof:lastmodified":1695886906,
     "wof:name":"Libres",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

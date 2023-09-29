@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055458,
-    "geom:area_square_m":625016833.635799,
+    "geom:area_square_m":625016850.990386,
     "geom:bbox":"-103.433144,24.062988,-103.145587,24.447254",
     "geom:latitude":24.294266,
     "geom:longitude":-103.303182,
@@ -177,8 +177,12 @@
         "inegi:id":"32022",
         "wd:id":"Q2447285"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f7f80c09727d3409285b961e07a00c3c",
+    "wof:geomhash":"45a31c04402d8fbefe6c366b5e638be2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -188,7 +192,7 @@
         }
     ],
     "wof:id":102075487,
-    "wof:lastmodified":1690847214,
+    "wof:lastmodified":1695886530,
     "wof:name":"Juan Aldama",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

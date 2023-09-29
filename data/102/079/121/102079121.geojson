@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040802,
-    "geom:area_square_m":471873410.079139,
+    "geom:area_square_m":471873596.585556,
     "geom:bbox":"-88.696443,20.617347,-88.31328,20.86497",
     "geom:latitude":20.726626,
     "geom:longitude":-88.508397,
@@ -132,8 +132,12 @@
         "inegi:id":"31091",
         "wd:id":"Q386901"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a82f9ddb2ccec6673b2fc0b63e43af9f",
+    "wof:geomhash":"3aa1052dd7ff012984703b793f51ce70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":102079121,
-    "wof:lastmodified":1690846576,
+    "wof:lastmodified":1695886853,
     "wof:name":"Tinum",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

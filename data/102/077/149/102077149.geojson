@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012732,
-    "geom:area_square_m":144193840.070601,
+    "geom:area_square_m":144193840.070613,
     "geom:bbox":"-100.840842987,23.6044690854,-100.664591428,23.7212561298",
     "geom:latitude":23.66492,
     "geom:longitude":-100.756871,
@@ -119,8 +119,12 @@
         "inegi:id":"24048",
         "wd:id":"Q3849488"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"87ad28dda2001b7f8e33d43208fe4f8a",
+    "wof:geomhash":"85d517f07849b31ccd08dd82d9fc7ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077149,
-    "wof:lastmodified":1566615428,
+    "wof:lastmodified":1695886890,
     "wof:name":"Villa de la Paz",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045445,
-    "geom:area_square_m":524449466.763885,
+    "geom:area_square_m":524449466.76375,
     "geom:bbox":"-103.672582188,20.9346355319,-103.334252597,21.1582270896",
     "geom:latitude":21.047879,
     "geom:longitude":-103.500148,
@@ -98,8 +98,12 @@
         "inegi:id":"14071",
         "wd:id":"Q3175243"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"16fbebe9230c2fe381b11ebac42357b3",
+    "wof:geomhash":"a18fa40fc71ebfb139fda85fe757002d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102074633,
-    "wof:lastmodified":1566615842,
+    "wof:lastmodified":1695886006,
     "wof:name":"San Crist\u00f3bal de la Barranca",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

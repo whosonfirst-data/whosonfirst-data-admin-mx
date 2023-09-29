@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055737,
-    "geom:area_square_m":640904118.308783,
+    "geom:area_square_m":640903960.04092,
     "geom:bbox":"-100.106694,21.448137,-99.705576,21.729316",
     "geom:latitude":21.576145,
     "geom:longitude":-99.895584,
@@ -77,8 +77,12 @@
         "inegi:id":"24027",
         "wd:id":"Q3846966"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1d549203b13b1a2b9fb9ef9146c7e70b",
+    "wof:geomhash":"aad12e6d34354680ccf41df0c42bc2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102077195,
-    "wof:lastmodified":1625076004,
+    "wof:lastmodified":1695886637,
     "wof:name":"San Ciro de Acosta",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

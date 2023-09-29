@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005556,
-    "geom:area_square_m":65704878.076681,
+    "geom:area_square_m":65704855.799184,
     "geom:bbox":"-97.283188,16.918082,-97.165407,17.038991",
     "geom:latitude":16.981058,
     "geom:longitude":-97.216358,
@@ -110,8 +110,12 @@
         "inegi:id":"20274",
         "wd:id":"Q3891003"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"60956776edcb7f00654d2d3e02674257",
+    "wof:geomhash":"1176a92da7504cfe8f99c4be0eda0e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102076845,
-    "wof:lastmodified":1690846718,
+    "wof:lastmodified":1695886641,
     "wof:name":"San Miguel Piedras",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

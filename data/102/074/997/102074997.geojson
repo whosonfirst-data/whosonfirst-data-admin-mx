@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018382,
-    "geom:area_square_m":214000606.053855,
+    "geom:area_square_m":214000606.053653,
     "geom:bbox":"-101.668700924,19.6371759796,-101.402661682,19.7782790109",
     "geom:latitude":19.695175,
     "geom:longitude":-101.538666,
@@ -112,8 +112,12 @@
         "hasc:id":"MX.MC.QG",
         "inegi:id":"16073"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ae043cf9782a220362b803ec34a9de61",
+    "wof:geomhash":"ade4f0841bec0027081d9f283e02631f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":102074997,
-    "wof:lastmodified":1566615820,
+    "wof:lastmodified":1695885993,
     "wof:name":"Quiroga",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

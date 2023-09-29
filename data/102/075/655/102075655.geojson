@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232728,
-    "geom:area_square_m":2764683403.160558,
+    "geom:area_square_m":2764683053.92905,
     "geom:bbox":"-93.6138,15.832971,-92.846059,16.44152",
     "geom:latitude":16.112152,
     "geom:longitude":-93.197607,
@@ -119,8 +119,12 @@
         "inegi:id":"07107",
         "wd:id":"Q1575011"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"622f72f4772fe885ee27905cc908e0a4",
+    "wof:geomhash":"61c4c9e7ea2207cf2c9698eb8e1b2400",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102075655,
-    "wof:lastmodified":1690847218,
+    "wof:lastmodified":1695886145,
     "wof:name":"Villa Corzo",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

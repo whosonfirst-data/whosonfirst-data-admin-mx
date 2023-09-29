@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030448,
-    "geom:area_square_m":359389526.247822,
+    "geom:area_square_m":359389526.247689,
     "geom:bbox":"-97.9602185208,17.2286213707,-97.7605093438,17.5027651381",
     "geom:latitude":17.337695,
     "geom:longitude":-97.855882,
@@ -75,8 +75,12 @@
         "hasc:id":"MX.OA.IR",
         "inegi:id":"20208"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3abf10801194451f9361710462355bfe",
+    "wof:geomhash":"9b0c9ff86c48ffd4f7857b4165fd67e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":102076781,
-    "wof:lastmodified":1566615506,
+    "wof:lastmodified":1695886902,
     "wof:name":"San Juan Mixtepec -Dto. 08 -",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

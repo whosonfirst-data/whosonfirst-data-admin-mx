@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06606,
-    "geom:area_square_m":767882731.6919,
+    "geom:area_square_m":767882538.136492,
     "geom:bbox":"-89.159307,19.67804,-88.909351,20.164627",
     "geom:latitude":19.938035,
     "geom:longitude":-89.046785,
@@ -127,8 +127,12 @@
         "inegi:id":"31098",
         "wd:id":"Q2656471"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6976815de7c45164ce5084150121da90",
+    "wof:geomhash":"3e9f4299ca5918a0b5e23d331c9ef15d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102079105,
-    "wof:lastmodified":1690846563,
+    "wof:lastmodified":1695886850,
     "wof:name":"Tzucacab",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

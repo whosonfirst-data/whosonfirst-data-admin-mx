@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035858,
-    "geom:area_square_m":411290820.593315,
+    "geom:area_square_m":411290820.593517,
     "geom:bbox":"-103.087957843,21.8127552311,-102.805461574,22.067132149",
     "geom:latitude":21.934343,
     "geom:longitude":-102.933112,
@@ -291,8 +291,12 @@
         "hasc:id":"MX.ZA.TA",
         "inegi:id":"32044"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dd2199f1fe8b46942754901734cbde98",
+    "wof:geomhash":"31e458c15c09ac5324bf33628eda5a25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -302,7 +306,7 @@
         }
     ],
     "wof:id":102075463,
-    "wof:lastmodified":1566616090,
+    "wof:lastmodified":1695886109,
     "wof:name":"Tabasco",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

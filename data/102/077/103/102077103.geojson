@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070278,
-    "geom:area_square_m":812588234.12728,
+    "geom:area_square_m":812588090.839917,
     "geom:bbox":"-100.271568,20.561979,-99.927527,20.938665",
     "geom:latitude":20.758267,
     "geom:longitude":-100.100571,
@@ -129,8 +129,12 @@
         "inegi:id":"22005",
         "wd:id":"Q3849570"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"28f98359b3ca54221add7ed4eb11f0bb",
+    "wof:geomhash":"df00865b7e1808919fcdb0cbb83684d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102077103,
-    "wof:lastmodified":1690846597,
+    "wof:lastmodified":1695886637,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85686641,
     "wof:placetype":"county",

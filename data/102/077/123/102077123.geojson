@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061642,
-    "geom:area_square_m":715445564.661545,
+    "geom:area_square_m":715445790.253042,
     "geom:bbox":"-100.309576,20.015018,-99.921758,20.359401",
     "geom:latitude":20.17491,
     "geom:longitude":-100.098633,
@@ -104,8 +104,12 @@
         "inegi:id":"22001",
         "wd:id":"Q16250988"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"356ddd9fffe1611100bab9e12a1b8c1d",
+    "wof:geomhash":"ccce83afe95d785032a529fa8c60f590",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102077123,
-    "wof:lastmodified":1690846690,
+    "wof:lastmodified":1695886887,
     "wof:name":"Amealco de Bonfil",
     "wof:parent_id":85686641,
     "wof:placetype":"county",

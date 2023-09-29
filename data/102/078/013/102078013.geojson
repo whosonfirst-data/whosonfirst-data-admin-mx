@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006172,
-    "geom:area_square_m":72485528.569947,
+    "geom:area_square_m":72485436.047993,
     "geom:bbox":"-98.246638,18.166341,-98.153275,18.2979",
     "geom:latitude":18.231293,
     "geom:longitude":-98.191117,
@@ -131,8 +131,12 @@
         "inegi:id":"21009",
         "wd:id":"Q1998679"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bb39b63458a17789d7794d4bd77cc482",
+    "wof:geomhash":"44cadb6de58dc3c1201e4dcc29c3030d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102078013,
-    "wof:lastmodified":1690846815,
+    "wof:lastmodified":1695886910,
     "wof:name":"Ahuehuetitla",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

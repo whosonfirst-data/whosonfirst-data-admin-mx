@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006363,
-    "geom:area_square_m":70926962.028564,
+    "geom:area_square_m":70926870.202001,
     "geom:bbox":"-100.427452,25.589793,-100.312568,25.715679",
     "geom:latitude":25.644597,
     "geom:longitude":-100.374758,
@@ -155,8 +155,12 @@
         "inegi:id":"19019",
         "wd:id":"Q1944489"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1251b57e708a5d8e6f9994c02168ad74",
+    "wof:geomhash":"703456793b8f08184132c86aaf77245e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":102078689,
-    "wof:lastmodified":1690846816,
+    "wof:lastmodified":1695886910,
     "wof:name":"San Pedro Garza Garc\u00eda",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

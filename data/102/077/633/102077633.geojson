@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005524,
-    "geom:area_square_m":64652739.324284,
+    "geom:area_square_m":64652615.341221,
     "geom:bbox":"-97.236721,18.75704,-97.152276,18.912304",
     "geom:latitude":18.825356,
     "geom:longitude":-97.198997,
@@ -170,8 +170,12 @@
         "inegi:id":"30115",
         "wd:id":"Q7047441"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"dc70a8f1bd7549e39867700a7fd50fb2",
+    "wof:geomhash":"cc5aa8ad7252e2df3521c437ca3895ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":102077633,
-    "wof:lastmodified":1690846621,
+    "wof:lastmodified":1695886499,
     "wof:name":"Nogales",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104465,
-    "geom:area_square_m":1232361677.826306,
+    "geom:area_square_m":1232361677.826629,
     "geom:bbox":"-92.4890002533,17.2058431506,-91.8888191979,17.6645791102",
     "geom:latitude":17.437619,
     "geom:longitude":-92.187141,
@@ -107,8 +107,12 @@
         "inegi:id":"07077",
         "wd:id":"Q1953149"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fd129573d7a3fd5ebe487e30eb75cb2a",
+    "wof:geomhash":"a2b28521a73842e7e18069508233286b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102075693,
-    "wof:lastmodified":1566616093,
+    "wof:lastmodified":1695886110,
     "wof:name":"Salto de Agua",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

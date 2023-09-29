@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015369,
-    "geom:area_square_m":179058119.361739,
+    "geom:area_square_m":179058119.361773,
     "geom:bbox":"-98.8719329317,19.4629179618,-98.6532265554,19.6355810917",
     "geom:latitude":19.569382,
     "geom:longitude":-98.765472,
@@ -121,8 +121,12 @@
         "inegi:id":"15093",
         "wd:id":"Q6142103"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"540e66f33df65bf1b056cf08e9052dce",
+    "wof:geomhash":"3dcccd824abf243df62570844ee574a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":102074037,
-    "wof:lastmodified":1566615874,
+    "wof:lastmodified":1695886014,
     "wof:name":"Tepetlaoxtoc",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

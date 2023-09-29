@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.518521,
-    "geom:area_square_m":5813287723.334649,
+    "geom:area_square_m":5813287723.335104,
     "geom:bbox":"-107.210132227,24.2778569562,-106.142742818,25.6622325945",
     "geom:latitude":24.946757,
     "geom:longitude":-106.711994,
@@ -91,8 +91,12 @@
         "hasc:id":"MX.DU.TA",
         "inegi:id":"10034"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6f189c44db1febfebac68ba959746ffc",
+    "wof:geomhash":"50dc25fd123081022b8e3ffea6ecef4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":102075133,
-    "wof:lastmodified":1566616033,
+    "wof:lastmodified":1695886092,
     "wof:name":"Tamazula",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

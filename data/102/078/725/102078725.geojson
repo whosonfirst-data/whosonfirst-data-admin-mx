@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04228,
-    "geom:area_square_m":467581310.733073,
+    "geom:area_square_m":467581111.830157,
     "geom:bbox":"-100.696093,26.431871,-100.438475,26.710873",
     "geom:latitude":26.571711,
     "geom:longitude":-100.561792,
@@ -128,8 +128,12 @@
         "inegi:id":"19008",
         "wd:id":"Q23504193"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6aeb6798acacdfeac222080203079bda",
+    "wof:geomhash":"ec60c259edb25e7ee4510fb67425a0e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102078725,
-    "wof:lastmodified":1690846836,
+    "wof:lastmodified":1695886915,
     "wof:name":"Bustamante",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

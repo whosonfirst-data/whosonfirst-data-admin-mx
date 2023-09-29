@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010693,
-    "geom:area_square_m":127056520.421465,
+    "geom:area_square_m":127056520.421486,
     "geom:bbox":"-96.7736339223,15.9932612898,-96.6499160627,16.1404515032",
     "geom:latitude":16.070956,
     "geom:longitude":-96.718774,
@@ -104,8 +104,12 @@
         "inegi:id":"20366",
         "wd:id":"Q3891064"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f302abc8d31eb4135c939f3ac3222f80",
+    "wof:geomhash":"2f5e9f9cd6097ed2010e4476fbbc13b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102076553,
-    "wof:lastmodified":1566615483,
+    "wof:lastmodified":1695886898,
     "wof:name":"Santa Catarina Loxicha",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

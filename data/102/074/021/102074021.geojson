@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001421,
-    "geom:area_square_m":16553694.28259,
+    "geom:area_square_m":16553663.132226,
     "geom:bbox":"-98.972739,19.576944,-98.897477,19.611699",
     "geom:latitude":19.596865,
     "geom:longitude":-98.931008,
@@ -140,8 +140,12 @@
         "inegi:id":"15100",
         "wd:id":"Q3300440"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"fa051c68be1a7b1842bb9fecfc5356ca",
+    "wof:geomhash":"64401aeaaff1c4c2a2cc97fa781ceeb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":102074021,
-    "wof:lastmodified":1690847110,
+    "wof:lastmodified":1695886056,
     "wof:name":"Tezoyuca",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

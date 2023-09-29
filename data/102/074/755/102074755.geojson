@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022927,
-    "geom:area_square_m":266431160.079942,
+    "geom:area_square_m":266431160.079983,
     "geom:bbox":"-103.333346202,19.8776523523,-103.150535198,20.0795025023",
     "geom:latitude":19.982415,
     "geom:longitude":-103.236428,
@@ -108,8 +108,12 @@
         "inegi:id":"14026",
         "wd:id":"Q3311159"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d6dbfee9fa2668c61787ce1d4a9b881d",
+    "wof:geomhash":"21f1586577f90c6339ce293960cd68af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":102074755,
-    "wof:lastmodified":1566615810,
+    "wof:lastmodified":1695885988,
     "wof:name":"Concepci\u00f3n de Buenos Aires",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

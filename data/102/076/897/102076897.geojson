@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002538,
-    "geom:area_square_m":29918442.350046,
+    "geom:area_square_m":29918528.862686,
     "geom:bbox":"-97.509049,17.545142,-97.458424,17.614611",
     "geom:latitude":17.577226,
     "geom:longitude":-97.480852,
@@ -113,8 +113,12 @@
         "inegi:id":"20341",
         "wd:id":"Q4967352"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9008c3c9c590ba2dbf836f6610282116",
+    "wof:geomhash":"d678669d1ec5ab387cb1e1bf25a4db0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076897,
-    "wof:lastmodified":1690846783,
+    "wof:lastmodified":1695886901,
     "wof:name":"San Pedro Yucunama",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

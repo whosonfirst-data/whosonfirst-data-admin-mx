@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088109,
-    "geom:area_square_m":1016998838.557533,
+    "geom:area_square_m":1016998563.906788,
     "geom:bbox":"-101.436333,20.824457,-101.057163,21.228018",
     "geom:latitude":21.018454,
     "geom:longitude":-101.237329,
@@ -133,8 +133,12 @@
         "inegi:id":"11015",
         "wd:id":"Q16334261"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"85414cbfd11abd99c621e8da7713c712",
+    "wof:geomhash":"c11c4a3b4770b27a92595ed3315829a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":102077347,
-    "wof:lastmodified":1690846644,
+    "wof:lastmodified":1695886870,
     "wof:name":"Guanajuato",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

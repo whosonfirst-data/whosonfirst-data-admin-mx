@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008926,
-    "geom:area_square_m":105639718.918685,
+    "geom:area_square_m":105639490.6469,
     "geom:bbox":"-97.161896,16.762199,-96.949788,16.88224",
     "geom:latitude":16.834057,
     "geom:longitude":-97.045038,
@@ -122,8 +122,12 @@
         "inegi:id":"20104",
         "wd:id":"Q7413283"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c86c5319647833806db55584e45a4a36",
+    "wof:geomhash":"e2fd693415b30a6b486d09b75ccefe8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102076069,
-    "wof:lastmodified":1690846781,
+    "wof:lastmodified":1695886901,
     "wof:name":"San Antonino el Alto",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

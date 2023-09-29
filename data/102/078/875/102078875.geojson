@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189824,
-    "geom:area_square_m":2141005358.179349,
+    "geom:area_square_m":2141005358.180406,
     "geom:bbox":"-99.6570806232,23.9195564468,-99.0443251304,24.4094174223",
     "geom:latitude":24.195539,
     "geom:longitude":-99.380518,
@@ -171,8 +171,12 @@
         "hasc:id":"MX.TM.HI",
         "inegi:id":"28016"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3a54a5bc7fd6a85994985180175bc484",
+    "wof:geomhash":"29295750f005db1a591e27f46c310dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -182,7 +186,7 @@
         }
     ],
     "wof:id":102078875,
-    "wof:lastmodified":1566615548,
+    "wof:lastmodified":1695886911,
     "wof:name":"Hidalgo",
     "wof:parent_id":85686695,
     "wof:placetype":"county",

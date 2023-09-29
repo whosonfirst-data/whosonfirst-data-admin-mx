@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010049,
-    "geom:area_square_m":116679682.351308,
+    "geom:area_square_m":116679682.35159,
     "geom:bbox":"-101.21235921,20.0344737424,-101.079928441,20.2003337048",
     "geom:latitude":20.119692,
     "geom:longitude":-101.152616,
@@ -119,8 +119,12 @@
         "inegi:id":"11041",
         "wd:id":"Q973918"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ed5b7fc3c0a26becadfccda16f5622a8",
+    "wof:geomhash":"5176c9981ec1e5b27a1eb28aa0abf896",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102077275,
-    "wof:lastmodified":1566615327,
+    "wof:lastmodified":1695886863,
     "wof:name":"Uriangato",
     "wof:parent_id":85686629,
     "wof:placetype":"county",

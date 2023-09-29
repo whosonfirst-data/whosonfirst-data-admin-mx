@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022982,
-    "geom:area_square_m":267523106.070834,
+    "geom:area_square_m":267523076.147258,
     "geom:bbox":"-97.783068,19.617747,-97.559065,19.810301",
     "geom:latitude":19.714298,
     "geom:longitude":-97.682687,
@@ -118,8 +118,12 @@
         "inegi:id":"21212",
         "wd:id":"Q953111"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1626c115e6aeaa8ecde0ea1ac58e7ee7",
+    "wof:geomhash":"d88e4a20a096804cb499d60c6aacf8e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":102078451,
-    "wof:lastmodified":1690846877,
+    "wof:lastmodified":1695886931,
     "wof:name":"Zautla",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

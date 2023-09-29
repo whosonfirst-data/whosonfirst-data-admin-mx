@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028351,
-    "geom:area_square_m":332689333.960158,
+    "geom:area_square_m":332689406.621715,
     "geom:bbox":"-97.791883,18.275764,-97.585208,18.475329",
     "geom:latitude":18.375573,
     "geom:longitude":-97.690081,
@@ -135,8 +135,12 @@
         "inegi:id":"21018",
         "wd:id":"Q2001136"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"eec3a04432aff6c7949d31b3fc56c25a",
+    "wof:geomhash":"fd30c9e3fa098a182d843224e3bb5de9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":102078033,
-    "wof:lastmodified":1690846882,
+    "wof:lastmodified":1695886932,
     "wof:name":"Atexcal",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

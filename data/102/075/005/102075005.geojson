@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019163,
-    "geom:area_square_m":223035692.895713,
+    "geom:area_square_m":223035558.27053,
     "geom:bbox":"-102.12918,19.645038,-101.875012,19.833545",
     "geom:latitude":19.734619,
     "geom:longitude":-101.989739,
@@ -122,8 +122,12 @@
         "inegi:id":"16024",
         "wd:id":"Q2962825"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9f3b62bcd2aecdc2929d5703a03954e0",
+    "wof:geomhash":"0d1c928c5a4b0f327dce44d4ee220c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102075005,
-    "wof:lastmodified":1690847226,
+    "wof:lastmodified":1695886152,
     "wof:name":"Cher\u00e1n",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

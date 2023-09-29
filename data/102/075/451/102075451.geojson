@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029486,
-    "geom:area_square_m":339514191.38114,
+    "geom:area_square_m":339514071.029633,
     "geom:bbox":"-103.262955,21.294996,-102.969852,21.461134",
     "geom:latitude":21.376707,
     "geom:longitude":-103.124084,
@@ -73,8 +73,12 @@
         "hasc:id":"MX.ZA.JU",
         "inegi:id":"32023"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"08b9325b78142a66f6d3f73aa8cb1f8a",
+    "wof:geomhash":"b0c51a8722002138179c44e54f195041",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102075451,
-    "wof:lastmodified":1625076055,
+    "wof:lastmodified":1695886664,
     "wof:name":"Juchipila",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

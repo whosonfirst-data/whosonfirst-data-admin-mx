@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000999,
-    "geom:area_square_m":11655020.523069,
+    "geom:area_square_m":11655020.52302,
     "geom:bbox":"-98.218611,19.3237763909,-98.1739252834,19.3772222106",
     "geom:latitude":19.351504,
     "geom:longitude":-98.194681,
@@ -104,8 +104,12 @@
         "inegi:id":"29002",
         "wd:id":"Q3846695"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5c25922621f8265833b46025d110fc0a",
+    "wof:geomhash":"2072ef85a54c3649e5421bd8ac61ca0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102077977,
-    "wof:lastmodified":1566615345,
+    "wof:lastmodified":1695886867,
     "wof:name":"Apetatitl\u00e1n de Antonio Carvajal",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

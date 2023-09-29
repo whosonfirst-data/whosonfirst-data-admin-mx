@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001986,
-    "geom:area_square_m":23166531.203021,
+    "geom:area_square_m":23166531.203036,
     "geom:bbox":"-99.137182,19.3757,-99.055786,19.422234",
     "geom:latitude":19.396912,
     "geom:longitude":-99.09433,
@@ -152,11 +152,15 @@
         "inegi:id":"09006",
         "wd:id":"Q953866"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         890535761
     ],
     "wof:country":"MX",
-    "wof:geomhash":"389dc7859137b679389487874cc4181b",
+    "wof:geomhash":"ddb37d2a3a8ef6f1608165a37e8d031d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":102073751,
-    "wof:lastmodified":1690847014,
+    "wof:lastmodified":1695886619,
     "wof:name":"Iztacalco",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

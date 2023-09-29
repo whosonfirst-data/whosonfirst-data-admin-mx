@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004351,
-    "geom:area_square_m":50830581.386443,
+    "geom:area_square_m":50830362.877373,
     "geom:bbox":"-98.852674,19.071678,-98.772836,19.169276",
     "geom:latitude":19.124291,
     "geom:longitude":-98.816356,
@@ -137,8 +137,12 @@
         "inegi:id":"15017",
         "wd:id":"Q3308521"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2d30b65badce0c17732f62184f6aeb2e",
+    "wof:geomhash":"9f0e65784eb9c12fcb94d805c73dbd1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":102074191,
-    "wof:lastmodified":1690847086,
+    "wof:lastmodified":1695886028,
     "wof:name":"Ayapango",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

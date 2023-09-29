@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126102,
-    "geom:area_square_m":1346126989.020856,
+    "geom:area_square_m":1346126670.622014,
     "geom:bbox":"-109.226019,30.03951,-108.542199,30.468152",
     "geom:latitude":30.31032,
     "geom:longitude":-108.819753,
@@ -113,8 +113,12 @@
         "inegi:id":"26010",
         "wd:id":"Q2991325"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f06b480b6b43cfa6da8357a02804e980",
+    "wof:geomhash":"c00816961fa1b5dbb0f41bb1befb7853",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102074431,
-    "wof:lastmodified":1690847064,
+    "wof:lastmodified":1695886011,
     "wof:name":"Bacerac",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

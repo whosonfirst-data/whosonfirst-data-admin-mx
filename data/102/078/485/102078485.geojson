@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039666,
-    "geom:area_square_m":459855729.181067,
+    "geom:area_square_m":459855616.518588,
     "geom:bbox":"-98.824101,20.230643,-98.531843,20.451642",
     "geom:latitude":20.35484,
     "geom:longitude":-98.676488,
@@ -122,8 +122,12 @@
         "inegi:id":"13012",
         "wd:id":"Q20241220"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"75bdb5785387ba2f4c3c8d59a6039d1e",
+    "wof:geomhash":"eccf21d48b7467d1091102bb3a40cc28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102078485,
-    "wof:lastmodified":1690846811,
+    "wof:lastmodified":1695886908,
     "wof:name":"Atotonilco el Grande",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

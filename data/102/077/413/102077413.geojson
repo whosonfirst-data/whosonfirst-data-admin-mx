@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012983,
-    "geom:area_square_m":151917561.741341,
+    "geom:area_square_m":151917561.741282,
     "geom:bbox":"-96.957159988,18.7833808052,-96.8176058912,18.9617373089",
     "geom:latitude":18.859752,
     "geom:longitude":-96.876174,
@@ -98,8 +98,12 @@
         "inegi:id":"30014",
         "wd:id":"Q2888015"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"767bdf4d4a1fc08790c40e108f357da2",
+    "wof:geomhash":"f510748431c9e58fedee47abafb08c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102077413,
-    "wof:lastmodified":1566615317,
+    "wof:lastmodified":1695886860,
     "wof:name":"Amatl\u00e1n de los Reyes",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01986,
-    "geom:area_square_m":235628437.385321,
+    "geom:area_square_m":235628190.195255,
     "geom:bbox":"-92.454761,16.27501,-92.274679,16.462512",
     "geom:latitude":16.365308,
     "geom:longitude":-92.364727,
@@ -127,8 +127,12 @@
         "inegi:id":"07075",
         "wd:id":"Q1687857"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"17382c96eb40a7faea69de65390252e2",
+    "wof:geomhash":"c1664a1fad95d800811ea114e8de2efb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102075697,
-    "wof:lastmodified":1690847220,
+    "wof:lastmodified":1695886147,
     "wof:name":"Las Rosas",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

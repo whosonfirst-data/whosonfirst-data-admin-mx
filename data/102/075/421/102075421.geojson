@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063561,
-    "geom:area_square_m":726414714.770983,
+    "geom:area_square_m":726414714.771258,
     "geom:bbox":"-103.305357087,22.2378349844,-102.946961993,22.6076262861",
     "geom:latitude":22.444111,
     "geom:longitude":-103.136841,
@@ -116,8 +116,12 @@
         "inegi:id":"32046",
         "wd:id":"Q2651928"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"99f88dae8b60b2b08ad3d81da51600f2",
+    "wof:geomhash":"2bdf4ce034fdb6289a5917efd5f84865",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102075421,
-    "wof:lastmodified":1566616161,
+    "wof:lastmodified":1695886135,
     "wof:name":"Tepetongo",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

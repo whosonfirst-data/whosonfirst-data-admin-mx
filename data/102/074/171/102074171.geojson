@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025198,
-    "geom:area_square_m":293105281.374096,
+    "geom:area_square_m":293105281.373949,
     "geom:bbox":"-99.6710217367,19.7328300133,-99.420685745,19.9042055444",
     "geom:latitude":19.825755,
     "geom:longitude":-99.550939,
@@ -116,8 +116,12 @@
         "inegi:id":"15026",
         "wd:id":"Q2990953"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d1ebd8a11cf17993ec76ee4871891dbe",
+    "wof:geomhash":"f7ae61fb34b07225f4b6440d31d6fe13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102074171,
-    "wof:lastmodified":1566616010,
+    "wof:lastmodified":1695886082,
     "wof:name":"Chapa de Mota",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.96961,
-    "geom:area_square_m":53186373200.08326,
+    "geom:area_square_m":53186373461.933159,
     "geom:bbox":"-118.40765,28.0,-112.65424,32.44605",
     "geom:latitude":30.036174,
     "geom:longitude":-114.958538,
@@ -167,8 +167,12 @@
         "inegi:id":"02001",
         "wd:id":"Q1548691"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"17d23af5648e3a9c130f8fa6e3dd0c64",
+    "wof:geomhash":"389c32f545e17dba1a707109025dc91e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":102074509,
-    "wof:lastmodified":1690847094,
+    "wof:lastmodified":1695886036,
     "wof:name":"Ensenada",
     "wof:parent_id":85686541,
     "wof:placetype":"county",

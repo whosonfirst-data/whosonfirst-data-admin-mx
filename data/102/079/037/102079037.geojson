@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011901,
-    "geom:area_square_m":137747765.53894,
+    "geom:area_square_m":137747673.415353,
     "geom:bbox":"-88.548181,20.5209,-88.345074,20.676463",
     "geom:latitude":20.599629,
     "geom:longitude":-88.437511,
@@ -127,8 +127,12 @@
         "inegi:id":"31043",
         "wd:id":"Q2466571"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bfb8c620177e3cf845f2981d878ad9bd",
+    "wof:geomhash":"569c28a5f72f5917969176154f0c5a73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":102079037,
-    "wof:lastmodified":1690846573,
+    "wof:lastmodified":1695886852,
     "wof:name":"Kaua",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

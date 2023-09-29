@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132257,
-    "geom:area_square_m":1413847984.838067,
+    "geom:area_square_m":1413847777.294632,
     "geom:bbox":"-111.428384,29.872071,-110.907843,30.432271",
     "geom:latitude":30.170224,
     "geom:longitude":-111.211409,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.SO.BH",
         "inegi:id":"26016"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5974830c2a0dcc877029a959238e4b92",
+    "wof:geomhash":"758a15d7ebcfdd0c098b1fcee0fb3393",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102074419,
-    "wof:lastmodified":1625076042,
+    "wof:lastmodified":1695886655,
     "wof:name":"Benjam\u00edn Hill",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

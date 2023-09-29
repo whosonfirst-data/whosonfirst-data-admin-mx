@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.839373,
-    "geom:area_square_m":180835863970.498932,
+    "geom:area_square_m":180835863291.515869,
     "geom:bbox":"-115.053022,26.296988,-108.424271,32.493913",
     "geom:latitude":29.687703,
     "geom:longitude":-110.809947,
@@ -441,12 +441,18 @@
         "gn:id":3982846,
         "gp:id":2346289,
         "hasc:id":"MX.SO",
+        "inegi:id":"26",
+        "iso:code":"MX-SON",
         "iso:id":"MX-SON",
         "unlc:id":"MX-SON",
         "wd:id":"Q46422"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ca45e3ea98f855ca124f4a82602057d8",
+    "wof:geomhash":"dddd47b8f48a469fd4d8b732e8a65f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -461,7 +467,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847291,
+    "wof:lastmodified":1695884533,
     "wof:name":"Sonora",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

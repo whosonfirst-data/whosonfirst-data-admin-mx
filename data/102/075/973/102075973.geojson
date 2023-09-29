@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000905,
-    "geom:area_square_m":10680339.42661,
+    "geom:area_square_m":10680274.175615,
     "geom:bbox":"-96.592962,17.309628,-96.548656,17.349826",
     "geom:latitude":17.327473,
     "geom:longitude":-96.574387,
@@ -122,8 +122,12 @@
         "inegi:id":"20267",
         "wd:id":"Q985546"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"51ab308a305873e6fa81b34d461b82fd",
+    "wof:geomhash":"e70696ad4fc10377ca67fe2e1218331c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102075973,
-    "wof:lastmodified":1690847235,
+    "wof:lastmodified":1695886158,
     "wof:name":"San Miguel del R\u00edo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146579,
-    "geom:area_square_m":1733678062.158772,
+    "geom:area_square_m":1733678062.158304,
     "geom:bbox":"-100.00215247,16.684081801,-99.4736360187,17.2336827853",
     "geom:latitude":16.957209,
     "geom:longitude":-99.714296,
@@ -116,8 +116,12 @@
         "inegi:id":"12001",
         "wd:id":"Q2378103"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"647e084907aad4370c68d82c412050e2",
+    "wof:geomhash":"9a010dec47a14d71610f23960e455491",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102073945,
-    "wof:lastmodified":1566615800,
+    "wof:lastmodified":1695885983,
     "wof:name":"Acapulco de Ju\u00e1rez",
     "wof:parent_id":85686517,
     "wof:placetype":"county",

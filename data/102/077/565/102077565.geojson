@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029704,
-    "geom:area_square_m":348368900.871209,
+    "geom:area_square_m":348368794.790481,
     "geom:bbox":"-96.013756,18.366372,-95.766506,18.629499",
     "geom:latitude":18.473895,
     "geom:longitude":-95.886908,
@@ -113,8 +113,12 @@
         "inegi:id":"30084",
         "wd:id":"Q3846632"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"18771b0ad3a71f8b3a502089fdbe167b",
+    "wof:geomhash":"2bf101a664f509e06eaea3fa9461ff5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077565,
-    "wof:lastmodified":1690846659,
+    "wof:lastmodified":1695886876,
     "wof:name":"Ixmatlahuacan",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

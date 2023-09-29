@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020224,
-    "geom:area_square_m":225164432.413469,
+    "geom:area_square_m":225164522.863039,
     "geom:bbox":"-100.272761,25.694126,-100.101036,25.879285",
     "geom:latitude":25.792276,
     "geom:longitude":-100.187331,
@@ -179,8 +179,12 @@
         "inegi:id":"19006",
         "wd:id":"Q1782406"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6eca546f4a46f5ba4feec1af79de2c67",
+    "wof:geomhash":"34bc3fad4e454b9794d5920cc10a20db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -190,7 +194,7 @@
         }
     ],
     "wof:id":102078701,
-    "wof:lastmodified":1690846799,
+    "wof:lastmodified":1695886904,
     "wof:name":"Apodaca",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

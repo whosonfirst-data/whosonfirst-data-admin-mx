@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030533,
-    "geom:area_square_m":360822876.184062,
+    "geom:area_square_m":360822697.888798,
     "geom:bbox":"-97.265773,16.979574,-97.052206,17.256302",
     "geom:latitude":17.116406,
     "geom:longitude":-97.171023,
@@ -116,8 +116,12 @@
         "inegi:id":"20217",
         "wd:id":"Q3889069"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0d20dee6cff2d470bf3855e3f430ca54",
+    "wof:geomhash":"e93bdf64747eb540ed89c3b6db29eb76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":102076073,
-    "wof:lastmodified":1690846761,
+    "wof:lastmodified":1695886899,
     "wof:name":"San Juan Tamazola",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

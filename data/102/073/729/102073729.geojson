@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027016,
-    "geom:area_square_m":315479754.448641,
+    "geom:area_square_m":315479911.111782,
     "geom:bbox":"-99.31625,19.089378,-99.100929,19.312264",
     "geom:latitude":19.19834,
     "geom:longitude":-99.206221,
@@ -168,8 +168,12 @@
         "inegi:id":"09012",
         "wd:id":"Q408187"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"345fc67305d35c82840a812581205336",
+    "wof:geomhash":"24e75cb2090d3792d252a6969504869d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -179,7 +183,7 @@
         }
     ],
     "wof:id":102073729,
-    "wof:lastmodified":1690847027,
+    "wof:lastmodified":1695885985,
     "wof:name":"Tlalpan",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

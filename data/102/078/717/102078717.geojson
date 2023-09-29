@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06496,
-    "geom:area_square_m":722172977.374522,
+    "geom:area_square_m":722172977.374518,
     "geom:bbox":"-99.1981110773,25.8384502406,-98.7903645104,26.1041024474",
     "geom:latitude":25.964091,
     "geom:longitude":-99.030873,
@@ -113,8 +113,12 @@
         "inegi:id":"19015",
         "wd:id":"Q3311232"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0e24a7e5868974203d66d5de9547cfdd",
+    "wof:geomhash":"f2090b44f741d45b8459a11094b39e05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102078717,
-    "wof:lastmodified":1566615640,
+    "wof:lastmodified":1695886938,
     "wof:name":"Dr. Coss",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

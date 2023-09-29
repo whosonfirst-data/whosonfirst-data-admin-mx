@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.92186,
-    "geom:area_square_m":22420368223.474857,
+    "geom:area_square_m":22420368157.436062,
     "geom:bbox":"-100.613091,18.366943,-98.596867,20.285867",
     "geom:latitude":19.355957,
     "geom:longitude":-99.645374,
@@ -437,12 +437,18 @@
         "gn:id":3523272,
         "gp:id":2346278,
         "hasc:id":"MX.MX",
+        "inegi:id":"15",
+        "iso:code":"MX-MEX",
         "iso:id":"MX-MEX",
         "unlc:id":"MX-MEX",
         "wd:id":"Q82112"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c9d1186d4bd290773f94ff546c12db57",
+    "wof:geomhash":"9abc0d8d73449974c7e447aa57ea7566",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -457,7 +463,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847282,
+    "wof:lastmodified":1695884609,
     "wof:name":"M\u00e9xico",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

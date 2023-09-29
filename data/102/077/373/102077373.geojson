@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011375,
-    "geom:area_square_m":130078119.667861,
+    "geom:area_square_m":130078023.863862,
     "geom:bbox":"-102.378443,22.281557,-102.238848,22.45959",
     "geom:latitude":22.360627,
     "geom:longitude":-102.297042,
@@ -142,8 +142,12 @@
         "inegi:id":"01004",
         "wd:id":"Q4288373"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6bffdef712a4f1424abb4dd3f457d086",
+    "wof:geomhash":"240658c15d36387cda776dd764254e02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":102077373,
-    "wof:lastmodified":1690846695,
+    "wof:lastmodified":1695886888,
     "wof:name":"Cos\u00edo",
     "wof:parent_id":85686637,
     "wof:placetype":"county",

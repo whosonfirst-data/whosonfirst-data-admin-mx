@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016621,
-    "geom:area_square_m":184861666.030877,
+    "geom:area_square_m":184861420.759856,
     "geom:bbox":"-100.254412,25.831117,-100.052016,26.019482",
     "geom:latitude":25.911392,
     "geom:longitude":-100.13482,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.NL.GZ",
         "inegi:id":"19025"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a62e2584cd6754d55732c156af4434d3",
+    "wof:geomhash":"c9e79abc8216be43d6f3799ad55ef498",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102078699,
-    "wof:lastmodified":1625076029,
+    "wof:lastmodified":1695886650,
     "wof:name":"Gral. Zuazua",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

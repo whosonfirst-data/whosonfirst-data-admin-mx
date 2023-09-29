@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006225,
-    "geom:area_square_m":71841168.051604,
+    "geom:area_square_m":71841050.942232,
     "geom:bbox":"-89.37571,20.997425,-89.242794,21.114129",
     "geom:latitude":21.051043,
     "geom:longitude":-89.323803,
@@ -125,8 +125,12 @@
         "inegi:id":"31054",
         "wd:id":"Q3293965"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"9fffc9e82a630e269914e49527929598",
+    "wof:geomhash":"e4e02b6bd6bb09dee720df6da279de9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102079015,
-    "wof:lastmodified":1690846566,
+    "wof:lastmodified":1695886851,
     "wof:name":"Muxupip",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

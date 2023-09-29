@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045305,
-    "geom:area_square_m":520145037.630725,
+    "geom:area_square_m":520145037.631162,
     "geom:bbox":"-98.7306555391,21.6653760292,-98.4547001149,21.9599044795",
     "geom:latitude":21.799794,
     "geom:longitude":-98.597855,
@@ -110,8 +110,12 @@
         "inegi:id":"24034",
         "wd:id":"Q7415378"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3935dc5726fe1249c86ae8e80aa32ab2",
+    "wof:geomhash":"46b1b966554e4b49c63f53f59cc2fd5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102077179,
-    "wof:lastmodified":1566615423,
+    "wof:lastmodified":1695886889,
     "wof:name":"San Vicente Tancuayalab",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

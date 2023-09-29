@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.178925,
-    "geom:area_square_m":72044394972.422974,
+    "geom:area_square_m":72044396741.086502,
     "geom:bbox":"-98.681547,17.136965,-93.60794,22.471751",
     "geom:latitude":19.392957,
     "geom:longitude":-96.418559,
@@ -398,12 +398,18 @@
         "gn:id":3514780,
         "gp:id":2346293,
         "hasc:id":"MX.VE",
+        "inegi:id":"30",
+        "iso:code":"MX-VER",
         "iso:id":"MX-VER",
         "unlc:id":"MX-VER",
         "wd:id":"Q60130"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7c98109b41656d66020e5ac30105b803",
+    "wof:geomhash":"ef8c83b43d53363b35ff84b9ff0da689",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -418,7 +424,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617130585,
+    "wof:lastmodified":1695884605,
     "wof:name":"Veracruz de Ignacio de la Llave",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

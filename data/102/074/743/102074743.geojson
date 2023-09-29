@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016835,
-    "geom:area_square_m":195822201.450386,
+    "geom:area_square_m":195822201.45059,
     "geom:bbox":"-103.023394695,19.632750568,-102.908543278,19.9965565022",
     "geom:latitude":19.835174,
     "geom:longitude":-102.972618,
@@ -107,8 +107,12 @@
         "inegi:id":"14112",
         "wd:id":"Q3311242"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"35d91e3d233860685e1dc8faa98374b3",
+    "wof:geomhash":"99551fa5e2b4ba37bbc705bbb05aa667",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102074743,
-    "wof:lastmodified":1566615990,
+    "wof:lastmodified":1695886070,
     "wof:name":"Valle de Ju\u00e1rez",
     "wof:parent_id":85686603,
     "wof:placetype":"county",

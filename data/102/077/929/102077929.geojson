@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005241,
-    "geom:area_square_m":61142925.180536,
+    "geom:area_square_m":61142908.230174,
     "geom:bbox":"-98.320636,19.289637,-98.248742,19.414383",
     "geom:latitude":19.352118,
     "geom:longitude":-98.284153,
@@ -131,8 +131,12 @@
         "inegi:id":"29024",
         "wd:id":"Q173191"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7bd2548167f0c9b5984ff2cd7b0afea2",
+    "wof:geomhash":"7ffd0986032f743c2e879d75445a7e77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102077929,
-    "wof:lastmodified":1690846690,
+    "wof:lastmodified":1695886887,
     "wof:name":"Panotla",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

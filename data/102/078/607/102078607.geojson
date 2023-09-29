@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007827,
-    "geom:area_square_m":91000026.848984,
+    "geom:area_square_m":91000026.849013,
     "geom:bbox":"-98.8761747486,19.8564146962,-98.7417329389,19.9723869048",
     "geom:latitude":19.912822,
     "geom:longitude":-98.803364,
@@ -100,8 +100,12 @@
         "inegi:id":"13066",
         "wd:id":"Q20291118"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"72df7796319e8b7950a954d9cc779e42",
+    "wof:geomhash":"d76d9de0dfedb6319d6da3909e73a6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":102078607,
-    "wof:lastmodified":1566615631,
+    "wof:lastmodified":1695886935,
     "wof:name":"Villa de Tezontepec",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

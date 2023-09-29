@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029505,
-    "geom:area_square_m":342322417.400207,
+    "geom:area_square_m":342322417.400242,
     "geom:bbox":"-99.8595414366,20.1456944454,-99.5122402525,20.3201674685",
     "geom:latitude":20.232989,
     "geom:longitude":-99.672684,
@@ -112,8 +112,12 @@
         "inegi:id":"13044",
         "wd:id":"Q3845475"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"21683296066ea45e50a5f78ce45aa96c",
+    "wof:geomhash":"aecf676c08cca7f13cb001cd818b2f68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":102078617,
-    "wof:lastmodified":1566615539,
+    "wof:lastmodified":1695886909,
     "wof:name":"Nopala de Villagr\u00e1n",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

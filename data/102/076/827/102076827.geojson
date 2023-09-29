@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002081,
-    "geom:area_square_m":24495471.997758,
+    "geom:area_square_m":24495348.148759,
     "geom:bbox":"-97.456245,17.779306,-97.400197,17.829086",
     "geom:latitude":17.805052,
     "geom:longitude":-97.429514,
@@ -113,8 +113,12 @@
         "inegi:id":"20256",
         "wd:id":"Q3888642"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"57ead0056d7adc744a7920e5dd4ea4bb",
+    "wof:geomhash":"47c74b35cd4d0829e8e9e4773ac85792",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076827,
-    "wof:lastmodified":1690846715,
+    "wof:lastmodified":1695886893,
     "wof:name":"San Mateo Tlapiltepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

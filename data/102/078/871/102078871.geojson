@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067645,
-    "geom:area_square_m":744464922.337166,
+    "geom:area_square_m":744465508.503373,
     "geom:bbox":"-101.497383,27.006986,-100.942332,27.279162",
     "geom:latitude":27.122395,
     "geom:longitude":-101.245782,
@@ -122,8 +122,12 @@
         "inegi:id":"05001",
         "wd:id":"Q3846431"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"00ceecd8a30fb5d6e87790a0200cfaa3",
+    "wof:geomhash":"78d0babb69c9fc9d30a5d7ed96127d29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102078871,
-    "wof:lastmodified":1690846869,
+    "wof:lastmodified":1695886650,
     "wof:name":"Abasolo",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

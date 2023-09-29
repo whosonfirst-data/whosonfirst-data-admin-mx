@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008244,
-    "geom:area_square_m":96190600.381047,
+    "geom:area_square_m":96190463.319085,
     "geom:bbox":"-99.324356,19.23261,-99.171706,19.403743",
     "geom:latitude":19.336176,
     "geom:longitude":-99.24682,
@@ -76,8 +76,12 @@
         "hasc:id":"MX.DF.AO",
         "inegi:id":"09010"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a909567206b390c820c0bb1ea46ea7b8",
+    "wof:geomhash":"444b83d4362f15f05d278f61de38baa0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":102073741,
-    "wof:lastmodified":1625076035,
+    "wof:lastmodified":1695886651,
     "wof:name":"Alvaro Obregon",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

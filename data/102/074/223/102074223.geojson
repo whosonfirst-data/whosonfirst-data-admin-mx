@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007485,
-    "geom:area_square_m":87170909.994245,
+    "geom:area_square_m":87170851.822458,
     "geom:bbox":"-98.997231,19.583323,-98.840753,19.69023",
     "geom:latitude":19.633776,
     "geom:longitude":-98.919866,
@@ -152,8 +152,12 @@
         "inegi:id":"15002",
         "wd:id":"Q1862947"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e08ed787e7fd58ffc188be77bbc59aaa",
+    "wof:geomhash":"839d0e6071616c2127f3897562365376",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":102074223,
-    "wof:lastmodified":1690847103,
+    "wof:lastmodified":1695886049,
     "wof:name":"Acolman",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004374,
-    "geom:area_square_m":50922395.275285,
+    "geom:area_square_m":50922395.275163,
     "geom:bbox":"-97.1992490079,19.6463296555,-97.1027124844,19.7613341187",
     "geom:latitude":19.703865,
     "geom:longitude":-97.149903,
@@ -82,8 +82,12 @@
         "hasc:id":"MX.VE.MI",
         "inegi:id":"30107"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5a45a5fce82408aa0623910fbdbe3972",
+    "wof:geomhash":"93857b173742ef21a7741f159f6ecbac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":102077615,
-    "wof:lastmodified":1566615391,
+    "wof:lastmodified":1695886881,
     "wof:name":"Las Minas",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

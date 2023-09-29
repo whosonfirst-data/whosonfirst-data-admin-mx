@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.565208,
-    "geom:area_square_m":6001414933.911145,
+    "geom:area_square_m":6001414622.735609,
     "geom:bbox":"-106.310304,30.292798,-104.866487,31.45818",
     "geom:latitude":30.82727,
     "geom:longitude":-105.64051,
@@ -143,8 +143,12 @@
         "inegi:id":"08028",
         "wd:id":"Q2997100"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7cc70b2220e382706faba7dfc7da7a11",
+    "wof:geomhash":"93be39ada3048a6badbde4aaa81ab7c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":102075241,
-    "wof:lastmodified":1690847207,
+    "wof:lastmodified":1695886136,
     "wof:name":"Guadalupe",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

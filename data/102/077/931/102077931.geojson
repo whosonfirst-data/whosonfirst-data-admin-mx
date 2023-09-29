@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004511,
-    "geom:area_square_m":52660647.426147,
+    "geom:area_square_m":52660647.425887,
     "geom:bbox":"-98.3780386903,19.1686618843,-98.2978382101,19.2924375281",
     "geom:latitude":19.233315,
     "geom:longitude":-98.331962,
@@ -87,8 +87,12 @@
         "hasc:id":"MX.TL.NA",
         "inegi:id":"29023"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"787a2c6c71dfd6c0ca45405fc589ad94",
+    "wof:geomhash":"de6f58a9e6ed94d235d8810d14b4b342",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":102077931,
-    "wof:lastmodified":1566615295,
+    "wof:lastmodified":1695886856,
     "wof:name":"Nat\u00edvitas",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

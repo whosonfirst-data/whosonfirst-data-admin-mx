@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019414,
-    "geom:area_square_m":221368224.632028,
+    "geom:area_square_m":221368163.065165,
     "geom:bbox":"-102.40292,22.676173,-102.217318,22.834525",
     "geom:latitude":22.755629,
     "geom:longitude":-102.312003,
@@ -120,8 +120,12 @@
         "inegi:id":"32057",
         "wd:id":"Q4461963"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"514c6bd775be76ff8c455c56f9871404",
+    "wof:geomhash":"c817903c94ca211a56292c40c936e76e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":102075431,
-    "wof:lastmodified":1690847173,
+    "wof:lastmodified":1695886111,
     "wof:name":"Trancoso",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

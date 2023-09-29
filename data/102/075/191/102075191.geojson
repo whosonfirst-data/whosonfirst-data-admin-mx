@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128341,
-    "geom:area_square_m":1435974952.21739,
+    "geom:area_square_m":1435974839.296841,
     "geom:bbox":"-104.825115,24.956175,-104.356642,25.428196",
     "geom:latitude":25.195304,
     "geom:longitude":-104.561624,
@@ -287,8 +287,12 @@
         "inegi:id":"10024",
         "wd:id":"Q207703"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"da0887510449628fe363b03ff5932c2d",
+    "wof:geomhash":"2a0f3e5336d2f8a694780e65996ae5ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -298,7 +302,7 @@
         }
     ],
     "wof:id":102075191,
-    "wof:lastmodified":1690847194,
+    "wof:lastmodified":1695886528,
     "wof:name":"Rodeo",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

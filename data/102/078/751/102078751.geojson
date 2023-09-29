@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.311842,
-    "geom:area_square_m":3434137222.784113,
+    "geom:area_square_m":3434137068.888383,
     "geom:bbox":"-100.834123,26.632173,-99.959709,27.392685",
     "geom:latitude":27.050841,
     "geom:longitude":-100.418216,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.NL.LN",
         "inegi:id":"19032"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4dc0c4b433986f5eac153d0853aee23d",
+    "wof:geomhash":"1eb20cdda6d45006e86cadb2b14a14b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102078751,
-    "wof:lastmodified":1625076027,
+    "wof:lastmodified":1695886649,
     "wof:name":"Lampazos de Naranjo",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

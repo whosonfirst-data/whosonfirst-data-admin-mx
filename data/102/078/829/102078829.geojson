@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065286,
-    "geom:area_square_m":717825923.707449,
+    "geom:area_square_m":717825499.986519,
     "geom:bbox":"-101.997911,26.972953,-101.520541,27.489977",
     "geom:latitude":27.227732,
     "geom:longitude":-101.765426,
@@ -134,8 +134,12 @@
         "inegi:id":"05021",
         "wd:id":"Q3850542"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"ba5c414ea9a5e89aefb3ff0ae72e10e6",
+    "wof:geomhash":"ab23fab48803e94cebe13ab795b47e32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102078829,
-    "wof:lastmodified":1690846810,
+    "wof:lastmodified":1695886908,
     "wof:name":"Nadadores",
     "wof:parent_id":85686689,
     "wof:placetype":"county",

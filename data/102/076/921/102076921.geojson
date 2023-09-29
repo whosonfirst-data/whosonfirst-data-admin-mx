@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064538,
-    "geom:area_square_m":756992975.567408,
+    "geom:area_square_m":756992975.567164,
     "geom:bbox":"-96.7097071288,18.3003788503,-96.3173279106,18.6021309393",
     "geom:latitude":18.452153,
     "geom:longitude":-96.539565,
@@ -111,8 +111,12 @@
         "inegi:id":"20002",
         "wd:id":"Q405809"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"aea20e735811a3db50c8333f05daecfb",
+    "wof:geomhash":"2a4168ed82a99be3df418338f6dc4f20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":102076921,
-    "wof:lastmodified":1566615511,
+    "wof:lastmodified":1695886902,
     "wof:name":"Acatl\u00e1n de P\u00e9rez Figueroa",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118412,
-    "geom:area_square_m":1236195021.241135,
+    "geom:area_square_m":1236195020.423122,
     "geom:bbox":"-117.261572,32.185218,-116.523988,32.570946",
     "geom:latitude":32.404061,
     "geom:longitude":-116.819829,
@@ -172,8 +172,12 @@
         "inegi:id":"02004",
         "wd:id":"Q2360428"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"83a005ea245c34ce31a3d34f67e2856a",
+    "wof:geomhash":"9acc4b9400f217db2c366b0142afd1ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":102074501,
-    "wof:lastmodified":1690847085,
+    "wof:lastmodified":1695886028,
     "wof:name":"Tijuana",
     "wof:parent_id":85686541,
     "wof:placetype":"county",

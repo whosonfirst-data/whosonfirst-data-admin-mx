@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019236,
-    "geom:area_square_m":225495686.909746,
+    "geom:area_square_m":225495686.909485,
     "geom:bbox":"-97.6473010739,18.4417420103,-97.4563307587,18.6648164086",
     "geom:latitude":18.553896,
     "geom:longitude":-97.543016,
@@ -98,8 +98,12 @@
         "inegi:id":"21161",
         "wd:id":"Q3888252"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"36311cf0dd57302427b452fafbfb6045",
+    "wof:geomhash":"70d1c9ed658f4a0fc6882c4e76802ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102078339,
-    "wof:lastmodified":1566615528,
+    "wof:lastmodified":1695886906,
     "wof:name":"Tepanco de L\u00f3pez",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

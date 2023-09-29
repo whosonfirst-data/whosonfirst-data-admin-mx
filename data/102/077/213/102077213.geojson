@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04671,
-    "geom:area_square_m":536960569.810813,
+    "geom:area_square_m":536960569.810888,
     "geom:bbox":"-99.7986565139,21.4472769423,-99.4836723412,21.7484777481",
     "geom:latitude":21.614933,
     "geom:longitude":-99.609497,
@@ -104,8 +104,12 @@
         "inegi:id":"24019",
         "wd:id":"Q446665"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c3c832f3dc75302efc24f0e58e63bea0",
+    "wof:geomhash":"10a0e408ab75be2f69fdc4b477874a09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102077213,
-    "wof:lastmodified":1566615395,
+    "wof:lastmodified":1695886882,
     "wof:name":"Lagunillas",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

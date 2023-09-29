@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025611,
-    "geom:area_square_m":299177089.140099,
+    "geom:area_square_m":299176853.965452,
     "geom:bbox":"-99.163293,19.048237,-98.952386,19.227705",
     "geom:latitude":19.139457,
     "geom:longitude":-99.051095,
@@ -150,8 +150,12 @@
         "inegi:id":"09009",
         "wd:id":"Q936087"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"abdacd63684745c53fddad2cfb9b6c6f",
+    "wof:geomhash":"e690b8e04d076ef1f9d5039c390384c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":102073763,
-    "wof:lastmodified":1690846998,
+    "wof:lastmodified":1695886941,
     "wof:name":"Milpa Alta",
     "wof:parent_id":85686515,
     "wof:placetype":"county",

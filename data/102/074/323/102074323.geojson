@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376743,
-    "geom:area_square_m":4177870490.900569,
+    "geom:area_square_m":4177870677.604717,
     "geom:bbox":"-109.042583,25.816649,-108.260515,26.658003",
     "geom:latitude":26.255321,
     "geom:longitude":-108.678997,
@@ -161,8 +161,12 @@
         "inegi:id":"25010",
         "wd:id":"Q2323234"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f782a00925da9b24d50877bdbbae2ee3",
+    "wof:geomhash":"c0d6d6eb929f29f68eb02c1262d4d242",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":102074323,
-    "wof:lastmodified":1690847075,
+    "wof:lastmodified":1695886515,
     "wof:name":"El Fuerte",
     "wof:parent_id":85686535,
     "wof:placetype":"county",

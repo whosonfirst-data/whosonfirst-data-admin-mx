@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008843,
-    "geom:area_square_m":103279201.303095,
+    "geom:area_square_m":103279061.151954,
     "geom:bbox":"-99.735096,19.116306,-99.536634,19.221168",
     "geom:latitude":19.16553,
     "geom:longitude":-99.643275,
@@ -137,8 +137,12 @@
         "inegi:id":"15018",
         "wd:id":"Q3300431"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"48d8225f4d99d51b3c2bd8731856a43a",
+    "wof:geomhash":"a1c4153c7713e119072e78ef4dc906b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":102074189,
-    "wof:lastmodified":1690847074,
+    "wof:lastmodified":1695886019,
     "wof:name":"Calimaya",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

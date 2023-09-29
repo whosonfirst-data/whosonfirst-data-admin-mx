@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001057,
-    "geom:area_square_m":12500068.330858,
+    "geom:area_square_m":12500068.330854,
     "geom:bbox":"-96.6645383446,16.9861585086,-96.60831529,17.0245588187",
     "geom:latitude":17.002411,
     "geom:longitude":-96.636151,
@@ -101,8 +101,12 @@
         "inegi:id":"20078",
         "wd:id":"Q4358462"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6a8e38ceb24a9c6a368f88d1bd48640b",
+    "wof:geomhash":"9f6750c298e257b1236d13855699cc42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102075935,
-    "wof:lastmodified":1566616137,
+    "wof:lastmodified":1695886130,
     "wof:name":"Rojas de Cuauht\u00e9moc",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

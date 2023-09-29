@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033108,
-    "geom:area_square_m":387066374.146871,
+    "geom:area_square_m":387066117.870709,
     "geom:bbox":"-99.503503,18.877569,-99.29527,19.12513",
     "geom:latitude":19.009234,
     "geom:longitude":-99.396416,
@@ -144,8 +144,12 @@
         "inegi:id":"15063",
         "wd:id":"Q3308528"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"269b8f0a6643f4c771b267119accc8e5",
+    "wof:geomhash":"980e1227ab6f979e0bfab81ce5e2e8ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":102074095,
-    "wof:lastmodified":1690847115,
+    "wof:lastmodified":1695886059,
     "wof:name":"Ocuilan",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

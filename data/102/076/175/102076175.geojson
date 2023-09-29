@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010892,
-    "geom:area_square_m":129247990.600092,
+    "geom:area_square_m":129247990.599962,
     "geom:bbox":"-98.5527073335,16.2734996643,-98.3992845648,16.3857934429",
     "geom:latitude":16.333093,
     "geom:longitude":-98.465979,
@@ -104,8 +104,12 @@
         "inegi:id":"20485",
         "wd:id":"Q4967211"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3ab80cc5286e9fde5e89f1ff6f854f55",
+    "wof:geomhash":"60092d2192b75e1209a05cc7ab566f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102076175,
-    "wof:lastmodified":1566615470,
+    "wof:lastmodified":1695886896,
     "wof:name":"Santiago Tapextla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00403,
-    "geom:area_square_m":47301739.693174,
+    "geom:area_square_m":47301739.69316,
     "geom:bbox":"-97.3404999024,18.312074589,-97.2585211119,18.4038524432",
     "geom:latitude":18.356344,
     "geom:longitude":-97.300369,
@@ -135,8 +135,12 @@
         "inegi:id":"21013",
         "wd:id":"Q24832"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f504683eac5a3f33eb0a39d71a9017cb",
+    "wof:geomhash":"e7a74afdebb60df4fb9692e52c0b1749",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":102078021,
-    "wof:lastmodified":1566615619,
+    "wof:lastmodified":1695886930,
     "wof:name":"Altepexi",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

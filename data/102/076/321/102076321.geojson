@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000598,
-    "geom:area_square_m":7084451.467753,
+    "geom:area_square_m":7084355.583348,
     "geom:bbox":"-96.879573,16.586101,-96.839393,16.623314",
     "geom:latitude":16.601052,
     "geom:longitude":-96.860629,
@@ -122,8 +122,12 @@
         "inegi:id":"20101",
         "wd:id":"Q3890012"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e98b09c7af8cedf209502ddf85bc2e42",
+    "wof:geomhash":"e162a614c5f88c96fd7e4d567f786052",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102076321,
-    "wof:lastmodified":1690846791,
+    "wof:lastmodified":1695886902,
     "wof:name":"San Andr\u00e9s Zabache",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

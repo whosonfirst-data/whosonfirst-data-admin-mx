@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046962,
-    "geom:area_square_m":549023961.428871,
+    "geom:area_square_m":549023821.261431,
     "geom:bbox":"-98.294124,18.83678,-98.020232,19.230938",
     "geom:latitude":19.00862,
     "geom:longitude":-98.175535,
@@ -124,8 +124,12 @@
         "inegi:id":"21114",
         "wd:id":"Q7258412"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5ab385fa16be1e35652e71cf601afb63",
+    "wof:geomhash":"c6cce81a34504d32e32640ead51d0218",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":102078237,
-    "wof:lastmodified":1690846884,
+    "wof:lastmodified":1695886933,
     "wof:name":"Puebla",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

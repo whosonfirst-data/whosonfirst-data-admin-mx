@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245675,
-    "geom:area_square_m":2671708183.832364,
+    "geom:area_square_m":2671708183.83234,
     "geom:bbox":"-109.366947165,28.1815318597,-108.479701011,28.6448841592",
     "geom:latitude":28.419835,
     "geom:longitude":-108.965248,
@@ -82,8 +82,12 @@
         "hasc:id":"MX.SO.YE",
         "inegi:id":"26069"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a05e18dcbae52702ab80be43f151ea6d",
+    "wof:geomhash":"d796d1717e2ff39354b03cd7d5e72ae3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":102074459,
-    "wof:lastmodified":1566615983,
+    "wof:lastmodified":1695886065,
     "wof:name":"Y\u00e9cora",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

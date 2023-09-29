@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005916,
-    "geom:area_square_m":69665211.962999,
+    "geom:area_square_m":69665095.38108,
     "geom:bbox":"-97.114699,17.694823,-97.009516,17.802438",
     "geom:latitude":17.759253,
     "geom:longitude":-97.071497,
@@ -104,8 +104,12 @@
         "inegi:id":"20313",
         "wd:id":"Q3890027"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"291874361278580ca7b2f14e7154230a",
+    "wof:geomhash":"d266dcb54d5c327979550b60d573ffbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102076873,
-    "wof:lastmodified":1625076013,
+    "wof:lastmodified":1695886641,
     "wof:name":"San Pedro Jocotipac",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017275,
-    "geom:area_square_m":203540664.176358,
+    "geom:area_square_m":203540315.26125,
     "geom:bbox":"-96.704418,17.557803,-96.516706,17.788293",
     "geom:latitude":17.662726,
     "geom:longitude":-96.626249,
@@ -110,8 +110,12 @@
         "inegi:id":"20214",
         "wd:id":"Q985856"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"88450ade9d229aafb02de4bc865b8e33",
+    "wof:geomhash":"1bad541b92d06118d04a77a7a1085be0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102076431,
-    "wof:lastmodified":1690846732,
+    "wof:lastmodified":1695886895,
     "wof:name":"San Juan Quiotepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

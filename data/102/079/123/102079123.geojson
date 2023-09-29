@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011673,
-    "geom:area_square_m":134959303.570215,
+    "geom:area_square_m":134959153.802522,
     "geom:bbox":"-89.587133,20.601731,-89.481007,20.883631",
     "geom:latitude":20.766118,
     "geom:longitude":-89.535641,
@@ -124,8 +124,12 @@
         "inegi:id":"31090",
         "wd:id":"Q2588085"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5d134a47647a444dcfa740b38ab088ef",
+    "wof:geomhash":"0b632d434b8d9464984914682c3aa4cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":102079123,
-    "wof:lastmodified":1690846591,
+    "wof:lastmodified":1695886855,
     "wof:name":"Timucuy",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

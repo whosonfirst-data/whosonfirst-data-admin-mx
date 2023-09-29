@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045951,
-    "geom:area_square_m":532611796.226692,
+    "geom:area_square_m":532611665.885282,
     "geom:bbox":"-97.215726,20.2379,-96.784481,20.59983",
     "geom:latitude":20.385577,
     "geom:longitude":-97.025283,
@@ -122,8 +122,12 @@
         "inegi:id":"30158",
         "wd:id":"Q20270909"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"3114b37dc686666af64b1b0ea424c307",
+    "wof:geomhash":"7ea8a4d6f0f72e4ec27bafbfc41d7e87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102077725,
-    "wof:lastmodified":1690846635,
+    "wof:lastmodified":1695886867,
     "wof:name":"Tecolutla",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

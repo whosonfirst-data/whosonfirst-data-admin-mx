@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005413,
-    "geom:area_square_m":60291926.101315,
+    "geom:area_square_m":60291926.101323,
     "geom:bbox":"-100.336779,25.701224,-100.20378,25.77055",
     "geom:latitude":25.736056,
     "geom:longitude":-100.270691,
@@ -104,11 +104,15 @@
         "inegi:id":"19046",
         "wd:id":"Q914055"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         102000653
     ],
     "wof:country":"MX",
-    "wof:geomhash":"89affb3b8688807312b43bb3a282c91d",
+    "wof:geomhash":"ae854c1fae3e87ff763435b48d07444a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":102078723,
-    "wof:lastmodified":1690846845,
+    "wof:lastmodified":1695886648,
     "wof:name":"San Nicol\u00e1s de los Garza",
     "wof:parent_id":85686681,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079234,
-    "geom:area_square_m":925227594.443503,
+    "geom:area_square_m":925227398.606972,
     "geom:bbox":"-102.790812,18.99393,-102.411256,19.435157",
     "geom:latitude":19.203876,
     "geom:longitude":-102.583868,
@@ -122,8 +122,12 @@
         "inegi:id":"16012",
         "wd:id":"Q4985488"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1fb5e2e97d21e6be48130a2dbe78f63b",
+    "wof:geomhash":"ec91992e81d76246967729bab966932d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102074939,
-    "wof:lastmodified":1690847037,
+    "wof:lastmodified":1695885991,
     "wof:name":"Buenavista",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

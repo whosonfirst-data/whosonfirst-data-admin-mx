@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572508,
-    "geom:area_square_m":6416709212.87693,
+    "geom:area_square_m":6416709279.102326,
     "geom:bbox":"-106.616028,24.600065,-105.026087,25.44554",
     "geom:latitude":24.984157,
     "geom:longitude":-105.690422,
@@ -128,8 +128,12 @@
         "inegi:id":"10032",
         "wd:id":"Q2465593"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"432ba1525730ac593575993706ac3c79",
+    "wof:geomhash":"5fd0cce557baf5a9e1c631a22a4af998",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075205,
-    "wof:lastmodified":1690847176,
+    "wof:lastmodified":1695886113,
     "wof:name":"Santiago Papasquiaro",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

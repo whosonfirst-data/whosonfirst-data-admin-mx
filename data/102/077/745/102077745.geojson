@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019767,
-    "geom:area_square_m":227963590.199667,
+    "geom:area_square_m":227963590.199628,
     "geom:bbox":"-97.9678270925,21.0647795612,-97.7474746669,21.2381360262",
     "geom:latitude":21.148662,
     "geom:longitude":-97.863056,
@@ -92,8 +92,12 @@
         "inegi:id":"30167",
         "wd:id":"Q1181913"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b83f4f3a086f3c5c403f15b0b21d026b",
+    "wof:geomhash":"8213c476bc71128893848de2af765c20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":102077745,
-    "wof:lastmodified":1566615426,
+    "wof:lastmodified":1695886890,
     "wof:name":"Tepetzintla",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024969,
-    "geom:area_square_m":290118089.412364,
+    "geom:area_square_m":290118089.412172,
     "geom:bbox":"-101.908245784,19.9261436457,-101.645832459,20.1091996573",
     "geom:latitude":20.001745,
     "geom:longitude":-101.781651,
@@ -73,8 +73,12 @@
         "hasc:id":"MX.MC.PN",
         "inegi:id":"16063"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"398b784a2f4871ef4a031a4c54b40631",
+    "wof:geomhash":"9034a172143fa014db13180fd79ebbe7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102075085,
-    "wof:lastmodified":1566616076,
+    "wof:lastmodified":1695886103,
     "wof:name":"Panind\u00edcuaro",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

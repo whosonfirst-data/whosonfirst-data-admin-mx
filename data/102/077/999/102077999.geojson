@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015619,
-    "geom:area_square_m":181360944.041411,
+    "geom:area_square_m":181360929.656354,
     "geom:bbox":"-97.310278,20.009499,-97.122409,20.191206",
     "geom:latitude":20.109153,
     "geom:longitude":-97.229804,
@@ -146,8 +146,12 @@
         "inegi:id":"21002",
         "wd:id":"Q1998759"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f13af6db28148b9651befff82b23208e",
+    "wof:geomhash":"258128a8cc547fec0103579cca77d9a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102077999,
-    "wof:lastmodified":1690846605,
+    "wof:lastmodified":1695886859,
     "wof:name":"Acateno",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

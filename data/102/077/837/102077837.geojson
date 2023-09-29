@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025221,
-    "geom:area_square_m":295972805.789144,
+    "geom:area_square_m":295972805.789482,
     "geom:bbox":"-94.8965157806,18.1900002637,-94.6824715185,18.5087618785",
     "geom:latitude":18.368327,
     "geom:longitude":-94.787366,
@@ -91,8 +91,12 @@
         "inegi:id":"30209",
         "wd:id":"Q5665948"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2a6cf8ec0ca687e40e2ad434cc7e30f9",
+    "wof:geomhash":"01f418a1c20ee369334efb6902f8006f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":102077837,
-    "wof:lastmodified":1566615404,
+    "wof:lastmodified":1695886884,
     "wof:name":"Tatahuicapan de Ju\u00e1rez",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117234,
-    "geom:area_square_m":1239566161.08198,
+    "geom:area_square_m":1239566161.081805,
     "geom:bbox":"-110.360288961,31.0406625404,-109.662895556,31.3341382464",
     "geom:latitude":31.229499,
     "geom:longitude":-109.957208,
@@ -109,8 +109,12 @@
         "hasc:id":"MX.SO.NA",
         "inegi:id":"26039"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"52e338c207da4d668bb188ab41334871",
+    "wof:geomhash":"9e637c0cc088a97735ed3fdf9e96ebbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":102074379,
-    "wof:lastmodified":1566615881,
+    "wof:lastmodified":1695886016,
     "wof:name":"Naco",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

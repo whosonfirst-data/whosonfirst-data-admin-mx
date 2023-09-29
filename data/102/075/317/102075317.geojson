@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.086726,
-    "geom:area_square_m":11665427645.785545,
+    "geom:area_square_m":11665426438.752581,
     "geom:bbox":"-105.909903,28.962167,-104.536631,30.508558",
     "geom:latitude":29.757039,
     "geom:longitude":-105.207784,
@@ -142,8 +142,12 @@
         "inegi:id":"08015",
         "wd:id":"Q3308551"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"df7baaeebdaab0a2a4db9c286a166836",
+    "wof:geomhash":"679d8576776530c748a48a2ef37f176b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":102075317,
-    "wof:lastmodified":1690847238,
+    "wof:lastmodified":1695886160,
     "wof:name":"Coyame del Sotol",
     "wof:parent_id":85686581,
     "wof:placetype":"county",

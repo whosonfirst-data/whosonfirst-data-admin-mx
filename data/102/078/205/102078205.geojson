@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005282,
-    "geom:area_square_m":61274956.999074,
+    "geom:area_square_m":61274914.642706,
     "geom:bbox":"-98.155245,20.170338,-98.050261,20.30555",
     "geom:latitude":20.245273,
     "geom:longitude":-98.102861,
@@ -119,8 +119,12 @@
         "inegi:id":"21100",
         "wd:id":"Q2614078"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d0c4ae07b8b826e0533361e48d4fb45a",
+    "wof:geomhash":"cc8a73e70b8e31a1090b5ceb0becbd52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102078205,
-    "wof:lastmodified":1690846833,
+    "wof:lastmodified":1695886915,
     "wof:name":"Naupan",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

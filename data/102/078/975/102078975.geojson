@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067384,
-    "geom:area_square_m":773621320.599981,
+    "geom:area_square_m":773621067.559443,
     "geom:bbox":"-92.0816,21.14214,-89.487339,22.6138",
     "geom:latitude":21.792182,
     "geom:longitude":-89.674016,
@@ -152,8 +152,12 @@
         "inegi:id":"31059",
         "wd:id":"Q2448553"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"0875ed045b48aa008fd2672808e94c9e",
+    "wof:geomhash":"cfe24793302f819d2330fd5da063701b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":102078975,
-    "wof:lastmodified":1690846899,
+    "wof:lastmodified":1695886508,
     "wof:name":"Progreso",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

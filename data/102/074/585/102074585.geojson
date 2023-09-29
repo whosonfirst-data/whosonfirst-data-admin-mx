@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163513,
-    "geom:area_square_m":1885907894.624121,
+    "geom:area_square_m":1885907560.830769,
     "geom:bbox":"-105.372315,20.854136,-104.789442,21.373356",
     "geom:latitude":21.131371,
     "geom:longitude":-105.056748,
@@ -188,8 +188,12 @@
         "inegi:id":"18004",
         "wd:id":"Q2651919"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e3db2a0a6a9eff269b34e8b6869b3d23",
+    "wof:geomhash":"19aff77a700b6c481feae7ad8a2e2750",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -199,7 +203,7 @@
         }
     ],
     "wof:id":102074585,
-    "wof:lastmodified":1690847125,
+    "wof:lastmodified":1695886518,
     "wof:name":"Compostela",
     "wof:parent_id":85686591,
     "wof:placetype":"county",

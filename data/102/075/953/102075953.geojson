@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004426,
-    "geom:area_square_m":52276092.60138,
+    "geom:area_square_m":52275584.249844,
     "geom:bbox":"-96.804315,17.195524,-96.705436,17.283478",
     "geom:latitude":17.237998,
     "geom:longitude":-96.759142,
@@ -104,8 +104,12 @@
         "inegi:id":"20178",
         "wd:id":"Q1656594"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bb7c08c20406ae7186f13afaae33762e",
+    "wof:geomhash":"1394984ea91bc1a57001dc0db579ed5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102075953,
-    "wof:lastmodified":1690847144,
+    "wof:lastmodified":1695886088,
     "wof:name":"San Juan Bautista Guelache",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

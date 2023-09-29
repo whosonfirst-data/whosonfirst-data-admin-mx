@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013885,
-    "geom:area_square_m":161989340.293907,
+    "geom:area_square_m":161989340.293932,
     "geom:bbox":"-98.4873048096,19.2702155106,-98.3000138094,19.4234098617",
     "geom:latitude":19.356113,
     "geom:longitude":-98.383303,
@@ -101,8 +101,12 @@
         "inegi:id":"29015",
         "wd:id":"Q3890292"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"4a8272ed2d6c423e181594ea9acade88",
+    "wof:geomhash":"3430dc3e15322f7569c50c601ee19ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102077947,
-    "wof:lastmodified":1566615356,
+    "wof:lastmodified":1695886870,
     "wof:name":"Ixtacuixtla de Mariano Matamoros",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

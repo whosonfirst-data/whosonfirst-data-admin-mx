@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006863,
-    "geom:area_square_m":79969318.032327,
+    "geom:area_square_m":79969318.032315,
     "geom:bbox":"-99.5244765222,19.5111409184,-99.3312953072,19.5923519553",
     "geom:latitude":19.554243,
     "geom:longitude":-99.440376,
@@ -134,8 +134,12 @@
         "inegi:id":"15038",
         "wd:id":"Q3317367"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"1208da9de62abe42e6455749f8d735dd",
+    "wof:geomhash":"fd145440ae1e5008f829d537e5c25992",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102074145,
-    "wof:lastmodified":1566615886,
+    "wof:lastmodified":1695886017,
     "wof:name":"Isidro Fabela",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

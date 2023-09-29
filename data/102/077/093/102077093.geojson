@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061914,
-    "geom:area_square_m":714053186.002321,
+    "geom:area_square_m":714053186.001779,
     "geom:bbox":"-99.7158484957,20.9748930261,-99.4291927006,21.3581134049",
     "geom:latitude":21.141742,
     "geom:longitude":-99.592688,
@@ -123,8 +123,12 @@
         "inegi:id":"22002",
         "wd:id":"Q3844949"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"176cdf4a71eac23ccb2c9f77db65d31c",
+    "wof:geomhash":"2e24225833c4ad338493f8c4ccfd724c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":102077093,
-    "wof:lastmodified":1566615411,
+    "wof:lastmodified":1695886885,
     "wof:name":"Pinal de Amoles",
     "wof:parent_id":85686641,
     "wof:placetype":"county",

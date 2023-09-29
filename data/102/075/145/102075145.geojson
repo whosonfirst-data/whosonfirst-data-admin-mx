@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214886,
-    "geom:area_square_m":2414999769.46689,
+    "geom:area_square_m":2414999302.380818,
     "geom:bbox":"-103.056306,24.373972,-102.472697,25.066636",
     "geom:latitude":24.647526,
     "geom:longitude":-102.718036,
@@ -72,8 +72,12 @@
         "hasc:id":"MX.DU.SJ",
         "inegi:id":"10027"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"d610860d5d2836b6309a0aeb4c1b6f55",
+    "wof:geomhash":"3d8fec2df591d9ecf8251ab5ec2a6beb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102075145,
-    "wof:lastmodified":1642551773,
+    "wof:lastmodified":1695886516,
     "wof:name":"San Juan de Guadalupe",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

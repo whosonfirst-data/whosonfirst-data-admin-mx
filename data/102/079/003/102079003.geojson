@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029431,
-    "geom:area_square_m":338489840.441293,
+    "geom:area_square_m":338489798.175229,
     "geom:bbox":"-88.208926,21.409842,-87.861578,21.625088",
     "geom:latitude":21.547225,
     "geom:longitude":-88.084497,
@@ -129,8 +129,12 @@
         "inegi:id":"31061",
         "wd:id":"Q2466579"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c64899d3e1411b87dfc91ab79e04171b",
+    "wof:geomhash":"277e568d023ca51d641de4e7b0bffd49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":102079003,
-    "wof:lastmodified":1690846584,
+    "wof:lastmodified":1695886854,
     "wof:name":"R\u00edo Lagartos",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

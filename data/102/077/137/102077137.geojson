@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016656,
-    "geom:area_square_m":191718481.679918,
+    "geom:area_square_m":191718481.679931,
     "geom:bbox":"-98.9566222736,21.336024412,-98.7803150311,21.5114725806",
     "geom:latitude":21.42618,
     "geom:longitude":-98.869213,
@@ -113,8 +113,12 @@
         "inegi:id":"24053",
         "wd:id":"Q8210643"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"7a368600903ed1d2476cd1ebfb5e6c6a",
+    "wof:geomhash":"fb1d62ad274d1542608d05819d20170c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102077137,
-    "wof:lastmodified":1566615379,
+    "wof:lastmodified":1695886876,
     "wof:name":"Axtla de Terrazas",
     "wof:parent_id":85686647,
     "wof:placetype":"county",

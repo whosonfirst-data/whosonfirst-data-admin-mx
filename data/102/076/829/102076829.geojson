@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005745,
-    "geom:area_square_m":67816857.477162,
+    "geom:area_square_m":67816796.235821,
     "geom:bbox":"-97.540251,17.269989,-97.414889,17.34948",
     "geom:latitude":17.306615,
     "geom:longitude":-97.473524,
@@ -113,8 +113,12 @@
         "inegi:id":"20258",
         "wd:id":"Q3888554"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"34b1a39e5ae12085e95d21504c9bf4b2",
+    "wof:geomhash":"aa044ec7443ed539f072c9f7a0bbb64c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076829,
-    "wof:lastmodified":1690846716,
+    "wof:lastmodified":1695886893,
     "wof:name":"San Miguel Achiutla",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

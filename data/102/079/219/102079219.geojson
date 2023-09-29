@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.279357,
-    "geom:area_square_m":3253789555.971819,
+    "geom:area_square_m":3253791233.494766,
     "geom:bbox":"-91.978962,19.220936,-89.861139,20.20862",
     "geom:latitude":19.617014,
     "geom:longitude":-90.267644,
@@ -323,8 +323,12 @@
         "inegi:id":"04002",
         "wd:id":"Q2541946"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"f90f1fad83f8bc259e83c45440dd95df",
+    "wof:geomhash":"b7e846cac9e45caedd43297dea445ff1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -334,7 +338,7 @@
         }
     ],
     "wof:id":102079219,
-    "wof:lastmodified":1690846568,
+    "wof:lastmodified":1695886851,
     "wof:name":"Campeche",
     "wof:parent_id":85686707,
     "wof:placetype":"county",

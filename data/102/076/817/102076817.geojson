@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001999,
-    "geom:area_square_m":23581063.544561,
+    "geom:area_square_m":23581055.557051,
     "geom:bbox":"-97.295338,17.397953,-97.225289,17.449098",
     "geom:latitude":17.422588,
     "geom:longitude":-97.26291,
@@ -113,8 +113,12 @@
         "inegi:id":"20250",
         "wd:id":"Q4969029"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"553223f567c31c2cbf4b1f61adfd3ed0",
+    "wof:geomhash":"32134d88ec5d742a4a8e648c804844c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":102076817,
-    "wof:lastmodified":1690846722,
+    "wof:lastmodified":1695886893,
     "wof:name":"San Mateo Etlatongo",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

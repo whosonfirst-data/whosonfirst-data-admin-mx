@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022468,
-    "geom:area_square_m":260141687.485746,
+    "geom:area_square_m":260141520.473766,
     "geom:bbox":"-89.962883,20.464049,-89.745265,20.635073",
     "geom:latitude":20.551276,
     "geom:longitude":-89.846711,
@@ -124,8 +124,12 @@
         "inegi:id":"31055",
         "wd:id":"Q3293971"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2469f053639aaa3b51eb266d3b291785",
+    "wof:geomhash":"32299cf5c6467817f002a667262d25d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":102079013,
-    "wof:lastmodified":1690846567,
+    "wof:lastmodified":1695886851,
     "wof:name":"Opich\u00e9n",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

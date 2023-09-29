@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124954,
-    "geom:area_square_m":1402508183.291687,
+    "geom:area_square_m":1402508183.291553,
     "geom:bbox":"-104.707205991,24.5588266206,-104.250898266,25.0311015233",
     "geom:latitude":24.807353,
     "geom:longitude":-104.470401,
@@ -118,8 +118,12 @@
         "hasc:id":"MX.DU.SR",
         "inegi:id":"10028"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"b8c79bb0b91b9da68ee62a2925603adf",
+    "wof:geomhash":"a0e3c2d4d4823b30b0c2d045853356c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":102075197,
-    "wof:lastmodified":1566616148,
+    "wof:lastmodified":1695886131,
     "wof:name":"San Juan del R\u00edo",
     "wof:parent_id":85686573,
     "wof:placetype":"county",

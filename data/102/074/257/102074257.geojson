@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005146,
-    "geom:area_square_m":60164309.373823,
+    "geom:area_square_m":60164309.373869,
     "geom:bbox":"-98.9809692318,18.9524982325,-98.868036714,19.0396401049",
     "geom:latitude":19.000436,
     "geom:longitude":-98.918032,
@@ -114,8 +114,12 @@
         "inegi:id":"17027",
         "wd:id":"Q2991063"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"69c971014a6cf970ec031f69731e196f",
+    "wof:geomhash":"e6e7079dc5fc49948e1ca85589d3e7c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":102074257,
-    "wof:lastmodified":1566615841,
+    "wof:lastmodified":1695886005,
     "wof:name":"Totolapan",
     "wof:parent_id":85686531,
     "wof:placetype":"county",

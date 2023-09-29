@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012049,
-    "geom:area_square_m":141588696.245109,
+    "geom:area_square_m":141588696.245195,
     "geom:bbox":"-98.5568403952,18.0610246761,-98.3819509296,18.2375719013",
     "geom:latitude":18.139556,
     "geom:longitude":-98.47001,
@@ -98,8 +98,12 @@
         "inegi:id":"21056",
         "wd:id":"Q5097553"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"331082a4258c20fd39dce449a2ce32d0",
+    "wof:geomhash":"bea6aae5ea50a672f0a21454ba1b0723",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102078113,
-    "wof:lastmodified":1566615645,
+    "wof:lastmodified":1695886940,
     "wof:name":"Chila de la Sal",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

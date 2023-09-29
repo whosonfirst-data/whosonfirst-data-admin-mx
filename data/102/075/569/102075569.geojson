@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026329,
-    "geom:area_square_m":311847483.869297,
+    "geom:area_square_m":311847141.185499,
     "geom:bbox":"-92.517034,16.586979,-92.268366,16.779469",
     "geom:latitude":16.694277,
     "geom:longitude":-92.399634,
@@ -128,8 +128,12 @@
         "inegi:id":"07038",
         "wd:id":"Q1669354"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"5ffd308bb182f7d0561d94455432b6bc",
+    "wof:geomhash":"d12b3bbaafdc8e7e6ae3ea3db247aded",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":102075569,
-    "wof:lastmodified":1690847141,
+    "wof:lastmodified":1695886084,
     "wof:name":"Huixt\u00e1n",
     "wof:parent_id":85686611,
     "wof:placetype":"county",

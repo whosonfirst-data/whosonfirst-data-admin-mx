@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0246,
-    "geom:area_square_m":291894365.105664,
+    "geom:area_square_m":291894224.357568,
     "geom:bbox":"-97.787398,16.241775,-97.593358,16.476103",
     "geom:latitude":16.341691,
     "geom:longitude":-97.677433,
@@ -104,8 +104,12 @@
         "inegi:id":"20489",
         "wd:id":"Q3887632"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e19690022b61ecaddf1258defbcee958",
+    "wof:geomhash":"09c84a847a6157065a408fc47ddcc825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102076181,
-    "wof:lastmodified":1625076016,
+    "wof:lastmodified":1695886642,
     "wof:name":"Santiago Tetepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020645,
-    "geom:area_square_m":239700509.221503,
+    "geom:area_square_m":239700289.673151,
     "geom:bbox":"-99.188998,20.017919,-98.967831,20.195276",
     "geom:latitude":20.119826,
     "geom:longitude":-99.078028,
@@ -125,8 +125,12 @@
         "inegi:id":"13005",
         "wd:id":"Q27796637"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"e87db8399ed2c05afef75cf1856a4dee",
+    "wof:geomhash":"be00cea21749b4e79a62f1f7abfafcbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102078651,
-    "wof:lastmodified":1690846825,
+    "wof:lastmodified":1695886912,
     "wof:name":"Ajacuba",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

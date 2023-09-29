@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006767,
-    "geom:area_square_m":78083772.411718,
+    "geom:area_square_m":78083821.33989,
     "geom:bbox":"-89.118929,20.986471,-88.995902,21.12806",
     "geom:latitude":21.065643,
     "geom:longitude":-89.066102,
@@ -125,8 +125,12 @@
         "inegi:id":"31088",
         "wd:id":"Q2591063"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c8d9aab75873dacea7a6b62c4dd485b1",
+    "wof:geomhash":"602496b11942b12dc0d0f5e759873f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102079129,
-    "wof:lastmodified":1690846575,
+    "wof:lastmodified":1695886852,
     "wof:name":"Teya",
     "wof:parent_id":85686701,
     "wof:placetype":"county",

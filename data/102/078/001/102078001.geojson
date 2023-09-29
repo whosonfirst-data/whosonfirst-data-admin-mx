@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012063,
-    "geom:area_square_m":141015390.282219,
+    "geom:area_square_m":141015483.526028,
     "geom:bbox":"-97.827817,18.947519,-97.675493,19.112661",
     "geom:latitude":19.026111,
     "geom:longitude":-97.764983,
@@ -146,8 +146,12 @@
         "inegi:id":"21004",
         "wd:id":"Q1998719"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"29f8661af05f60afc66fbd99dfe2d77a",
+    "wof:geomhash":"30d9b064190e3e422ac11d24f4fe68c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":102078001,
-    "wof:lastmodified":1690846834,
+    "wof:lastmodified":1695886915,
     "wof:name":"Acatzingo",
     "wof:parent_id":85686657,
     "wof:placetype":"county",

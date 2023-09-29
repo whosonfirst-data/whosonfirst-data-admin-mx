@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.026859,
-    "geom:area_square_m":123631899425.119385,
+    "geom:area_square_m":123631901523.641556,
     "geom:bbox":"-107.210132,22.345084,-102.472697,26.844876",
     "geom:latitude":24.92361,
     "geom:longitude":-104.913399,
@@ -429,12 +429,18 @@
         "gn:id":4011741,
         "gp:id":2346273,
         "hasc:id":"MX.DU",
+        "inegi:id":"10",
+        "iso:code":"MX-DUR",
         "iso:id":"MX-DUR",
         "unlc:id":"MX-DUR",
         "wd:id":"Q79918"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"a3353d174dc518eab8c44d24a0300322",
+    "wof:geomhash":"60235886d0af5dbd07e06ae31b293c04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -449,7 +455,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690847283,
+    "wof:lastmodified":1695884650,
     "wof:name":"Durango",
     "wof:parent_id":85633293,
     "wof:placetype":"region",

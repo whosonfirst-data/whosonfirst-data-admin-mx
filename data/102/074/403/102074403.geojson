@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035925,
-    "geom:area_square_m":386190866.276474,
+    "geom:area_square_m":386190872.331063,
     "geom:bbox":"-109.523889,29.523211,-109.225319,29.726222",
     "geom:latitude":29.615408,
     "geom:longitude":-109.376811,
@@ -104,8 +104,12 @@
         "inegi:id":"26024",
         "wd:id":"Q3844435"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"60d16d7bc74c97653048736e3fe7fa2f",
+    "wof:geomhash":"bf40a51c86d102516f01934b6bb8fb16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102074403,
-    "wof:lastmodified":1690847122,
+    "wof:lastmodified":1695886067,
     "wof:name":"Divisaderos",
     "wof:parent_id":85686549,
     "wof:placetype":"county",

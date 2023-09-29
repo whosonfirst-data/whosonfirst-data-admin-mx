@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008844,
-    "geom:area_square_m":103129065.924015,
+    "geom:area_square_m":103129065.923919,
     "geom:bbox":"-98.2998430054,19.3545724311,-98.1770161373,19.4835753018",
     "geom:latitude":19.430203,
     "geom:longitude":-98.239565,
@@ -78,8 +78,12 @@
         "hasc:id":"MX.TL.XL",
         "inegi:id":"29040"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"05349fd75c27084038afbb1d6a6ece4a",
+    "wof:geomhash":"d2efc6504dfe5c5b15e041d1bc1a9884",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":102077893,
-    "wof:lastmodified":1566615341,
+    "wof:lastmodified":1695886866,
     "wof:name":"Xaltocan",
     "wof:parent_id":85686653,
     "wof:placetype":"county",

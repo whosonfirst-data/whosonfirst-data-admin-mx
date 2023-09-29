@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057172,
-    "geom:area_square_m":662679683.971202,
+    "geom:area_square_m":662679258.58179,
     "geom:bbox":"-99.859106,20.268471,-99.495767,20.512406",
     "geom:latitude":20.383817,
     "geom:longitude":-99.680734,
@@ -141,8 +141,12 @@
         "inegi:id":"13029",
         "wd:id":"Q2475111"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"2015a6de56513c9367de4b5f4360bdb2",
+    "wof:geomhash":"d3e7e9853056261e720b6ec559ed35cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":102078593,
-    "wof:lastmodified":1690846797,
+    "wof:lastmodified":1695886904,
     "wof:name":"Huichapan",
     "wof:parent_id":85686665,
     "wof:placetype":"county",

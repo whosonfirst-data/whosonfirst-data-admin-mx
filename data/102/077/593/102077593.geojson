@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007191,
-    "geom:area_square_m":84250779.372599,
+    "geom:area_square_m":84250779.372668,
     "geom:bbox":"-95.5614426544,18.6038092931,-95.4367974644,18.7148218695",
     "geom:latitude":18.656587,
     "geom:longitude":-95.500587,
@@ -105,8 +105,12 @@
         "hasc:id":"MX.VE.LT",
         "inegi:id":"30097"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"8d0c25ca6ddef2f5aa4400e561dd2bac",
+    "wof:geomhash":"a7e72b07397a612b89e5ac0a9620d251",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":102077593,
-    "wof:lastmodified":1566615297,
+    "wof:lastmodified":1695886856,
     "wof:name":"Lerdo de Tejada",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

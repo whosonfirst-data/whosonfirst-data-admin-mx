@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.733586,
-    "geom:area_square_m":8600908918.976404,
+    "geom:area_square_m":8600908138.033823,
     "geom:bbox":"-92.46879,17.873954,-90.795428,19.032326",
     "geom:latitude":18.524042,
     "geom:longitude":-91.483228,
@@ -254,8 +254,12 @@
         "inegi:id":"04003",
         "wd:id":"Q2720137"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"6d6440ec6c6132df86a1a58635a3cfee",
+    "wof:geomhash":"f4ef0d5ba61fdf2a2ef8200ec63a6f66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -265,7 +269,7 @@
         }
     ],
     "wof:id":102079211,
-    "wof:lastmodified":1690846565,
+    "wof:lastmodified":1695886850,
     "wof:name":"Carmen",
     "wof:parent_id":85686707,
     "wof:placetype":"county",

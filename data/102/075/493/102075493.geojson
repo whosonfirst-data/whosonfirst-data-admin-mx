@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038812,
-    "geom:area_square_m":442623022.584749,
+    "geom:area_square_m":442622676.115265,
     "geom:bbox":"-102.849731,22.61718,-102.539319,22.841472",
     "geom:latitude":22.735735,
     "geom:longitude":-102.678079,
@@ -308,8 +308,12 @@
         "inegi:id":"32056",
         "wd:id":"Q2645207"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"695cbe523ec42b90ad37a9fe85242003",
+    "wof:geomhash":"a191d2a3f58f05e82e20913ef22d3cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -319,7 +323,7 @@
         }
     ],
     "wof:id":102075493,
-    "wof:lastmodified":1690847218,
+    "wof:lastmodified":1695886144,
     "wof:name":"Zacatecas",
     "wof:parent_id":85686567,
     "wof:placetype":"county",

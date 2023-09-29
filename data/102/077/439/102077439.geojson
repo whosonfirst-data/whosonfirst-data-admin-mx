@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001705,
-    "geom:area_square_m":19858215.198349,
+    "geom:area_square_m":19858177.942092,
     "geom:bbox":"-96.98878,19.566679,-96.8972,19.612407",
     "geom:latitude":19.586786,
     "geom:longitude":-96.94294,
@@ -125,8 +125,12 @@
         "inegi:id":"30026",
         "wd:id":"Q4854534"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"c3d801edf957b9b42912c56f756dad90",
+    "wof:geomhash":"48c1c032bf4262dd2a8e6229abadf9d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":102077439,
-    "wof:lastmodified":1690846622,
+    "wof:lastmodified":1695886863,
     "wof:name":"Banderilla",
     "wof:parent_id":85686671,
     "wof:placetype":"county",

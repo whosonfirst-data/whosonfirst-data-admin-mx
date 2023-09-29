@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000704,
-    "geom:area_square_m":8339859.561044,
+    "geom:area_square_m":8339859.561065,
     "geom:bbox":"-96.7431954227,16.641138767,-96.7095882718,16.6769689582",
     "geom:latitude":16.656054,
     "geom:longitude":-96.726068,
@@ -95,8 +95,12 @@
         "inegi:id":"20238",
         "wd:id":"Q7414890"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"45ce82cd84c00f5a4bc797f59485c3b8",
+    "wof:geomhash":"440dbb708c99d6fdc34d19e8bd728fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":102075967,
-    "wof:lastmodified":1566616140,
+    "wof:lastmodified":1695886130,
     "wof:name":"San Mart\u00edn de los Cansecos",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

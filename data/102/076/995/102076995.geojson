@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017159,
-    "geom:area_square_m":203291897.042944,
+    "geom:area_square_m":203291850.319315,
     "geom:bbox":"-98.246312,16.552986,-98.066136,16.757391",
     "geom:latitude":16.64172,
     "geom:longitude":-98.163422,
@@ -110,8 +110,12 @@
         "inegi:id":"20185",
         "wd:id":"Q10876470"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"971d123a87503614a5e63cdffdf20b06",
+    "wof:geomhash":"d8853a70847f90ba974abe06e0a7bd3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":102076995,
-    "wof:lastmodified":1690846749,
+    "wof:lastmodified":1695886897,
     "wof:name":"San Juan Cacahuatepec",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

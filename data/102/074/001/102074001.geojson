@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034428,
-    "geom:area_square_m":402085199.070037,
+    "geom:area_square_m":402085199.069355,
     "geom:bbox":"-100.264317662,19.0787080805,-99.9592945993,19.2911052",
     "geom:latitude":19.177768,
     "geom:longitude":-100.12195,
@@ -122,8 +122,12 @@
         "inegi:id":"15110",
         "wd:id":"Q1987209"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"aa144485c8af9ee74cb2fdadf0d7b254",
+    "wof:geomhash":"73a80e9bc51d3207657a988c4a0fa05e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":102074001,
-    "wof:lastmodified":1566615878,
+    "wof:lastmodified":1695886015,
     "wof:name":"Valle de Bravo",
     "wof:parent_id":85686527,
     "wof:placetype":"county",

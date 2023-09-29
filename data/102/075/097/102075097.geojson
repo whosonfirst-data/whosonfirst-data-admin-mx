@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010706,
-    "geom:area_square_m":124275073.112113,
+    "geom:area_square_m":124275073.112214,
     "geom:bbox":"-102.47409941,20.0738533088,-102.355644368,20.2247247603",
     "geom:latitude":20.151362,
     "geom:longitude":-102.405719,
@@ -82,8 +82,12 @@
         "hasc:id":"MX.MC.IX",
         "inegi:id":"16042"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"bcc651c3925e8a6bf055671cc40b18c2",
+    "wof:geomhash":"cf1f2fd2d5a9c1fd0c2bbadced162518",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":102075097,
-    "wof:lastmodified":1566616098,
+    "wof:lastmodified":1695886112,
     "wof:name":"Ixtl\u00e1n",
     "wof:parent_id":85686595,
     "wof:placetype":"county",

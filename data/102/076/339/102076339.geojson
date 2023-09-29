@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011142,
-    "geom:area_square_m":132309397.151883,
+    "geom:area_square_m":132309263.175949,
     "geom:bbox":"-95.288951,16.115615,-95.136851,16.264247",
     "geom:latitude":16.193389,
     "geom:longitude":-95.219576,
@@ -134,8 +134,12 @@
         "inegi:id":"20079",
         "wd:id":"Q4405835"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"80f86f621429e6b573a64f91ec27c619",
+    "wof:geomhash":"6a66cf9e0919bd259fa12b7c2dd8d726",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":102076339,
-    "wof:lastmodified":1690846711,
+    "wof:lastmodified":1695886502,
     "wof:name":"Salina Cruz",
     "wof:parent_id":85686623,
     "wof:placetype":"county",

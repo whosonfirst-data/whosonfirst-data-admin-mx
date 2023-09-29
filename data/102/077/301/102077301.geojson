@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010701,
-    "geom:area_square_m":124169584.610083,
+    "geom:area_square_m":124169668.03137,
     "geom:bbox":"-100.449426,20.126486,-100.323558,20.306849",
     "geom:latitude":20.217001,
     "geom:longitude":-100.383598,
@@ -100,8 +100,12 @@
         "inegi:id":"11010",
         "wd:id":"Q20209179"
     },
+    "wof:concordances_official":"inegi:id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"MX",
-    "wof:geomhash":"67a59b737215fe77acd09403a5ec1bb2",
+    "wof:geomhash":"ba9b286d7b9e77bf186e9d0d27b44f57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":102077301,
-    "wof:lastmodified":1690846602,
+    "wof:lastmodified":1695886637,
     "wof:name":"Coroneo",
     "wof:parent_id":85686629,
     "wof:placetype":"county",
