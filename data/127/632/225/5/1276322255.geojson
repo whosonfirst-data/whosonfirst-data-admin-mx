@@ -38,6 +38,7 @@
         "U\u00f1a"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3983743
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3980813
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9bd0ff1de364e2555f85bba408d7b6e4",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1276322255,
-    "wof:lastmodified":1566623586,
+    "wof:lastmodified":1706240499,
     "wof:name":"Santa Teresa de la Una",
     "wof:parent_id":102075173,
     "wof:placetype":"locality",
+    "wof:population":582,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360273621
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -151,12 +151,18 @@
         "\u8056\u7c73\u683c\u723e\u6cb3"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9113034
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8946332
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"067ec32df90fcd88c9b2f39019678718",
@@ -167,13 +173,17 @@
         }
     ],
     "wof:id":1209214569,
-    "wof:lastmodified":1636493101,
+    "wof:lastmodified":1706240428,
     "wof:name":"San Miguel",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326730063
+    ],
     "wof:tags":[]
 },
   "bbox": [

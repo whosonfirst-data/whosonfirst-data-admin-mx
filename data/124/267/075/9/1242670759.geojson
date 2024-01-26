@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-91.99991,17.84933,-91.99991,17.84933",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cuyo \u00c1lvaro Obreg\u00f3n"
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":1242670759,
-    "wof:lastmodified":1566635147,
+    "wof:lastmodified":1706240447,
     "wof:name":"Cuyo Alvaro Obregon",
     "wof:parent_id":102075603,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225842967
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

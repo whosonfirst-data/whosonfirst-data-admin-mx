@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Las Playitas"
+    ],
+    "name:spa_x_variant":[
+        "Playitas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4022362
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3992300
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e0a5eb71a193f228c1996a18183b86fc",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1193022917,
-    "wof:lastmodified":1566628130,
+    "wof:lastmodified":1706240420,
     "wof:name":"Las Playitas",
     "wof:parent_id":102074519,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276130219
+    ],
     "wof:tags":[]
 },
   "bbox": [

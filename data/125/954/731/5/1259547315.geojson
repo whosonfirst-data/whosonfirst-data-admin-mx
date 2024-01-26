@@ -34,6 +34,7 @@
         "Oruscato"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3994072
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8870836
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d69ebc10f039adfe0a8d314b03e14965",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1259547315,
-    "wof:lastmodified":1566637208,
+    "wof:lastmodified":1706240485,
     "wof:name":"Oruscato",
     "wof:parent_id":102075007,
     "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326711677
+    ],
     "wof:tags":[]
 },
   "bbox": [

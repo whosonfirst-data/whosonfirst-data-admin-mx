@@ -12,6 +12,7 @@
     "gn:admin1_code":"25",
     "gn:admin2_code":"13.0",
     "gn:asciiname":"El Rodeo",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":27,
     "gn:feature_class":"P",
@@ -49,6 +50,7 @@
         "Rodeo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -58,6 +60,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3988517
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4007837
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a32ba1ab298889f68a844c9bbe2837ab",
@@ -71,13 +78,17 @@
         }
     ],
     "wof:id":1226717743,
-    "wof:lastmodified":1566640963,
+    "wof:lastmodified":1706240463,
     "wof:name":"El Rodeo",
     "wof:parent_id":102074317,
     "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243411211
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,6 +37,7 @@
         "El Carrizo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4023341
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8866827
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1d5fb73b8ed991494ba1376f12223b13",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1260378139,
-    "wof:lastmodified":1566628982,
+    "wof:lastmodified":1706240497,
     "wof:name":"Rancho Nuevo del Carrizo",
     "wof:parent_id":102077263,
     "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360062745
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,12 +37,18 @@
         "Papatlar"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3521921
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3824442
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d9252cc1a6869b4a820bf1cec8e98e25",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209160271,
-    "wof:lastmodified":1566626955,
+    "wof:lastmodified":1706240427,
     "wof:name":"El Papatlar",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":440,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326975891
+    ],
     "wof:tags":[]
 },
   "bbox": [

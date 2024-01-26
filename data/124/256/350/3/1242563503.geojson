@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":3995797
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3995798
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"19b1a80e4f1f01f70bd648b4ebd91821",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1242563503,
-    "wof:lastmodified":1566635231,
+    "wof:lastmodified":1706240465,
     "wof:name":"Minas Viejas",
     "wof:parent_id":102078797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326850619
+    ],
     "wof:tags":[]
 },
   "bbox": [

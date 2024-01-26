@@ -34,6 +34,7 @@
         "San Jer\u00f3nimo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3986596
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4025653
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2013122171080ddd9bf7b68b0f222a73",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1326494001,
-    "wof:lastmodified":1566614255,
+    "wof:lastmodified":1706240527,
     "wof:name":"San Jeronimo",
     "wof:parent_id":102074889,
     "wof:placetype":"locality",
+    "wof:population":829,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360061705
+    ],
     "wof:tags":[]
 },
   "bbox": [

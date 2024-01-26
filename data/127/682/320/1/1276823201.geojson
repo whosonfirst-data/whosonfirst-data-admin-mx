@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":9979972
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9980979
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"194b27812411feedb5ee9e93df6e6db4",
+    "wof:geomhash":"8c16bf255315390383f8484018f9874d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +61,22 @@
         }
     ],
     "wof:id":1276823201,
-    "wof:lastmodified":1566624212,
+    "wof:lastmodified":1706240504,
     "wof:name":"Santo Nino",
     "wof:parent_id":102074383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310272143
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -110.12195,
-    29.00002000000001,
+    29.00002,
     -110.12195,
-    29.00002000000001
+    29.00002
 ],
-  "geometry": {"coordinates":[-110.12195,29.00002000000001],"type":"Point"}
+  "geometry": {"coordinates":[-110.12195,29.00002],"type":"Point"}
 }

@@ -116,6 +116,11 @@
     "wof:concordances":{
         "gn:id":9980036
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9981032
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"dc90da4a07d438876646b416c4740d83",
     "wof:hierarchy":[
@@ -128,13 +133,15 @@
         }
     ],
     "wof:id":1242745183,
-    "wof:lastmodified":1566634665,
+    "wof:lastmodified":1706240467,
     "wof:name":"La Galera",
     "wof:parent_id":102074493,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344224255
+    ],
     "wof:tags":[]
 },
   "bbox": [

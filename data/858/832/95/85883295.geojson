@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
         "Zapotla"
@@ -33,12 +34,31 @@
         "Tilzapotla"
     ],
     "qs:gn_id":0,
+    "qs_pg:name":"Zapotla",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tlaxcala",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":474864,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55893055,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tlaxcala",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85686653,
         102191575,
@@ -53,7 +73,12 @@
         "qs_pg:id":474864
     },
     "wof:concordances_alt":{
-        "qs_pg:id":858186
+        "gp:id":[
+            55893055
+        ],
+        "qs_pg:id":[
+            474864
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -75,13 +100,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147374,
+    "wof:lastmodified":1706240361,
     "wof:name":"Zapotla",
     "wof:parent_id":101999093,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126106653
+    ],
     "wof:tags":[]
 },
   "bbox": [

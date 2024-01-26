@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-96.70094,17.02921,-96.70094,17.02921",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u043d \u0410\u043d\u0442\u043e\u043d\u0438\u043e \u0434\u0435 \u043b\u0430 \u041a\u0430\u043b"
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":1326895039,
-    "wof:lastmodified":1566613188,
+    "wof:lastmodified":1706240401,
     "wof:name":"San Antonio de la Cal",
     "wof:parent_id":102075995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101995235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

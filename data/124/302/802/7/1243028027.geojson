@@ -10,6 +10,7 @@
     "geom:latitude":21.69139,
     "geom:longitude":-98.58648,
     "gn:admin1_code":"30.0",
+    "gn:admin2_code":"34.0",
     "gn:asciiname":"La Rosita",
     "gn:country_code":"MX",
     "gn:dem":33,
@@ -33,6 +34,7 @@
         "La Rosita"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8723774
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8723782
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ae439115e6d5939c7baa813ec88bbc7a",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1243028027,
-    "wof:lastmodified":1566636179,
+    "wof:lastmodified":1706240471,
     "wof:name":"La Rosita",
     "wof:parent_id":102077179,
     "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309873551
+    ],
     "wof:tags":[]
 },
   "bbox": [

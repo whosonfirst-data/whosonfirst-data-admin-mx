@@ -37,6 +37,7 @@
         "El Carmen"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4023418
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4023387
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4aefeeb888e196eefc84c1b66a813cbd",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226320045,
-    "wof:lastmodified":1566640217,
+    "wof:lastmodified":1706240457,
     "wof:name":"Manzanos",
     "wof:parent_id":102077357,
     "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259664185
+    ],
     "wof:tags":[]
 },
   "bbox": [

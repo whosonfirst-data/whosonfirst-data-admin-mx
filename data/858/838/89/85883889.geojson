@@ -11,6 +11,7 @@
     "geom:longitude":-99.155112,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.163402,19.406564,-99.153402,19.416564",
     "lbl:latitude":19.413214,
     "lbl:longitude":-99.157451,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
         "Centro Urbano Benito Ju\u00e1rez"
@@ -63,10 +65,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Centro Urbano Benito Juarez",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":577,
+    "qs_pg:photos_1k":117,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":577,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475193,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898723,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2274,
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -82,6 +103,14 @@
         "gp:id":55898723,
         "qs_pg:id":475193,
         "wd:id":"Q5062892"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898723
+        ],
+        "qs_pg:id":[
+            475193
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7da44df7ad62deb5afaf1e0541e56f30",
@@ -109,13 +138,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847308,
+    "wof:lastmodified":1706240370,
     "wof:name":"Centro Urbano Benito Juarez",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126104287
+    ],
     "wof:tags":[]
 },
   "bbox": [

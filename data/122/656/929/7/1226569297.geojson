@@ -30,6 +30,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "San Antonio",
+        "San Antonio C\u00e1mara"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3822344
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3519733
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"cddf80c2701018eb32cf55aaf53bad22",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226569297,
-    "wof:lastmodified":1566640035,
+    "wof:lastmodified":1706240461,
     "wof:name":"San Antonio Camara",
     "wof:parent_id":102079137,
     "wof:placetype":"locality",
@@ -62,7 +71,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276471147
+    ],
     "wof:tags":[]
 },
   "bbox": [

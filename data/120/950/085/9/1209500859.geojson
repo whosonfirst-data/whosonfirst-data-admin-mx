@@ -56,12 +56,18 @@
         "San Jos\u00e9"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3986423
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859137
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3844ef0f858143475cac4494f035cb19",
@@ -72,13 +78,17 @@
         }
     ],
     "wof:id":1209500859,
-    "wof:lastmodified":1566626371,
+    "wof:lastmodified":1706240435,
     "wof:name":"Tacubaya",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":1433,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209735741
+    ],
     "wof:tags":[]
 },
   "bbox": [

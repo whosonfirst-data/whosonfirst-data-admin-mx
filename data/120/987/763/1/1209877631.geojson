@@ -84,6 +84,10 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u041e\u043b\u044c\u043c\u043e\u0441"
     ],
+    "name:und_x_variant":[
+        "Olmos",
+        "Olmos Capote"
+    ],
     "name:uzb_x_preferred":[
         "Los Olmos"
     ],
@@ -108,6 +112,11 @@
     "wof:concordances":{
         "gn:id":8887697
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3522355
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a409e40578710d67f18d42295c1659bd",
     "wof:hierarchy":[
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1209877631,
-    "wof:lastmodified":1566627116,
+    "wof:lastmodified":1706240442,
     "wof:name":"Los Olmos",
     "wof:parent_id":102078961,
     "wof:placetype":"locality",
@@ -128,7 +137,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343508405
+    ],
     "wof:tags":[]
 },
   "bbox": [

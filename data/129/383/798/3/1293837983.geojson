@@ -10,6 +10,7 @@
     "geom:latitude":17.52775,
     "geom:longitude":-92.57646,
     "gn:admin1_code":"27",
+    "gn:admin2_code":"96.0",
     "gn:asciiname":"Corozil Viejo",
     "gn:country_code":"MX",
     "gn:dem":126,
@@ -36,6 +37,7 @@
         "Corozil Viejo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3803167
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8881822
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"24c05f2f83624054dc9378467be67ae8",
@@ -58,13 +65,17 @@
         }
     ],
     "wof:id":1293837983,
-    "wof:lastmodified":1566620476,
+    "wof:lastmodified":1706240518,
     "wof:name":"Corozil Viejo",
     "wof:parent_id":102075749,
     "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310500029
+    ],
     "wof:tags":[]
 },
   "bbox": [

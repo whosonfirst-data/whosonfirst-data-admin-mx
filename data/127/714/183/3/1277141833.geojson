@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Canoa"
+    ],
+    "name:und_x_variant":[
+        "Rancho La Canoa"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8890444
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3526094
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"da4d1e78ef3f761a24673c05f716d2a3",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1277141833,
-    "wof:lastmodified":1566623871,
+    "wof:lastmodified":1706240508,
     "wof:name":"La Canoa",
     "wof:parent_id":102078779,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326995129
+    ],
     "wof:tags":[]
 },
   "bbox": [

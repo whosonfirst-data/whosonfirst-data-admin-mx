@@ -30,6 +30,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "Tecomates",
+        "Tecomate",
+        "El Tecomate"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4007335
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3982207
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"13ade716ed07acbe82bb663c8ef8788e",
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1193244041,
-    "wof:lastmodified":1566627902,
+    "wof:lastmodified":1706240423,
     "wof:name":"El Tecomate",
     "wof:parent_id":102074579,
     "wof:placetype":"locality",
@@ -62,7 +72,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326806197
+    ],
     "wof:tags":[]
 },
   "bbox": [

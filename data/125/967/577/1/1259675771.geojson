@@ -37,6 +37,7 @@
         "Rehuisuchi"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8996033
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8891807
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"bf359295ebbc8b0add6fb9f73e5cb43d",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259675771,
-    "wof:lastmodified":1566638429,
+    "wof:lastmodified":1706240486,
     "wof:name":"Rehuisuchi",
     "wof:parent_id":102075331,
     "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260386575
+    ],
     "wof:tags":[]
 },
   "bbox": [

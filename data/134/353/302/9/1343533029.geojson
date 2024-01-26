@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-101.39181,19.67364,-101.39181,19.67364",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0430\u043f\u0443\u043b\u0430"
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":1343533029,
-    "wof:lastmodified":1566616666,
+    "wof:lastmodified":1706240406,
     "wof:name":"Capula",
     "wof:parent_id":102075017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101997301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

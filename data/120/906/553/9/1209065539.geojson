@@ -37,12 +37,18 @@
         "Rancho La Zorra"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3998686
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8918831
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"cd7db533d533e8615adedf8f4f8fe9f4",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209065539,
-    "wof:lastmodified":1566625507,
+    "wof:lastmodified":1706240425,
     "wof:name":"La Zorra",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310147247
+    ],
     "wof:tags":[]
 },
   "bbox": [

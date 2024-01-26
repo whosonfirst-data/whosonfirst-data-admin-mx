@@ -37,6 +37,7 @@
         "Zambrane\u00f1a"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,8 +48,13 @@
     "wof:concordances":{
         "gn:id":3979810
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8898783
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"bbf56d095d4ff2b5cda018daa8a92b18",
+    "wof:geomhash":"8b4127c17606c5c4b693a25dbfe56a54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +65,24 @@
         }
     ],
     "wof:id":1310393715,
-    "wof:lastmodified":1566630414,
+    "wof:lastmodified":1706240524,
     "wof:name":"Huajupa",
     "wof:parent_id":102075179,
     "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327122803
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -106.19861000000002,
+    -106.19861,
     24.66111,
-    -106.19861000000002,
+    -106.19861,
     24.66111
 ],
-  "geometry": {"coordinates":[-106.19861000000002,24.66111],"type":"Point"}
+  "geometry": {"coordinates":[-106.19861,24.66111],"type":"Point"}
 }

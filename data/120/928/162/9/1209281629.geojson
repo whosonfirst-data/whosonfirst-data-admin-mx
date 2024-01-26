@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Hoyos"
+    ],
     "name:und_x_variant":[
         "Colonia Sur"
     ],
@@ -42,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3997663
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3997662
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"450e5b7c438b11ba0b3763e2c29755ba",
     "wof:hierarchy":[
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":1209281629,
-    "wof:lastmodified":1566627411,
+    "wof:lastmodified":1706240429,
     "wof:name":"Los Hoyos",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -59,7 +67,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260147703
+    ],
     "wof:tags":[]
 },
   "bbox": [

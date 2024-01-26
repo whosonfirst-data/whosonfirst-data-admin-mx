@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":4000217
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4000216
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"c8ae1cafb4c4966ba35108823715d4c7",
     "wof:hierarchy":[
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":1260369869,
-    "wof:lastmodified":1566628937,
+    "wof:lastmodified":1706240496,
     "wof:name":"Las Balsas",
     "wof:parent_id":102073907,
     "wof:placetype":"locality",
@@ -67,7 +72,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327310445
+    ],
     "wof:tags":[]
 },
   "bbox": [

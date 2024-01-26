@@ -142,6 +142,7 @@
         "\u8499\u6cf0\u9686\u6208"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -151,6 +152,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3995477
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4022772
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a04f5c3d6c9b82de6423e2468821a804",
@@ -164,13 +170,17 @@
         }
     ],
     "wof:id":1293175435,
-    "wof:lastmodified":1566622200,
+    "wof:lastmodified":1706240512,
     "wof:name":"Montelongo",
     "wof:parent_id":102078697,
     "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293266785
+    ],
     "wof:tags":[]
 },
   "bbox": [

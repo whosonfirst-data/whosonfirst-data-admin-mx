@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Horcones"
+    ],
+    "name:spa_x_variant":[
+        "Huitztitla",
+        "Huixtitla"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8861306
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9099903
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"95ded002818f52fc80ec42baac766673",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310461733,
-    "wof:lastmodified":1566629638,
+    "wof:lastmodified":1706240525,
     "wof:name":"Huixtitla",
     "wof:parent_id":102077705,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343311437
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":-98.147639,
     "gn:id":"3483197,3519388",
     "iso:country":"MX",
+    "lbl:bbox":"-98.1800138771,24.8304327586,-98.1400138771,24.8704327586",
     "lbl:latitude":24.846679,
     "lbl:longitude":-98.144465,
     "lbl:max_zoom":18.0,
@@ -208,6 +209,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Mexico",
     "qs:a1":"*Tamaulipas",
     "qs:a1_lc":"28",
@@ -221,6 +223,8 @@
     "qs:loc":"San Fernando",
     "qs:pop":0,
     "qs:source":"XMexico IGN",
+    "reversegeo:latitude":24.850433,
+    "reversegeo:longitude":-98.160014,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -240,6 +244,11 @@
         "qs_pg:id":494113,
         "wd:id":"Q745811"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q745811"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -256,13 +265,15 @@
         }
     ],
     "wof:id":102001029,
-    "wof:lastmodified":1690846983,
+    "wof:lastmodified":1706240416,
     "wof:name":"San Fernando",
     "wof:parent_id":102078937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907365
+    ],
     "wof:tags":[]
 },
   "bbox": [

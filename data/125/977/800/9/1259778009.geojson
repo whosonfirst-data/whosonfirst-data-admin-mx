@@ -37,6 +37,7 @@
         "Galindo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4006057
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4028020
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"995f1d3be6362e6bf9ed31c5b78e0481",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259778009,
-    "wof:lastmodified":1566637730,
+    "wof:lastmodified":1706240489,
     "wof:name":"Las Penitas",
     "wof:parent_id":102074543,
     "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309707287
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,6 +37,7 @@
         "Lelenchij"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9628142
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8860664
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"12f97f4562718111c870e92515feb63c",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259978293,
-    "wof:lastmodified":1566637499,
+    "wof:lastmodified":1706240492,
     "wof:name":"Lelenchij",
     "wof:parent_id":102075719,
     "wof:placetype":"locality",
+    "wof:population":807,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293387881
+    ],
     "wof:tags":[]
 },
   "bbox": [

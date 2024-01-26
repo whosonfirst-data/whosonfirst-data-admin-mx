@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":3791849
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3525261
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f7fa940d7502daaab57256662cb78ad2",
     "wof:hierarchy":[
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1193102119,
-    "wof:lastmodified":1566628404,
+    "wof:lastmodified":1706240421,
     "wof:name":"La Pamona",
     "wof:parent_id":102078727,
     "wof:placetype":"locality",
@@ -69,7 +74,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259658263
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:spa_x_preferred":[
+        "Tath\u00f3"
+    ],
     "name:und_x_variant":[
         "Taxth\u00f3",
         "Tath\u00f3"
@@ -45,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3516218
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3814036
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"835492b7c4458bf55677b7b68ca64c5e",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226028315,
-    "wof:lastmodified":1566639935,
+    "wof:lastmodified":1706240450,
     "wof:name":"Tatho",
     "wof:parent_id":102078593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293180023
+    ],
     "wof:tags":[]
 },
   "bbox": [

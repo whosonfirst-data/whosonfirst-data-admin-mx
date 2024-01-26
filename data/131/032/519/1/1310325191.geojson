@@ -12,6 +12,7 @@
     "gn:admin1_code":"7",
     "gn:admin2_code":"20.0",
     "gn:asciiname":"Los Tres Sabinos",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":508,
     "gn:feature_class":"P",
@@ -46,6 +47,11 @@
     "wof:concordances":{
         "gn:id":3977932
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3997082
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"e85ba263491af2be9f0ac3cade71c1af",
     "wof:hierarchy":[
@@ -58,13 +64,15 @@
         }
     ],
     "wof:id":1310325191,
-    "wof:lastmodified":1566630946,
+    "wof:lastmodified":1706240524,
     "wof:name":"Los Tres Sabinos",
     "wof:parent_id":102078831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327129863
+    ],
     "wof:tags":[]
 },
   "bbox": [

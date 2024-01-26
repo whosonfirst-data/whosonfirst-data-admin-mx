@@ -34,6 +34,7 @@
         "La Laguna"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4001690
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8880213
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f2e006ffdceef47717d3f2bccab2811d",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226125509,
-    "wof:lastmodified":1566641090,
+    "wof:lastmodified":1706240453,
     "wof:name":"La Laguna",
     "wof:parent_id":102074873,
     "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360158091
+    ],
     "wof:tags":[]
 },
   "bbox": [

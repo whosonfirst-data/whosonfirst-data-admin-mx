@@ -83,6 +83,11 @@
     "wof:concordances":{
         "gn:id":3987918
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4020427
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"b1d65176b08f635602d0b585a0884c59",
     "wof:hierarchy":[
@@ -95,13 +100,15 @@
         }
     ],
     "wof:id":1327008331,
-    "wof:lastmodified":1566613030,
+    "wof:lastmodified":1706240531,
     "wof:name":"Cinco de Mayo",
     "wof:parent_id":102075157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327422131
+    ],
     "wof:tags":[]
 },
   "bbox": [

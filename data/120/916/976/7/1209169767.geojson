@@ -34,12 +34,18 @@
         "El Paisano"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3974235
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8916146
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"63634565436da8efad0aabc90382b510",
@@ -50,13 +56,17 @@
         }
     ],
     "wof:id":1209169767,
-    "wof:lastmodified":1566626950,
+    "wof:lastmodified":1706240427,
     "wof:name":"El Pame",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344224857
+    ],
     "wof:tags":[]
 },
   "bbox": [

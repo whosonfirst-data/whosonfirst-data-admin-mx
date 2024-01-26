@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-111.93361,24.7534,-111.93361,24.7534",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +44,7 @@
         "gn:id":4021894
     },
     "wof:country":"MX",
-    "wof:geomhash":"3c9ddf11905b540c8112eec12b308920",
+    "wof:geomhash":"accbcf387bf286f6bd6672e3f25a48d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,20 +55,22 @@
         }
     ],
     "wof:id":1242789289,
-    "wof:lastmodified":1566636355,
+    "wof:lastmodified":1706240464,
     "wof:name":"Medano Amarillo",
     "wof:parent_id":102074523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226759267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -111.93361000000002,
+    -111.93361,
     24.7534,
-    -111.93361000000002,
+    -111.93361,
     24.7534
 ],
-  "geometry": {"coordinates":[-111.93361000000002,24.7534],"type":"Point"}
+  "geometry": {"coordinates":[-111.93361,24.7534],"type":"Point"}
 }

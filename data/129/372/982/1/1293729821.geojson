@@ -41,6 +41,7 @@
         "El Arenal"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3532746
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859015
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4d027545554306126b7554a9c02b1494",
@@ -63,13 +69,17 @@
         }
     ],
     "wof:id":1293729821,
-    "wof:lastmodified":1566622425,
+    "wof:lastmodified":1706240516,
     "wof:name":"Arenal Santa Ana",
     "wof:parent_id":102077665,
     "wof:placetype":"locality",
+    "wof:population":1551,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310254159
+    ],
     "wof:tags":[]
 },
   "bbox": [

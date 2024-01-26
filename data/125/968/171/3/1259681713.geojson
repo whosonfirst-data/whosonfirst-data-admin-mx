@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Belem"
+    ],
+    "name:spa_x_variant":[
+        "Bel\u00e9n Uno"
+    ],
     "name:und_x_variant":[
         "Bel\u00e9n Uno"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8933595
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9523195
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"7bc56986072de85e4406841d02e8f393",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1259681713,
-    "wof:lastmodified":1566638175,
+    "wof:lastmodified":1706240486,
     "wof:name":"Belen Uno",
     "wof:parent_id":102075499,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326823219
+    ],
     "wof:tags":[]
 },
   "bbox": [

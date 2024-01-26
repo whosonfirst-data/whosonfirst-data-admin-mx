@@ -34,6 +34,7 @@
         "La Venadera"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3524477
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3792040
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"359a5ba102f0f7121281853936bc3134",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1310566231,
-    "wof:lastmodified":1566631269,
+    "wof:lastmodified":1706240526,
     "wof:name":"La Venadera",
     "wof:parent_id":102078771,
     "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326692019
+    ],
     "wof:tags":[]
 },
   "bbox": [

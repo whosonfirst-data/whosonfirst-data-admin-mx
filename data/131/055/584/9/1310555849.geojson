@@ -349,6 +349,11 @@
     "wof:concordances":{
         "gn:id":3983577
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3983576
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"8655d57a3f741d6dceacf711805dc31b",
     "wof:hierarchy":[
@@ -361,7 +366,7 @@
         }
     ],
     "wof:id":1310555849,
-    "wof:lastmodified":1566630244,
+    "wof:lastmodified":1706240526,
     "wof:name":"Santo Domingo",
     "wof:parent_id":102074407,
     "wof:placetype":"locality",
@@ -369,7 +374,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310648369
+    ],
     "wof:tags":[]
 },
   "bbox": [

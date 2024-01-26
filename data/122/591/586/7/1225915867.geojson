@@ -46,6 +46,7 @@
         "La Angostura"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -55,6 +56,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4003606
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4003607
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"76d2d393ebbc3e84a62c97ff968700e2",
@@ -68,13 +74,17 @@
         }
     ],
     "wof:id":1225915867,
-    "wof:lastmodified":1566640693,
+    "wof:lastmodified":1706240448,
     "wof:name":"La Angostura",
     "wof:parent_id":102075119,
     "wof:placetype":"locality",
+    "wof:population":1467,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226206199
+    ],
     "wof:tags":[]
 },
   "bbox": [

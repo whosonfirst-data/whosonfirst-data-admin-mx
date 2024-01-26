@@ -78,6 +78,11 @@
     "wof:concordances":{
         "gn:id":3801894
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3530092
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"6cf94f3d5f158148385790231d1a1e09",
     "wof:hierarchy":[
@@ -90,7 +95,7 @@
         }
     ],
     "wof:id":1209780291,
-    "wof:lastmodified":1636492985,
+    "wof:lastmodified":1706240440,
     "wof:name":"Las Cruces",
     "wof:parent_id":102076467,
     "wof:placetype":"locality",
@@ -98,7 +103,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226203861
+    ],
     "wof:tags":[]
 },
   "bbox": [

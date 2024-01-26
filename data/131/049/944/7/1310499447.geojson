@@ -34,6 +34,7 @@
         "El Vergel"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9292402
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8947422
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d690f7347b0f7dc04bd322ac5f932b60",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1310499447,
-    "wof:lastmodified":1566629843,
+    "wof:lastmodified":1706240525,
     "wof:name":"El Vergel",
     "wof:parent_id":102075529,
     "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343454023
+    ],
     "wof:tags":[]
 },
   "bbox": [

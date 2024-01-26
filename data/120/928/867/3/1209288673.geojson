@@ -37,12 +37,18 @@
         "Santa Catarina Roatina"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3520229
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8858914
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ef63fdcea11321e791bd9c81839994b3",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209288673,
-    "wof:lastmodified":1566627405,
+    "wof:lastmodified":1706240430,
     "wof:name":"Santa Catarina Roatina",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":1689,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243228297
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -153,6 +153,11 @@
     "wof:concordances":{
         "gn:id":3515723
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3814436
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"66ac32c8ad542d99e3cc6e169ab25b24",
     "wof:hierarchy":[
@@ -165,13 +170,15 @@
         }
     ],
     "wof:id":1277156177,
-    "wof:lastmodified":1636492794,
+    "wof:lastmodified":1706240509,
     "wof:name":"La Union",
     "wof:parent_id":102078553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343829049
+    ],
     "wof:tags":[]
 },
   "bbox": [

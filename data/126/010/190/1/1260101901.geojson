@@ -12,6 +12,7 @@
     "gn:admin1_code":"6",
     "gn:admin2_code":"3.0",
     "gn:asciiname":"San Antonio del Alto Corralejo",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":1536,
     "gn:feature_class":"P",
@@ -39,6 +40,7 @@
         "San Antonio Corraleso de Abaso"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,8 +51,13 @@
     "wof:concordances":{
         "gn:id":3975895
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3987692
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"7a95e84de6562b942d6d4327e506ff96",
+    "wof:geomhash":"8a870d04e0833ef6495976c2f6cfd564",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,20 +68,24 @@
         }
     ],
     "wof:id":1260101901,
-    "wof:lastmodified":1566629208,
+    "wof:lastmodified":1706240493,
     "wof:name":"San Antonio del Alto Corralejo",
     "wof:parent_id":102075287,
     "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293881421
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -105.39427,
-    27.08692000000001,
+    27.08692,
     -105.39427,
-    27.08692000000001
+    27.08692
 ],
-  "geometry": {"coordinates":[-105.39427000000001,27.08692000000001],"type":"Point"}
+  "geometry": {"coordinates":[-105.39427000000001,27.08692],"type":"Point"}
 }

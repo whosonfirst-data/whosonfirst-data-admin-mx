@@ -34,6 +34,7 @@
         "Las Camas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9271099
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999275
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8d2f28b8b57d2d4b82974badd83a1dcd",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1243071157,
-    "wof:lastmodified":1566634334,
+    "wof:lastmodified":1706240473,
     "wof:name":"Las Camas",
     "wof:parent_id":102077369,
     "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309807055
+    ],
     "wof:tags":[]
 },
   "bbox": [

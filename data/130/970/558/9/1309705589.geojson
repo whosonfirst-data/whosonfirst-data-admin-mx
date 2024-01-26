@@ -39,6 +39,7 @@
         "Los Muchachos de Santa Teresa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3997454
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4011428
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a4ee96f72b9127ffda863d2b333463e9",
@@ -61,13 +67,17 @@
         }
     ],
     "wof:id":1309705589,
-    "wof:lastmodified":1566633188,
+    "wof:lastmodified":1706240519,
     "wof:name":"Santa Teresa de los Muchachos",
     "wof:parent_id":102078811,
     "wof:placetype":"locality",
+    "wof:population":429,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343851437
+    ],
     "wof:tags":[]
 },
   "bbox": [

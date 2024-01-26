@@ -99,6 +99,7 @@
     "name:spa_x_preferred":[
         "La Victoria"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "La Victoria"
     ],
@@ -107,6 +108,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f"
+    ],
+    "name:und_x_variant":[
+        "Victoria"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0648\u06a9\u0679\u0648\u0631\u06cc\u0627"
@@ -135,6 +139,11 @@
     "wof:concordances":{
         "gn:id":3821057
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3514728
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"46bf16124bc19f6d8361c41b09210926",
     "wof:hierarchy":[
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":1209247177,
-    "wof:lastmodified":1636492980,
+    "wof:lastmodified":1706240428,
     "wof:name":"La Victoria",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -152,7 +161,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293612635
+    ],
     "wof:tags":[]
 },
   "bbox": [

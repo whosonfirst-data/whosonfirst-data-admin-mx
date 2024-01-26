@@ -37,6 +37,7 @@
         "Nazareth"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3816238
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8874141
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"201b090e8d0418fd55a93a2bce682b11",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259782141,
-    "wof:lastmodified":1566637923,
+    "wof:lastmodified":1706240489,
     "wof:name":"Paraje Nazaret Uno",
     "wof:parent_id":102075509,
     "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293587169
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-92.48121,14.8898,-92.48121,14.8898",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
@@ -632,12 +634,14 @@
         }
     ],
     "wof:id":1209103933,
-    "wof:lastmodified":1566627449,
+    "wof:lastmodified":1706240399,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101994567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

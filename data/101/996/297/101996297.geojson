@@ -9,8 +9,23 @@
     "geom:bbox":"-99.952037,20.729569,-99.926668,20.747456",
     "geom:latitude":20.739299,
     "geom:longitude":-99.941276,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Bernal",
+    "gn:country_code":"MX",
+    "gn:dem":2069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3532263,
     "gn:id":"3524076,3532263",
+    "gn:latitude":20.7403,
+    "gn:longitude":-99.94125,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Bernal",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-99.96125,20.7203,-99.92125,20.7603",
     "lbl:latitude":20.739912,
     "lbl:longitude":-99.94233,
     "lbl:max_zoom":18.0,
@@ -31,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Bernal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0646\u0627\u0644"
     ],
     "name:fra_x_preferred":[
         "Bernal"
@@ -97,6 +115,11 @@
         "qs_pg:id":1080333,
         "wd:id":"Q822193"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3532263
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -112,13 +135,15 @@
         }
     ],
     "wof:id":101996297,
-    "wof:lastmodified":1690847544,
+    "wof:lastmodified":1706240403,
     "wof:name":"Bernal",
     "wof:parent_id":102077105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309874371
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,7 @@
         "Los Llanos de Santiago"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -52,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4027558
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8860100
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7e3c49a8f9b0951cf4be30a56adfb773",
@@ -65,13 +71,17 @@
         }
     ],
     "wof:id":1293080675,
-    "wof:lastmodified":1566620115,
+    "wof:lastmodified":1706240511,
     "wof:name":"Rio Santiago",
     "wof:parent_id":102073901,
     "wof:placetype":"locality",
+    "wof:population":946,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343537979
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-108.61389,26.77222,-108.61389,26.77222",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":8916262
     },
     "wof:country":"MX",
-    "wof:geomhash":"3b2f06c553d7659089e15daf1665953c",
+    "wof:geomhash":"541f3be3bd8f19abbad643ec84ccffe6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1326478181,
-    "wof:lastmodified":1566614335,
+    "wof:lastmodified":1706240523,
     "wof:name":"El Reparo",
     "wof:parent_id":102074447,
     "wof:placetype":"locality",
     "wof:population":12,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310252569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -108.61388999999998,
+    -108.61389,
     26.77222,
-    -108.61388999999998,
+    -108.61389,
     26.77222
 ],
-  "geometry": {"coordinates":[-108.61388999999998,26.77222],"type":"Point"}
+  "geometry": {"coordinates":[-108.61389,26.77222],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-91.54,18.05333,-91.54,18.05333",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:epo_x_preferred":[
         "Los Tres Reyes"
@@ -60,14 +62,16 @@
         }
     ],
     "wof:id":1326491777,
-    "wof:lastmodified":1566614277,
+    "wof:lastmodified":1706240519,
     "wof:name":"Los Tres Reyes",
     "wof:parent_id":102075797,
     "wof:placetype":"locality",
     "wof:population":12,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1309760291
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

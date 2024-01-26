@@ -9,8 +9,23 @@
     "geom:bbox":"-98.389604,16.3274,-98.370027,16.340145",
     "geom:latitude":16.333923,
     "geom:longitude":-98.37922,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"507.0",
+    "gn:asciiname":"Santo Domingo Armenta",
+    "gn:country_code":"MX",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3516857,
     "gn:id":"3516857,3800370",
+    "gn:latitude":16.334,
+    "gn:longitude":-98.37834,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Santo Domingo Armenta",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-98.39834,16.314,-98.35834,16.354",
     "lbl:latitude":16.33399,
     "lbl:longitude":-98.378429,
     "lbl:max_zoom":18.0,
@@ -56,6 +71,10 @@
     "name:swe_x_preferred":[
         "Santo Domingo Armenta"
     ],
+    "name:und_x_variant":[
+        "Armenta",
+        "Santa Domingo"
+    ],
     "name:vie_x_preferred":[
         "Santo Domingo Armenta"
     ],
@@ -83,6 +102,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3516857,
         "gp:id":147216,
         "wd:id":"Q3890481"
     },
@@ -98,13 +118,15 @@
         }
     ],
     "wof:id":101996081,
-    "wof:lastmodified":1690847534,
+    "wof:lastmodified":1706240402,
     "wof:name":"Santo Domingo Armenta",
     "wof:parent_id":102076201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276629139
+    ],
     "wof:tags":[]
 },
   "bbox": [

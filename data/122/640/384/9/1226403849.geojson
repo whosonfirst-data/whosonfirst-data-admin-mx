@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-92.66567,17.85822,-92.66567,17.85822",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Para\u00edso"
@@ -45,7 +47,7 @@
         "gn:id":3521913
     },
     "wof:country":"MX",
-    "wof:geomhash":"dfef0dd8bc181b66be84aef2fcc4ca9c",
+    "wof:geomhash":"180e8c940820cfd6df75c4bb52af509b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":1226403849,
-    "wof:lastmodified":1566640998,
+    "wof:lastmodified":1706240447,
     "wof:name":"Paraiso",
     "wof:parent_id":102075801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225905703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -92.66567,
-    17.85822000000001,
+    17.85822,
     -92.66567,
-    17.85822000000001
+    17.85822
 ],
-  "geometry": {"coordinates":[-92.66567000000001,17.85822000000001],"type":"Point"}
+  "geometry": {"coordinates":[-92.66567000000001,17.85822],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "gn:asciiname":"Nuevo Conhuas",
     "gn:country_code":"MX",
     "gn:dem":156,
+    "gn:elevation":"170.0",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":3821026,
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3821026
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9180021
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"dfc70545feeab9f5d50b5e90c0fbcc53",
     "wof:hierarchy":[
@@ -59,13 +65,15 @@
         }
     ],
     "wof:id":1260207107,
-    "wof:lastmodified":1566629037,
+    "wof:lastmodified":1706240495,
     "wof:name":"Nuevo Conhuas",
     "wof:parent_id":102079223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327134121
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -12,6 +12,7 @@
     "gn:admin1_code":"25",
     "gn:admin2_code":"3.0",
     "gn:asciiname":"El Jacal",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":1609,
     "gn:feature_class":"P",
@@ -36,7 +37,12 @@
     "name:spa_x_variant":[
         "El Jacal"
     ],
+    "name:und_x_variant":[
+        "Jaral",
+        "El Jaral"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9085165
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4009539
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0db91338b8a3b2639d852cde8e01decd",
@@ -59,13 +70,17 @@
         }
     ],
     "wof:id":1259740337,
-    "wof:lastmodified":1566638751,
+    "wof:lastmodified":1706240487,
     "wof:name":"El Jacal",
     "wof:parent_id":102074335,
     "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360139739
+    ],
     "wof:tags":[]
 },
   "bbox": [

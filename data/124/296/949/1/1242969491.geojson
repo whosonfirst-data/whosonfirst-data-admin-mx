@@ -10,6 +10,7 @@
     "geom:latitude":16.25846,
     "geom:longitude":-94.08616,
     "gn:admin1_code":"5",
+    "gn:admin2_code":"327.0",
     "gn:asciiname":"Guadalupe",
     "gn:country_code":"MX",
     "gn:dem":31,
@@ -138,6 +139,7 @@
         "Guadalupe"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -147,6 +149,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3527359
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3527360
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d62d01b8d79cb9d76629378760e9ec80",
@@ -160,13 +167,17 @@
         }
     ],
     "wof:id":1242969491,
-    "wof:lastmodified":1566636541,
+    "wof:lastmodified":1706240471,
     "wof:name":"Guadalupe",
     "wof:parent_id":102076149,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243029661
+    ],
     "wof:tags":[]
 },
   "bbox": [

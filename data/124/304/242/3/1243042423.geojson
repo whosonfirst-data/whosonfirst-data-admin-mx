@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "Los Leones"
     ],
+    "name:und_x_variant":[
+        "Leones"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3791815
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3524395
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c199feaf7791bb5f492310e022f997ed",
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1243042423,
-    "wof:lastmodified":1566635816,
+    "wof:lastmodified":1706240472,
     "wof:name":"Los Leones",
     "wof:parent_id":102078727,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310463791
+    ],
     "wof:tags":[]
 },
   "bbox": [

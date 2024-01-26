@@ -38,6 +38,7 @@
         "Matus"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4026269
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8881286
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6e44a248a3ae1bd8febe0b433871b7c0",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1276637907,
-    "wof:lastmodified":1566624682,
+    "wof:lastmodified":1706240502,
     "wof:name":"Mango Matuz",
     "wof:parent_id":102074213,
     "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326512351
+    ],
     "wof:tags":[]
 },
   "bbox": [

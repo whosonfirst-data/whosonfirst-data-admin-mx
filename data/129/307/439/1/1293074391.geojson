@@ -31,6 +31,7 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,6 +41,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4000144
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4000145
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"68d30bf23b97a8a94b857802199c6899",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1293074391,
-    "wof:lastmodified":1566619730,
+    "wof:lastmodified":1706240511,
     "wof:name":"Las Canoas",
     "wof:parent_id":102074857,
     "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327304481
+    ],
     "wof:tags":[]
 },
   "bbox": [

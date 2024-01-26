@@ -105,6 +105,11 @@
     "wof:concordances":{
         "gn:id":8867199
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3519156
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"7a2ceee32da392424fc6a8eec3196133",
     "wof:hierarchy":[
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":1243514159,
-    "wof:lastmodified":1566635955,
+    "wof:lastmodified":1706240479,
     "wof:name":"San Isidro",
     "wof:parent_id":102077435,
     "wof:placetype":"locality",
@@ -125,7 +130,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327479441
+    ],
     "wof:tags":[]
 },
   "bbox": [

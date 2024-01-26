@@ -12,6 +12,7 @@
     "gn:admin1_code":"14.0",
     "gn:admin2_code":"8.0",
     "gn:asciiname":"La Cieneguita",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":2246,
     "gn:feature_class":"P",
@@ -33,7 +34,12 @@
     "name:spa_x_preferred":[
         "La Cieneguita"
     ],
+    "name:und_x_variant":[
+        "Cieneguita",
+        "La Cieneguita"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4002917
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4002932
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0553a17e68407dac5b08adf30046f55f",
@@ -56,13 +67,17 @@
         }
     ],
     "wof:id":1293472907,
-    "wof:lastmodified":1566620875,
+    "wof:lastmodified":1706240514,
     "wof:name":"La Cieneguita",
     "wof:parent_id":102074703,
     "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343831359
+    ],
     "wof:tags":[]
 },
   "bbox": [

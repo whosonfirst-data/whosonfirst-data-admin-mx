@@ -35,6 +35,7 @@
         "Arroyo Dehesa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
@@ -42,8 +43,13 @@
     "wof:concordances":{
         "gn:id":3529839
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3762782
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"a5fd430e5878d3d744b81b88cecc661d",
+    "wof:geomhash":"4e80825c95fce97b4c14406fdd99d95f",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -51,20 +57,24 @@
         }
     ],
     "wof:id":1209460697,
-    "wof:lastmodified":1566626027,
+    "wof:lastmodified":1706240433,
     "wof:name":"Arroyo Dehesa",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":406,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209561073
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -95.69787,
-    17.79678999999999,
+    17.79679,
     -95.69787,
-    17.79678999999999
+    17.79679
 ],
-  "geometry": {"coordinates":[-95.69786999999999,17.79678999999999],"type":"Point"}
+  "geometry": {"coordinates":[-95.69786999999999,17.79679],"type":"Point"}
 }

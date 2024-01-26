@@ -40,12 +40,18 @@
         "Sabana"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3520169
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3824672
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d0622b5163b70989a2e879f314de49dc",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1209052357,
-    "wof:lastmodified":1566626888,
+    "wof:lastmodified":1706240424,
     "wof:name":"Macedonio Alonso",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":1840,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226202151
+    ],
     "wof:tags":[]
 },
   "bbox": [

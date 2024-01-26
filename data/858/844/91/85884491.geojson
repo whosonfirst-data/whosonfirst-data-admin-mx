@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
     "geom:area_square_m":462765.464759,
-    "geom:bbox":"-99.0856933594,19.4458742569,-99.0798758984,19.4543315474",
+    "geom:bbox":"-99.085693,19.445874,-99.079876,19.454332",
     "geom:latitude":19.449576,
-    "geom:longitude":-99.083181,
+    "geom:longitude":-99.08318,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.091862,19.440722,-99.081862,19.450722",
     "lbl:latitude":19.448463,
     "lbl:longitude":-99.082947,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "U H San Juan de Aragon 2a Secc"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"U H San Juan de Aragon 2a Secc",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":421638,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55904050,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,8 +90,16 @@
         "gp:id":55904050,
         "qs_pg:id":421638
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55904050
+        ],
+        "qs_pg:id":[
+            421638
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"19c6813615fa0fca68cd5fb2af99e169",
+    "wof:geomhash":"55ac2c6ef96291923e2f1e5e67971b4c",
     "wof:hierarchy":[
         {
             "borough_id":890535781,
@@ -95,20 +124,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619588,
+    "wof:lastmodified":1706240382,
     "wof:name":"U H San Juan de Aragon 2a Secc",
     "wof:parent_id":890535781,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126081617
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.08569335938591,
-    19.44587425687538,
-    -99.0798758983698,
-    19.45433154743748
+    -99.085693,
+    19.445874,
+    -99.079876,
+    19.454332
 ],
-  "geometry": {"coordinates":[[[-99.08214595662992,19.45311752335239],[-99.08149736697337,19.45105402980009],[-99.08020019529991,19.45105402980009],[-99.08020019529999,19.44692706700175],[-99.07987589836981,19.44589531353837],[-99.07987986937769,19.44587425687538],[-99.08020019529991,19.44587425687538],[-99.085693359375,19.44587425687538],[-99.08569335938424,19.44587429820001],[-99.08569335938591,19.45105402980009],[-99.085693359375,19.45364373020035],[-99.08471213530498,19.45416404643694],[-99.08329069186863,19.45433154743748],[-99.08214595662992,19.45311752335239]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.08214599999999,19.453118],[-99.081497,19.451054],[-99.0802,19.451054],[-99.0802,19.446927],[-99.079876,19.445895],[-99.07988,19.445874],[-99.0802,19.445874],[-99.08569300000001,19.445874],[-99.08569300000001,19.445874],[-99.08569300000001,19.451054],[-99.08569300000001,19.453644],[-99.084712,19.454164],[-99.083291,19.454332],[-99.08214599999999,19.453118]]],"type":"Polygon"}
 }

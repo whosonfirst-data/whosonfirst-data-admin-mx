@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Bartolo Lanzados"
+    ],
+    "name:und_x_variant":[
+        "San Bartolo Lanzadas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3827034
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827079
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3a735efeec21edfa73c36ce743240b37",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1260359319,
-    "wof:lastmodified":1566629363,
+    "wof:lastmodified":1706240496,
     "wof:name":"San Bartolo Lanzados",
     "wof:parent_id":102074199,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276853269
+    ],
     "wof:tags":[]
 },
   "bbox": [

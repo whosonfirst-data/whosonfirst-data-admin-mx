@@ -84,6 +84,7 @@
     "name:spa_x_preferred":[
         "San Mart\u00edn"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "R\u00edo San Martin"
     ],
@@ -92,6 +93,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "San Mart\u00edn de las Juntas"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u0679\u0646"
@@ -116,6 +120,11 @@
     "wof:concordances":{
         "gn:id":3518425
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3518415
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"dc711919a12e2129b7fc775afb4b4fac",
     "wof:hierarchy":[
@@ -128,13 +137,15 @@
         }
     ],
     "wof:id":1209878191,
-    "wof:lastmodified":1636493079,
+    "wof:lastmodified":1706240442,
     "wof:name":"San Martin",
     "wof:parent_id":102078737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226317303
+    ],
     "wof:tags":[]
 },
   "bbox": [

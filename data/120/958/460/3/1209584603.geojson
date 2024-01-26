@@ -66,6 +66,9 @@
     "name:swe_x_preferred":[
         "Xochitepec"
     ],
+    "name:und_x_variant":[
+        "Xochiltepec"
+    ],
     "name:vie_x_preferred":[
         "Xochitepec"
     ],
@@ -78,6 +81,11 @@
     "wof:concordances":{
         "gn:id":3818949
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3514438
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"614b4094c086ed7d5688847941150a19",
     "wof:hierarchy":[
@@ -87,7 +95,7 @@
         }
     ],
     "wof:id":1209584603,
-    "wof:lastmodified":1566626722,
+    "wof:lastmodified":1706240436,
     "wof:name":"Xochitepec",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -95,7 +103,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293568827
+    ],
     "wof:tags":[]
 },
   "bbox": [

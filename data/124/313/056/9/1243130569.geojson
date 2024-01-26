@@ -112,6 +112,7 @@
         "San Javier"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -121,6 +122,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3514989
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8858794
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"16a6d70f2a23ad14a4b35715af7a1537",
@@ -134,13 +140,17 @@
         }
     ],
     "wof:id":1243130569,
-    "wof:lastmodified":1636493807,
+    "wof:lastmodified":1706240473,
     "wof:name":"San Javier",
     "wof:parent_id":102077095,
     "wof:placetype":"locality",
+    "wof:population":1871,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327090703
+    ],
     "wof:tags":[]
 },
   "bbox": [

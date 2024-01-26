@@ -35,6 +35,7 @@
         "Rancho Nuevo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3989526
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3989525
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6579bbc2e5fefbc618530ebf2188cbeb",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1276542507,
-    "wof:lastmodified":1566624965,
+    "wof:lastmodified":1706240502,
     "wof:name":"Rancho Nuevo",
     "wof:parent_id":102078807,
     "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309891535
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -33,7 +33,11 @@
     "name:spa_x_preferred":[
         "Las Tres B"
     ],
+    "name:spa_x_variant":[
+        "La Raya del Lechero"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8701027
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8700888
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"95e710011c0ed783b4450e97e9e67dd7",
@@ -56,13 +65,17 @@
         }
     ],
     "wof:id":1259830375,
-    "wof:lastmodified":1566637751,
+    "wof:lastmodified":1706240489,
     "wof:name":"Las Tres B",
     "wof:parent_id":102078949,
     "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327281275
+    ],
     "wof:tags":[]
 },
   "bbox": [

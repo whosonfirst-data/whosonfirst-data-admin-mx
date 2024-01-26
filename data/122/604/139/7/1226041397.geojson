@@ -90,6 +90,9 @@
     "name:spa_x_preferred":[
         "San Javier"
     ],
+    "name:spa_x_variant":[
+        "San Javier"
+    ],
     "name:swe_x_preferred":[
         "San Javier"
     ],
@@ -117,6 +120,11 @@
     "wof:concordances":{
         "gn:id":8896750
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9627026
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"03194964a1615b8a83915e3d7f8c5ba7",
     "wof:hierarchy":[
@@ -129,7 +137,7 @@
         }
     ],
     "wof:id":1226041397,
-    "wof:lastmodified":1636494210,
+    "wof:lastmodified":1706240451,
     "wof:name":"San Javier",
     "wof:parent_id":102075717,
     "wof:placetype":"locality",
@@ -137,7 +145,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327127369
+    ],
     "wof:tags":[]
 },
   "bbox": [

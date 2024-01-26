@@ -9,7 +9,22 @@
     "geom:bbox":"-103.676799,18.682081,-103.651117,18.71479",
     "geom:latitude":18.699031,
     "geom:longitude":-103.662903,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Coahuayana de Hidalgo",
+    "gn:country_code":"MX",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4025994,
+    "gn:latitude":18.70224,
+    "gn:longitude":-103.66145,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Coahuayana de Hidalgo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-103.68145,18.68224,-103.64145,18.72224",
     "lbl:latitude":18.698284,
     "lbl:longitude":-103.663778,
     "lbl:max_zoom":18.0,
@@ -61,6 +76,9 @@
     "name:swe_x_preferred":[
         "Coahuayana"
     ],
+    "name:und_x_variant":[
+        "Coahuayana"
+    ],
     "name:vec_x_preferred":[
         "Coahuayana"
     ],
@@ -98,6 +116,11 @@
         "qs_pg:id":251448,
         "wd:id":"Q958809"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4025994
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -113,13 +136,15 @@
         }
     ],
     "wof:id":101997097,
-    "wof:lastmodified":1690847573,
+    "wof:lastmodified":1706240405,
     "wof:name":"Coahuayana de Hidalgo",
     "wof:parent_id":102074891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293860123
+    ],
     "wof:tags":[]
 },
   "bbox": [

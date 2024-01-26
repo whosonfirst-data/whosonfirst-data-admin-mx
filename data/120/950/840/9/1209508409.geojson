@@ -36,6 +36,9 @@
     "name:swe_x_preferred":[
         "El Durazno"
     ],
+    "name:und_x_variant":[
+        "Durazno"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4009955
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4009953
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"406897415c89c5a11529aeb7aaada510",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1209508409,
-    "wof:lastmodified":1566626386,
+    "wof:lastmodified":1706240435,
     "wof:name":"El Durazno",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343843831
+    ],
     "wof:tags":[]
 },
   "bbox": [

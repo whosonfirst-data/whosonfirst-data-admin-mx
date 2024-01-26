@@ -40,6 +40,7 @@
         "El Nopo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3528615
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8882092
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3b308634f551dfa460f27d422c24985d",
@@ -62,13 +68,17 @@
         }
     ],
     "wof:id":1209962449,
-    "wof:lastmodified":1566625408,
+    "wof:lastmodified":1706240444,
     "wof:name":"Seis de Enero",
     "wof:parent_id":102077769,
     "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343420617
+    ],
     "wof:tags":[]
 },
   "bbox": [

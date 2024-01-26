@@ -9,8 +9,23 @@
     "geom:bbox":"-97.920316,22.321499,-97.843438,22.400461",
     "geom:latitude":22.356824,
     "geom:longitude":-97.886412,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Miramar",
+    "gn:country_code":"MX",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3523149,
     "gn:id":"3523149,3523150",
+    "gn:latitude":22.32085,
+    "gn:longitude":-97.8595,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Miramar",
+    "gn:population":67689,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-97.8795,22.30085,-97.8395,22.34085",
     "lbl:latitude":22.364705,
     "lbl:longitude":-97.892787,
     "lbl:max_zoom":18.0,
@@ -83,6 +98,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":284,
     "wof:belongsto":[
         102191575,
@@ -95,7 +111,13 @@
         "gn:id":3523150,
         "gp:id":133767,
         "qs_pg:id":993133,
-        "wd:id":"Q2877380"
+        "wd:id":"Q2877380",
+        "wk:page":"Miramar%2C_Tamaulipas"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3523149
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -112,13 +134,17 @@
         }
     ],
     "wof:id":102001083,
-    "wof:lastmodified":1690846962,
+    "wof:lastmodified":1706240416,
     "wof:name":"Miramar",
     "wof:parent_id":102078949,
     "wof:placetype":"locality",
+    "wof:population":67689,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310352473
+    ],
     "wof:tags":[]
 },
   "bbox": [

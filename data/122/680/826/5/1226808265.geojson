@@ -37,6 +37,7 @@
         "Boca Negra"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3972451
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8877046
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1f0eb4da8906d0860bc98eb67bb2bfdd",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226808265,
-    "wof:lastmodified":1566639544,
+    "wof:lastmodified":1706240464,
     "wof:name":"San Isidro Bocanegra",
     "wof:parent_id":102075485,
     "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277033811
+    ],
     "wof:tags":[]
 },
   "bbox": [

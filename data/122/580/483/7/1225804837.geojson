@@ -37,6 +37,7 @@
         "El Sauz"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3825381
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8870334
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"098e2bbd8f8c92eba149af106eacede5",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1225804837,
-    "wof:lastmodified":1566640506,
+    "wof:lastmodified":1706240445,
     "wof:name":"Arroyo el Sauce",
     "wof:parent_id":102077581,
     "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310546949
+    ],
     "wof:tags":[]
 },
   "bbox": [

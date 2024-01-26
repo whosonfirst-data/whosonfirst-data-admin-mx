@@ -37,6 +37,7 @@
         "Las Cuevas del Ojo de Agua"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4024426
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4024427
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"095485cd3dfeb6ab6441dee7864dec9c",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276643171,
-    "wof:lastmodified":1566624637,
+    "wof:lastmodified":1706240503,
     "wof:name":"Los Ojos de Agua",
     "wof:parent_id":102077315,
     "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360265583
+    ],
     "wof:tags":[]
 },
   "bbox": [

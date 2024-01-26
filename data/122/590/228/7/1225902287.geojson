@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "Suspiro"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -42,8 +45,13 @@
     "wof:concordances":{
         "gn:id":3823140
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3516467
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"b1389f90bb9f2468e13b2d5fc4cddf87",
+    "wof:geomhash":"50f3967ffc20d311b580114857cb0f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1225902287,
-    "wof:lastmodified":1566640605,
+    "wof:lastmodified":1706240447,
     "wof:name":"El Suspiro",
     "wof:parent_id":102079235,
     "wof:placetype":"locality",
@@ -62,14 +70,16 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327390005
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -88.52944000000002,
+    -88.52944,
     18.75778,
-    -88.52944000000002,
+    -88.52944,
     18.75778
 ],
-  "geometry": {"coordinates":[-88.52944000000002,18.75778],"type":"Point"}
+  "geometry": {"coordinates":[-88.52943999999999,18.75778],"type":"Point"}
 }

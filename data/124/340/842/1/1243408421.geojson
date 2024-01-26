@@ -151,6 +151,7 @@
         "\u8056\u8cbb\u723e\u5357\u591a"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -160,6 +161,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3517603
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8927284
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"908326a747e2eee1f735ce8071adfcfc",
@@ -173,13 +179,17 @@
         }
     ],
     "wof:id":1243408421,
-    "wof:lastmodified":1636493800,
+    "wof:lastmodified":1706240477,
     "wof:name":"San Fernando",
     "wof:parent_id":102075797,
     "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259934297
+    ],
     "wof:tags":[]
 },
   "bbox": [

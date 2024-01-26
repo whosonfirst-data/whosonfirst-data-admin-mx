@@ -30,6 +30,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "Taponas",
+        "Las Taponas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4029632
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999251
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"391e302de9cd47ca467d62ca3b8079bb",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276182947,
-    "wof:lastmodified":1566623153,
+    "wof:lastmodified":1706240497,
     "wof:name":"Las Taponas",
     "wof:parent_id":102077117,
     "wof:placetype":"locality",
@@ -62,7 +71,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310669463
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,22 @@
     "geom:bbox":"-98.718074,17.459055,-98.705781,17.469698",
     "geom:latitude":17.464454,
     "geom:longitude":-98.712587,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Copanatoyac",
+    "gn:country_code":"MX",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3530254,
+    "gn:latitude":17.46335,
+    "gn:longitude":-98.71362,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Copanatoyac",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-98.73362,17.44335,-98.69362,17.48335",
     "lbl:latitude":17.463518,
     "lbl:longitude":-98.713099,
     "lbl:max_zoom":18.0,
@@ -52,6 +67,9 @@
     "name:swe_x_preferred":[
         "Copanatoyac"
     ],
+    "name:und_x_variant":[
+        "Copantoyac"
+    ],
     "name:vie_x_preferred":[
         "Copanatoyac"
     ],
@@ -79,8 +97,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3530254,
         "gp:id":55895540,
-        "wd:id":"Q3845805"
+        "wd:id":"Q3845805",
+        "wk:page":"Copanatoyac"
     },
     "wof:country":"MX",
     "wof:geomhash":"c83d41dd9d37aa25d7995181bc0b1d8c",
@@ -94,13 +114,15 @@
         }
     ],
     "wof:id":101991205,
-    "wof:lastmodified":1690847470,
+    "wof:lastmodified":1706240388,
     "wof:name":"Copanatoyac",
     "wof:parent_id":102073831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242754563
+    ],
     "wof:tags":[]
 },
   "bbox": [

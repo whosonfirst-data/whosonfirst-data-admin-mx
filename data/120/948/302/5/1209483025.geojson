@@ -36,13 +36,22 @@
     "name:spa_x_variant":[
         "El Potrero de los P\u00e1ez"
     ],
+    "name:und_x_variant":[
+        "El Potrero de los P\u00e1ez"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9081028
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8881344
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0c76980c429597b2e03091b222cf26ff",
@@ -53,13 +62,17 @@
         }
     ],
     "wof:id":1209483025,
-    "wof:lastmodified":1566625840,
+    "wof:lastmodified":1706240434,
     "wof:name":"El Potrero de los Paez",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326584785
+    ],
     "wof:tags":[]
 },
   "bbox": [

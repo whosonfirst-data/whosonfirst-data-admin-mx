@@ -12,6 +12,7 @@
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"67.0",
     "gn:asciiname":"Ansihuacuaro",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":1699,
     "gn:feature_class":"P",
@@ -41,6 +42,7 @@
         "Ancihuacaro"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4018454
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4024999
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"394be62c424f3e83f9d6003418ad8af5",
@@ -63,13 +70,17 @@
         }
     ],
     "wof:id":1243430815,
-    "wof:lastmodified":1566637116,
+    "wof:lastmodified":1706240478,
     "wof:name":"Ansihuacuaro",
     "wof:parent_id":102075091,
     "wof:placetype":"locality",
+    "wof:population":1160,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309777801
+    ],
     "wof:tags":[]
 },
   "bbox": [

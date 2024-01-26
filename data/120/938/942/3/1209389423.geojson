@@ -37,12 +37,18 @@
         "Brasil"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3532109
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3792082
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"99fbfd7c20cf19f077794e7d5e0a68ba",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209389423,
-    "wof:lastmodified":1566625242,
+    "wof:lastmodified":1706240432,
     "wof:name":"El Brasil",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226407283
+    ],
     "wof:tags":[]
 },
   "bbox": [

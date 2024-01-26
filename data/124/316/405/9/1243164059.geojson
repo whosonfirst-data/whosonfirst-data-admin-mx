@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Duraznito"
+    ],
+    "name:und_x_variant":[
+        "Rancho El Duraznito"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8947920
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4009972
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"33d9148a42a9182870bb4df3618ecc1b",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1243164059,
-    "wof:lastmodified":1566636834,
+    "wof:lastmodified":1706240474,
     "wof:name":"El Duraznito",
     "wof:parent_id":102075235,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276325971
+    ],
     "wof:tags":[]
 },
   "bbox": [

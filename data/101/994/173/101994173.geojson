@@ -9,7 +9,22 @@
     "geom:bbox":"-106.130204,31.368617,-106.092806,31.39396",
     "geom:latitude":31.382217,
     "geom:longitude":-106.111795,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Guadalupe",
+    "gn:country_code":"MX",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":4005405,
+    "gn:latitude":31.3895,
+    "gn:longitude":-106.10574,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Guadalupe",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-106.12574,31.3695,-106.08574,31.4095",
     "lbl:latitude":31.38094,
     "lbl:longitude":-106.113062,
     "lbl:max_zoom":18.0,
@@ -89,6 +104,11 @@
     "name:swe_x_preferred":[
         "Guadalupe"
     ],
+    "name:und_x_variant":[
+        "Guadalupe Bravo",
+        "Guadalupe Bravos",
+        "Guadalupe D B"
+    ],
     "name:vie_x_preferred":[
         "Guadalupe"
     ],
@@ -128,6 +148,14 @@
         "wd:id":"Q2997100",
         "wk:page":"Guadalupe Municipality, Chihuahua"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4005405
+        ],
+        "wk:page":[
+            "Guadalupe_Municipality%2C_Chihuahua"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -146,13 +174,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847889,
+    "wof:lastmodified":1706240398,
     "wof:name":"Guadalupe",
     "wof:parent_id":102075241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343453009
+    ],
     "wof:tags":[]
 },
   "bbox": [

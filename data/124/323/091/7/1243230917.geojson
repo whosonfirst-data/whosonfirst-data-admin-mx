@@ -37,6 +37,7 @@
         "Rancho El S\u00e1uz"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4007511
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8877304
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"027ed62870696241d70fd530fec84f7c",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1243230917,
-    "wof:lastmodified":1566635355,
+    "wof:lastmodified":1706240475,
     "wof:name":"El Sauz",
     "wof:parent_id":102074495,
     "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360239317
+    ],
     "wof:tags":[]
 },
   "bbox": [

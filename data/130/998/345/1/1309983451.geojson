@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Mineral de Peregrina"
+    ],
+    "name:spa_x_variant":[
+        "La Peregrina"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8873649
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4023173
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4f96f3b1a21c26d723fd02fa88ae82f1",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1309983451,
-    "wof:lastmodified":1566632948,
+    "wof:lastmodified":1706240521,
     "wof:name":"Mineral de Peregrina",
     "wof:parent_id":102077347,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343838355
+    ],
     "wof:tags":[]
 },
   "bbox": [

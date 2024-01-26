@@ -46,6 +46,7 @@
         "Jalapa del Valle"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -54,7 +55,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3526614
+        "gn:id":3526614,
+        "wk:page":"Jalapa_del_Valle"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8862116
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4814005599cb9afa287df26e6a66f4ec",
@@ -68,13 +75,17 @@
         }
     ],
     "wof:id":1193237405,
-    "wof:lastmodified":1566627922,
+    "wof:lastmodified":1706240422,
     "wof:name":"Jalapa del Valle",
     "wof:parent_id":102076095,
     "wof:placetype":"locality",
+    "wof:population":603,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276941909
+    ],
     "wof:tags":[]
 },
   "bbox": [

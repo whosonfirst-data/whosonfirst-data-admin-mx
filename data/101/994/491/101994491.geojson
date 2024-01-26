@@ -9,8 +9,23 @@
     "geom:bbox":"-93.246102,17.486264,-93.239449,17.496008",
     "geom:latitude":17.49151,
     "geom:longitude":-93.243102,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Sunuapa",
+    "gn:country_code":"MX",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3516472,
     "gn:id":"3815803,3516472",
+    "gn:latitude":17.49172,
+    "gn:longitude":-93.24385,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Sunuapa",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-93.26385,17.47172,-93.22385,17.51172",
     "lbl:latitude":17.491344,
     "lbl:longitude":-93.243497,
     "lbl:max_zoom":18.0,
@@ -71,6 +86,9 @@
     "name:swe_x_preferred":[
         "Sunuapa"
     ],
+    "name:und_x_variant":[
+        "Sinuapa"
+    ],
     "name:vie_x_preferred":[
         "Sunuapa"
     ],
@@ -98,6 +116,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3516472,
         "gp:id":147898,
         "wd:id":"Q1953214"
     },
@@ -113,13 +132,15 @@
         }
     ],
     "wof:id":101994491,
-    "wof:lastmodified":1690847888,
+    "wof:lastmodified":1706240399,
     "wof:name":"Sunuapa",
     "wof:parent_id":102075535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260174761
+    ],
     "wof:tags":[]
 },
   "bbox": [

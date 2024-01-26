@@ -37,6 +37,7 @@
         "El Salto"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4007685
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8860042
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"508396028d3b66fc1d04782cb62290d1",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1326810689,
-    "wof:lastmodified":1566613135,
+    "wof:lastmodified":1706240529,
     "wof:name":"Salto de Pena",
     "wof:parent_id":102077297,
     "wof:placetype":"locality",
+    "wof:population":964,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360272575
+    ],
     "wof:tags":[]
 },
   "bbox": [

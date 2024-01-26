@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3791763
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3531460
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"5d966a319d7df717322eccce9f91cc3a",
     "wof:hierarchy":[
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1277151487,
-    "wof:lastmodified":1566623908,
+    "wof:lastmodified":1706240508,
     "wof:name":"Casas Reales",
     "wof:parent_id":102078761,
     "wof:placetype":"locality",
@@ -65,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309771043
+    ],
     "wof:tags":[]
 },
   "bbox": [

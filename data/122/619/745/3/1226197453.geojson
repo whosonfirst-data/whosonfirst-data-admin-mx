@@ -38,6 +38,7 @@
         "Los Capomos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3998014
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859363
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b16294dc6d98db435cc06e99a4f0bd14",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1226197453,
-    "wof:lastmodified":1566639481,
+    "wof:lastmodified":1706240454,
     "wof:name":"Estacion Capomas",
     "wof:parent_id":102074321,
     "wof:placetype":"locality",
+    "wof:population":1265,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276622021
+    ],
     "wof:tags":[]
 },
   "bbox": [

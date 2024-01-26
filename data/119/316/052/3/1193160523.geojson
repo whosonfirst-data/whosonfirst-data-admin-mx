@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Once de Mayo"
+    ],
+    "name:und_x_variant":[
+        "El Once"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8866136
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3821356
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"08dc857bd2065838be8ab01707c2b451",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1193160523,
-    "wof:lastmodified":1566628392,
+    "wof:lastmodified":1706240422,
     "wof:name":"Once de Mayo",
     "wof:parent_id":102079223,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259690033
+    ],
     "wof:tags":[]
 },
   "bbox": [

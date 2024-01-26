@@ -37,6 +37,7 @@
         "R. Colorado"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3974758
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4013240
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1dd3b9baff70804d40a88fe0d5044053",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259877131,
-    "wof:lastmodified":1566638634,
+    "wof:lastmodified":1706240491,
     "wof:name":"Rancho Colorado",
     "wof:parent_id":102075215,
     "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309897895
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,9 +9,22 @@
     "geom:bbox":"-89.61308,21.13263,-89.61308,21.13263",
     "geom:latitude":21.13263,
     "geom:longitude":-89.61308,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"50.0",
+    "gn:asciiname":"Xcunya",
     "gn:country":"MX",
+    "gn:country_code":"MX",
+    "gn:dem":8,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3822319,
+    "gn:latitude":21.13278,
+    "gn:longitude":-89.61306,
+    "gn:modification_date":"2013-08-01",
+    "gn:name":"Xcuny\u00e1",
     "gn:population":0,
+    "gn:timezone":"America/Merida",
     "iso:country":"MX",
     "lbl:bbox":"-89.63308,21.11263,-89.59308,21.15263",
     "lbl:latitude":21.13263,
@@ -47,6 +60,7 @@
     "qs_pg:woe_id":151098,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424900,
     "woe:name_adm0":"M\u00e9xico",
     "woe:name_adm1":"Yucatan",
@@ -63,6 +77,11 @@
         "gp:id":151098,
         "qs_pg:id":210451
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3822319
+        ]
+    },
     "wof:country":"MX",
     "wof:created":1497295370,
     "wof:geomhash":"25f5905e33ab8b6dd5d5b8fdbcd4c29b",
@@ -76,13 +95,17 @@
         }
     ],
     "wof:id":1125892159,
-    "wof:lastmodified":1566633996,
+    "wof:lastmodified":1706240417,
     "wof:name":"Xcunya",
     "wof:parent_id":102078971,
     "wof:placetype":"locality",
+    "wof:population":907,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209950995
+    ],
     "wof:tags":[]
 },
   "bbox": [

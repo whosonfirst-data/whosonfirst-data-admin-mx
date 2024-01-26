@@ -34,6 +34,7 @@
         "Ojotitancillo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3994237
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8908346
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"761f6185fafde7b54174f7ae4818d348",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226525383,
-    "wof:lastmodified":1566641324,
+    "wof:lastmodified":1706240460,
     "wof:name":"Ojotitancillo",
     "wof:parent_id":102074861,
     "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343634803
+    ],
     "wof:tags":[]
 },
   "bbox": [

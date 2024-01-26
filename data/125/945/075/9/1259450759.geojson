@@ -37,6 +37,7 @@
         "Ejido Gambina"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4011599
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859578
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"43d6645c73543933cae33483b148fcf1",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259450759,
-    "wof:lastmodified":1566638823,
+    "wof:lastmodified":1706240483,
     "wof:name":"Gambino",
     "wof:parent_id":102074321,
     "wof:placetype":"locality",
+    "wof:population":1151,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343317009
+    ],
     "wof:tags":[]
 },
   "bbox": [

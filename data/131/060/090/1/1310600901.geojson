@@ -36,7 +36,11 @@
     "name:spa_x_variant":[
         "El Pinal del R\u00edo"
     ],
+    "name:und_x_variant":[
+        "El Pinal del R\u00edo"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9113368
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8924605
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"05909255d31051ea77386d482a67e206",
@@ -59,13 +68,17 @@
         }
     ],
     "wof:id":1310600901,
-    "wof:lastmodified":1566631411,
+    "wof:lastmodified":1706240526,
     "wof:name":"El Pinal del Rio",
     "wof:parent_id":102079211,
     "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360291625
+    ],
     "wof:tags":[]
 },
   "bbox": [

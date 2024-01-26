@@ -164,6 +164,11 @@
     "wof:concordances":{
         "gn:id":8711428
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8711436
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"7df4e8c224a5e03af7af4304eba892e9",
     "wof:hierarchy":[
@@ -176,13 +181,15 @@
         }
     ],
     "wof:id":1243314219,
-    "wof:lastmodified":1566634398,
+    "wof:lastmodified":1706240476,
     "wof:name":"El Alto",
     "wof:parent_id":102078955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343905239
+    ],
     "wof:tags":[]
 },
   "bbox": [

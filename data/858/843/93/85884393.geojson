@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
         "Ampl Vista Hermosa"
@@ -53,11 +54,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":134395,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Ampl Vista Hermosa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":126,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":126,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":232456,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903549,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -69,6 +89,14 @@
     "wof:concordances":{
         "gp:id":55903549,
         "qs_pg:id":232456
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55903549
+        ],
+        "qs_pg:id":[
+            232456
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -89,13 +117,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1706240379,
     "wof:name":"Ampl Vista Hermosa",
     "wof:parent_id":101992499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126097683
+    ],
     "wof:tags":[]
 },
   "bbox": [

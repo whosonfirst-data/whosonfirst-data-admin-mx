@@ -122,6 +122,11 @@
     "wof:concordances":{
         "gn:id":4008456
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3977572
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f5a53f28713cec91e71b65e2b5c3e23d",
     "wof:hierarchy":[
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1309676957,
-    "wof:lastmodified":1636493609,
+    "wof:lastmodified":1706240519,
     "wof:name":"El Porvenir",
     "wof:parent_id":102078741,
     "wof:placetype":"locality",
@@ -142,7 +147,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310621107
+    ],
     "wof:tags":[]
 },
   "bbox": [

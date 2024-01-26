@@ -9,8 +9,23 @@
     "geom:bbox":"-97.902591,22.206966,-97.836381,22.325514",
     "geom:latitude":22.26675,
     "geom:longitude":-97.871442,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Tampico",
+    "gn:country_code":"MX",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3516354,
     "gn:id":"3516354,3824166,3516355",
+    "gn:latitude":22.3,
+    "gn:longitude":-97.85,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Tampico",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-97.87,22.28,-97.83,22.32",
     "lbl:latitude":22.277212,
     "lbl:longitude":-97.875388,
     "lbl:max_zoom":18.0,
@@ -155,6 +170,9 @@
     "name:nob_x_preferred":[
         "Tampico"
     ],
+    "name:nor_x_preferred":[
+        "Tampico"
+    ],
     "name:pol_x_preferred":[
         "Tampico"
     ],
@@ -250,6 +268,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3516354,
         "gp:id":148123,
         "qs_pg:id":456299,
         "wd:id":"Q273014"
@@ -269,13 +288,15 @@
         }
     ],
     "wof:id":102001087,
-    "wof:lastmodified":1690846980,
+    "wof:lastmodified":1706240417,
     "wof:name":"Tampico",
     "wof:parent_id":102078943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209175373
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"-100.222585,19.171974,-100.209706,19.189756",
     "geom:latitude":19.179557,
     "geom:longitude":-100.217524,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"110.0",
+    "gn:asciiname":"Colorines",
+    "gn:country_code":"MX",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4013141,
     "gn:id":"4013141,4013142",
+    "gn:latitude":19.17829,
+    "gn:longitude":-100.21817,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Colorines",
+    "gn:population":7246,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-100.23817,19.15829,-100.19817,19.19829",
     "lbl:latitude":19.17886,
     "lbl:longitude":-100.21904,
     "lbl:max_zoom":18.0,
@@ -44,6 +59,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":831,
     "wof:belongsto":[
         102191575,
@@ -57,6 +73,11 @@
         "gp:id":117058,
         "qs_pg:id":33664,
         "wd:id":"Q5149060"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4013141
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -73,13 +94,17 @@
         }
     ],
     "wof:id":101991619,
-    "wof:lastmodified":1690847463,
+    "wof:lastmodified":1706240388,
     "wof:name":"Colorines",
     "wof:parent_id":102074001,
     "wof:placetype":"locality",
+    "wof:population":7246,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344239209
+    ],
     "wof:tags":[]
 },
   "bbox": [

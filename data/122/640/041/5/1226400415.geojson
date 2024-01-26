@@ -39,6 +39,7 @@
         "Kankab-Ch\u00e9n"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,8 +50,13 @@
     "wof:concordances":{
         "gn:id":3531679
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3822990
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"dbb66047026eaa7d018059665dfe1356",
+    "wof:geomhash":"3b8a6f878792934e8d06af56f35a078e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,20 +67,24 @@
         }
     ],
     "wof:id":1226400415,
-    "wof:lastmodified":1566640985,
+    "wof:lastmodified":1706240458,
     "wof:name":"Kancabchen",
     "wof:parent_id":102079239,
     "wof:placetype":"locality",
+    "wof:population":1083,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277132833
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -88.86211,
-    19.71492000000001,
+    19.71492,
     -88.86211,
-    19.71492000000001
+    19.71492
 ],
-  "geometry": {"coordinates":[-88.86211,19.71492000000001],"type":"Point"}
+  "geometry": {"coordinates":[-88.86211,19.71492],"type":"Point"}
 }

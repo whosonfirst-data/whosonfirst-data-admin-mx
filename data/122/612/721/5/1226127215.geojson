@@ -57,6 +57,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0433\u0443\u0430-\u0414\u0443\u043b\u044c\u0441\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Agua Dulce"
+    ],
     "name:swe_x_preferred":[
         "Agua Dulce"
     ],
@@ -81,6 +84,11 @@
     "wof:concordances":{
         "gn:id":8875933
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4019437
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"002d0d7245477c8c6dda5d63f07965c9",
     "wof:hierarchy":[
@@ -93,7 +101,7 @@
         }
     ],
     "wof:id":1226127215,
-    "wof:lastmodified":1566641122,
+    "wof:lastmodified":1706240453,
     "wof:name":"Agua Dulce",
     "wof:parent_id":102074537,
     "wof:placetype":"locality",
@@ -101,7 +109,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343942589
+    ],
     "wof:tags":[]
 },
   "bbox": [

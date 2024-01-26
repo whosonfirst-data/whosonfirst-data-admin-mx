@@ -37,6 +37,7 @@
         "Rancho Laguna de El Macho"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4002137
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8929455
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c1b7739b4d519b304b0cbc90741cda7f",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226120987,
-    "wof:lastmodified":1566641103,
+    "wof:lastmodified":1706240452,
     "wof:name":"Laguna del Macho",
     "wof:parent_id":102075211,
     "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343549643
+    ],
     "wof:tags":[]
 },
   "bbox": [

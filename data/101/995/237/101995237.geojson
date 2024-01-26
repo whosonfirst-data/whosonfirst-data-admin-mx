@@ -9,8 +9,23 @@
     "geom:bbox":"-97.153497,16.924195,-97.136591,16.933165",
     "geom:latitude":16.928187,
     "geom:longitude":-97.145685,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"108.0",
+    "gn:asciiname":"San Antonio Huitepec",
+    "gn:country_code":"MX",
+    "gn:dem":2343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3526893,
     "gn:id":"3526893,3800688",
+    "gn:latitude":16.92888,
+    "gn:longitude":-97.1467,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Antonio Huitepec",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.1667,16.90888,-97.1267,16.94888",
     "lbl:latitude":16.927781,
     "lbl:longitude":-97.147253,
     "lbl:max_zoom":18.0,
@@ -53,6 +68,9 @@
     "name:swe_x_preferred":[
         "San Antonio Huitepec"
     ],
+    "name:und_x_variant":[
+        "Huitepec"
+    ],
     "name:vie_x_preferred":[
         "San Antonio Huitepec"
     ],
@@ -80,8 +98,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3526893,
         "gp:id":125250,
-        "wd:id":"Q1755563"
+        "wd:id":"Q1755563",
+        "wk:page":"San_Antonio_Huitepec"
     },
     "wof:country":"MX",
     "wof:geomhash":"f3c338ab73247d8d76fcdf8e33bdd039",
@@ -95,13 +115,15 @@
         }
     ],
     "wof:id":101995237,
-    "wof:lastmodified":1690847739,
+    "wof:lastmodified":1706240401,
     "wof:name":"San Antonio Huitepec",
     "wof:parent_id":102076071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225918295
+    ],
     "wof:tags":[]
 },
   "bbox": [

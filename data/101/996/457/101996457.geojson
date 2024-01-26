@@ -9,8 +9,23 @@
     "geom:bbox":"-99.064891,21.94667,-98.966106,22.030514",
     "geom:latitude":21.995167,
     "geom:longitude":-99.010315,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Ciudad Valles",
+    "gn:country_code":"MX",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3483849,
     "gn:id":"3483849,3530582",
+    "gn:latitude":21.99631,
+    "gn:longitude":-99.01093,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Ciudad Valles",
+    "gn:population":176935,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-99.03093,21.97631,-98.99093,22.01631",
     "lbl:latitude":22.000318,
     "lbl:longitude":-99.010364,
     "lbl:max_zoom":18.0,
@@ -203,6 +218,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -213,7 +229,13 @@
     "wof:concordances":{
         "gn:id":3530582,
         "gp:id":116571,
-        "qs_pg:id":274397
+        "qs_pg:id":274397,
+        "wk:page":"Ciudad_Valles"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3483849
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -230,13 +252,17 @@
         }
     ],
     "wof:id":101996457,
-    "wof:lastmodified":1636493540,
+    "wof:lastmodified":1706240403,
     "wof:name":"Ciudad Valles",
     "wof:parent_id":102077227,
     "wof:placetype":"locality",
+    "wof:population":176935,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260135487
+    ],
     "wof:tags":[]
 },
   "bbox": [

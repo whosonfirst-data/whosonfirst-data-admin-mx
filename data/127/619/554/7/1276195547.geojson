@@ -10,6 +10,7 @@
     "geom:latitude":19.95319,
     "geom:longitude":-102.75258,
     "gn:admin1_code":"15",
+    "gn:admin2_code":"45",
     "gn:asciiname":"Los Laureles",
     "gn:country_code":"MX",
     "gn:dem":1701,
@@ -36,6 +37,7 @@
         "Los Laureles"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3997611
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8899509
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"81dd54967a606533dd8c6c4cb225359b",
@@ -58,13 +65,17 @@
         }
     ],
     "wof:id":1276195547,
-    "wof:lastmodified":1566622969,
+    "wof:lastmodified":1706240498,
     "wof:name":"Los Laureles",
     "wof:parent_id":102075073,
     "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309787103
+    ],
     "wof:tags":[]
 },
   "bbox": [

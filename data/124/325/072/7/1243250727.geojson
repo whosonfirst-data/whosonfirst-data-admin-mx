@@ -58,6 +58,11 @@
     "wof:concordances":{
         "gn:id":4010971
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4024190
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"781e2cde1fecaf732208d677415c634b",
     "wof:hierarchy":[
@@ -70,13 +75,15 @@
         }
     ],
     "wof:id":1243250727,
-    "wof:lastmodified":1566635683,
+    "wof:lastmodified":1706240475,
     "wof:name":"Santos Degollado",
     "wof:parent_id":102077259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343938153
+    ],
     "wof:tags":[]
 },
   "bbox": [

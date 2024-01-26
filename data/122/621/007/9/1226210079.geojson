@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Caj\u00f3n de las Minas"
+    ],
+    "name:spa_x_variant":[
+        "El Frijolar"
+    ],
     "name:und_x_variant":[
         "El Caj\u00f3n de las Minas"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8905550
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4009799
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f56d2bf6f04485131333ee6e851dafee",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1226210079,
-    "wof:lastmodified":1566639413,
+    "wof:lastmodified":1706240454,
     "wof:name":"El Cajon de las Minas",
     "wof:parent_id":102074331,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259538595
+    ],
     "wof:tags":[]
 },
   "bbox": [

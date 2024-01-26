@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Huachichiles"
+    ],
+    "name:spa_x_variant":[
+        "Guachichiles"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4004719
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3978438
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"57ce1b81bedc255b875733a6d46019ed",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226330809,
-    "wof:lastmodified":1566639868,
+    "wof:lastmodified":1706240457,
     "wof:name":"Huachichiles",
     "wof:parent_id":102075195,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293677633
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,6 +37,7 @@
         "Sorcua"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3982831
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3982755
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2ed6c6b58071adc6791c6f5f19350f55",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1309885433,
-    "wof:lastmodified":1566633741,
+    "wof:lastmodified":1706240520,
     "wof:name":"Surcua",
     "wof:parent_id":102073925,
     "wof:placetype":"locality",
+    "wof:population":891,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310687743
+    ],
     "wof:tags":[]
 },
   "bbox": [

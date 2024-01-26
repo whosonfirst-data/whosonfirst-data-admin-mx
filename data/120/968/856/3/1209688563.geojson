@@ -34,12 +34,18 @@
         "El Corupo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4026351
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8893205
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"13e617a2ff53a9451f393661e6f52d2e",
@@ -50,13 +56,17 @@
         }
     ],
     "wof:id":1209688563,
-    "wof:lastmodified":1566626464,
+    "wof:lastmodified":1706240438,
     "wof:name":"El Corupo",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293070849
+    ],
     "wof:tags":[]
 },
   "bbox": [

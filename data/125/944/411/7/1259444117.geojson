@@ -39,6 +39,12 @@
     "name:por_x_preferred":[
         "La Reforma"
     ],
+    "name:spa_x_preferred":[
+        "La Reforma"
+    ],
+    "name:und_x_variant":[
+        "Rancho La Reforma"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,6 +56,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8937278
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3525054
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"22ef4d36fa6997dc3f7e74c4c5b0707a",
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1259444117,
-    "wof:lastmodified":1566638874,
+    "wof:lastmodified":1706240483,
     "wof:name":"La Reforma",
     "wof:parent_id":102078917,
     "wof:placetype":"locality",
@@ -71,7 +82,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343919095
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Huichitila"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8875552
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4004544
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7987bcb6f13b0ddede7741d876951643",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1226325639,
-    "wof:lastmodified":1566640206,
+    "wof:lastmodified":1706240457,
     "wof:name":"Huichitila",
     "wof:parent_id":102074871,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327404359
+    ],
     "wof:tags":[]
 },
   "bbox": [

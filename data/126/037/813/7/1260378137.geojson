@@ -38,6 +38,7 @@
         "Las Flores"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3999913
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8862106
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0a7ee49c0026b6002ae08afb2778d80b",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1260378137,
-    "wof:lastmodified":1566628982,
+    "wof:lastmodified":1706240496,
     "wof:name":"Flores de Begona",
     "wof:parent_id":102077311,
     "wof:placetype":"locality",
+    "wof:population":604,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326717579
+    ],
     "wof:tags":[]
 },
   "bbox": [

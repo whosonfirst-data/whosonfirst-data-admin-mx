@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Nueva Central"
+    ],
+    "name:spa_x_variant":[
+        "Nuevo San Pedro"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8877437
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3815600
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b23dde132d62626c7997f5c23e4ea833",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226742941,
-    "wof:lastmodified":1566639591,
+    "wof:lastmodified":1706240463,
     "wof:name":"Nueva Central",
     "wof:parent_id":102075717,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259380787
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,6 +37,7 @@
         "Rancho El Frijolar"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4009797
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8892413
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e6ee024dbdeb3a886c6815c25555a05f",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1326808781,
-    "wof:lastmodified":1566613259,
+    "wof:lastmodified":1706240529,
     "wof:name":"El Frijolar",
     "wof:parent_id":102075133,
     "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343750117
+    ],
     "wof:tags":[]
 },
   "bbox": [

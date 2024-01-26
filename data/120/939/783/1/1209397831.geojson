@@ -10,6 +10,7 @@
     "geom:latitude":19.16264,
     "geom:longitude":-102.95097,
     "gn:admin1_code":"14",
+    "gn:admin2_code":"89.0",
     "gn:asciiname":"La Estanzuela",
     "gn:country_code":"MX",
     "gn:dem":462,
@@ -33,12 +34,18 @@
         "La Estanzuela"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3976985
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4002424
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"447d4ee27afd0a5c83c073ef53519ea9",
@@ -49,13 +56,17 @@
         }
     ],
     "wof:id":1209397831,
-    "wof:lastmodified":1566625462,
+    "wof:lastmodified":1706240432,
     "wof:name":"La Estanzuela",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327315089
+    ],
     "wof:tags":[]
 },
   "bbox": [

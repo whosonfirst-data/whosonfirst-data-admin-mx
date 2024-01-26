@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Crucero de Jacales"
+    ],
+    "name:und_x_variant":[
+        "Jacales",
+        "Los Jacales"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8869495
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3524034
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"98a66379de546e2f2ce57eaa693728b7",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276169669,
-    "wof:lastmodified":1566623317,
+    "wof:lastmodified":1706240497,
     "wof:name":"El Crucero de Jacales",
     "wof:parent_id":102077537,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360031149
+    ],
     "wof:tags":[]
 },
   "bbox": [

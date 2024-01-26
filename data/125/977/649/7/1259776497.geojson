@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Cura"
+    ],
+    "name:spa_x_variant":[
+        "Rancho del Cura"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8861377
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816209
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7cd80b7c2c5e40f1dde5107a473ed914",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1259776497,
-    "wof:lastmodified":1566637726,
+    "wof:lastmodified":1706240488,
     "wof:name":"Rancho del Cura",
     "wof:parent_id":102075719,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293684691
+    ],
     "wof:tags":[]
 },
   "bbox": [

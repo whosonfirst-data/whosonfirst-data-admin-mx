@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Colomos"
+    ],
+    "name:und_x_variant":[
+        "Colomos"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3997897
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4013488
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"89ce9e361833fcd8b426825c23e1f5f5",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1242762467,
-    "wof:lastmodified":1566636374,
+    "wof:lastmodified":1706240468,
     "wof:name":"Los Colomos",
     "wof:parent_id":102074539,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343942593
+    ],
     "wof:tags":[]
 },
   "bbox": [

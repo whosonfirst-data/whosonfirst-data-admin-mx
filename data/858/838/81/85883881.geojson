@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
     "geom:area_square_m":581114.611344,
-    "geom:bbox":"-99.1625976562,19.3681584989,-99.1543579102,19.3759317497",
+    "geom:bbox":"-99.162598,19.368158,-99.154358,19.375932",
     "geom:latitude":19.372045,
     "geom:longitude":-99.159263,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.161246,19.36722,-99.151246,19.37722",
     "lbl:latitude":19.372242,
     "lbl:longitude":-99.158672,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Fracc Res Emperadores"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Fracc Res Emperadores",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":88,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":88,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":972518,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898663,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,8 +89,16 @@
         "gp:id":55898663,
         "qs_pg:id":972518
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898663
+        ],
+        "qs_pg:id":[
+            972518
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"e1132a907a52cb6e58c9795ecefac6d2",
+    "wof:geomhash":"9431d8cf54bfcda72243dcab2352ed09",
     "wof:hierarchy":[
         {
             "borough_id":890535769,
@@ -94,20 +123,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619675,
+    "wof:lastmodified":1706240370,
     "wof:name":"Fracc Res Emperadores",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126066485
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.1625976562145,
-    19.36815849885008,
-    -99.15435791018422,
-    19.37593174967789
+    -99.162598,
+    19.368158,
+    -99.154358,
+    19.375932
 ],
-  "geometry": {"coordinates":[[[-99.15710449220001,19.37593174896264],[-99.15710449220001,19.37334070696284],[-99.15435791018422,19.37334070696284],[-99.15435791018601,19.37074962446424],[-99.15710449220001,19.3707496237472],[-99.15710449220001,19.36815849970637],[-99.15985107419996,19.36815849885008],[-99.16259765621245,19.36815850056257],[-99.1625976562145,19.37006181349143],[-99.16259765619992,19.37074963020009],[-99.16259765619992,19.37334071340008],[-99.16259765620723,19.37402852070072],[-99.16259765621388,19.37593174967789],[-99.15985107419996,19.37593174967789],[-99.15710449220001,19.37593174896264]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.157104,19.375932],[-99.157104,19.373341],[-99.154358,19.373341],[-99.154358,19.37075],[-99.157104,19.37075],[-99.157104,19.368158],[-99.159851,19.368158],[-99.162598,19.368159],[-99.162598,19.370062],[-99.162598,19.37075],[-99.162598,19.373341],[-99.162598,19.374029],[-99.162598,19.375932],[-99.159851,19.375932],[-99.157104,19.375932]]],"type":"Polygon"}
 }

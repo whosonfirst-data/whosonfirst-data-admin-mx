@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "Nuevo An\u00e1huac"
     ],
+    "name:und_x_variant":[
+        "Ejido Nuevo An\u00e1huac"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4022883
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4011494
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0cd17f21ad0229268cfa0498eb7488ff",
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1259841401,
-    "wof:lastmodified":1566637821,
+    "wof:lastmodified":1706240490,
     "wof:name":"Nuevo Anahuac",
     "wof:parent_id":102078781,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344232221
+    ],
     "wof:tags":[]
 },
   "bbox": [

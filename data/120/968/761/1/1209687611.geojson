@@ -39,6 +39,11 @@
     "wof:concordances":{
         "gn:id":4025833
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4000941
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d5370124b41c8739515db3bd2a87fe95",
     "wof:hierarchy":[
@@ -48,7 +53,7 @@
         }
     ],
     "wof:id":1209687611,
-    "wof:lastmodified":1566626475,
+    "wof:lastmodified":1706240438,
     "wof:name":"La Pareja",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -56,7 +61,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226123801
+    ],
     "wof:tags":[]
 },
   "bbox": [

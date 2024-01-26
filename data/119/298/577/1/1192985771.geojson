@@ -37,6 +37,7 @@
         "Meres\u00edchic"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3996225
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3996233
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"859f34224452622c08e28dd20fd30484",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1192985771,
-    "wof:lastmodified":1566628175,
+    "wof:lastmodified":1706240418,
     "wof:name":"Meresichic",
     "wof:parent_id":102074367,
     "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259631091
+    ],
     "wof:tags":[]
 },
   "bbox": [

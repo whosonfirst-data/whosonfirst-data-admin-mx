@@ -37,6 +37,7 @@
         "Alamul"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9628120
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8861660
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c0078405f3396ab3384717338e136840",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1243256637,
-    "wof:lastmodified":1566635686,
+    "wof:lastmodified":1706240476,
     "wof:name":"Alamul",
     "wof:parent_id":102075729,
     "wof:placetype":"locality",
+    "wof:population":657,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360083649
+    ],
     "wof:tags":[]
 },
   "bbox": [

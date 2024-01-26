@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Barranca del Aguacate"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8875283
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4017460
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"bc62ca17f0c55264c98c6f688c1c8cc1",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1276733013,
-    "wof:lastmodified":1566623077,
+    "wof:lastmodified":1706240504,
     "wof:name":"Barranca del Aguacate",
     "wof:parent_id":102074677,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344031233
+    ],
     "wof:tags":[]
 },
   "bbox": [

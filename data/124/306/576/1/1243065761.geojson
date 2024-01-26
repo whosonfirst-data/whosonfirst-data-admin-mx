@@ -523,6 +523,7 @@
         "ISantiago"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -532,6 +533,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3516990
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816626
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4a2da1f4d409c7689224d1ebf67472d8",
@@ -545,13 +551,17 @@
         }
     ],
     "wof:id":1243065761,
-    "wof:lastmodified":1636493716,
+    "wof:lastmodified":1706240472,
     "wof:name":"Santiago",
     "wof:parent_id":102075655,
     "wof:placetype":"locality",
+    "wof:population":624,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259676871
+    ],
     "wof:tags":[]
 },
   "bbox": [

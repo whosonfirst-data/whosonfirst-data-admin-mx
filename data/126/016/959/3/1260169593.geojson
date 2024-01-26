@@ -110,6 +110,11 @@
     "wof:concordances":{
         "gn:id":3996864
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4003803
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"97531314714400e28ef06191708d747c",
     "wof:hierarchy":[
@@ -122,13 +127,15 @@
         }
     ],
     "wof:id":1260169593,
-    "wof:lastmodified":1636493260,
+    "wof:lastmodified":1706240494,
     "wof:name":"Juan Aldama",
     "wof:parent_id":102075161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327322189
+    ],
     "wof:tags":[]
 },
   "bbox": [

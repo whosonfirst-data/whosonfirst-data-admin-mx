@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-97.83063,20.24402,-97.83063,20.24402",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chicontla"
@@ -42,7 +44,7 @@
         "gn:id":3530925
     },
     "wof:country":"MX",
-    "wof:geomhash":"5d5b59a42ae5e03d6d40ce43c2d6d986",
+    "wof:geomhash":"84918a0b7ad5f18a9f086cb4f5cb75d9",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -50,20 +52,22 @@
         }
     ],
     "wof:id":1209183035,
-    "wof:lastmodified":1566627097,
+    "wof:lastmodified":1706240411,
     "wof:name":"Chicontla",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101999549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -97.83063,
-    20.24402000000001,
+    20.24402,
     -97.83063,
-    20.24402000000001
+    20.24402
 ],
-  "geometry": {"coordinates":[-97.83063,20.24402000000001],"type":"Point"}
+  "geometry": {"coordinates":[-97.83063,20.24402],"type":"Point"}
 }

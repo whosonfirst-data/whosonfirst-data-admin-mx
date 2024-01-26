@@ -136,6 +136,7 @@
         "\u74dc\u8fbe\u5362\u4f69\u00b7\u7ef4\u591a\u5229\u4e9a"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -145,6 +146,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3800663
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8876906
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ddf4aa3dc845455e94a665f8af3bb92b",
@@ -158,13 +164,17 @@
         }
     ],
     "wof:id":1260240623,
-    "wof:lastmodified":1566628507,
+    "wof:lastmodified":1706240495,
     "wof:name":"Guadalupe Victoria",
     "wof:parent_id":102076309,
     "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276293067
+    ],
     "wof:tags":[]
 },
   "bbox": [

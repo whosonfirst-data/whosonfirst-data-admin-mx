@@ -37,6 +37,7 @@
         "Rancho Los Pavos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3997336
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8898786
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"67e90924ef653d1718128d562b8b1d1a",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1209803653,
-    "wof:lastmodified":1566627175,
+    "wof:lastmodified":1706240441,
     "wof:name":"Los Pavos",
     "wof:parent_id":102075195,
     "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242766135
+    ],
     "wof:tags":[]
 },
   "bbox": [

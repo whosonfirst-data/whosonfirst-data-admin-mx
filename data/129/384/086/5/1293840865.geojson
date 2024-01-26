@@ -38,6 +38,7 @@
         "Sucursal Dos de Jiquilpan"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4011566
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8903784
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"701d8ab53795ce8ab7abb5aa0d2731e2",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1293840865,
-    "wof:lastmodified":1566620638,
+    "wof:lastmodified":1706240518,
     "wof:name":"La Sucursal Jiquilpan",
     "wof:parent_id":102074339,
     "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310558521
+    ],
     "wof:tags":[]
 },
   "bbox": [

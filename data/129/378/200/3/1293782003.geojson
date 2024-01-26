@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":11477382
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11477162
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"98e3ad545568ac2d86dbac2153b45276",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1293782003,
-    "wof:lastmodified":1566620905,
+    "wof:lastmodified":1706240517,
     "wof:name":"Macayo y Naranjo Segunda Seccion",
     "wof:parent_id":102075769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293845359
+    ],
     "wof:tags":[]
 },
   "bbox": [

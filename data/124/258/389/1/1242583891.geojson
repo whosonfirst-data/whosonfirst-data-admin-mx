@@ -37,6 +37,7 @@
         "Tikinmul"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9083783
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8858932
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9b9840c6e2fe96fb0093b19db18584d6",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1242583891,
-    "wof:lastmodified":1566635216,
+    "wof:lastmodified":1706240465,
     "wof:name":"Tikinmul",
     "wof:parent_id":102079219,
     "wof:placetype":"locality",
+    "wof:population":1663,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310633205
+    ],
     "wof:tags":[]
 },
   "bbox": [

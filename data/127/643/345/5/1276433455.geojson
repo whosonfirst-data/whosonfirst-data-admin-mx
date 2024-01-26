@@ -37,6 +37,7 @@
         "Yanapuchi"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3975942
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8902586
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b786b1c5c186a692d5532a4ad0529839",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276433455,
-    "wof:lastmodified":1566622820,
+    "wof:lastmodified":1706240500,
     "wof:name":"Yanapuchi",
     "wof:parent_id":102075259,
     "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327225805
+    ],
     "wof:tags":[]
 },
   "bbox": [

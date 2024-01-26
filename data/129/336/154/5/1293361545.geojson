@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-99.19192,20.48936,-99.19192,20.48936",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Nith"
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":1293361545,
-    "wof:lastmodified":1566619835,
+    "wof:lastmodified":1706240482,
     "wof:name":"El Nith",
     "wof:parent_id":102078509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259354155
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

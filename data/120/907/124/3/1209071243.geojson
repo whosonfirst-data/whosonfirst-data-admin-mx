@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3792010
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3529193
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"ec7d201d7d8f8df0f3ca3a384cbe8c82",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1209071243,
-    "wof:lastmodified":1566625296,
+    "wof:lastmodified":1706240425,
     "wof:name":"El Chapote",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209890641
+    ],
     "wof:tags":[]
 },
   "bbox": [

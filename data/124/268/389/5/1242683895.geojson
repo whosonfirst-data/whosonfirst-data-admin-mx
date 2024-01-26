@@ -37,6 +37,7 @@
         "El Zacatecano"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11112444
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8916739
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b9c9334f381c6b9cbc8791d88fba6680",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1242683895,
-    "wof:lastmodified":1566634939,
+    "wof:lastmodified":1706240466,
     "wof:name":"El Zacatecano",
     "wof:parent_id":102079225,
     "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259979473
+    ],
     "wof:tags":[]
 },
   "bbox": [

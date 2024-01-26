@@ -10,6 +10,7 @@
     "geom:latitude":17.61646,
     "geom:longitude":-95.27545,
     "gn:admin1_code":"30",
+    "gn:admin2_code":"498.0",
     "gn:asciiname":"Las Juntas",
     "gn:country_code":"MX",
     "gn:dem":55,
@@ -45,6 +46,7 @@
         "Las Juntas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -54,6 +56,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3525554
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8943016
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1859ae08aae93fdde8d830144851007c",
@@ -67,13 +74,17 @@
         }
     ],
     "wof:id":1293061045,
-    "wof:lastmodified":1566620124,
+    "wof:lastmodified":1706240510,
     "wof:name":"Las Juntas",
     "wof:parent_id":102076621,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344121441
+    ],
     "wof:tags":[]
 },
   "bbox": [

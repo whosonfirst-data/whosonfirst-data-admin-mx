@@ -198,6 +198,11 @@
     "wof:concordances":{
         "gn:id":3517564
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3517563
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"3810970aed3a6b38928d2625dc6eb157",
     "wof:hierarchy":[
@@ -210,7 +215,7 @@
         }
     ],
     "wof:id":1226089195,
-    "wof:lastmodified":1636494318,
+    "wof:lastmodified":1706240451,
     "wof:name":"Santa Cruz",
     "wof:parent_id":102078875,
     "wof:placetype":"locality",
@@ -218,7 +223,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293151661
+    ],
     "wof:tags":[]
 },
   "bbox": [

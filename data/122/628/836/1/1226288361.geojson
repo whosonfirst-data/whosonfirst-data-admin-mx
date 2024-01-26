@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-95.12222,18.24361,-95.12222,18.24361",
@@ -28,8 +30,14 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Mangos"
+    ],
+    "name:spa_x_variant":[
+        "Hilario C. Salas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8858488
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3825097
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"83870fa5f8aaa00e07252a669a2dc6b3",
@@ -54,15 +67,19 @@
         }
     ],
     "wof:id":1226288361,
-    "wof:lastmodified":1566639389,
+    "wof:lastmodified":1706240456,
     "wof:name":"Los Mangos",
     "wof:parent_id":102077539,
     "wof:placetype":"locality",
     "wof:population":2699,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        101998387
+    ],
+    "wof:supersedes":[
+        1242727271
+    ],
     "wof:tags":[]
 },
   "bbox": [

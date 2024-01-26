@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-107.33694,28.84139,-107.33694,28.84139",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":4013240
     },
     "wof:country":"MX",
-    "wof:geomhash":"e3d2267f62a3c873537984527fd535da",
+    "wof:geomhash":"9d6e934b33b3908349e6cf1484259956",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1309897895,
-    "wof:lastmodified":1566633723,
+    "wof:lastmodified":1706240491,
     "wof:name":"Rancho Colorado",
     "wof:parent_id":102075215,
     "wof:placetype":"locality",
     "wof:population":255,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259877131
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -107.33693999999998,
+    -107.33694,
     28.84139,
-    -107.33693999999998,
+    -107.33694,
     28.84139
 ],
-  "geometry": {"coordinates":[-107.33693999999998,28.84139],"type":"Point"}
+  "geometry": {"coordinates":[-107.33694,28.84139],"type":"Point"}
 }

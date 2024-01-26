@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Cumbres del Manzano"
+    ],
+    "name:und_x_variant":[
+        "Rancho Cumbre del Manzano"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8911817
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4012156
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5746b91316379aacb5607b4508672426",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1242866215,
-    "wof:lastmodified":1566634779,
+    "wof:lastmodified":1706240469,
     "wof:name":"Cumbres del Manzano",
     "wof:parent_id":102075331,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327225751
+    ],
     "wof:tags":[]
 },
   "bbox": [

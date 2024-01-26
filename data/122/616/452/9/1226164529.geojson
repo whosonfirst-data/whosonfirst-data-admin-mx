@@ -34,6 +34,7 @@
         "El Perdedero"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4008648
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8940696
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"601347dd5ca91b99ca5e0deb21b7ea1d",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226164529,
-    "wof:lastmodified":1566639779,
+    "wof:lastmodified":1706240453,
     "wof:name":"El Perdedero",
     "wof:parent_id":102075253,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276218919
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -34,6 +34,7 @@
         "La Palmita"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4000963
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8913753
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"930e616868b738889cd247e9f407cc05",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1259862499,
-    "wof:lastmodified":1566639026,
+    "wof:lastmodified":1706240490,
     "wof:name":"La Palmita",
     "wof:parent_id":102074871,
     "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310574587
+    ],
     "wof:tags":[]
 },
   "bbox": [

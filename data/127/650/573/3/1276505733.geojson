@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Ozunacin"
+    ],
+    "name:spa_x_variant":[
+        "Ozumacin",
+        "San Pedro Ozumac\u00edn"
+    ],
     "name:und_x_variant":[
         "San Pedro Ozumac\u00edn"
     ],
@@ -45,6 +52,11 @@
     "wof:concordances":{
         "gn:id":8858841
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3522234
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"fef24da3ef4f3006a4e479efe3245c83",
     "wof:hierarchy":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1276505733,
-    "wof:lastmodified":1566623765,
+    "wof:lastmodified":1706240501,
     "wof:name":"San Pedro Ozumacin",
     "wof:parent_id":102076927,
     "wof:placetype":"locality",
@@ -65,7 +77,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344221519
+    ],
     "wof:tags":[]
 },
   "bbox": [

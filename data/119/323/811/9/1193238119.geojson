@@ -34,6 +34,7 @@
         "Ojo de Agua"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3522407
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8862817
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d0b428ef3dbcb7eb37794bddfb19d3e4",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1193238119,
-    "wof:lastmodified":1566627911,
+    "wof:lastmodified":1706240423,
     "wof:name":"Ojo de Agua",
     "wof:parent_id":102077695,
     "wof:placetype":"locality",
+    "wof:population":537,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243503835
+    ],
     "wof:tags":[]
 },
   "bbox": [

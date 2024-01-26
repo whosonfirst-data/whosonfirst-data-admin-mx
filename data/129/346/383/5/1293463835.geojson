@@ -139,6 +139,7 @@
         "\u62c9\u4e4c\u5c3c\u7fc1\u7701"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -148,6 +149,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3762679
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801153
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"419430771df4773fd8cd11b6b0272105",
@@ -161,13 +167,17 @@
         }
     ],
     "wof:id":1293463835,
-    "wof:lastmodified":1636492499,
+    "wof:lastmodified":1706240514,
     "wof:name":"La Union",
     "wof:parent_id":102076143,
     "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343226619
+    ],
     "wof:tags":[]
 },
   "bbox": [

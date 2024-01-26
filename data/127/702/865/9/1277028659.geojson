@@ -47,6 +47,7 @@
         "San Jos\u00e9"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -57,8 +58,13 @@
     "wof:concordances":{
         "gn:id":3989247
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8874914
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"1b5b4513fe2b1c5c58bf2aa1107b6ece",
+    "wof:geomhash":"199c98adfbefd5cf9751f8adb17aca72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,20 +75,24 @@
         }
     ],
     "wof:id":1277028659,
-    "wof:lastmodified":1566624002,
+    "wof:lastmodified":1706240506,
     "wof:name":"Santa Matilde",
     "wof:parent_id":102074363,
     "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310568483
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -111.92806000000002,
+    -111.92806,
     30.65256,
-    -111.92806000000002,
+    -111.92806,
     30.65256
 ],
-  "geometry": {"coordinates":[-111.92806000000002,30.65256],"type":"Point"}
+  "geometry": {"coordinates":[-111.92806,30.65256],"type":"Point"}
 }

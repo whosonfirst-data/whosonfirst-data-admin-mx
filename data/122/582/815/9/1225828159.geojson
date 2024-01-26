@@ -37,6 +37,7 @@
         "El Palmar de los Pelayo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4008794
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8870259
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"852b6ace31f7f929ab78c9e3b817df3f",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1225828159,
-    "wof:lastmodified":1566641879,
+    "wof:lastmodified":1706240446,
     "wof:name":"El Palmar de San Antonio",
     "wof:parent_id":102074747,
     "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327107979
+    ],
     "wof:tags":[]
 },
   "bbox": [

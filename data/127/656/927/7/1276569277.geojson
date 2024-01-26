@@ -37,6 +37,7 @@
         "Agostaderos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3976703
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8908080
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"bba46fcc29e5f7be509cd62e6f43dcbd",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276569277,
-    "wof:lastmodified":1566623410,
+    "wof:lastmodified":1706240502,
     "wof:name":"El Limoncito",
     "wof:parent_id":102075133,
     "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360063777
+    ],
     "wof:tags":[]
 },
   "bbox": [

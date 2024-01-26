@@ -9,7 +9,22 @@
     "geom:bbox":"-110.600772,31.224028,-110.591748,31.240631",
     "geom:latitude":31.232754,
     "geom:longitude":-110.596688,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"MX",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3994777,
+    "gn:latitude":31.23362,
+    "gn:longitude":-110.59618,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-110.61618,31.21362,-110.57618,31.25362",
     "lbl:latitude":31.232986,
     "lbl:longitude":-110.596757,
     "lbl:max_zoom":18.0,
@@ -19,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0643\u0631\u0648\u0632"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0995\u09cd\u09b0\u09c1\u09b8"
     ],
@@ -27,6 +45,12 @@
     ],
     "name:ceb_x_preferred":[
         "Santa Cruz"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03c1\u03bf\u03c5\u03b6"
     ],
     "name:eng_x_preferred":[
         "Santa Cruz"
@@ -103,6 +127,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
+    "name:und_x_variant":[
+        "Noria de Santa Cruz"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632"
     ],
@@ -152,6 +179,14 @@
         "wd:id":"Q3844397",
         "wk:page":"Santa Cruz, Sonora"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3994777
+        ],
+        "wk:page":[
+            "Santa_Cruz%2C_Sonora"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -170,13 +205,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847919,
+    "wof:lastmodified":1706240397,
     "wof:name":"Santa Cruz",
     "wof:parent_id":102074479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277028637
+    ],
     "wof:tags":[]
 },
   "bbox": [

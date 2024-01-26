@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "La Bermeja"
     ],
+    "name:und_x_variant":[
+        "Bermeja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3792052
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3532268
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b286caa204e1ecaf68b34f76ecfb0d95",
@@ -56,13 +64,15 @@
         }
     ],
     "wof:id":1226107253,
-    "wof:lastmodified":1566639347,
+    "wof:lastmodified":1706240452,
     "wof:name":"La Bermeja",
     "wof:parent_id":102078775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243228709
+    ],
     "wof:tags":[]
 },
   "bbox": [

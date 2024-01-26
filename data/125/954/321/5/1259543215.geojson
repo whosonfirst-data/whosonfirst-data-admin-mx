@@ -35,6 +35,7 @@
         "San Jos\u00e9 de Tapia"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3516255
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3823836
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b4d4e3f87aa960019c0c06bdf3634875",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1259543215,
-    "wof:lastmodified":1566637255,
+    "wof:lastmodified":1706240485,
     "wof:name":"San Jose de Tapia",
     "wof:parent_id":102077479,
     "wof:placetype":"locality",
+    "wof:population":1725,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260125749
+    ],
     "wof:tags":[]
 },
   "bbox": [

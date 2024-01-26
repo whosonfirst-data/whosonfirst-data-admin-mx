@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":3801758
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3529082
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d9fecbff31e8a707973a8569a615fe37",
     "wof:hierarchy":[
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1259838577,
-    "wof:lastmodified":1566637745,
+    "wof:lastmodified":1706240490,
     "wof:name":"El Coyul",
     "wof:parent_id":102076503,
     "wof:placetype":"locality",
@@ -69,7 +74,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326591519
+    ],
     "wof:tags":[]
 },
   "bbox": [

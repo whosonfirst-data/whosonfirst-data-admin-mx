@@ -38,6 +38,7 @@
         "Bacabureachi"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3976052
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8922146
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"18abaa57f233b2a2000547185fbbb0ba",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1259805251,
-    "wof:lastmodified":1566638769,
+    "wof:lastmodified":1706240489,
     "wof:name":"Babureachi",
     "wof:parent_id":102075307,
     "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327255333
+    ],
     "wof:tags":[]
 },
   "bbox": [

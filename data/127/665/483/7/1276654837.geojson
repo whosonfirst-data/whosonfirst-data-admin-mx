@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Soledad los Cerezos"
+    ],
+    "name:spa_x_variant":[
+        "La Soledad"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8863201
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9521539
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d98bebec3ed1ce2b22c2f6caa691d114",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1276654837,
-    "wof:lastmodified":1566624889,
+    "wof:lastmodified":1706240503,
     "wof:name":"La Soledad",
     "wof:parent_id":102075763,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326828775
+    ],
     "wof:tags":[]
 },
   "bbox": [

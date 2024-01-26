@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-104.3949,23.47444,-104.3949,23.47444",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "San Francisco del Mezquital"
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":1242862455,
-    "wof:lastmodified":1566634780,
+    "wof:lastmodified":1706240397,
     "wof:name":"San Francisco del Mezquital",
     "wof:parent_id":102075171,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101994131
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -38,6 +38,7 @@
         "Xhajay"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3516681
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8941533
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9cc4099655c298e820239d030cef6e63",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1209794663,
-    "wof:lastmodified":1566625992,
+    "wof:lastmodified":1706240441,
     "wof:name":"Hacienda Xajay",
     "wof:parent_id":102078623,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260253635
+    ],
     "wof:tags":[]
 },
   "bbox": [

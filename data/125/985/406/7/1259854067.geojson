@@ -37,6 +37,7 @@
         "Rancho El Rocodo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3990337
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4022775
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"86ab2e999724b148c765083b50dcb7ed",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259854067,
-    "wof:lastmodified":1566637980,
+    "wof:lastmodified":1706240490,
     "wof:name":"El Recodo",
     "wof:parent_id":102078697,
     "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310665691
+    ],
     "wof:tags":[]
 },
   "bbox": [

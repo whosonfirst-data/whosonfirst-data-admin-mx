@@ -10,6 +10,7 @@
     "geom:latitude":19.84143,
     "geom:longitude":-99.39816,
     "gn:admin1_code":"15",
+    "gn:admin2_code":"112.0",
     "gn:asciiname":"San Luis Taxhimay",
     "gn:country_code":"MX",
     "gn:dem":2270,
@@ -33,6 +34,7 @@
         "San Luis Taxhimay"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3814494
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827506
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a9347bbb9164e8d4ed0e6a6921b85f60",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1259765449,
-    "wof:lastmodified":1566638079,
+    "wof:lastmodified":1706240488,
     "wof:name":"San Luis Taxhimay",
     "wof:parent_id":102073997,
     "wof:placetype":"locality",
+    "wof:population":2145,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276520165
+    ],
     "wof:tags":[]
 },
   "bbox": [

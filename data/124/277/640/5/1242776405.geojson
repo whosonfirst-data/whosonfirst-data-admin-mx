@@ -83,6 +83,11 @@
     "wof:concordances":{
         "gn:id":3518992
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3518993
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f607cd00bec422cd982d3934e055df79",
     "wof:hierarchy":[
@@ -95,13 +100,15 @@
         }
     ],
     "wof:id":1242776405,
-    "wof:lastmodified":1636493877,
+    "wof:lastmodified":1706240468,
     "wof:name":"San Jose",
     "wof:parent_id":102075711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309802257
+    ],
     "wof:tags":[]
 },
   "bbox": [

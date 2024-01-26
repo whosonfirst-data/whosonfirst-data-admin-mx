@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
     "geom:area_square_m":896455.648238,
-    "geom:bbox":"-99.1598510742,19.3189192178,-99.1516113281,19.3323169997",
-    "geom:latitude":19.326126,
-    "geom:longitude":-99.154703,
+    "geom:bbox":"-99.159851,19.318919,-99.151611,19.332317",
+    "geom:latitude":19.326125,
+    "geom:longitude":-99.154702,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.155924,19.32299,-99.145924,19.33299",
     "lbl:latitude":19.326868,
     "lbl:longitude":-99.154358,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Ajusco Huayamilpas"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Ajusco Huayamilpas",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":986713,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55899545,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,8 +90,16 @@
         "gp:id":55899545,
         "qs_pg:id":986713
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55899545
+        ],
+        "qs_pg:id":[
+            986713
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"e77667bf74ecda4f4fc4e5ff7f208f10",
+    "wof:geomhash":"250d913b7c11d5daa9dbdb5c72677683",
     "wof:hierarchy":[
         {
             "borough_id":890535773,
@@ -95,20 +124,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619662,
+    "wof:lastmodified":1706240374,
     "wof:name":"Ajusco Huayamilpas",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126070183
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.15985107419996,
-    19.31891921777546,
-    -99.15161132809996,
-    19.33231699974705
+    -99.159851,
+    19.318919,
+    -99.151611,
+    19.332317
 ],
-  "geometry": {"coordinates":[[[-99.15161132812483,19.31891921777546],[-99.15465851216476,19.31891921777546],[-99.15710449217912,19.32151118570029],[-99.15710449218534,19.32151122680004],[-99.15710449218534,19.32669487495005],[-99.15710453100823,19.32669491609802],[-99.15985107419996,19.32960547863611],[-99.15985107419996,19.33034329936898],[-99.15674705070404,19.33231699974705],[-99.1555055459302,19.33187844080038],[-99.15161132809996,19.33187844080003],[-99.15161132811551,19.33050281656034],[-99.15161132810965,19.32669491610007],[-99.15161132811798,19.32669487495005],[-99.15161132811329,19.32151122680004],[-99.15161132812483,19.31891921777546]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.151611,19.318919],[-99.154659,19.318919],[-99.157104,19.321511],[-99.157104,19.321511],[-99.157104,19.326695],[-99.157105,19.326695],[-99.159851,19.329605],[-99.159851,19.330343],[-99.156747,19.332317],[-99.155506,19.331878],[-99.151611,19.331878],[-99.151611,19.330503],[-99.151611,19.326695],[-99.151611,19.326695],[-99.151611,19.321511],[-99.151611,19.318919]]],"type":"Polygon"}
 }

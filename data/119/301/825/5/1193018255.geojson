@@ -123,6 +123,11 @@
     "wof:concordances":{
         "gn:id":8577185
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8577259
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"ba9dc746c8c88f8bde3910455950f46a",
     "wof:hierarchy":[
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":1193018255,
-    "wof:lastmodified":1636493153,
+    "wof:lastmodified":1706240420,
     "wof:name":"San Pablo",
     "wof:parent_id":102074503,
     "wof:placetype":"locality",
@@ -143,7 +148,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209118879
+    ],
     "wof:tags":[]
 },
   "bbox": [

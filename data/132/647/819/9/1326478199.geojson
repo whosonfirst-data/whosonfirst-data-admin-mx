@@ -58,6 +58,7 @@
         "Los Cedros"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,8 +69,13 @@
     "wof:concordances":{
         "gn:id":3997991
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4014890
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"1af3a27f0a8c006612b83f9eff778488",
+    "wof:geomhash":"8af7f610d434e3f9b99e6a35458af15e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,20 +86,24 @@
         }
     ],
     "wof:id":1326478199,
-    "wof:lastmodified":1566614339,
+    "wof:lastmodified":1706240527,
     "wof:name":"Cedros",
     "wof:parent_id":102074495,
     "wof:placetype":"locality",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343925131
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -109.28972,
-    27.76232000000001,
+    27.76232,
     -109.28972,
-    27.76232000000001
+    27.76232
 ],
-  "geometry": {"coordinates":[-109.28972,27.76232000000001],"type":"Point"}
+  "geometry": {"coordinates":[-109.28972,27.76232],"type":"Point"}
 }

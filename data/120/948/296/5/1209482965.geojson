@@ -31,12 +31,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3995023
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3995022
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"be5eb4af33f3e0bfb12ccc9b081ff779",
@@ -47,13 +53,17 @@
         }
     ],
     "wof:id":1209482965,
-    "wof:lastmodified":1566625852,
+    "wof:lastmodified":1706240434,
     "wof:name":"Navito",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326898245
+    ],
     "wof:tags":[]
 },
   "bbox": [

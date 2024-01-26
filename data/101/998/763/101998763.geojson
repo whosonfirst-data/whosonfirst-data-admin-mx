@@ -9,8 +9,23 @@
     "geom:bbox":"-98.370908,20.581071,-98.35942,20.587218",
     "geom:latitude":20.584476,
     "geom:longitude":-98.36475,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Texcatepec",
+    "gn:country_code":"MX",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3515719,
     "gn:id":"3515719,3824443",
+    "gn:latitude":20.58505,
+    "gn:longitude":-98.36538,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Texcatepec",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-98.38538,20.56505,-98.34538,20.60505",
     "lbl:latitude":20.584543,
     "lbl:longitude":-98.364664,
     "lbl:max_zoom":18.0,
@@ -56,6 +71,9 @@
     "name:swe_x_preferred":[
         "Texcatepec"
     ],
+    "name:und_x_variant":[
+        "Tezcatepec"
+    ],
     "name:vie_x_preferred":[
         "Texcatepec"
     ],
@@ -83,7 +101,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q3846389"
+        "gn:id":3515719,
+        "wd:id":"Q3846389",
+        "wk:page":"Texcatepec"
     },
     "wof:country":"MX",
     "wof:geomhash":"162e78d9ae78116a6c075482c1ded60b",
@@ -97,13 +117,15 @@
         }
     ],
     "wof:id":101998763,
-    "wof:lastmodified":1690847396,
+    "wof:lastmodified":1706240410,
     "wof:name":"Texcatepec",
     "wof:parent_id":102077751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243027941
+    ],
     "wof:tags":[]
 },
   "bbox": [

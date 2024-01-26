@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:spa_x_variant":[
+        "Llano Redondo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8909069
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9531660
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"71965a4e9f5f9cb41a42c8719c4d4f67",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1209808529,
-    "wof:lastmodified":1566627196,
+    "wof:lastmodified":1706240441,
     "wof:name":"Llano Redondo",
     "wof:parent_id":102075581,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344055483
+    ],
     "wof:tags":[]
 },
   "bbox": [

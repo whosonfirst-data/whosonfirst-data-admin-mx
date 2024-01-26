@@ -37,6 +37,7 @@
         "Rancho Bauinocachic"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4017252
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3974754
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a9e1cadcb3e8ca47fec2d36133601cd0",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1309733515,
-    "wof:lastmodified":1566633650,
+    "wof:lastmodified":1706240519,
     "wof:name":"Bahuinocachi",
     "wof:parent_id":102075307,
     "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326527655
+    ],
     "wof:tags":[]
 },
   "bbox": [

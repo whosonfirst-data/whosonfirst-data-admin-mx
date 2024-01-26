@@ -36,7 +36,11 @@
     "name:spa_x_variant":[
         "Cant\u00f3n Villaflor"
     ],
+    "name:und_x_variant":[
+        "Cant\u00f3n Villaflor"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9532437
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859823
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"aab807f15229df454693794e88c2794b",
@@ -59,13 +68,17 @@
         }
     ],
     "wof:id":1293782051,
-    "wof:lastmodified":1566620894,
+    "wof:lastmodified":1706240517,
     "wof:name":"Canton Villaflor",
     "wof:parent_id":102075511,
     "wof:placetype":"locality",
+    "wof:population":1046,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327430155
+    ],
     "wof:tags":[]
 },
   "bbox": [

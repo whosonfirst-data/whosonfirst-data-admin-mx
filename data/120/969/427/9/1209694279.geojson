@@ -37,12 +37,18 @@
         "Constancia"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4012967
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8860744
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e181ff1b5ff427b9508f77d89b268032",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209694279,
-    "wof:lastmodified":1566626837,
+    "wof:lastmodified":1706240439,
     "wof:name":"La Constancia",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":790,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226624585
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":4002568
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3975267
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f889c4b3a41b0647cf89c674901d4791",
     "wof:hierarchy":[
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":1226140681,
-    "wof:lastmodified":1566640748,
+    "wof:lastmodified":1706240453,
     "wof:name":"La Enramada",
     "wof:parent_id":102075289,
     "wof:placetype":"locality",
@@ -67,7 +72,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360182467
+    ],
     "wof:tags":[]
 },
   "bbox": [

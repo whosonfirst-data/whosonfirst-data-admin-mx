@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Moquinoba"
+    ],
+    "name:spa_x_variant":[
+        "Napuchi"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -42,8 +48,13 @@
     "wof:concordances":{
         "gn:id":8903301
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8995767
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"04d960b5f76160ef89700c942622da4b",
+    "wof:geomhash":"b7b091c5363fe138f841ee161eb9973a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1293022459,
-    "wof:lastmodified":1566621547,
+    "wof:lastmodified":1706240510,
     "wof:name":"Napuchi",
     "wof:parent_id":102075313,
     "wof:placetype":"locality",
@@ -62,14 +73,16 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326928157
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -106.99048,
-    27.55117000000001,
+    27.55117,
     -106.99048,
-    27.55117000000001
+    27.55117
 ],
-  "geometry": {"coordinates":[-106.99048000000001,27.55117000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.99048000000001,27.55117],"type":"Point"}
 }

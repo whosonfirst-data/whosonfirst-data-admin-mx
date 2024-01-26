@@ -34,6 +34,7 @@
         "Moquel"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3522983
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3820807
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d0da5e8ae5a8351daf9bc476cca9994b",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1326753789,
-    "wof:lastmodified":1566613101,
+    "wof:lastmodified":1706240529,
     "wof:name":"Moquel",
     "wof:parent_id":102079231,
     "wof:placetype":"locality",
+    "wof:population":695,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360009083
+    ],
     "wof:tags":[]
 },
   "bbox": [

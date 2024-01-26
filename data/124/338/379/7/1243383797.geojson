@@ -193,6 +193,7 @@
         "\u62c9\u5e15\u723e\u99ac\u5cf6"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -202,6 +203,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4000988
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3978003
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"99767e53024f2dfc35a17643c0e171a0",
@@ -215,13 +221,17 @@
         }
     ],
     "wof:id":1243383797,
-    "wof:lastmodified":1636493690,
+    "wof:lastmodified":1706240477,
     "wof:name":"La Palma",
     "wof:parent_id":102078803,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343978249
+    ],
     "wof:tags":[]
 },
   "bbox": [

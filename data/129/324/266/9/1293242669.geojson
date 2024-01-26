@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Juan"
+    ],
+    "name:spa_x_variant":[
+        "San Juan Ixhualco"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8914407
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9872125
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d141f26c6e85d1f91ffd5eaf2ae8ba10",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1293242669,
-    "wof:lastmodified":1566620658,
+    "wof:lastmodified":1706240512,
     "wof:name":"San Juan Ixhualco",
     "wof:parent_id":102077943,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293539833
+    ],
     "wof:tags":[]
 },
   "bbox": [

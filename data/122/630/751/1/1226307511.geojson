@@ -30,11 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:spa_x_preferred":[
+        "Santo Tom\u00e1s de Arriba"
+    ],
     "name:und_x_variant":[
         "Santo Tomas",
         "Santo Tom\u00e1s de Arriba"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3516816
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801695
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ceea3ef98c36aeb91cef12ce68a6006a",
@@ -57,13 +66,17 @@
         }
     ],
     "wof:id":1226307511,
-    "wof:lastmodified":1566641465,
+    "wof:lastmodified":1706240456,
     "wof:name":"Santo Tomas de Arriba",
     "wof:parent_id":102076375,
     "wof:placetype":"locality",
+    "wof:population":613,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310366927
+    ],
     "wof:tags":[]
 },
   "bbox": [

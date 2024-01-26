@@ -49,12 +49,18 @@
         "Vista Hermosa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3529511
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3791802
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"196275fe8d7eaaea298433636ed11277",
@@ -65,13 +71,17 @@
         }
     ],
     "wof:id":1209289027,
-    "wof:lastmodified":1566627417,
+    "wof:lastmodified":1706240430,
     "wof:name":"Vista Hermosa",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":439,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293175477
+    ],
     "wof:tags":[]
 },
   "bbox": [

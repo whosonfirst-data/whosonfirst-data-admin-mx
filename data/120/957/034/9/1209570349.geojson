@@ -40,12 +40,18 @@
         "Tasajera"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3982349
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8927068
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b39b8ab288c7a87ab39ead0cedb32b02",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1209570349,
-    "wof:lastmodified":1566626439,
+    "wof:lastmodified":1706240435,
     "wof:name":"La Crosolia",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276181535
+    ],
     "wof:tags":[]
 },
   "bbox": [

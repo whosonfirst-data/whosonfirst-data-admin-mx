@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:spa_x_preferred":[
+        "Dateje"
+    ],
+    "name:spa_x_variant":[
+        "Datej\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -40,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3827053
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3817916
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2af26630823cf222c82070ff798bd1dd",
@@ -53,13 +64,15 @@
         }
     ],
     "wof:id":1259752967,
-    "wof:lastmodified":1566638977,
+    "wof:lastmodified":1706240487,
     "wof:name":"Dateje",
     "wof:parent_id":102074225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293183159
+    ],
     "wof:tags":[]
 },
   "bbox": [

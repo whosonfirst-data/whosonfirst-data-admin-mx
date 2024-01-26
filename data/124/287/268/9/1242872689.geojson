@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Nueva Uni\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Nueva Uni\u00f3n"
+    ],
     "name:und_x_variant":[
         "La Nueva Uni\u00f3n"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8862930
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816373
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"36f135dc16611914e89f2456a2264315",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1242872689,
-    "wof:lastmodified":1566634737,
+    "wof:lastmodified":1706240470,
     "wof:name":"La Nueva Union",
     "wof:parent_id":102075639,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310599079
+    ],
     "wof:tags":[]
 },
   "bbox": [

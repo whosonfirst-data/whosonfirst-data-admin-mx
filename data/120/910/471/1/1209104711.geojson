@@ -37,12 +37,18 @@
         "La Higuerilla"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9292074
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8947241
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"074ac42b2a8c6b99f72287b645c7e4ec",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209104711,
-    "wof:lastmodified":1566627437,
+    "wof:lastmodified":1706240426,
     "wof:name":"La Higuerilla",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293482939
+    ],
     "wof:tags":[]
 },
   "bbox": [

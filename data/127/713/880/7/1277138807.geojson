@@ -37,6 +37,7 @@
         "El R\u00edo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3528252
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3791791
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b4a1cbde37e7ebd3dc6ea03d1451115c",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1277138807,
-    "wof:lastmodified":1566623793,
+    "wof:lastmodified":1706240508,
     "wof:name":"Rio de San Jose",
     "wof:parent_id":102078769,
     "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327308451
+    ],
     "wof:tags":[]
 },
   "bbox": [

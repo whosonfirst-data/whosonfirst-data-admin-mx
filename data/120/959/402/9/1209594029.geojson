@@ -142,12 +142,18 @@
         "Santa Rita"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3983973
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8905985
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0bee0eae05c706eb91005454c17a76b7",
@@ -158,13 +164,17 @@
         }
     ],
     "wof:id":1209594029,
-    "wof:lastmodified":1636493026,
+    "wof:lastmodified":1706240437,
     "wof:name":"Santa Rita",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259371153
+    ],
     "wof:tags":[]
 },
   "bbox": [

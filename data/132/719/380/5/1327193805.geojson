@@ -128,6 +128,11 @@
     "wof:concordances":{
         "gn:id":8728397
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8728399
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"ed6d77edf5800d372d03651b1dac7ee8",
     "wof:hierarchy":[
@@ -140,13 +145,15 @@
         }
     ],
     "wof:id":1327193805,
-    "wof:lastmodified":1636492112,
+    "wof:lastmodified":1706240531,
     "wof:name":"El Progreso",
     "wof:parent_id":102078667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360234349
+    ],
     "wof:tags":[]
 },
   "bbox": [

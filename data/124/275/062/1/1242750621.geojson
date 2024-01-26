@@ -35,6 +35,7 @@
         "San Andr\u00e9s"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3519953
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827018
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6f0d4486aef0e6accbc72bcf93020dd9",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1242750621,
-    "wof:lastmodified":1566634857,
+    "wof:lastmodified":1706240467,
     "wof:name":"San Andres del Pedregal",
     "wof:parent_id":102074135,
     "wof:placetype":"locality",
+    "wof:population":2073,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293659063
+    ],
     "wof:tags":[]
 },
   "bbox": [

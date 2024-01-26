@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
     "geom:area_square_m":356002.311957,
-    "geom:bbox":"-99.1790771484,19.4070210383,-99.1732596223,19.4129758118",
+    "geom:bbox":"-99.179077,19.407021,-99.17326,19.412976",
     "geom:latitude":19.409793,
     "geom:longitude":-99.176228,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.182167,19.40454,-99.172167,19.41454",
     "lbl:latitude":19.40994,
     "lbl:longitude":-99.175994,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Hipodromo de la Condesa",
@@ -52,9 +54,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Hipodromo de la Condesa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":606,
+    "qs_pg:photos_1k":123,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":606,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1342136,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55899642,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -70,8 +91,16 @@
         "gp:id":55899642,
         "qs_pg:id":1342136
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55899642
+        ],
+        "qs_pg:id":[
+            1342136
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"0e0a291973da7c0224cdb9fdb45ec5fb",
+    "wof:geomhash":"09c261876c105d77eae22b2ea8a3c396",
     "wof:hierarchy":[
         {
             "borough_id":890535757,
@@ -96,20 +125,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619665,
+    "wof:lastmodified":1706240375,
     "wof:name":"Hipodromo de la Condesa",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126098409
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.17907714841556,
-    19.40702103827793,
-    -99.17325962230922,
-    19.41297581183431
+    -99.179077,
+    19.407021,
+    -99.17326,
+    19.412976
 ],
-  "geometry": {"coordinates":[[[-99.1739894327429,19.41297581183431],[-99.17358398440001,19.41254592438797],[-99.17325962352743,19.41220201210025],[-99.17346322306156,19.41155440175028],[-99.17325962230922,19.41090678492523],[-99.17358398440001,19.41056287547009],[-99.17358398439521,19.40961155000005],[-99.17358398439157,19.40892372372748],[-99.17358398438606,19.40702103827793],[-99.17633056639997,19.40702103827793],[-99.17907714841388,19.40702103827793],[-99.17907714841388,19.40961154426411],[-99.17907714841556,19.41220200824706],[-99.17697928449414,19.41220201168868],[-99.17633056639997,19.41288983158775],[-99.17539378964531,19.41255875007283],[-99.17427062989984,19.4127969230445],[-99.1739894327429,19.41297581183431]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.17398900000001,19.412976],[-99.17358400000001,19.412546],[-99.17326,19.412202],[-99.173463,19.411554],[-99.17326,19.410907],[-99.17358400000001,19.410563],[-99.17358400000001,19.409612],[-99.17358400000001,19.408924],[-99.17358400000001,19.407021],[-99.176331,19.407021],[-99.17907700000001,19.407021],[-99.17907700000001,19.409612],[-99.17907700000001,19.412202],[-99.176979,19.412202],[-99.176331,19.41289],[-99.175394,19.412559],[-99.174271,19.412797],[-99.17398900000001,19.412976]]],"type":"Polygon"}
 }

@@ -37,6 +37,7 @@
         "Ejido El Diez"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3529583
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3791819
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0ae417a55bd4b7b0abdcfa130f75bb27",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226407315,
-    "wof:lastmodified":1566640980,
+    "wof:lastmodified":1706240458,
     "wof:name":"El Diez",
     "wof:parent_id":102078727,
     "wof:placetype":"locality",
+    "wof:population":322,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343723935
+    ],
     "wof:tags":[]
 },
   "bbox": [

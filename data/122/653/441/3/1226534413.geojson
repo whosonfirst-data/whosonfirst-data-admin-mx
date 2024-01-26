@@ -66,6 +66,10 @@
     "name:swe_x_preferred":[
         "La Esperanza"
     ],
+    "name:und_x_variant":[
+        "Colonia Esperanza",
+        "Esperanza"
+    ],
     "name:vie_x_preferred":[
         "La Esperanza"
     ],
@@ -81,6 +85,11 @@
     "wof:concordances":{
         "gn:id":8913373
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3975478
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"846764162b93d4a146782b9bd63a2c3b",
     "wof:hierarchy":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1226534413,
-    "wof:lastmodified":1636494337,
+    "wof:lastmodified":1706240461,
     "wof:name":"La Esperanza",
     "wof:parent_id":102075277,
     "wof:placetype":"locality",
@@ -101,7 +110,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360277439
+    ],
     "wof:tags":[]
 },
   "bbox": [

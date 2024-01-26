@@ -36,7 +36,11 @@
     "name:spa_x_variant":[
         "Cant\u00f3n Cahulotal"
     ],
+    "name:und_x_variant":[
+        "Cant\u00f3n Cahulotal"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3531405
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8867401
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"706f1aa248d23f3a7eecbbcdb65f1ead",
@@ -59,13 +68,17 @@
         }
     ],
     "wof:id":1225942085,
-    "wof:lastmodified":1566639056,
+    "wof:lastmodified":1706240449,
     "wof:name":"Canton Cahulotal",
     "wof:parent_id":102075565,
     "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242872641
+    ],
     "wof:tags":[]
 },
   "bbox": [

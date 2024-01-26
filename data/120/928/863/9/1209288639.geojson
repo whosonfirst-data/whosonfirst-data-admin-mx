@@ -30,18 +30,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:spa_x_preferred":[
+        "San Vicente del Palmar"
+    ],
     "name:und_x_variant":[
         "Vicente",
         "San Vicente",
         "San Vicente del Palmar"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3516768
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801002
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ea04d85168abc31ada6774b9b1de4b26",
@@ -52,13 +61,17 @@
         }
     ],
     "wof:id":1209288639,
-    "wof:lastmodified":1566627425,
+    "wof:lastmodified":1706240430,
     "wof:name":"San Vicente del Palmar",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259347405
+    ],
     "wof:tags":[]
 },
   "bbox": [

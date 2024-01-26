@@ -9,7 +9,22 @@
     "geom:bbox":"-115.591307,32.613856,-115.551199,32.647648",
     "geom:latitude":32.631349,
     "geom:longitude":-115.572323,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Santa Isabel",
+    "gn:country_code":"MX",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3979442,
+    "gn:latitude":32.6333,
+    "gn:longitude":-115.57605,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Tijuana",
     "iso:country":"MX",
+    "lbl:bbox":"-115.59605,32.6133,-115.55605,32.6533",
     "lbl:latitude":32.630229,
     "lbl:longitude":-115.565942,
     "lbl:max_zoom":18.0,
@@ -93,6 +108,14 @@
         "wd:id":"Q2514296",
         "wk:page":"Santa Isabel, Baja California"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3979442
+        ],
+        "wk:page":[
+            "Santa_Isabel%2C_Baja_California"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -108,13 +131,15 @@
         }
     ],
     "wof:id":101993531,
-    "wof:lastmodified":1690847837,
+    "wof:lastmodified":1706240394,
     "wof:name":"Santa Isabel",
     "wof:parent_id":102074507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209717935
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,7 @@
         "San Juan Zapotitl\u00e1n"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3518595
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859773
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"38e3154ca057baa71e767b78054f39c7",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1276511663,
-    "wof:lastmodified":1566623363,
+    "wof:lastmodified":1706240501,
     "wof:name":"San Juan Zapotitlan",
     "wof:parent_id":102076519,
     "wof:placetype":"locality",
+    "wof:population":1068,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293942539
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,22 @@
     "geom:bbox":"-104.405862,23.46405,-104.382206,23.485618",
     "geom:latitude":23.474062,
     "geom:longitude":-104.393604,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"San Francisco del Mezquital",
+    "gn:country_code":"MX",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3996017,
+    "gn:latitude":23.47444,
+    "gn:longitude":-104.3949,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"San Francisco del Mezquital",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-104.4149,23.45444,-104.3749,23.49444",
     "lbl:latitude":23.474196,
     "lbl:longitude":-104.39244,
     "lbl:max_zoom":18.0,
@@ -70,7 +85,13 @@
         "gn:id":3996015,
         "gp:id":133521,
         "qs_pg:id":180236,
-        "wd:id":"Q7414158"
+        "wd:id":"Q7414158",
+        "wk:page":"San_Francisco_del_Mezquital"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3996017
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -87,13 +108,15 @@
         }
     ],
     "wof:id":101994131,
-    "wof:lastmodified":1690847898,
+    "wof:lastmodified":1706240397,
     "wof:name":"San Francisco del Mezquital",
     "wof:parent_id":102075171,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242862455
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,22 @@
     "geom:bbox":"-94.206811,16.273283,-94.178682,16.310701",
     "geom:latitude":16.29218,
     "geom:longitude":-94.193971,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Chahuites",
+    "gn:country_code":"MX",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3531218,
+    "gn:latitude":16.28842,
+    "gn:longitude":-94.19478,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Chahuites",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-94.21478,16.26842,-94.17478,16.30842",
     "lbl:latitude":16.292594,
     "lbl:longitude":-94.194182,
     "lbl:max_zoom":18.0,
@@ -93,6 +108,14 @@
         "wd:id":"Q3894783",
         "wk:page":"Chahuites"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3531218
+        ],
+        "wk:page":[
+            "Chahuites"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -108,13 +131,15 @@
         }
     ],
     "wof:id":101996247,
-    "wof:lastmodified":1690847535,
+    "wof:lastmodified":1706240403,
     "wof:name":"Chahuites",
     "wof:parent_id":102075821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243528575
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -41,6 +41,7 @@
         "Mezquite"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3995999
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8898787
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b9447e54f6f4b54e0205b1bee09dc20e",
@@ -63,13 +69,17 @@
         }
     ],
     "wof:id":1243432725,
-    "wof:lastmodified":1566637101,
+    "wof:lastmodified":1706240478,
     "wof:name":"El Huizache",
     "wof:parent_id":102075197,
     "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344145445
+    ],
     "wof:tags":[]
 },
   "bbox": [

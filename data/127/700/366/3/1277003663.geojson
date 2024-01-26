@@ -37,6 +37,7 @@
         "Rancho Cuesta Blanca"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4012311
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8925268
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a0441ce4e4b0d9a7ac50bfe291d7a5ea",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1277003663,
-    "wof:lastmodified":1566622638,
+    "wof:lastmodified":1706240506,
     "wof:name":"Cuesta Blanca",
     "wof:parent_id":102075225,
     "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293710797
+    ],
     "wof:tags":[]
 },
   "bbox": [

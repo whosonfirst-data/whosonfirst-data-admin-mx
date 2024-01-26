@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Tepoxmatla"
+    ],
+    "name:und_x_variant":[
+        "Tepemexquita"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -38,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8873095
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818955
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fdd9ed14ce3478b28a98e6951a727168",
@@ -48,7 +59,7 @@
         }
     ],
     "wof:id":1209278473,
-    "wof:lastmodified":1566627066,
+    "wof:lastmodified":1706240429,
     "wof:name":"Tepoxmatla",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -56,7 +67,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209574083
+    ],
     "wof:tags":[]
 },
   "bbox": [

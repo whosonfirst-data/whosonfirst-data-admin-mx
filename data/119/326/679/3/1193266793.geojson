@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Francisco de Calleros"
+    ],
+    "name:und_x_variant":[
+        "Galleros"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -42,8 +48,13 @@
     "wof:concordances":{
         "gn:id":8899892
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4006043
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"da6293b8914affb4c1baeb9ea478427f",
+    "wof:geomhash":"09af42d2772f5a3adf3d7566e759437b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1193266793,
-    "wof:lastmodified":1566628479,
+    "wof:lastmodified":1706240423,
     "wof:name":"San Francisco de Calleros",
     "wof:parent_id":102075159,
     "wof:placetype":"locality",
@@ -62,14 +73,16 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326918815
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -104.60306,
-    23.98557000000001,
+    23.98557,
     -104.60306,
-    23.98557000000001
+    23.98557
 ],
-  "geometry": {"coordinates":[-104.60306,23.98557000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.60306,23.98557],"type":"Point"}
 }

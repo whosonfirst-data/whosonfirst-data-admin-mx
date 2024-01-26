@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Mastranzo"
+    ],
+    "name:und_x_variant":[
+        "Maestranza"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8893917
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3996925
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"df0f9edc2927f3112b01ecb98fac45e3",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1193248959,
-    "wof:lastmodified":1566627878,
+    "wof:lastmodified":1706240423,
     "wof:name":"El Mastranzo",
     "wof:parent_id":102074629,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226732781
+    ],
     "wof:tags":[]
 },
   "bbox": [

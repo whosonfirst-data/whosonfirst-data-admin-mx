@@ -97,6 +97,7 @@
         "Las Lajas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,6 +107,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3814272
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8866047
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"98b06ccb8032d60819a51fa71fa2aa79",
@@ -119,13 +125,17 @@
         }
     ],
     "wof:id":1226121569,
-    "wof:lastmodified":1636494289,
+    "wof:lastmodified":1706240452,
     "wof:name":"Las Lajas",
     "wof:parent_id":102078551,
     "wof:placetype":"locality",
+    "wof:population":354,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242761387
+    ],
     "wof:tags":[]
 },
   "bbox": [

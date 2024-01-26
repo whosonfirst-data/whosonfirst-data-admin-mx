@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
         "Ix Chil"
@@ -52,11 +53,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":144625,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Ix Chil",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Quintana Roo",
+    "qs_pg:photos":2950,
+    "qs_pg:photos_1k":598,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":2950,
+    "qs_pg:photos_sr":19,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244057,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55899942,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Quintana Roo",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575
     ],
@@ -64,6 +84,14 @@
     "wof:concordances":{
         "gp:id":55899942,
         "qs_pg:id":244057
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55899942
+        ],
+        "qs_pg:id":[
+            244057
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -83,13 +111,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147379,
+    "wof:lastmodified":1706240375,
     "wof:name":"Ix Chil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126103561
+    ],
     "wof:tags":[]
 },
   "bbox": [

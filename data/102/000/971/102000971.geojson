@@ -9,9 +9,22 @@
     "geom:bbox":"-97.965004,26.041281,-97.939706,26.062238",
     "geom:latitude":26.050877,
     "geom:longitude":-97.951334,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Nuevo Progreso",
+    "gn:country_code":"MX",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3522525,
     "gn:latitude":26.0553,
     "gn:longitude":-97.95217,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Nuevo Progreso",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-97.97217,26.0353,-97.93217,26.0753",
     "lbl:latitude":26.050811,
     "lbl:longitude":-97.951095,
     "lbl:max_zoom":18.0,
@@ -81,7 +94,15 @@
         "wk:page":"Nuevo Progreso, R\u00edo Bravo, Tamaulipas"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1191509
+        "gn:id":[
+            3522525
+        ],
+        "qs_pg:id":[
+            1191509
+        ],
+        "wk:page":[
+            "Nuevo_Progreso%2C_R%C3%ADo_Bravo%2C_Tamaulipas"
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -98,13 +119,15 @@
         }
     ],
     "wof:id":102000971,
-    "wof:lastmodified":1690846924,
+    "wof:lastmodified":1706240416,
     "wof:name":"Nuevo Progreso",
     "wof:parent_id":102078967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226089131
+    ],
     "wof:tags":[]
 },
   "bbox": [

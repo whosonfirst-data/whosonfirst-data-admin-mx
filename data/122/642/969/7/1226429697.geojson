@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Maguey Sur"
+    ],
+    "name:und_x_variant":[
+        "El Maguey"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8871294
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4023338
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0363ae9b22a7b498281305d1c793cc23",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226429697,
-    "wof:lastmodified":1566639525,
+    "wof:lastmodified":1706240459,
     "wof:name":"Maguey Sur",
     "wof:parent_id":102077263,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360272599
+    ],
     "wof:tags":[]
 },
   "bbox": [

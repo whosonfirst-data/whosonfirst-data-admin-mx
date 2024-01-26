@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Puerto Chilicote"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4014289
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3991410
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1a796722748abb6b3b92b9afa54eca9a",
@@ -53,13 +61,15 @@
         }
     ],
     "wof:id":1259805149,
-    "wof:lastmodified":1566638768,
+    "wof:lastmodified":1706240489,
     "wof:name":"Chilicote",
     "wof:parent_id":102075317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276357879
+    ],
     "wof:tags":[]
 },
   "bbox": [

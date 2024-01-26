@@ -34,6 +34,7 @@
         "Bernalejo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3972637
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4017140
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d1a6ff8397fe105e14b750b63af702cb",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226301929,
-    "wof:lastmodified":1566641446,
+    "wof:lastmodified":1706240456,
     "wof:name":"Bernalejo",
     "wof:parent_id":102075479,
     "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293630745
+    ],
     "wof:tags":[]
 },
   "bbox": [

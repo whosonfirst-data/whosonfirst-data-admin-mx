@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
     "geom:area_square_m":119807.466413,
-    "geom:bbox":"-99.1897589276,19.4484641744,-99.1845703125,19.4510540246",
+    "geom:bbox":"-99.189759,19.448464,-99.18457,19.451054",
     "geom:latitude":19.449626,
     "geom:longitude":-99.186617,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.1884205,19.443323,-99.1784205,19.453323",
     "lbl:latitude":19.449759,
     "lbl:longitude":-99.185944,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Manzanos"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Manzanos",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":997151,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55899123,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,8 +90,16 @@
         "gp:id":55899123,
         "qs_pg:id":997151
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55899123
+        ],
+        "qs_pg:id":[
+            997151
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"8a17d873e5157461d155f6b83449d5bf",
+    "wof:geomhash":"6cd1376cc9b85769a5d5181d427f3a7a",
     "wof:hierarchy":[
         {
             "borough_id":890535785,
@@ -95,20 +124,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619707,
+    "wof:lastmodified":1706240372,
     "wof:name":"Manzanos",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126076377
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.18975892760616,
-    19.44846417435026,
-    -99.18457031249997,
-    19.45105402463764
+    -99.189759,
+    19.448464,
+    -99.18457,
+    19.451054
 ],
-  "geometry": {"coordinates":[[[-99.18975892760616,19.44846417435026],[-99.18731689451451,19.45105402377727],[-99.18457031249997,19.45105402463764],[-99.18457031249997,19.44846417823143],[-99.18731689449993,19.4484641782507],[-99.18975892760616,19.44846417435026]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.189759,19.448464],[-99.18731699999999,19.451054],[-99.18456999999999,19.451054],[-99.18456999999999,19.448464],[-99.18731699999999,19.448464],[-99.189759,19.448464]]],"type":"Polygon"}
 }

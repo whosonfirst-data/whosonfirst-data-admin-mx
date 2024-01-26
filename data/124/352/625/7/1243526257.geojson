@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Capires"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8917825
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4026115
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3dca35e844919ad63353ec1b8f302274",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1243526257,
-    "wof:lastmodified":1566634601,
+    "wof:lastmodified":1706240480,
     "wof:name":"Los Capires",
     "wof:parent_id":102074885,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260361283
+    ],
     "wof:tags":[]
 },
   "bbox": [

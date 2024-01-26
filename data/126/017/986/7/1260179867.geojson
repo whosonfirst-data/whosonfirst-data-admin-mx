@@ -223,6 +223,7 @@
         "\u57c3\u7c73\u5229\u4e9a\u8bfa\u00b7\u8428\u5e15\u5854"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -232,6 +233,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9292587
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8867094
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9135f2ffb7d46a8a0837a8192d93ec59",
@@ -245,13 +251,17 @@
         }
     ],
     "wof:id":1260179867,
-    "wof:lastmodified":1566629169,
+    "wof:lastmodified":1706240495,
     "wof:name":"Emiliano Zapata",
     "wof:parent_id":102075635,
     "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327429549
+    ],
     "wof:tags":[]
 },
   "bbox": [

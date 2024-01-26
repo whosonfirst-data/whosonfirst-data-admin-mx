@@ -38,6 +38,7 @@
         "Llagas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3524339
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3762706
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"09969952c25dcc7946647212cb0bebd8",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1243428537,
-    "wof:lastmodified":1566636885,
+    "wof:lastmodified":1706240478,
     "wof:name":"San Francisco la Reforma",
     "wof:parent_id":102076527,
     "wof:placetype":"locality",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277141473
+    ],
     "wof:tags":[]
 },
   "bbox": [

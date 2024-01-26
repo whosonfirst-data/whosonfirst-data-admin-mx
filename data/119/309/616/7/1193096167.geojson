@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Cobit\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Cubit\u00e1n de Dolores"
+    ],
     "name:und_x_variant":[
         "Cubit\u00e1n de Dolores"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8861883
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3800393
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a8b72153ef1ad2e5b3fda9fa151f409b",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1193096167,
-    "wof:lastmodified":1566627740,
+    "wof:lastmodified":1706240421,
     "wof:name":"Cubitan de Dolores",
     "wof:parent_id":102076313,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293663309
+    ],
     "wof:tags":[]
 },
   "bbox": [

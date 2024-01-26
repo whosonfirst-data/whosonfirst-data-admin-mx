@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Sabino de Guadalupe"
+    ],
+    "name:spa_x_variant":[
+        "El Sabino"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8880082
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3821909
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9a00b4afa7f81fefd9e07b33fa50663e",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226622743,
-    "wof:lastmodified":1566641584,
+    "wof:lastmodified":1706240462,
     "wof:name":"Sabino de Guadalupe",
     "wof:parent_id":102073855,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310384971
+    ],
     "wof:tags":[]
 },
   "bbox": [

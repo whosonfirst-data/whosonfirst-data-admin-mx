@@ -10,6 +10,7 @@
     "geom:latitude":19.14223,
     "geom:longitude":-102.9939,
     "gn:admin1_code":"16.0",
+    "gn:admin2_code":"49.0",
     "gn:asciiname":"El Cascalote",
     "gn:country_code":"MX",
     "gn:dem":526,
@@ -33,6 +34,7 @@
         "El Cascalote"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4010551
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8922810
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4aca37edfc4f82c6ded09e7c209ffca6",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1327006321,
-    "wof:lastmodified":1566613029,
+    "wof:lastmodified":1706240531,
     "wof:name":"El Cascalote",
     "wof:parent_id":102074871,
     "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343732779
+    ],
     "wof:tags":[]
 },
   "bbox": [

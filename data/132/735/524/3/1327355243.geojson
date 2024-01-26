@@ -39,6 +39,7 @@
         "Guaguachique"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3975382
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8917180
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a2fdcef655be71b81bc9f21c95df5089",
@@ -61,13 +67,17 @@
         }
     ],
     "wof:id":1327355243,
-    "wof:lastmodified":1566614178,
+    "wof:lastmodified":1706240532,
     "wof:name":"Gaguinapuchi",
     "wof:parent_id":102075259,
     "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344154487
+    ],
     "wof:tags":[]
 },
   "bbox": [

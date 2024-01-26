@@ -37,6 +37,7 @@
         "Sanguijuela"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3986891
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8875968
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b9978cfbdb2d960e6d00de99d26ccb30",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1193001311,
-    "wof:lastmodified":1566627718,
+    "wof:lastmodified":1706240419,
     "wof:name":"La Sanguijuela",
     "wof:parent_id":102074689,
     "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310088577
+    ],
     "wof:tags":[]
 },
   "bbox": [

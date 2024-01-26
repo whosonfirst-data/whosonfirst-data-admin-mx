@@ -34,6 +34,7 @@
         "La Mora"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4001285
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8890387
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"885c73e0871a1f578bbf2a888b40a55e",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1293662571,
-    "wof:lastmodified":1566621044,
+    "wof:lastmodified":1706240516,
     "wof:name":"La Mora",
     "wof:parent_id":102074871,
     "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309989065
+    ],
     "wof:tags":[]
 },
   "bbox": [

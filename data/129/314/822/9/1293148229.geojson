@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Zapote"
+    ],
+    "name:spa_x_variant":[
+        "Jos\u00e9 L\u00f3pez Portillo"
+    ],
     "name:und_x_variant":[
         "Jos\u00e9 L\u00f3pez Portillo"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8870239
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3802779
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"5f15b6acd9f98bad539d403dcd10a83b",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1293148229,
-    "wof:lastmodified":1566620935,
+    "wof:lastmodified":1706240511,
     "wof:name":"Jose Lopez Portillo",
     "wof:parent_id":102075801,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310456121
+    ],
     "wof:tags":[]
 },
   "bbox": [

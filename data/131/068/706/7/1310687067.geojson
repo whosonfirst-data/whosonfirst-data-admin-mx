@@ -46,6 +46,7 @@
         "Leona"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -55,6 +56,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4001624
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4001625
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6884e7c69229ca9a440c464f3fbffc0a",
@@ -68,13 +74,17 @@
         }
     ],
     "wof:id":1310687067,
-    "wof:lastmodified":1566631143,
+    "wof:lastmodified":1706240527,
     "wof:name":"La Leona",
     "wof:parent_id":102078817,
     "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343878483
+    ],
     "wof:tags":[]
 },
   "bbox": [

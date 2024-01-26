@@ -72,6 +72,10 @@
     "name:swe_x_preferred":[
         "Las Piedras"
     ],
+    "name:und_x_variant":[
+        "Piedras",
+        "Piedras Negras"
+    ],
     "name:vep_x_preferred":[
         "Las Pjedras"
     ],
@@ -86,6 +90,11 @@
     "wof:concordances":{
         "gn:id":6930548
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999368
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"2b3b46ab1344001dd42b91e98d4739f0",
     "wof:hierarchy":[
@@ -98,13 +107,15 @@
         }
     ],
     "wof:id":1193085895,
-    "wof:lastmodified":1566627787,
+    "wof:lastmodified":1706240420,
     "wof:name":"Las Piedras",
     "wof:parent_id":102075411,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326771953
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -34,6 +34,7 @@
         "Zoquitita"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3979617
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8880504
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a98d57bf2017a745811ad2b8cd68e977",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1259855791,
-    "wof:lastmodified":1566638018,
+    "wof:lastmodified":1706240490,
     "wof:name":"Zoquitita",
     "wof:parent_id":102074915,
     "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293553185
+    ],
     "wof:tags":[]
 },
   "bbox": [

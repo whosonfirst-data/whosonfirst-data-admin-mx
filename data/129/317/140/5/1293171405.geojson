@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Estancita"
+    ],
     "name:und_x_variant":[
         "La Providencia",
         "La Estancita"
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":4002426
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4006431
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"cfb3594772684d3a8168b971cf57fc8b",
     "wof:hierarchy":[
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":1293171405,
-    "wof:lastmodified":1566622222,
+    "wof:lastmodified":1706240512,
     "wof:name":"La Estancita",
     "wof:parent_id":102074649,
     "wof:placetype":"locality",
@@ -67,7 +75,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310278397
+    ],
     "wof:tags":[]
 },
   "bbox": [

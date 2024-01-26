@@ -9,8 +9,23 @@
     "geom:bbox":"-96.628998,17.052046,-96.614148,17.06718",
     "geom:latitude":17.059346,
     "geom:longitude":-96.621924,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"519.0",
+    "gn:asciiname":"Santo Domingo Tomaltepec",
+    "gn:country_code":"MX",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3515270,
     "gn:id":"3515270,3762769",
+    "gn:latitude":17.06117,
+    "gn:longitude":-96.6228,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Santo Domingo Tomaltepec",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-96.6428,17.04117,-96.6028,17.08117",
     "lbl:latitude":17.059116,
     "lbl:longitude":-96.622809,
     "lbl:max_zoom":18.0,
@@ -56,6 +71,9 @@
     "name:swe_x_preferred":[
         "Santo Domingo Tomaltepec"
     ],
+    "name:und_x_variant":[
+        "Tonaltepec"
+    ],
     "name:vie_x_preferred":[
         "Santo Domingo Tomaltepec"
     ],
@@ -83,8 +101,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3515270,
         "gp:id":149811,
-        "wd:id":"Q3893668"
+        "wd:id":"Q3893668",
+        "wk:page":"Santo_Domingo_Tomaltepec"
     },
     "wof:country":"MX",
     "wof:geomhash":"5ac463b6817eb2ef84096052d8b50489",
@@ -98,13 +118,15 @@
         }
     ],
     "wof:id":101996107,
-    "wof:lastmodified":1690847525,
+    "wof:lastmodified":1706240402,
     "wof:name":"Santo Domingo Tomaltepec",
     "wof:parent_id":102076049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243418835
+    ],
     "wof:tags":[]
 },
   "bbox": [

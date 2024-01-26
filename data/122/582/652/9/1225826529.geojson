@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Francisco Epunguio"
+    ],
+    "name:spa_x_variant":[
+        "Epungio",
+        "Epunguio"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8861260
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4025092
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"91f8cbac31969c1ed3017f9424f2a118",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1225826529,
-    "wof:lastmodified":1566641883,
+    "wof:lastmodified":1706240446,
     "wof:name":"San Francisco Epunguio",
     "wof:parent_id":102074999,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243526311
+    ],
     "wof:tags":[]
 },
   "bbox": [

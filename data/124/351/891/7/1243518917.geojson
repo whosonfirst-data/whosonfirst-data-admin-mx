@@ -30,11 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:spa_x_preferred":[
+        "La Soledad"
+    ],
     "name:und_x_variant":[
         "Soledad",
         "La Soledad"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3516585
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801336
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5e30609032326b5e400a78eed4b22891",
@@ -57,13 +66,17 @@
         }
     ],
     "wof:id":1243518917,
-    "wof:lastmodified":1566635988,
+    "wof:lastmodified":1706240480,
     "wof:name":"La Soledad",
     "wof:parent_id":102077081,
     "wof:placetype":"locality",
+    "wof:population":809,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326789609
+    ],
     "wof:tags":[]
 },
   "bbox": [

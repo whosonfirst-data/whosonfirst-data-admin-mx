@@ -33,13 +33,22 @@
     "name:spa_x_preferred":[
         "El Cuarenta"
     ],
+    "name:spa_x_variant":[
+        "El Ebano"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8708802
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8708803
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"945c1fa629e012d32b08fdcc9a084507",
@@ -50,13 +59,17 @@
         }
     ],
     "wof:id":1209066199,
-    "wof:lastmodified":1566625486,
+    "wof:lastmodified":1706240425,
     "wof:name":"El Cuarenta",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209561001
+    ],
     "wof:tags":[]
 },
   "bbox": [

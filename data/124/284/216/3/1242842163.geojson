@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Noria"
+    ],
+    "name:und_x_variant":[
+        "Rancho La Noria"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8918406
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4001113
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"757a322374550589d8da84c3b65338ba",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1242842163,
-    "wof:lastmodified":1566636213,
+    "wof:lastmodified":1706240469,
     "wof:name":"La Noria",
     "wof:parent_id":102074323,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310162753
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":3978870
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4002569
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"0deb61a8338f54c7ee0ff77d7dba428e",
+    "wof:geomhash":"8f3000ff12c45d35293d6d43da48f08e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +64,22 @@
         }
     ],
     "wof:id":1277065145,
-    "wof:lastmodified":1566622573,
+    "wof:lastmodified":1706240507,
     "wof:name":"La Enramada",
     "wof:parent_id":102075169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327018039
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -104.48576,
-    26.16322000000001,
+    26.16322,
     -104.48576,
-    26.16322000000001
+    26.16322
 ],
-  "geometry": {"coordinates":[-104.48576,26.16322000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.48576,26.16322],"type":"Point"}
 }

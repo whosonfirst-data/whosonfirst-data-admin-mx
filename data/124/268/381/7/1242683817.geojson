@@ -37,7 +37,11 @@
         "El Cibal",
         "T\u00edo Lan"
     ],
+    "name:und_x_variant":[
+        "T\u00edo Lan"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,8 +52,13 @@
     "wof:concordances":{
         "gn:id":9639124
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8946441
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"f0290b8a89a1fa71d589c3564933847b",
+    "wof:geomhash":"bb87ef160c813867761416a707dd2d2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,20 +69,24 @@
         }
     ],
     "wof:id":1242683817,
-    "wof:lastmodified":1566634940,
+    "wof:lastmodified":1706240466,
     "wof:name":"Tio Lan",
     "wof:parent_id":102079221,
     "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293292479
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -91.18205,
-    17.97696000000001,
+    17.97696,
     -91.18205,
-    17.97696000000001
+    17.97696
 ],
-  "geometry": {"coordinates":[-91.18205,17.97696000000001],"type":"Point"}
+  "geometry": {"coordinates":[-91.18205,17.97696],"type":"Point"}
 }

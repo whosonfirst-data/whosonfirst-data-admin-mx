@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 del Reparo"
+    ],
+    "name:spa_x_variant":[
+        "El Reparo"
+    ],
     "name:und_x_variant":[
         "San Jos\u00e9 del Reparo"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8860218
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4007973
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"2a431ecb4b63fc4fa7382c3ed1b5cf8a",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1259747021,
-    "wof:lastmodified":1566638734,
+    "wof:lastmodified":1706240487,
     "wof:name":"San Jose del Reparo",
     "wof:parent_id":102075113,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276304035
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,7 @@
         "Carricitos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4015294
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8902624
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"abc25c800d7ad50e94003700d19f9229",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1225833605,
-    "wof:lastmodified":1566641985,
+    "wof:lastmodified":1706240446,
     "wof:name":"Carricitos",
     "wof:parent_id":102075133,
     "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276633823
+    ],
     "wof:tags":[]
 },
   "bbox": [

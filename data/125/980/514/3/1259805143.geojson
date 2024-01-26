@@ -35,6 +35,7 @@
         "Torreoncitos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3974517
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4013434
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8478e630d3845835ed3939b40d8969af",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1259805143,
-    "wof:lastmodified":1566638768,
+    "wof:lastmodified":1706240489,
     "wof:name":"Torreoncitos",
     "wof:parent_id":102075293,
     "wof:placetype":"locality",
+    "wof:population":444,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344049311
+    ],
     "wof:tags":[]
 },
   "bbox": [

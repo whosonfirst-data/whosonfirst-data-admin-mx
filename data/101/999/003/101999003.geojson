@@ -9,7 +9,22 @@
     "geom:bbox":"-98.062402,19.39785,-98.028729,19.418926",
     "geom:latitude":19.409421,
     "geom:longitude":-98.046053,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Xaloztoc",
+    "gn:country_code":"MX",
+    "gn:dem":2517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3514595,
+    "gn:latitude":19.40775,
+    "gn:longitude":-98.04602,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Xaloztoc",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-98.06602,19.38775,-98.02602,19.42775",
     "lbl:latitude":19.409091,
     "lbl:longitude":-98.045734,
     "lbl:max_zoom":18.0,
@@ -86,6 +101,12 @@
     "name:swe_x_preferred":[
         "Xaloztoc"
     ],
+    "name:und_x_variant":[
+        "San Cosme",
+        "Xaloxtoc",
+        "San Cosme Xalostoc",
+        "Xalostoc"
+    ],
     "name:vec_x_preferred":[
         "Xaloztoc"
     ],
@@ -124,6 +145,11 @@
         "qs_pg:id":1139648,
         "wd:id":"Q2485826"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3514595
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -142,13 +168,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847655,
+    "wof:lastmodified":1706240411,
     "wof:name":"Xaloztoc",
     "wof:parent_id":102077895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209261207
+    ],
     "wof:tags":[]
 },
   "bbox": [

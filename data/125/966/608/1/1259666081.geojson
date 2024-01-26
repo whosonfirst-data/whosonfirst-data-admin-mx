@@ -10,6 +10,7 @@
     "geom:latitude":16.03418,
     "geom:longitude":-94.04539,
     "gn:admin1_code":"15",
+    "gn:admin2_code":"141.0",
     "gn:asciiname":"Cachimbo",
     "gn:country_code":"MX",
     "gn:dem":4,
@@ -29,11 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:spa_x_preferred":[
+        "Cachimbo"
+    ],
     "name:und_x_variant":[
         "Cachimba",
         "Cachimbo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3531869
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3800193
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"63946919e632c9315386e3df39d1178a",
@@ -56,13 +66,17 @@
         }
     ],
     "wof:id":1259666081,
-    "wof:lastmodified":1566638259,
+    "wof:lastmodified":1706240486,
     "wof:name":"Cachimbo",
     "wof:parent_id":102075825,
     "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343422453
+    ],
     "wof:tags":[]
 },
   "bbox": [

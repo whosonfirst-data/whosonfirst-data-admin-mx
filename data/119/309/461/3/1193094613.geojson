@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":3993745
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3993744
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"736ab5bc68b6b9aa0bfd816571e12000",
     "wof:hierarchy":[
@@ -63,7 +68,7 @@
         }
     ],
     "wof:id":1193094613,
-    "wof:lastmodified":1566627766,
+    "wof:lastmodified":1706240421,
     "wof:name":"Palo Blanco",
     "wof:parent_id":102077241,
     "wof:placetype":"locality",
@@ -71,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343336221
+    ],
     "wof:tags":[]
 },
   "bbox": [

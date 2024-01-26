@@ -11,6 +11,7 @@
     "geom:longitude":-99.16984,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.181201,19.460014,-99.171201,19.470014",
     "lbl:latitude":19.465653,
     "lbl:longitude":-99.173613,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:deu_x_preferred":[
         "San Bernabe AVA"
@@ -69,10 +71,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"San Bernabe",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":86,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":86,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1342006,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898791,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":176,
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -88,6 +109,14 @@
         "gp:id":55898791,
         "qs_pg:id":1342006,
         "wd:id":"Q2219290"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898791
+        ],
+        "qs_pg:id":[
+            1342006
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"381071b260684545e61fa26ad066bfc0",
@@ -115,13 +144,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847314,
+    "wof:lastmodified":1706240370,
     "wof:name":"San Bernabe",
     "wof:parent_id":890535755,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126098377
+    ],
     "wof:tags":[]
 },
   "bbox": [

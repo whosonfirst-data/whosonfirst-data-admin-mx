@@ -36,13 +36,22 @@
     "name:spa_x_variant":[
         "Pe\u00f1a Bermeja"
     ],
+    "name:und_x_variant":[
+        "Pe\u00f1a Bermeja"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9532027
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8878801
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"cc6cb44ffeba2df8855df86eb46219ee",
@@ -53,13 +62,17 @@
         }
     ],
     "wof:id":1209099245,
-    "wof:lastmodified":1566625108,
+    "wof:lastmodified":1706240425,
     "wof:name":"Pena Bermeja",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225937049
+    ],
     "wof:tags":[]
 },
   "bbox": [

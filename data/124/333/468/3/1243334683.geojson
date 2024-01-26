@@ -30,6 +30,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Pedro Xochicuaco"
+    ],
+    "name:und_x_variant":[
+        "Xochiouaco",
+        "Xochicuaco",
+        "Xochicoaco"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8862455
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3514460
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"eb4826bab548490a0ba75a96604a9deb",
@@ -54,7 +67,7 @@
         }
     ],
     "wof:id":1243334683,
-    "wof:lastmodified":1566636117,
+    "wof:lastmodified":1706240476,
     "wof:name":"San Pedro Xochicuaco",
     "wof:parent_id":102078541,
     "wof:placetype":"locality",
@@ -62,7 +75,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276205441
+    ],
     "wof:tags":[]
 },
   "bbox": [

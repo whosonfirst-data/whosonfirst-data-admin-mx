@@ -9,8 +9,22 @@
     "geom:bbox":"-95.72254,18.067734,-95.699493,18.082288",
     "geom:latitude":18.075599,
     "geom:longitude":-95.710479,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"169.0",
+    "gn:asciiname":"Villa Azueta",
+    "gn:country_code":"MX",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9111588,
+    "gn:latitude":18.07418,
+    "gn:longitude":-95.71225,
+    "gn:modification_date":"2014-07-21",
+    "gn:name":"Villa Azueta",
     "gn:population":6783,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-95.73225,18.05418,-95.69225,18.09418",
     "lbl:latitude":18.075241,
     "lbl:longitude":-95.710701,
     "lbl:max_zoom":15.0,
@@ -29,8 +43,14 @@
     "name:nld_x_preferred":[
         "Tesechoac\u00e1n"
     ],
+    "name:spa_x_historical":[
+        "Villa Azueta"
+    ],
     "name:spa_x_preferred":[
         "Tesechoac\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Villa Azueta"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0435\u0441\u0435\u0447\u043e\u0430\u043a\u0430\u043d"
@@ -73,6 +93,11 @@
         "qs_pg:id":375454,
         "wd:id":"Q6143446"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9111588
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -88,7 +113,7 @@
         }
     ],
     "wof:id":101998759,
-    "wof:lastmodified":1690847432,
+    "wof:lastmodified":1706240410,
     "wof:name":"Villa Azueta",
     "wof:parent_id":102077749,
     "wof:placetype":"locality",
@@ -96,7 +121,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326589687
+    ],
     "wof:tags":[]
 },
   "bbox": [

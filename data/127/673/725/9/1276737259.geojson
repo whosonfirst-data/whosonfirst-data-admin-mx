@@ -33,6 +33,10 @@
     "name:spa_x_preferred":[
         "San Cayetano de Vacas"
     ],
+    "name:und_x_variant":[
+        "Las Vacas",
+        "Vacas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4022547
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3980739
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"56c31343df9200beda7d0695b6e5d510",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1276737259,
-    "wof:lastmodified":1566623089,
+    "wof:lastmodified":1706240504,
     "wof:name":"San Cayetano de Vacas",
     "wof:parent_id":102078773,
     "wof:placetype":"locality",
@@ -65,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343832517
+    ],
     "wof:tags":[]
 },
   "bbox": [

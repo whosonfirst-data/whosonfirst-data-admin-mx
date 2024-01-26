@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-90.88351,16.81473,-90.88351,16.81473",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Frontera Corozal"
@@ -48,7 +50,7 @@
         "gn:id":3816366
     },
     "wof:country":"MX",
-    "wof:geomhash":"61fd289263f710b5f0f21904a9e5d9f5",
+    "wof:geomhash":"66f18f7f7a8a3056bf116c7a8ff3ff8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1243452305,
-    "wof:lastmodified":1566636928,
+    "wof:lastmodified":1706240399,
     "wof:name":"Frontera Corozal",
     "wof:parent_id":102075509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101994551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -90.88351,
-    16.81472999999999,
+    16.81473,
     -90.88351,
-    16.81472999999999
+    16.81473
 ],
-  "geometry": {"coordinates":[-90.88351,16.81472999999999],"type":"Point"}
+  "geometry": {"coordinates":[-90.88351,16.81473],"type":"Point"}
 }

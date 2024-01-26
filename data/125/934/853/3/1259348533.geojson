@@ -37,6 +37,7 @@
         "Convalecencia"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4012940
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8942490
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"64beee4dddf4b7bbfa0a8770aac7a606",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259348533,
-    "wof:lastmodified":1566638602,
+    "wof:lastmodified":1706240482,
     "wof:name":"La Convalecencia",
     "wof:parent_id":102074591,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326505967
+    ],
     "wof:tags":[]
 },
   "bbox": [

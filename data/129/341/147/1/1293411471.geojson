@@ -194,6 +194,11 @@
     "wof:concordances":{
         "gn:id":8770293
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8770280
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"9782455c3736dbbab14133f0b899cb43",
     "wof:hierarchy":[
@@ -206,13 +211,15 @@
         }
     ],
     "wof:id":1293411471,
-    "wof:lastmodified":1636492502,
+    "wof:lastmodified":1706240513,
     "wof:name":"El Dorado",
     "wof:parent_id":102075287,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343979645
+    ],
     "wof:tags":[]
 },
   "bbox": [

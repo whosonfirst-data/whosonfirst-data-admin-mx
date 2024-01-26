@@ -9,9 +9,22 @@
     "geom:bbox":"-101.419691,27.224908,-101.406518,27.242783",
     "geom:latitude":27.234045,
     "geom:longitude":-101.413579,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Escobedo",
+    "gn:country_code":"MX",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3980181,
     "gn:latitude":27.21667,
     "gn:longitude":-101.35,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Escobedo",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-101.43314,27.21372,-101.39314,27.25372",
     "lbl:latitude":27.233516,
     "lbl:longitude":-101.413046,
     "lbl:max_zoom":18.0,
@@ -23,6 +36,12 @@
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09cd\u0995\u09cb\u09ac\u09c7\u09a6\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Escobedo"
+    ],
+    "name:deu_x_preferred":[
+        "Escobedo"
     ],
     "name:eng_x_preferred":[
         "Escobedo"
@@ -41,6 +60,15 @@
     ],
     "name:srp_x_preferred":[
         "\u0415\u0441\u043a\u043e\u0431\u0435\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Escobedo"
+    ],
+    "name:und_x_variant":[
+        "Villa Escobedo"
+    ],
+    "name:vie_x_preferred":[
+        "Escobedo"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Coahuila de Zaragoza",
@@ -72,6 +100,11 @@
         "wd:id":"Q5272866",
         "wk:page":"Escobedo, Coahuila"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3980181
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"ce4382d53a52fddb5f40a1bdc60cfabf",
     "wof:hierarchy":[
@@ -87,13 +120,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690846904,
+    "wof:lastmodified":1706240415,
     "wof:name":"Escobedo",
     "wof:parent_id":102078857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243540371
+    ],
     "wof:tags":[]
 },
   "bbox": [

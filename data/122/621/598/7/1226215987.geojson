@@ -70,6 +70,7 @@
         "San Buenaventura"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -79,6 +80,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3987507
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3987508
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"18b4cb9ddea41ba2c3ad2a12f5ef4356",
@@ -92,13 +98,17 @@
         }
     ],
     "wof:id":1226215987,
-    "wof:lastmodified":1566639429,
+    "wof:lastmodified":1706240455,
     "wof:name":"San Buenaventura",
     "wof:parent_id":102074747,
     "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293183949
+    ],
     "wof:tags":[]
 },
   "bbox": [

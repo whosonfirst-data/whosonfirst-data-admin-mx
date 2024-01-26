@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Ca\u00f1ada"
+    ],
+    "name:spa_x_variant":[
+        "Kotolte"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8860313
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816137
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"94e3687d53ee59c7a25dd17abde3f25a",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1293587801,
-    "wof:lastmodified":1566621346,
+    "wof:lastmodified":1706240515,
     "wof:name":"Kotolte",
     "wof:parent_id":102075591,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327331497
+    ],
     "wof:tags":[]
 },
   "bbox": [

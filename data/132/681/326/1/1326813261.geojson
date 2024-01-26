@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Cimientos"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8917714
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3997920
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c62d967c12be83713144d64960599f03",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1326813261,
-    "wof:lastmodified":1566613139,
+    "wof:lastmodified":1706240530,
     "wof:name":"Los Cimientos",
     "wof:parent_id":102074869,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343434369
+    ],
     "wof:tags":[]
 },
   "bbox": [

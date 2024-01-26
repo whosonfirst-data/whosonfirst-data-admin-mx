@@ -36,7 +36,11 @@
     "name:spa_x_variant":[
         "Alogaquillo"
     ],
+    "name:und_x_variant":[
+        "San Sebasti\u00e1n Atoyaquillo"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3533029
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8878663
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"670571c9753ccc0c34a86acb02aade87",
@@ -59,13 +68,17 @@
         }
     ],
     "wof:id":1225905827,
-    "wof:lastmodified":1566640642,
+    "wof:lastmodified":1706240447,
     "wof:name":"San Sebastian Atoyaquillo",
     "wof:parent_id":102076829,
     "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243042003
+    ],
     "wof:tags":[]
 },
   "bbox": [

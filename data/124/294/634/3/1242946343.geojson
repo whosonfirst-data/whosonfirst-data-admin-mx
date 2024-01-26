@@ -33,7 +33,11 @@
     "name:spa_x_preferred":[
         "Soyatl\u00e1n de Afuera"
     ],
+    "name:und_x_variant":[
+        "Soyatl\u00e1n de Afuera"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3982793
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859023
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ffd3ff2dbc377c272a7533ccb6cd6aeb",
@@ -56,13 +65,17 @@
         }
     ],
     "wof:id":1242946343,
-    "wof:lastmodified":1566635085,
+    "wof:lastmodified":1706240470,
     "wof:name":"Soyatlan de Afuera",
     "wof:parent_id":102074869,
     "wof:placetype":"locality",
+    "wof:population":1543,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260163977
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,6 +37,7 @@
         "El Salitre"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4026320
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8873592
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"28ecf8c23f8847e39760ccb79d9a8bdb",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1277045273,
-    "wof:lastmodified":1566624080,
+    "wof:lastmodified":1706240507,
     "wof:name":"Salitre de Lopez",
     "wof:parent_id":102074213,
     "wof:placetype":"locality",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310571107
+    ],
     "wof:tags":[]
 },
   "bbox": [

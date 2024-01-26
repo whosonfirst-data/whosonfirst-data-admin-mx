@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-107.79029,25.72367,-107.79029,25.72367",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Cangrejo"
@@ -48,7 +50,7 @@
         "gn:id":9028099
     },
     "wof:country":"MX",
-    "wof:geomhash":"b999117b27e8b81790d959d201bb4bda",
+    "wof:geomhash":"14e663f5a66b3e0d578d1e6b1c7ac056",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1326887435,
-    "wof:lastmodified":1566613169,
+    "wof:lastmodified":1706240435,
     "wof:name":"El Potrero Grande",
     "wof:parent_id":102074317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209570317
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -107.79028999999998,
+    -107.79029,
     25.72367,
-    -107.79028999999998,
+    -107.79029,
     25.72367
 ],
-  "geometry": {"coordinates":[-107.79028999999998,25.72367],"type":"Point"}
+  "geometry": {"coordinates":[-107.79029,25.72367],"type":"Point"}
 }

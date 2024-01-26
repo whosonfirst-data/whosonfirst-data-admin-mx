@@ -38,7 +38,11 @@
         "Fracci\u00f3n Dos",
         "Yabteclum Fracci\u00f3n Dos"
     ],
+    "name:und_x_variant":[
+        "Yabteclum Fracci\u00f3n Dos"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3816164
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8860295
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4448eb11ad77e30018f86cd667580743",
@@ -61,13 +70,17 @@
         }
     ],
     "wof:id":1326528049,
-    "wof:lastmodified":1566614615,
+    "wof:lastmodified":1706240528,
     "wof:name":"Yabteclum Fraccion Dos",
     "wof:parent_id":102075587,
     "wof:placetype":"locality",
+    "wof:population":894,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360283979
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":8723857
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8723856
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"35297fea30550358c0273a790c49918d",
     "wof:hierarchy":[
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1292956255,
-    "wof:lastmodified":1566620365,
+    "wof:lastmodified":1706240509,
     "wof:name":"El Ranchito",
     "wof:parent_id":102077161,
     "wof:placetype":"locality",
@@ -65,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326687431
+    ],
     "wof:tags":[]
 },
   "bbox": [

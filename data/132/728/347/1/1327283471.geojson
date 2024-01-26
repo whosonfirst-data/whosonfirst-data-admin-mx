@@ -64,6 +64,7 @@
         "\u585e\u7f85\u67e5\u6258"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -73,6 +74,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3531320
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3824444
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fb8a0c59c00d8940c7578d7fb836f08e",
@@ -86,13 +92,17 @@
         }
     ],
     "wof:id":1327283471,
-    "wof:lastmodified":1566614973,
+    "wof:lastmodified":1706240531,
     "wof:name":"Cerro Chato",
     "wof:parent_id":102077813,
     "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327493073
+    ],
     "wof:tags":[]
 },
   "bbox": [

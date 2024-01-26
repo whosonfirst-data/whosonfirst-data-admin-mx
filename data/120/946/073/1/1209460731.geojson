@@ -57,6 +57,11 @@
     "wof:concordances":{
         "gn:id":8722478
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8722479
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"6cda377b4d36ccd0f9b2117b5233e360",
     "wof:hierarchy":[
@@ -66,7 +71,7 @@
         }
     ],
     "wof:id":1209460731,
-    "wof:lastmodified":1566626019,
+    "wof:lastmodified":1706240433,
     "wof:name":"Las Pilas",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -74,7 +79,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243051565
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Las Higueritas"
+    ],
+    "name:und_x_variant":[
+        "Rancho Las Huigueritas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8920934
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999795
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ad47d5cccb06771a5f137395fe347525",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1293068837,
-    "wof:lastmodified":1566620156,
+    "wof:lastmodified":1706240510,
     "wof:name":"Las Higueritas",
     "wof:parent_id":102074335,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326997843
+    ],
     "wof:tags":[]
 },
   "bbox": [

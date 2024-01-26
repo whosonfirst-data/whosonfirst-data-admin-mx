@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-97.65,20.24167,-97.65,20.24167",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coyutla"
@@ -75,7 +77,7 @@
         "gn:id":3824667
     },
     "wof:country":"MX",
-    "wof:geomhash":"4657ccc9616597b518750d4800235ba0",
+    "wof:geomhash":"6b352b100f5c7a742eade43bedb94b02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,20 +88,22 @@
         }
     ],
     "wof:id":1277136767,
-    "wof:lastmodified":1566623816,
+    "wof:lastmodified":1706240408,
     "wof:name":"Coyutla",
     "wof:parent_id":102077607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101998311
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -97.65,
-    20.24167000000001,
+    20.24167,
     -97.65,
-    20.24167000000001
+    20.24167
 ],
-  "geometry": {"coordinates":[-97.65000000000001,20.24167000000001],"type":"Point"}
+  "geometry": {"coordinates":[-97.65000000000001,20.24167],"type":"Point"}
 }

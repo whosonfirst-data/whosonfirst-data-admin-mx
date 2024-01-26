@@ -88,6 +88,7 @@
         "Santa Teresa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -97,6 +98,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3983730
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8898371
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b7af4819ea288948e96ba7ba4c6d9464",
@@ -110,13 +116,17 @@
         }
     ],
     "wof:id":1276736025,
-    "wof:lastmodified":1566623085,
+    "wof:lastmodified":1706240504,
     "wof:name":"Santa Teresa",
     "wof:parent_id":102074671,
     "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327003423
+    ],
     "wof:tags":[]
 },
   "bbox": [

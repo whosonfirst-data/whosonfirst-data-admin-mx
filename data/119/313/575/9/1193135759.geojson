@@ -54,6 +54,9 @@
     "name:spa_x_preferred":[
         "El Cairo"
     ],
+    "name:spa_x_variant":[
+        "El Cairo"
+    ],
     "name:swe_x_preferred":[
         "El Cairo"
     ],
@@ -81,6 +84,11 @@
     "wof:concordances":{
         "gn:id":8873784
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9532443
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"303a85cb04b2a56a10d7828be24c047d",
     "wof:hierarchy":[
@@ -93,7 +101,7 @@
         }
     ],
     "wof:id":1193135759,
-    "wof:lastmodified":1566628003,
+    "wof:lastmodified":1706240422,
     "wof:name":"El Cairo",
     "wof:parent_id":102075571,
     "wof:placetype":"locality",
@@ -101,7 +109,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276545679
+    ],
     "wof:tags":[]
 },
   "bbox": [

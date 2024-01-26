@@ -51,11 +51,17 @@
     "name:slv_x_preferred":[
         "Benavides"
     ],
+    "name:spa_x_preferred":[
+        "Benavides"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043d\u0430\u0432\u0438\u0434\u0435\u0441"
     ],
     "name:swe_x_preferred":[
         "Benavides"
+    ],
+    "name:und_x_variant":[
+        "Rancho Benavides"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -69,6 +75,11 @@
     "wof:concordances":{
         "gn:id":8926570
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3532293
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"05591f4cb16713e382967a3143c8e4b2",
     "wof:hierarchy":[
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1277050159,
-    "wof:lastmodified":1566623948,
+    "wof:lastmodified":1706240507,
     "wof:name":"Benavides",
     "wof:parent_id":102078775,
     "wof:placetype":"locality",
@@ -89,7 +100,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310070477
+    ],
     "wof:tags":[]
 },
   "bbox": [

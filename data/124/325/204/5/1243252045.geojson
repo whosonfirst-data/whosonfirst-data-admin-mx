@@ -237,6 +237,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u043b\u0430\u0441\u043a\u0430\u043b\u0430"
     ],
+    "name:und_x_variant":[
+        "Rancho Tzascala"
+    ],
     "name:urd_x_preferred":[
         "\u062a\u0644\u0627\u06a9\u0633\u06a9\u0627\u0644\u0627"
     ],
@@ -264,6 +267,11 @@
     "wof:concordances":{
         "gn:id":8919640
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3980831
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"0bc8af1b97b7430286b8fc06dff3f5fd",
     "wof:hierarchy":[
@@ -276,7 +284,7 @@
         }
     ],
     "wof:id":1243252045,
-    "wof:lastmodified":1636493819,
+    "wof:lastmodified":1706240475,
     "wof:name":"Tlaxcala",
     "wof:parent_id":102075213,
     "wof:placetype":"locality",
@@ -284,7 +292,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326518399
+    ],
     "wof:tags":[]
 },
   "bbox": [

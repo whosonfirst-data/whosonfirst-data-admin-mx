@@ -37,6 +37,7 @@
         "Rancho Cueva Pinta"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
@@ -44,8 +45,13 @@
     "wof:concordances":{
         "gn:id":4012261
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8903296
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"0eb088d764f45384c19b86ade1e790d2",
+    "wof:geomhash":"5288dcf05900bcf3e21c7f987b85ec6d",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -53,20 +59,24 @@
         }
     ],
     "wof:id":1209306559,
-    "wof:lastmodified":1566625553,
+    "wof:lastmodified":1706240431,
     "wof:name":"Cueva Pinta",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310197163
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -107.67631000000002,
+    -107.67631,
     27.8349,
-    -107.67631000000002,
+    -107.67631,
     27.8349
 ],
-  "geometry": {"coordinates":[-107.67631000000002,27.8349],"type":"Point"}
+  "geometry": {"coordinates":[-107.67631,27.8349],"type":"Point"}
 }

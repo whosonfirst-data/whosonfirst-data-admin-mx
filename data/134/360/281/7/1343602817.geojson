@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-103.35222,22.25694,-103.35222,22.25694",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Mar\u00eda de la Torre"
@@ -57,14 +59,16 @@
         }
     ],
     "wof:id":1343602817,
-    "wof:lastmodified":1566618550,
+    "wof:lastmodified":1706240532,
     "wof:name":"Maria de la Torre",
     "wof:parent_id":102075397,
     "wof:placetype":"locality",
     "wof:population":283,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1343310829
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

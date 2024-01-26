@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Chachahuatlan"
+    ],
+    "name:spa_x_variant":[
+        "Chachahutl\u00e1n"
+    ],
     "name:und_x_variant":[
         "Chachahuatl\u00e1n"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8866831
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4014632
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"0944da409392baa90bd271b263efdfb8",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1343431437,
-    "wof:lastmodified":1566619433,
+    "wof:lastmodified":1706240533,
     "wof:name":"Chachahuatlan",
     "wof:parent_id":102074843,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343431461
+    ],
     "wof:tags":[]
 },
   "bbox": [

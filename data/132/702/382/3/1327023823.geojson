@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-106.44769,26.30764,-106.44769,26.30764",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Agua Caliente"
@@ -59,7 +61,7 @@
         "gn:id":4019538
     },
     "wof:country":"MX",
-    "wof:geomhash":"1aa5cf611ac01bdef895406aeb86ad76",
+    "wof:geomhash":"ed0671d4a25712ebd1994023e31493fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,20 +72,22 @@
         }
     ],
     "wof:id":1327023823,
-    "wof:lastmodified":1566614083,
+    "wof:lastmodified":1706240481,
     "wof:name":"Agua Caliente",
     "wof:parent_id":102075303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243575785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -106.44769,
-    26.30764000000001,
+    26.30764,
     -106.44769,
-    26.30764000000001
+    26.30764
 ],
-  "geometry": {"coordinates":[-106.44768999999999,26.30764000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.44768999999999,26.30764],"type":"Point"}
 }

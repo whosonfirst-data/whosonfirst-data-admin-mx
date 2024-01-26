@@ -33,6 +33,10 @@
     "name:spa_x_preferred":[
         "Congregaci\u00f3n Calles"
     ],
+    "name:und_x_variant":[
+        "El Blanquillo",
+        "Blanquillo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3791868
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3532220
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"05a182963f0e9821e40cab5b42eafa9a",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1260364287,
-    "wof:lastmodified":1566628918,
+    "wof:lastmodified":1706240496,
     "wof:name":"Congregacion Calles",
     "wof:parent_id":102078739,
     "wof:placetype":"locality",
@@ -65,7 +74,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276296865
+    ],
     "wof:tags":[]
 },
   "bbox": [

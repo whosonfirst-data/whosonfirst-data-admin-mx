@@ -38,6 +38,7 @@
         "El Aguacate"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3529489
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8881911
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f6170ea1ba918895b85661eebcaf0d9c",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1259340473,
-    "wof:lastmodified":1566638574,
+    "wof:lastmodified":1706240482,
     "wof:name":"Aguacate Primero",
     "wof:parent_id":102077191,
     "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326785927
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,7 @@
         "\u0415\u043b \u041f\u043e\u0437\u043e"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -52,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3816156
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8860952
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"dfe37765f45583d48ccae81e62ba2d2f",
@@ -65,13 +71,17 @@
         }
     ],
     "wof:id":1260078897,
-    "wof:lastmodified":1566628842,
+    "wof:lastmodified":1706240493,
     "wof:name":"El Pozo",
     "wof:parent_id":102075591,
     "wof:placetype":"locality",
+    "wof:population":756,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293097303
+    ],
     "wof:tags":[]
 },
   "bbox": [

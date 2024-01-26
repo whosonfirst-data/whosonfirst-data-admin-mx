@@ -511,6 +511,7 @@
         "\u65e7\u91d1\u5c71"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -520,6 +521,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3987117
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8945589
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4b725cdb4821b42abb038ddad133c142",
@@ -533,13 +539,17 @@
         }
     ],
     "wof:id":1276387193,
-    "wof:lastmodified":1636492892,
+    "wof:lastmodified":1706240500,
     "wof:name":"San Francisco",
     "wof:parent_id":102075379,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309864889
+    ],
     "wof:tags":[]
 },
   "bbox": [

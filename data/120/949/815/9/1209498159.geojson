@@ -34,12 +34,18 @@
         "El Ocote"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4008954
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8887160
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0703d52dce1e63821129d9c56edf6547",
@@ -50,13 +56,17 @@
         }
     ],
     "wof:id":1209498159,
-    "wof:lastmodified":1566626292,
+    "wof:lastmodified":1706240435,
     "wof:name":"El Ocote",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276209557
+    ],
     "wof:tags":[]
 },
   "bbox": [

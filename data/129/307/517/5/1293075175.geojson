@@ -33,6 +33,10 @@
     "name:spa_x_preferred":[
         "El Fais\u00e1n"
     ],
+    "name:und_x_variant":[
+        "El Fais\u00e1n",
+        "Fais\u00e1n"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3800522
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3527653
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f82a3401f49a835866a63cb8d2761fdd",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293075175,
-    "wof:lastmodified":1566619732,
+    "wof:lastmodified":1706240511,
     "wof:name":"El Faisan",
     "wof:parent_id":102075807,
     "wof:placetype":"locality",
@@ -65,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327198487
+    ],
     "wof:tags":[]
 },
   "bbox": [

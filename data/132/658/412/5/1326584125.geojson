@@ -67,6 +67,7 @@
         "San Pascual"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -76,6 +77,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3985169
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8923831
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8752da99f76345afd453c754e493d185",
@@ -89,13 +95,17 @@
         }
     ],
     "wof:id":1326584125,
-    "wof:lastmodified":1566613456,
+    "wof:lastmodified":1706240528,
     "wof:name":"San Pascual",
     "wof:parent_id":102074365,
     "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326884827
+    ],
     "wof:tags":[]
 },
   "bbox": [

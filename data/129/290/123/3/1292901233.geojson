@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Portugal"
+    ],
+    "name:und_x_variant":[
+        "Rancho El Portugal"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8902560
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4008467
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"abc43968945d8ee90156feac383ef015",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1292901233,
-    "wof:lastmodified":1566621689,
+    "wof:lastmodified":1706240509,
     "wof:name":"El Portugal",
     "wof:parent_id":102075263,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343257153
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -34,6 +34,7 @@
         "Saucillo de la Joya"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3983303
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4024764
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ebc74022ce22d496812dc40c04ce79ac",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1293861163,
-    "wof:lastmodified":1566622402,
+    "wof:lastmodified":1706240518,
     "wof:name":"El Saucillo",
     "wof:parent_id":102077349,
     "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310588401
+    ],
     "wof:tags":[]
 },
   "bbox": [

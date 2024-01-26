@@ -37,6 +37,7 @@
         "Rancho El Reparo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4007962
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8916262
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ef9a0a85a9eb69cba50c058a201911ee",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1310252569,
-    "wof:lastmodified":1566629778,
+    "wof:lastmodified":1706240523,
     "wof:name":"El Reparo",
     "wof:parent_id":102074447,
     "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326478181
+    ],
     "wof:tags":[]
 },
   "bbox": [

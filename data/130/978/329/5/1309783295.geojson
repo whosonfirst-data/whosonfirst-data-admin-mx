@@ -38,6 +38,7 @@
         "La Labor"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4001771
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8870545
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"768a87585fccbe4975ea219d21586a62",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1309783295,
-    "wof:lastmodified":1566633293,
+    "wof:lastmodified":1706240520,
     "wof:name":"Labor de Lopez",
     "wof:parent_id":102077323,
     "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343341959
+    ],
     "wof:tags":[]
 },
   "bbox": [

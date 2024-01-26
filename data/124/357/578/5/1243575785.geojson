@@ -45,6 +45,9 @@
     "name:swe_x_preferred":[
         "Agua Caliente"
     ],
+    "name:und_x_variant":[
+        "Rancho Agua Caliente"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -56,6 +59,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8947764
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4019538
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"affe97c88ba00788310ee96707f522a2",
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":1243575785,
-    "wof:lastmodified":1566635754,
+    "wof:lastmodified":1706240481,
     "wof:name":"Agua Caliente",
     "wof:parent_id":102075303,
     "wof:placetype":"locality",
@@ -77,7 +85,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327023823
+    ],
     "wof:tags":[]
 },
   "bbox": [

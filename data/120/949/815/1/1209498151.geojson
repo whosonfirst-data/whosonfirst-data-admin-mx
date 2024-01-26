@@ -34,12 +34,18 @@
         "Mezcalitos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3996022
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8908345
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"123da3f645d6c6fe0dfbeb016a9cbf4a",
@@ -50,13 +56,17 @@
         }
     ],
     "wof:id":1209498151,
-    "wof:lastmodified":1566626292,
+    "wof:lastmodified":1706240434,
     "wof:name":"Mezcalitos",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309779435
+    ],
     "wof:tags":[]
 },
   "bbox": [

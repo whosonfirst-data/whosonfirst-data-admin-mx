@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "San Juan del Palmar"
     ],
+    "name:und_x_variant":[
+        "San Juan"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4022539
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3986046
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3b91aeb0c8dd930232b7008933a87397",
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1193111789,
-    "wof:lastmodified":1566628388,
+    "wof:lastmodified":1706240421,
     "wof:name":"San Juan del Palmar",
     "wof:parent_id":102078773,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276834573
+    ],
     "wof:tags":[]
 },
   "bbox": [

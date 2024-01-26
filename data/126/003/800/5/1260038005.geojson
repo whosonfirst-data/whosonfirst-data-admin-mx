@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-88.82139,19.71587,-88.82139,19.71587",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cafetal Grande"
@@ -48,7 +50,7 @@
         "gn:id":3822991
     },
     "wof:country":"MX",
-    "wof:geomhash":"0f9d8be279dd064735fb60fc9ee750e2",
+    "wof:geomhash":"ab60a6a537ee66d2458655fe3ac3b0b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1260038005,
-    "wof:lastmodified":1566629289,
+    "wof:lastmodified":1706240483,
     "wof:name":"Cafetal Grande",
     "wof:parent_id":102079239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259441013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -88.82139000000002,
+    -88.82139,
     19.71587,
-    -88.82139000000002,
+    -88.82139,
     19.71587
 ],
-  "geometry": {"coordinates":[-88.82139000000002,19.71587],"type":"Point"}
+  "geometry": {"coordinates":[-88.82138999999999,19.71587],"type":"Point"}
 }

@@ -9,7 +9,22 @@
     "geom:bbox":"-99.343182,22.510684,-99.307599,22.541989",
     "geom:latitude":22.525601,
     "geom:longitude":-99.32757,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"El Naranjo",
+    "gn:country_code":"MX",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3483997,
+    "gn:latitude":22.52597,
+    "gn:longitude":-99.32968,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"El Naranjo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-99.34968,22.50597,-99.30968,22.54597",
     "lbl:latitude":22.524104,
     "lbl:longitude":-99.329309,
     "lbl:max_zoom":18.0,
@@ -62,6 +77,9 @@
     "name:swe_x_preferred":[
         "El Naranjo"
     ],
+    "name:und_x_variant":[
+        "Naranjos"
+    ],
     "name:vec_x_preferred":[
         "El Naranjo"
     ],
@@ -105,6 +123,14 @@
         "wd:id":"Q3849143",
         "wk:page":"El Naranjo, San Luis Potosi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3483997
+        ],
+        "wk:page":[
+            "El_Naranjo"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -123,13 +149,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847548,
+    "wof:lastmodified":1706240404,
     "wof:name":"El Naranjo",
     "wof:parent_id":102077125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292968587
+    ],
     "wof:tags":[]
 },
   "bbox": [

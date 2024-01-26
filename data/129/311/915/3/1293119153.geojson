@@ -45,8 +45,13 @@
     "wof:concordances":{
         "gn:id":3533151
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827392
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"2dd8b6420ee9187a406bbeb1beabfcc1",
+    "wof:geomhash":"4fbede990a28f299a04c84840dcc7d83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1293119153,
-    "wof:lastmodified":1566621873,
+    "wof:lastmodified":1706240511,
     "wof:name":"San Andres Ahuayucan",
     "wof:parent_id":102073731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343745967
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -99.1074,
-    19.22562000000001,
+    19.22562,
     -99.1074,
-    19.22562000000001
+    19.22562
 ],
-  "geometry": {"coordinates":[-99.1074,19.22562000000001],"type":"Point"}
+  "geometry": {"coordinates":[-99.1074,19.22562],"type":"Point"}
 }

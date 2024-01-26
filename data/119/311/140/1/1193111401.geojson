@@ -66,6 +66,11 @@
     "wof:concordances":{
         "gn:id":8902948
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3800750
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"32d0bfd802724fb118dc40f757a81dc7",
     "wof:hierarchy":[
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":1193111401,
-    "wof:lastmodified":1566628389,
+    "wof:lastmodified":1706240421,
     "wof:name":"Tierra Blanca",
     "wof:parent_id":102076721,
     "wof:placetype":"locality",
@@ -86,7 +91,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310067257
+    ],
     "wof:tags":[]
 },
   "bbox": [

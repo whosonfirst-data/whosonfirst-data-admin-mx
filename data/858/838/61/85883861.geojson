@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
     "geom:area_square_m":248959.343584,
-    "geom:bbox":"-99.1543579102,19.3992492717,-99.1488647461,19.4044304911",
+    "geom:bbox":"-99.154358,19.399249,-99.148865,19.40443",
     "geom:latitude":19.401408,
     "geom:longitude":-99.152069,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.16006,19.397748,-99.15006,19.407748",
     "lbl:latitude":19.400669,
     "lbl:longitude":-99.151414,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Piedad Narvarte"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Piedad Narvarte",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":271,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":271,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475184,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898577,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,8 +89,16 @@
         "gp:id":55898577,
         "qs_pg:id":475184
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898577
+        ],
+        "qs_pg:id":[
+            475184
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"b4c9d9a1fb65aead2fc38ba3bf0165f6",
+    "wof:geomhash":"0f0157d2c4b4137cb9bfea0ee159198b",
     "wof:hierarchy":[
         {
             "borough_id":890535769,
@@ -94,20 +123,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619672,
+    "wof:lastmodified":1706240369,
     "wof:name":"Piedad Narvarte",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126106701
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.15435791018601,
-    19.39924927171688,
-    -99.1488647461,
-    19.40443049106403
+    -99.154358,
+    19.399249,
+    -99.148865,
+    19.40443
 ],
-  "geometry": {"coordinates":[[[-99.1488647461,19.4018399025779],[-99.1488647461,19.39924927286414],[-99.15161132811656,19.39924927171688],[-99.15435791018422,19.39924927214712],[-99.15435791018601,19.4018399025779],[-99.15435791018601,19.40443049106403],[-99.15161132811383,19.40443049106403],[-99.15161132811551,19.40183990186274],[-99.1488647461,19.4018399025779]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.148865,19.40184],[-99.148865,19.399249],[-99.151611,19.399249],[-99.154358,19.399249],[-99.154358,19.40184],[-99.154358,19.40443],[-99.151611,19.40443],[-99.151611,19.40184],[-99.148865,19.40184]]],"type":"Polygon"}
 }

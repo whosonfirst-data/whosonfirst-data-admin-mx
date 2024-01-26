@@ -9,7 +9,22 @@
     "geom:bbox":"-97.50694,17.74126,-97.495953,17.746561",
     "geom:latitude":17.744163,
     "geom:longitude":-97.501132,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"106.0",
+    "gn:asciiname":"San Antonio Acutla",
+    "gn:country_code":"MX",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8881024,
+    "gn:latitude":17.74361,
+    "gn:longitude":-97.49889,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Antonio Acutla",
+    "gn:population":100,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.51889,17.72361,-97.47889,17.76361",
     "lbl:latitude":17.744197,
     "lbl:longitude":-97.501129,
     "lbl:max_zoom":18.0,
@@ -90,6 +105,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -103,6 +119,14 @@
         "gp:id":55916675,
         "wd:id":"Q3890971",
         "wk:page":"San Antonio Acutla"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8881024
+        ],
+        "wk:page":[
+            "San_Antonio_Acutla"
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d64c76ff79e6c2fd7d88dd34102f0771",
@@ -119,13 +143,17 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847700,
+    "wof:lastmodified":1706240401,
     "wof:name":"San Antonio Acutla",
     "wof:parent_id":102076775,
     "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209279019
+    ],
     "wof:tags":[]
 },
   "bbox": [

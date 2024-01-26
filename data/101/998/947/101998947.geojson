@@ -9,7 +9,22 @@
     "geom:bbox":"-98.259483,19.226081,-98.240458,19.253374",
     "geom:latitude":19.236619,
     "geom:longitude":-98.249752,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"San Juan Huactzinco",
+    "gn:country_code":"MX",
+    "gn:dem":2217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3815391,
+    "gn:latitude":19.23342,
+    "gn:longitude":-98.25259,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"San Juan Huactzinco",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-98.27259,19.21342,-98.23259,19.25342",
     "lbl:latitude":19.234656,
     "lbl:longitude":-98.249611,
     "lbl:max_zoom":18.0,
@@ -61,6 +76,9 @@
     "name:swe_x_preferred":[
         "San Juan Huactzinco"
     ],
+    "name:und_x_variant":[
+        "Huactzingo"
+    ],
     "name:vec_x_preferred":[
         "San Juan Huactzinco"
     ],
@@ -92,6 +110,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3815391,
         "gp:id":124977,
         "wd:id":"Q7414589"
     },
@@ -107,13 +126,15 @@
         }
     ],
     "wof:id":101998947,
-    "wof:lastmodified":1690847423,
+    "wof:lastmodified":1706240411,
     "wof:name":"San Juan Huactzinco",
     "wof:parent_id":102077863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344018689
+    ],
     "wof:tags":[]
 },
   "bbox": [

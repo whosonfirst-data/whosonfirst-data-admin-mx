@@ -9,8 +9,23 @@
     "geom:bbox":"-99.891568,18.50437,-99.882011,18.517051",
     "geom:latitude":18.510439,
     "geom:longitude":-99.887522,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Ixcapuzalco",
+    "gn:country_code":"MX",
+    "gn:dem":1778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3526733,
     "gn:id":"3821416,3526733",
+    "gn:latitude":18.51204,
+    "gn:longitude":-99.88755,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ixcapuzalco",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-99.90755,18.49204,-99.86755,18.53204",
     "lbl:latitude":18.511727,
     "lbl:longitude":-99.88792,
     "lbl:max_zoom":18.0,
@@ -66,6 +81,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3526733,
         "gp:id":125488,
         "wd:id":"Q3660991"
     },
@@ -81,13 +97,15 @@
         }
     ],
     "wof:id":101991493,
-    "wof:lastmodified":1690847484,
+    "wof:lastmodified":1706240388,
     "wof:name":"Ixcapuzalco",
     "wof:parent_id":102073929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343538001
+    ],
     "wof:tags":[]
 },
   "bbox": [

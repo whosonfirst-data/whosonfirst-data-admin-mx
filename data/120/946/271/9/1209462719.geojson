@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":8770186
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8770185
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"2cc01ec0f3def6878471271dfbffe6c3",
     "wof:hierarchy":[
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":1209462719,
-    "wof:lastmodified":1566626021,
+    "wof:lastmodified":1706240433,
     "wof:name":"El Reparo",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -59,7 +64,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209971235
+    ],
     "wof:tags":[]
 },
   "bbox": [

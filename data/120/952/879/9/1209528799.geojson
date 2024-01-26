@@ -35,12 +35,18 @@
         "San Jos\u00e9 de la Orde\u00f1a"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4001065
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4021413
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"025ad6b77c73576b3e725d4be8754640",
@@ -51,13 +57,17 @@
         }
     ],
     "wof:id":1209528799,
-    "wof:lastmodified":1566625757,
+    "wof:lastmodified":1706240435,
     "wof:name":"San Jose de la Ordena",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":445,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259786927
+    ],
     "wof:tags":[]
 },
   "bbox": [

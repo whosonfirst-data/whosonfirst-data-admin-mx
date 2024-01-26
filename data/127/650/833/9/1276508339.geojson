@@ -50,6 +50,7 @@
         "Chicahuaxtla"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -58,7 +59,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3530997
+        "gn:id":3530997,
+        "wk:page":"Santo_Domingo_del_Estado"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8860164
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"11cd832a2730253cde305980b3dc1000",
@@ -72,13 +79,17 @@
         }
     ],
     "wof:id":1276508339,
-    "wof:lastmodified":1566623760,
+    "wof:lastmodified":1706240501,
     "wof:name":"Santo Domingo del Estado",
     "wof:parent_id":102077049,
     "wof:placetype":"locality",
+    "wof:population":927,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309970587
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Taj\u00edn"
+    ],
+    "name:spa_x_variant":[
+        "Raices del Taj\u00edn"
+    ],
     "name:und_x_variant":[
         "Ra\u00edces del Taj\u00edn"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8906879
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9292168
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"e8ec39f326e5f9382bad274b9bcd94d6",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1225838143,
-    "wof:lastmodified":1566641988,
+    "wof:lastmodified":1706240447,
     "wof:name":"Raices del Tajin",
     "wof:parent_id":102075655,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310104187
+    ],
     "wof:tags":[]
 },
   "bbox": [

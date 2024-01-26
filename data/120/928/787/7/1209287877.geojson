@@ -33,6 +33,9 @@
     "name:ceb_x_preferred":[
         "El Fraile"
     ],
+    "name:spa_x_preferred":[
+        "El Fraile"
+    ],
     "name:srp_x_preferred":[
         "\u0415\u043b \u0424\u0440\u0430\u0438\u043b\u0435"
     ],
@@ -48,6 +51,11 @@
     "wof:concordances":{
         "gn:id":4009834
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4009833
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"83e8731453c4844411ad12cb25ffadaf",
     "wof:hierarchy":[
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1209287877,
-    "wof:lastmodified":1566627429,
+    "wof:lastmodified":1706240430,
     "wof:name":"El Fraile",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225926919
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Tojibampo"
+    ],
+    "name:und_x_variant":[
+        "Tojibambo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3981421
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3970570
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d0c9d1d3e95b1f9cdf939d0461c25d1b",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1259538007,
-    "wof:lastmodified":1566637284,
+    "wof:lastmodified":1706240484,
     "wof:name":"Tojibampo",
     "wof:parent_id":102074447,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260235735
+    ],
     "wof:tags":[]
 },
   "bbox": [

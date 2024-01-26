@@ -34,6 +34,7 @@
         "Pe\u00f1ita"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,8 +45,13 @@
     "wof:concordances":{
         "gn:id":3521664
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3791923
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"008220b5308b26afc6eaf85a38ce3ecd",
+    "wof:geomhash":"71293cfe92868346e19c013c62892fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +62,24 @@
         }
     ],
     "wof:id":1226204265,
-    "wof:lastmodified":1566639721,
+    "wof:lastmodified":1706240454,
     "wof:name":"Penita",
     "wof:parent_id":102078767,
     "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309880291
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -99.62926,
-    25.41387000000001,
+    25.41387,
     -99.62926,
-    25.41387000000001
+    25.41387
 ],
-  "geometry": {"coordinates":[-99.62926,25.41387000000001],"type":"Point"}
+  "geometry": {"coordinates":[-99.62926,25.41387],"type":"Point"}
 }

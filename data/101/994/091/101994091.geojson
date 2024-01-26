@@ -9,8 +9,23 @@
     "geom:bbox":"-104.286161,25.407004,-104.266536,25.42387",
     "geom:latitude":25.416025,
     "geom:longitude":-104.277467,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"San Luis del Cordero",
+    "gn:country_code":"MX",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3985618,
     "gn:id":"3985618,3985619",
+    "gn:latitude":25.4151,
+    "gn:longitude":-104.27844,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"San Luis del Cordero",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-104.29844,25.3951,-104.25844,25.4351",
     "lbl:latitude":25.416861,
     "lbl:longitude":-104.278431,
     "lbl:max_zoom":18.0,
@@ -71,6 +86,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3985618,
         "gp:id":144259,
         "wd:id":"Q3846437"
     },
@@ -86,13 +102,15 @@
         }
     ],
     "wof:id":101994091,
-    "wof:lastmodified":1690847881,
+    "wof:lastmodified":1706240397,
     "wof:name":"San Luis del Cordero",
     "wof:parent_id":102075199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327018321
+    ],
     "wof:tags":[]
 },
   "bbox": [

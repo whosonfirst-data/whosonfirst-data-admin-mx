@@ -37,6 +37,7 @@
         "San Antonio Tuixc\u00fam"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9533291
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8886279
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"899e540c4d51f8ee6855f85c4fd1329f",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1310398737,
-    "wof:lastmodified":1566630405,
+    "wof:lastmodified":1706240525,
     "wof:name":"San Antonio Tuixcum",
     "wof:parent_id":102075727,
     "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360183191
+    ],
     "wof:tags":[]
 },
   "bbox": [

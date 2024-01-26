@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Molote"
+    ],
+    "name:und_x_variant":[
+        "Molote de Abajo",
+        "Molote Abajo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4029156
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3995538
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b66be17bebdc3d37190cf62ed439f46b",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1259759051,
-    "wof:lastmodified":1566638969,
+    "wof:lastmodified":1706240488,
     "wof:name":"El Molote",
     "wof:parent_id":102074585,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293651887
+    ],
     "wof:tags":[]
 },
   "bbox": [

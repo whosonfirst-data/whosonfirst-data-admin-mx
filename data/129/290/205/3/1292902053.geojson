@@ -40,6 +40,7 @@
         "Rosario"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3520198
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8869769
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a2844ea27b12a622b33fb7b4deaecc05",
@@ -62,13 +68,17 @@
         }
     ],
     "wof:id":1292902053,
-    "wof:lastmodified":1566621669,
+    "wof:lastmodified":1706240509,
     "wof:name":"Ruben Jaramillo",
     "wof:parent_id":102075499,
     "wof:placetype":"locality",
+    "wof:population":244,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310398797
+    ],
     "wof:tags":[]
 },
   "bbox": [

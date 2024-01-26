@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "Chinquilla"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3822430
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3530826
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d3349b2293b34c281b7403633730144b",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1276262555,
-    "wof:lastmodified":1566622985,
+    "wof:lastmodified":1706240498,
     "wof:name":"Chinkila",
     "wof:parent_id":102079155,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360318495
+    ],
     "wof:tags":[]
 },
   "bbox": [

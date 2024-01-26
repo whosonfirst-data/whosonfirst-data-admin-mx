@@ -34,6 +34,7 @@
         "San Juan de la Vaquer\u00eda"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3985879
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3986036
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"810064b49c1513a0ca76aa9a0018c9ed",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1293278047,
-    "wof:lastmodified":1566621840,
+    "wof:lastmodified":1706240513,
     "wof:name":"San Juan de la Vaqueria",
     "wof:parent_id":102078811,
     "wof:placetype":"locality",
+    "wof:population":1077,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327319465
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,7 @@
     "geom:latitude":15.91795,
     "geom:longitude":-93.09447,
     "gn:admin1_code":"5.0",
+    "gn:admin2_code":"20.0",
     "gn:asciiname":"Concepcion la Cieneguita",
     "gn:country_code":"MX",
     "gn:dem":896,
@@ -32,6 +33,10 @@
     "name:spa_x_preferred":[
         "Concepci\u00f3n la Cieneguita"
     ],
+    "name:spa_x_variant":[
+        "Altamira",
+        "Concepci\u00f3n la Cieneguita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11474820
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9292444
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"38313bfa349ad7f8dc5e8ac5c80b9429",
@@ -55,13 +65,15 @@
         }
     ],
     "wof:id":1226742955,
-    "wof:lastmodified":1566639590,
+    "wof:lastmodified":1706240463,
     "wof:name":"Concepcion la Cieneguita",
     "wof:parent_id":102075655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360284029
+    ],
     "wof:tags":[]
 },
   "bbox": [

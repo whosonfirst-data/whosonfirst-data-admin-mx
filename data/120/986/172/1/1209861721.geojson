@@ -34,6 +34,7 @@
         "Ixcatla"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3526724
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3823525
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"82c45016bcc58d7837bf45f191165e4e",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1209861721,
-    "wof:lastmodified":1566627578,
+    "wof:lastmodified":1706240442,
     "wof:name":"Ixcatla",
     "wof:parent_id":102077555,
     "wof:placetype":"locality",
+    "wof:population":1137,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276817651
+    ],
     "wof:tags":[]
 },
   "bbox": [

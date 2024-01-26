@@ -89,6 +89,7 @@
         "\u6069\u897f\u5c3c\u5229\u4e9a\u65af"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -98,6 +99,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3527843
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3814104
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b9dbbd8c866bb4a1550fc8390110764f",
@@ -111,13 +117,17 @@
         }
     ],
     "wof:id":1243051603,
-    "wof:lastmodified":1566636130,
+    "wof:lastmodified":1706240472,
     "wof:name":"Encinillas",
     "wof:parent_id":102078631,
     "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259554629
+    ],
     "wof:tags":[]
 },
   "bbox": [

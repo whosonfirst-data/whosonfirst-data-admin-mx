@@ -9,8 +9,23 @@
     "geom:bbox":"-97.890715,20.248135,-97.882569,20.255319",
     "geom:latitude":20.252019,
     "geom:longitude":-97.887217,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"213.0",
+    "gn:asciiname":"Zihuateutla",
+    "gn:country_code":"MX",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3514033,
     "gn:id":"3514033,3761112",
+    "gn:latitude":20.25074,
+    "gn:longitude":-97.88772,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Zihuateutla",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.90772,20.23074,-97.86772,20.27074",
     "lbl:latitude":20.252338,
     "lbl:longitude":-97.887277,
     "lbl:max_zoom":18.0,
@@ -96,6 +111,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3514033,
         "gp:id":151733,
         "wd:id":"Q3892170"
     },
@@ -111,13 +127,15 @@
         }
     ],
     "wof:id":102000073,
-    "wof:lastmodified":1690846932,
+    "wof:lastmodified":1706240412,
     "wof:name":"Zihuateutla",
     "wof:parent_id":102078453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310560195
+    ],
     "wof:tags":[]
 },
   "bbox": [

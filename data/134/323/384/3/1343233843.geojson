@@ -37,6 +37,7 @@
         "Emiliano Zapata"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4006813
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8865195
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9b6e84343e04dd89f381cd1e895d0e47",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1343233843,
-    "wof:lastmodified":1566617845,
+    "wof:lastmodified":1706240532,
     "wof:name":"Colonia Emiliano Zapata",
     "wof:parent_id":102075125,
     "wof:placetype":"locality",
+    "wof:population":391,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344029605
+    ],
     "wof:tags":[]
 },
   "bbox": [

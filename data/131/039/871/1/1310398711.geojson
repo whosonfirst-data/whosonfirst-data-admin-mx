@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Sival"
+    ],
+    "name:spa_x_variant":[
+        "El Sibal"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8859098
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3516620
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1679358ecd47b98c525b83ebe7dbee65",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1310398711,
-    "wof:lastmodified":1566630425,
+    "wof:lastmodified":1706240524,
     "wof:name":"El Sibal",
     "wof:parent_id":102075509,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343259811
+    ],
     "wof:tags":[]
 },
   "bbox": [

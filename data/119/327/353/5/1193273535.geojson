@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Salvador Urbina"
+    ],
+    "name:und_x_variant":[
+        "S. Urbina"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8858935
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816036
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a677f34c2db9f8ee1858c22c90e134b3",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1193273535,
-    "wof:lastmodified":1566628311,
+    "wof:lastmodified":1706240424,
     "wof:name":"Salvador Urbina",
     "wof:parent_id":102075515,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292901457
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,22 @@
     "geom:bbox":"-105.443411,25.022802,-105.397209,25.072518",
     "geom:latitude":25.044843,
     "geom:longitude":-105.420158,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Santiago Papasquiaro",
+    "gn:country_code":"MX",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3983631,
+    "gn:latitude":25.04389,
+    "gn:longitude":-105.41917,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Santiago Papasquiaro",
     "gn:population":26121,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-105.43917,25.02389,-105.39917,25.06389",
     "lbl:latitude":25.045398,
     "lbl:longitude":-105.420497,
     "lbl:max_zoom":14.0,
@@ -210,7 +224,15 @@
         "wk:page":"Santiago Papasquiaro"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1116104
+        "gn:id":[
+            3983631
+        ],
+        "qs_pg:id":[
+            1116104
+        ],
+        "wk:page":[
+            "Santiago_Papasquiaro"
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -228,7 +250,7 @@
         }
     ],
     "wof:id":101994083,
-    "wof:lastmodified":1690847874,
+    "wof:lastmodified":1706240397,
     "wof:name":"Santiago Papasquiaro",
     "wof:parent_id":102075205,
     "wof:placetype":"locality",
@@ -236,7 +258,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276322221
+    ],
     "wof:tags":[]
 },
   "bbox": [

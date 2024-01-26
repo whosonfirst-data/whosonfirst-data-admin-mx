@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-100.58086,20.23946,-100.58086,20.23946",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Luz de Ju\u00e1rez"
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":1226727187,
-    "wof:lastmodified":1566639208,
+    "wof:lastmodified":1706240439,
     "wof:name":"La Luz de Juarez",
     "wof:parent_id":102077297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209696227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

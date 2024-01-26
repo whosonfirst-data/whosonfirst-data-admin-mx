@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Unidad"
+    ],
+    "name:spa_x_variant":[
+        "Puente de Margaritas",
+        "Puente Margaritas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8868651
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816868
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5d8f7b4253d94d853266eba5d9b09892",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1210014435,
-    "wof:lastmodified":1566627655,
+    "wof:lastmodified":1706240445,
     "wof:name":"Puente Margaritas",
     "wof:parent_id":102075709,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293388685
+    ],
     "wof:tags":[]
 },
   "bbox": [

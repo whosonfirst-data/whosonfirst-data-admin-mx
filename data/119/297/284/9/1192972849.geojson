@@ -114,6 +114,9 @@
     "name:spa_x_preferred":[
         "Santa Rosa"
     ],
+    "name:spa_x_variant":[
+        "Santa Rosa"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u043e\u0441\u0430"
     ],
@@ -147,6 +150,11 @@
     "wof:concordances":{
         "gn:id":3983886
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3983887
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"ba169aa6baa7880a0b35d9a2ee02e95c",
     "wof:hierarchy":[
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1192972849,
-    "wof:lastmodified":1636493183,
+    "wof:lastmodified":1706240418,
     "wof:name":"Santa Rosa",
     "wof:parent_id":102074345,
     "wof:placetype":"locality",
@@ -167,7 +175,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277124397
+    ],
     "wof:tags":[]
 },
   "bbox": [

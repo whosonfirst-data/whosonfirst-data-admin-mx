@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-89.28678,18.49295,-89.28678,18.49295",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Delf\u00edn"
@@ -44,7 +46,7 @@
         "gn:id":9289751
     },
     "wof:country":"MX",
-    "wof:geomhash":"373016ebfb8de8be3fd96362d0ed01b9",
+    "wof:geomhash":"bae20e0cc596a718291474fea9653421",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1343493563,
-    "wof:lastmodified":1566618021,
+    "wof:lastmodified":1706240499,
     "wof:name":"El Delfin",
     "wof:parent_id":102079223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276341097
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -89.28678000000002,
+    -89.28678,
     18.49295,
-    -89.28678000000002,
+    -89.28678,
     18.49295
 ],
-  "geometry": {"coordinates":[-89.28678000000002,18.49295],"type":"Point"}
+  "geometry": {"coordinates":[-89.28677999999999,18.49295],"type":"Point"}
 }

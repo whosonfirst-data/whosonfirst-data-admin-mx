@@ -12,6 +12,7 @@
     "gn:admin1_code":"6",
     "gn:admin2_code":"41.0",
     "gn:asciiname":"Villeachic",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":2299,
     "gn:feature_class":"P",
@@ -35,6 +36,7 @@
         "Villeachic"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3974490
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4017109
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fd35b17270afc0d6c211ad59e61b2527",
@@ -57,13 +64,17 @@
         }
     ],
     "wof:id":1225936079,
-    "wof:lastmodified":1566639103,
+    "wof:lastmodified":1706240449,
     "wof:name":"Villeachic",
     "wof:parent_id":102075249,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259575307
+    ],
     "wof:tags":[]
 },
   "bbox": [

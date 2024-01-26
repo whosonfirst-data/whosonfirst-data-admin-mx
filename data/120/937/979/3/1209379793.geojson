@@ -37,12 +37,18 @@
         "Carbonera"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3531581
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3791934
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3c088e184314ece8d23902f04844c786",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209379793,
-    "wof:lastmodified":1566625626,
+    "wof:lastmodified":1706240431,
     "wof:name":"La Carbonera",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344218979
+    ],
     "wof:tags":[]
 },
   "bbox": [

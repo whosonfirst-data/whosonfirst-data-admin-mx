@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Obscuros"
+    ],
+    "name:und_x_variant":[
+        "Obscuras"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8892408
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3994540
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"73d686965b8601714de219258a3b934c",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226220729,
-    "wof:lastmodified":1566640814,
+    "wof:lastmodified":1706240455,
     "wof:name":"Los Obscuros",
     "wof:parent_id":102075171,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259461457
+    ],
     "wof:tags":[]
 },
   "bbox": [

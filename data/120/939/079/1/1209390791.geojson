@@ -39,8 +39,13 @@
     "wof:concordances":{
         "gn:id":4016344
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4016343
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"40ef462e7d21cf050142e5ad2a84d386",
+    "wof:geomhash":"36df29c537626d05acb40687a7ecbceb",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -48,7 +53,7 @@
         }
     ],
     "wof:id":1209390791,
-    "wof:lastmodified":1566625451,
+    "wof:lastmodified":1706240432,
     "wof:name":"Cacalutan",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -56,14 +61,16 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226814771
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -104.26194,
-    21.11667000000001,
+    21.11667,
     -104.26194,
-    21.11667000000001
+    21.11667
 ],
-  "geometry": {"coordinates":[-104.26194,21.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.26194,21.11667],"type":"Point"}
 }

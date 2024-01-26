@@ -94,6 +94,11 @@
     "wof:concordances":{
         "gn:id":11236577
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11236904
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"305f586cbe344daa41011f1c34f07d08",
     "wof:hierarchy":[
@@ -103,13 +108,15 @@
         }
     ],
     "wof:id":1209103993,
-    "wof:lastmodified":1566627434,
+    "wof:lastmodified":1706240426,
     "wof:name":"El Mirador",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293781993
+    ],
     "wof:tags":[]
 },
   "bbox": [

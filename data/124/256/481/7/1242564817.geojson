@@ -30,6 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Mangas de Corralejo"
+    ],
+    "name:spa_x_variant":[
+        "Las Mangas de Corralejo"
+    ],
+    "name:und_x_variant":[
+        "Las Mangas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8865170
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4024408
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"79654f3ff7b00557cd162abc0eecc740",
@@ -54,7 +68,7 @@
         }
     ],
     "wof:id":1242564817,
-    "wof:lastmodified":1566635235,
+    "wof:lastmodified":1706240465,
     "wof:name":"Mangas de Corralejo",
     "wof:parent_id":102077323,
     "wof:placetype":"locality",
@@ -62,7 +76,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243152517
+    ],
     "wof:tags":[]
 },
   "bbox": [

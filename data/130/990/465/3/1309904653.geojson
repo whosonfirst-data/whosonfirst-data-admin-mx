@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-91.61694,16.23083,-91.61694,16.23083",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":8869378
     },
     "wof:country":"MX",
-    "wof:geomhash":"d765414d11c5b4113c569a28fdb7adb4",
+    "wof:geomhash":"93378b36bc67a328a08e367100ae08ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1309904653,
-    "wof:lastmodified":1566633069,
+    "wof:lastmodified":1706240515,
     "wof:name":"San Antonio Villaflores",
     "wof:parent_id":102075735,
     "wof:placetype":"locality",
     "wof:population":253,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293582405
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -91.61694,
-    16.23082999999999,
+    16.23083,
     -91.61694,
-    16.23082999999999
+    16.23083
 ],
-  "geometry": {"coordinates":[-91.61694,16.23082999999999],"type":"Point"}
+  "geometry": {"coordinates":[-91.61694,16.23083],"type":"Point"}
 }

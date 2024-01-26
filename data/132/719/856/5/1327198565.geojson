@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-96.91,17.91472,-96.91,17.91472",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":3762696
     },
     "wof:country":"MX",
-    "wof:geomhash":"9b09bd8cfa67f46ec05fb864401201a3",
+    "wof:geomhash":"ee2c6cc38afba9d2e14112143e31c25b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1327198565,
-    "wof:lastmodified":1566614875,
+    "wof:lastmodified":1706240423,
     "wof:name":"San Juan Coyula",
     "wof:parent_id":102076989,
     "wof:placetype":"locality",
     "wof:population":719,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193239925
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -96.91,
-    17.91472000000001,
+    17.91472,
     -96.91,
-    17.91472000000001
+    17.91472
 ],
-  "geometry": {"coordinates":[-96.91,17.91472000000001],"type":"Point"}
+  "geometry": {"coordinates":[-96.91,17.91472],"type":"Point"}
 }

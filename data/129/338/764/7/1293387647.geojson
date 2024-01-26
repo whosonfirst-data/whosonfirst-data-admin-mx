@@ -37,6 +37,7 @@
         "Rancho El Ojito"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4008927
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8925338
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f5ddbfd00f1735d6cbbfd05564ff6ca3",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1293387647,
-    "wof:lastmodified":1566619755,
+    "wof:lastmodified":1706240513,
     "wof:name":"El Ojito",
     "wof:parent_id":102075243,
     "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326722523
+    ],
     "wof:tags":[]
 },
   "bbox": [

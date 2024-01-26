@@ -34,6 +34,7 @@
         "La Romera"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4000425
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8863464
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a7e47b57eb68b8093bac065bb6ad58f2",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1259364161,
-    "wof:lastmodified":1566637159,
+    "wof:lastmodified":1706240482,
     "wof:name":"La Romera",
     "wof:parent_id":102074915,
     "wof:placetype":"locality",
+    "wof:population":489,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276510909
+    ],
     "wof:tags":[]
 },
   "bbox": [

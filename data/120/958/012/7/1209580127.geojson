@@ -36,6 +36,7 @@
         "San Sebasti\u00e1n Sedas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
@@ -43,8 +44,13 @@
     "wof:concordances":{
         "gn:id":3516712
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3762744
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"8f1b41f00a8f525a4e3c8c45091d706a",
+    "wof:geomhash":"5a7168f6b0f692671ef9b433aded19f3",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -52,20 +58,24 @@
         }
     ],
     "wof:id":1209580127,
-    "wof:lastmodified":1566626694,
+    "wof:lastmodified":1706240436,
     "wof:name":"San Sebastian Sedas",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":496,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242947095
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -96.9474,
-    17.34227000000001,
+    17.34227,
     -96.9474,
-    17.34227000000001
+    17.34227
 ],
-  "geometry": {"coordinates":[-96.9474,17.34227000000001],"type":"Point"}
+  "geometry": {"coordinates":[-96.9474,17.34227],"type":"Point"}
 }

@@ -33,6 +33,12 @@
     "name:ceb_x_preferred":[
         "Cerro Alto"
     ],
+    "name:spa_x_preferred":[
+        "Mesa de los Mart\u00ednez"
+    ],
+    "name:spa_x_variant":[
+        "Cerro Alto"
+    ],
     "name:swe_x_preferred":[
         "Cerro Alto"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8893075
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3974889
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"7206eaf84054aa56040cbf17cceb0f6a",
     "wof:hierarchy":[
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1209436581,
-    "wof:lastmodified":1566627510,
+    "wof:lastmodified":1706240433,
     "wof:name":"Cerro Alto",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1210038049
+    ],
     "wof:tags":[]
 },
   "bbox": [

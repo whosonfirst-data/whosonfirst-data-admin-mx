@@ -10,6 +10,7 @@
     "geom:latitude":24.19459,
     "geom:longitude":-101.09877,
     "gn:admin1_code":"24",
+    "gn:admin2_code":"7.0",
     "gn:asciiname":"Los Encinos",
     "gn:country_code":"MX",
     "gn:dem":2149,
@@ -33,6 +34,7 @@
         "Los Encinos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3973300
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3997802
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"87bbdb188cefe04d24d40c846102213a",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1277032143,
-    "wof:lastmodified":1566624056,
+    "wof:lastmodified":1706240506,
     "wof:name":"Los Encinos",
     "wof:parent_id":102075369,
     "wof:placetype":"locality",
+    "wof:population":349,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360226087
+    ],
     "wof:tags":[]
 },
   "bbox": [

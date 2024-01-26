@@ -10,6 +10,7 @@
     "geom:latitude":17.57819,
     "geom:longitude":-95.27062,
     "gn:admin1_code":"30",
+    "gn:admin2_code":"498.0",
     "gn:asciiname":"Tierra Nueva",
     "gn:country_code":"MX",
     "gn:dem":64,
@@ -49,6 +50,11 @@
     "wof:concordances":{
         "gn:id":3515630
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801463
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"92f26cbadb13dacbbd538a7a57a16518",
     "wof:hierarchy":[
@@ -61,13 +67,15 @@
         }
     ],
     "wof:id":1242727305,
-    "wof:lastmodified":1566634812,
+    "wof:lastmodified":1706240467,
     "wof:name":"Tierra Nueva",
     "wof:parent_id":102076621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260154891
+    ],
     "wof:tags":[]
 },
   "bbox": [

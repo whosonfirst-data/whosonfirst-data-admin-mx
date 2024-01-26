@@ -40,6 +40,7 @@
         "Hacienda San Isidro"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3986670
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8887632
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3df598ab219f85437dd4d6a89044deb5",
@@ -62,13 +68,17 @@
         }
     ],
     "wof:id":1243033005,
-    "wof:lastmodified":1566635757,
+    "wof:lastmodified":1706240472,
     "wof:name":"San Isidro de Cienega del Toro",
     "wof:parent_id":102078769,
     "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293066075
+    ],
     "wof:tags":[]
 },
   "bbox": [

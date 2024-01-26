@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-92.81272,17.72168,-92.81272,17.72168",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b2\u09be\u09aa\u09be"
@@ -78,14 +80,16 @@
         }
     ],
     "wof:id":1209275767,
-    "wof:lastmodified":1636493073,
+    "wof:lastmodified":1706240400,
     "wof:name":"Jalapa",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:population":5025,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101994959
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

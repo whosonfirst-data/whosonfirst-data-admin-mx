@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Palmito"
+    ],
+    "name:und_x_variant":[
+        "Pino",
+        "El Pino"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8879815
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4008578
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"401afe30e090c8cbbfcd7600cc19b823",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243241931,
-    "wof:lastmodified":1566635309,
+    "wof:lastmodified":1706240475,
     "wof:name":"El Palmito",
     "wof:parent_id":102075195,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309994461
+    ],
     "wof:tags":[]
 },
   "bbox": [

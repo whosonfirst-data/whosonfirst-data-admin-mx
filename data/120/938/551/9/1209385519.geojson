@@ -38,6 +38,11 @@
     "wof:concordances":{
         "gn:id":3981126
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3981125
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f16bd3e1290fae1af58b7939b122a58f",
     "wof:hierarchy":[
@@ -47,13 +52,15 @@
         }
     ],
     "wof:id":1209385519,
-    "wof:lastmodified":1566625197,
+    "wof:lastmodified":1706240432,
     "wof:name":"Trejos",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209385535
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-108.93069,25.76563,-108.93069,25.76563",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":8903784
     },
     "wof:country":"MX",
-    "wof:geomhash":"09877726f3d55c38663b64fbf06f5bad",
+    "wof:geomhash":"0f4f0cf2958c1b8293e1eba2d5311505",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1310558521,
-    "wof:lastmodified":1566630240,
+    "wof:lastmodified":1706240518,
     "wof:name":"La Sucursal Jiquilpan",
     "wof:parent_id":102074339,
     "wof:placetype":"locality",
     "wof:population":22,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293840865
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -108.93068999999998,
+    -108.93069,
     25.76563,
-    -108.93068999999998,
+    -108.93069,
     25.76563
 ],
-  "geometry": {"coordinates":[-108.93068999999998,25.76563],"type":"Point"}
+  "geometry": {"coordinates":[-108.93069,25.76563],"type":"Point"}
 }

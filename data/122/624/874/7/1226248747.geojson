@@ -38,6 +38,7 @@
         "Manuel Castilla Brito"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9289719
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8863048
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"61df1d0eddd5928927a6fee60466fd2c",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1226248747,
-    "wof:lastmodified":1566641058,
+    "wof:lastmodified":1706240456,
     "wof:name":"Manuel Castilla Brito",
     "wof:parent_id":102079223,
     "wof:placetype":"locality",
+    "wof:population":516,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276227299
+    ],
     "wof:tags":[]
 },
   "bbox": [

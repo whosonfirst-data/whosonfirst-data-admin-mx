@@ -10,6 +10,7 @@
     "geom:latitude":15.92702,
     "geom:longitude":-93.23906,
     "gn:admin1_code":"5.0",
+    "gn:admin2_code":"69.0",
     "gn:asciiname":"Loma Bonita",
     "gn:country_code":"MX",
     "gn:dem":875,
@@ -67,6 +68,11 @@
     "wof:concordances":{
         "gn:id":11474759
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9292433
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"39345722b6b0905afb8a151c44869fb0",
     "wof:hierarchy":[
@@ -79,13 +85,15 @@
         }
     ],
     "wof:id":1226335433,
-    "wof:lastmodified":1566639857,
+    "wof:lastmodified":1706240457,
     "wof:name":"Loma Bonita",
     "wof:parent_id":102075655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293199169
+    ],
     "wof:tags":[]
 },
   "bbox": [

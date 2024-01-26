@@ -36,6 +36,9 @@
     "name:ita_x_preferred":[
         "Las Delicias"
     ],
+    "name:spa_x_preferred":[
+        "Las Delicias"
+    ],
     "name:swe_x_preferred":[
         "Las Delicias"
     ],
@@ -51,6 +54,11 @@
     "wof:concordances":{
         "gn:id":8897177
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9292483
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"8c6f2259df6d5ab5e75805fa6612240a",
     "wof:hierarchy":[
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":1310500073,
-    "wof:lastmodified":1566631086,
+    "wof:lastmodified":1706240525,
     "wof:name":"Las Delicias",
     "wof:parent_id":102075595,
     "wof:placetype":"locality",
@@ -71,7 +79,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344155639
+    ],
     "wof:tags":[]
 },
   "bbox": [

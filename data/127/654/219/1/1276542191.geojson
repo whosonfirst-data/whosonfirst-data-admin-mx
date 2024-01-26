@@ -37,6 +37,7 @@
         "Jolchijtik"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9628053
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8868140
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"14599dfb7dfeef6521644ff7ff7082cd",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276542191,
-    "wof:lastmodified":1566624962,
+    "wof:lastmodified":1706240501,
     "wof:name":"Jolchijtik",
     "wof:parent_id":102075591,
     "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309898927
+    ],
     "wof:tags":[]
 },
   "bbox": [

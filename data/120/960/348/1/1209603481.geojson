@@ -37,6 +37,7 @@
         "Palomas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
@@ -44,8 +45,13 @@
     "wof:concordances":{
         "gn:id":3993667
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8906975
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"b8200645dc830cfbbf993477f6c33bb7",
+    "wof:geomhash":"0d29d2b1d6d5403513b31ca76a4d4b13",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -53,20 +59,24 @@
         }
     ],
     "wof:id":1209603481,
-    "wof:lastmodified":1566626742,
+    "wof:lastmodified":1706240437,
     "wof:name":"Taunitas",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243056165
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -106.16667,
-    25.11667000000001,
+    25.11667,
     -106.16667,
-    25.11667000000001
+    25.11667
 ],
-  "geometry": {"coordinates":[-106.16667,25.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.16667,25.11667],"type":"Point"}
 }
