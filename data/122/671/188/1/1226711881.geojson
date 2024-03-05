@@ -34,6 +34,7 @@
         "Palmitos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3522076
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3528542
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"07d07b19184b3ea411eb4ee5e544c484",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226711881,
-    "wof:lastmodified":1566640940,
+    "wof:lastmodified":1706240463,
     "wof:name":"El Palmito",
     "wof:parent_id":102078769,
     "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326495117
+    ],
     "wof:tags":[]
 },
   "bbox": [

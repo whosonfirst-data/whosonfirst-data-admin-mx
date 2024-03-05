@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "EL Balastre"
     ],
+    "name:und_x_variant":[
+        "Balastre"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3791884
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3532437
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e03e06a6cf7871342494371301b61407",
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1310665693,
-    "wof:lastmodified":1566630992,
+    "wof:lastmodified":1706240527,
     "wof:name":"El Balastre",
     "wof:parent_id":102078767,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343819829
+    ],
     "wof:tags":[]
 },
   "bbox": [

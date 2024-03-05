@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":3993710
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3974801
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"c038b2033d75c20bb96274a493f36f4f",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1243476041,
-    "wof:lastmodified":1566635510,
+    "wof:lastmodified":1706240479,
     "wof:name":"Palos Blancos",
     "wof:parent_id":102075279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310326681
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -98,6 +98,7 @@
         "\u62c9\u514b\u9b6f\u65af"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -107,6 +108,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4012041
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8891816
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a53f3f08e392957c4c98441692412545",
@@ -120,13 +126,17 @@
         }
     ],
     "wof:id":1310202723,
-    "wof:lastmodified":1636493384,
+    "wof:lastmodified":1706240523,
     "wof:name":"La Cruz",
     "wof:parent_id":102075249,
     "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343979735
+    ],
     "wof:tags":[]
 },
   "bbox": [

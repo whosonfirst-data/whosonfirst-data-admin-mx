@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3802876
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3519997
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"efee068ec3cdb887ecc9dc92c1207ba5",
     "wof:hierarchy":[
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1226745379,
-    "wof:lastmodified":1566639601,
+    "wof:lastmodified":1706240463,
     "wof:name":"San Agustin",
     "wof:parent_id":102075603,
     "wof:placetype":"locality",
@@ -65,7 +70,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276220149
+    ],
     "wof:tags":[]
 },
   "bbox": [

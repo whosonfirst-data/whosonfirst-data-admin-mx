@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-92.09515,16.81412,-92.09515,16.81412",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Isra\u00e8l"
@@ -741,7 +743,7 @@
         "gn:id":3521594
     },
     "wof:country":"MX",
-    "wof:geomhash":"1ea0c7f0ead91496e8787b516e13fb9b",
+    "wof:geomhash":"6cb1a4af0cb60b16f3fe54136a2a3d55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -752,20 +754,22 @@
         }
     ],
     "wof:id":1310203527,
-    "wof:lastmodified":1566630524,
+    "wof:lastmodified":1706240505,
     "wof:name":"Israel",
     "wof:parent_id":102075509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276870787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -92.09515,
-    16.81412000000001,
+    16.81412,
     -92.09515,
-    16.81412000000001
+    16.81412
 ],
-  "geometry": {"coordinates":[-92.09515,16.81412000000001],"type":"Point"}
+  "geometry": {"coordinates":[-92.09515,16.81412],"type":"Point"}
 }

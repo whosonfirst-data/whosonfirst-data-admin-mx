@@ -104,6 +104,7 @@
         "\u84ec\u5854\u666e\u91cc\u5854"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -113,6 +114,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3991261
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4021928
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1bff2561db6907f98fd468ece4f32b81",
@@ -126,13 +132,17 @@
         }
     ],
     "wof:id":1242578755,
-    "wof:lastmodified":1636493751,
+    "wof:lastmodified":1706240465,
     "wof:name":"Punta Prieta",
     "wof:parent_id":102074521,
     "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310007161
+    ],
     "wof:tags":[]
 },
   "bbox": [

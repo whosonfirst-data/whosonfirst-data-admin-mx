@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Yugual"
+    ],
+    "name:spa_x_variant":[
+        "El Yagual"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8865740
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801319
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"abe11849b999b54d2c88f6d4802f0ada",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226207003,
-    "wof:lastmodified":1566639696,
+    "wof:lastmodified":1706240454,
     "wof:name":"El Yagual",
     "wof:parent_id":102076403,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326691637
+    ],
     "wof:tags":[]
 },
   "bbox": [

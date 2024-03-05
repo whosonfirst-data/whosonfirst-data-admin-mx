@@ -37,6 +37,7 @@
         "Montecristo Playa Grande"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9532414
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8866558
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f3bb8434c7777f550c63da1f365542f3",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226340903,
-    "wof:lastmodified":1566639891,
+    "wof:lastmodified":1706240457,
     "wof:name":"Montecristo Playa Grande",
     "wof:parent_id":102075565,
     "wof:placetype":"locality",
+    "wof:population":334,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293097321
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Jer\u00f3nimo"
+    ],
     "name:und_x_variant":[
         "San Ger\u00f3nimo",
         "San Jer\u00f3nimo"
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":3986579
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3986558
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a0f049c5fb99c8ee1af84e1435d439f8",
     "wof:hierarchy":[
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":1226639353,
-    "wof:lastmodified":1566641397,
+    "wof:lastmodified":1706240462,
     "wof:name":"San Jeronimo",
     "wof:parent_id":102078791,
     "wof:placetype":"locality",
@@ -67,7 +75,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293385649
+    ],
     "wof:tags":[]
 },
   "bbox": [

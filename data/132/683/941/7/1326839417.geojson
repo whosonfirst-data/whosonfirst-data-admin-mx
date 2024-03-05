@@ -339,6 +339,11 @@
     "wof:concordances":{
         "gn:id":4021276
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3980668
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"4a950f2ad12a0a2a1533081db7c64856",
     "wof:hierarchy":[
@@ -351,7 +356,7 @@
         }
     ],
     "wof:id":1326839417,
-    "wof:lastmodified":1636492065,
+    "wof:lastmodified":1706240530,
     "wof:name":"Valladolid",
     "wof:parent_id":102077359,
     "wof:placetype":"locality",
@@ -359,7 +364,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343570271
+    ],
     "wof:tags":[]
 },
   "bbox": [

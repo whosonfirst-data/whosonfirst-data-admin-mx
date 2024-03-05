@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Ameyaltepec"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3821590
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3532894
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6203aec93bae6dddc50f0f99a2e520ba",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1310391903,
-    "wof:lastmodified":1566630419,
+    "wof:lastmodified":1706240524,
     "wof:name":"Ameyaltepec",
     "wof:parent_id":102073807,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310481263
+    ],
     "wof:tags":[]
 },
   "bbox": [

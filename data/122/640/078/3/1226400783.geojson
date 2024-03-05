@@ -38,6 +38,7 @@
         "Epazote"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3527810
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8874197
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c9a03d0ae7dca1a7272e2c2d6dae3269",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1226400783,
-    "wof:lastmodified":1566640990,
+    "wof:lastmodified":1706240458,
     "wof:name":"Epazotes Grandes",
     "wof:parent_id":102077093,
     "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343914287
+    ],
     "wof:tags":[]
 },
   "bbox": [

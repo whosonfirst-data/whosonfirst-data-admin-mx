@@ -33,7 +33,11 @@
     "name:spa_x_preferred":[
         "Mar\u00eda de la Torre"
     ],
+    "name:und_x_variant":[
+        "Mar\u00eda de la Torre"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3972340
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8868213
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"33b4d93672d4ee76304c4922c1c5cf56",
@@ -56,13 +65,17 @@
         }
     ],
     "wof:id":1343310829,
-    "wof:lastmodified":1566616293,
+    "wof:lastmodified":1706240532,
     "wof:name":"Maria de la Torre",
     "wof:parent_id":102075397,
     "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343602817
+    ],
     "wof:tags":[]
 },
   "bbox": [

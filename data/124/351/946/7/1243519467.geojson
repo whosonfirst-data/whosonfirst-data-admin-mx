@@ -37,6 +37,7 @@
         "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646 \u062f\u06d2 \u062f\u06cc\u0648\u0633"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3985898
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4022592
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ad186d7784b1549ce028916f8fc24fc5",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1243519467,
-    "wof:lastmodified":1566635963,
+    "wof:lastmodified":1706240480,
     "wof:name":"San Juan de Dios",
     "wof:parent_id":102078769,
     "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327308443
+    ],
     "wof:tags":[]
 },
   "bbox": [

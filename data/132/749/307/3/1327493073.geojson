@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-98.29806,20.55417,-98.29806,20.55417",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Cerro Chato"
@@ -76,7 +78,7 @@
         "gn:id":3824444
     },
     "wof:country":"MX",
-    "wof:geomhash":"a32cd3f0b311118bf3ab9b946d81a071",
+    "wof:geomhash":"9bd760452851c61fdb0647809cb8b310",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,22 +89,24 @@
         }
     ],
     "wof:id":1327493073,
-    "wof:lastmodified":1566613896,
+    "wof:lastmodified":1706240531,
     "wof:name":"Cerro Chato",
     "wof:parent_id":102077813,
     "wof:placetype":"locality",
     "wof:population":142,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1327283471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -98.29806,
-    20.55417000000001,
+    20.55417,
     -98.29806,
-    20.55417000000001
+    20.55417
 ],
-  "geometry": {"coordinates":[-98.29806000000001,20.55417000000001],"type":"Point"}
+  "geometry": {"coordinates":[-98.29806000000001,20.55417],"type":"Point"}
 }

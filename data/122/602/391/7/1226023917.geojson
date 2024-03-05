@@ -33,6 +33,11 @@
     "name:spa_x_preferred":[
         "Chotipa"
     ],
+    "name:und_x_variant":[
+        "Xochiatipa",
+        "Xochitiapa",
+        "Xochiatipan"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3813244
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3514461
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"973fac31acb62ab88e7c58972fa3c145",
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1226023917,
-    "wof:lastmodified":1566639905,
+    "wof:lastmodified":1706240450,
     "wof:name":"Xuchiatipa",
     "wof:parent_id":102078563,
     "wof:placetype":"locality",
@@ -65,7 +75,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343245711
+    ],
     "wof:tags":[]
 },
   "bbox": [

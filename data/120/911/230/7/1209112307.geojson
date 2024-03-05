@@ -75,6 +75,12 @@
     "name:por_x_preferred":[
         "San Joaquin"
     ],
+    "name:spa_x_preferred":[
+        "Los Tres Reyes"
+    ],
+    "name:spa_x_variant":[
+        "San Joaqu\u00edn"
+    ],
     "name:swe_x_preferred":[
         "San Joaquin River"
     ],
@@ -99,6 +105,11 @@
     "wof:concordances":{
         "gn:id":8938863
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9084126
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"419c7a4a898430f0cbf845f7d9c03240",
     "wof:hierarchy":[
@@ -108,7 +119,7 @@
         }
     ],
     "wof:id":1209112307,
-    "wof:lastmodified":1636493057,
+    "wof:lastmodified":1706240426,
     "wof:name":"San Joaquin",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -116,7 +127,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326536251
+    ],
     "wof:tags":[]
 },
   "bbox": [

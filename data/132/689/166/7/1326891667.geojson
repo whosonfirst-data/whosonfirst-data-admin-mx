@@ -72,6 +72,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0430-\u041a\u0440\u0443\u0441"
     ],
+    "name:spa_x_preferred":[
+        "La Cruz"
+    ],
     "name:swe_x_preferred":[
         "La Cruz"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041a\u0440\u0443\u0441"
+    ],
+    "name:und_x_variant":[
+        "Rancho La Cruz"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06a9\u0631\u0648\u0632"
@@ -105,6 +111,11 @@
     "wof:concordances":{
         "gn:id":3525930
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3525910
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"1362e40ccdc18871f837ac544e294c50",
     "wof:hierarchy":[
@@ -117,7 +128,7 @@
         }
     ],
     "wof:id":1326891667,
-    "wof:lastmodified":1636491936,
+    "wof:lastmodified":1706240530,
     "wof:name":"La Cruz",
     "wof:parent_id":102078931,
     "wof:placetype":"locality",
@@ -125,7 +136,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343412127
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:afr_x_preferred":[
         "Kultuur"
@@ -903,12 +904,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":149769,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Cultural",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":230,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":230,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1340864,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55889402,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":5205,
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -921,6 +941,14 @@
         "gp:id":55889402,
         "qs_pg:id":1340864,
         "wd:id":"Q11042"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55889402
+        ],
+        "qs_pg:id":[
+            1340864
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -941,13 +969,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847313,
+    "wof:lastmodified":1706240359,
     "wof:name":"Cultural",
     "wof:parent_id":101991705,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126098019
+    ],
     "wof:tags":[]
 },
   "bbox": [

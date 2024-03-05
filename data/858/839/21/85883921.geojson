@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
     "geom:area_square_m":540466.920329,
-    "geom:bbox":"-99.1800500598,19.4406943953,-99.1726110847,19.4495766486",
+    "geom:bbox":"-99.18005,19.440694,-99.172611,19.449577",
     "geom:latitude":19.444774,
-    "geom:longitude":-99.17649,
+    "geom:longitude":-99.176489,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.182006,19.442573,-99.172006,19.452573",
     "lbl:latitude":19.446778,
     "lbl:longitude":-99.177667,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:ceb_x_preferred":[
         "Anahuac"
@@ -66,11 +68,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Anahuac",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":352,
+    "qs_pg:photos_1k":71,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":352,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080206,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898809,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -87,13 +108,18 @@
         "qs_pg:id":910105
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1080206
+        "gp:id":[
+            55898809
+        ],
+        "qs_pg:id":[
+            1080206
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff665c185f6300490f82a9b5eb6cff1e",
+    "wof:geomhash":"e104fb8d6385b541364759b347facc30",
     "wof:hierarchy":[
         {
             "borough_id":890535785,
@@ -118,20 +144,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147391,
+    "wof:lastmodified":1706240371,
     "wof:name":"Anahuac",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126089341
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.1800500597634,
-    19.44069439527733,
-    -99.17261108467193,
-    19.44957664863087
+    -99.18005,
+    19.440694,
+    -99.172611,
+    19.449577
 ],
-  "geometry": {"coordinates":[[[-99.17528156837517,19.44957664863087],[-99.17423257592617,19.44846418469844],[-99.17358398440001,19.44846418470003],[-99.17358398438535,19.44777634876364],[-99.17358398439023,19.44587429418492],[-99.17261108467193,19.44484253318063],[-99.17350791047426,19.4419893652001],[-99.17358398440001,19.4419893652001],[-99.17510942318648,19.4419893652001],[-99.17633056639997,19.44069439527733],[-99.1790771484097,19.44069439728489],[-99.1800500597634,19.44172612510415],[-99.17956027330393,19.44328436007534],[-99.18005004812784,19.44484253318063],[-99.17907714841451,19.44587429217736],[-99.17907714841388,19.44846417895015],[-99.17633056639997,19.44846417866273],[-99.17528156837517,19.44957664863087]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.175282,19.449577],[-99.174233,19.448464],[-99.17358400000001,19.448464],[-99.17358400000001,19.447776],[-99.17358400000001,19.445874],[-99.172611,19.444843],[-99.173508,19.441989],[-99.17358400000001,19.441989],[-99.17510900000001,19.441989],[-99.176331,19.440694],[-99.17907700000001,19.440694],[-99.18004999999999,19.441726],[-99.17956,19.443284],[-99.18004999999999,19.444843],[-99.17907700000001,19.445874],[-99.17907700000001,19.448464],[-99.176331,19.448464],[-99.175282,19.449577]]],"type":"Polygon"}
 }

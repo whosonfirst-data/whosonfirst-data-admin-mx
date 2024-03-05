@@ -37,6 +37,7 @@
         "Chivapa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4024872
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4014628
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d584aab3b18ac6a7d749191f1aa60a2f",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1193255713,
-    "wof:lastmodified":1566628099,
+    "wof:lastmodified":1706240423,
     "wof:name":"Chihuapa",
     "wof:parent_id":102077323,
     "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293467117
+    ],
     "wof:tags":[]
 },
   "bbox": [

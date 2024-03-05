@@ -594,6 +594,9 @@
     "name:spa_x_preferred":[
         "Israel"
     ],
+    "name:spa_x_variant":[
+        "Israel"
+    ],
     "name:sqi_x_preferred":[
         "Izraeli"
     ],
@@ -738,6 +741,11 @@
     "wof:concordances":{
         "gn:id":8869284
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3521594
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"0455e97e3ee546c86df78be8445f81fd",
     "wof:hierarchy":[
@@ -750,7 +758,7 @@
         }
     ],
     "wof:id":1276870787,
-    "wof:lastmodified":1566623120,
+    "wof:lastmodified":1706240505,
     "wof:name":"Israel",
     "wof:parent_id":102075509,
     "wof:placetype":"locality",
@@ -758,7 +766,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310203527
+    ],
     "wof:tags":[]
 },
   "bbox": [

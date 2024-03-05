@@ -41,6 +41,7 @@
         "El Huisache"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4009612
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8868618
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1c26548f290b5be3462454a68eae7b09",
@@ -63,13 +69,17 @@
         }
     ],
     "wof:id":1260158359,
-    "wof:lastmodified":1566628594,
+    "wof:lastmodified":1706240494,
     "wof:name":"Huizache de Serranos",
     "wof:parent_id":102077315,
     "wof:placetype":"locality",
+    "wof:population":272,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293861165
+    ],
     "wof:tags":[]
 },
   "bbox": [

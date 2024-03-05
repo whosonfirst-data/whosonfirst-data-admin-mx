@@ -34,12 +34,18 @@
         "La Verdolaga"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3483080
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3514763
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d0e8fba8f68d9424080e957227af6543",
@@ -50,13 +56,17 @@
         }
     ],
     "wof:id":1209165225,
-    "wof:lastmodified":1566626966,
+    "wof:lastmodified":1706240427,
     "wof:name":"Verdolaga",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276927151
+    ],
     "wof:tags":[]
 },
   "bbox": [

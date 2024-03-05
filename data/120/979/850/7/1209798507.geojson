@@ -46,6 +46,7 @@
         "Agua Caliente"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -55,6 +56,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4019562
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8894715
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6983641901a3fc867f328d335b1ec88b",
@@ -68,13 +74,17 @@
         }
     ],
     "wof:id":1209798507,
-    "wof:lastmodified":1566625972,
+    "wof:lastmodified":1706240441,
     "wof:name":"Agua Caliente",
     "wof:parent_id":102074653,
     "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344230441
+    ],
     "wof:tags":[]
 },
   "bbox": [

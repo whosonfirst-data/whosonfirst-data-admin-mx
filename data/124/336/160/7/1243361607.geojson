@@ -110,6 +110,11 @@
     "wof:concordances":{
         "gn:id":11474824
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9292462
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"83ecfb12e8f3b3a2101de5000a5a10b2",
     "wof:hierarchy":[
@@ -122,13 +127,15 @@
         }
     ],
     "wof:id":1243361607,
-    "wof:lastmodified":1636493694,
+    "wof:lastmodified":1706240477,
     "wof:name":"San Martin",
     "wof:parent_id":102075655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276654849
+    ],
     "wof:tags":[]
 },
   "bbox": [

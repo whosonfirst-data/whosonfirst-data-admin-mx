@@ -9,7 +9,22 @@
     "geom:bbox":"-95.048042,16.469668,-95.031369,16.495376",
     "geom:latitude":16.482265,
     "geom:longitude":-95.039229,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"El Espinal",
+    "gn:country_code":"MX",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3527737,
+    "gn:latitude":16.48525,
+    "gn:longitude":-95.03995,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"El Espinal",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-95.05995,16.46525,-95.01995,16.50525",
     "lbl:latitude":16.48244,
     "lbl:longitude":-95.038555,
     "lbl:max_zoom":18.0,
@@ -67,6 +82,10 @@
     "name:spa_x_preferred":[
         "El Espinal"
     ],
+    "name:spa_x_variant":[
+        "Santa Cruz",
+        "El Espinal"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0415\u043b \u0415\u0441\u043f\u0438\u043d\u0430\u043b"
     ],
@@ -113,6 +132,11 @@
         "qs_pg:id":1184036,
         "wd:id":"Q4968496"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3527737
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -128,13 +152,15 @@
         }
     ],
     "wof:id":101995053,
-    "wof:lastmodified":1690847693,
+    "wof:lastmodified":1706240400,
     "wof:name":"El Espinal",
     "wof:parent_id":102076939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292959955
+    ],
     "wof:tags":[]
 },
   "bbox": [

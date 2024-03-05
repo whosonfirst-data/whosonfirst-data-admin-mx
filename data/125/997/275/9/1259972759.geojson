@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Zapata Vive"
+    ],
+    "name:spa_x_variant":[
+        "El Altillo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8868572
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9623494
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"10dd747f5cb86ffeb1862812b19ef4df",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1259972759,
-    "wof:lastmodified":1566637504,
+    "wof:lastmodified":1706240492,
     "wof:name":"El Altillo",
     "wof:parent_id":102075595,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326828727
+    ],
     "wof:tags":[]
 },
   "bbox": [

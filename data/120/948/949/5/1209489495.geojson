@@ -38,13 +38,22 @@
         "Petacaltepec",
         "San Mat\u00edas Petacaltepec"
     ],
+    "name:und_x_variant":[
+        "San Mat\u00edas Petacaltepec"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3521611
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8861348
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"eaeb2ec98712d0d22cc6393102c8316a",
@@ -55,13 +64,17 @@
         }
     ],
     "wof:id":1209489495,
-    "wof:lastmodified":1566625831,
+    "wof:lastmodified":1706240434,
     "wof:name":"San Matias Petacaltepec",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":696,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309870309
+    ],
     "wof:tags":[]
 },
   "bbox": [

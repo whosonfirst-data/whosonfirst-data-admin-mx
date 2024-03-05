@@ -9,8 +9,23 @@
     "geom:bbox":"-96.064141,16.94672,-96.04778,16.964143",
     "geom:latitude":16.955752,
     "geom:longitude":-96.056691,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"517.0",
+    "gn:asciiname":"Santo Domingo Tepuxtepec",
+    "gn:country_code":"MX",
+    "gn:dem":2158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3516842,
     "gn:id":"3516842,3801672",
+    "gn:latitude":16.95584,
+    "gn:longitude":-96.05823,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Santo Domingo Tepuxtepec",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-96.07823,16.93584,-96.03823,16.97584",
     "lbl:latitude":16.955509,
     "lbl:longitude":-96.057508,
     "lbl:max_zoom":18.0,
@@ -50,6 +65,10 @@
     "name:swe_x_preferred":[
         "Santo Domingo Tepuxtepec"
     ],
+    "name:und_x_variant":[
+        "Tepuxtepec",
+        "Santo Domingo"
+    ],
     "name:vie_x_preferred":[
         "Santo Domingo Tepuxtepec"
     ],
@@ -77,6 +96,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3516842,
         "gp:id":55910533,
         "wd:id":"Q3892895"
     },
@@ -92,13 +112,15 @@
         }
     ],
     "wof:id":101996103,
-    "wof:lastmodified":1690847496,
+    "wof:lastmodified":1706240402,
     "wof:name":"Santo Domingo Tepuxtepec",
     "wof:parent_id":102076645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209388945
+    ],
     "wof:tags":[]
 },
   "bbox": [

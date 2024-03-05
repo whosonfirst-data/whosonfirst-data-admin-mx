@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":3791851
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3529391
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"64cbe163cbe3641e20d22ab54dc225fd",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1309971007,
-    "wof:lastmodified":1566633041,
+    "wof:lastmodified":1706240521,
     "wof:name":"El Bayo Rosillo",
     "wof:parent_id":102078709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360131835
+    ],
     "wof:tags":[]
 },
   "bbox": [

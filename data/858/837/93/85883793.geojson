@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
     "geom:area_square_m":815798.712903,
-    "geom:bbox":"-99.2175292969,19.3955808274,-99.2065429688,19.4047743648",
-    "geom:latitude":19.401127,
+    "geom:bbox":"-99.217529,19.395581,-99.206543,19.404774",
+    "geom:latitude":19.401126,
     "geom:longitude":-99.211422,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.221928,19.401191,-99.211928,19.411191",
     "lbl:latitude":19.40184,
     "lbl:longitude":-99.214172,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "3ra Secc Del Bosque de Chapultepec"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"3ra Secc Del Bosque de Chapultepec",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":218258,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898239,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,8 +90,16 @@
         "gp:id":55898239,
         "qs_pg:id":218258
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898239
+        ],
+        "qs_pg:id":[
+            218258
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"31a0f2f1e2d0bf43e2a087699ce12bbd",
+    "wof:geomhash":"b58ac4768fc9820dfc5d8a22dfd6f527",
     "wof:hierarchy":[
         {
             "borough_id":890535785,
@@ -95,20 +124,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619692,
+    "wof:lastmodified":1706240368,
     "wof:name":"3ra Secc Del Bosque de Chapultepec",
     "wof:parent_id":890535785,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126091901
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.21752929689998,
-    19.39558082738768,
-    -99.20654296877495,
-    19.40477436484682
+    -99.217529,
+    19.395581,
+    -99.206543,
+    19.404774
 ],
-  "geometry": {"coordinates":[[[-99.2114085683375,19.40477436484682],[-99.21043555468341,19.40443049679989],[-99.20654296880002,19.40443049680007],[-99.20654296878431,19.40305483685162],[-99.20654296878573,19.39924927860008],[-99.20654296877495,19.39665850450021],[-99.20857598946606,19.39558082738768],[-99.2120361328187,19.39924923735032],[-99.21752929687503,19.39924923735032],[-99.21752929688435,19.39924927860008],[-99.21752929688435,19.40443045555023],[-99.21752929689998,19.40443049680007],[-99.21203613279994,19.40443049680007],[-99.21203609391816,19.40443049680016],[-99.21178755633787,19.40469400229003],[-99.2114085683375,19.40477436484682]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.211409,19.404774],[-99.210436,19.40443],[-99.206543,19.40443],[-99.206543,19.403055],[-99.206543,19.399249],[-99.206543,19.396659],[-99.20857599999999,19.395581],[-99.212036,19.399249],[-99.217529,19.399249],[-99.217529,19.399249],[-99.217529,19.40443],[-99.217529,19.40443],[-99.212036,19.40443],[-99.212036,19.40443],[-99.211788,19.404694],[-99.211409,19.404774]]],"type":"Polygon"}
 }

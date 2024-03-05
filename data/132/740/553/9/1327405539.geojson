@@ -115,6 +115,7 @@
         "Jauja"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -124,6 +125,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4004051
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8870423
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fd3ce3e82b72cc2b482320707de8e22f",
@@ -137,13 +143,17 @@
         }
     ],
     "wof:id":1327405539,
-    "wof:lastmodified":1636492002,
+    "wof:lastmodified":1706240532,
     "wof:name":"Jauja",
     "wof:parent_id":102075127,
     "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360161013
+    ],
     "wof:tags":[]
 },
   "bbox": [

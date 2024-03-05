@@ -9,8 +9,23 @@
     "geom:bbox":"-102.262276,19.634811,-102.239672,19.656576",
     "geom:latitude":19.64816,
     "geom:longitude":-102.250391,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Charapan",
+    "gn:country_code":"MX",
+    "gn:dem":2366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4014509,
     "gn:id":"4014508,4014509",
+    "gn:latitude":19.65,
+    "gn:longitude":-102.25,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Charap\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-102.27,19.63,-102.23,19.67",
     "lbl:latitude":19.65062,
     "lbl:longitude":-102.250221,
     "lbl:max_zoom":18.0,
@@ -56,6 +71,9 @@
     "name:swe_x_preferred":[
         "Charap\u00e1n"
     ],
+    "name:und_x_variant":[
+        "Charap\u00e1n"
+    ],
     "name:vie_x_preferred":[
         "Charapan"
     ],
@@ -83,8 +101,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":4014509,
         "gp:id":115697,
-        "wd:id":"Q3893388"
+        "wd:id":"Q3893388",
+        "wk:page":"Charapan"
     },
     "wof:country":"MX",
     "wof:geomhash":"71363a994e6013bfc62d942d591ae62e",
@@ -98,13 +118,15 @@
         }
     ],
     "wof:id":101997269,
-    "wof:lastmodified":1690847573,
+    "wof:lastmodified":1706240405,
     "wof:name":"Charapan",
     "wof:parent_id":102075009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243135931
+    ],
     "wof:tags":[]
 },
   "bbox": [

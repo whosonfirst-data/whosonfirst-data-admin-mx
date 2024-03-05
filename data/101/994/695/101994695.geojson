@@ -9,7 +9,22 @@
     "geom:bbox":"-91.29798,16.133417,-91.286517,16.14669",
     "geom:latitude":16.140297,
     "geom:longitude":-91.292904,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"115.0",
+    "gn:asciiname":"Maravilla Tenejapa",
+    "gn:country_code":"MX",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3523577,
+    "gn:latitude":16.14155,
+    "gn:longitude":-91.29595,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Maravilla Tenejapa",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-91.31595,16.12155,-91.27595,16.16155",
     "lbl:latitude":16.14064,
     "lbl:longitude":-91.293472,
     "lbl:max_zoom":18.0,
@@ -112,6 +127,14 @@
         "wd:id":"Q1477420",
         "wk:page":"Maravilla Tenejapa"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3523577
+        ],
+        "wk:page":[
+            "Maravilla_Tenejapa"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -130,13 +153,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847887,
+    "wof:lastmodified":1706240400,
     "wof:name":"Maravilla Tenejapa",
     "wof:parent_id":102075505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292998583
+    ],
     "wof:tags":[]
 },
   "bbox": [

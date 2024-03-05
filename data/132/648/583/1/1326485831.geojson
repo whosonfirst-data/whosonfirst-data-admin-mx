@@ -38,6 +38,7 @@
         "La Maroma"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4001439
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8878889
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ccfa40282c5bb0378853b0da7695dc4f",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1326485831,
-    "wof:lastmodified":1566614552,
+    "wof:lastmodified":1706240527,
     "wof:name":"Real de Maroma",
     "wof:parent_id":102077243,
     "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344114421
+    ],
     "wof:tags":[]
 },
   "bbox": [

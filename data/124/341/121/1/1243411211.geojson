@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-107.71945,25.00177,-107.71945,25.00177",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Rodeo"
@@ -73,14 +75,16 @@
         }
     ],
     "wof:id":1243411211,
-    "wof:lastmodified":1566635274,
+    "wof:lastmodified":1706240463,
     "wof:name":"El Rodeo",
     "wof:parent_id":102074317,
     "wof:placetype":"locality",
     "wof:population":59,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226717743
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

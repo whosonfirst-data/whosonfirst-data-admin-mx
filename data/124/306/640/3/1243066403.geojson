@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Chiculmatic"
+    ],
+    "name:spa_x_variant":[
+        "Tzicumaltic"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8879803
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9625953
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d73d6c6df9ab1b073c670cad8015e3ea",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1243066403,
-    "wof:lastmodified":1566634557,
+    "wof:lastmodified":1706240472,
     "wof:name":"Tzicumaltic",
     "wof:parent_id":102075499,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293587827
+    ],
     "wof:tags":[]
 },
   "bbox": [

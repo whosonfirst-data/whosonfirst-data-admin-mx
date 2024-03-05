@@ -57,6 +57,9 @@
     "name:spa_x_preferred":[
         "Villa Nueva"
     ],
+    "name:spa_x_variant":[
+        "Villa Nueva"
+    ],
     "name:swe_x_preferred":[
         "Villa Nueva"
     ],
@@ -69,6 +72,11 @@
     "wof:concordances":{
         "gn:id":8882258
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9531656
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"5a5f0184da34e6f4f2d663118847a3a8",
     "wof:hierarchy":[
@@ -78,7 +86,7 @@
         }
     ],
     "wof:id":1209407911,
-    "wof:lastmodified":1566626092,
+    "wof:lastmodified":1706240433,
     "wof:name":"Villa Nueva",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -86,7 +94,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276655629
+    ],
     "wof:tags":[]
 },
   "bbox": [

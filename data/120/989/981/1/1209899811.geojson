@@ -97,6 +97,7 @@
         "\u57c3\u5c14\u4f69\u5fb7\u96f7\u52a0\u5c14"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,6 +107,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3814476
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827540
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"36d1184fdf27fbd14e2cfd0fe6378f01",
@@ -119,13 +125,17 @@
         }
     ],
     "wof:id":1209899811,
-    "wof:lastmodified":1566627238,
+    "wof:lastmodified":1706240443,
     "wof:name":"El Pedregal",
     "wof:parent_id":102078629,
     "wof:placetype":"locality",
+    "wof:population":731,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276197009
+    ],
     "wof:tags":[]
 },
   "bbox": [

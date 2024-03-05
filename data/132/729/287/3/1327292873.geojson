@@ -30,11 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:spa_x_preferred":[
+        "Santiago Lachiv\u00eda"
+    ],
     "name:und_x_variant":[
         "Lachivia",
         "Santiago Lachiv\u00eda"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3526025
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801724
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f215815c9d36d488ff897fd4bd8f0833",
@@ -57,13 +66,17 @@
         }
     ],
     "wof:id":1327292873,
-    "wof:lastmodified":1566615142,
+    "wof:lastmodified":1706240532,
     "wof:name":"Santiago Lachivia",
     "wof:parent_id":102076367,
     "wof:placetype":"locality",
+    "wof:population":940,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343335853
+    ],
     "wof:tags":[]
 },
   "bbox": [

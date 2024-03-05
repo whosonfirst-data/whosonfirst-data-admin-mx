@@ -37,6 +37,7 @@
         "Cerritos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4014791
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8879333
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7608f955b67b2cb16841082513c5ee61",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226512817,
-    "wof:lastmodified":1566639958,
+    "wof:lastmodified":1706240460,
     "wof:name":"El Cerrito",
     "wof:parent_id":102074717,
     "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360058773
+    ],
     "wof:tags":[]
 },
   "bbox": [

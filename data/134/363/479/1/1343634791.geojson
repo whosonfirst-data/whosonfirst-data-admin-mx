@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-103.44056,20.58167,-103.44056,20.58167",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":8858138
     },
     "wof:country":"MX",
-    "wof:geomhash":"d7486377fe2f019b9ac4cdcd09a79861",
+    "wof:geomhash":"ca0fe972a96299f0dca6669aeb943142",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1343634791,
-    "wof:lastmodified":1566616931,
+    "wof:lastmodified":1706240407,
     "wof:name":"La Tijera",
     "wof:parent_id":102074775,
     "wof:placetype":"locality",
     "wof:population":12425,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101997871
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -103.44056,
-    20.58167000000001,
+    20.58167,
     -103.44056,
-    20.58167000000001
+    20.58167
 ],
-  "geometry": {"coordinates":[-103.44056,20.58167000000001],"type":"Point"}
+  "geometry": {"coordinates":[-103.44056,20.58167],"type":"Point"}
 }

@@ -34,6 +34,7 @@
         "Las Paredes"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4026170
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8925788
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"96d8d4acf8bf0ace869cf92731bcd2fb",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226221831,
-    "wof:lastmodified":1566640822,
+    "wof:lastmodified":1706240455,
     "wof:name":"Las Paredes",
     "wof:parent_id":102073909,
     "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276205959
+    ],
     "wof:tags":[]
 },
   "bbox": [

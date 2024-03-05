@@ -34,6 +34,7 @@
         "Los Ranchitos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3997243
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8871724
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c46bd8b3a1287154299d55a194792fac",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1276305961,
-    "wof:lastmodified":1566624751,
+    "wof:lastmodified":1706240499,
     "wof:name":"Los Ranchitos",
     "wof:parent_id":102074835,
     "wof:placetype":"locality",
+    "wof:population":206,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327307317
+    ],
     "wof:tags":[]
 },
   "bbox": [

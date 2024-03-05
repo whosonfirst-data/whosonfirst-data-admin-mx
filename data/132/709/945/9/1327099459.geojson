@@ -148,6 +148,7 @@
         "San Luis"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -157,6 +158,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3520501
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8515883
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"40cd2f7333331050ba26afd212456e8e",
@@ -170,13 +176,17 @@
         }
     ],
     "wof:id":1327099459,
-    "wof:lastmodified":1636491914,
+    "wof:lastmodified":1706240531,
     "wof:name":"San Luis",
     "wof:parent_id":102078781,
     "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343635901
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -38,12 +38,18 @@
         "San Juan Teponaxtla"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3518616
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8872894
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"01614b77fffec97ac18af79f14f9233a",
@@ -54,13 +60,17 @@
         }
     ],
     "wof:id":1209388921,
-    "wof:lastmodified":1566625207,
+    "wof:lastmodified":1706240432,
     "wof:name":"Teponapa",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293757739
+    ],
     "wof:tags":[]
 },
   "bbox": [

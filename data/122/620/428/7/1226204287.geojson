@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "Ci\u00e9nega de Camacho"
     ],
+    "name:und_x_variant":[
+        "La Cienega"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3791800
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3526003
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1420c4aee41695910bdb4f7074092711",
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1226204287,
-    "wof:lastmodified":1566639722,
+    "wof:lastmodified":1706240454,
     "wof:name":"Cienega de Camacho",
     "wof:parent_id":102078727,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293654181
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3991965
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3991910
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"b42c59e6c77e9aa71a6feeac01b6c785",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1243139287,
-    "wof:lastmodified":1566635570,
+    "wof:lastmodified":1706240473,
     "wof:name":"Pozo Nuevo",
     "wof:parent_id":102074365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327381797
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"-96.072615,18.794438,-96.05314,18.81358",
     "geom:latitude":18.803124,
     "geom:longitude":-96.062835,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"181.0",
+    "gn:asciiname":"Tlalixcoyan",
+    "gn:country_code":"MX",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3515443,
     "gn:id":"3515443,3515444",
+    "gn:latitude":18.80222,
+    "gn:longitude":-96.06056,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Tlalixcoyan",
+    "gn:population":3335,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-96.08056,18.78222,-96.04056,18.82222",
     "lbl:latitude":18.803963,
     "lbl:longitude":-96.063784,
     "lbl:max_zoom":18.0,
@@ -101,6 +116,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -112,7 +128,13 @@
         "gn:id":3515444,
         "gp:id":149584,
         "qs_pg:id":180461,
-        "wd:id":"Q3846765"
+        "wd:id":"Q3846765",
+        "wk:page":"Tlalixcoyan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3515443
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -129,13 +151,17 @@
         }
     ],
     "wof:id":101998799,
-    "wof:lastmodified":1690847397,
+    "wof:lastmodified":1706240410,
     "wof:name":"Tlalixcoyan",
     "wof:parent_id":102077777,
     "wof:placetype":"locality",
+    "wof:population":3335,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1192967741
+    ],
     "wof:tags":[]
 },
   "bbox": [

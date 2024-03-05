@@ -12,6 +12,7 @@
     "gn:admin1_code":"32",
     "gn:admin2_code":"38.0",
     "gn:asciiname":"La Pendencia",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":2193,
     "gn:feature_class":"P",
@@ -34,6 +35,7 @@
         "Pendencia"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3972185
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4000852
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"bbbaa1e6515abebdc68f78f47938873f",
@@ -56,13 +63,17 @@
         }
     ],
     "wof:id":1243108829,
-    "wof:lastmodified":1566636962,
+    "wof:lastmodified":1706240473,
     "wof:name":"La Pendencia",
     "wof:parent_id":102075409,
     "wof:placetype":"locality",
+    "wof:population":1121,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343710603
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,7 @@
         "Cabra"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -55,6 +56,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4016387
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4023405
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"24b87a4838c7449a40558e3d50259cfb",
@@ -68,13 +74,17 @@
         }
     ],
     "wof:id":1243240917,
-    "wof:lastmodified":1566635314,
+    "wof:lastmodified":1706240475,
     "wof:name":"Cabras",
     "wof:parent_id":102077333,
     "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310285379
+    ],
     "wof:tags":[]
 },
   "bbox": [

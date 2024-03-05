@@ -36,7 +36,11 @@
     "name:spa_x_variant":[
         "San Caralampio Monte Palido"
     ],
+    "name:und_x_variant":[
+        "San Caralampio Monte P\u00e1lido"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9632281
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8863383
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"aecc616da9cb4f25412a89adfa01fdea",
@@ -59,13 +68,17 @@
         }
     ],
     "wof:id":1292993787,
-    "wof:lastmodified":1566621759,
+    "wof:lastmodified":1706240510,
     "wof:name":"San Caralampio Monte Palido",
     "wof:parent_id":102075499,
     "wof:placetype":"locality",
+    "wof:population":493,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326623187
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,7 @@
     "geom:latitude":18.50482,
     "geom:longitude":-98.70516,
     "gn:admin1_code":"17",
+    "gn:admin2_code":"3.0",
     "gn:asciiname":"Tlalayo",
     "gn:country_code":"MX",
     "gn:dem":1008,
@@ -36,6 +37,7 @@
         "San Jos\u00e9"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3518978
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8861339
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6c3c322f5b9598c8326c0f68f1425a6e",
@@ -58,13 +65,17 @@
         }
     ],
     "wof:id":1243043909,
-    "wof:lastmodified":1566635814,
+    "wof:lastmodified":1706240472,
     "wof:name":"Tlalayo",
     "wof:parent_id":102074299,
     "wof:placetype":"locality",
+    "wof:population":698,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276523719
+    ],
     "wof:tags":[]
 },
   "bbox": [

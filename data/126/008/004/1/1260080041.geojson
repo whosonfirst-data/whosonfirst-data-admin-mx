@@ -37,6 +37,7 @@
         "Don Ignacio"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9877756
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8938883
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b2c1b32f143f516fce4d770752b3ad6c",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1260080041,
-    "wof:lastmodified":1566628958,
+    "wof:lastmodified":1706240493,
     "wof:name":"Don Ignacio",
     "wof:parent_id":102079211,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344156789
+    ],
     "wof:tags":[]
 },
   "bbox": [

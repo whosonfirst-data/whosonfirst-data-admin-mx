@@ -58,6 +58,7 @@
         "Rancho El Refugio"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,6 +68,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4008011
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4008032
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3c23797b3a21fe300bfd09118e82f314",
@@ -80,13 +86,17 @@
         }
     ],
     "wof:id":1226066817,
-    "wof:lastmodified":1566641489,
+    "wof:lastmodified":1706240451,
     "wof:name":"El Refugio",
     "wof:parent_id":102075289,
     "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226339845
+    ],
     "wof:tags":[]
 },
   "bbox": [

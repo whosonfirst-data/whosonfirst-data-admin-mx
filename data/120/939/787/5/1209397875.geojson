@@ -37,12 +37,18 @@
         "Providencia"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3991655
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4000645
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2f43b8348e0743407a00b218997fce49",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209397875,
-    "wof:lastmodified":1566625476,
+    "wof:lastmodified":1706240432,
     "wof:name":"La Providencia",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":806,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343235497
+    ],
     "wof:tags":[]
 },
   "bbox": [

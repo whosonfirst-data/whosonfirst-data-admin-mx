@@ -12,6 +12,7 @@
     "gn:admin1_code":"10",
     "gn:admin2_code":"9.0",
     "gn:asciiname":"El Alamillo",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":2609,
     "gn:feature_class":"P",
@@ -36,7 +37,12 @@
     "name:spa_x_variant":[
         "San Isidro de Calabaza"
     ],
+    "name:und_x_variant":[
+        "Alamillos",
+        "Alamillo"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3986654
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4019014
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8c62bd38365e3e93e9fd4136ed02d90c",
@@ -59,13 +70,17 @@
         }
     ],
     "wof:id":1343549635,
-    "wof:lastmodified":1566616564,
+    "wof:lastmodified":1706240533,
     "wof:name":"El Alamillo",
     "wof:parent_id":102075213,
     "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344235433
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Granadas"
+    ],
+    "name:und_x_variant":[
+        "Granaditas",
+        "San Jos\u00e9 de Granaditas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8940731
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3986216
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ff72f60e3f9eb20c365a885b584284cd",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242675127,
-    "wof:lastmodified":1566635161,
+    "wof:lastmodified":1706240466,
     "wof:name":"Granadas",
     "wof:parent_id":102075355,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242799393
+    ],
     "wof:tags":[]
 },
   "bbox": [

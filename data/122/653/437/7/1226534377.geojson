@@ -12,6 +12,7 @@
     "gn:admin1_code":"6.0",
     "gn:admin2_code":"2.0",
     "gn:asciiname":"El Pastor",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":1230,
     "gn:feature_class":"P",
@@ -34,6 +35,7 @@
         "Hacienda del Pastor"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,8 +46,13 @@
     "wof:concordances":{
         "gn:id":4005027
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4008705
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"f981095f0b23b20595320504bfd23d7b",
+    "wof:geomhash":"d8d94ee4ea435cb71e6ad986ed3899c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +63,24 @@
         }
     ],
     "wof:id":1226534377,
-    "wof:lastmodified":1566641650,
+    "wof:lastmodified":1706240461,
     "wof:name":"El Pastor",
     "wof:parent_id":102075269,
     "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343253965
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -105.30868999999998,
+    -105.30869,
     29.24765,
-    -105.30868999999998,
+    -105.30869,
     29.24765
 ],
-  "geometry": {"coordinates":[-105.30868999999998,29.24765],"type":"Point"}
+  "geometry": {"coordinates":[-105.30869,29.24765],"type":"Point"}
 }

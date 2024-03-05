@@ -12,6 +12,7 @@
     "gn:id":"",
     "gn:population":353534,
     "iso:country":"MX",
+    "lbl:bbox":"-99.187682,19.279086,-99.177682,19.289086",
     "lbl:latitude":19.286332,
     "lbl:longitude":-99.187317,
     "lbl:max_zoom":18.0,
@@ -25,6 +26,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u0997\u09c7\u09b2 \u0987\u09a6\u09be\u09b2\u09cd\u0997\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
@@ -74,10 +76,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Miguel Hidalgo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475219,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898927,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -95,6 +116,14 @@
         "gp:id":55898927,
         "qs_pg:id":475219,
         "wd:id":"Q20237100"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898927
+        ],
+        "qs_pg:id":[
+            475219
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"dd5bd910db527ccff836ef6603ae5d8b",
@@ -122,7 +151,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847315,
+    "wof:lastmodified":1706240371,
     "wof:name":"Miguel Hidalgo",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",
@@ -130,7 +159,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126084391
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -106,6 +106,7 @@
         "\u6ce2\u723e\u51e1\u5c3c\u723e"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -115,6 +116,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3528408
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3792089
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b5710b8df9d2f62aee537c298f42727d",
@@ -128,13 +134,17 @@
         }
     ],
     "wof:id":1243419275,
-    "wof:lastmodified":1636493787,
+    "wof:lastmodified":1706240477,
     "wof:name":"El Porvenir",
     "wof:parent_id":102078713,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277036833
+    ],
     "wof:tags":[]
 },
   "bbox": [

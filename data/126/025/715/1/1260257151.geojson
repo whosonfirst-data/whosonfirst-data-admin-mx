@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3791835
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3524262
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"193f4b8fc8aa3ae09a6a786b71d65a66",
     "wof:hierarchy":[
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1260257151,
-    "wof:lastmodified":1566628772,
+    "wof:lastmodified":1706240496,
     "wof:name":"Loma Alta",
     "wof:parent_id":102078727,
     "wof:placetype":"locality",
@@ -65,7 +70,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277141881
+    ],
     "wof:tags":[]
 },
   "bbox": [

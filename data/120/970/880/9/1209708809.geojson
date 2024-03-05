@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Toqui\u00e1n Chico"
+    ],
+    "name:spa_x_variant":[
+        "Toquiancito"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8865527
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9531717
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"af96580c687384f217aa780ded1a4ec4",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1209708809,
-    "wof:lastmodified":1566625933,
+    "wof:lastmodified":1706240440,
     "wof:name":"Toquiancito",
     "wof:parent_id":102075691,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259481829
+    ],
     "wof:tags":[]
 },
   "bbox": [

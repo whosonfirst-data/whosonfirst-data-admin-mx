@@ -609,6 +609,11 @@
     "wof:concordances":{
         "gn:id":8887192
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4007636
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"90a4fb0900a269baea7db1ffda316c50",
     "wof:hierarchy":[
@@ -621,7 +626,7 @@
         }
     ],
     "wof:id":1242749597,
-    "wof:lastmodified":1566634670,
+    "wof:lastmodified":1706240467,
     "wof:name":"El Salvador",
     "wof:parent_id":102075107,
     "wof:placetype":"locality",
@@ -629,7 +634,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259346605
+    ],
     "wof:tags":[]
 },
   "bbox": [

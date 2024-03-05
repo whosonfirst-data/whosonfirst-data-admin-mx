@@ -9,7 +9,22 @@
     "geom:bbox":"-91.875192,16.145238,-91.860392,16.158336",
     "geom:latitude":16.151126,
     "geom:longitude":-91.868186,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"99.0",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"MX",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3816463,
+    "gn:latitude":16.15191,
+    "gn:longitude":-91.86874,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-91.88874,16.13191,-91.84874,16.17191",
     "lbl:latitude":16.150416,
     "lbl:longitude":-91.868075,
     "lbl:max_zoom":18.0,
@@ -94,6 +109,11 @@
         "gp:id":127322,
         "qs_pg:id":490030
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816463
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -109,13 +129,15 @@
         }
     ],
     "wof:id":101994753,
-    "wof:lastmodified":1636493553,
+    "wof:lastmodified":1706240400,
     "wof:name":"La Esperanza",
     "wof:parent_id":102075499,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276760091
+    ],
     "wof:tags":[]
 },
   "bbox": [

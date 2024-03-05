@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":3827522
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3516899
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d2dd41b34fd355375634a8d52bdf97ea",
     "wof:hierarchy":[
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":1242952139,
-    "wof:lastmodified":1566635060,
+    "wof:lastmodified":1706240471,
     "wof:name":"Santiago Tlapanaloya",
     "wof:parent_id":102078623,
     "wof:placetype":"locality",
@@ -67,7 +72,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259366565
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,7 @@
         "Barra de Cazones"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3532388
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3824562
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f72774a73a9fb6518a46456f7c8eae80",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1293150165,
-    "wof:lastmodified":1566620727,
+    "wof:lastmodified":1706240511,
     "wof:name":"Barra de Cazones",
     "wof:parent_id":102077455,
     "wof:placetype":"locality",
+    "wof:population":1111,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310451077
+    ],
     "wof:tags":[]
 },
   "bbox": [

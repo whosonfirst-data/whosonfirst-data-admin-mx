@@ -35,6 +35,7 @@
         "G\u00f3mez Palacio"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4005774
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8944189
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"565f066bbbac9d47854f3c920020cea3",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1343515877,
-    "wof:lastmodified":1566618448,
+    "wof:lastmodified":1706240533,
     "wof:name":"Gomez Palacio",
     "wof:parent_id":102074469,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343628653
+    ],
     "wof:tags":[]
 },
   "bbox": [

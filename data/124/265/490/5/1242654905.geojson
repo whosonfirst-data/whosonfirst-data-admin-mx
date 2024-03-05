@@ -40,6 +40,7 @@
         "Potreros La F\u00e1brica"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4023726
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8866116
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"882ce5af519df1d61f2cdf9dde725f01",
@@ -62,13 +68,17 @@
         }
     ],
     "wof:id":1242654905,
-    "wof:lastmodified":1566636603,
+    "wof:lastmodified":1706240466,
     "wof:name":"Fabrica de Guadalupe",
     "wof:parent_id":102077263,
     "wof:placetype":"locality",
+    "wof:population":351,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276643215
+    ],
     "wof:tags":[]
 },
   "bbox": [

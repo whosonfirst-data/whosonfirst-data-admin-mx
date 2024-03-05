@@ -37,6 +37,7 @@
         "La Presa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3984494
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8946271
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"be6437493c0e9b1b12d7bd66412b7e2c",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259881131,
-    "wof:lastmodified":1566638892,
+    "wof:lastmodified":1706240491,
     "wof:name":"La Presa",
     "wof:parent_id":102074515,
     "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310017531
+    ],
     "wof:tags":[]
 },
   "bbox": [

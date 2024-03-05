@@ -37,6 +37,7 @@
         "Roseta"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3988384
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4028822
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"528d7c03deac3b98b09009daa1e95c15",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1343820579,
-    "wof:lastmodified":1566618013,
+    "wof:lastmodified":1706240534,
     "wof:name":"Estacion Roseta",
     "wof:parent_id":102074577,
     "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344020673
+    ],
     "wof:tags":[]
 },
   "bbox": [

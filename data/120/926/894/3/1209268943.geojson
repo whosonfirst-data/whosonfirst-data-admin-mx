@@ -37,12 +37,18 @@
         "Laborcita"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4003363
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3990115
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d302fe0cc93577b3a6885a6150b058ea",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209268943,
-    "wof:lastmodified":1566627265,
+    "wof:lastmodified":1706240429,
     "wof:name":"La Laborcita",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242725691
+    ],
     "wof:tags":[]
 },
   "bbox": [

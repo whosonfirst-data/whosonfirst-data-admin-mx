@@ -49,12 +49,18 @@
         "La Pila"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3999351
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999352
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"210b9a0a9e23b057d3a34d8fc6fee570",
@@ -65,13 +71,17 @@
         }
     ],
     "wof:id":1209578127,
-    "wof:lastmodified":1566626432,
+    "wof:lastmodified":1706240436,
     "wof:name":"Las Pilas",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":689,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226811733
+    ],
     "wof:tags":[]
 },
   "bbox": [

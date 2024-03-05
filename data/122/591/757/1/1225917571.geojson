@@ -37,6 +37,7 @@
         "Amoles"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4018565
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8871656
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"bfa94f7df9076d920fb7cb5d55b71d8e",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1225917571,
-    "wof:lastmodified":1566640704,
+    "wof:lastmodified":1706240448,
     "wof:name":"Los Asmoles",
     "wof:parent_id":102074739,
     "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309976729
+    ],
     "wof:tags":[]
 },
   "bbox": [

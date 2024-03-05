@@ -39,6 +39,7 @@
         "La Boca"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3526183
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8865140
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c73cdc685c978aede98b368ba354d89c",
@@ -61,13 +67,17 @@
         }
     ],
     "wof:id":1242919331,
-    "wof:lastmodified":1566636581,
+    "wof:lastmodified":1706240470,
     "wof:name":"Boca de San Miguel",
     "wof:parent_id":102077769,
     "wof:placetype":"locality",
+    "wof:population":394,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309951657
+    ],
     "wof:tags":[]
 },
   "bbox": [

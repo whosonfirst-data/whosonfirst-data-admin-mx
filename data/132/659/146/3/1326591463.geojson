@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Mateo Tepantepec"
+    ],
+    "name:spa_x_variant":[
+        "Tenantepec"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8867417
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3515988
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9c18170f343bb51aae1079b757d37e04",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1326591463,
-    "wof:lastmodified":1566613565,
+    "wof:lastmodified":1706240528,
     "wof:name":"San Mateo Tepantepec",
     "wof:parent_id":102076067,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326704439
+    ],
     "wof:tags":[]
 },
   "bbox": [

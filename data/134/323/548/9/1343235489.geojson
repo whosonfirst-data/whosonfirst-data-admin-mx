@@ -37,6 +37,7 @@
         "Jacal"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4004226
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4009559
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4f8ba629f20ebd9200210dfa39d6ce55",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1343235489,
-    "wof:lastmodified":1566617867,
+    "wof:lastmodified":1706240532,
     "wof:name":"El Jacal",
     "wof:parent_id":102074819,
     "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344028427
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "Tapona",
+        "La Tapona"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3524570
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999097
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7ef144ba2afc621056d41a7f3aad1617",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226189429,
-    "wof:lastmodified":1566639677,
+    "wof:lastmodified":1706240454,
     "wof:name":"La Tapona",
     "wof:parent_id":102078883,
     "wof:placetype":"locality",
@@ -62,7 +71,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243401575
+    ],
     "wof:tags":[]
 },
   "bbox": [

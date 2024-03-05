@@ -37,6 +37,7 @@
         "San Jos\u00e9"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,8 +48,13 @@
     "wof:concordances":{
         "gn:id":3974648
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8907976
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"4cbae1f38bff3a7c3cc2987003f47f9e",
+    "wof:geomhash":"41b48a3b91c5bf571b999d8aad7b8127",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +65,24 @@
         }
     ],
     "wof:id":1293198297,
-    "wof:lastmodified":1566622235,
+    "wof:lastmodified":1706240512,
     "wof:name":"Coremachi",
     "wof:parent_id":102075303,
     "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326722575
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -106.71979,
-    26.47177000000001,
+    26.47177,
     -106.71979,
-    26.47177000000001
+    26.47177
 ],
-  "geometry": {"coordinates":[-106.71979,26.47177000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.71979,26.47177],"type":"Point"}
 }

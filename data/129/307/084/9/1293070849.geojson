@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-100.30956,18.8216,-100.30956,18.8216",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,14 +56,16 @@
         }
     ],
     "wof:id":1293070849,
-    "wof:lastmodified":1566619725,
+    "wof:lastmodified":1706240438,
     "wof:name":"El Corupo",
     "wof:parent_id":102073947,
     "wof:placetype":"locality",
     "wof:population":42,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209688563
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

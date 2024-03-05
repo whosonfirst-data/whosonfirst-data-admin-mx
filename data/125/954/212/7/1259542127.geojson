@@ -37,6 +37,7 @@
         "Lkuyum Ch\u00fachut"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9093038
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8865198
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"89a4edcb3d82e9a3577f3999bd60ca68",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259542127,
-    "wof:lastmodified":1566637232,
+    "wof:lastmodified":1706240484,
     "wof:name":"Lkuyum Chuchut",
     "wof:parent_id":102078221,
     "wof:placetype":"locality",
+    "wof:population":391,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276511199
+    ],
     "wof:tags":[]
 },
   "bbox": [

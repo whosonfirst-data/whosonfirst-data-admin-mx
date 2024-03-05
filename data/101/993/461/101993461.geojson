@@ -11,6 +11,7 @@
     "geom:longitude":-115.446715,
     "gn:population":597099,
     "iso:country":"MX",
+    "lbl:bbox":"-115.490203,32.62241,-115.450203,32.66241",
     "lbl:latitude":32.631342,
     "lbl:longitude":-115.437638,
     "lbl:max_zoom":13.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Mexicali"
     ],
@@ -412,12 +414,32 @@
     "qs:loc":"Mexicali",
     "qs:pop":0,
     "qs:source":"XMexico IGN",
+    "qs_pg:aaroncc":"MX",
+    "qs_pg:name":"Mexicali",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":2397,
+    "qs_pg:photos_1k":486,
+    "qs_pg:photos_9k":23,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5209,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":314364,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":133475,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -433,6 +455,17 @@
         "qs_pg:id":353406,
         "wd:id":"Q199440",
         "wk:page":"Mexicali"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            133475
+        ],
+        "qs_pg:id":[
+            314364
+        ],
+        "wd:id":[
+            "Q199440"
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -452,7 +485,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847853,
+    "wof:lastmodified":1706240394,
     "wof:megacity":1,
     "wof:name":"Mexicali",
     "wof:parent_id":102074507,
@@ -462,7 +495,9 @@
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:scale":4,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125893485
+    ],
     "wof:tags":[]
 },
   "bbox": [

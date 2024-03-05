@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":4004940
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3976571
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"61d2b41a377ac7f1d5e7e407b778c036",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209282241,
-    "wof:lastmodified":1566627419,
+    "wof:lastmodified":1706240429,
     "wof:name":"La Llama",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360152453
+    ],
     "wof:tags":[]
 },
   "bbox": [

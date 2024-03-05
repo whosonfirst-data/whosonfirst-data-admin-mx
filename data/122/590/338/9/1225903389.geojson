@@ -14,6 +14,7 @@
     "gn:asciiname":"Santa Maria Yucunicoco",
     "gn:country_code":"MX",
     "gn:dem":2454,
+    "gn:elevation":"2500.0",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":3514203,
@@ -48,6 +49,11 @@
     "wof:concordances":{
         "gn:id":3514203
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9179177
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"60c8e50f68f7aad8dbaa58c7048d3b5e",
     "wof:hierarchy":[
@@ -60,13 +66,15 @@
         }
     ],
     "wof:id":1225903389,
-    "wof:lastmodified":1566640597,
+    "wof:lastmodified":1706240447,
     "wof:name":"Santa Maria Yucunicoco",
     "wof:parent_id":102076769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309970571
+    ],
     "wof:tags":[]
 },
   "bbox": [

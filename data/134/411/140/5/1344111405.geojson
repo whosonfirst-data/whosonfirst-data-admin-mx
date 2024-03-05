@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-110.36519,28.06054,-110.36519,28.06054",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Bacatetito"
@@ -45,7 +47,7 @@
         "gn:id":4017811
     },
     "wof:country":"MX",
-    "wof:geomhash":"90a5fee680c2a3cef2f706617ba23974",
+    "wof:geomhash":"8469936f1a1c382785fc8c699f10b45f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":1344111405,
-    "wof:lastmodified":1566618788,
+    "wof:lastmodified":1706240474,
     "wof:name":"Bacatetito",
     "wof:parent_id":102074511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243218101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -110.36518999999998,
+    -110.36519,
     28.06054,
-    -110.36518999999998,
+    -110.36519,
     28.06054
 ],
-  "geometry": {"coordinates":[-110.36518999999998,28.06054],"type":"Point"}
+  "geometry": {"coordinates":[-110.36519,28.06054],"type":"Point"}
 }

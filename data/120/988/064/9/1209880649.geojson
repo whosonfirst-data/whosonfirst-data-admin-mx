@@ -14,6 +14,7 @@
     "gn:asciiname":"San Pedro la Alianza",
     "gn:country_code":"MX",
     "gn:dem":943,
+    "gn:elevation":"960.0",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":3801360,
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3801360
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9178928
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"8e2dfe064393e6c31d249d696676e4b2",
     "wof:hierarchy":[
@@ -59,13 +65,15 @@
         }
     ],
     "wof:id":1209880649,
-    "wof:lastmodified":1566627481,
+    "wof:lastmodified":1706240442,
     "wof:name":"San Pedro la Alianza",
     "wof:parent_id":102076401,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242848495
+    ],
     "wof:tags":[]
 },
   "bbox": [

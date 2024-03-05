@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
     "geom:area_square_m":304964.456122,
-    "geom:bbox":"-99.1914367676,19.3292866926,-99.1873168945,19.3370618011",
+    "geom:bbox":"-99.191437,19.329287,-99.187317,19.337062",
     "geom:latitude":19.333174,
     "geom:longitude":-99.189061,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.192869,19.327578,-99.182869,19.337578",
     "lbl:latitude":19.33249,
     "lbl:longitude":-99.188499,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Conjunto Res Insurgentes San Angel"
@@ -51,11 +53,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Conjunto Res Insurgentes San Angel",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":1048,
+    "qs_pg:photos_1k":212,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1048,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":899370,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55902724,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -73,13 +94,18 @@
         "qs_pg:id":775914
     },
     "wof:concordances_alt":{
-        "qs_pg:id":899370
+        "gp:id":[
+            55902724
+        ],
+        "qs_pg:id":[
+            899370
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c57151f498368cdf305e42f8c9208451",
+    "wof:geomhash":"509e07abef9e11181ac60fd2e85ba350",
     "wof:hierarchy":[
         {
             "borough_id":890535773,
@@ -104,20 +130,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147370,
+    "wof:lastmodified":1706240378,
     "wof:name":"Conjunto Res Insurgentes San Angel",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126085451
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.19143676759995,
-    19.32928669257821,
-    -99.18731689449993,
-    19.33706180110002
+    -99.191437,
+    19.329287,
+    -99.187317,
+    19.337062
 ],
-  "geometry": {"coordinates":[[[-99.19006347660002,19.33706180110002],[-99.18941447665387,19.33706179509194],[-99.18731689451388,19.33706179537802],[-99.18731689451451,19.33550184349595],[-99.18731689449993,19.33447014150002],[-99.18731689449993,19.33317429630009],[-99.18731689449993,19.33187844080003],[-99.18731689449993,19.329286699],[-99.18796592300973,19.32928669300631],[-99.1900634765843,19.32928669257821],[-99.19006347658419,19.33119063365962],[-99.19143676759995,19.33167574774399],[-99.19143676759995,19.33187844080003],[-99.19143676759995,19.33317429458342],[-99.19143676759995,19.33447014150002],[-99.19143676759995,19.33467281369585],[-99.19006347658419,19.33515793932298],[-99.1900634765833,19.33637399266065],[-99.19006347660002,19.33706180110002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.19006299999999,19.337062],[-99.189414,19.337062],[-99.18731699999999,19.337062],[-99.18731699999999,19.335502],[-99.18731699999999,19.33447],[-99.18731699999999,19.333174],[-99.18731699999999,19.331878],[-99.18731699999999,19.329287],[-99.187966,19.329287],[-99.19006299999999,19.329287],[-99.19006299999999,19.331191],[-99.19143699999999,19.331676],[-99.19143699999999,19.331878],[-99.19143699999999,19.333174],[-99.19143699999999,19.33447],[-99.19143699999999,19.334673],[-99.19006299999999,19.335158],[-99.19006299999999,19.336374],[-99.19006299999999,19.337062]]],"type":"Polygon"}
 }

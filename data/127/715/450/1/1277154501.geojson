@@ -81,6 +81,11 @@
     "wof:concordances":{
         "gn:id":8895045
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4002503
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"23b2029d179fe95c18f6d929d681e849",
     "wof:hierarchy":[
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1277154501,
-    "wof:lastmodified":1636492796,
+    "wof:lastmodified":1706240508,
     "wof:name":"La Esperanza",
     "wof:parent_id":102077321,
     "wof:placetype":"locality",
@@ -101,7 +106,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293669489
+    ],
     "wof:tags":[]
 },
   "bbox": [

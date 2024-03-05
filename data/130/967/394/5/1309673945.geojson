@@ -66,6 +66,11 @@
     "wof:concordances":{
         "gn:id":3791764
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3528314
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"e043dfc16bfd849de2a973a7859c2749",
     "wof:hierarchy":[
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":1309673945,
-    "wof:lastmodified":1566633531,
+    "wof:lastmodified":1706240519,
     "wof:name":"El Refugio",
     "wof:parent_id":102078761,
     "wof:placetype":"locality",
@@ -86,7 +91,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309967911
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -33,6 +33,10 @@
     "name:spa_x_preferred":[
         "Kancabch\u00e9n Uc\u00ed"
     ],
+    "name:und_x_variant":[
+        "Kancabch\u00e9n",
+        "Kancabch\u00e9n Uci"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -46,6 +50,11 @@
         "gn:id":3822332,
         "wk:page":"Hacienda_Kancabch%C3%A9n_Uc%C3%AD"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3526310
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"33a726a8aae63e50009e132a66071a26",
     "wof:hierarchy":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1243398135,
-    "wof:lastmodified":1566634570,
+    "wof:lastmodified":1706240477,
     "wof:name":"Kancabchen Uci",
     "wof:parent_id":102079207,
     "wof:placetype":"locality",
@@ -66,7 +75,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343891119
+    ],
     "wof:tags":[]
 },
   "bbox": [

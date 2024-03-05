@@ -30,6 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Rancho San Francisquito"
+    ],
+    "name:spa_x_variant":[
+        "San Francisquito"
+    ],
+    "name:und_x_variant":[
+        "San Francisco"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8920262
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3519343
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9f04cbc777f95b83b210964dae635e31",
@@ -54,7 +68,7 @@
         }
     ],
     "wof:id":1260049749,
-    "wof:lastmodified":1566629346,
+    "wof:lastmodified":1706240493,
     "wof:name":"Rancho San Francisquito",
     "wof:parent_id":102074199,
     "wof:placetype":"locality",
@@ -62,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326800343
+    ],
     "wof:tags":[]
 },
   "bbox": [

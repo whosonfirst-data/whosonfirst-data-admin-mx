@@ -37,6 +37,7 @@
         "Centenario"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4010504
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4014855
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0e6863c553eacbe6ef9a66c5c952324a",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276500817,
-    "wof:lastmodified":1566623775,
+    "wof:lastmodified":1706240500,
     "wof:name":"El Centenario",
     "wof:parent_id":102074343,
     "wof:placetype":"locality",
+    "wof:population":447,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310060093
+    ],
     "wof:tags":[]
 },
   "bbox": [

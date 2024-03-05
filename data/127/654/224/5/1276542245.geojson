@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Palma"
+    ],
+    "name:spa_x_variant":[
+        "L\u00e1zaro C\u00e1rdenas del Bajo"
+    ],
     "name:und_x_variant":[
         "L\u00e1zaro C\u00e1rdenas del Bajo"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8875522
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9532411
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f69569285d87303d63445192539f2967",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1276542245,
-    "wof:lastmodified":1566624982,
+    "wof:lastmodified":1706240501,
     "wof:name":"Lazaro Cardenas del Bajo",
     "wof:parent_id":102075571,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360083625
+    ],
     "wof:tags":[]
 },
   "bbox": [

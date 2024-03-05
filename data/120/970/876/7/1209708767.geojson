@@ -49,6 +49,7 @@
         "\u62c9\u65af\u85a9\u5229\u7d0d\u65af"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -58,6 +59,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9637293
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8871755
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c381675b36a5e526b626892d56683e15",
@@ -71,13 +77,17 @@
         }
     ],
     "wof:id":1209708767,
-    "wof:lastmodified":1566625952,
+    "wof:lastmodified":1706240439,
     "wof:name":"Las Salinas",
     "wof:parent_id":102075581,
     "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209808563
+    ],
     "wof:tags":[]
 },
   "bbox": [

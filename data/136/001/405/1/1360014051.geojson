@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-88.68278,20.2625,-88.68278,20.2625",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":3822595
     },
     "wof:country":"MX",
-    "wof:geomhash":"9e9758de8965a18679dac7d47a367d25",
+    "wof:geomhash":"f0d3cdced06d9d63f0ef2b22d733ed7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1360014051,
-    "wof:lastmodified":1566631799,
+    "wof:lastmodified":1706240476,
     "wof:name":"Tinuncah",
     "wof:parent_id":102079093,
     "wof:placetype":"locality",
     "wof:population":164,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243295069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -88.68278000000002,
+    -88.68278,
     20.2625,
-    -88.68278000000002,
+    -88.68278,
     20.2625
 ],
-  "geometry": {"coordinates":[-88.68278000000002,20.2625],"type":"Point"}
+  "geometry": {"coordinates":[-88.68277999999999,20.2625],"type":"Point"}
 }

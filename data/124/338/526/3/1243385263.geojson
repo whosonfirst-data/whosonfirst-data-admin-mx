@@ -36,6 +36,9 @@
     "name:spa_x_preferred":[
         "Los Llanitos"
     ],
+    "name:und_x_variant":[
+        "Llanitos"
+    ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u5229\u4e9e\u5c3c\u6258\u65af"
     ],
@@ -51,6 +54,11 @@
     "wof:concordances":{
         "gn:id":8899330
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3997575
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"4788713d22c251fc5c9a88f8a8404d56",
     "wof:hierarchy":[
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":1243385263,
-    "wof:lastmodified":1566634338,
+    "wof:lastmodified":1706240477,
     "wof:name":"Los Llanitos",
     "wof:parent_id":102075261,
     "wof:placetype":"locality",
@@ -71,7 +79,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293610791
+    ],
     "wof:tags":[]
 },
   "bbox": [

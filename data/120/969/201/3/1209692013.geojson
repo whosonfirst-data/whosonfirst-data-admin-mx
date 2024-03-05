@@ -10,6 +10,7 @@
     "geom:latitude":19.94185,
     "geom:longitude":-99.10751,
     "gn:admin1_code":"17",
+    "gn:admin2_code":"96.0",
     "gn:asciiname":"La Esperanza",
     "gn:country_code":"MX",
     "gn:dem":2264,
@@ -76,6 +77,11 @@
     "wof:concordances":{
         "gn:id":3817821
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827545
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"86066704794b998ec5ad7fb475c61599",
     "wof:hierarchy":[
@@ -85,13 +91,15 @@
         }
     ],
     "wof:id":1209692013,
-    "wof:lastmodified":1636493046,
+    "wof:lastmodified":1706240439,
     "wof:name":"La Esperanza",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327116787
+    ],
     "wof:tags":[]
 },
   "bbox": [

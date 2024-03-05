@@ -34,6 +34,7 @@
         "Altos de Sevilla"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,8 +45,13 @@
     "wof:concordances":{
         "gn:id":3532971
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3823128
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"4d29ba9487d89cc52bfe2f667c51ae95",
+    "wof:geomhash":"adae76f63b072e1572fcb2dfa906e934",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +62,24 @@
         }
     ],
     "wof:id":1226013393,
-    "wof:lastmodified":1566641538,
+    "wof:lastmodified":1706240450,
     "wof:name":"Altos de Sevilla",
     "wof:parent_id":102079235,
     "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343816119
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -88.67730999999998,
+    -88.67731,
     18.85183,
-    -88.67730999999998,
+    -88.67731,
     18.85183
 ],
-  "geometry": {"coordinates":[-88.67730999999998,18.85183],"type":"Point"}
+  "geometry": {"coordinates":[-88.67731000000001,18.85183],"type":"Point"}
 }

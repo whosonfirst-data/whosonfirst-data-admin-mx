@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-98.99028,25.89417,-98.99028,25.89417",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:spa_x_preferred":[
         "El Brasil"
@@ -46,7 +48,7 @@
         "gn:id":3792082
     },
     "wof:country":"MX",
-    "wof:geomhash":"21eade3da27c43e08045b614d8a71315",
+    "wof:geomhash":"3f66cdfb55b0bc5fdbb3c7f50533c37c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1226407283,
-    "wof:lastmodified":1566641025,
+    "wof:lastmodified":1706240432,
     "wof:name":"El Brasil",
     "wof:parent_id":102078717,
     "wof:placetype":"locality",
     "wof:population":125,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209389423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -98.99028,
-    25.89417000000001,
+    25.89417,
     -98.99028,
-    25.89417000000001
+    25.89417
 ],
-  "geometry": {"coordinates":[-98.99028,25.89417000000001],"type":"Point"}
+  "geometry": {"coordinates":[-98.99028,25.89417],"type":"Point"}
 }

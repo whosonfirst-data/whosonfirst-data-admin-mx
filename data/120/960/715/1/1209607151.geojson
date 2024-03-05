@@ -37,12 +37,18 @@
         "Rancho Recaina"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3988889
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8925236
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"42a7ddfd3b72914727332693b824647a",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209607151,
-    "wof:lastmodified":1566626744,
+    "wof:lastmodified":1706240437,
     "wof:name":"Recayna",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310493611
+    ],
     "wof:tags":[]
 },
   "bbox": [

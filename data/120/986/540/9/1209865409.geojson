@@ -35,6 +35,7 @@
         "El Tamarindo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3528071
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8867089
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"496ed54530fe2ffebf10ae31ca430b42",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1209865409,
-    "wof:lastmodified":1566627593,
+    "wof:lastmodified":1706240442,
     "wof:name":"El Tamarindo",
     "wof:parent_id":102077761,
     "wof:placetype":"locality",
+    "wof:population":317,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277034485
+    ],
     "wof:tags":[]
 },
   "bbox": [

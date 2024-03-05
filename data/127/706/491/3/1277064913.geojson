@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-103.35667,25.87139,-103.35667,25.87139",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:jpn_x_preferred":[
         "\u30ca\u30b7\u30aa\u30ca\u30eb\u9280\u884c"
@@ -60,14 +62,16 @@
         }
     ],
     "wof:id":1277064913,
-    "wof:lastmodified":1566622555,
+    "wof:lastmodified":1706240432,
     "wof:name":"Banco Nacional",
     "wof:parent_id":102075497,
     "wof:placetype":"locality",
     "wof:population":1072,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209403031
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

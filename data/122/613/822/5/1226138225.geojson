@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Colorada"
+    ],
+    "name:spa_x_variant":[
+        "San Alfonso"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8910558
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4002831
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ca88c5196078e734050f730a67d06842",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226138225,
-    "wof:lastmodified":1566640778,
+    "wof:lastmodified":1706240453,
     "wof:name":"San Alfonso",
     "wof:parent_id":102075133,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293189413
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Las Papas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8898741
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999410
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b0709cc0cd7ec203197cad30cacc40ed",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1276869803,
-    "wof:lastmodified":1566622669,
+    "wof:lastmodified":1706240505,
     "wof:name":"Las Papas",
     "wof:parent_id":102075305,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327021961
+    ],
     "wof:tags":[]
 },
   "bbox": [

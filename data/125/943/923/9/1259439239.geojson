@@ -37,6 +37,7 @@
         "Mavi"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3825697
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8870995
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"444ab0be9722e04994a5869199017ae1",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259439239,
-    "wof:lastmodified":1566638908,
+    "wof:lastmodified":1706240483,
     "wof:name":"Maby",
     "wof:parent_id":102077093,
     "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260036229
+    ],
     "wof:tags":[]
 },
   "bbox": [

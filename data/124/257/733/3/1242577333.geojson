@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Paive"
+    ],
+    "name:spa_x_variant":[
+        "El Paib\u00e9"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8938875
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9808639
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a66ef276fef565058330d96dd58dee66",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1242577333,
-    "wof:lastmodified":1566634911,
+    "wof:lastmodified":1706240465,
     "wof:name":"El Paibe",
     "wof:parent_id":102079211,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259879647
+    ],
     "wof:tags":[]
 },
   "bbox": [

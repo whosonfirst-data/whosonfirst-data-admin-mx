@@ -41,6 +41,7 @@
         "Nuevo Montecristo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -50,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3816421
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8870962
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fdb381ac0736f6372d3f498f5b4a8242",
@@ -63,13 +69,17 @@
         }
     ],
     "wof:id":1243256701,
-    "wof:lastmodified":1566635683,
+    "wof:lastmodified":1706240476,
     "wof:name":"Montecristo Rio Escondido",
     "wof:parent_id":102075505,
     "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343654913
+    ],
     "wof:tags":[]
 },
   "bbox": [

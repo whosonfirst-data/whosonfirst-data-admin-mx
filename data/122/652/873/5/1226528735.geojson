@@ -37,6 +37,7 @@
         "La Piedra"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,8 +48,13 @@
     "wof:concordances":{
         "gn:id":4026966
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8882152
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"dee80730fae0772e727cbe11adf0b736",
+    "wof:geomhash":"02feb90b00a61407d38c2991cd4d1978",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +65,24 @@
         }
     ],
     "wof:id":1226528735,
-    "wof:lastmodified":1566641309,
+    "wof:lastmodified":1706240460,
     "wof:name":"Piedra de Veliano",
     "wof:parent_id":102073895,
     "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242663941
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -101.30604,
-    17.66352999999999,
+    17.66353,
     -101.30604,
-    17.66352999999999
+    17.66353
 ],
-  "geometry": {"coordinates":[-101.30604,17.66352999999999],"type":"Point"}
+  "geometry": {"coordinates":[-101.30604,17.66353],"type":"Point"}
 }

@@ -37,12 +37,18 @@
         "Rancho Los Charcos"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3997953
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8882098
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"70aa19ac234e926a770abe4957d86cd8",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209065537,
-    "wof:lastmodified":1566625507,
+    "wof:lastmodified":1706240425,
     "wof:name":"Los Charcos",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293251437
+    ],
     "wof:tags":[]
 },
   "bbox": [

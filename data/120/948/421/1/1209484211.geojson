@@ -34,12 +34,18 @@
         "Tlaolantongo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3515389
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818610
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9e50fdfb9ab0fb3cac5a294f40257387",
@@ -50,13 +56,17 @@
         }
     ],
     "wof:id":1209484211,
-    "wof:lastmodified":1566625841,
+    "wof:lastmodified":1706240434,
     "wof:name":"San Pedro Tlaolantongo",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":1004,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226511163
+    ],
     "wof:tags":[]
 },
   "bbox": [

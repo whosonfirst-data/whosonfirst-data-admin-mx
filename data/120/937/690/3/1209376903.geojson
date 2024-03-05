@@ -37,12 +37,18 @@
         "Rancho N\u00famero Uno"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3520556
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8907415
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0d63b13cf6362f80930b67dc58eebfba",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209376903,
-    "wof:lastmodified":1566625642,
+    "wof:lastmodified":1706240431,
     "wof:name":"El Uno",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360050449
+    ],
     "wof:tags":[]
 },
   "bbox": [

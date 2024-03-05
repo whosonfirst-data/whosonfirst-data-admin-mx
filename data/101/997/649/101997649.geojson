@@ -9,8 +9,23 @@
     "geom:bbox":"-104.246224,20.266333,-104.224795,20.282172",
     "geom:latitude":20.273372,
     "geom:longitude":-104.236244,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Atengo",
+    "gn:country_code":"MX",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4018039,
     "gn:id":"4018038,4018039",
+    "gn:latitude":20.26667,
+    "gn:longitude":-104.23333,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Atengo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-104.25333,20.24667,-104.21333,20.28667",
     "lbl:latitude":20.272301,
     "lbl:longitude":-104.236451,
     "lbl:max_zoom":18.0,
@@ -110,6 +125,7 @@
     "name:spa_x_preferred":[
         "Atengo"
     ],
+    "name:spa_x_variant":[],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0410\u0442\u0435\u043d\u0433\u043e"
     ],
@@ -174,6 +190,11 @@
         "qs_pg:id":903345,
         "wd:id":"Q3316715"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4018039
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -189,13 +210,15 @@
         }
     ],
     "wof:id":101997649,
-    "wof:lastmodified":1690847594,
+    "wof:lastmodified":1706240406,
     "wof:name":"Atengo",
     "wof:parent_id":102074815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343431465
+    ],
     "wof:tags":[]
 },
   "bbox": [

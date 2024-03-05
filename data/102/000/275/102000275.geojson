@@ -9,9 +9,22 @@
     "geom:bbox":"-98.207633,20.391442,-98.195159,20.403371",
     "geom:latitude":20.397531,
     "geom:longitude":-98.202208,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"San Bartolo Tutotepec",
+    "gn:country_code":"MX",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3519631,
     "gn:latitude":20.39841,
     "gn:longitude":-98.2008,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Bartolo Tutotepec",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-98.2208,20.37841,-98.1808,20.41841",
     "lbl:latitude":20.399389,
     "lbl:longitude":-98.201263,
     "lbl:max_zoom":18.0,
@@ -78,6 +91,10 @@
     "name:swe_x_preferred":[
         "San Bartolo Tutotepec"
     ],
+    "name:und_x_variant":[
+        "Tutotepec",
+        "San Bartolo"
+    ],
     "name:vec_x_preferred":[
         "San Bartolo Tutotepec"
     ],
@@ -117,6 +134,14 @@
         "wd:id":"Q3845555",
         "wk:page":"San Bartolo Tutotepec"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3519631
+        ],
+        "wk:page":[
+            "San_Bartolo_Tutotepec"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -135,13 +160,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690846914,
+    "wof:lastmodified":1706240413,
     "wof:name":"San Bartolo Tutotepec",
     "wof:parent_id":102078545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259667401
+    ],
     "wof:tags":[]
 },
   "bbox": [

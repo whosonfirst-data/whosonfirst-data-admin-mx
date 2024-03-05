@@ -30,6 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Pino Abeto"
+    ],
+    "name:spa_x_variant":[
+        "Santa Ana Pinabeto"
+    ],
+    "name:und_x_variant":[
+        "Pinabete"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8869500
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3521444
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3ca52b88c4e8e841883dd28301febd65",
@@ -54,7 +68,7 @@
         }
     ],
     "wof:id":1293876755,
-    "wof:lastmodified":1566622054,
+    "wof:lastmodified":1706240518,
     "wof:name":"Santa Ana Pinabeto",
     "wof:parent_id":102075727,
     "wof:placetype":"locality",
@@ -62,7 +76,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360283293
+    ],
     "wof:tags":[]
 },
   "bbox": [

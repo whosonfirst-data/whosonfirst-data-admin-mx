@@ -34,6 +34,7 @@
         "Aguacatillo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3533292
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8865677
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"29b1a376555ab8761887aa41177edb28",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226202205,
-    "wof:lastmodified":1566639700,
+    "wof:lastmodified":1706240454,
     "wof:name":"Aguacatillo",
     "wof:parent_id":102077693,
     "wof:placetype":"locality",
+    "wof:population":370,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293638633
+    ],
     "wof:tags":[]
 },
   "bbox": [

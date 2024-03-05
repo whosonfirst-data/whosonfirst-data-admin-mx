@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-101.13347,21.11451,-101.13347,21.11451",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0432\u0438\u043b\u044c\u043e"
@@ -92,12 +94,14 @@
         }
     ],
     "wof:id":1210003979,
-    "wof:lastmodified":1566627603,
+    "wof:lastmodified":1706240441,
     "wof:name":"Calvillo",
     "wof:parent_id":102077347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209802615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

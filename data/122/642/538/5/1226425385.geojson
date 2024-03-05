@@ -34,6 +34,7 @@
         "La Plomosa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4000747
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8889108
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b76b6c706923ec5729abb9161d0ab46c",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226425385,
-    "wof:lastmodified":1566639525,
+    "wof:lastmodified":1706240459,
     "wof:name":"La Plomosa",
     "wof:parent_id":102074861,
     "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343531857
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":3827209
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827215
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"b4570119f334676003aada8e64968281",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1293262115,
-    "wof:lastmodified":1566622286,
+    "wof:lastmodified":1706240512,
     "wof:name":"San Jose las Lomas",
     "wof:parent_id":102074047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343234757
+    ],
     "wof:tags":[]
 },
   "bbox": [

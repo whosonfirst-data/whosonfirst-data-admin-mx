@@ -37,6 +37,7 @@
         "Lagunita"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4028807
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8900157
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a32d6c39c346fdc97086303bc0365883",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226208053,
-    "wof:lastmodified":1566639710,
+    "wof:lastmodified":1706240454,
     "wof:name":"Lagunitas de Ventanas",
     "wof:parent_id":102074567,
     "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343923603
+    ],
     "wof:tags":[]
 },
   "bbox": [

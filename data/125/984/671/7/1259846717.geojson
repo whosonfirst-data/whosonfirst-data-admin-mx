@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "Colonos del Norte"
     ],
+    "name:spa_x_variant":[
+        "La Norte"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8762807
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4001087
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e6b4981fe54830ee75f52bf9d76cda02",
@@ -56,13 +64,15 @@
         }
     ],
     "wof:id":1259846717,
-    "wof:lastmodified":1566637807,
+    "wof:lastmodified":1706240490,
     "wof:name":"Colonos del Norte",
     "wof:parent_id":102074513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292948759
+    ],
     "wof:tags":[]
 },
   "bbox": [

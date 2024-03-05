@@ -34,6 +34,7 @@
         "Piedra Redonda"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9633693
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8919202
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8810940c60eb6dbe8b576e6d2abd6847",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1243552413,
-    "wof:lastmodified":1566634635,
+    "wof:lastmodified":1706240481,
     "wof:name":"Piedra Redonda",
     "wof:parent_id":102075727,
     "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310699453
+    ],
     "wof:tags":[]
 },
   "bbox": [

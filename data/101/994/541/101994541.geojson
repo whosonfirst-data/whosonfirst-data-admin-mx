@@ -9,8 +9,23 @@
     "geom:bbox":"-92.358838,16.7679,-92.33166,16.798971",
     "geom:latitude":16.784143,
     "geom:longitude":-92.343863,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"64.0",
+    "gn:asciiname":"Oxchuc",
+    "gn:country_code":"MX",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3816214,
     "gn:id":"3816214,3522256",
+    "gn:latitude":16.79167,
+    "gn:longitude":-92.33889,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Oxchuc",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-92.35889,16.77167,-92.31889,16.81167",
     "lbl:latitude":16.783272,
     "lbl:longitude":-92.341801,
     "lbl:max_zoom":18.0,
@@ -108,6 +123,11 @@
         "qs_pg:id":22851,
         "wd:id":"Q1953078"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816214
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -123,13 +143,15 @@
         }
     ],
     "wof:id":101994541,
-    "wof:lastmodified":1690847925,
+    "wof:lastmodified":1706240399,
     "wof:name":"Oxchuc",
     "wof:parent_id":102075719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193130295
+    ],
     "wof:tags":[]
 },
   "bbox": [

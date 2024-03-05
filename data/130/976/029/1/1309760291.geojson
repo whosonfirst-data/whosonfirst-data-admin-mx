@@ -40,6 +40,7 @@
         "Los Tres Reyes"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9808616
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8916305
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3bcff49a6c8666ab927b0d49aeca222c",
@@ -62,13 +68,17 @@
         }
     ],
     "wof:id":1309760291,
-    "wof:lastmodified":1566633399,
+    "wof:lastmodified":1706240519,
     "wof:name":"Los Tres Reyes",
     "wof:parent_id":102075797,
     "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326491777
+    ],
     "wof:tags":[]
 },
   "bbox": [

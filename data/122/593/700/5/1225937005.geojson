@@ -37,6 +37,7 @@
         "Jeshbot\u00edc"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,8 +48,13 @@
     "wof:concordances":{
         "gn:id":9628023
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8865637
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"ce6d8240942d9e85bb6aad47eae94eac",
+    "wof:geomhash":"c1c6bbf23779701f233a8ff1686caf8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +65,24 @@
         }
     ],
     "wof:id":1225937005,
-    "wof:lastmodified":1566639070,
+    "wof:lastmodified":1706240449,
     "wof:name":"Jeshbotic",
     "wof:parent_id":102075591,
     "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310198173
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -92.7325,
-    16.79047000000001,
+    16.79047,
     -92.7325,
-    16.79047000000001
+    16.79047
 ],
-  "geometry": {"coordinates":[-92.7325,16.79047000000001],"type":"Point"}
+  "geometry": {"coordinates":[-92.7325,16.79047],"type":"Point"}
 }

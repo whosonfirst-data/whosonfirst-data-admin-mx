@@ -38,6 +38,7 @@
         "La Constancia"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3525944
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8860181
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3c8c659a51dedc6abbfb76fdc033859c",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1259833803,
-    "wof:lastmodified":1566637772,
+    "wof:lastmodified":1706240489,
     "wof:name":"Constancia y Venecia",
     "wof:parent_id":102075793,
     "wof:placetype":"locality",
+    "wof:population":923,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326484501
+    ],
     "wof:tags":[]
 },
   "bbox": [

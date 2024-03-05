@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":3791946
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3529345
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a5748fa377749514434620edfb5a790e",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1242742907,
-    "wof:lastmodified":1566634678,
+    "wof:lastmodified":1706240467,
     "wof:name":"El Calabozo",
     "wof:parent_id":102078709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293451647
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -58,6 +58,7 @@
         "Agua Blanca"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,6 +68,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4019654
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8874396
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3b22333ccec5ece88bbae5cfe29d92aa",
@@ -80,13 +86,17 @@
         }
     ],
     "wof:id":1259753665,
-    "wof:lastmodified":1566638963,
+    "wof:lastmodified":1706240487,
     "wof:name":"Agua Blanca",
     "wof:parent_id":102074693,
     "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260253065
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
     "geom:area_square_m":843096.045307,
-    "geom:bbox":"-99.1199491903,19.4898967328,-99.1097009894,19.5032317613",
+    "geom:bbox":"-99.119949,19.489897,-99.109701,19.503232",
     "geom:latitude":19.496171,
     "geom:longitude":-99.115021,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.123834,19.486373,-99.113834,19.496373",
     "lbl:latitude":19.49184,
     "lbl:longitude":-99.11705,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Rosas Del Tepeyac"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Rosas Del Tepeyac",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1342681,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55904054,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,8 +90,16 @@
         "gp:id":55904054,
         "qs_pg:id":1342681
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55904054
+        ],
+        "qs_pg:id":[
+            1342681
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"03adafcbf910a57cd362f6c1d3a442f0",
+    "wof:geomhash":"14e84cf60de8d889d5bcedf17024adca",
     "wof:hierarchy":[
         {
             "borough_id":890535763,
@@ -95,20 +124,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619586,
+    "wof:lastmodified":1706240382,
     "wof:name":"Rosas Del Tepeyac",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126063019
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.11994919033162,
-    19.48989673275034,
-    -99.1097009894367,
-    19.50323176129298
+    -99.119949,
+    19.489897,
+    -99.109701,
+    19.503232
 ],
-  "geometry": {"coordinates":[[[-99.11865234380005,19.48989673715332],[-99.11913558566764,19.48989673275034],[-99.11994919033162,19.49248588477539],[-99.11994915128153,19.49248592620003],[-99.11865234379269,19.49386158988425],[-99.11865234378325,19.49766412670041],[-99.11865234380005,19.49766416810002],[-99.11865230474942,19.49766416810002],[-99.1137712037962,19.50284220295015],[-99.11303677723123,19.50323176129298],[-99.1097009894367,19.49615433114002],[-99.11121388648337,19.49454945076947],[-99.11315917969992,19.49386158992404],[-99.11315917969992,19.49248592620003],[-99.11590576171463,19.49248592620003],[-99.11590576171375,19.48989673735022],[-99.11865234380005,19.48989673715332]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.118652,19.489897],[-99.119136,19.489897],[-99.11994900000001,19.492486],[-99.11994900000001,19.492486],[-99.118652,19.493862],[-99.118652,19.497664],[-99.118652,19.497664],[-99.118652,19.497664],[-99.113771,19.502842],[-99.11303700000001,19.503232],[-99.109701,19.496154],[-99.111214,19.494549],[-99.113159,19.493862],[-99.113159,19.492486],[-99.115906,19.492486],[-99.115906,19.489897],[-99.118652,19.489897]]],"type":"Polygon"}
 }

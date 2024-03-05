@@ -9,7 +9,22 @@
     "geom:bbox":"-97.794971,18.866056,-97.766223,18.895802",
     "geom:latitude":18.879824,
     "geom:longitude":-97.781557,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"154.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"MX",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3818868,
+    "gn:latitude":18.87704,
+    "gn:longitude":-97.78122,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.80122,18.85704,-97.76122,18.89704",
     "lbl:latitude":18.87862,
     "lbl:longitude":-97.781554,
     "lbl:max_zoom":18.0,
@@ -157,6 +172,11 @@
         "gp:id":146840,
         "qs_pg:id":1019775
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818868
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -172,13 +192,15 @@
         }
     ],
     "wof:id":101999829,
-    "wof:lastmodified":1636493544,
+    "wof:lastmodified":1706240412,
     "wof:name":"Santa Rosa",
     "wof:parent_id":102078325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292959495
+    ],
     "wof:tags":[]
 },
   "bbox": [

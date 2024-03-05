@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Rancho Manca\u00f1al"
+    ],
+    "name:spa_x_variant":[
+        "Corral Prieto",
+        "El Monca\u00f1al"
+    ],
     "name:und_x_variant":[
         "Rancho Manca\u00f1al"
     ],
@@ -45,6 +52,11 @@
     "wof:concordances":{
         "gn:id":8909861
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3825889
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"ebee04dcf617198211b7308b42daad22",
     "wof:hierarchy":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1226807491,
-    "wof:lastmodified":1566639556,
+    "wof:lastmodified":1706240464,
     "wof:name":"Rancho Mancanal",
     "wof:parent_id":102077113,
     "wof:placetype":"locality",
@@ -65,7 +77,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259741627
+    ],
     "wof:tags":[]
 },
   "bbox": [

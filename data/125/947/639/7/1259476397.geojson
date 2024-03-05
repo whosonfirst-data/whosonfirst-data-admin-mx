@@ -81,6 +81,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041b\u044e\u0447\u0438\u044f"
     ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
     "name:swe_x_preferred":[
         "Lucias\u00e5ngen"
     ],
@@ -108,8 +111,13 @@
     "wof:concordances":{
         "gn:id":8903277
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3517385
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"f7cb728873d7abd4ef60206601eebf9c",
+    "wof:geomhash":"cb4f64912cf415e1fdf4ac96eb3cf0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +128,7 @@
         }
     ],
     "wof:id":1259476397,
-    "wof:lastmodified":1566637958,
+    "wof:lastmodified":1706240484,
     "wof:name":"Santa Lucia",
     "wof:parent_id":102075655,
     "wof:placetype":"locality",
@@ -128,14 +136,16 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343559741
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -92.94639,
-    16.14777999999999,
+    16.14778,
     -92.94639,
-    16.14777999999999
+    16.14778
 ],
-  "geometry": {"coordinates":[-92.94638999999999,16.14777999999999],"type":"Point"}
+  "geometry": {"coordinates":[-92.94638999999999,16.14778],"type":"Point"}
 }

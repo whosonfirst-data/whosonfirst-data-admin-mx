@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":11236578
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11236902
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"85862da90d4e80d550238f9e8be7d838",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1193135791,
-    "wof:lastmodified":1566628024,
+    "wof:lastmodified":1706240422,
     "wof:name":"Monte Bonito",
     "wof:parent_id":102075595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327132959
+    ],
     "wof:tags":[]
 },
   "bbox": [

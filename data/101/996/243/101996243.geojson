@@ -9,7 +9,22 @@
     "geom:bbox":"-94.527206,16.330202,-94.505832,16.343373",
     "geom:latitude":16.337024,
     "geom:longitude":-94.516875,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"141.0",
+    "gn:asciiname":"San Francisco del Mar",
+    "gn:country_code":"MX",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3801981,
+    "gn:latitude":16.33987,
+    "gn:longitude":-94.51529,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Francisco del Mar",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-94.53529,16.31987,-94.49529,16.35987",
     "lbl:latitude":16.337038,
     "lbl:longitude":-94.516877,
     "lbl:max_zoom":18.0,
@@ -102,6 +117,14 @@
         "wd:id":"Q12354866",
         "wk:page":"San Francisco del Mar"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801981
+        ],
+        "wk:page":[
+            "San_Francisco_del_Mar"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -117,13 +140,15 @@
         }
     ],
     "wof:id":101996243,
-    "wof:lastmodified":1690847507,
+    "wof:lastmodified":1706240403,
     "wof:name":"San Francisco del Mar",
     "wof:parent_id":102075825,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243528567
+    ],
     "wof:tags":[]
 },
   "bbox": [

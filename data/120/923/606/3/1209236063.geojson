@@ -12,6 +12,7 @@
     "gn:admin1_code":"6",
     "gn:admin2_code":"41.0",
     "gn:asciiname":"San Jose",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":1368,
     "gn:feature_class":"P",
@@ -69,16 +70,26 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
     ],
+    "name:und_x_variant":[
+        "San Jos\u00e9 de Arriba",
+        "San Jos\u00e9"
+    ],
     "name:vie_x_preferred":[
         "San Jose"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3986392
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3986393
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8cd1772f553fb1e685361eac95cfc07e",
@@ -89,13 +100,17 @@
         }
     ],
     "wof:id":1209236063,
-    "wof:lastmodified":1636492981,
+    "wof:lastmodified":1706240428,
     "wof:name":"San Jose",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226434449
+    ],
     "wof:tags":[]
 },
   "bbox": [

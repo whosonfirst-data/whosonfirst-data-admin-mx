@@ -30,6 +30,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "San Andr\u00e9s Cohamiata"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Cohamiata"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0410\u043d\u0434\u0440\u0435\u0441 \u041a\u043e\u0430\u043c\u0438\u0458\u0430\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s Cohamiata"
+    ],
     "name:und_x_variant":[
         "San Andr\u00e9s Cohamiata"
     ],
@@ -43,7 +55,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8859279
+        "gn:id":8859279,
+        "wk:page":"San_Andr%C3%A9s_Cohamiata"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3987927
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"38874756d7e8229b0dc124ed6e03b8c2",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1259852959,
-    "wof:lastmodified":1566637982,
+    "wof:lastmodified":1706240490,
     "wof:name":"San Andres Cohamiata",
     "wof:parent_id":102074613,
     "wof:placetype":"locality",
@@ -65,7 +83,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310484751
+    ],
     "wof:tags":[]
 },
   "bbox": [

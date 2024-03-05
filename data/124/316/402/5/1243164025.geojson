@@ -39,6 +39,9 @@
     "name:swe_x_preferred":[
         "El Arco"
     ],
+    "name:und_x_variant":[
+        "Rancho del Arco"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8940377
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4018309
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"728c739df5da234aef780b3b3f1b91a3",
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":1243164025,
-    "wof:lastmodified":1566636836,
+    "wof:lastmodified":1706240474,
     "wof:name":"El Arco",
     "wof:parent_id":102075225,
     "wof:placetype":"locality",
@@ -71,7 +79,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293710773
+    ],
     "wof:tags":[]
 },
   "bbox": [

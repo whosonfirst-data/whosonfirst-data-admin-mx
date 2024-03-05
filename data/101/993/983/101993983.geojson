@@ -9,8 +9,22 @@
     "geom:bbox":"-111.084742,28.987584,-110.893232,29.175212",
     "geom:latitude":29.083229,
     "geom:longitude":-110.976592,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Hermosillo",
+    "gn:country_code":"MX",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":4004898,
+    "gn:latitude":29.1026,
+    "gn:longitude":-110.97732,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Hermosillo",
     "gn:population":595811,
+    "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-110.99732,29.0826,-110.95732,29.1226",
     "lbl:latitude":29.08663,
     "lbl:longitude":-110.961245,
     "lbl:max_zoom":13.0,
@@ -171,6 +185,9 @@
         "Hermosillo"
     ],
     "name:nob_x_preferred":[
+        "Hermosillo"
+    ],
+    "name:nor_x_preferred":[
         "Hermosillo"
     ],
     "name:pol_x_preferred":[
@@ -404,7 +421,15 @@
         "wk:page":"Hermosillo"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1047618
+        "gn:id":[
+            4004898
+        ],
+        "qs_pg:id":[
+            1047618
+        ],
+        "wk:page":[
+            "Hermosillo"
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -424,7 +449,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847825,
+    "wof:lastmodified":1706240396,
     "wof:name":"Hermosillo",
     "wof:parent_id":102074513,
     "wof:placetype":"locality",
@@ -432,7 +457,9 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259350125
+    ],
     "wof:tags":[]
 },
   "bbox": [

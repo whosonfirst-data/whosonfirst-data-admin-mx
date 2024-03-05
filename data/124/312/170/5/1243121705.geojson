@@ -71,6 +71,11 @@
     "wof:concordances":{
         "gn:id":8724047
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8724045
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a55100b2f4b691db45fbe0249316c952",
     "wof:hierarchy":[
@@ -83,13 +88,15 @@
         }
     ],
     "wof:id":1243121705,
-    "wof:lastmodified":1566635463,
+    "wof:lastmodified":1706240473,
     "wof:name":"El Capricho",
     "wof:parent_id":102077827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276813805
+    ],
     "wof:tags":[]
 },
   "bbox": [

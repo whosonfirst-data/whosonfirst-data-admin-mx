@@ -33,6 +33,12 @@
     "name:spa_x_preferred":[
         "San Pablo Lachiriega"
     ],
+    "name:und_x_variant":[
+        "San Pablo",
+        "Lachierriega",
+        "Lachiriega",
+        "San Pablo Lachiriega"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3801690
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3526028
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"515a2fbec31f1d81658cf1d74108525f",
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1226206977,
-    "wof:lastmodified":1566639733,
+    "wof:lastmodified":1706240454,
     "wof:name":"San Pablo Lachiriega",
     "wof:parent_id":102076517,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293563225
+    ],
     "wof:tags":[]
 },
   "bbox": [

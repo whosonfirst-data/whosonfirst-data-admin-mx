@@ -69,6 +69,11 @@
     "wof:concordances":{
         "gn:id":3821542
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3525642
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"854bca5a224088e655afdb2b4dac4c4c",
     "wof:hierarchy":[
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1209902707,
-    "wof:lastmodified":1566625737,
+    "wof:lastmodified":1706240443,
     "wof:name":"Lagunillas",
     "wof:parent_id":102073781,
     "wof:placetype":"locality",
@@ -89,7 +94,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326716713
+    ],
     "wof:tags":[]
 },
   "bbox": [

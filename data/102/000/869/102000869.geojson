@@ -9,10 +9,22 @@
     "geom:bbox":"-101.56246,27.040209,-101.514817,27.079233",
     "geom:latitude":27.0587,
     "geom:longitude":-101.542334,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"San Buenaventura",
+    "gn:country_code":"MX",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3987500,
     "gn:latitude":27.06193,
     "gn:longitude":-101.54891,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"San Buenaventura",
     "gn:population":18822,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-101.56891,27.04193,-101.52891,27.08193",
     "lbl:latitude":27.058161,
     "lbl:longitude":-101.543965,
     "lbl:max_zoom":15.0,
@@ -89,7 +101,15 @@
         "wk:page":"San Buenaventura, Coahuila"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":665173
+        "gn:id":[
+            3987500
+        ],
+        "qs_pg:id":[
+            665173
+        ],
+        "wk:page":[
+            "San_Buenaventura%2C_Coahuila"
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -109,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690846917,
+    "wof:lastmodified":1706240415,
     "wof:name":"San Buenaventura",
     "wof:parent_id":102078809,
     "wof:placetype":"locality",
@@ -117,7 +137,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226227893
+    ],
     "wof:tags":[]
 },
   "bbox": [

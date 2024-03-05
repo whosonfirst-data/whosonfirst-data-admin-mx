@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Estanco"
+    ],
+    "name:und_x_variant":[
+        "Estanco",
+        "Estanco Viejo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8861153
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4006428
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"304f20edec5798332dfdc9eed0807cf1",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293462471,
-    "wof:lastmodified":1566620441,
+    "wof:lastmodified":1706240514,
     "wof:name":"El Estanco",
     "wof:parent_id":102073971,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327306677
+    ],
     "wof:tags":[]
 },
   "bbox": [

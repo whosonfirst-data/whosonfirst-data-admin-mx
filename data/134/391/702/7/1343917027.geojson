@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-96.5831,16.95627,-96.5831,16.95627",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Cruz Papalutla"
@@ -83,12 +85,14 @@
         }
     ],
     "wof:id":1343917027,
-    "wof:lastmodified":1566616379,
+    "wof:lastmodified":1706240390,
     "wof:name":"Santa Cruz Papalutla",
     "wof:parent_id":102076015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101992323
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

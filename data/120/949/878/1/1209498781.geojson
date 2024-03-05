@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "El Veinte"
     ],
+    "name:und_x_variant":[
+        "El Viente"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3813829
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3527941
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"140e98246ec066acc43d8adc4b1ab7eb",
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":1209498781,
-    "wof:lastmodified":1566626293,
+    "wof:lastmodified":1706240435,
     "wof:name":"El Veinte",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -59,7 +67,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209799097
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-97.04749,16.56173,-97.04749,16.56173",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tierra Blanca"
@@ -66,7 +68,7 @@
         "gn:id":3800750
     },
     "wof:country":"MX",
-    "wof:geomhash":"58d1dedd028a060b41790dfffa1d9f2a",
+    "wof:geomhash":"84495c7490024f5579eba7e56847c57d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,20 +79,22 @@
         }
     ],
     "wof:id":1310067257,
-    "wof:lastmodified":1566630451,
+    "wof:lastmodified":1706240421,
     "wof:name":"Tierra Blanca",
     "wof:parent_id":102076721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193111401
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -97.04749,
-    16.56172999999999,
+    16.56173,
     -97.04749,
-    16.56172999999999
+    16.56173
 ],
-  "geometry": {"coordinates":[-97.04749,16.56172999999999],"type":"Point"}
+  "geometry": {"coordinates":[-97.04749,16.56173],"type":"Point"}
 }

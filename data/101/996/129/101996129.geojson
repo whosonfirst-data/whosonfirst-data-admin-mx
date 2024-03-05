@@ -9,8 +9,23 @@
     "geom:bbox":"-97.95507,17.432461,-97.930836,17.449825",
     "geom:latitude":17.44091,
     "geom:longitude":-97.944008,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"528.0",
+    "gn:asciiname":"Santos Reyes Tepejillo",
+    "gn:country_code":"MX",
+    "gn:dem":1952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3516831,
     "gn:id":"3800945,3516831",
+    "gn:latitude":17.43782,
+    "gn:longitude":-97.93845,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Santos Reyes Tepejillo",
+    "gn:population":1136,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.95845,17.41782,-97.91845,17.45782",
     "lbl:latitude":17.440713,
     "lbl:longitude":-97.943821,
     "lbl:max_zoom":18.0,
@@ -62,6 +77,9 @@
     "name:swe_x_preferred":[
         "Santos Reyes Tepejillo"
     ],
+    "name:und_x_variant":[
+        "Tepejillo"
+    ],
     "name:vie_x_preferred":[
         "Santos Reyes Tepejillo"
     ],
@@ -81,6 +99,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -89,6 +108,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3516831,
         "wd:id":"Q3888145"
     },
     "wof:country":"MX",
@@ -103,13 +123,17 @@
         }
     ],
     "wof:id":101996129,
-    "wof:lastmodified":1690847517,
+    "wof:lastmodified":1706240402,
     "wof:name":"Santos Reyes Tepejillo",
     "wof:parent_id":102076221,
     "wof:placetype":"locality",
+    "wof:population":1136,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343236193
+    ],
     "wof:tags":[]
 },
   "bbox": [

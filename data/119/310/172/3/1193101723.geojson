@@ -30,11 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:spa_x_preferred":[
+        "Santa Catarina Cuanan\u00e1"
+    ],
     "name:und_x_variant":[
         "Cuanana",
         "Santa Catarina Cuanan\u00e1"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3530038
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3800703
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ef48a5b052afef62d580d7982fc45700",
@@ -57,13 +66,17 @@
         }
     ],
     "wof:id":1193101723,
-    "wof:lastmodified":1566628424,
+    "wof:lastmodified":1706240421,
     "wof:name":"Santa Catarina Cuanana",
     "wof:parent_id":102076197,
     "wof:placetype":"locality",
+    "wof:population":685,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242934687
+    ],
     "wof:tags":[]
 },
   "bbox": [

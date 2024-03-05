@@ -35,6 +35,7 @@
         "Zapi\u00e9n"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3979772
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3983431
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7f0e9c832bde846429d731a1795069e6",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1293314235,
-    "wof:lastmodified":1566619905,
+    "wof:lastmodified":1706240513,
     "wof:name":"Sapien",
     "wof:parent_id":102075285,
     "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343553375
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"-106.556972,25.120158,-106.540989,25.129199",
     "geom:latitude":25.12489,
     "geom:longitude":-106.54827,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Canelas",
+    "gn:country_code":"MX",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":4015640,
     "gn:id":"4015640,4015641",
+    "gn:latitude":25.12341,
+    "gn:longitude":-106.54622,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Canelas",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-106.56622,25.10341,-106.52622,25.14341",
     "lbl:latitude":25.125587,
     "lbl:longitude":-106.547723,
     "lbl:max_zoom":18.0,
@@ -23,10 +38,19 @@
     "name:ceb_x_preferred":[
         "Canelas"
     ],
+    "name:deu_x_preferred":[
+        "Canelas"
+    ],
     "name:eng_x_preferred":[
         "Canelas"
     ],
     "name:epo_x_preferred":[
+        "Canelas"
+    ],
+    "name:fra_x_preferred":[
+        "Canelas"
+    ],
+    "name:glg_x_preferred":[
         "Canelas"
     ],
     "name:hin_x_preferred":[
@@ -38,6 +62,9 @@
     "name:por_x_preferred":[
         "Canelas"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u043b\u0430\u0448"
+    ],
     "name:spa_x_preferred":[
         "Canelas"
     ],
@@ -45,6 +72,12 @@
         "\u041a\u0430\u043d\u0435\u043b\u0430\u0441"
     ],
     "name:swe_x_preferred":[
+        "Canelas"
+    ],
+    "name:tur_x_preferred":[
+        "Canelas"
+    ],
+    "name:vie_x_preferred":[
         "Canelas"
     ],
     "qs:a0":"Mexico",
@@ -71,6 +104,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":4015640,
         "gp:id":114654,
         "wd:id":"Q11680498"
     },
@@ -86,13 +120,15 @@
         }
     ],
     "wof:id":101992991,
-    "wof:lastmodified":1690847757,
+    "wof:lastmodified":1706240392,
     "wof:name":"Canelas",
     "wof:parent_id":102075153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343549657
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,12 +43,18 @@
         "El Banco"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4011037
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859763
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2bb51492f045b36bbcf1a2f0c7e42999",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1209403031,
-    "wof:lastmodified":1566626108,
+    "wof:lastmodified":1706240432,
     "wof:name":"Banco Nacional",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":1072,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277064913
+    ],
     "wof:tags":[]
 },
   "bbox": [

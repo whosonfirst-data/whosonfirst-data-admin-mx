@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-107.34653,26.62052,-107.34653,26.62052",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cueva",
@@ -46,7 +48,7 @@
         "gn:id":4002647
     },
     "wof:country":"MX",
-    "wof:geomhash":"9a11496c4abb7886f4371a90cfc62d54",
+    "wof:geomhash":"5dd94c735d8b5027b5d8718ca8ddf5aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1327027533,
-    "wof:lastmodified":1566614071,
+    "wof:lastmodified":1706240503,
     "wof:name":"La Cueva",
     "wof:parent_id":102075263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276654335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -107.34653,
-    26.62052000000001,
+    26.62052,
     -107.34653,
-    26.62052000000001
+    26.62052
 ],
-  "geometry": {"coordinates":[-107.34653,26.62052000000001],"type":"Point"}
+  "geometry": {"coordinates":[-107.34653,26.62052],"type":"Point"}
 }

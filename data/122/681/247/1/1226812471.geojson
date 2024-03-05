@@ -10,6 +10,7 @@
     "geom:latitude":19.02857,
     "geom:longitude":-99.5571,
     "gn:admin1_code":"17",
+    "gn:admin2_code":"49.0",
     "gn:asciiname":"Maxtleca de Galeana",
     "gn:country_code":"MX",
     "gn:dem":2480,
@@ -33,6 +34,7 @@
         "Maxteca de Galeana"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3817570
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827302
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8b5a787df416bdec3f46f03cfa6f3ee4",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1226812471,
-    "wof:lastmodified":1566639257,
+    "wof:lastmodified":1706240464,
     "wof:name":"Maxtleca de Galeana",
     "wof:parent_id":102073957,
     "wof:placetype":"locality",
+    "wof:population":1124,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309978833
+    ],
     "wof:tags":[]
 },
   "bbox": [

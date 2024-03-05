@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Adjuntas del Refugio"
+    ],
+    "name:und_x_variant":[
+        "Adjuntas",
+        "Las Adjuntas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -38,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8869109
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4000375
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"cad6e5726e85d96c0e475af5239842b6",
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209474061,
-    "wof:lastmodified":1566626184,
+    "wof:lastmodified":1706240434,
     "wof:name":"Adjuntas del Refugio",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -56,7 +68,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260021191
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -121,6 +121,7 @@
         "\u57c3\u723e\u666e\u7f85\u683c\u96f7\u7d22"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -130,6 +131,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3802981
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8923863
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5335c762bc0e47542413c16d3541a989",
@@ -143,13 +149,17 @@
         }
     ],
     "wof:id":1243415671,
-    "wof:lastmodified":1636493782,
+    "wof:lastmodified":1706240477,
     "wof:name":"El Progreso",
     "wof:parent_id":102075797,
     "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310648183
+    ],
     "wof:tags":[]
 },
   "bbox": [

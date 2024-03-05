@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":4024919
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4001745
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a5a58b3b107ce0ca99ca6fea24aced5c",
     "wof:hierarchy":[
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":1277056589,
-    "wof:lastmodified":1566623953,
+    "wof:lastmodified":1706240507,
     "wof:name":"Labor de Valtierra",
     "wof:parent_id":102077339,
     "wof:placetype":"locality",
@@ -68,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310678353
+    ],
     "wof:tags":[]
 },
   "bbox": [

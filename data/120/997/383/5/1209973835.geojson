@@ -177,6 +177,11 @@
     "wof:concordances":{
         "gn:id":3984736
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3984735
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"b4c5e294ec5702eefcc8a393ae30f1c7",
     "wof:hierarchy":[
@@ -189,7 +194,7 @@
         }
     ],
     "wof:id":1209973835,
-    "wof:lastmodified":1636492949,
+    "wof:lastmodified":1706240444,
     "wof:name":"Santa Ana",
     "wof:parent_id":102074323,
     "wof:placetype":"locality",
@@ -197,7 +202,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293056033
+    ],
     "wof:tags":[]
 },
   "bbox": [

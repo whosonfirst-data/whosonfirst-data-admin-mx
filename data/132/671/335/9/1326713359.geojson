@@ -61,6 +61,7 @@
         "\u57c3\u65af\u5766\u8607\u57c3\u62c9"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -70,6 +71,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4006416
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4006417
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4013d350be6dac89b01ea4dc2cf883e5",
@@ -83,13 +89,17 @@
         }
     ],
     "wof:id":1326713359,
-    "wof:lastmodified":1566614315,
+    "wof:lastmodified":1706240528,
     "wof:name":"Estanzuela",
     "wof:parent_id":102074665,
     "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344028483
+    ],
     "wof:tags":[]
 },
   "bbox": [

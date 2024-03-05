@@ -35,6 +35,7 @@
         "El Calabazal"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,8 +46,13 @@
     "wof:concordances":{
         "gn:id":4010805
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4027024
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"2fe35b30c20111408440ac4a0886c303",
+    "wof:geomhash":"0a767abc1278c86ea67d1fa764c11f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,20 +63,24 @@
         }
     ],
     "wof:id":1193254979,
-    "wof:lastmodified":1566628072,
+    "wof:lastmodified":1706240423,
     "wof:name":"El Calabazal",
     "wof:parent_id":102073943,
     "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327420325
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -101.49198,
-    17.70931000000001,
+    17.70931,
     -101.49198,
-    17.70931000000001
+    17.70931
 ],
-  "geometry": {"coordinates":[-101.49198,17.70931000000001],"type":"Point"}
+  "geometry": {"coordinates":[-101.49198,17.70931],"type":"Point"}
 }

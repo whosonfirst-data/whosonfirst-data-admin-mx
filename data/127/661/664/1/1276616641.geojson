@@ -37,6 +37,7 @@
         "Jazmincito"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4028709
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8865448
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d36ffec79e1795e620423208110f9e17",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276616641,
-    "wof:lastmodified":1566623672,
+    "wof:lastmodified":1706240502,
     "wof:name":"Jazmin del Coquito",
     "wof:parent_id":102074565,
     "wof:placetype":"locality",
+    "wof:population":380,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360247611
+    ],
     "wof:tags":[]
 },
   "bbox": [

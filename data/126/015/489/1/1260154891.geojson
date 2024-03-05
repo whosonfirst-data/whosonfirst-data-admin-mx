@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-95.27111,17.57778,-95.27111,17.57778",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tierra Nueva"
@@ -51,7 +53,7 @@
         "gn:id":3801463
     },
     "wof:country":"MX",
-    "wof:geomhash":"fffc566b36deadbe83513086953a1a2a",
+    "wof:geomhash":"694711bc5b5d6c18788590ba29bdd37f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1260154891,
-    "wof:lastmodified":1566628617,
+    "wof:lastmodified":1706240467,
     "wof:name":"Tierra Nueva",
     "wof:parent_id":102076621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1242727305
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -95.27111,
-    17.57777999999999,
+    17.57778,
     -95.27111,
-    17.57777999999999
+    17.57778
 ],
-  "geometry": {"coordinates":[-95.27110999999999,17.57777999999999],"type":"Point"}
+  "geometry": {"coordinates":[-95.27110999999999,17.57778],"type":"Point"}
 }

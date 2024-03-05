@@ -9,7 +9,22 @@
     "geom:bbox":"-107.784356,29.629908,-107.744455,29.661833",
     "geom:latitude":29.64465,
     "geom:longitude":-107.762973,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Ignacio Zaragoza",
+    "gn:country_code":"MX",
+    "gn:dem":2013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3975344,
+    "gn:latitude":29.64248,
+    "gn:longitude":-107.76375,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ignacio Zaragoza",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-107.78375,29.62248,-107.74375,29.66248",
     "lbl:latitude":29.642793,
     "lbl:longitude":-107.761674,
     "lbl:max_zoom":18.0,
@@ -117,6 +132,14 @@
         "wd:id":"Q2991362",
         "wk:page":"Ignacio Zaragoza Municipality"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3975344
+        ],
+        "wk:page":[
+            "Ignacio_Zaragoza_Municipality"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -132,13 +155,15 @@
         }
     ],
     "wof:id":101994227,
-    "wof:lastmodified":1690847871,
+    "wof:lastmodified":1706240398,
     "wof:name":"Ignacio Zaragoza",
     "wof:parent_id":102075337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209713097
+    ],
     "wof:tags":[]
 },
   "bbox": [

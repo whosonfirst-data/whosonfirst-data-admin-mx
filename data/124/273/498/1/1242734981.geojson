@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Ranchito"
+    ],
+    "name:und_x_variant":[
+        "Jacopo",
+        "Jacopa"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3976506
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4004196
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"488c6f20d24812b4404792fd9bc817a1",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242734981,
-    "wof:lastmodified":1566634697,
+    "wof:lastmodified":1706240467,
     "wof:name":"El Ranchito",
     "wof:parent_id":102074331,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243025177
+    ],
     "wof:tags":[]
 },
   "bbox": [

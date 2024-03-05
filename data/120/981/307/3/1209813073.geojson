@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Bahuechi"
+    ],
+    "name:spa_x_variant":[
+        "Huic\u00f3rachi"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8884704
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8994973
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5026cdb9758e1ab63526e21f31ceb567",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1209813073,
-    "wof:lastmodified":1566627519,
+    "wof:lastmodified":1706240442,
     "wof:name":"Huicorachi",
     "wof:parent_id":102075259,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309897921
+    ],
     "wof:tags":[]
 },
   "bbox": [

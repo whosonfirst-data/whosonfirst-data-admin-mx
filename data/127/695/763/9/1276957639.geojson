@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3813277
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3813264
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"61d70a798cd7832de3f5f64addfade4b",
     "wof:hierarchy":[
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1276957639,
-    "wof:lastmodified":1566623686,
+    "wof:lastmodified":1706240506,
     "wof:name":"Texopich",
     "wof:parent_id":102078559,
     "wof:placetype":"locality",
@@ -65,7 +70,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343745619
+    ],
     "wof:tags":[]
 },
   "bbox": [

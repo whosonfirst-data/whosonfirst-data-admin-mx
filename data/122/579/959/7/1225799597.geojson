@@ -33,6 +33,10 @@
     "name:spa_x_preferred":[
         "El Centrito"
     ],
+    "name:und_x_variant":[
+        "El Centro",
+        "Centro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8761744
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4014846
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"936d8ca91d9ebf057b7856cbd3538928",
@@ -56,13 +65,15 @@
         }
     ],
     "wof:id":1225799597,
-    "wof:lastmodified":1566641918,
+    "wof:lastmodified":1706240445,
     "wof:name":"El Centrito",
     "wof:parent_id":102074513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226196737
+    ],
     "wof:tags":[]
 },
   "bbox": [

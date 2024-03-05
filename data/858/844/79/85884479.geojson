@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
     "geom:area_square_m":350946.400147,
-    "geom:bbox":"-99.1845703125,19.2958547249,-99.1777788625,19.3033670141",
+    "geom:bbox":"-99.18457,19.295855,-99.177779,19.303367",
     "geom:latitude":19.300614,
     "geom:longitude":-99.180748,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.1867075,19.296666,-99.1767075,19.306666",
     "lbl:latitude":19.302028,
     "lbl:longitude":-99.181595,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Pena Pobre"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Pena Pobre",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":106,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":106,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1342676,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903999,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,8 +90,16 @@
         "gp:id":55903999,
         "qs_pg:id":1342676
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55903999
+        ],
+        "qs_pg:id":[
+            1342676
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"ab4a0b8e2f060ba0b40525dfa7aee52b",
+    "wof:geomhash":"a0f050a061524c046192d2a1dbb41863",
     "wof:hierarchy":[
         {
             "borough_id":890535779,
@@ -95,20 +124,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619590,
+    "wof:lastmodified":1706240381,
     "wof:name":"Pena Pobre",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126098593
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.18457031249997,
-    19.29585472489374,
-    -99.17777886251048,
-    19.30336701409175
+    -99.18457,
+    19.295855,
+    -99.177779,
+    19.303367
 ],
-  "geometry": {"coordinates":[[[-99.17907714839993,19.29664808467935],[-99.17932674439305,19.29585472489374],[-99.1797016545803,19.29593416975332],[-99.18182373048535,19.29818258490658],[-99.1818237304843,19.30077481947829],[-99.18457031249997,19.30077482019176],[-99.18457031249997,19.30336701409175],[-99.1818237304833,19.30336701295008],[-99.17907714839993,19.3033670124407],[-99.17859437336568,19.30336700952509],[-99.17777889278946,19.30077482248753],[-99.17777886251048,19.30077478480025],[-99.17907714839993,19.29664808467935]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.17907700000001,19.296648],[-99.179327,19.295855],[-99.17970200000001,19.295934],[-99.18182400000001,19.298183],[-99.18182400000001,19.300775],[-99.18456999999999,19.300775],[-99.18456999999999,19.303367],[-99.18182400000001,19.303367],[-99.17907700000001,19.303367],[-99.178594,19.303367],[-99.177779,19.300775],[-99.177779,19.300775],[-99.17907700000001,19.296648]]],"type":"Polygon"}
 }

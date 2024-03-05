@@ -94,6 +94,7 @@
         "San Isidro"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -103,6 +104,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3986684
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8880102
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"05bfeb301e638673f9bb1124cf3794c7",
@@ -116,13 +122,17 @@
         }
     ],
     "wof:id":1242838213,
-    "wof:lastmodified":1566636264,
+    "wof:lastmodified":1706240468,
     "wof:name":"San Isidro",
     "wof:parent_id":102074939,
     "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310473601
+    ],
     "wof:tags":[]
 },
   "bbox": [

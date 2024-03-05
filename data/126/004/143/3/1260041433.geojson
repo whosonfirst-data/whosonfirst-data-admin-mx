@@ -39,6 +39,7 @@
         "Santa Mar\u00eda Puxmecat\u00e1n"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3517219
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3762752
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8ec1caf8e6f0c3de8b40fe5851717544",
@@ -61,13 +67,17 @@
         }
     ],
     "wof:id":1260041433,
-    "wof:lastmodified":1566629322,
+    "wof:lastmodified":1706240493,
     "wof:name":"Santa Maria Puxmetacan",
     "wof:parent_id":102076411,
     "wof:placetype":"locality",
+    "wof:population":1380,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260363745
+    ],
     "wof:tags":[]
 },
   "bbox": [

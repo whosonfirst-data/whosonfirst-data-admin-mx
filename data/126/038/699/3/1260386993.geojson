@@ -229,6 +229,11 @@
     "wof:concordances":{
         "gn:id":11234047
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11234049
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a91a1ef93c98c407b39651b81d97aaee",
     "wof:hierarchy":[
@@ -241,13 +246,15 @@
         }
     ],
     "wof:id":1260386993,
-    "wof:lastmodified":1566628822,
+    "wof:lastmodified":1706240497,
     "wof:name":"Emiliano Zapata",
     "wof:parent_id":102075509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309801543
+    ],
     "wof:tags":[]
 },
   "bbox": [

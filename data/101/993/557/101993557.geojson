@@ -9,7 +9,22 @@
     "geom:bbox":"-116.964231,32.416168,-116.939839,32.437641",
     "geom:latitude":32.426083,
     "geom:longitude":-116.95313,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"MX",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8599025,
+    "gn:latitude":32.43167,
+    "gn:longitude":-116.95361,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"San Luis",
+    "gn:population":8571,
+    "gn:timezone":"America/Tijuana",
     "iso:country":"MX",
+    "lbl:bbox":"-116.97361,32.41167,-116.93361,32.45167",
     "lbl:latitude":32.427273,
     "lbl:longitude":-116.953319,
     "lbl:max_zoom":18.0,
@@ -151,6 +166,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -162,6 +178,11 @@
         "gn:id":3985665,
         "gp:id":55893175,
         "qs_pg:id":97060
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8599025
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -178,13 +199,17 @@
         }
     ],
     "wof:id":101993557,
-    "wof:lastmodified":1636493548,
+    "wof:lastmodified":1706240395,
     "wof:name":"San Luis",
     "wof:parent_id":102074501,
     "wof:placetype":"locality",
+    "wof:population":8571,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326642847
+    ],
     "wof:tags":[]
 },
   "bbox": [

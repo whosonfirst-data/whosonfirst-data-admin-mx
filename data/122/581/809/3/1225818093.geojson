@@ -37,6 +37,7 @@
         "San Luis Loma Alta"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3827505
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8858848
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a197a562f23b53b916b86258b984953a",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1225818093,
-    "wof:lastmodified":1566640435,
+    "wof:lastmodified":1706240446,
     "wof:name":"Loma Alta Taxhimay",
     "wof:parent_id":102073997,
     "wof:placetype":"locality",
+    "wof:population":1772,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276839831
+    ],
     "wof:tags":[]
 },
   "bbox": [

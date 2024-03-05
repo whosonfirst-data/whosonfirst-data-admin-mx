@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":3802472
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3802474
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"80f302ae85a9b4b5a824c59f6cc39f07",
+    "wof:geomhash":"08a46fec7fab24fbb0013baf1f6ac9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +61,22 @@
         }
     ],
     "wof:id":1343408829,
-    "wof:lastmodified":1566618036,
+    "wof:lastmodified":1706240533,
     "wof:name":"El Pichalito",
     "wof:parent_id":102075801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343522955
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -92.37775,
-    18.13497000000001,
+    18.13497,
     -92.37775,
-    18.13497000000001
+    18.13497
 ],
-  "geometry": {"coordinates":[-92.37775000000001,18.13497000000001],"type":"Point"}
+  "geometry": {"coordinates":[-92.37775000000001,18.13497],"type":"Point"}
 }

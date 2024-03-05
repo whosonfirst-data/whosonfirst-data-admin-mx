@@ -9,7 +9,22 @@
     "geom:bbox":"-94.395795,18.075553,-94.351027,18.109664",
     "geom:latitude":18.09151,
     "geom:longitude":-94.370655,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Mundo Nuevo",
+    "gn:country_code":"MX",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3823979,
+    "gn:latitude":18.08831,
+    "gn:longitude":-94.39024,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Mundo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-94.41024,18.06831,-94.37024,18.10831",
     "lbl:latitude":18.090659,
     "lbl:longitude":-94.366909,
     "lbl:max_zoom":18.0,
@@ -24,6 +39,12 @@
     ],
     "name:eng_x_preferred":[
         "Mundo Nuevo"
+    ],
+    "name:spa_x_preferred":[
+        "Mundo Nuevo"
+    ],
+    "name:und_x_variant":[
+        "Nuevo Mundo"
     ],
     "qs:a0":"Mexico",
     "qs:a1":"*Veracruz de Ignacio de la Llave",
@@ -57,6 +78,11 @@
         "qs_pg:id":148745,
         "wd:id":"Q17110758"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3823979
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -72,13 +98,15 @@
         }
     ],
     "wof:id":101998241,
-    "wof:lastmodified":1690847435,
+    "wof:lastmodified":1706240408,
     "wof:name":"Mundo Nuevo",
     "wof:parent_id":102077467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209664695
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":8685512
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8685515
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f7175bb05fcb967232c3e5c4ad2cebdd",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1309956627,
-    "wof:lastmodified":1566633482,
+    "wof:lastmodified":1706240521,
     "wof:name":"El Cien",
     "wof:parent_id":102078911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343905219
+    ],
     "wof:tags":[]
 },
   "bbox": [

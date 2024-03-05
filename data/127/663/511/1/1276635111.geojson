@@ -37,6 +37,7 @@
         "Buicomo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4026873
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8869090
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f83772c22e49d6067a52a53ec3f91a05",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276635111,
-    "wof:lastmodified":1566624703,
+    "wof:lastmodified":1706240502,
     "wof:name":"El Huicumo",
     "wof:parent_id":102073925,
     "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326606691
+    ],
     "wof:tags":[]
 },
   "bbox": [

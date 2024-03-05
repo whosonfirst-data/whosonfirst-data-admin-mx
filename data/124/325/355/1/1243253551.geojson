@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Pascuales"
+    ],
+    "name:und_x_variant":[
+        "Los Pascuales"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4028269
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3997343
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"acef091125f967201eac933a02717460",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1243253551,
-    "wof:lastmodified":1566635668,
+    "wof:lastmodified":1706240476,
     "wof:name":"Pascuales",
     "wof:parent_id":102074527,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259768003
+    ],
     "wof:tags":[]
 },
   "bbox": [

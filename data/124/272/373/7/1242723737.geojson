@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-97.39056,21.54278,-97.39056,21.54278",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,14 +56,16 @@
         }
     ],
     "wof:id":1242723737,
-    "wof:lastmodified":1566634835,
+    "wof:lastmodified":1706240427,
     "wof:name":"La Majahua",
     "wof:parent_id":102077711,
     "wof:placetype":"locality",
     "wof:population":381,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209160321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

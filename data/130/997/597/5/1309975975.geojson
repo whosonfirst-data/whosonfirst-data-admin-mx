@@ -10,6 +10,7 @@
     "geom:latitude":19.9624,
     "geom:longitude":-102.65326,
     "gn:admin1_code":"15.0",
+    "gn:admin2_code":"104.0",
     "gn:asciiname":"El Zapotito",
     "gn:country_code":"MX",
     "gn:dem":1717,
@@ -33,6 +34,7 @@
         "El Zapotito"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4006864
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8868954
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"42346deb82761c85ecb0d9885346ef1e",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1309975975,
-    "wof:lastmodified":1566633041,
+    "wof:lastmodified":1706240521,
     "wof:name":"El Zapotito",
     "wof:parent_id":102075079,
     "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343243521
+    ],
     "wof:tags":[]
 },
   "bbox": [

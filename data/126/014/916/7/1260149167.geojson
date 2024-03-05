@@ -33,6 +33,12 @@
     "name:ceb_x_preferred":[
         "Malpais"
     ],
+    "name:spa_x_preferred":[
+        "Malpa\u00eds"
+    ],
+    "name:spa_x_variant":[
+        "Mal Pa\u00eds"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u043f\u0430\u0438\u0441"
     ],
@@ -51,6 +57,11 @@
     "wof:concordances":{
         "gn:id":3825739
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3523676
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"75047bc34c6c11a42ed15778e213df91",
     "wof:hierarchy":[
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1260149167,
-    "wof:lastmodified":1566628730,
+    "wof:lastmodified":1706240494,
     "wof:name":"Malpais",
     "wof:parent_id":102077089,
     "wof:placetype":"locality",
@@ -71,7 +82,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310173985
+    ],
     "wof:tags":[]
 },
   "bbox": [

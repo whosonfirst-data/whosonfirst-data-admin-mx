@@ -34,6 +34,7 @@
         "\u041c\u0435\u0441\u0430-\u0413\u0440\u0430\u043d\u0434\u0435"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3996138
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4021070
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fd3715ffd63a34cc8a15dc95731426d4",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1276766101,
-    "wof:lastmodified":1566624164,
+    "wof:lastmodified":1706240504,
     "wof:name":"Mesa Grande",
     "wof:parent_id":102077377,
     "wof:placetype":"locality",
+    "wof:population":1149,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326833597
+    ],
     "wof:tags":[]
 },
   "bbox": [

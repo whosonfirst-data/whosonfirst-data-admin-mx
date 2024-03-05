@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-91.61472,18.31917,-91.61472,18.31917",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "El Para\u00edso"
@@ -57,14 +59,16 @@
         }
     ],
     "wof:id":1260290933,
-    "wof:lastmodified":1566629131,
+    "wof:lastmodified":1706240461,
     "wof:name":"El Paraiso",
     "wof:parent_id":102079211,
     "wof:placetype":"locality",
     "wof:population":59,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226575419
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

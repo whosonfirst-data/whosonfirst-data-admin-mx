@@ -10,9 +10,11 @@
     "geom:latitude":20.14675,
     "geom:longitude":-99.92503,
     "gn:admin1_code":"15",
+    "gn:admin2_code":"3.0",
     "gn:asciiname":"La Concepcion Pueblo",
     "gn:country_code":"MX",
     "gn:dem":2387,
+    "gn:elevation":"2220.0",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":3817858,
@@ -46,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3817858
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9172200
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d4e481dfe84ae6b4e51cc991db246ea2",
     "wof:hierarchy":[
@@ -58,13 +65,15 @@
         }
     ],
     "wof:id":1193106955,
-    "wof:lastmodified":1566628420,
+    "wof:lastmodified":1706240421,
     "wof:name":"La Concepcion Pueblo",
     "wof:parent_id":102074221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260052657
+    ],
     "wof:tags":[]
 },
   "bbox": [

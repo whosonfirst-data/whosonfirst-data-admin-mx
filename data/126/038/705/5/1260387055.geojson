@@ -36,7 +36,11 @@
     "name:spa_x_variant":[
         "Cuaut\u00e9moc Cervantes"
     ],
+    "name:und_x_variant":[
+        "Cuaut\u00e9moc Cervantes"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9638678
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8880324
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"bf1eaa58d08c034540aea6f812076242",
@@ -59,13 +68,17 @@
         }
     ],
     "wof:id":1260387055,
-    "wof:lastmodified":1566628812,
+    "wof:lastmodified":1706240497,
     "wof:name":"Cuautemoc Cervantes",
     "wof:parent_id":102075677,
     "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310599681
+    ],
     "wof:tags":[]
 },
   "bbox": [

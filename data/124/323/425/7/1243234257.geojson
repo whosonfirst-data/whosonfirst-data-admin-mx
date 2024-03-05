@@ -34,6 +34,7 @@
         "El Pozole"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4008336
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8935297
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fc1e99b2eba05bf207c1378fa573b25c",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1243234257,
-    "wof:lastmodified":1566635351,
+    "wof:lastmodified":1706240475,
     "wof:name":"El Pozole",
     "wof:parent_id":102074869,
     "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310278405
+    ],
     "wof:tags":[]
 },
   "bbox": [

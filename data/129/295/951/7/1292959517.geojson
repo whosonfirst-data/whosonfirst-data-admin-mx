@@ -34,6 +34,7 @@
         "Coacalco"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3530570
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818964
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"04f8557e06d6dd26c3d9046cd3d41df6",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1292959517,
-    "wof:lastmodified":1566620364,
+    "wof:lastmodified":1706240509,
     "wof:name":"Coacalco",
     "wof:parent_id":102078421,
     "wof:placetype":"locality",
+    "wof:population":519,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326694283
+    ],
     "wof:tags":[]
 },
   "bbox": [

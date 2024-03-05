@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-104.76417,21.99667,-104.76417,21.99667",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Jazm\u00edn del Coquito"
@@ -57,14 +59,16 @@
         }
     ],
     "wof:id":1360247611,
-    "wof:lastmodified":1566631450,
+    "wof:lastmodified":1706240502,
     "wof:name":"Jazmin del Coquito",
     "wof:parent_id":102074565,
     "wof:placetype":"locality",
     "wof:population":380,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276616641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

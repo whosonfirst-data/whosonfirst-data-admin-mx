@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Bonito"
+    ],
+    "name:und_x_variant":[
+        "Rancho El Bonito"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -38,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8948139
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4010936
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7d7793b4c165f64fa5465f36853c573c",
@@ -48,7 +59,7 @@
         }
     ],
     "wof:id":1209127741,
-    "wof:lastmodified":1566626073,
+    "wof:lastmodified":1706240426,
     "wof:name":"El Bonito",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -56,7 +67,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260205109
+    ],
     "wof:tags":[]
 },
   "bbox": [

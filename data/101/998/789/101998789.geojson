@@ -9,7 +9,22 @@
     "geom:bbox":"-97.006155,19.658915,-96.99512,19.669718",
     "geom:latitude":19.66433,
     "geom:longitude":-97.001277,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"177.0",
+    "gn:asciiname":"Tlacolulan",
+    "gn:country_code":"MX",
+    "gn:dem":1755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11057702,
+    "gn:latitude":19.66687,
+    "gn:longitude":-97.00194,
+    "gn:modification_date":"2016-03-31",
+    "gn:name":"Tlacolulan",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.02194,19.64687,-96.98194,19.68687",
     "lbl:latitude":19.666567,
     "lbl:longitude":-97.002104,
     "lbl:max_zoom":18.0,
@@ -94,6 +109,11 @@
         "wd:id":"Q3845768",
         "wk:page":"Tlacolulan"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11057702
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"5b56179ce23ca90cc3c285d19c7a5257",
     "wof:hierarchy":[
@@ -109,13 +129,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847453,
+    "wof:lastmodified":1706240410,
     "wof:name":"Tlacolulan",
     "wof:parent_id":102077767,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243312757
+    ],
     "wof:tags":[]
 },
   "bbox": [

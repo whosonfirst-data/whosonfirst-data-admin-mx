@@ -12,6 +12,7 @@
     "gn:admin1_code":"7",
     "gn:admin2_code":"5.0",
     "gn:asciiname":"Las Navajas",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":619,
     "gn:feature_class":"P",
@@ -33,7 +34,13 @@
     "name:spa_x_preferred":[
         "Las Navajas"
     ],
+    "name:und_x_variant":[
+        "Navajas",
+        "Rancho Navajas",
+        "Las Navajas"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3977592
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999551
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a3c7b1bf71ffdcd9bf9fd48d20771106",
@@ -56,13 +68,17 @@
         }
     ],
     "wof:id":1259769065,
-    "wof:lastmodified":1566638064,
+    "wof:lastmodified":1706240488,
     "wof:name":"Las Navajas",
     "wof:parent_id":102078863,
     "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309899179
+    ],
     "wof:tags":[]
 },
   "bbox": [

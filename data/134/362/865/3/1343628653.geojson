@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-111.60167,30.48472,-111.60167,30.48472",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "G\u00f3mez Palacio"
@@ -46,7 +48,7 @@
         "gn:id":8944189
     },
     "wof:country":"MX",
-    "wof:geomhash":"0547be1b997dbf3509ff456b0c8a2e2e",
+    "wof:geomhash":"a469dbcffbf8795f56df67afa923b0c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1343628653,
-    "wof:lastmodified":1566616525,
+    "wof:lastmodified":1706240533,
     "wof:name":"Gomez Palacio",
     "wof:parent_id":102074469,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1343515877
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -111.60167,
-    30.48472000000001,
+    30.48472,
     -111.60167,
-    30.48472000000001
+    30.48472
 ],
-  "geometry": {"coordinates":[-111.60167,30.48472000000001],"type":"Point"}
+  "geometry": {"coordinates":[-111.60167,30.48472],"type":"Point"}
 }

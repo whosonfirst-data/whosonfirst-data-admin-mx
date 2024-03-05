@@ -525,6 +525,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0445\u0430\u0441"
     ],
+    "name:und_x_variant":[
+        "Tojas"
+    ],
     "name:urd_x_preferred":[
         "\u0679\u06cc\u06a9\u0633\u0627\u0633"
     ],
@@ -579,6 +582,11 @@
     "wof:concordances":{
         "gn:id":3814142
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3515323
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"73d2f26a4dcdf99f08e94d9dc96841f7",
     "wof:hierarchy":[
@@ -591,7 +599,7 @@
         }
     ],
     "wof:id":1225824383,
-    "wof:lastmodified":1566641867,
+    "wof:lastmodified":1706240446,
     "wof:name":"Texas",
     "wof:parent_id":102078629,
     "wof:placetype":"locality",
@@ -599,7 +607,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226820207
+    ],
     "wof:tags":[]
 },
   "bbox": [

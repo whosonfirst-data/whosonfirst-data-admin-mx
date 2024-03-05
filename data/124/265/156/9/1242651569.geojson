@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "R\u00edo Blanco"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -42,8 +45,13 @@
     "wof:concordances":{
         "gn:id":3762688
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3520276
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"8f3596947ee8fd747fa4823945e8974c",
+    "wof:geomhash":"fb914176b243dcdc933288e954e810c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1242651569,
-    "wof:lastmodified":1566636594,
+    "wof:lastmodified":1706240466,
     "wof:name":"Rio Blanco",
     "wof:parent_id":102076987,
     "wof:placetype":"locality",
@@ -62,14 +70,16 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310463381
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -97.27472,
-    17.73832999999999,
+    17.73833,
     -97.27472,
-    17.73832999999999
+    17.73833
 ],
-  "geometry": {"coordinates":[-97.27472,17.73832999999999],"type":"Point"}
+  "geometry": {"coordinates":[-97.27472,17.73833],"type":"Point"}
 }

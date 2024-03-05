@@ -35,12 +35,18 @@
         "Acebuches"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3977978
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4011589
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6abb8f76d5b7b0648f8218dd95f8fed7",
@@ -51,13 +57,17 @@
         }
     ],
     "wof:id":1209026721,
-    "wof:lastmodified":1566626909,
+    "wof:lastmodified":1706240424,
     "wof:name":"Acebuches",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226535691
+    ],
     "wof:tags":[]
 },
   "bbox": [

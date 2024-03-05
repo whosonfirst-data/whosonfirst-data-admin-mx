@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-103.74889,20.90167,-103.74889,20.90167",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":8879333
     },
     "wof:country":"MX",
-    "wof:geomhash":"6aa353cef9e4decea7a5ce2f71bb48bd",
+    "wof:geomhash":"50026fdac7ebe212297409ccb4fae9bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1360058773,
-    "wof:lastmodified":1566632200,
+    "wof:lastmodified":1706240460,
     "wof:name":"El Cerrito",
     "wof:parent_id":102074717,
     "wof:placetype":"locality",
     "wof:population":113,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226512817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -103.74889,
-    20.90167000000001,
+    20.90167,
     -103.74889,
-    20.90167000000001
+    20.90167
 ],
-  "geometry": {"coordinates":[-103.74889,20.90167000000001],"type":"Point"}
+  "geometry": {"coordinates":[-103.74889,20.90167],"type":"Point"}
 }

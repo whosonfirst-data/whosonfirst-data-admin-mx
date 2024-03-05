@@ -67,6 +67,7 @@
         "Las Cruces"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -76,6 +77,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4000049
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4000050
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"af7b4431e56ce0b7769af8ca575af251",
@@ -89,13 +95,17 @@
         }
     ],
     "wof:id":1276733081,
-    "wof:lastmodified":1636492720,
+    "wof:lastmodified":1706240504,
     "wof:name":"Las Cruces",
     "wof:parent_id":102074811,
     "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360258555
+    ],
     "wof:tags":[]
 },
   "bbox": [

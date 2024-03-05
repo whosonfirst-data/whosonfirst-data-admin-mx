@@ -9,8 +9,23 @@
     "geom:bbox":"-101.733606,26.993522,-101.716586,27.012616",
     "geom:latitude":27.003399,
     "geom:longitude":-101.724192,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Sacramento",
+    "gn:country_code":"MX",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3988301,
     "gn:id":"3988301,3988302",
+    "gn:latitude":27.00264,
+    "gn:longitude":-101.72463,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sacramento",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-101.74463,26.98264,-101.70463,27.02264",
     "lbl:latitude":27.003596,
     "lbl:longitude":-101.724774,
     "lbl:max_zoom":18.0,
@@ -97,7 +112,13 @@
         "gn:id":3988296,
         "gp:id":141090,
         "qs_pg:id":1156121,
-        "wd:id":"Q4405466"
+        "wd:id":"Q4405466",
+        "wk:page":"Sacramento%2C_Coahuila"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3988301
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -114,13 +135,15 @@
         }
     ],
     "wof:id":102000873,
-    "wof:lastmodified":1690846910,
+    "wof:lastmodified":1706240415,
     "wof:name":"Sacramento",
     "wof:parent_id":102078813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343655075
+    ],
     "wof:tags":[]
 },
   "bbox": [

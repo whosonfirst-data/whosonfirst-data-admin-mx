@@ -37,6 +37,7 @@
         "Ejido El Encadenado"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3529581
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3791927
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ed8df9b0fab7b63af2edcbb7368e2eb3",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1242639311,
-    "wof:lastmodified":1566636695,
+    "wof:lastmodified":1706240465,
     "wof:name":"El Encadenado",
     "wof:parent_id":102078767,
     "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360259705
+    ],
     "wof:tags":[]
 },
   "bbox": [

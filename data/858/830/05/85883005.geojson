@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
         "Hacienda de la Luz"
@@ -33,12 +34,31 @@
         "La Luz"
     ],
     "qs:gn_id":0,
+    "qs_pg:name":"Hacienda de la Luz",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":42,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155266,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55889022,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85686527,
         102191575,
@@ -53,7 +73,12 @@
         "qs_pg:id":1104523
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1155266
+        "gp:id":[
+            55889022
+        ],
+        "qs_pg:id":[
+            1155266
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -75,13 +100,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147390,
+    "wof:lastmodified":1706240359,
     "wof:name":"Hacienda de la Luz",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126060953
+    ],
     "wof:tags":[]
 },
   "bbox": [

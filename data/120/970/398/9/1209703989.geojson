@@ -55,6 +55,7 @@
         "El Roble"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,6 +65,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9012139
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8940979
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"12f19096f76e451eedbe113e6778bdc3",
@@ -77,13 +83,17 @@
         }
     ],
     "wof:id":1209703989,
-    "wof:lastmodified":1566625929,
+    "wof:lastmodified":1706240439,
     "wof:name":"El Roble",
     "wof:parent_id":102075185,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260068729
+    ],
     "wof:tags":[]
 },
   "bbox": [

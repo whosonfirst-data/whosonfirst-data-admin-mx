@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Hacienda Vieja"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8878985
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3980275
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d41bd84b53516b2a0c18a18a27e3bc2e",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1243530385,
-    "wof:lastmodified":1566634457,
+    "wof:lastmodified":1706240480,
     "wof:name":"Hacienda Vieja",
     "wof:parent_id":102074587,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276512743
+    ],
     "wof:tags":[]
 },
   "bbox": [

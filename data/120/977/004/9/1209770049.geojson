@@ -155,6 +155,11 @@
     "wof:concordances":{
         "gn:id":3985664
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3985662
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"0cc508d4da9b663b7bdd336dc8b8bd67",
     "wof:hierarchy":[
@@ -167,13 +172,15 @@
         }
     ],
     "wof:id":1209770049,
-    "wof:lastmodified":1636492965,
+    "wof:lastmodified":1706240440,
     "wof:name":"San Luis",
     "wof:parent_id":102074513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293148461
+    ],
     "wof:tags":[]
 },
   "bbox": [

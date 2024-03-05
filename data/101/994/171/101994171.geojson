@@ -9,7 +9,22 @@
     "geom:bbox":"-106.01846,31.358772,-105.998095,31.378696",
     "geom:latitude":31.368566,
     "geom:longitude":-106.009027,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Praxedis G. Guerrero",
+    "gn:country_code":"MX",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3991869,
+    "gn:latitude":31.37061,
+    "gn:longitude":-106.00616,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Praxedis G. Guerrero",
+    "gn:population":0,
+    "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-106.02616,31.35061,-105.98616,31.39061",
     "lbl:latitude":31.368571,
     "lbl:longitude":-106.009029,
     "lbl:max_zoom":18.0,
@@ -53,6 +68,11 @@
     "name:swe_x_preferred":[
         "Prax\u00e9dis Guerrero"
     ],
+    "name:und_x_variant":[
+        "San Ignacio",
+        "Praxedes G. Guerrero",
+        "Praxedis G. Guerrero"
+    ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u585e\u8fea\u65af\u5e0c\u5c14\u97e6\u6258-\u683c\u96f7\u7f57"
     ],
@@ -90,6 +110,14 @@
         "wd:id":"Q4376496",
         "wk:page":"Pr\u00e1xedis G. Guerrero, Chihuahua"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3991869
+        ],
+        "wk:page":[
+            "Pr%C3%A1xedis_G._Guerrero%2C_Chihuahua"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -108,13 +136,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847928,
+    "wof:lastmodified":1706240398,
     "wof:name":"Praxedis G. Guerrero",
     "wof:parent_id":102075229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259604899
+    ],
     "wof:tags":[]
 },
   "bbox": [

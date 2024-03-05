@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-92.51207,17.49688,-92.51207,17.49688",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Paso Chinal"
@@ -50,7 +52,7 @@
         "gn:id":3529170
     },
     "wof:country":"MX",
-    "wof:geomhash":"4e312f397635302155063286d4c0b98a",
+    "wof:geomhash":"3bba81161b14de11de0377b997d31f5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1343457215,
-    "wof:lastmodified":1566619088,
+    "wof:lastmodified":1706240456,
     "wof:name":"Paso Chinal",
     "wof:parent_id":102075749,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226241241
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -92.51207,
-    17.49687999999999,
+    17.49688,
     -92.51207,
-    17.49687999999999
+    17.49688
 ],
-  "geometry": {"coordinates":[-92.51206999999999,17.49687999999999],"type":"Point"}
+  "geometry": {"coordinates":[-92.51206999999999,17.49688],"type":"Point"}
 }

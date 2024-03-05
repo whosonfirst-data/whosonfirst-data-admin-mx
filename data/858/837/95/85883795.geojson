@@ -11,6 +11,7 @@
     "geom:longitude":-99.194044,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.198818,19.315114,-99.188818,19.325114",
     "lbl:latitude":19.319824,
     "lbl:longitude":-99.192561,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:cat_x_preferred":[
         "Jardines del Pedregal"
@@ -72,12 +74,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Jardines Del Pedregal",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":451,
+    "qs_pg:photos_1k":91,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":451,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1341917,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898249,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:latitude":19.320575,
     "wd:longitude":-99.20929,
     "wd:wordcount":1163,
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -93,6 +114,17 @@
         "gp:id":55898249,
         "qs_pg:id":1341917,
         "wd:id":"Q978328"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898249
+        ],
+        "qs_pg:id":[
+            1341917
+        ],
+        "wd:id":[
+            "Q978328"
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6600268808d1ec836ff1c59e62cdaba5",
@@ -120,13 +152,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847311,
+    "wof:lastmodified":1706240368,
     "wof:name":"Jardines Del Pedregal",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126098321
+    ],
     "wof:tags":[]
 },
   "bbox": [

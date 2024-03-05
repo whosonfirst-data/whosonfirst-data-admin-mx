@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Antonio Ogotzil"
+    ],
+    "name:und_x_variant":[
+        "Ogutzil"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8863992
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816526
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"baa88e62c6b1ae0dcdb841abc8a489b8",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1259681777,
-    "wof:lastmodified":1566638170,
+    "wof:lastmodified":1706240486,
     "wof:name":"San Antonio Ogotzil",
     "wof:parent_id":102075599,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276972727
+    ],
     "wof:tags":[]
 },
   "bbox": [

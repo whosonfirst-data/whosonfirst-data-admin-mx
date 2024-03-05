@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
     "geom:area_square_m":297376.399748,
-    "geom:bbox":"-99.1254425105,19.4691817775,-99.1173553411,19.4731469554",
+    "geom:bbox":"-99.125443,19.469182,-99.117355,19.473147",
     "geom:latitude":19.470977,
     "geom:longitude":-99.121399,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.127606,19.465314,-99.117606,19.475314",
     "lbl:latitude":19.470476,
     "lbl:longitude":-99.121712,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Guadalupe Tepeyac"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Guadalupe Tepeyac",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":83,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":83,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475268,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55899554,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,8 +90,16 @@
         "gp:id":55899554,
         "qs_pg:id":475268
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55899554
+        ],
+        "qs_pg:id":[
+            475268
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"3234dbe9c31ec21cb3cdb3baccae4975",
+    "wof:geomhash":"e34ee7397ca178239ef03fe4c8db253a",
     "wof:hierarchy":[
         {
             "borough_id":890535763,
@@ -95,20 +124,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619666,
+    "wof:lastmodified":1706240374,
     "wof:name":"Guadalupe Tepeyac",
     "wof:parent_id":890535763,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126103137
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.12544251048587,
-    19.46918177747531,
-    -99.11735534111409,
-    19.47314695544875
+    -99.125443,
+    19.469182,
+    -99.117355,
+    19.473147
 ],
-  "geometry": {"coordinates":[[[-99.11865234378325,19.47314695544875],[-99.11735534111409,19.47177126072536],[-99.11816915391461,19.46918177747531],[-99.11865234380005,19.46918178118915],[-99.12139892579984,19.46918178091693],[-99.12414550779999,19.46918178159771],[-99.12462869768515,19.46918177747531],[-99.12544251048587,19.47177126072536],[-99.12414550781651,19.47314695544875],[-99.12139892579984,19.47217588102032],[-99.11865234378325,19.47314695544875]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.118652,19.473147],[-99.117355,19.471771],[-99.11816899999999,19.469182],[-99.118652,19.469182],[-99.121399,19.469182],[-99.124146,19.469182],[-99.124629,19.469182],[-99.125443,19.471771],[-99.124146,19.473147],[-99.121399,19.472176],[-99.118652,19.473147]]],"type":"Polygon"}
 }

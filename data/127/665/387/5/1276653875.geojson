@@ -38,6 +38,7 @@
         "Los Pilares"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3997317
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8871934
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f59f3d81920d082bbbbb0193da96e901",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1276653875,
-    "wof:lastmodified":1566624914,
+    "wof:lastmodified":1706240503,
     "wof:name":"Aserradero Pilares",
     "wof:parent_id":102075303,
     "wof:placetype":"locality",
+    "wof:population":202,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343753913
+    ],
     "wof:tags":[]
 },
   "bbox": [

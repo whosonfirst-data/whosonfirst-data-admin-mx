@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Cacastle"
+    ],
+    "name:und_x_variant":[
+        "Rancho Cacaste"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8886894
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4016334
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8cabdf0c0f1863710064cc555b7c3513",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1243285475,
-    "wof:lastmodified":1566636939,
+    "wof:lastmodified":1706240476,
     "wof:name":"El Cacastle",
     "wof:parent_id":102075263,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310498911
+    ],
     "wof:tags":[]
 },
   "bbox": [

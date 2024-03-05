@@ -38,6 +38,7 @@
         "Las \u00c1nimas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4000292
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8899345
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3659bdc529e347b64c1250a50dfb8a3d",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1259771619,
-    "wof:lastmodified":1566637705,
+    "wof:lastmodified":1706240488,
     "wof:name":"San Antonio de Animas",
     "wof:parent_id":102075189,
     "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326618413
+    ],
     "wof:tags":[]
 },
   "bbox": [

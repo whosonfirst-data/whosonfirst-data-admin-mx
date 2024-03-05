@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-89.19656,20.91297,-89.19656,20.91297",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Dziuche"
@@ -49,7 +51,7 @@
         "gn:id":3529629
     },
     "wof:country":"MX",
-    "wof:geomhash":"3e9e239899e5d1200cb82c96cdc0cd3c",
+    "wof:geomhash":"12859211e8c76f73dee67f1518524c84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1360022191,
-    "wof:lastmodified":1566632217,
+    "wof:lastmodified":1706240503,
     "wof:name":"Dziuche",
     "wof:parent_id":102079049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276687517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -89.19655999999998,
+    -89.19656,
     20.91297,
-    -89.19655999999998,
+    -89.19656,
     20.91297
 ],
-  "geometry": {"coordinates":[-89.19655999999998,20.91297],"type":"Point"}
+  "geometry": {"coordinates":[-89.19656000000001,20.91297],"type":"Point"}
 }

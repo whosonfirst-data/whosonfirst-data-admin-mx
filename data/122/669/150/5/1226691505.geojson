@@ -37,6 +37,7 @@
         "Maravillas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3996617
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3972490
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b5c615d5734f80e6356dac13c2523bba",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226691505,
-    "wof:lastmodified":1566639998,
+    "wof:lastmodified":1706240462,
     "wof:name":"Presa de Maravillas",
     "wof:parent_id":102075429,
     "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326971539
+    ],
     "wof:tags":[]
 },
   "bbox": [

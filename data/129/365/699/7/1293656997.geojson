@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Limones"
+    ],
+    "name:und_x_variant":[
+        "Rancho L\u00edmones"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8893336
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3998577
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"46640e082936402caa6de979bb9eb781",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1293656997,
-    "wof:lastmodified":1566619957,
+    "wof:lastmodified":1706240516,
     "wof:name":"Los Limones",
     "wof:parent_id":102074305,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326997883
+    ],
     "wof:tags":[]
 },
   "bbox": [

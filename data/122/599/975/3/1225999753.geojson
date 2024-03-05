@@ -31,6 +31,7 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -40,6 +41,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4017605
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3976935
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"eee6c7cc55cdab0982de9525ab1eced6",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1225999753,
-    "wof:lastmodified":1566640595,
+    "wof:lastmodified":1706240449,
     "wof:name":"Bamicori",
     "wof:parent_id":102074323,
     "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242632347
+    ],
     "wof:tags":[]
 },
   "bbox": [

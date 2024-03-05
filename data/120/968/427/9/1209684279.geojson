@@ -34,12 +34,18 @@
         "Buenaf\u00e9"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3532088
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3823091
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"495a3035e5deecfd3496d9529c17eedb",
@@ -50,13 +56,17 @@
         }
     ],
     "wof:id":1209684279,
-    "wof:lastmodified":1566626480,
+    "wof:lastmodified":1706240438,
     "wof:name":"La Buena Fe",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293557893
+    ],
     "wof:tags":[]
 },
   "bbox": [

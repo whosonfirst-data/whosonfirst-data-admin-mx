@@ -37,6 +37,7 @@
         "Rancho Floreno"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3990225
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8895875
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6e2764c6025f65b163fad87029230ce3",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226023301,
-    "wof:lastmodified":1566639906,
+    "wof:lastmodified":1706240450,
     "wof:name":"El Floreno",
     "wof:parent_id":102075145,
     "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276849227
+    ],
     "wof:tags":[]
 },
   "bbox": [

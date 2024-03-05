@@ -35,6 +35,7 @@
         "Ejido Las Pe\u00f1as"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3818005
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3826931
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7aa01b10877241b29fca2ca911b0a451",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1309878367,
-    "wof:lastmodified":1566633624,
+    "wof:lastmodified":1706240520,
     "wof:name":"Las Penas",
     "wof:parent_id":102073991,
     "wof:placetype":"locality",
+    "wof:population":1469,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310387641
+    ],
     "wof:tags":[]
 },
   "bbox": [

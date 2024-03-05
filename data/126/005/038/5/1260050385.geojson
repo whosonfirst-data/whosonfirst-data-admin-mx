@@ -105,6 +105,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0440\u0430\u043d\u0434\u0456\u043b\u044c\u044f"
     ],
+    "name:und_x_variant":[
+        "Mirandillas"
+    ],
     "name:uzb_x_preferred":[
         "Mirandilla"
     ],
@@ -129,8 +132,13 @@
     "wof:concordances":{
         "gn:id":3995729
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3995728
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"1fa64a1a2d09b211d02fb686a8be477a",
+    "wof:geomhash":"3f5ccfbd9724a254d08a3d2139865f77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +149,7 @@
         }
     ],
     "wof:id":1260050385,
-    "wof:lastmodified":1566629494,
+    "wof:lastmodified":1706240493,
     "wof:name":"Mirandilla",
     "wof:parent_id":102074819,
     "wof:placetype":"locality",
@@ -149,14 +157,16 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293867001
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -104.69694,
-    20.39417000000001,
+    20.39417,
     -104.69694,
-    20.39417000000001
+    20.39417
 ],
-  "geometry": {"coordinates":[-104.69694,20.39417000000001],"type":"Point"}
+  "geometry": {"coordinates":[-104.69694,20.39417],"type":"Point"}
 }

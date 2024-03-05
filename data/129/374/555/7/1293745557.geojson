@@ -160,6 +160,7 @@
         "\u5f17\u6717\u897f\u65af\u79d1\u00b7\u99ac\u5fb7\u7f85"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -169,6 +170,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3523782
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3792094
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2838ddf353f9d81cc502a4948243b55a",
@@ -182,13 +188,17 @@
         }
     ],
     "wof:id":1293745557,
-    "wof:lastmodified":1566622124,
+    "wof:lastmodified":1706240516,
     "wof:name":"Francisco I. Madero",
     "wof:parent_id":102078717,
     "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309880335
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Maqueda"
+    ],
+    "name:und_x_variant":[
+        "San Francisco de los Marqueda"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -38,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8865825
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3825906
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"3cdb99ca4faefb6003dabf3f8a83877b",
@@ -48,7 +59,7 @@
         }
     ],
     "wof:id":1209473263,
-    "wof:lastmodified":1566626224,
+    "wof:lastmodified":1706240433,
     "wof:name":"Los Maqueda",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -56,7 +67,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226001091
+    ],
     "wof:tags":[]
 },
   "bbox": [

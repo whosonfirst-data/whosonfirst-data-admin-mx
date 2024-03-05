@@ -51,6 +51,9 @@
     "name:swe_x_preferred":[
         "El Refugio"
     ],
+    "name:und_x_variant":[
+        "Refugio"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -62,6 +65,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4008052
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4008050
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9c675dd7f6eac6d2026c14cddbab86d5",
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":1292979379,
-    "wof:lastmodified":1566621698,
+    "wof:lastmodified":1706240510,
     "wof:name":"El Refugio",
     "wof:parent_id":102075207,
     "wof:placetype":"locality",
@@ -83,7 +91,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326918803
+    ],
     "wof:tags":[]
 },
   "bbox": [

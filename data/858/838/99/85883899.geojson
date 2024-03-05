@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
     "geom:area_square_m":249067.596078,
-    "geom:bbox":"-99.1680908203,19.3629761265,-99.1625976562,19.3681585006",
+    "geom:bbox":"-99.168091,19.362976,-99.162598,19.368159",
     "geom:latitude":19.365999,
     "geom:longitude":-99.165802,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.173911,19.359047,-99.163911,19.369047",
     "lbl:latitude":19.365947,
     "lbl:longitude":-99.166301,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
         "Xoco"
@@ -60,10 +62,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Xoco",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":479,
+    "qs_pg:photos_1k":97,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":479,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1316529,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898760,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":142,
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -79,8 +100,16 @@
         "qs_pg:id":1316529,
         "wd:id":"Q18204134"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898760
+        ],
+        "qs_pg:id":[
+            1316529
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"0eea573ae8401d5860996170427a1c29",
+    "wof:geomhash":"95ecbadc44453e950dc933a044a31e85",
     "wof:hierarchy":[
         {
             "borough_id":890535769,
@@ -105,20 +134,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619676,
+    "wof:lastmodified":1706240370,
     "wof:name":"Xoco",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126084345
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.16809082029997,
-    19.36297612645015,
-    -99.16259765621245,
-    19.36815850056257
+    -99.168091,
+    19.362976,
+    -99.162598,
+    19.368159
 ],
-  "geometry": {"coordinates":[[[-99.16259765621245,19.36815850056257],[-99.16259765621555,19.3655673336626],[-99.16534423828429,19.3655673336626],[-99.16534423828429,19.36297612687825],[-99.16744191748191,19.36297612645015],[-99.16809082029997,19.36297613330005],[-99.16809082029997,19.36556734010001],[-99.16809082029997,19.36625514553005],[-99.16809082029997,19.36815849999174],[-99.1653442382833,19.36815849885008],[-99.16259765621245,19.36815850056257]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.162598,19.368159],[-99.162598,19.365567],[-99.165344,19.365567],[-99.165344,19.362976],[-99.16744199999999,19.362976],[-99.168091,19.362976],[-99.168091,19.365567],[-99.168091,19.366255],[-99.168091,19.368158],[-99.165344,19.368158],[-99.162598,19.368159]]],"type":"Polygon"}
 }

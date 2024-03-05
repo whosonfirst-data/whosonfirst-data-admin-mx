@@ -36,12 +36,18 @@
         "San Miguel de las Mesas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3999613
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3976511
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b4a29a5ea2fa7ec96131e175b76abfe4",
@@ -52,13 +58,17 @@
         }
     ],
     "wof:id":1209271529,
-    "wof:lastmodified":1566627058,
+    "wof:lastmodified":1706240429,
     "wof:name":"San Miguel de las Mesas",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":386,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293851625
+    ],
     "wof:tags":[]
 },
   "bbox": [

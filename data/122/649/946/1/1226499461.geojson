@@ -37,6 +37,7 @@
         "El Lim\u00f3n"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4009448
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3976594
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0b499d2302989d06b1b6c73a3cdcf315",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226499461,
-    "wof:lastmodified":1566640892,
+    "wof:lastmodified":1706240459,
     "wof:name":"El Limon de los Ramos",
     "wof:parent_id":102074307,
     "wof:placetype":"locality",
+    "wof:population":3191,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310558507
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -56,6 +56,11 @@
     "wof:concordances":{
         "gn:id":4023120
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4023123
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a2da92a5e8c8ff420c0f3bfbc756f73f",
     "wof:hierarchy":[
@@ -68,13 +73,15 @@
         }
     ],
     "wof:id":1209793047,
-    "wof:lastmodified":1566625981,
+    "wof:lastmodified":1706240441,
     "wof:name":"El Potrero",
     "wof:parent_id":102077357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243159359
+    ],
     "wof:tags":[]
 },
   "bbox": [

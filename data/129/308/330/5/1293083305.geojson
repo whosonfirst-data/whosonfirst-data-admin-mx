@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-99.09477,19.66658,-99.09477,19.66658",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041f\u0430\u0431\u043b\u043e \u0434\u0435 \u043b\u0430\u0441 \u0421\u0430\u043b\u0438\u043d\u0430\u0441"
@@ -67,14 +69,16 @@
         }
     ],
     "wof:id":1293083305,
-    "wof:lastmodified":1566620083,
+    "wof:lastmodified":1706240388,
     "wof:name":"San Pablo de las Salinas",
     "wof:parent_id":102074003,
     "wof:placetype":"locality",
     "wof:population":173557,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101991631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

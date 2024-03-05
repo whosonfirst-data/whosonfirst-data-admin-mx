@@ -36,6 +36,12 @@
     "name:por_x_preferred":[
         "Monte Largo"
     ],
+    "name:spa_x_preferred":[
+        "Monte Largo"
+    ],
+    "name:und_x_variant":[
+        "Rancho El Monte Largo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -47,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8902621
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4009125
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"141df7f4ffec76655b0b53e76fdd291c",
@@ -60,7 +71,7 @@
         }
     ],
     "wof:id":1226023331,
-    "wof:lastmodified":1566639928,
+    "wof:lastmodified":1706240450,
     "wof:name":"Monte Largo",
     "wof:parent_id":102075133,
     "wof:placetype":"locality",
@@ -68,7 +79,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259761637
+    ],
     "wof:tags":[]
 },
   "bbox": [

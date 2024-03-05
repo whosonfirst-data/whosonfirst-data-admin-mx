@@ -34,6 +34,7 @@
         "Barranca Honda"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3532377
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8866763
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5d682d43a8d24396a6a168904b0d7097",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1243065671,
-    "wof:lastmodified":1566634535,
+    "wof:lastmodified":1706240472,
     "wof:name":"Barranca Honda",
     "wof:parent_id":102075515,
     "wof:placetype":"locality",
+    "wof:population":327,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293483035
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -171,6 +171,11 @@
     "wof:concordances":{
         "gn:id":3532853
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8477954
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"a051fa5ccf6163d4e4967609e45e0f3d",
     "wof:hierarchy":[
@@ -183,13 +188,15 @@
         }
     ],
     "wof:id":1226700959,
-    "wof:lastmodified":1636494300,
+    "wof:lastmodified":1706240463,
     "wof:name":"Santa Maria",
     "wof:parent_id":102078877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344204663
+    ],
     "wof:tags":[]
 },
   "bbox": [

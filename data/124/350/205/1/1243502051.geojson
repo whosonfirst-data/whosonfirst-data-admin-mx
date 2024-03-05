@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":3981586
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3999004
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"b8390a2ff04eb17995c717c65664eae8",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1243502051,
-    "wof:lastmodified":1566635721,
+    "wof:lastmodified":1706240479,
     "wof:name":"La Tinaja",
     "wof:parent_id":102074437,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309753819
+    ],
     "wof:tags":[]
 },
   "bbox": [

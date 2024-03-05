@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Picota"
+    ],
     "name:und_x_variant":[
         "Pitoja",
         "Picota",
@@ -48,6 +51,11 @@
     "wof:concordances":{
         "gn:id":4000823
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4022230
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"c45b3cd90c1c1723cd436636fea1889c",
     "wof:hierarchy":[
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":1259891571,
-    "wof:lastmodified":1566638774,
+    "wof:lastmodified":1706240491,
     "wof:name":"La Picota",
     "wof:parent_id":102074523,
     "wof:placetype":"locality",
@@ -68,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343959179
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
         "Obrera"
@@ -52,12 +53,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":148123,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Obrera",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tamaulipas",
+    "qs_pg:photos":192,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":192,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1341485,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55895430,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tamaulipas",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85686695,
         102191575,
@@ -71,7 +91,12 @@
         "qs_pg:id":1341485
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1343614
+        "gp:id":[
+            55895430
+        ],
+        "qs_pg:id":[
+            1341485
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -93,13 +118,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147378,
+    "wof:lastmodified":1706240363,
     "wof:name":"Obrera",
     "wof:parent_id":102001087,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126098163
+    ],
     "wof:tags":[]
 },
   "bbox": [

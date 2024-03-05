@@ -10,6 +10,7 @@
     "geom:latitude":26.33215,
     "geom:longitude":-106.4484,
     "gn:admin1_code":"10",
+    "gn:admin2_code":"7",
     "gn:asciiname":"Cienega Larga",
     "gn:country_code":"MX",
     "gn:dem":2709,
@@ -36,6 +37,7 @@
         "Rancho Mesa de la Ci\u00e9nega"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3989606
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8896769
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"dec6021746937525143a10f4b4399faf",
@@ -58,13 +65,17 @@
         }
     ],
     "wof:id":1226220761,
-    "wof:lastmodified":1566640796,
+    "wof:lastmodified":1706240455,
     "wof:name":"Cienega Larga",
     "wof:parent_id":102075303,
     "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310097613
+    ],
     "wof:tags":[]
 },
   "bbox": [

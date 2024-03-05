@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-88.67722,18.85167,-88.67722,18.85167",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":3823128
     },
     "wof:country":"MX",
-    "wof:geomhash":"856ae7bd90b680a1037ff63baeb49429",
+    "wof:geomhash":"8aa7f659511c83071d339bca2434c078",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1343816119,
-    "wof:lastmodified":1566619275,
+    "wof:lastmodified":1706240450,
     "wof:name":"Altos de Sevilla",
     "wof:parent_id":102079235,
     "wof:placetype":"locality",
     "wof:population":605,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226013393
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -88.67721999999998,
+    -88.67722,
     18.85167,
-    -88.67721999999998,
+    -88.67722,
     18.85167
 ],
-  "geometry": {"coordinates":[-88.67721999999998,18.85167],"type":"Point"}
+  "geometry": {"coordinates":[-88.67722000000001,18.85167],"type":"Point"}
 }

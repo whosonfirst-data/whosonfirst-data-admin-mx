@@ -37,6 +37,7 @@
         "Yaltzi"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3816548
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816531
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c1fd5f3e536a411474f0c010410bab0e",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276977865,
-    "wof:lastmodified":1566624680,
+    "wof:lastmodified":1706240506,
     "wof:name":"Yaltzi Tres Lagunas",
     "wof:parent_id":102075599,
     "wof:placetype":"locality",
+    "wof:population":819,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343259813
+    ],
     "wof:tags":[]
 },
   "bbox": [

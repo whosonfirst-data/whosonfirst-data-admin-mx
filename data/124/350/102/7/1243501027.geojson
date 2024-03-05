@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Pedro Xalcaltzinco"
+    ],
+    "name:und_x_variant":[
+        "San Pedro Xacaltzingo",
+        "Xacaltzingo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8858714
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3815370
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f20f74f431cdf8422262de824174de5c",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243501027,
-    "wof:lastmodified":1566635709,
+    "wof:lastmodified":1706240479,
     "wof:name":"San Pedro Xalcaltzinco",
     "wof:parent_id":102077917,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293351067
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Taballal"
+    ],
+    "name:und_x_variant":[
+        "Tabayal",
+        "Tabaya"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8862377
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3982728
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a18568d776044e4c4c665bc360ae88fb",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343629117,
-    "wof:lastmodified":1566616533,
+    "wof:lastmodified":1706240533,
     "wof:name":"El Taballal",
     "wof:parent_id":102074313,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343716841
+    ],
     "wof:tags":[]
 },
   "bbox": [

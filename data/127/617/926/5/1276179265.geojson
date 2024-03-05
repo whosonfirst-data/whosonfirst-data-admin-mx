@@ -35,6 +35,7 @@
         "Las Tinas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3999235
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8869266
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1a8d050914070dbb885610bd7b1fa623",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1276179265,
-    "wof:lastmodified":1566622914,
+    "wof:lastmodified":1706240497,
     "wof:name":"Las Tinas",
     "wof:parent_id":102074327,
     "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309761157
+    ],
     "wof:tags":[]
 },
   "bbox": [

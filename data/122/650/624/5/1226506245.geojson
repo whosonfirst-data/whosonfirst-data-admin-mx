@@ -37,6 +37,7 @@
         "El Colomo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4010269
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8902863
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b13e9c858d3f898b19a81f6a862bff09",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1226506245,
-    "wof:lastmodified":1566640369,
+    "wof:lastmodified":1706240460,
     "wof:name":"Colomo del Bule",
     "wof:parent_id":102074915,
     "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310377035
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,22 @@
     "geom:bbox":"-109.317624,29.856928,-109.305614,29.865587",
     "geom:latitude":29.861208,
     "geom:longitude":-109.311492,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Granados",
+    "gn:country_code":"MX",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":4005715,
+    "gn:latitude":29.86195,
+    "gn:longitude":-109.31016,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Granados",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-109.33016,29.84195,-109.29016,29.88195",
     "lbl:latitude":29.860894,
     "lbl:longitude":-109.311377,
     "lbl:max_zoom":18.0,
@@ -79,6 +94,14 @@
         "wd:id":"Q3846541",
         "wk:page":"Granados, Sonora"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4005715
+        ],
+        "wk:page":[
+            "Granados%2C_Sonora"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -94,13 +117,15 @@
         }
     ],
     "wof:id":101993939,
-    "wof:lastmodified":1690847807,
+    "wof:lastmodified":1706240396,
     "wof:name":"Granados",
     "wof:parent_id":102074397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225892181
+    ],
     "wof:tags":[]
 },
   "bbox": [

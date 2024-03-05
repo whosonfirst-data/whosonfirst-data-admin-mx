@@ -37,6 +37,7 @@
         "Rancho Laguna El Progreso"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4002114
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8878618
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2d6f701f3fd5d32044909df707825578",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1259771665,
-    "wof:lastmodified":1566637704,
+    "wof:lastmodified":1706240488,
     "wof:name":"La Laguna del Progreso",
     "wof:parent_id":102075195,
     "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343639919
+    ],
     "wof:tags":[]
 },
   "bbox": [

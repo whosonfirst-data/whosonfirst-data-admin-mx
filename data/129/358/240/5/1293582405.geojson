@@ -37,6 +37,7 @@
         "San Antonio Villaflores"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9521455
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8869378
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a570e6f0ae3601ddef01a0baff7cbcdd",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1293582405,
-    "wof:lastmodified":1566621332,
+    "wof:lastmodified":1706240515,
     "wof:name":"San Antonio Villaflores",
     "wof:parent_id":102075735,
     "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309904653
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,9 +9,22 @@
     "geom:bbox":"-99.230923,22.523594,-99.206953,22.544545",
     "geom:latitude":22.535206,
     "geom:longitude":-99.2188,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Nuevo Morelos",
+    "gn:country_code":"MX",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3522534,
     "gn:latitude":22.53604,
     "gn:longitude":-99.21934,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Nuevo Morelos",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-99.23934,22.51604,-99.19934,22.55604",
     "lbl:latitude":22.537236,
     "lbl:longitude":-99.219611,
     "lbl:max_zoom":18.0,
@@ -103,6 +116,11 @@
         "qs_pg:id":180262,
         "wd:id":"Q3845954"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3522534
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -118,13 +136,15 @@
         }
     ],
     "wof:id":102001021,
-    "wof:lastmodified":1690846986,
+    "wof:lastmodified":1706240416,
     "wof:name":"Nuevo Morelos",
     "wof:parent_id":102078905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226810293
+    ],
     "wof:tags":[]
 },
   "bbox": [

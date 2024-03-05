@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
     "geom:area_square_m":190860.89247,
-    "geom:bbox":"-99.1824725588,19.3804258966,-99.1785905272,19.3862955056",
+    "geom:bbox":"-99.182473,19.380426,-99.178591,19.386296",
     "geom:latitude":19.383574,
     "geom:longitude":-99.180437,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.1849795,19.3784295,-99.1749795,19.3884295",
     "lbl:latitude":19.383537,
     "lbl:longitude":-99.180216,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Ciudad de Los Deportes"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Ciudad de Los Deportes",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":400,
+    "qs_pg:photos_1k":81,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":400,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475122,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55898033,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -68,8 +89,16 @@
         "gp:id":55898033,
         "qs_pg:id":475122
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55898033
+        ],
+        "qs_pg:id":[
+            475122
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"17fb09b2737bcfebed683140eb95cd75",
+    "wof:geomhash":"c7f075bc831f1c84aec35c5c7d9f7fab",
     "wof:hierarchy":[
         {
             "borough_id":890535769,
@@ -94,20 +123,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619693,
+    "wof:lastmodified":1706240366,
     "wof:name":"Ciudad de Los Deportes",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126106693
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.18247255882653,
-    19.38042589655954,
-    -99.17859052722068,
-    19.38629550556399
+    -99.182473,
+    19.380426,
+    -99.178591,
+    19.386296
 ],
-  "geometry": {"coordinates":[[[-99.17907714841451,19.38206527155815],[-99.17907714840999,19.38111371580004],[-99.17907714841806,19.38042589655954],[-99.18102368207002,19.38111371580004],[-99.18144312105221,19.38126192705904],[-99.18158151339665,19.38127055680236],[-99.18169933115922,19.38124557771698],[-99.18182373050001,19.38164119609522],[-99.18247255882653,19.38370462810653],[-99.18182373049271,19.38439244400152],[-99.18182373048606,19.38629550556399],[-99.17907714841388,19.38629550556399],[-99.17907714841451,19.38473635421845],[-99.17859052722068,19.3842204893987],[-99.17895640488894,19.3830569077505],[-99.17875273282758,19.38240917752532],[-99.17907714841451,19.38206527155815]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.17907700000001,19.382065],[-99.17907700000001,19.381114],[-99.17907700000001,19.380426],[-99.18102399999999,19.381114],[-99.181443,19.381262],[-99.18158200000001,19.381271],[-99.18169899999999,19.381246],[-99.18182400000001,19.381641],[-99.182473,19.383705],[-99.18182400000001,19.384392],[-99.18182400000001,19.386296],[-99.17907700000001,19.386296],[-99.17907700000001,19.384736],[-99.178591,19.38422],[-99.178956,19.383057],[-99.178753,19.382409],[-99.17907700000001,19.382065]]],"type":"Polygon"}
 }

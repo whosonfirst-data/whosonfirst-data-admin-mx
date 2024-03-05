@@ -9,7 +9,22 @@
     "geom:bbox":"-97.946303,20.469283,-97.940127,20.483173",
     "geom:latitude":20.475222,
     "geom:longitude":-97.9434,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Jalpan",
+    "gn:country_code":"MX",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3526602,
+    "gn:latitude":20.4793,
+    "gn:longitude":-97.94297,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Jalpan",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-97.96297,20.4593,-97.92297,20.4993",
     "lbl:latitude":20.47153,
     "lbl:longitude":-97.943915,
     "lbl:max_zoom":18.0,
@@ -102,6 +117,11 @@
         "qs_pg:id":1301589,
         "wd:id":"Q6126975"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3526602
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -120,13 +140,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847642,
+    "wof:lastmodified":1706240411,
     "wof:name":"Jalpan",
     "wof:parent_id":102078177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277044363
+    ],
     "wof:tags":[]
 },
   "bbox": [

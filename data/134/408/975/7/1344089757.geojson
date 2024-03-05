@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-87.95333,21.29583,-87.95333,21.29583",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "X-Makul\u00e1n"
@@ -46,7 +48,7 @@
         "gn:id":8882241
     },
     "wof:country":"MX",
-    "wof:geomhash":"ea5dd2c49cee88e7b8715a08c5ffe6cb",
+    "wof:geomhash":"6312211913cdf8bff5535b9b99b4db97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,22 +59,24 @@
         }
     ],
     "wof:id":1344089757,
-    "wof:lastmodified":1566617572,
+    "wof:lastmodified":1706240515,
     "wof:name":"X-Makulan",
     "wof:parent_id":102079111,
     "wof:placetype":"locality",
     "wof:population":92,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293516073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -87.95333000000002,
+    -87.95333,
     21.29583,
-    -87.95333000000002,
+    -87.95333,
     21.29583
 ],
-  "geometry": {"coordinates":[-87.95333000000002,21.29583],"type":"Point"}
+  "geometry": {"coordinates":[-87.95332999999999,21.29583],"type":"Point"}
 }

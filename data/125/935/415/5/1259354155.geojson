@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3813989
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3528628
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d32a077b76defeaf0e44e3ad51381865",
     "wof:hierarchy":[
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1259354155,
-    "wof:lastmodified":1566638315,
+    "wof:lastmodified":1706240482,
     "wof:name":"El Nith",
     "wof:parent_id":102078509,
     "wof:placetype":"locality",
@@ -65,7 +70,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293361545
+    ],
     "wof:tags":[]
 },
   "bbox": [

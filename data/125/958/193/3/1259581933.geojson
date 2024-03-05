@@ -40,6 +40,7 @@
         "Samuel Le\u00f3n"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3520007
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3816876
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"bdab78beb8a5e50dd32ccc4e3e6c9e50",
@@ -62,13 +68,17 @@
         }
     ],
     "wof:id":1259581933,
-    "wof:lastmodified":1566638433,
+    "wof:lastmodified":1706240485,
     "wof:name":"Doctor Samuel Leon Brindis",
     "wof:parent_id":102075737,
     "wof:placetype":"locality",
+    "wof:population":647,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343559093
+    ],
     "wof:tags":[]
 },
   "bbox": [

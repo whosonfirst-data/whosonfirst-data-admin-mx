@@ -38,6 +38,7 @@
         "Ixhuapa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,8 +49,13 @@
     "wof:concordances":{
         "gn:id":3526716
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3823921
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"d3e9a689386ef68cbb46ef61bab4ac4b",
+    "wof:geomhash":"3c2d66e4894666508b69db84240c4f99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,20 +66,24 @@
         }
     ],
     "wof:id":1326476197,
-    "wof:lastmodified":1566614338,
+    "wof:lastmodified":1706240527,
     "wof:name":"Ixhuapan",
     "wof:parent_id":102077389,
     "wof:placetype":"locality",
+    "wof:population":1356,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344116557
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -94.87698,
-    18.01392000000001,
+    18.01392,
     -94.87698,
-    18.01392000000001
+    18.01392
 ],
-  "geometry": {"coordinates":[-94.87698,18.01392000000001],"type":"Point"}
+  "geometry": {"coordinates":[-94.87698,18.01392],"type":"Point"}
 }

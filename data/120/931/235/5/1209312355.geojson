@@ -37,12 +37,18 @@
         "La Nueva Esperanza"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9531556
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8869499
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a52be4b9ca9538e07caa6bf40e7652a5",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209312355,
-    "wof:lastmodified":1566625176,
+    "wof:lastmodified":1706240431,
     "wof:name":"La Nueva Esperanza",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327226851
+    ],
     "wof:tags":[]
 },
   "bbox": [

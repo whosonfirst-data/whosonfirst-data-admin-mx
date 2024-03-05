@@ -9,8 +9,23 @@
     "geom:bbox":"-109.639554,28.761057,-109.6322,28.76597",
     "geom:latitude":28.763264,
     "geom:longitude":-109.63512,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Soyopa",
+    "gn:country_code":"MX",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3982789,
     "gn:id":"3982790,3982789",
+    "gn:latitude":28.76424,
+    "gn:longitude":-109.63453,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Soyopa",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-109.65453,28.74424,-109.61453,28.78424",
     "lbl:latitude":28.763226,
     "lbl:longitude":-109.634758,
     "lbl:max_zoom":18.0,
@@ -92,8 +107,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3982789,
         "gp:id":147846,
-        "wd:id":"Q3844403"
+        "wd:id":"Q3844403",
+        "wk:page":"Soyopa"
     },
     "wof:country":"MX",
     "wof:geomhash":"5c234185b9c9e2557a6fe4e716fc8af1",
@@ -107,13 +124,15 @@
         }
     ],
     "wof:id":101993809,
-    "wof:lastmodified":1690847849,
+    "wof:lastmodified":1706240396,
     "wof:name":"Soyopa",
     "wof:parent_id":102074475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209181457
+    ],
     "wof:tags":[]
 },
   "bbox": [

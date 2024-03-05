@@ -34,6 +34,7 @@
         "Agua Escondida"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4019418
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4019419
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"19e7ea35ea8e8c65aafba41e14187d8b",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1326787495,
-    "wof:lastmodified":1566614373,
+    "wof:lastmodified":1706240529,
     "wof:name":"Agua Escondida",
     "wof:parent_id":102074305,
     "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326898241
+    ],
     "wof:tags":[]
 },
   "bbox": [

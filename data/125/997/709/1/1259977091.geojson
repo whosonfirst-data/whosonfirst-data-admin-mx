@@ -45,6 +45,9 @@
     "name:spa_x_preferred":[
         "Las \u00c1nimas"
     ],
+    "name:spa_x_variant":[
+        "Las \u00c1nimas"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0430\u0441 \u0410\u043d\u0438\u043c\u0430\u0441"
     ],
@@ -63,6 +66,11 @@
     "wof:concordances":{
         "gn:id":3975104
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4000279
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d7ed816c0be026329ac54a4251079d7f",
     "wof:hierarchy":[
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":1259977091,
-    "wof:lastmodified":1566637495,
+    "wof:lastmodified":1706240492,
     "wof:name":"Las Animas",
     "wof:parent_id":102075333,
     "wof:placetype":"locality",
@@ -83,7 +91,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277071967
+    ],
     "wof:tags":[]
 },
   "bbox": [

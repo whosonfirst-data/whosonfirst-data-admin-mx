@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Yodzonot Chico"
+    ],
+    "name:und_x_variant":[
+        "Xdoznot Chico"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8884452
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3822910
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7e7fdc7676f41da69d816825d6d83cd8",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1243523071,
-    "wof:lastmodified":1566634570,
+    "wof:lastmodified":1706240480,
     "wof:name":"Yodzonot Chico",
     "wof:parent_id":102079245,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293547477
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -38,6 +38,7 @@
         "Yogope"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3514233
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8867865
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"918a38d2cb058d26b70ae17f34ef0e11",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1293932999,
-    "wof:lastmodified":1566621411,
+    "wof:lastmodified":1706240519,
     "wof:name":"Santa Margarita Yogopi",
     "wof:parent_id":102077843,
     "wof:placetype":"locality",
+    "wof:population":293,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309751837
+    ],
     "wof:tags":[]
 },
   "bbox": [

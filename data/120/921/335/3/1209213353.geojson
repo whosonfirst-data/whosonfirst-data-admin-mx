@@ -38,12 +38,18 @@
         "El Para\u00edso"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3528517
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8864552
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"697efbc78516844c4222c04501f348cb",
@@ -54,13 +60,17 @@
         }
     ],
     "wof:id":1209213353,
-    "wof:lastmodified":1566627331,
+    "wof:lastmodified":1706240428,
     "wof:name":"Tzajalum",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":423,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293485511
+    ],
     "wof:tags":[]
 },
   "bbox": [

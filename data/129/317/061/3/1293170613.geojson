@@ -34,6 +34,7 @@
         "San M\u00edguel Ca\u00f1adas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3817954
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3827482
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e72df79e0c0ac424f67a9e5bd6bb327d",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1293170613,
-    "wof:lastmodified":1566622215,
+    "wof:lastmodified":1706240512,
     "wof:name":"San Miguel Canadas",
     "wof:parent_id":102074033,
     "wof:placetype":"locality",
+    "wof:population":886,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343533927
+    ],
     "wof:tags":[]
 },
   "bbox": [

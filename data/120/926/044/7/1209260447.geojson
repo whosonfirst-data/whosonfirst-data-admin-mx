@@ -35,12 +35,18 @@
         "Utitl\u00e1n"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3514901
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3824450
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"826f411d6b77855ef78c2dafc51b94bc",
@@ -51,13 +57,17 @@
         }
     ],
     "wof:id":1209260447,
-    "wof:lastmodified":1566627277,
+    "wof:lastmodified":1706240428,
     "wof:name":"Otatitlan",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":1727,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243603425
+    ],
     "wof:tags":[]
 },
   "bbox": [

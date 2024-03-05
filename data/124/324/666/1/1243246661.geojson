@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":4010916
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4016781
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"c15b0082faef8fb18b109c8f07e7fa28",
     "wof:hierarchy":[
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":1243246661,
-    "wof:lastmodified":1566635318,
+    "wof:lastmodified":1706240475,
     "wof:name":"El Bramador",
     "wof:parent_id":102074821,
     "wof:placetype":"locality",
@@ -62,7 +67,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293559675
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -70,6 +70,7 @@
         "La Cumbre"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -79,6 +80,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4002622
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8915060
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fac9d5b1b691381dfd41f9656ec9124c",
@@ -92,13 +98,17 @@
         }
     ],
     "wof:id":1209707687,
-    "wof:lastmodified":1566625946,
+    "wof:lastmodified":1706240439,
     "wof:name":"La Cumbre",
     "wof:parent_id":102075235,
     "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293586633
+    ],
     "wof:tags":[]
 },
   "bbox": [

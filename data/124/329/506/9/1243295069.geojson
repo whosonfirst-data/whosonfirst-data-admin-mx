@@ -36,6 +36,7 @@
         "Tinuncah"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -45,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3515542
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3822595
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c96345e5b7f864813b64fd9299c99e64",
@@ -58,13 +64,17 @@
         }
     ],
     "wof:id":1243295069,
-    "wof:lastmodified":1566636803,
+    "wof:lastmodified":1706240476,
     "wof:name":"Tinuncah",
     "wof:parent_id":102079093,
     "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360014051
+    ],
     "wof:tags":[]
 },
   "bbox": [

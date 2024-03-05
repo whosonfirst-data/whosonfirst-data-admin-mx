@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3988915
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3988914
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"e6c8d41f2e2e6512ac1bfa46c557b8bc",
     "wof:hierarchy":[
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":1242699401,
-    "wof:lastmodified":1566635244,
+    "wof:lastmodified":1706240467,
     "wof:name":"Real de Abajo",
     "wof:parent_id":102075321,
     "wof:placetype":"locality",
@@ -62,7 +67,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276971511
+    ],
     "wof:tags":[]
 },
   "bbox": [

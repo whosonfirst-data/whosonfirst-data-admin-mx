@@ -81,6 +81,11 @@
     "wof:concordances":{
         "gn:id":4001396
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3977573
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"03bb6b1be1eadb094d5f9c7037b62153",
     "wof:hierarchy":[
@@ -93,13 +98,15 @@
         }
     ],
     "wof:id":1226116957,
-    "wof:lastmodified":1566639809,
+    "wof:lastmodified":1706240452,
     "wof:name":"La Mesa",
     "wof:parent_id":102078741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343381429
+    ],
     "wof:tags":[]
 },
   "bbox": [

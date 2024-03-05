@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Juan Bautista Mier"
+    ],
+    "name:und_x_variant":[
+        "San Juan Bautista"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3815327
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3815328
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6dcac406eaf8ac3e209177befe96a049",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1259443587,
-    "wof:lastmodified":1566638866,
+    "wof:lastmodified":1706240483,
     "wof:name":"San Juan Bautista Mier",
     "wof:parent_id":102077899,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309756371
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -36,6 +36,9 @@
     "name:spa_x_preferred":[
         "Hermenegildo Galeana"
     ],
+    "name:und_x_variant":[
+        "El Zapote"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3819010
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3527903
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2610674ceba3b49fc0fb675f08caf15a",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1209273065,
-    "wof:lastmodified":1566627038,
+    "wof:lastmodified":1706240429,
     "wof:name":"Hermenegildo Galeana",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344121007
+    ],
     "wof:tags":[]
 },
   "bbox": [

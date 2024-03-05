@@ -81,6 +81,11 @@
     "wof:concordances":{
         "gn:id":4023167
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4023163
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"53370fcf9e873cd062923d3cf1ad3839",
     "wof:hierarchy":[
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1209802615,
-    "wof:lastmodified":1566627181,
+    "wof:lastmodified":1706240441,
     "wof:name":"Calvillo",
     "wof:parent_id":102077347,
     "wof:placetype":"locality",
@@ -101,7 +106,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1210003979
+    ],
     "wof:tags":[]
 },
   "bbox": [

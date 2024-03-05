@@ -99,6 +99,11 @@
     "wof:concordances":{
         "gn:id":3983750
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3983749
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"dda6b075ac9c71e6ba8672a73a310fe0",
     "wof:hierarchy":[
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":1259340427,
-    "wof:lastmodified":1566638593,
+    "wof:lastmodified":1706240482,
     "wof:name":"Santa Teresa",
     "wof:parent_id":102077157,
     "wof:placetype":"locality",
@@ -119,7 +124,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343329463
+    ],
     "wof:tags":[]
 },
   "bbox": [

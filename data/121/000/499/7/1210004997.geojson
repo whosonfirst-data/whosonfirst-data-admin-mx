@@ -169,6 +169,7 @@
         "Santa Ana"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -178,6 +179,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3992274
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3978975
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2684e07792ff1e879c05fdc08f5e315b",
@@ -191,13 +197,17 @@
         }
     ],
     "wof:id":1210004997,
-    "wof:lastmodified":1636493129,
+    "wof:lastmodified":1706240445,
     "wof:name":"Santa Ana",
     "wof:parent_id":102075211,
     "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259672035
+    ],
     "wof:tags":[]
 },
   "bbox": [

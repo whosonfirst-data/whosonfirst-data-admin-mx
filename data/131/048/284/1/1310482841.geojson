@@ -34,6 +34,7 @@
         "La Cocina"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4002890
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8898948
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"ec2dd2ced7733fa292b4d259dbdb1ab6",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1310482841,
-    "wof:lastmodified":1566629707,
+    "wof:lastmodified":1706240525,
     "wof:name":"La Cocina",
     "wof:parent_id":102074915,
     "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344038881
+    ],
     "wof:tags":[]
 },
   "bbox": [

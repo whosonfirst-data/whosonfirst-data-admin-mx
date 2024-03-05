@@ -104,8 +104,13 @@
     "wof:concordances":{
         "gn:id":3822392
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3822300
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"dc559e31dac794a547b8a2c2f888fe19",
+    "wof:geomhash":"1bca0cea5d83ae99780576ab42e63d06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,20 +121,22 @@
         }
     ],
     "wof:id":1243587013,
-    "wof:lastmodified":1566635998,
+    "wof:lastmodified":1706240481,
     "wof:name":"San Isidro",
     "wof:parent_id":102079111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260013829
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -87.6,
-    21.17917000000001,
+    21.17917,
     -87.6,
-    21.17917000000001
+    21.17917
 ],
-  "geometry": {"coordinates":[-87.59999999999999,21.17917000000001],"type":"Point"}
+  "geometry": {"coordinates":[-87.59999999999999,21.17917],"type":"Point"}
 }

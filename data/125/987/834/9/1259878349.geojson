@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Brasilar"
+    ],
+    "name:spa_x_variant":[
+        "Dolores el Zapote"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8928878
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9625943
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"144a9f2fb32ac03fa801abbd036d8f52",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1259878349,
-    "wof:lastmodified":1566638633,
+    "wof:lastmodified":1706240491,
     "wof:name":"Dolores el Zapote",
     "wof:parent_id":102075499,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293285553
+    ],
     "wof:tags":[]
 },
   "bbox": [

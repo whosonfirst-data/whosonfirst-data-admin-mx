@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Say\u00e1huachi"
+    ],
+    "name:spa_x_variant":[
+        "Bacabochi"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8896771
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8995997
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"1800f076ac1ae5e9ccf968b22c925c76",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1293198139,
-    "wof:lastmodified":1566622264,
+    "wof:lastmodified":1706240512,
     "wof:name":"Bacabochi",
     "wof:parent_id":102075307,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343283583
+    ],
     "wof:tags":[]
 },
   "bbox": [

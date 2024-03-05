@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-103.00083,21.71472,-103.00083,21.71472",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Los Garc\u00eda"
@@ -57,14 +59,16 @@
         }
     ],
     "wof:id":1293638131,
-    "wof:lastmodified":1566620257,
+    "wof:lastmodified":1706240427,
     "wof:name":"Los Garcia",
     "wof:parent_id":102075449,
     "wof:placetype":"locality",
     "wof:population":49,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209173143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

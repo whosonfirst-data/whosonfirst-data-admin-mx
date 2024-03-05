@@ -14,6 +14,7 @@
     "gn:asciiname":"La Mancornada",
     "gn:country_code":"MX",
     "gn:dem":744,
+    "gn:elevation":"750.0",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":3801869,
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3801869
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9179115
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f0c0f711e5673e247b0d70f8f89c71f7",
     "wof:hierarchy":[
@@ -59,13 +65,15 @@
         }
     ],
     "wof:id":1260141703,
-    "wof:lastmodified":1566628732,
+    "wof:lastmodified":1706240493,
     "wof:name":"La Mancornada",
     "wof:parent_id":102076517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310575217
+    ],
     "wof:tags":[]
 },
   "bbox": [

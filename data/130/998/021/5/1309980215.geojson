@@ -38,6 +38,7 @@
         "El Zapotal"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3801644
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3801956
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"873a03428cc5349bae1df6dd3709e824",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1309980215,
-    "wof:lastmodified":1566632939,
+    "wof:lastmodified":1706240521,
     "wof:name":"Cajon de Piedra",
     "wof:parent_id":102077065,
     "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327298467
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "El Realito"
+    ],
+    "name:und_x_variant":[
+        "Rancho El Realito"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -42,8 +48,13 @@
     "wof:concordances":{
         "gn:id":8906531
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4008114
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"0df4557df6522fd3dcc36d2116aaa660",
+    "wof:geomhash":"47c2323bac4a881a42a52ca760c5f965",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1260238425,
-    "wof:lastmodified":1566628552,
+    "wof:lastmodified":1706240495,
     "wof:name":"El Realito",
     "wof:parent_id":102074323,
     "wof:placetype":"locality",
@@ -62,14 +73,16 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344124655
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -108.67976000000002,
+    -108.67976,
     26.37571,
-    -108.67976000000002,
+    -108.67976,
     26.37571
 ],
-  "geometry": {"coordinates":[-108.67976000000002,26.37571],"type":"Point"}
+  "geometry": {"coordinates":[-108.67976,26.37571],"type":"Point"}
 }

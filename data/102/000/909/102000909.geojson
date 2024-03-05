@@ -9,8 +9,23 @@
     "geom:bbox":"-103.336172,25.635677,-103.317927,25.645436",
     "geom:latitude":25.640649,
     "geom:longitude":-103.327567,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"El Cambio",
+    "gn:country_code":"MX",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3977506,
     "gn:id":"3977506,4010787",
+    "gn:latitude":25.64048,
+    "gn:longitude":-103.3271,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"El Cambio",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-103.3471,25.62048,-103.3071,25.66048",
     "lbl:latitude":25.640542,
     "lbl:longitude":-103.328476,
     "lbl:max_zoom":18.0,
@@ -66,6 +81,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3977506,
         "gp:id":119373,
         "wd:id":"Q5350871"
     },
@@ -81,13 +97,15 @@
         }
     ],
     "wof:id":102000909,
-    "wof:lastmodified":1690846900,
+    "wof:lastmodified":1706240415,
     "wof:name":"El Cambio",
     "wof:parent_id":102078793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293779639
+    ],
     "wof:tags":[]
 },
   "bbox": [

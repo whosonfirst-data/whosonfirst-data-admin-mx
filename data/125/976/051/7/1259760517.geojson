@@ -10,6 +10,7 @@
     "geom:latitude":20.82123,
     "geom:longitude":-102.05994,
     "gn:admin1_code":"11",
+    "gn:admin2_code":"25.0",
     "gn:asciiname":"La Trinidad",
     "gn:country_code":"MX",
     "gn:dem":1876,
@@ -54,6 +55,7 @@
         "La Trinidad"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -63,6 +65,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3998950
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8874870
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e24d1df3d34c0d9b0317ec7183594bd8",
@@ -76,13 +83,17 @@
         }
     ],
     "wof:id":1259760517,
-    "wof:lastmodified":1566638095,
+    "wof:lastmodified":1706240488,
     "wof:name":"La Trinidad",
     "wof:parent_id":102077261,
     "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360272587
+    ],
     "wof:tags":[]
 },
   "bbox": [

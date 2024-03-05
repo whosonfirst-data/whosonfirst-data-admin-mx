@@ -34,6 +34,7 @@
         "El Carrizo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,8 +45,13 @@
     "wof:concordances":{
         "gn:id":4010574
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8902022
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"b00f16943b6e290756688862f7b170fb",
+    "wof:geomhash":"d4ede289da0d3100089bef0632561791",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +62,24 @@
         }
     ],
     "wof:id":1260151139,
-    "wof:lastmodified":1566628624,
+    "wof:lastmodified":1706240494,
     "wof:name":"El Carrizo",
     "wof:parent_id":102074861,
     "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344040501
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -103.22137,
-    19.02292000000001,
+    19.02292,
     -103.22137,
-    19.02292000000001
+    19.02292
 ],
-  "geometry": {"coordinates":[-103.22136999999999,19.02292000000001],"type":"Point"}
+  "geometry": {"coordinates":[-103.22136999999999,19.02292],"type":"Point"}
 }

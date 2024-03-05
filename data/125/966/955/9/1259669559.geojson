@@ -10,6 +10,7 @@
     "geom:latitude":25.74141,
     "geom:longitude":-103.33456,
     "gn:admin1_code":"7",
+    "gn:admin2_code":"7.0",
     "gn:asciiname":"El Retono",
     "gn:country_code":"MX",
     "gn:dem":1120,
@@ -33,6 +34,7 @@
         "El Reto\u00f1o"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3977507
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4007933
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8086086915f2de27401f5a56c87c5a73",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1259669559,
-    "wof:lastmodified":1566638230,
+    "wof:lastmodified":1706240486,
     "wof:name":"El Retono",
     "wof:parent_id":102075131,
     "wof:placetype":"locality",
+    "wof:population":274,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276967557
+    ],
     "wof:tags":[]
 },
   "bbox": [

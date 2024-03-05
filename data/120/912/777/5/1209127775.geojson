@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":4009002
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8747593
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"4e6b41ea54fa40a31ee7f8bb619170d6",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209127775,
-    "wof:lastmodified":1566626069,
+    "wof:lastmodified":1706240426,
     "wof:name":"El Nogal",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293122609
+    ],
     "wof:tags":[]
 },
   "bbox": [

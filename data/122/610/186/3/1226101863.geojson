@@ -201,6 +201,11 @@
     "wof:concordances":{
         "gn:id":8724181
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8724177
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"b010aacd6f7aeae8ac779aaa5026c716",
     "wof:hierarchy":[
@@ -213,7 +218,7 @@
         }
     ],
     "wof:id":1226101863,
-    "wof:lastmodified":1636494144,
+    "wof:lastmodified":1706240452,
     "wof:name":"La Palma",
     "wof:parent_id":102077731,
     "wof:placetype":"locality",
@@ -221,7 +226,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259529199
+    ],
     "wof:tags":[]
 },
   "bbox": [

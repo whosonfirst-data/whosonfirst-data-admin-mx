@@ -33,7 +33,11 @@
     "name:spa_x_preferred":[
         "San Pedro Toxin"
     ],
+    "name:und_x_variant":[
+        "San Pedro Tox\u00edn"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3985004
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8861769
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e549882347de0497a80ff0308e7e6f91",
@@ -56,13 +65,17 @@
         }
     ],
     "wof:id":1225926907,
-    "wof:lastmodified":1566639142,
+    "wof:lastmodified":1706240448,
     "wof:name":"San Pedro Toxin",
     "wof:parent_id":102074873,
     "wof:placetype":"locality",
+    "wof:population":644,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309682805
+    ],
     "wof:tags":[]
 },
   "bbox": [

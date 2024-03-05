@@ -9,8 +9,23 @@
     "geom:bbox":"-101.805695,27.041053,-101.785302,27.06123",
     "geom:latitude":27.050672,
     "geom:longitude":-101.795281,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Lamadrid",
+    "gn:country_code":"MX",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3977698,
     "gn:id":"3977698,4001519",
+    "gn:latitude":27.05087,
+    "gn:longitude":-101.79552,
+    "gn:modification_date":"2018-05-28",
+    "gn:name":"Lamadrid",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-101.81552,27.03087,-101.77552,27.07087",
     "lbl:latitude":27.051058,
     "lbl:longitude":-101.795071,
     "lbl:max_zoom":18.0,
@@ -71,8 +86,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3977698,
         "gp:id":129925,
-        "wd:id":"Q6480770"
+        "wd:id":"Q6480770",
+        "wk:page":"Lamadrid"
     },
     "wof:country":"MX",
     "wof:geomhash":"362a2637d99cad578eacdfa6480f2599",
@@ -86,13 +103,15 @@
         }
     ],
     "wof:id":102000917,
-    "wof:lastmodified":1690846951,
+    "wof:lastmodified":1706240415,
     "wof:name":"Lamadrid",
     "wof:parent_id":102078839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1210002375
+    ],
     "wof:tags":[]
 },
   "bbox": [

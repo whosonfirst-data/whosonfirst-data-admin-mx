@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Hoyos de V\u00e1zquez"
+    ],
     "name:und_x_variant":[
         "Hoyos de V\u00e1zquez"
     ],
@@ -45,6 +48,11 @@
     "wof:concordances":{
         "gn:id":8882923
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3826871
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"9a0492c1c9afbf551023049ae07f8c06",
     "wof:hierarchy":[
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1243037847,
-    "wof:lastmodified":1566635779,
+    "wof:lastmodified":1706240472,
     "wof:name":"Hoyos de Vazquez",
     "wof:parent_id":102074051,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344030567
+    ],
     "wof:tags":[]
 },
   "bbox": [

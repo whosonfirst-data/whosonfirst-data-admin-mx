@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3995861
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3988472
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"e8456122100346a17896a3c0d05f2c4b",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243160601,
-    "wof:lastmodified":1566636837,
+    "wof:lastmodified":1706240474,
     "wof:name":"Roman Arreola",
     "wof:parent_id":102075163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326808729
+    ],
     "wof:tags":[]
 },
   "bbox": [

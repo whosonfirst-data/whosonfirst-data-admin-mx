@@ -9,7 +9,22 @@
     "geom:bbox":"-109.665889,26.972117,-109.643979,26.995242",
     "geom:latitude":26.984643,
     "geom:longitude":-109.655827,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Bacobampo",
+    "gn:country_code":"MX",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8770088,
+    "gn:latitude":26.98278,
+    "gn:longitude":-109.65194,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Bacobampo",
+    "gn:population":8539,
+    "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-109.67194,26.96278,-109.63194,27.00278",
     "lbl:latitude":26.985156,
     "lbl:longitude":-109.654525,
     "lbl:max_zoom":18.0,
@@ -56,6 +71,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,6 +83,11 @@
         "gn:id":4017354,
         "gp:id":55885937,
         "wd:id":"Q20227740"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8770088
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2c704e592bb21f59442367107f451d93",
@@ -80,13 +101,17 @@
         }
     ],
     "wof:id":101993953,
-    "wof:lastmodified":1690847805,
+    "wof:lastmodified":1706240396,
     "wof:name":"Bacobampo",
     "wof:parent_id":102074343,
     "wof:placetype":"locality",
+    "wof:population":8539,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327182067
+    ],
     "wof:tags":[]
 },
   "bbox": [

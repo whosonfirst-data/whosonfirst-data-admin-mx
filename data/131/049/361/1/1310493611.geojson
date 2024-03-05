@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-107.75021,27.83214,-107.75021,27.83214",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":8925236
     },
     "wof:country":"MX",
-    "wof:geomhash":"a1e392a2033dd511fe444381f51076ad",
+    "wof:geomhash":"e5d3a8976562cb5fc98425ddce544573",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1310493611,
-    "wof:lastmodified":1566629826,
+    "wof:lastmodified":1706240437,
     "wof:name":"Recayna",
     "wof:parent_id":102075307,
     "wof:placetype":"locality",
     "wof:population":8,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209607151
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -107.75021,
-    27.83214000000001,
+    27.83214,
     -107.75021,
-    27.83214000000001
+    27.83214
 ],
-  "geometry": {"coordinates":[-107.75021,27.83214000000001],"type":"Point"}
+  "geometry": {"coordinates":[-107.75021,27.83214],"type":"Point"}
 }

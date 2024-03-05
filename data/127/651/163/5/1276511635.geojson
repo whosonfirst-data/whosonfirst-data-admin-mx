@@ -33,6 +33,10 @@
     "name:spa_x_preferred":[
         "Yucu\u00f1uti de Benito Ju\u00e1rez"
     ],
+    "name:und_x_variant":[
+        "Yucuquini",
+        "Yucu\u00f1uti de Benito Ju\u00e1rez"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -45,8 +49,13 @@
     "wof:concordances":{
         "gn:id":3801033
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3514202
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"04774d87ca6885822bc5045b2a11f605",
+    "wof:geomhash":"30e37589ce572ce30ba69d6ff55d9514",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1276511635,
-    "wof:lastmodified":1566623386,
+    "wof:lastmodified":1706240501,
     "wof:name":"Yucunuti de Benito Juarez",
     "wof:parent_id":102076239,
     "wof:placetype":"locality",
@@ -65,14 +74,16 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309770687
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -97.89056,
-    17.63611000000001,
+    17.63611,
     -97.89056,
-    17.63611000000001
+    17.63611
 ],
-  "geometry": {"coordinates":[-97.89055999999999,17.63611000000001],"type":"Point"}
+  "geometry": {"coordinates":[-97.89055999999999,17.63611],"type":"Point"}
 }

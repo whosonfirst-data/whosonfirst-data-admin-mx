@@ -36,7 +36,11 @@
     "name:spa_x_variant":[
         "Muquen"
     ],
+    "name:und_x_variant":[
+        "Muqu\u00e9n"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9628086
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8859087
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"582b837a1938b5da2f02cbcaa267357d",
@@ -59,13 +68,17 @@
         }
     ],
     "wof:id":1242968759,
-    "wof:lastmodified":1566636529,
+    "wof:lastmodified":1706240471,
     "wof:name":"Muquen",
     "wof:parent_id":102075591,
     "wof:placetype":"locality",
+    "wof:population":1480,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293876695
+    ],
     "wof:tags":[]
 },
   "bbox": [

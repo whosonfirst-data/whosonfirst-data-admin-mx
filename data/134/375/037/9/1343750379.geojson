@@ -35,6 +35,7 @@
         "Potrero de Campa"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3992037
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3992038
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"f72d01418fb424e52cf633145c802734",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1343750379,
-    "wof:lastmodified":1566619237,
+    "wof:lastmodified":1706240533,
     "wof:name":"Potrero de Campa",
     "wof:parent_id":102075177,
     "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344235461
+    ],
     "wof:tags":[]
 },
   "bbox": [

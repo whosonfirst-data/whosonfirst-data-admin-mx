@@ -10,6 +10,7 @@
     "geom:latitude":22.0,
     "geom:longitude":-98.46528,
     "gn:admin1_code":"30",
+    "gn:admin2_code":"16.0",
     "gn:asciiname":"Vichinchijol Nuevo",
     "gn:country_code":"MX",
     "gn:dem":19,
@@ -40,6 +41,11 @@
     "wof:concordances":{
         "gn:id":3824155
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3483803
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"b169c0e0b4748ec760856525676630bc",
     "wof:hierarchy":[
@@ -52,13 +58,15 @@
         }
     ],
     "wof:id":1243213301,
-    "wof:lastmodified":1566637015,
+    "wof:lastmodified":1706240474,
     "wof:name":"Vichinchijol Nuevo",
     "wof:parent_id":102077221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360042921
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":11236575
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11236905
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d851edcfeab1acd40031f2514482a1e1",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1293882265,
-    "wof:lastmodified":1566622520,
+    "wof:lastmodified":1706240518,
     "wof:name":"San Nicolas de Bari",
     "wof:parent_id":102075595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343659829
+    ],
     "wof:tags":[]
 },
   "bbox": [

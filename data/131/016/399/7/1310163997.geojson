@@ -38,6 +38,7 @@
         "El Llano"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,8 +49,13 @@
     "wof:concordances":{
         "gn:id":4009405
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8879886
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"cf18fe1c34ec375d6b016fdf46ac5578",
+    "wof:geomhash":"15776821983548f8584711a804b52222",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,20 +66,24 @@
         }
     ],
     "wof:id":1310163997,
-    "wof:lastmodified":1566630635,
+    "wof:lastmodified":1706240522,
     "wof:name":"Llano de la Rochera",
     "wof:parent_id":102077111,
     "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343718213
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -100.55511,
-    20.77207000000001,
+    20.77207,
     -100.55511,
-    20.77207000000001
+    20.77207
 ],
-  "geometry": {"coordinates":[-100.55511,20.77207000000001],"type":"Point"}
+  "geometry": {"coordinates":[-100.55511,20.77207],"type":"Point"}
 }

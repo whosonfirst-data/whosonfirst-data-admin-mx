@@ -97,6 +97,7 @@
         "\u62c9\u5361\u96f7\u62c9"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -106,6 +107,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3530375
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3526073
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e9d00aed2f3c1c2051fc1660481bb446",
@@ -119,13 +125,17 @@
         }
     ],
     "wof:id":1242924359,
-    "wof:lastmodified":1566634971,
+    "wof:lastmodified":1706240470,
     "wof:name":"La Carrera",
     "wof:parent_id":102078961,
     "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343708943
+    ],
     "wof:tags":[]
 },
   "bbox": [

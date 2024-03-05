@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-99.20833,18.86861,-99.20833,18.86861",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,14 +56,16 @@
         }
     ],
     "wof:id":1242837703,
-    "wof:lastmodified":1566636275,
+    "wof:lastmodified":1706240393,
     "wof:name":"Tres de Mayo",
     "wof:parent_id":102074273,
     "wof:placetype":"locality",
     "wof:population":17966,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101993345
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

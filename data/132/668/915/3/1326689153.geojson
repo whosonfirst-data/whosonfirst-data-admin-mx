@@ -35,6 +35,7 @@
         "Apaseo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -44,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4018405
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4018406
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fa14b371e5b7ede9fe9b9e65e06cadf9",
@@ -57,13 +63,17 @@
         }
     ],
     "wof:id":1326689153,
-    "wof:lastmodified":1566613668,
+    "wof:lastmodified":1706240528,
     "wof:name":"Apaseo",
     "wof:parent_id":102075483,
     "wof:placetype":"locality",
+    "wof:population":375,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343899605
+    ],
     "wof:tags":[]
 },
   "bbox": [

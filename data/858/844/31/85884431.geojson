@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
     "geom:area_square_m":316962.092754,
-    "geom:bbox":"-99.1387523387,19.2816627726,-99.1315881586,19.2895367992",
+    "geom:bbox":"-99.138752,19.281663,-99.131588,19.289537",
     "geom:latitude":19.285154,
     "geom:longitude":-99.135273,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.141784,19.278418,-99.131784,19.288418",
     "lbl:latitude":19.283732,
     "lbl:longitude":-99.13674,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:spa_x_preferred":[
         "Amsa"
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Amsa",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":477,
+    "qs_pg:photos_1k":97,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":477,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1136685,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903741,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -69,8 +90,16 @@
         "gp:id":55903741,
         "qs_pg:id":1136685
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55903741
+        ],
+        "qs_pg:id":[
+            1136685
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"40a4c1cc2a15af134879a9efd8e5a9f8",
+    "wof:geomhash":"c1a89ef4c39374ac13a3e3d23bd1306f",
     "wof:hierarchy":[
         {
             "borough_id":890535779,
@@ -95,20 +124,22 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566619588,
+    "wof:lastmodified":1706240380,
     "wof:name":"Amsa",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126108303
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -99.13875233867799,
-    19.28166277261461,
-    -99.13158815862602,
-    19.28953679915375
+    -99.138752,
+    19.281663,
+    -99.131588,
+    19.289537
 ],
-  "geometry": {"coordinates":[[[-99.13391833198233,19.28392456185033],[-99.13434532484297,19.28166277261461],[-99.13650512697495,19.28242549148942],[-99.13787841797489,19.28194052343277],[-99.13852762151674,19.28262830837511],[-99.13811978129905,19.28392456185033],[-99.13875233867799,19.28593502627407],[-99.13650512697495,19.28641119347414],[-99.13513183589995,19.28728416358074],[-99.13158815862602,19.28953679915375],[-99.1317396353237,19.287771518624],[-99.13318421670843,19.28522080000003],[-99.13391833198233,19.28392456185033]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-99.13391799999999,19.283925],[-99.134345,19.281663],[-99.136505,19.282425],[-99.137878,19.281941],[-99.13852799999999,19.282628],[-99.13812,19.283925],[-99.138752,19.285935],[-99.136505,19.286411],[-99.135132,19.287284],[-99.13158799999999,19.289537],[-99.13173999999999,19.287772],[-99.133184,19.285221],[-99.13391799999999,19.283925]]],"type":"Polygon"}
 }

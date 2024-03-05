@@ -37,7 +37,11 @@
         "La Roscorita",
         "La Rascona"
     ],
+    "name:und_x_variant":[
+        "La Asunci\u00f3n Rascona"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3815314
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8889945
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0eaf2e2218bd096b6fa00663941cabad",
@@ -60,13 +69,17 @@
         }
     ],
     "wof:id":1193087303,
-    "wof:lastmodified":1566627772,
+    "wof:lastmodified":1706240420,
     "wof:name":"La Asuncion Rascona",
     "wof:parent_id":102077963,
     "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343322589
+    ],
     "wof:tags":[]
 },
   "bbox": [

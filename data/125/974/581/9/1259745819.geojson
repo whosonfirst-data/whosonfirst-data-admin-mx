@@ -38,6 +38,7 @@
         "Jaltemba"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4004139
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4029041
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"285c56dc7c3d2d1f453252251a1d1639",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1259745819,
-    "wof:lastmodified":1566638729,
+    "wof:lastmodified":1706240487,
     "wof:name":"Jolotemba",
     "wof:parent_id":102074591,
     "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309771727
+    ],
     "wof:tags":[]
 },
   "bbox": [

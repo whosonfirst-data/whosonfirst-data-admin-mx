@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":9980891
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9980909
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"b135cd8153183ac6b2334caa8a536224",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1276278339,
-    "wof:lastmodified":1566623194,
+    "wof:lastmodified":1706240498,
     "wof:name":"Los Gallos",
     "wof:parent_id":102074513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327301149
+    ],
     "wof:tags":[]
 },
   "bbox": [

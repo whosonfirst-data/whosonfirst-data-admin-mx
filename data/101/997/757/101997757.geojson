@@ -9,8 +9,23 @@
     "geom:bbox":"-104.167897,19.8991,-104.157345,19.910629",
     "geom:latitude":19.90544,
     "geom:longitude":-104.162442,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Ejutla",
+    "gn:country_code":"MX",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":4011399,
     "gn:id":"4011399,4011400",
+    "gn:latitude":19.9054,
+    "gn:longitude":-104.16174,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ejutla",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-104.18174,19.8854,-104.14174,19.9254",
     "lbl:latitude":19.905282,
     "lbl:longitude":-104.162867,
     "lbl:max_zoom":18.0,
@@ -65,6 +80,9 @@
     "name:swe_x_preferred":[
         "Ejutla"
     ],
+    "name:vie_x_preferred":[
+        "Ejutla"
+    ],
     "qs:a0":"Mexico",
     "qs:a1":"*Jalisco",
     "qs:a1_lc":"14",
@@ -96,6 +114,11 @@
         "qs_pg:id":180115,
         "wd:id":"Q3845719"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4011399
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -111,13 +134,15 @@
         }
     ],
     "wof:id":101997757,
-    "wof:lastmodified":1690847588,
+    "wof:lastmodified":1706240407,
     "wof:name":"Ejutla",
     "wof:parent_id":102074749,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293275233
+    ],
     "wof:tags":[]
 },
   "bbox": [

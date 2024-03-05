@@ -34,6 +34,7 @@
         "Lechuguillas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3524404
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3824582
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d6d7f3d047fc68a2c5a082dcc7f2a889",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1225893787,
-    "wof:lastmodified":1566640473,
+    "wof:lastmodified":1706240447,
     "wof:name":"Lechuguillas",
     "wof:parent_id":102077801,
     "wof:placetype":"locality",
+    "wof:population":447,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293829753
+    ],
     "wof:tags":[]
 },
   "bbox": [

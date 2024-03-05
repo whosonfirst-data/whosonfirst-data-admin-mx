@@ -34,6 +34,7 @@
         "Huahuasco"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4025611
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8867506
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"fbaa17d08e44d6aebf2429d4121b0100",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1193259665,
-    "wof:lastmodified":1566628084,
+    "wof:lastmodified":1706240423,
     "wof:name":"Huahuasco",
     "wof:parent_id":102074933,
     "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226721783
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,7 @@
         "Quemado"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -52,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3520919
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3530199
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2f6076fd4d3c52ef7cc1c08cb8af1da2",
@@ -65,13 +71,17 @@
         }
     ],
     "wof:id":1277134295,
-    "wof:lastmodified":1566623818,
+    "wof:lastmodified":1706240508,
     "wof:name":"Corral Quemado",
     "wof:parent_id":102077195,
     "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292958355
+    ],
     "wof:tags":[]
 },
   "bbox": [

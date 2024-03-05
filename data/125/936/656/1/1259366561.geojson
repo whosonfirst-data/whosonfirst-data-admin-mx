@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "Naxtney"
     ],
+    "name:und_x_variant":[
+        "Naxtney"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3814014
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3522782
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"db301b7f9293874477fcb0067b5ffe91",
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1259366561,
-    "wof:lastmodified":1566637141,
+    "wof:lastmodified":1706240483,
     "wof:name":"Naxthey",
     "wof:parent_id":102078481,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310572367
+    ],
     "wof:tags":[]
 },
   "bbox": [

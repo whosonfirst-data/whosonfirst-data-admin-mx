@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-106.53331,24.27977,-106.53331,24.27977",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":8927068
     },
     "wof:country":"MX",
-    "wof:geomhash":"f2dcd0b7fcd81837f49f8d7eb0b97b8d",
+    "wof:geomhash":"01efdd25cea0b8259f3b1653309464b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1276181535,
-    "wof:lastmodified":1566623165,
+    "wof:lastmodified":1706240435,
     "wof:name":"La Crosolia",
     "wof:parent_id":102074331,
     "wof:placetype":"locality",
     "wof:population":8,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209570349
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -106.53331,
-    24.27977000000001,
+    24.27977,
     -106.53331,
-    24.27977000000001
+    24.27977
 ],
-  "geometry": {"coordinates":[-106.53331,24.27977000000001],"type":"Point"}
+  "geometry": {"coordinates":[-106.53331,24.27977],"type":"Point"}
 }

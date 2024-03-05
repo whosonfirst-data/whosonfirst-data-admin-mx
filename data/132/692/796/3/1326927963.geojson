@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-106.56124,26.06135,-106.56124,26.06135",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -43,7 +45,7 @@
         "gn:id":8906937
     },
     "wof:country":"MX",
-    "wof:geomhash":"92e3c0eb3f0d6aea63e35ce50ff1a502",
+    "wof:geomhash":"44a240daf4842603bb8198e24fa8107f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,22 +56,24 @@
         }
     ],
     "wof:id":1326927963,
-    "wof:lastmodified":1566613571,
+    "wof:lastmodified":1706240530,
     "wof:name":"El Trigal",
     "wof:parent_id":102075263,
     "wof:placetype":"locality",
     "wof:population":18,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1326827861
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -106.56123999999998,
+    -106.56124,
     26.06135,
-    -106.56123999999998,
+    -106.56124,
     26.06135
 ],
-  "geometry": {"coordinates":[-106.56123999999998,26.06135],"type":"Point"}
+  "geometry": {"coordinates":[-106.56124,26.06135],"type":"Point"}
 }

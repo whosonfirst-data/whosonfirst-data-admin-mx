@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Laguna Escondida"
+    ],
+    "name:spa_x_variant":[
+        "La Laguna"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8861044
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4024711
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"55fce77b7660c05539de434284ab644a",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1326510457,
-    "wof:lastmodified":1566613328,
+    "wof:lastmodified":1706240528,
     "wof:name":"Laguna Escondida",
     "wof:parent_id":102077311,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326910825
+    ],
     "wof:tags":[]
 },
   "bbox": [

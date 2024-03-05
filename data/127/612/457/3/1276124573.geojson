@@ -38,6 +38,7 @@
         "Xcalotakal"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -48,8 +49,13 @@
     "wof:concordances":{
         "gn:id":3514561
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8877134
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"85ac744f696a9f8afc4af6b5e5c379bc",
+    "wof:geomhash":"2aec90d204d78565245e20a089afa55b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,20 +66,24 @@
         }
     ],
     "wof:id":1276124573,
-    "wof:lastmodified":1566624381,
+    "wof:lastmodified":1706240497,
     "wof:name":"Xcalot Akal",
     "wof:parent_id":102079229,
     "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276448899
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -89.81799000000002,
+    -89.81799,
     19.93866,
-    -89.81799000000002,
+    -89.81799,
     19.93866
 ],
-  "geometry": {"coordinates":[-89.81799000000002,19.93866],"type":"Point"}
+  "geometry": {"coordinates":[-89.81798999999999,19.93866],"type":"Point"}
 }

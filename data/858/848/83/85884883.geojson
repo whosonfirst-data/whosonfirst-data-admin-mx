@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
         "Ciudad Bugambilia"
@@ -52,11 +53,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":151582,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Ciudad Bugambilia",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos":90,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":90,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475751,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55909506,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85686603,
         102191575,
@@ -67,6 +87,14 @@
     "wof:concordances":{
         "gp:id":55909506,
         "qs_pg:id":475751
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55909506
+        ],
+        "qs_pg:id":[
+            475751
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -87,13 +115,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147382,
+    "wof:lastmodified":1706240385,
     "wof:name":"Ciudad Bugambilia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126106787
+    ],
     "wof:tags":[]
 },
   "bbox": [

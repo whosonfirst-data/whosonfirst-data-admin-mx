@@ -9,8 +9,22 @@
     "geom:bbox":"-98.27333,17.478794,-98.262311,17.492763",
     "geom:latitude":17.484704,
     "geom:longitude":-98.268705,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Francisco Tlapancingo",
+    "gn:country_code":"MX",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3515388,
     "gn:id":"3800955,3515388",
+    "gn:latitude":17.48465,
+    "gn:longitude":-98.26936,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"San Francisco Tlapancingo",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-98.28936,17.46465,-98.24936,17.50465",
     "lbl:latitude":17.486554,
     "lbl:longitude":-98.269697,
     "lbl:max_zoom":18.0,
@@ -62,6 +76,10 @@
     "name:swe_x_preferred":[
         "San Francisco Tlapancingo"
     ],
+    "name:und_x_variant":[
+        "Tlapancingo",
+        "Tlapacingo"
+    ],
     "name:vie_x_preferred":[
         "San Francisco Tlapancingo"
     ],
@@ -89,6 +107,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3515388,
         "gp:id":149638,
         "wd:id":"Q3889160"
     },
@@ -104,13 +123,15 @@
         }
     ],
     "wof:id":101995333,
-    "wof:lastmodified":1690847720,
+    "wof:lastmodified":1706240401,
     "wof:name":"San Francisco Tlapancingo",
     "wof:parent_id":102076971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310481269
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Rancho El Cigarro",
+        "El Cigarrito",
+        "El Cigarro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -40,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3975786
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4010339
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d87364f44c80f5b9a8826a0ab8d63a88",
@@ -53,13 +63,15 @@
         }
     ],
     "wof:id":1310523101,
-    "wof:lastmodified":1566630207,
+    "wof:lastmodified":1706240526,
     "wof:name":"El Cigarrito",
     "wof:parent_id":102075217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343683453
+    ],
     "wof:tags":[]
 },
   "bbox": [

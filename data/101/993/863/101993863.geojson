@@ -9,8 +9,23 @@
     "geom:bbox":"-111.855332,30.700783,-111.817557,30.72653",
     "geom:latitude":30.715734,
     "geom:longitude":-111.835394,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Altar",
+    "gn:country_code":"MX",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":4018699,
     "gn:id":"4018699,4018700",
+    "gn:latitude":30.71538,
+    "gn:longitude":-111.83703,
+    "gn:modification_date":"2017-11-11",
+    "gn:name":"Altar",
+    "gn:population":0,
+    "gn:timezone":"America/Hermosillo",
     "iso:country":"MX",
+    "lbl:bbox":"-111.85703,30.69538,-111.81703,30.73538",
     "lbl:latitude":30.717435,
     "lbl:longitude":-111.837258,
     "lbl:max_zoom":18.0,
@@ -106,7 +121,13 @@
         "gn:id":4018700,
         "gp:id":111941,
         "qs_pg:id":1294970,
-        "wd:id":"Q434440"
+        "wd:id":"Q434440",
+        "wk:page":"Altar%2C_Sonora"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4018699
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -123,13 +144,15 @@
         }
     ],
     "wof:id":101993863,
-    "wof:lastmodified":1690847855,
+    "wof:lastmodified":1706240396,
     "wof:name":"Altar",
     "wof:parent_id":102074443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344025199
+    ],
     "wof:tags":[]
 },
   "bbox": [

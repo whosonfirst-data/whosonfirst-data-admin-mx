@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3802092
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3802091
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"98d3891473cdeb17cd2126434e157274",
     "wof:hierarchy":[
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1260228255,
-    "wof:lastmodified":1566628750,
+    "wof:lastmodified":1706240495,
     "wof:name":"Aquiles Serdan",
     "wof:parent_id":102075775,
     "wof:placetype":"locality",
@@ -65,7 +70,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326891883
+    ],
     "wof:tags":[]
 },
   "bbox": [

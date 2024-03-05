@@ -38,6 +38,7 @@
         "El Manguito Buenavista"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3816078
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8864924
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"800d221ffb12ba6fdca65270eacef550",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1209708831,
-    "wof:lastmodified":1566625950,
+    "wof:lastmodified":1706240440,
     "wof:name":"El Manguito Buenavista",
     "wof:parent_id":102075747,
     "wof:placetype":"locality",
+    "wof:population":403,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259872733
+    ],
     "wof:tags":[]
 },
   "bbox": [

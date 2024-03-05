@@ -84,6 +84,11 @@
     "wof:concordances":{
         "gn:id":3815033
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3815034
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f7f6a3cab6c17abdca2eca349570d909",
     "wof:hierarchy":[
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":1226092223,
-    "wof:lastmodified":1566641845,
+    "wof:lastmodified":1706240451,
     "wof:name":"El Carmen",
     "wof:parent_id":102077967,
     "wof:placetype":"locality",
@@ -104,7 +109,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260227373
+    ],
     "wof:tags":[]
 },
   "bbox": [

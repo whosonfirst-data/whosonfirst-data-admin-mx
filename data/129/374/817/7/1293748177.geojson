@@ -33,6 +33,10 @@
     "name:spa_x_preferred":[
         "San Crist\u00f3bal Honduras"
     ],
+    "name:und_x_variant":[
+        "Honduras",
+        "San Crist\u00f3bal Honduras"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3800429
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3527074
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d73eb5a889db98f89b6cb80398fbb17d",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293748177,
-    "wof:lastmodified":1566622107,
+    "wof:lastmodified":1706240517,
     "wof:name":"San Cristobal Honduras",
     "wof:parent_id":102076383,
     "wof:placetype":"locality",
@@ -65,7 +74,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293748215
+    ],
     "wof:tags":[]
 },
   "bbox": [

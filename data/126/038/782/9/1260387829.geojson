@@ -10,6 +10,7 @@
     "geom:latitude":16.19636,
     "geom:longitude":-91.33912,
     "gn:admin1_code":"5.0",
+    "gn:admin2_code":"115.0",
     "gn:asciiname":"Las Nubes",
     "gn:country_code":"MX",
     "gn:dem":288,
@@ -33,6 +34,7 @@
         "Las Nubes"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9521483
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8866796
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"af217a09a62045649e6836c8fbe8e2e7",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1260387829,
-    "wof:lastmodified":1566628809,
+    "wof:lastmodified":1706240497,
     "wof:name":"Las Nubes",
     "wof:parent_id":102075505,
     "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310004589
+    ],
     "wof:tags":[]
 },
   "bbox": [

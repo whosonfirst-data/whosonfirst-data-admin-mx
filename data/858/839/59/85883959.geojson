@@ -11,6 +11,7 @@
     "geom:longitude":-99.1604,
     "gn:id":"",
     "iso:country":"MX",
+    "lbl:bbox":"-99.164979,19.429538,-99.154979,19.439538",
     "lbl:latitude":19.440518,
     "lbl:longitude":-99.159123,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "name:bre_x_preferred":[
         "San Rafael"
@@ -133,9 +135,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":116545,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"San Rafael",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Distrito Federal",
+    "qs_pg:photos":1269,
+    "qs_pg:photos_1k":257,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1269,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155336,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55899047,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Distrito Federal",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -150,6 +171,14 @@
     "wof:concordances":{
         "gp:id":55899047,
         "qs_pg:id":1155336
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55899047
+        ],
+        "qs_pg:id":[
+            1155336
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5a62fe703bb95786327d4ee3bfb3f7d7",
@@ -177,13 +206,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1636492434,
+    "wof:lastmodified":1706240372,
     "wof:name":"San Rafael",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126061025
+    ],
     "wof:tags":[]
 },
   "bbox": [

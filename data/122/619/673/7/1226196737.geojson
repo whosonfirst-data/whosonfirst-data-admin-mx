@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-111.3389,28.88497,-111.3389,28.88497",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Centrito"
@@ -49,7 +51,7 @@
         "gn:id":4014846
     },
     "wof:country":"MX",
-    "wof:geomhash":"9b6127876a8d28a95e10d0ac302754f3",
+    "wof:geomhash":"8a086442364bdddab02b5d77584f0e71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1226196737,
-    "wof:lastmodified":1566639456,
+    "wof:lastmodified":1706240445,
     "wof:name":"El Centrito",
     "wof:parent_id":102074513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225799597
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -111.3389,
-    28.88497000000001,
+    28.88497,
     -111.3389,
-    28.88497000000001
+    28.88497
 ],
-  "geometry": {"coordinates":[-111.3389,28.88497000000001],"type":"Point"}
+  "geometry": {"coordinates":[-111.3389,28.88497],"type":"Point"}
 }

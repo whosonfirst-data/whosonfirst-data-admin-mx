@@ -9,9 +9,22 @@
     "geom:bbox":"-100.912802,29.014397,-100.890448,29.044109",
     "geom:latitude":29.028324,
     "geom:longitude":-100.903414,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"MX",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3987473,
     "gn:latitude":29.02844,
     "gn:longitude":-100.90217,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-100.92217,29.00844,-100.88217,29.04844",
     "lbl:latitude":29.027488,
     "lbl:longitude":-100.902651,
     "lbl:max_zoom":18.0,
@@ -156,6 +169,11 @@
         "gp:id":142090,
         "qs_pg:id":148708
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3987473
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -171,13 +189,15 @@
         }
     ],
     "wof:id":102000823,
-    "wof:lastmodified":1636492160,
+    "wof:lastmodified":1706240415,
     "wof:name":"San Carlos",
     "wof:parent_id":102078843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242869839
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -109,6 +109,7 @@
         "\u5723\u585e\u897f\u5229\u4e9a"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -118,6 +119,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3526045
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8928638
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"e5421d6d9adec09eb13de7d7c8c1db90",
@@ -131,13 +137,17 @@
         }
     ],
     "wof:id":1310202791,
-    "wof:lastmodified":1566630543,
+    "wof:lastmodified":1706240523,
     "wof:name":"Santa Cecilia",
     "wof:parent_id":102075737,
     "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310203567
+    ],
     "wof:tags":[]
 },
   "bbox": [

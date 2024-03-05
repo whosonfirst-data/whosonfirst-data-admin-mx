@@ -12,6 +12,7 @@
     "gn:admin1_code":"6",
     "gn:admin2_code":"5.0",
     "gn:asciiname":"La Mota",
+    "gn:cc2":"MX",
     "gn:country_code":"MX",
     "gn:dem":1190,
     "gn:feature_class":"P",
@@ -45,6 +46,11 @@
     "wof:concordances":{
         "gn:id":4001254
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4001255
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"67c5f0057d495cbda16ed5aa95a76dba",
     "wof:hierarchy":[
@@ -57,13 +63,15 @@
         }
     ],
     "wof:id":1193010281,
-    "wof:lastmodified":1566627836,
+    "wof:lastmodified":1706240419,
     "wof:name":"La Mota",
     "wof:parent_id":102075231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326927913
+    ],
     "wof:tags":[]
 },
   "bbox": [

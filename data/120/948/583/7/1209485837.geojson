@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Chiquilist\u00e1n"
+    ],
     "name:und_x_variant":[
         "Chiquilist\u00e1n"
     ],
@@ -42,6 +45,11 @@
     "wof:concordances":{
         "gn:id":8900056
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4014180
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"2ebd21fb25e76647a779f61f1d970afe",
     "wof:hierarchy":[
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":1209485837,
-    "wof:lastmodified":1566625857,
+    "wof:lastmodified":1706240434,
     "wof:name":"Chiquilistan",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -59,7 +67,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259453603
+    ],
     "wof:tags":[]
 },
   "bbox": [

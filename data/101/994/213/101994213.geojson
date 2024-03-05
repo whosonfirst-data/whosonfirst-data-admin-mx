@@ -9,8 +9,23 @@
     "geom:bbox":"-103.925985,29.098772,-103.896079,29.117216",
     "geom:latitude":29.106809,
     "geom:longitude":-103.909881,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Manuel Benavides",
+    "gn:country_code":"MX",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3996682,
     "gn:id":"3987472,3996682",
+    "gn:latitude":29.10722,
+    "gn:longitude":-103.90639,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Manuel Benavides",
+    "gn:population":916,
+    "gn:timezone":"America/Chihuahua",
     "iso:country":"MX",
+    "lbl:bbox":"-103.92639,29.08722,-103.88639,29.12722",
     "lbl:latitude":29.106136,
     "lbl:longitude":-103.908866,
     "lbl:max_zoom":18.0,
@@ -92,6 +107,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -103,7 +119,13 @@
         "gn:id":3987472,
         "gp:id":132907,
         "qs_pg:id":284819,
-        "wd:id":"Q1953046"
+        "wd:id":"Q1953046",
+        "wk:page":"Manuel_Benavides"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3996682
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -120,13 +142,17 @@
         }
     ],
     "wof:id":101994213,
-    "wof:lastmodified":1690847913,
+    "wof:lastmodified":1706240398,
     "wof:name":"Manuel Benavides",
     "wof:parent_id":102075301,
     "wof:placetype":"locality",
+    "wof:population":916,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259604931
+    ],
     "wof:tags":[]
 },
   "bbox": [

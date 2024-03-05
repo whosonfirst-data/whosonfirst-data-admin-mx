@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":3978182
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4020540
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d5e9377e3d230c7e91c1b2cc7d248ea9",
     "wof:hierarchy":[
@@ -50,13 +55,15 @@
         }
     ],
     "wof:id":1209203185,
-    "wof:lastmodified":1566627027,
+    "wof:lastmodified":1706240428,
     "wof:name":"El Camaron",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343537233
+    ],
     "wof:tags":[]
 },
   "bbox": [

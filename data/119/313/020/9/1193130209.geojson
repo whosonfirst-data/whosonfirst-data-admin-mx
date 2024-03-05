@@ -37,6 +37,7 @@
         "El Rosario"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3816519
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8862595
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c2f804499182e5481ad3af17103bc061",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1193130209,
-    "wof:lastmodified":1566628011,
+    "wof:lastmodified":1706240422,
     "wof:name":"Rosario Bawitz",
     "wof:parent_id":102075735,
     "wof:placetype":"locality",
+    "wof:population":556,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327132947
+    ],
     "wof:tags":[]
 },
   "bbox": [

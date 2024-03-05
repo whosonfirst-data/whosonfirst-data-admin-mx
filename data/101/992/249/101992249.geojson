@@ -9,7 +9,22 @@
     "geom:bbox":"-103.172881,21.258177,-103.156495,21.272659",
     "geom:latitude":21.265639,
     "geom:longitude":-103.165153,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Moyahua de Estrada",
+    "gn:country_code":"MX",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3995292,
+    "gn:latitude":21.26658,
+    "gn:longitude":-103.1661,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Moyahua de Estrada",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-103.1861,21.24658,-103.1461,21.28658",
     "lbl:latitude":21.266029,
     "lbl:longitude":-103.166322,
     "lbl:max_zoom":18.0,
@@ -46,6 +61,9 @@
     "name:swe_x_preferred":[
         "Moyahua de Estrada"
     ],
+    "name:und_x_variant":[
+        "Moyahua"
+    ],
     "name:vie_x_preferred":[
         "Moyahua de Estrada"
     ],
@@ -73,6 +91,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3995292,
         "gp:id":134183,
         "wd:id":"Q4299937"
     },
@@ -88,13 +107,15 @@
         }
     ],
     "wof:id":101992249,
-    "wof:lastmodified":1690847788,
+    "wof:lastmodified":1706240390,
     "wof:name":"Moyahua de Estrada",
     "wof:parent_id":102075459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326879007
+    ],
     "wof:tags":[]
 },
   "bbox": [

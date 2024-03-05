@@ -37,12 +37,18 @@
         "Zapote Negro"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9632254
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8928893
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"4fc2e548d139343be59f189636b7df96",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209104747,
-    "wof:lastmodified":1566627452,
+    "wof:lastmodified":1706240426,
     "wof:name":"Zapote Negro",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209912775
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Los Panales"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8884932
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3997354
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"94144fc56c685ec981323a1b8f0ed129",
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":1226525367,
-    "wof:lastmodified":1566641325,
+    "wof:lastmodified":1706240460,
     "wof:name":"Los Panales",
     "wof:parent_id":102074863,
     "wof:placetype":"locality",
@@ -62,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259654251
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Tzaclamant\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Saclamant\u00f3n"
+    ],
     "name:und_x_variant":[
         "Saclamant\u00f3n"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8859243
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9628077
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"22929224c97d873f780d551f737e7951",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1276327039,
-    "wof:lastmodified":1566623580,
+    "wof:lastmodified":1706240499,
     "wof:name":"Saclamanton",
     "wof:parent_id":102075591,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360078207
+    ],
     "wof:tags":[]
 },
   "bbox": [

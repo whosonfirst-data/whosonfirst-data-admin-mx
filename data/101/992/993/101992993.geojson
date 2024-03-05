@@ -9,7 +9,22 @@
     "geom:bbox":"-100.891367,23.686222,-100.88175,23.69664",
     "geom:latitude":23.690616,
     "geom:longitude":-100.887369,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Real de Catorce",
+    "gn:country_code":"MX",
+    "gn:dem":2678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7732683,
+    "gn:latitude":23.68996,
+    "gn:longitude":-100.88676,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Real de Catorce",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-100.90676,23.66996,-100.86676,23.70996",
     "lbl:latitude":23.689656,
     "lbl:longitude":-100.886241,
     "lbl:max_zoom":18.0,
@@ -97,6 +112,14 @@
         "wd:id":"Q1027749",
         "wk:page":"Real de Catorce"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7732683
+        ],
+        "wk:page":[
+            "Real_de_Catorce"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -112,13 +135,15 @@
         }
     ],
     "wof:id":101992993,
-    "wof:lastmodified":1690847781,
+    "wof:lastmodified":1706240392,
     "wof:name":"Real de Catorce",
     "wof:parent_id":102077243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226499967
+    ],
     "wof:tags":[]
 },
   "bbox": [

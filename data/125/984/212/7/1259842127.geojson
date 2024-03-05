@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Santa Maria de Jaltemba"
+    ],
+    "name:spa_x_variant":[
+        "Santa Maria Jaltemba"
+    ],
     "name:und_x_variant":[
         "Santa Mar\u00eda de Jaltemba"
     ],
@@ -45,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8887865
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3984068
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"c36ddd0cee38f6f3fa27a49c8c99d16e",
     "wof:hierarchy":[
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1259842127,
-    "wof:lastmodified":1566637806,
+    "wof:lastmodified":1706240490,
     "wof:name":"Santa Maria de Jaltemba",
     "wof:parent_id":102074585,
     "wof:placetype":"locality",
@@ -65,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309768745
+    ],
     "wof:tags":[]
 },
   "bbox": [

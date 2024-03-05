@@ -38,6 +38,7 @@
         "Jeric\u00f3"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3981153
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4023384
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"355bdf26aff46b04d9b202cf8f4b7455",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1259770487,
-    "wof:lastmodified":1566637709,
+    "wof:lastmodified":1706240488,
     "wof:name":"Jerico de Trancas",
     "wof:parent_id":102077357,
     "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327414137
+    ],
     "wof:tags":[]
 },
   "bbox": [

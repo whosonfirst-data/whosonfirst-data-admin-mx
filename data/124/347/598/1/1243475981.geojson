@@ -30,6 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Palo Redondo"
+    ],
+    "name:spa_x_variant":[
+        "La Laja Colorada"
+    ],
+    "name:und_x_variant":[
+        "Rancho Palo Redondo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8883051
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3993623
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5ab00f057f23b52fc399ab951d2f50eb",
@@ -54,7 +68,7 @@
         }
     ],
     "wof:id":1243475981,
-    "wof:lastmodified":1566635514,
+    "wof:lastmodified":1706240479,
     "wof:name":"La Laja Colorada",
     "wof:parent_id":102075263,
     "wof:placetype":"locality",
@@ -62,7 +76,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293122509
+    ],
     "wof:tags":[]
 },
   "bbox": [

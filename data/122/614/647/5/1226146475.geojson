@@ -93,6 +93,11 @@
     "wof:concordances":{
         "gn:id":4021357
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3986637
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"ae0f9dba7e1f17319e9c8ddae6a7efcf",
     "wof:hierarchy":[
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":1226146475,
-    "wof:lastmodified":1566640742,
+    "wof:lastmodified":1706240453,
     "wof:name":"San Jacinto",
     "wof:parent_id":102077369,
     "wof:placetype":"locality",
@@ -113,7 +118,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259796851
+    ],
     "wof:tags":[]
 },
   "bbox": [

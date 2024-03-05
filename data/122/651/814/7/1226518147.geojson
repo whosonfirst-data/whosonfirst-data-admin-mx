@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Saycota"
+    ],
+    "name:und_x_variant":[
+        "Saycona"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4020619
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3983219
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b9a450210e84c28eb271c7896e01c427",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226518147,
-    "wof:lastmodified":1566639982,
+    "wof:lastmodified":1706240460,
     "wof:name":"Saycota",
     "wof:parent_id":102074549,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343337619
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Pangola"
+    ],
+    "name:spa_x_variant":[
+        "Juan de la Cabada Vera"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8864941
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3821214
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8e68f3bf21562612b7f1bccd904d6ff4",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1243454219,
-    "wof:lastmodified":1566636920,
+    "wof:lastmodified":1706240479,
     "wof:name":"Juan de la Cabada Vera",
     "wof:parent_id":102079211,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259903359
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Yutosil"
+    ],
+    "name:spa_x_variant":[
+        "Yut Osil Uno"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8870820
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9628091
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b0b4150b23af4f64499c74d5b59ce135",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226335301,
-    "wof:lastmodified":1566639861,
+    "wof:lastmodified":1706240457,
     "wof:name":"Yut Osil Uno",
     "wof:parent_id":102075591,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310198089
+    ],
     "wof:tags":[]
 },
   "bbox": [

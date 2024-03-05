@@ -33,7 +33,11 @@
     "name:spa_x_preferred":[
         "Rancho Nuevo"
     ],
+    "name:spa_x_variant":[
+        "San Enrique"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8728066
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8728068
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"000c7e59c714974cb5c4ed4c399a00c3",
@@ -56,13 +65,17 @@
         }
     ],
     "wof:id":1277034553,
-    "wof:lastmodified":1566624032,
+    "wof:lastmodified":1706240507,
     "wof:name":"Rancho Nuevo",
     "wof:parent_id":102078667,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343707505
+    ],
     "wof:tags":[]
 },
   "bbox": [

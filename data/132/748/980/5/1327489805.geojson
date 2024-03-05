@@ -37,6 +37,7 @@
         "Crucitas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3825829
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8888920
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"b6aab18b51146c525693aadcfb65589c",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1327489805,
-    "wof:lastmodified":1566614016,
+    "wof:lastmodified":1706240532,
     "wof:name":"Las Crucitas",
     "wof:parent_id":102077101,
     "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360153391
+    ],
     "wof:tags":[]
 },
   "bbox": [

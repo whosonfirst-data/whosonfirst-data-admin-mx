@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "La Selva"
     ],
+    "name:spa_x_preferred":[
+        "La Selva"
+    ],
     "name:srp_x_preferred":[
         "La Selva"
     ],
@@ -54,6 +57,11 @@
     "wof:concordances":{
         "gn:id":8940044
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9623522
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"f2130643c0baba2051e037d72a256d3e",
     "wof:hierarchy":[
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":1243547501,
-    "wof:lastmodified":1566634434,
+    "wof:lastmodified":1706240481,
     "wof:name":"La Selva",
     "wof:parent_id":102075657,
     "wof:placetype":"locality",
@@ -74,7 +82,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309799087
+    ],
     "wof:tags":[]
 },
   "bbox": [

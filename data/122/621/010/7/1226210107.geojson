@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Tequehuale"
+    ],
+    "name:und_x_variant":[
+        "Tetoguali"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8916242
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3981732
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"eee93f4e83a2608789e151fc5b9109a8",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1226210107,
-    "wof:lastmodified":1566639437,
+    "wof:lastmodified":1706240455,
     "wof:name":"Tequehuale",
     "wof:parent_id":102074305,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243220739
+    ],
     "wof:tags":[]
 },
   "bbox": [

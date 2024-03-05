@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 del Cerrito de Camargo"
+    ],
+    "name:spa_x_variant":[
+        "Cerritos",
+        "Cerrito de Camargo"
+    ],
     "name:und_x_variant":[
         "San Jos\u00e9 del Cerrito de Camargo"
     ],
@@ -45,6 +52,11 @@
     "wof:concordances":{
         "gn:id":8858728
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4024025
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"eb3c2b6e3a0e163ba21340e0d73cc933",
     "wof:hierarchy":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1276214005,
-    "wof:lastmodified":1566622929,
+    "wof:lastmodified":1706240498,
     "wof:name":"San Jose del Cerrito de Camargo",
     "wof:parent_id":102077351,
     "wof:placetype":"locality",
@@ -65,7 +77,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293763983
+    ],
     "wof:tags":[]
 },
   "bbox": [

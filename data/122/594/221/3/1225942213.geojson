@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "La Ubeca"
+    ],
+    "name:spa_x_variant":[
+        "Lubeca"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8885883
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9532433
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0144c01628c9b9e628be80df8af4b9f3",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1225942213,
-    "wof:lastmodified":1566639039,
+    "wof:lastmodified":1706240449,
     "wof:name":"Lubeca",
     "wof:parent_id":102075727,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293382975
+    ],
     "wof:tags":[]
 },
   "bbox": [

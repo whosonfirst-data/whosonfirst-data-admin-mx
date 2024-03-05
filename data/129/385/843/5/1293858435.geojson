@@ -33,6 +33,9 @@
     "name:spa_x_preferred":[
         "El Consuelo"
     ],
+    "name:und_x_variant":[
+        "Rancho El Consuelo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3791818
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3529106
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0349025a76fb079755ab90475ae225c0",
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":1293858435,
-    "wof:lastmodified":1566620762,
+    "wof:lastmodified":1706240518,
     "wof:name":"El Consuelo",
     "wof:parent_id":102078727,
     "wof:placetype":"locality",
@@ -65,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310080161
+    ],
     "wof:tags":[]
 },
   "bbox": [

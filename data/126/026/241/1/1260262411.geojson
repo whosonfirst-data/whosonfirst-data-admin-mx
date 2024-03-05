@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Quiahuitlatzala"
+    ],
+    "name:und_x_variant":[
+        "Quiahuitlazala",
+        "Quihuitlatzala"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8866504
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3520899
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"bfe5a525670d0b5b36a5318de8f5c376",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1260262411,
-    "wof:lastmodified":1566629238,
+    "wof:lastmodified":1706240496,
     "wof:name":"Quiahuitlatzala",
     "wof:parent_id":102073859,
     "wof:placetype":"locality",
@@ -62,7 +74,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293476329
+    ],
     "wof:tags":[]
 },
   "bbox": [

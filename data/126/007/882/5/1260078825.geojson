@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-92.84889,16.97361,-92.84889,16.97361",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Chuchilt\u00f3n Anexo Potobtic Dos"
@@ -57,14 +59,16 @@
         }
     ],
     "wof:id":1260078825,
-    "wof:lastmodified":1566628863,
+    "wof:lastmodified":1706240424,
     "wof:name":"Chuchilton Anexo Potobtic Dos",
     "wof:parent_id":102075739,
     "wof:placetype":"locality",
     "wof:population":947,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193274251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

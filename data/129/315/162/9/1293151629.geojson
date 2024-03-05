@@ -58,6 +58,7 @@
         "Las Margaritas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -67,6 +68,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8685584
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8685586
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"446e9eb055cddb59b72b35e710ea53ff",
@@ -80,13 +86,17 @@
         }
     ],
     "wof:id":1293151629,
-    "wof:lastmodified":1566620721,
+    "wof:lastmodified":1706240511,
     "wof:name":"Las Margaritas",
     "wof:parent_id":102078911,
     "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293831019
+    ],
     "wof:tags":[]
 },
   "bbox": [

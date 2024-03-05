@@ -9,10 +9,22 @@
     "geom:bbox":"-100.521856,27.006026,-100.491435,27.043351",
     "geom:latitude":27.0243,
     "geom:longitude":-100.507582,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Lampazos de Naranjo",
+    "gn:country_code":"MX",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":4001240,
     "gn:latitude":27.02549,
     "gn:longitude":-100.50528,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Lampazos de Naranjo",
     "gn:population":5104,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-100.52528,27.00549,-100.48528,27.04549",
     "lbl:latitude":27.025495,
     "lbl:longitude":-100.507355,
     "lbl:max_zoom":15.0,
@@ -91,7 +103,15 @@
         "wk:page":"Lampazos, Nuevo Le\u00f3n"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":910215
+        "gn:id":[
+            4001240
+        ],
+        "qs_pg:id":[
+            910215
+        ],
+        "wk:page":[
+            "Lampazos_de_Naranjo%2C_Nuevo_Le%C3%B3n"
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -111,7 +131,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690846920,
+    "wof:lastmodified":1706240415,
     "wof:name":"Lampazos de Naranjo",
     "wof:parent_id":102078751,
     "wof:placetype":"locality",
@@ -119,7 +139,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226407313
+    ],
     "wof:tags":[]
 },
   "bbox": [

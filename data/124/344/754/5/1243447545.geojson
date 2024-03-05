@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":11235299
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11234955
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"7b8fd8ebe290dcbb54fc82dadb8166f8",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1243447545,
-    "wof:lastmodified":1566637054,
+    "wof:lastmodified":1706240479,
     "wof:name":"El Bajio",
     "wof:parent_id":102075625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326723519
+    ],
     "wof:tags":[]
 },
   "bbox": [

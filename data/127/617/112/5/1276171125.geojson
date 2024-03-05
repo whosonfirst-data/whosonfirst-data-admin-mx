@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":8700418
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8700430
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"d1e8cbdb04f401663d0aba20315aac34",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1276171125,
-    "wof:lastmodified":1566622912,
+    "wof:lastmodified":1706240497,
     "wof:name":"El Chijol",
     "wof:parent_id":102078895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343323185
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -33,6 +33,10 @@
     "name:spa_x_preferred":[
         "San Jos\u00e9 de Cuatro Caminos"
     ],
+    "name:und_x_variant":[
+        "San Jos\u00e9 de Cuatro Caminos",
+        "Cuatro Caminos"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4022493
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4012425
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d7a141745645a41d3256f46efd3bb748",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1242739779,
-    "wof:lastmodified":1566634700,
+    "wof:lastmodified":1706240467,
     "wof:name":"San Jose de Cuatro Caminos",
     "wof:parent_id":102078743,
     "wof:placetype":"locality",
@@ -65,7 +74,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259558153
+    ],
     "wof:tags":[]
 },
   "bbox": [

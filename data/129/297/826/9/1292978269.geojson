@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Sauz Seco"
+    ],
+    "name:spa_x_variant":[
+        "El Sauz"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8880855
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4007547
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"d973df2102cf8eb192385ee5a65f2f09",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1292978269,
-    "wof:lastmodified":1566621701,
+    "wof:lastmodified":1706240509,
     "wof:name":"Sauz Seco",
     "wof:parent_id":102077349,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293666479
+    ],
     "wof:tags":[]
 },
   "bbox": [

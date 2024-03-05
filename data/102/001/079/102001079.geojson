@@ -9,9 +9,22 @@
     "geom:bbox":"-99.558373,23.292503,-99.54231,23.31494",
     "geom:latitude":23.303521,
     "geom:longitude":-99.549486,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Palmillas",
+    "gn:country_code":"MX",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3522087,
     "gn:latitude":23.30225,
     "gn:longitude":-99.54896,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Palmillas",
+    "gn:population":0,
+    "gn:timezone":"America/Monterrey",
     "iso:country":"MX",
+    "lbl:bbox":"-99.56896,23.28225,-99.52896,23.32225",
     "lbl:latitude":23.303651,
     "lbl:longitude":-99.550294,
     "lbl:max_zoom":18.0,
@@ -108,6 +121,14 @@
         "wd:id":"Q3849863",
         "wk:page":"Palmillas"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3522087
+        ],
+        "wk:page":[
+            "Palmillas"
+        ]
+    },
     "wof:country":"MX",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -126,13 +147,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690846961,
+    "wof:lastmodified":1706240416,
     "wof:name":"Palmillas",
     "wof:parent_id":102078935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343723197
+    ],
     "wof:tags":[]
 },
   "bbox": [

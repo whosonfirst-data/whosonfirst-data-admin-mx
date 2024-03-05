@@ -9,7 +9,22 @@
     "geom:bbox":"-109.951356,22.92628,-109.937914,22.949452",
     "geom:latitude":22.941249,
     "geom:longitude":-109.945157,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Las Palmas",
+    "gn:country_code":"MX",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8858141,
+    "gn:latitude":22.93672,
+    "gn:longitude":-109.94235,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Las Palmas",
+    "gn:population":11562,
+    "gn:timezone":"America/Mazatlan",
     "iso:country":"MX",
+    "lbl:bbox":"-109.96235,22.91672,-109.92235,22.95672",
     "lbl:latitude":22.941774,
     "lbl:longitude":-109.945058,
     "lbl:max_zoom":18.0,
@@ -127,6 +142,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -138,6 +154,11 @@
         "gn:id":3999450,
         "gp:id":130718,
         "qs_pg:id":474888
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8858141
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -154,13 +175,17 @@
         }
     ],
     "wof:id":101993441,
-    "wof:lastmodified":1636493548,
+    "wof:lastmodified":1706240394,
     "wof:name":"Las Palmas",
     "wof:parent_id":102074525,
     "wof:placetype":"locality",
+    "wof:population":11562,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293488851
+    ],
     "wof:tags":[]
 },
   "bbox": [

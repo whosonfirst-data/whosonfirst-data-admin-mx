@@ -36,7 +36,11 @@
     "name:spa_x_variant":[
         "L\u00e1zaro C\u00e1rdenas"
     ],
+    "name:und_x_variant":[
+        "L\u00e1zaro C\u00e1rdenas"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9532199
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8867255
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"5481a5af3c5483907c3223148ef19fce",
@@ -59,13 +68,17 @@
         }
     ],
     "wof:id":1209912731,
-    "wof:lastmodified":1566625377,
+    "wof:lastmodified":1706240443,
     "wof:name":"Lazaro Cardenas",
     "wof:parent_id":102075683,
     "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226746091
+    ],
     "wof:tags":[]
 },
   "bbox": [

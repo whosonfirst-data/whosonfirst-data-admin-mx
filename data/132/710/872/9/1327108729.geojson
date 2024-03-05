@@ -38,6 +38,7 @@
         "Aguaje Pila"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -47,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3533224
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8897008
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8c695caf0193359b1a16cbac2b68b52f",
@@ -60,13 +66,17 @@
         }
     ],
     "wof:id":1327108729,
-    "wof:lastmodified":1566614999,
+    "wof:lastmodified":1706240531,
     "wof:name":"Arroyo Pila",
     "wof:parent_id":102076333,
     "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360059485
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,10 @@
     "name:spa_x_preferred":[
         "Ignacio Manuel Altamirano Segunda Secci\u00f3n"
     ],
+    "name:spa_x_variant":[
+        "Ignacio Manuel Altamirano",
+        "Segunda Secc\u00edon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11425829
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11425185
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"0c8882bff4fe3c47bba175e477751d72",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1327295261,
-    "wof:lastmodified":1566615151,
+    "wof:lastmodified":1706240532,
     "wof:name":"Ignacio Manuel Altamirano Segunda Seccion",
     "wof:parent_id":102075801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344118223
+    ],
     "wof:tags":[]
 },
   "bbox": [

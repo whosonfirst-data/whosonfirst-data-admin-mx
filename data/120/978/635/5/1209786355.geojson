@@ -34,6 +34,7 @@
         "Playa Colorada"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3992321
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8885345
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"6c55c5d2baed6eea3e6c9c3e6e886c9c",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1209786355,
-    "wof:lastmodified":1566626138,
+    "wof:lastmodified":1706240441,
     "wof:name":"Playa Colorada",
     "wof:parent_id":102074871,
     "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242946385
+    ],
     "wof:tags":[]
 },
   "bbox": [

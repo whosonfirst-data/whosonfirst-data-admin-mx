@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Tinajuelas"
+    ],
+    "name:und_x_variant":[
+        "Rancho Tinajuelas"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8934436
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3981522
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9dff6c6ab3f9658fc25789f1b4048fd7",
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":1243150593,
-    "wof:lastmodified":1566635415,
+    "wof:lastmodified":1706240474,
     "wof:name":"Tinajuelas",
     "wof:parent_id":102075195,
     "wof:placetype":"locality",
@@ -62,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309894221
+    ],
     "wof:tags":[]
 },
   "bbox": [

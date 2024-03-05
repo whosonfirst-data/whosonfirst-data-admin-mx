@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":4007410
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4028276
+        ]
+    },
     "wof:country":"MX",
     "wof:geomhash":"dd360d9e2c85308c9e27281fca22f8ac",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1193268255,
-    "wof:lastmodified":1566628480,
+    "wof:lastmodified":1706240423,
     "wof:name":"El Tamarindo",
     "wof:parent_id":102074527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293091087
+    ],
     "wof:tags":[]
 },
   "bbox": [

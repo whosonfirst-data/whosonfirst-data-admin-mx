@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
         "Playa Del Carmen Centro"
@@ -53,11 +54,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":136973,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Playa Del Carmen Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Quintana Roo",
+    "qs_pg:photos":9673,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":43,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":9673,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":242169,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55883266,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Quintana Roo",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85686711,
         102191575,
@@ -69,6 +89,14 @@
     "wof:concordances":{
         "gp:id":55883266,
         "qs_pg:id":242169
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55883266
+        ],
+        "qs_pg:id":[
+            242169
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -89,13 +117,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582147386,
+    "wof:lastmodified":1706240356,
     "wof:name":"Playa Del Carmen Centro",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126068099
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-102.06028,20.82111,-102.06028,20.82111",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Trinidad"
@@ -75,14 +77,16 @@
         }
     ],
     "wof:id":1360272587,
-    "wof:lastmodified":1566631859,
+    "wof:lastmodified":1706240488,
     "wof:name":"La Trinidad",
     "wof:parent_id":102077261,
     "wof:placetype":"locality",
     "wof:population":159,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259760517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

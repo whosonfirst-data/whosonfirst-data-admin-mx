@@ -9,7 +9,22 @@
     "geom:bbox":"-101.519449,19.890736,-101.494182,19.907536",
     "geom:latitude":19.898605,
     "geom:longitude":-101.506942,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"37.0",
+    "gn:asciiname":"Huaniqueo de Morales",
+    "gn:country_code":"MX",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":4004686,
+    "gn:latitude":19.89682,
+    "gn:longitude":-101.5045,
+    "gn:modification_date":"2016-03-31",
+    "gn:name":"Huaniqueo de Morales",
+    "gn:population":0,
+    "gn:timezone":"America/Mexico_City",
     "iso:country":"MX",
+    "lbl:bbox":"-101.5245,19.87682,-101.4845,19.91682",
     "lbl:latitude":19.898789,
     "lbl:longitude":-101.506748,
     "lbl:max_zoom":18.0,
@@ -58,6 +73,10 @@
     "name:swe_x_preferred":[
         "Huaniqueo"
     ],
+    "name:und_x_variant":[
+        "Huaniqueo",
+        "Huaniqueo de Morales"
+    ],
     "name:vec_x_preferred":[
         "Huaniqueo"
     ],
@@ -97,7 +116,12 @@
         "wd:id":"Q20290648"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1191366
+        "gn:id":[
+            4004686
+        ],
+        "qs_pg:id":[
+            1191366
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -117,13 +141,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690847566,
+    "wof:lastmodified":1706240406,
     "wof:name":"Huaniqueo de Morales",
     "wof:parent_id":102075041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259764503
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,12 +37,18 @@
         "El Llano de San Francisco"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         85633293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3825666
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8872200
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"a26b6dc7a6511ccbcd2b6225a40dd296",
@@ -53,13 +59,17 @@
         }
     ],
     "wof:id":1209182791,
-    "wof:lastmodified":1566627106,
+    "wof:lastmodified":1706240427,
     "wof:name":"Llano de San Francisco",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293657965
+    ],
     "wof:tags":[]
 },
   "bbox": [

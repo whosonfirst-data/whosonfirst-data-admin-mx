@@ -37,6 +37,7 @@
         "Nachauc"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9628008
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8861361
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c4a5c59438e1a8b4343cf8c787db1670",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1276439729,
-    "wof:lastmodified":1566622822,
+    "wof:lastmodified":1706240500,
     "wof:name":"Nachauc",
     "wof:parent_id":102075591,
     "wof:placetype":"locality",
+    "wof:population":694,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292899061
+    ],
     "wof:tags":[]
 },
   "bbox": [

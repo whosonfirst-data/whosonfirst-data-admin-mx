@@ -34,6 +34,7 @@
         "Tecocoy"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8728395
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8728389
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"25f7c40025b279fe8507d61796df5fc6",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1259939831,
-    "wof:lastmodified":1566638369,
+    "wof:lastmodified":1706240491,
     "wof:name":"Tecocoy",
     "wof:parent_id":102078667,
     "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276387805
+    ],
     "wof:tags":[]
 },
   "bbox": [

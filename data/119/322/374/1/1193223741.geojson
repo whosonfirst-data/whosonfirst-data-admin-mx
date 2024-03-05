@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Encanto N\u00famero Dos"
+    ],
+    "name:spa_x_variant":[
+        "Marcela"
+    ],
     "name:und_x_variant":[
         "Encanto N\u00famero Dos"
     ],
@@ -45,8 +51,13 @@
     "wof:concordances":{
         "gn:id":8896190
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3825213
+        ]
+    },
     "wof:country":"MX",
-    "wof:geomhash":"72c2e0dba54c7afec665e8818f46e770",
+    "wof:geomhash":"e998d316f3da6d541202b48ab3e31862",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":1193223741,
-    "wof:lastmodified":1566628058,
+    "wof:lastmodified":1706240422,
     "wof:name":"Encanto Numero Dos",
     "wof:parent_id":102077697,
     "wof:placetype":"locality",
@@ -65,14 +76,16 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209564705
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -94.90389,
-    17.63611000000001,
+    17.63611,
     -94.90389,
-    17.63611000000001
+    17.63611
 ],
-  "geometry": {"coordinates":[-94.90389,17.63611000000001],"type":"Point"}
+  "geometry": {"coordinates":[-94.90389,17.63611],"type":"Point"}
 }

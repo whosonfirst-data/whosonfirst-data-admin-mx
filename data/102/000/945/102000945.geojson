@@ -11,6 +11,7 @@
     "geom:longitude":-100.854753,
     "gn:id":"4018761,3977900",
     "iso:country":"MX",
+    "lbl:bbox":"-100.869978884,28.3099878123,-100.829978884,28.3499878123",
     "lbl:latitude":28.344194,
     "lbl:longitude":-100.853054,
     "lbl:max_zoom":18.0,
@@ -199,6 +200,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
     "qs:a0":"Mexico",
     "qs:a1":"*Coahuila de Zaragoza",
     "qs:a1_lc":"05",
@@ -212,6 +214,8 @@
     "qs:loc":"Allende",
     "qs:pop":0,
     "qs:source":"XMexico IGN",
+    "reversegeo:latitude":28.329988,
+    "reversegeo:longitude":-100.849979,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -226,6 +230,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "wd:id":"Q2448272"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q2448272"
+        ]
     },
     "wof:country":"MX",
     "wof:geom_alt":[
@@ -242,13 +251,15 @@
         }
     ],
     "wof:id":102000945,
-    "wof:lastmodified":1690846949,
+    "wof:lastmodified":1706240415,
     "wof:name":"Allende",
     "wof:parent_id":102078867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141906477
+    ],
     "wof:tags":[]
 },
   "bbox": [

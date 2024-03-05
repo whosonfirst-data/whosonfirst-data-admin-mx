@@ -10,6 +10,7 @@
     "geom:latitude":24.37584,
     "geom:longitude":-100.8959,
     "gn:admin1_code":"24",
+    "gn:admin2_code":"41.0",
     "gn:asciiname":"Clavellinas",
     "gn:country_code":"MX",
     "gn:dem":1832,
@@ -33,6 +34,7 @@
         "Clavellinas"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -42,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3973417
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4013692
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"c1c3a324005ea9012d690c4d9db5169c",
@@ -55,13 +62,17 @@
         }
     ],
     "wof:id":1225802687,
-    "wof:lastmodified":1566640510,
+    "wof:lastmodified":1706240445,
     "wof:name":"Clavellinas",
     "wof:parent_id":102075371,
     "wof:placetype":"locality",
+    "wof:population":312,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260021201
+    ],
     "wof:tags":[]
 },
   "bbox": [

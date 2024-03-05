@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:spa_x_preferred":[
+        "Corralejo de Arriba"
+    ],
+    "name:spa_x_variant":[
+        "Canalejo"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -38,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8859872
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4015709
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"7692c35154a95e25c29012a4edb9c943",
@@ -48,7 +59,7 @@
         }
     ],
     "wof:id":1209595765,
-    "wof:lastmodified":1566626607,
+    "wof:lastmodified":1706240437,
     "wof:name":"Corralejo de Arriba",
     "wof:parent_id":85633293,
     "wof:placetype":"locality",
@@ -56,7 +67,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209693293
+    ],
     "wof:tags":[]
 },
   "bbox": [

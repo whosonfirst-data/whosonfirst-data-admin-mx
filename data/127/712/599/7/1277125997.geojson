@@ -51,6 +51,9 @@
     "name:spa_x_preferred":[
         "Jacinta"
     ],
+    "name:und_x_variant":[
+        "Jag\u00fcey Jacinta"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -62,6 +65,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3824224
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3526634
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"9dcf5947b9ff127aa7aa8eb5ed7b5e9d",
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":1277125997,
-    "wof:lastmodified":1566623923,
+    "wof:lastmodified":1706240508,
     "wof:name":"Jacinta",
     "wof:parent_id":102077645,
     "wof:placetype":"locality",
@@ -83,7 +91,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293439253
+    ],
     "wof:tags":[]
 },
   "bbox": [

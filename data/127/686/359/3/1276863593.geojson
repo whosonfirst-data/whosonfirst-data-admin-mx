@@ -55,6 +55,7 @@
         "Rancho La Joya"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -64,6 +65,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4001817
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8905889
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"8af3e78a2d58136b40b407ec94dc2457",
@@ -77,13 +83,17 @@
         }
     ],
     "wof:id":1276863593,
-    "wof:lastmodified":1566622657,
+    "wof:lastmodified":1706240505,
     "wof:name":"La Joya",
     "wof:parent_id":102075307,
     "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310027367
+    ],
     "wof:tags":[]
 },
   "bbox": [

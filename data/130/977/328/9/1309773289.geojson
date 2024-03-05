@@ -37,6 +37,7 @@
         "Cejagui"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -46,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3970568
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8757671
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"97699d669c07c888eb3f4304a915fcbb",
@@ -59,13 +65,17 @@
         }
     ],
     "wof:id":1309773289,
-    "wof:lastmodified":1566633170,
+    "wof:lastmodified":1706240520,
     "wof:name":"Sejaqui",
     "wof:parent_id":102074447,
     "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343508943
+    ],
     "wof:tags":[]
 },
   "bbox": [

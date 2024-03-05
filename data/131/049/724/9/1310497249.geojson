@@ -40,6 +40,7 @@
         "Rancho La Candelaria"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -49,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4003170
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3977414
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"2bb7ce453e9df0b6dc37a5687f56ca03",
@@ -62,13 +68,17 @@
         }
     ],
     "wof:id":1310497249,
-    "wof:lastmodified":1566629825,
+    "wof:lastmodified":1706240525,
     "wof:name":"La Candelaria de los Yeguales",
     "wof:parent_id":102078791,
     "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344052713
+    ],
     "wof:tags":[]
 },
   "bbox": [

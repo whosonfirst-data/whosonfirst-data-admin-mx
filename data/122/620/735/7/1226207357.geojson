@@ -34,6 +34,7 @@
         "Charco Blanco"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191575,
         85633293,
@@ -43,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3531097
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3531098
+        ]
     },
     "wof:country":"MX",
     "wof:geomhash":"13a2bb5ab1efc54efd13b361c56b9501",
@@ -56,13 +62,17 @@
         }
     ],
     "wof:id":1226207357,
-    "wof:lastmodified":1566639718,
+    "wof:lastmodified":1706240454,
     "wof:name":"Charco Blanco",
     "wof:parent_id":102078737,
     "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343819809
+    ],
     "wof:tags":[]
 },
   "bbox": [
