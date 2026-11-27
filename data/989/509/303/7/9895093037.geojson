@@ -1,0 +1,75 @@
+{
+  "id": 9895093037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.18778,25.62944,-100.18778,25.62944",
+    "geom:latitude":25.62944,
+    "geom:longitude":-100.18778,
+    "gn:population":53742,
+    "iso:country":"MX",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8858088: name \"Jardines de la Silla\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8858088"
+        },
+        {
+            "citation":"GeoNames populated place 8858088: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8858088"
+        },
+        {
+            "citation":"GeoNames populated place 8858088: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8858088"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102078677 (Ju\u00e1rez), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633293,
+        85686681,
+        102078677,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8858088
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"a517637c4d80c400bd35630ae534eb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078677,
+            "locality_id":9895093037,
+            "region_id":85686681
+        }
+    ],
+    "wof:id":9895093037,
+    "wof:lastmodified":1795747434,
+    "wof:name":"Jardines de la Silla",
+    "wof:parent_id":102078677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.18778,
+    25.62944,
+    -100.18778,
+    25.62944
+],
+  "geometry": {"coordinates":[-100.18778,25.62944],"type":"Point"}
+}
